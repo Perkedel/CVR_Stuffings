@@ -35,6 +35,10 @@ Ensure to detach the GUID if you'd like to make new variant of these prefabs.
 
 ~~We are no longer able to find his Gumroad whatsoever. However worry not, because we have claimed those items before these disappearances. Further creation shall use these items yoinked or the reuploads. Only things we worry are the other files that may have not been claimed, who knows.~~ We found it https://dippythefoxderg.gumroad.com/ . Please refer to these files for more informations.
 
+- https://dippythefoxderg.gumroad.com/l/DippyPushButt Button SFX
+- https://dippythefoxderg.gumroad.com/l/DippyDipSauce Dip Sauce
+- https://dippythefoxderg.gumroad.com/l/DippyAdStand Advertisement Stand
+
 ## Sauces
 
 - https://youtu.be/tnPS_l-1N94?si=ZHS3yb_UwXq7o8Bd how to prop
@@ -53,3 +57,12 @@ Ensure to detach the GUID if you'd like to make new variant of these prefabs.
 - https://www.nirsoft.net/ Nir Sofer's softwares full of utilities
 - https://launcher.nirsoft.net/ Nirsoft launcher. Password listed on that website `nirsoft9876$`. It's like that because agressive antivirus would sus it without it.
 - https://dippythefoxderg.gumroad.com/ Dippy's objects
+- Incoming Howard the Alien
+- https://vrcmods.com/item?id=3060
+- https://www.youtube.com/watch?v=3E56N7si8XQ This
+- https://mega.nz/file/sbB0BSpS#1uHZ-Y_5PN16RM6llg61THgkaSc-bEC8kKtZRUFOT28 was gone. That's the original 3D AL's Howard model.
+- https://skfb.ly/6BJGR This remake one is terrible! I'd be honest with you
+- https://skfb.ly/6Csn7 So we have to extract the file
+- https://web.archive.org/web/20231031134535/https://mega.nz/file/sbB0BSpS#1uHZ-Y_5PN16RM6llg61THgkaSc-bEC8kKtZRUFOT28 Archive hates MEGA
+- https://steamcommunity.com/sharedfiles/filedetails/?id=1622701252 and there is no time without contemplating that vast files have been gone, even beyond say, Heimdall's seeings
+- End Howard the Alien
