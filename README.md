@@ -8,6 +8,19 @@ This repository contains everything made by us for a VR based social media, Chil
 
 Everything here shall be uploaded & available for all gamers to contribute right to amend, modify, and add more stuffs. As well as to fork & build their own project upon. No part as all as possible be closed to an exclusive access. All gamers deserves.
 
+## Setup
+
+- Install CCK https://developers.abinteractive.net/cck/setup/ . Download the CCK & open up `DiceGlow` project with `Unity 2021.3.23f1` (**the version must be exactly as told by ABI!!**). Once you have downloaded it, simply drag the `.unitypackage` file into the editor. Add all files to it, **and DO NOT MOVE OR EDIT ANY OF THE FILE IN THAT FOLDER!!**
+- Look around.
+- Start developing & Contribute. You only need this project for all objects.
+
+## Uploading
+
+- In the top bar menu, `Alpha Blend Interactive`, `Control Panel`. Log in with your username & ABI Creation Kit access key.
+- Open up some Scene containing `GameObject` that has CVR Asset components. The CCK will detect all objects that has this components.
+- Click *Upload* of which object you'd like to upload.
+-  
+ 
 ## UUIDs
 
 ### Avatars
