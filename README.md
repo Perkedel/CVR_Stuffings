@@ -23,6 +23,11 @@ Everything here shall be uploaded & available for all gamers to contribute right
 - 2796a410-02e1-4fcc-b7d8-d58f31b354c1 Wahaha Dice GIANT 1000
 - e8da5752-5216-4bfe-a3ae-3c87d8ac9ca7 Wahaha Dice micro 1
 - ed1fe55e-c63a-4119-9fc2-caa9933cf6aa Ehehe Dice
+- c5482fb7-620f-42b0-ab84-afc8210a7a5a Ehehe Dice Scale 50
+- 5a5a3265-a1e7-469b-83f3-d83e8800cb02 Ehehe Dice Scale 25
+- 04ea5304-11c2-4244-98f1-7676a656da9e Ehehe Dice Scale 5
+- b06c91e7-989f-4685-8819-875b666093cf Ehehe Dice GIANT 1000
+- ca2e8dfb-3d35-42ad-8f22-bf839f732308 Ehehe Dice micro 1
 - c7a0bd47-3ece-485f-a994-d3eddbc2b4c1 Anjay Button
 
 ## Additional Info
