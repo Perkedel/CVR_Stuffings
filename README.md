@@ -22,6 +22,18 @@ Everything here shall be uploaded & available for all gamers to contribute right
 - fa51c676-05bb-41c3-aa41-68941f9fb2a7 Wahaha Dice Scale 5
 - 2796a410-02e1-4fcc-b7d8-d58f31b354c1 Wahaha Dice GIANT 1000
 - e8da5752-5216-4bfe-a3ae-3c87d8ac9ca7 Wahaha Dice micro 1
+- ed1fe55e-c63a-4119-9fc2-caa9933cf6aa Ehehe Dice
+- c7a0bd47-3ece-485f-a994-d3eddbc2b4c1 Anjay Button
+
+## Additional Info
+
+### GUID
+
+Ensure to detach the GUID if you'd like to make new variant of these prefabs.
+
+### Dippy's Unity Packages ~~GONE 404~~ EXISTS
+
+~~We are no longer able to find his Gumroad whatsoever. However worry not, because we have claimed those items before these disappearances. Further creation shall use these items yoinked or the reuploads. Only things we worry are the other files that may have not been claimed, who knows.~~ We found it https://dippythefoxderg.gumroad.com/ . Please refer to these files for more informations.
 
 ## Sauces
 
@@ -37,3 +49,7 @@ Everything here shall be uploaded & available for all gamers to contribute right
 - https://youtu.be/_i2GiYA1Fug?si=ymhNp4meG97M_s4q local test world
 - https://youtu.be/OatATrRSO2A?si=Ix0zOX2F8w2Qx0fU how to World
 - https://youtu.be/GOslhH_mlwg?si=B18KD2Tp4XA5sCfY how to upload
+- https://youtu.be/XMfqNyvXMfo?si=zs0C4IvfSoulH6H1 ANJAAAAAAAY...
+- https://www.nirsoft.net/ Nir Sofer's softwares full of utilities
+- https://launcher.nirsoft.net/ Nirsoft launcher. Password listed on that website `nirsoft9876$`. It's like that because agressive antivirus would sus it without it.
+- https://dippythefoxderg.gumroad.com/ Dippy's objects
