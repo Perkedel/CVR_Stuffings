@@ -8,18 +8,32 @@ This repository contains everything made by us for a VR based social media, Chil
 
 Everything here shall be uploaded & available for all gamers to contribute right to amend, modify, and add more stuffs. As well as to fork & build their own project upon. No part as all as possible be closed to an exclusive access. All gamers deserves.
 
-## Setup
+## Instructions
+
+### Installation Setup
 
 - Install CCK https://developers.abinteractive.net/cck/setup/ . Download the CCK & open up `DiceGlow` project with `Unity 2021.3.23f1` (**the version must be exactly as told by ABI!!**). Once you have downloaded it, simply drag the `.unitypackage` file into the editor. Add all files to it, **and DO NOT MOVE OR EDIT ANY OF THE FILE IN THAT FOLDER!!**
+- Install other assets that are not included here. The refered assets are listed in sections below.
 - Look around.
 - Start developing & Contribute. You only need this project for all objects.
 
-## Uploading
+### Uploading
 
 - In the top bar menu, `Alpha Blend Interactive`, `Control Panel`. Log in with your username & ABI Creation Kit access key.
 - Open up some Scene containing `GameObject` that has CVR Asset components. The CCK will detect all objects that has this components.
 - Click *Upload* of which object you'd like to upload.
--  
+- Corectly Fill the tags, title, description, changelog, thumbnail, legal, etc.
+- Proceed upload.
+
+## List of Not Included Assets
+
+Below are assets that are not included and must be installed prior of usage and developments. There are name, Sauce URL, reason, and optionally hash of each package file.
+
+- CCK https://developers.abinteractive.net/cck/setup/ . Space saving. 
+- Magica Cloth . Paywalled
+- Glenskunk's Cartoon Heart . Paywalled
+- Heartbeat connector . Paywalled
+- Car Module . Paywalled
  
 ## UUIDs
 
