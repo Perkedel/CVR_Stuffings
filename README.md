@@ -29,17 +29,27 @@ Everything here shall be uploaded & available for all gamers to contribute right
 
 Below are assets that are not included and must be installed prior of usage and developments. There are name, Sauce URL, reason, and optionally hash of each package file.
 
-- CCK https://developers.abinteractive.net/cck/setup/ . Space saving. 
-- Magica Cloth . Paywalled
-- Glenskunk's Cartoon Heart . Paywalled
+- CCK https://developers.abinteractive.net/cck/setup/ . Space saving, common module. 
+- [Magica Cloth 1](https://assetstore.unity.com/packages/tools/physics/magica-cloth-160144) & [2 the sequel](https://assetstore.unity.com/packages/tools/physics/magica-cloth-2-242307). Paywalled
+- Glenskunk's [Cartoon Heart](https://glenskunk.gumroad.com/l/toonheartforVR?layout=profile) & [rest of them](https://glenskunk.gumroad.com/) ([alt](https://jinxxy.com/GlenSkunk?jc=c52ec67a13d09e3c89aaddcb76f108d62e2d254afe4fa1477865)). Paywalled
 - Heartbeat connector . Paywalled
 - Car Module . Paywalled
+- [Fluff's VRC Avatar Toolbox](https://fluffs.gumroad.com/l/flufftoolbox). Paywalled
+- [Fluff's VRC2CVR](https://fluffs.gumroad.com/l/flufftoolbox). Space Saving
+- ~~[Narazaka's VRC2CVR-YA](https://github.com/Narazaka/VRC2CVR). Space Saving~~ ~~Included, so small!~~ No longer works
  
 ## UUIDs
 
 ### Avatars
 
 ### Worlds
+
+- 6b1b8855-9196-4e21-a418-f52a862651af SFW DiceGlow Test Area
+- ?? NSFW CornSyrup Test Area
+- 3fe2b7c3-129a-418e-87ad-c3931657f843 (**NOT PERKEDEL**) UCC Cinema. MilchZocker
+- af0f00bc-0702-46ce-9441-bcce0ad6c813 (**NOT PERKEDEL**) UCC Avatars. MilchZocker
+- 9d0677a5-b88f-4994-901b-7b91c99e8cd8 (**NOT PERKEDEL**) UCC Bird Island. MilchZocker
+- bc8f15fa-8f6b-42b5-8096-8b3058345e98 (**NOT PERKEDEL**) UCC Hub. MilchZocker
 
 ### Props
 
@@ -63,6 +73,22 @@ Below are assets that are not included and must be installed prior of usage and 
 
 Ensure to detach the GUID if you'd like to make new variant of these prefabs.
 
+For employee: **DO NOT LOSE THE GUID!! MAKE SURE IT IS STILL ATTACHED, & IS SAME MATCH WITH THE PAGE IT UPLOADED TO!**
+
+### Are these done by Realizer division?
+
+Not officially. Although some Realizer members had involved, still it was done by serveral other volunteers at Perkedel Technologies who worked with this in their free time.
+
+Due to different settings and goal with the game engine CVR used, There is no dedicated division handling content creation for this social media. So, Ricitello, **PECK YOU!!**
+
+### Weren't you supposed to make your own Godot social media?
+
+Creating social media on its own is huge responsibilities. It is not a simple hassle and burdens to take. While the server will be as neutral as possible & dev themselves may not, these days, neutrality is a necessity. Or let's say, **siding a necessity**, in which **it is required to ban people on certain opinion sets** in favour of bigger threats that must be obeyed, in order to legally operate, among other things.
+
+Although, VR Sandbox can still be possible, **BUT** without the social media capability. It won't be GodotChat. **Meja** (Open Source Tabletop simulator clone). More like industrial physics simulation framework.
+
+This **Kantor 369 Meja** is one that will officially be built by Realizers. Later.
+
 ### Dippy's Unity Packages ~~GONE 404~~ EXISTS
 
 ~~We are no longer able to find his Gumroad whatsoever. However worry not, because we have claimed those items before these disappearances. Further creation shall use these items yoinked or the reuploads. Only things we worry are the other files that may have not been claimed, who knows.~~ We found it https://dippythefoxderg.gumroad.com/ . Please refer to these files for more informations.
@@ -70,6 +96,42 @@ Ensure to detach the GUID if you'd like to make new variant of these prefabs.
 - https://dippythefoxderg.gumroad.com/l/DippyPushButt Button SFX
 - https://dippythefoxderg.gumroad.com/l/DippyDipSauce Dip Sauce
 - https://dippythefoxderg.gumroad.com/l/DippyAdStand Advertisement Stand
+
+## Commissions
+
+Below are available commissions. The status, name, and optional cost to get out of procrastinations
+
+Ready to Inquire? Contact `JOELwindows7`, Discord. **Use below DM prefix!**
+
+### (INACTIVE) Props 0/20, US$5 + `assets_cost`/Service
+
+DM Prefix = `PLS_CVR_PROP`
+
+Port this 3D assets OR Pre-Propped GameObject contraption into CVR
+
+### (INACTIVE) Avatars 0/10, US$10 + `assets_cost`/Service
+
+DM Prefix = `PLS_CVR_AVATAR`
+
+Port this avatar assets OR Pre-Avatared Armature into CVR
+
+### (INACTIVE) World 0/5, US$20 + `assets_cost`/Service
+
+DM Prefix = `PLS_CVR_WORLD`
+
+Port this Prefabbed Scene into CVR
+
+### Rules
+
+- All models will be included in the repo and will be shared.
+- Think 10 times before doing this commission
+- Sparsdat the Assets: **NOT ACCEPTING YET**, status may change one time.
+  - `NO` = Sparsdated assets nor Paywalled assets to be sparsdated will be rejected
+  - `YES` = Sparsdated assets and/or Paywalled assets to be sparsdated will be accepted like normal service
+  - Protolocer Probability as of 2024 for span 2000-2100 = 99.999% towards `NO`. Note = `Copyright Infringement is obvious mistake`.
+  - Goned assets will still be included as per Perkedel's Archive Policy.
+- Paywalled Assets: **NOT ACCEPTED**, No exclusive gift allowed, all gamers must be able to freely download.
+- Free, unpaid commission / request may have have long procrastinations. Engage unrefundable donation in how much to our Ko-fi https://ko-fi.com/joelwindows7 to remove this procrastination, with message of case number. If you accidentally paid under, simply repay the rest, OR wait for little bit / partially boosted service to finish.
 
 ## Sauces
 
@@ -97,4 +159,18 @@ Ensure to detach the GUID if you'd like to make new variant of these prefabs.
 - https://skfb.ly/6Csn7 So we have to extract the file
 - https://web.archive.org/web/20231031134535/https://mega.nz/file/sbB0BSpS#1uHZ-Y_5PN16RM6llg61THgkaSc-bEC8kKtZRUFOT28 Archive hates MEGA
 - https://steamcommunity.com/sharedfiles/filedetails/?id=1622701252 and there is no time without contemplating that vast files have been gone, even beyond say, Heimdall's seeings
+- https://odysee.com/@X0P1R4T3-33NSVREENMNT-0FFICIAL:f/howard-the-alien-fbx:3 Here ungoned Howard the Alien
 - End Howard the Alien
+- https://fluffs.gumroad.com/l/sdk3-to-cck convert Avatar VRC to CVR
+- https://github.com/Narazaka/VRC2CVR Convert Avatar VRC to CVR YA!
+- https://fluffs.gumroad.com/l/VRCDynamicBoneToPhysicsBoneConverter Convert VRC PhysBones to & from
+- https://wetcat.gumroad.com/ oh man.. sss. Wrong dude, it's the paywall, what?! next. Wait, get all of $0 ones!
+- https://chilloutvr.eu/ Unofficial ChilloutVR community Discord
+- https://session.chilloutvr.eu/ Forum directory
+- https://session.chilloutvr.eu/ Open Group Room directory
+- https://github.com/ZettaiVR/VRC2CVR
+- https://github.com/imagitama/vrc3cvr
+- https://booth.pm/ja/items/4032295
+- https://github.com/Dreadrith/PhysBone-Converter
+- https://github.com/Markcreator/VRChat-Tools
+- https://github.com/Markcreator/Unity-Tools
