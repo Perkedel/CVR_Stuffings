@@ -83,11 +83,31 @@ Due to different settings and goal with the game engine CVR used, There is no de
 
 ### Weren't you supposed to make your own Godot social media?
 
-Creating social media on its own is huge responsibilities. It is not a simple hassle and burdens to take. While the server will be as neutral as possible & dev themselves may not, these days, neutrality is a necessity. Or let's say, **siding a necessity**, in which **it is required to ban people on certain opinion sets** in favour of bigger threats that must be obeyed, in order to legally operate, among other things.
+Creating social media on its own is huge responsibilities. It is not a simple hassle and burdens to take. While the server (for usual opinions) will be as neutral as possible & dev themselves may not, these days, neutrality is a necessity. Or let's say, **siding a necessity**, in which **it is required to ban people on certain usual opinion sets** in favour of bigger more evil threats that must be obeyed, in order to legally operate, among other things.
 
 Although, VR Sandbox can still be possible, **BUT** without the social media capability. It won't be GodotChat. **Meja** (Open Source Tabletop simulator clone). More like industrial physics simulation framework.
 
 This **Kantor 369 Meja** is one that will officially be built by Realizers. Later.
+
+### Unity?! Don't they will steal your soul?
+
+Fortunately, in desperation, Unity had partially rolled back their new paywallism-partialism agendas. Therefore, only by the new version after 2024, will they succ our soul like Shang Tsung.
+
+Therefore, the version of Unity (`Unity 2021.3.23f1`) used by AlphaBlend Interactive & for these creations of it are **not subject to Neo-Paywall-Partialism / Runtime Fee agenda**. Everyone in this version should be safe, for now. Because if not wrong, these legacy versions shall be supported until spans of 2024. However, we have yet confirmed would Unity impose punishment us gamers who stuck in these legacy version prior to this agenda.
+
+Be knowledgeful also, that ABI already built their software & set goals for long since before. Therefore, to stop and *port* to other engines is not a viable option. This can only be done from scratch with different set of instructions. We shall see further, so stay tuned.
+
+#### Sauces
+
+- https://youtu.be/wyonsFb14zE?si=_59YKO556UHurZJI
+- https://youtu.be/qa58KNo8JfA?si=X-_b1dxivObMaZKz
+- https://youtu.be/ENoVL68z9PU?si=YyeXAfWCEpDq1Hww
+- https://youtu.be/Le79j1ZSfKk?si=k-D8BFEqUwsjx_kl
+- https://youtu.be/LlPOn0nAOeo?si=2tAqr7a9InVhvQVL
+- https://youtu.be/uJnOBC9wJyQ?si=Ixmi5OvGtDEAf0-L
+- https://youtu.be/UW9SiyCPOPI?si=aZHcSHIXE-dMyjBT
+- https://youtu.be/KTWHdLZZdGw?si=PL3HIwjyEEVGphLY
+- https://x.com/FuckedByUnity?s=09
 
 ### Dippy's Unity Packages ~~GONE 404~~ EXISTS
 
@@ -174,3 +194,4 @@ Port this Prefabbed Scene into CVR
 - https://github.com/Dreadrith/PhysBone-Converter
 - https://github.com/Markcreator/VRChat-Tools
 - https://github.com/Markcreator/Unity-Tools
+- https://youtu.be/hr7GyFM7pX4?si=4vFs6RgKwFHShIiC DairyOrange Fart Extra Reverb
