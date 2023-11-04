@@ -153,7 +153,7 @@ Port this Prefabbed Scene into CVR
 - Paywalled Assets: **NOT ACCEPTED**, No exclusive gift allowed, all gamers must be able to freely download.
 - Free, unpaid commission / request may have have long procrastinations. Engage unrefundable donation in how much to our Ko-fi https://ko-fi.com/joelwindows7 to remove this procrastination, with message of case number. If you accidentally paid under, simply repay the rest, OR wait for little bit / partially boosted service to finish.
 
-## Sauces
+## Sauces Total
 
 - https://youtu.be/tnPS_l-1N94?si=ZHS3yb_UwXq7o8Bd how to prop
 - https://youtu.be/a98qCeLAogw?si=y0Rjmnn5fB7sq6za how to convert from vrc to cvr
