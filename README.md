@@ -128,6 +128,28 @@ Be knowledgeful also, that ABI already built their software & set goals for long
 - https://dippythefoxderg.gumroad.com/l/DippyPushButt Button SFX
 - https://dippythefoxderg.gumroad.com/l/DippyDipSauce Dip Sauce
 - https://dippythefoxderg.gumroad.com/l/DippyAdStand Advertisement Stand
+  
+### MilchZocker's Source codes
+
+Following are GitHub repositories allegedly a CVR project:
+
+- https://github.com/MilchZocker/UCC-Cinema
+- https://github.com/MilchZocker/UCC-Cinema
+- https://github.com/MilchZocker/UCC-Infinite-Driving
+- https://github.com/MilchZocker/UCC-Tutorial
+- https://github.com/MilchZocker/UCC-Pen
+- https://github.com/MilchZocker/UCC-Swimming-System-demo
+- https://github.com/MilchZocker/ChilloutVR-Dark-UI **ARCHIVED**
+- https://github.com/MilchZocker/ChilloutVR-addons **ARCHIVED**
+- https://github.com/MilchZocker/CVR-Player-Tracker
+- https://github.com/MilchZocker/CVR-Player-Tracker
+- https://github.com/MilchZocker/Cache-Auto-Delete
+- https://github.com/MilchZocker/CVR-Account-Switcher
+- https://github.com/MilchZocker/Beat-Together
+- https://github.com/MilchZocker/Mirror
+- https://github.com/MilchZocker/CVR-Player-Counter
+- https://github.com/MilchZocker/CVR-Global-Position-Tracker
+- https://github.com/MilchZocker/little-tokyo **EMPTY**
 
 ## Commissions
 
@@ -211,3 +233,4 @@ Port this Prefabbed Scene into CVR
 - https://github.com/Markcreator/VRChat-Tools
 - https://github.com/Markcreator/Unity-Tools
 - https://youtu.be/hr7GyFM7pX4?si=4vFs6RgKwFHShIiC DairyOrange Fart Extra Reverb
+- https://github.com/MilchZocker?tab=repositories Source code of every MilchZocker
