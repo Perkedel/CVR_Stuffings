@@ -240,3 +240,5 @@ Port this Prefabbed Scene into CVR
 - https://github.com/llealloo/vrc-udon-audio-link
 - https://github.com/DomNomNomVR/cvr-audio-link
 - https://askubuntu.com/questions/1381100/no-longer-able-to-download-youtube-using-youtube-dl-how-do-i-fix-this-problem
+
+sovania
