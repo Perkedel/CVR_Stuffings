@@ -45,6 +45,8 @@ Below are assets that are not included and must be installed prior of usage and 
 - ~~[Narazaka's VRC2CVR-YA](https://github.com/Narazaka/VRC2CVR). Space Saving~~ ~~Included, so small!~~ No longer works
 - [DonNomNomVR's AudioLink](https://github.com/DomNomNomVR/cvr-audio-link). Space Saving
 
+<!-- Pls include all free but CCK, to backup! -->
+
 ## UUIDs
 
 ### Avatars
@@ -284,6 +286,7 @@ Port this Prefabbed Scene into CVR
 - https://twitter.com/B33_Bratty/status/1505832109616742400
 - https://www.youtube.com/watch?v=SyLuutxY_mM
 - https://www.youtube.com/watch?v=SyLuutxY_mM
+- https://www.patreon.com/poiyomi/posts
 
 ## sovania
 
