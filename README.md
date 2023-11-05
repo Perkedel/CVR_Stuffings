@@ -165,7 +165,7 @@ Port this Prefabbed Scene into CVR
 - Paywalled Assets: **NOT ACCEPTED**, No exclusive gift allowed, all gamers must be able to freely download. Insisting requires the source assets (especially `.blend` file) **also to be shared** both here & on Admiral Zumi's channel with full notes pointing to your name & the contract informations.
   - If you are upset about this rule, picked other commissioner & they are better than me, **then the next contract will be $0**. Do not lose the voucher.
   - If above regret contract is about the same asset, **then you'll have another $0 voucher**. FINALLY! You finally shared your sexy uwu latex avatar to all gamers, THANK YOU!! Like that.
-  - **above voucher won't always apply and approval is random chance.** Do not try to abuse the system. I will see it. Additionally be pitiful to those people coz we've just been betrayed couple months back, and now our cookies are at stake.
+  - **above voucher won't always apply and approval is random chance.** Do not try to abuse the system. I will see it.
 - Free, unpaid commission / request may have have long procrastinations. Engage unrefundable donation in how much to our Ko-fi https://ko-fi.com/joelwindows7 to remove this procrastination, with message of case number. If you accidentally paid under, simply repay the rest, OR wait for little bit / partially boosted service to finish.
 
 ## Sauces Total
