@@ -43,6 +43,7 @@ Below are assets that are not included and must be installed prior of usage and 
 - [Fluff's VRC Avatar Toolbox](https://fluffs.gumroad.com/l/flufftoolbox). Paywalled
 - [Fluff's VRC2CVR](https://fluffs.gumroad.com/l/flufftoolbox). Space Saving
 - ~~[Narazaka's VRC2CVR-YA](https://github.com/Narazaka/VRC2CVR). Space Saving~~ ~~Included, so small!~~ No longer works
+- [DonNomNomVR's AudioLink](https://github.com/DomNomNomVR/cvr-audio-link). Space Saving
 
 ## UUIDs
 
@@ -234,3 +235,7 @@ Port this Prefabbed Scene into CVR
 - https://github.com/Markcreator/Unity-Tools
 - https://youtu.be/hr7GyFM7pX4?si=4vFs6RgKwFHShIiC DairyOrange Fart Extra Reverb
 - https://github.com/MilchZocker?tab=repositories Source code of every MilchZocker
+- https://mikedabird.itch.io/avigen
+- https://docs.google.com/document/d/1diQRcDXPP_qaf0yT6INq4UhrhlawIQ_GLs2yjtUutAE/edit#heading=h.p9e4plmyq5cr
+- https://github.com/llealloo/vrc-udon-audio-link
+- https://github.com/DomNomNomVR/cvr-audio-link
