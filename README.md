@@ -88,11 +88,33 @@ Ensure to detach the GUID if you'd like to make new variant of these prefabs.
 
 For employee: **DO NOT LOSE THE GUID!! MAKE SURE IT IS STILL ATTACHED, & IS SAME MATCH WITH THE PAGE IT UPLOADED TO!**
 
+### Video Player not working
+
+![Log found using Mod: MelonLoader, CVRLogger++. ChilloutVR is unable to find the software needed to download the video, which is `youtube-dl`.](/DiceGlow/Assets/Sprites/Screenshots/cvr_uses_youtube-dl.png)
+
+ChilloutVR uses [`youtube-dl`](https://github.com/ytdl-org/youtube-dl) to download the video, and then either with Network Sync to broadcast the playback, or locally play depending on that GameObject video player component setting right now. The part that plays the video is powered by AVPro. Somehow, the `youtube-dl` either **did not shipped with**, OR had obvious permission trouble (i.e. `Program Files` folders have strict permissions).
+
+To remedy this, simply download `yt-dlp`. Why `yt-dlp` you ask? Because unfortunately current stable version of `youtube-dl` is broken, and in need dire update to be released due to ever breaking YouTube policies. The `yt-dl` is a fork of `youtube-dlc` which is also fork of `youtube-dl` or so in between, and **it happens that this forks works pretty well today**, thanks to auto-updating API methods in every attempt of downloading (the JSON manifest on how to download YouTube video is always fetched per attempt), I think.
+
+Pick just the regular [`yt-dlp.exe`](https://github.com/yt-dlp/yt-dlp#release-files). Once you have downloaded it, place this EXE file into `C:\Program Files (x86)\Steam\steamapps\common\ChilloutVR\ChilloutVR_Data`, **& then rename is to `youtube-dl.exe`**.
+
+Now, try again. If your log says `killing youtube-dl timeout`, try re-pasting the URL again to try load again. It should work now. When it successful, the log should say something about **AVPro playback broadcasting**.
+
+![IT WORKS!!! The video now plays TheFatRat Hunger!!!](/DiceGlow/Assets/Sprites/Screenshots/cvr_youtube_works.png)
+
+- https://github.com/ytdl-org/youtube-dl
+- https://www.reddit.com/r/archlinux/comments/119hsoj/stop_using_youtubedl_and_use_ytdlp_instead/
+- https://www.reddit.com/r/youtubedl/comments/mh51mc/out_of_curiosity_how_does_youtubedl_work/
+- https://ytdl-org.github.io/youtube-dl/
+- https://openjur.de/u/2466945.html 🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕 
+- ~~https://youtube-dl.org/~~
+
 ### Are these done by Realizer division?
 
 Not officially. Although some Realizer members had involved, still it was done by serveral other volunteers at Perkedel Technologies who worked with this in their free time.
 
-Due to different settings and goal with the game engine CVR used, There is no dedicated division handling content creation for this social media. So, Ricitello, **PECK YOU!!**
+Due to different settings and goal with the game engine CVR used, There is no dedicated division handling content creation for this social media. So, Ricitello, **PECK YOU!!**  
+Also actually we've been having beef with Unity in general. `Made with Unity`, No permanent buy, etc. etc.
 
 ### Weren't you supposed to make your own Godot social media?
 
@@ -191,6 +213,9 @@ Port this Prefabbed Scene into CVR
   - **above voucher won't always apply and approval is random chance.** Do not try to abuse the system. I will see it.
 - Free, unpaid commission / request may have have long procrastinations. Engage unrefundable donation in how much to our Ko-fi https://ko-fi.com/joelwindows7 to remove this procrastination, with message of case number. If you accidentally paid under, simply repay the rest, OR wait for little bit / partially boosted service to finish.
   - In random case, if I found the asset topic is being e.g. sought after, your contract may be instantly expedited **free of charge**.
+  - And out of some, if this is critically sought after, **it can even bypass INACTIVE status**!! Who knows!
+  - So if you are really sure that the 3D Model were sought after to be here in CVR, don't hesitate to consult with us (JOELwindows7, Discord), and we'll gladly review and discuss. 
+  - Note again, you shall not expect things would be done fast.
 
 ## Sauces Total
 
@@ -240,6 +265,25 @@ Port this Prefabbed Scene into CVR
 - https://github.com/llealloo/vrc-udon-audio-link
 - https://github.com/DomNomNomVR/cvr-audio-link
 - https://askubuntu.com/questions/1381100/no-longer-able-to-download-youtube-using-youtube-dl-how-do-i-fix-this-problem
+- https://emojipedia.org/guy-fawkes?emoji=guy-fawkes
+- https://blog.emojipedia.org/samsung-one-ui-6-0-emoji-changelog/
+- https://blog.emojipedia.org/microsoft-windows-11-23h2-emoji-changelog/
+- https://sponsor.ajay.app/
+- https://dearrow.ajay.app/
+- https://wiki.sponsor.ajay.app/w/Guidelines
+- https://github.com/yt-dlp/yt-dlp#standalone-py2exe-builds-windows
+- https://docs.python.org/3/library/zipimport.html
+- https://en.wikipedia.org/wiki/Beerware
+- https://github.com/TayouVR/CVR-CCK
+- https://www.youtube.com/watch?v=bALvLFDcDvY
+- https://arkorenart.gumroad.com/l/spectrum
+- https://www.reddit.com/r/ChilloutVR/comments/17nvoe3/virtual_reality_mastodon_instance/?utm_source=share&utm_medium=web2x&context=3
+- https://www.reddit.com/r/ChilloutVR/comments/17nmrgo/friday_night_drinking_night/?utm_source=share&utm_medium=web2x&context=3
+- https://www.reddit.com/r/ChilloutVR/comments/wctfy4/finally_ported_all_my_public_avatars_over_to_cvr/?utm_source=share&utm_medium=web2x&context=3
+- https://twitter.com/Shelfen90/status/1505330028057403392
+- https://twitter.com/B33_Bratty/status/1505832109616742400
+- https://www.youtube.com/watch?v=SyLuutxY_mM
+- https://www.youtube.com/watch?v=SyLuutxY_mM
 
 ## sovania
 
