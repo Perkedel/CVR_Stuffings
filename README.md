@@ -167,6 +167,7 @@ Port this Prefabbed Scene into CVR
   - If above regret contract is about the same asset, **then you'll have another $0 voucher**. FINALLY! You finally shared your sexy uwu latex avatar to all gamers, THANK YOU!! Like that.
   - **above voucher won't always apply and approval is random chance.** Do not try to abuse the system. I will see it.
 - Free, unpaid commission / request may have have long procrastinations. Engage unrefundable donation in how much to our Ko-fi https://ko-fi.com/joelwindows7 to remove this procrastination, with message of case number. If you accidentally paid under, simply repay the rest, OR wait for little bit / partially boosted service to finish.
+  - In random case, if I found the asset topic is being e.g. sought after, your contract may be instantly expedited **free of charge**.
 
 ## Sauces Total
 
