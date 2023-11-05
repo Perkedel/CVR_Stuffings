@@ -43,7 +43,7 @@ Below are assets that are not included and must be installed prior of usage and 
 - [Fluff's VRC Avatar Toolbox](https://fluffs.gumroad.com/l/flufftoolbox). Paywalled
 - [Fluff's VRC2CVR](https://fluffs.gumroad.com/l/flufftoolbox). Space Saving
 - ~~[Narazaka's VRC2CVR-YA](https://github.com/Narazaka/VRC2CVR). Space Saving~~ ~~Included, so small!~~ No longer works
- 
+
 ## UUIDs
 
 ### Avatars
