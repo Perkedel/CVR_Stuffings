@@ -48,6 +48,37 @@ Below are assets that are not included and must be installed prior of usage and 
 <!-- Pls include all free but CCK, to backup! -->
 > Some packages (e.g. `.unitypackage` extracted) are included for convenience.
 
+## Quick Tutorials
+
+### Assets
+
+<!-- PLS COMPLETE THIS! -->
+
+#### How to World
+
+Make sure in your Unity Scene, there is a GameObject with component `CVRWorld`. by default, this object now is your spawn point you can place around, AS WELL AS Panoramic preview photo cam (for CVR Portal).
+
+You can however, make another empty `GameObject` to be assigned as one of the spawn points. Simply position that `GameObject` to anywhere you'd like the player to spawn at. the `CVRWorld` accepts more than 1 and you can make it pick randomly.
+
+The `CVRWorld` will also spawn component `CVRAssetInfo`. **DO NOT FORGET TO NOTE ITS GUID!**
+
+#### How to Avatar
+
+Make sure in this Avatar you'd like to upload has these commponents:
+
+- **CVRAvatar**
+- CVRAssetInfo (Automatic). **DO NOT FORGET TO NOTE ITS GUID!**
+
+#### How to Props
+
+Make sure the GameObject you'd like to upload as an individual prop has these components:
+
+- **CVRSpawnable**.
+- CVRInteractable. To allow drag & drop.
+- CVRAssetInfo (Automatic). **DO NOT FORGET TO NOTE ITS GUID!**
+
+Any other components like MonoBehaviour based and derivatives should be working & load in the software. Ensure also that it is not harmful.
+
 ## UUIDs
 
 ### Avatars
@@ -176,6 +207,12 @@ Following are GitHub repositories allegedly a CVR project:
 - https://github.com/MilchZocker/CVR-Player-Counter
 - https://github.com/MilchZocker/CVR-Global-Position-Tracker
 - https://github.com/MilchZocker/little-tokyo **EMPTY**
+
+### Beach ball gone
+
+https://www.dropbox.com/s/kaznw4kewte243g/CVR%20Beach%20Ball.unitypackage?dl=0 gone
+
+
 
 ## Commissions
 
