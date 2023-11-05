@@ -241,4 +241,9 @@ Port this Prefabbed Scene into CVR
 - https://github.com/DomNomNomVR/cvr-audio-link
 - https://askubuntu.com/questions/1381100/no-longer-able-to-download-youtube-using-youtube-dl-how-do-i-fix-this-problem
 
-sovania
+## sovania
+
+by JOELwindow7  
+Perkedel Technologies  
+Our Assets = CC4.0-BY-SA  
+Our Codes = GNU GPL v3  
