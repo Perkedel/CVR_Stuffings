@@ -46,6 +46,7 @@ Below are assets that are not included and must be installed prior of usage and 
 - [DonNomNomVR's AudioLink](https://github.com/DomNomNomVR/cvr-audio-link). Space Saving
 
 <!-- Pls include all free but CCK, to backup! -->
+> Some packages (e.g. `.unitypackage` extracted) are included for convenience.
 
 ## UUIDs
 
@@ -162,7 +163,7 @@ Following are GitHub repositories allegedly a CVR project:
 - https://github.com/MilchZocker/UCC-Cinema
 - https://github.com/MilchZocker/UCC-Infinite-Driving
 - https://github.com/MilchZocker/UCC-Tutorial
-- https://github.com/MilchZocker/UCC-Pen
+- https://github.com/MilchZocker/UCC-Pen **NOTE:** Packed only in `.unitypackage` does not mean closed private. It's just need to be extracted. This may be included for convenience.
 - https://github.com/MilchZocker/UCC-Swimming-System-demo
 - https://github.com/MilchZocker/ChilloutVR-Dark-UI **ARCHIVED**
 - https://github.com/MilchZocker/ChilloutVR-addons **ARCHIVED**
