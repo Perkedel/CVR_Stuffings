@@ -73,6 +73,12 @@ Below are assets that are not included and must be installed prior of usage and 
 - ca2e8dfb-3d35-42ad-8f22-bf839f732308 Ehehe Dice micro 1
 - c7a0bd47-3ece-485f-a994-d3eddbc2b4c1 Anjay Button
 
+### Assorted
+
+These are the GUID from our cache folder of CVR.
+
+- ..
+
 ## Additional Info
 
 ### GUID
