@@ -143,6 +143,12 @@ Now, try again. If your log says `killing youtube-dl timeout`, try re-pasting th
 - https://openjur.de/u/2466945.html 🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕 
 - ~~https://youtube-dl.org/~~
 
+### Whitelisted URL for Video Player
+
+Known Whitelisted domains in CVR for Video Player are:
+- [VRCDN](https://vrcdn.live)
+- [YouTube.com](https://youtube.com)
+
 ### Are these done by Realizer division?
 
 Not officially. Although some Realizer members had involved, still it was done by serveral other volunteers at Perkedel Technologies who worked with this in their free time.
