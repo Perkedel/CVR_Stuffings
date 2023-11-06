@@ -344,6 +344,7 @@ Port this Prefabbed Scene into CVR
 - https://www.reddit.com/r/gamedev/comments/7nvqwj/heres_120_furniture_models_including_isometric/
 - https://www.blender3darchitect.com/furniture-models/120-free-low-poly-furniture-models/
 - https://github.com/ValveSoftware/steam-audio Will you pls install Steam Audio pls?!??!?!?!??!
+- https://discord.com/invite/K6tsPtsgd7 Kjoy's Discord Server pls. We got it from Steam Audio sample world!
 
 ## sovania
 
