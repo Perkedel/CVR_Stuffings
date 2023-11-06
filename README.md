@@ -10,7 +10,7 @@ Everything here shall be uploaded & available for all gamers to contribute right
 
 ## WARNING!!! CONTAINS NSFW
 
-**All employees are required to be in their mature age (most beings are 18+) in order to volunteer**. I mean, all Perkedel employees in any division basically requires 18+ years old, which is the minimum appropriate age of accepting paid jobs & contracts. If there is something that requires special condition for the target job, we can use the technology to pitch up for the work, OR using their natural abilities. You know, mix it up together? It's common industry practice!
+**All employees are required to be in their mature age (most beings are 18+) in order to volunteer**. I mean, all Perkedel employees in any division basically requires 18+ years old, which is the minimum appropriate age of accepting paid jobs & contracts. If there is something that requires special condition for the target job, we can use the technology to pitch up for the work, OR using their natural abilities. You know, mix it up together? It's common industry practice! Wait where are we? OH, you must be adult. no matter what.
 
 Additionally, proper mentals in specifics pertaining encounter of nudity & sexualized works **are required**. I mean all Perkedel employees in any division are expected to say okay with lewd works, we are company of culture! We don't hire losers. only winners. We don't care if you are handsome or beautiful (not like most of local companies in my areas), We want works. You can do it, willing do it, even by others is disgusting? You're in! Yeah, I know, we're trying everyday.
 
