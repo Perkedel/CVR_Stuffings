@@ -375,6 +375,8 @@ Port this Prefabbed Scene into CVR
 - https://youtu.be/srrW9TTKnlg?si=SrPXvKgcNjW_Yfba Tye. How am I supposed to avatar with fresh pure package?!?!?
 - https://youtu.be/I5dSZ3FZShM?si=qcAc8SPCfyFSS2m8 quick convert vrc to cvr avatar
 - https://freesound.org/people/loudernoises/sounds/332808/ Synthetic 100 BPM heartbeat sound iyey
+- https://dc.theworldcore.link Discord of NovaVoidHowl. Found at NVH's avatar world
+- https://www.tumblr.com/joelwindows7/733271993109069824/yess-i-did-it-kinda?source=share Official Heartbeat content CVR 1st time
 
 ## sovania
 
