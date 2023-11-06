@@ -46,7 +46,8 @@ Below are assets that are not included and must be installed prior of usage and 
 - [DonNomNomVR's AudioLink](https://github.com/DomNomNomVR/cvr-audio-link). Space Saving
 
 <!-- Pls include all free but CCK, to backup! -->
-> Some packages (e.g. `.unitypackage` extracted) are included for convenience.
+> Some packages (e.g. `.unitypackage` extracted) are included for convenience.  
+> Pls keep the Steam Audio with ones caught by kjoy at `ThirdParty/kjoy/SteamAudio.unitypackage`. Using version above this will cause entire project hangs to assembling
 
 ## Quick Tutorials
 
@@ -345,6 +346,7 @@ Port this Prefabbed Scene into CVR
 - https://www.blender3darchitect.com/furniture-models/120-free-low-poly-furniture-models/
 - https://github.com/ValveSoftware/steam-audio Will you pls install Steam Audio pls?!??!?!?!??!
 - https://discord.com/invite/K6tsPtsgd7 Kjoy's Discord Server pls. We got it from Steam Audio sample world!
+- https://steamdb.info/app/661130/history/?changeid=20993745
 
 ## sovania
 
