@@ -357,6 +357,7 @@ Port this Prefabbed Scene into CVR
 - https://steamdb.info/app/661130/history/?changeid=20993745
 - https://youtu.be/srrW9TTKnlg?si=SrPXvKgcNjW_Yfba Tye. How am I supposed to avatar with fresh pure package?!?!?
 - https://youtu.be/I5dSZ3FZShM?si=qcAc8SPCfyFSS2m8 quick convert vrc to cvr avatar
+- https://freesound.org/people/loudernoises/sounds/332808/ Synthetic 100 BPM heartbeat sound iyey
 
 ## sovania
 
