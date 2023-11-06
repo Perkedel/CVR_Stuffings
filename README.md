@@ -48,7 +48,7 @@ Below are assets that are not included and must be installed prior of usage and 
 <!-- Pls include all free but CCK, to backup! -->
 > Some packages (e.g. `.unitypackage` extracted) are included for convenience.  
 > **Pls keep the Steam Audio with ones caught by kjoy** at `ThirdParty/kjoy/SteamAudio.unitypackage`. Using version above this will cause entire project hangs to assembling C# scripts **forever**.  
-> If you got this, simply close the project, remove 2 plugins in `DiceGlow/Assets/Plugins`: `SteamAudio` & `FMOD`, along with their `.meta` files. Then reload, and install the correct version.
+> If you got this, simply close the project, remove 2 plugins in `DiceGlow/Assets/Plugins`: `SteamAudio` & `FMOD`, along with their `.meta` files. Then reload, and install the correct version shipped by kjoy.
 
 ## Quick Tutorials
 
@@ -145,11 +145,12 @@ Now, try again. If your log says `killing youtube-dl timeout`, try re-pasting th
 - https://www.reddit.com/r/youtubedl/comments/mh51mc/out_of_curiosity_how_does_youtubedl_work/
 - https://ytdl-org.github.io/youtube-dl/
 - https://openjur.de/u/2466945.html 🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕 
-- ~~https://youtube-dl.org/~~
+- ~~https://youtube-dl.org/~~ brogen
 
 ### Whitelisted URL for Video Player
 
 Known Whitelisted domains in CVR for Video Player are:
+
 - [VRCDN](https://vrcdn.live)
 - [YouTube.com](https://youtube.com)
 
@@ -175,6 +176,12 @@ Fortunately, in desperation, Unity had partially rolled back their new paywallis
 Therefore, the version of Unity (`Unity 2021.3.23f1`) used by AlphaBlend Interactive & for these creations of it are **not subject to Neo-Paywall-Partialism / Runtime Fee agenda**. Everyone in this version should be safe, for now. Because if not wrong, these legacy versions shall be supported until spans of 2024. However, we have yet confirmed would Unity impose punishment us gamers who stuck in these legacy version prior to this agenda.
 
 Be knowledgeful also, that ABI already built their software & set goals for long since before. Therefore, to stop and *port* to other engines is not a viable option. This can only be done from scratch with different set of instructions. We shall see further, so stay tuned.
+
+### Why did you include `NAME`?! They are all partialists
+
+We unfortunately have no choice but include these shaders, due to other modules have used such shader, hence depends on it. We hope that these modules uses features available in Free edition only, and say if they did used paid feature, can be replaced back to the free sets ones without breaking.
+
+Perkedel and affiliates condemn highly, the act of partializing feature sets under micro-transactions or any similar system, as well as basically paywalling assets. If you have any questions, let us know, under DM Prefix `CVR_PAID_ASSET_CONCERNS`.
 
 #### Sauces
 
