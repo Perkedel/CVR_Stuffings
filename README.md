@@ -325,6 +325,7 @@ Port this Prefabbed Scene into CVR
 - https://www.youtube.com/watch?v=SyLuutxY_mM
 - https://www.youtube.com/watch?v=SyLuutxY_mM
 - https://www.patreon.com/poiyomi/posts
+- https://sfbgames.itch.io/chiptone Generate SFX pls!!!!!
 
 ## sovania
 
