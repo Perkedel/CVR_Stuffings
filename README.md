@@ -124,6 +124,8 @@ For employee: **DO NOT LOSE THE GUID!! MAKE SURE IT IS STILL ATTACHED, & IS SAME
 
 ### Video Player not working
 
+BUG REPORT: https://feedback.abinteractive.net/p/youtube-dl-sometimes-did-not-ship-with-it-video-player-does-not-work-on-some-people
+
 ![Log found using Mod: MelonLoader, CVRLogger++. ChilloutVR is unable to find the software needed to download the video, which is `youtube-dl`.](/DiceGlow/Assets/Sprites/Screenshots/cvr_uses_youtube-dl.png)
 
 ChilloutVR uses [`youtube-dl`](https://github.com/ytdl-org/youtube-dl) to download the video, and then either with Network Sync to broadcast the playback, or locally play depending on that GameObject video player component setting right now. The part that plays the video is powered by AVPro. Somehow, the `youtube-dl` either **did not shipped with**, OR had obvious permission trouble (i.e. `Program Files` folders have strict permissions).
@@ -334,6 +336,13 @@ Port this Prefabbed Scene into CVR
 - https://sfbgames.itch.io/chiptone Generate SFX pls!!!!!
 - https://discord.gg/sHN9x2n2j8 STARCVR pls
 - https://drive.google.com/file/d/1P-Tds7rIppLZAZ2JG-6d7nv9rhS-caHl/view Disconeer Bean Staff
+- https://twitter.com/Khodrin3D/status/1474042570238042122
+- https://khodrin.com/christmas-scarf/ OOOOOO!!!
+- end STARCVR
+- https://docs.unity3d.com/ScriptReference/ParticleSystem.Clear.html
+- https://kenney.nl/assets/furniture-kit
+- https://www.reddit.com/r/gamedev/comments/7nvqwj/heres_120_furniture_models_including_isometric/
+- https://www.blender3darchitect.com/furniture-models/120-free-low-poly-furniture-models/
 
 ## sovania
 
