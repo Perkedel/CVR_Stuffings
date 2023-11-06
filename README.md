@@ -85,6 +85,8 @@ Any other components like MonoBehaviour based and derivatives should be working 
 
 ### Avatars
 
+- 92f6e5f4-e860-42fd-8154-81d69f605099 Howard the Alien
+
 ### Worlds
 
 - 6b1b8855-9196-4e21-a418-f52a862651af SFW DiceGlow Test Area
@@ -108,7 +110,22 @@ Any other components like MonoBehaviour based and derivatives should be working 
 - 04ea5304-11c2-4244-98f1-7676a656da9e Ehehe Dice Scale 5
 - b06c91e7-989f-4685-8819-875b666093cf Ehehe Dice GIANT 1000
 - ca2e8dfb-3d35-42ad-8f22-bf839f732308 Ehehe Dice micro 1
+- 7bb92abf-fc97-4836-b9fb-fff929408907 A Dice
+- 3974a044-678b-4d26-8c00-9adaba057ffd A Dice Scale 50
+- f500a295-e148-489d-bb6c-bca39fa976ad A Dice Scale 25
+- 86462140-5f07-4fc0-a814-2541b5cd085d A Dice Scale 5
+- 6f803736-519f-4e3c-b8bd-d0581ab83083 A Dice GIANT 1000
+- 7cbb201a-d83b-40cd-975b-05250b7f74ad A Dice micro 1
+- cd15f618-b0bf-4a55-a9ee-6fc52fad42b2 E Dice
+- 962ea7dc-0c0a-4952-9842-d637570f2cde E Dice Scale 50
+- 5e3a8b44-9676-47cc-aa41-91e37fbd301a E Dice Scale 25
+- e2890d25-c725-495a-b5e0-98fb7526be8c E Dice Scale 5
+- dc2a31c2-d7b8-47e2-ae2c-b69c9d638c52 E Dice GIANT 1000
+- c01e0e3d-b793-4259-ba8c-84b1a6038a6c E Dice micro 1
 - c7a0bd47-3ece-485f-a994-d3eddbc2b4c1 Anjay Button
+- 8f094998-b863-4bc6-b3c9-726eb82f1e24 Fart Reverb Button
+- cdc8b5b1-43af-40fd-b7a5-af48dc8d6dde EmptyBall
+- 323d2618-403d-4835-9eac-5c8362a511a4 Stupid Cartoon Heart with Sound
 
 ### Assorted
 
