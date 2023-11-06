@@ -47,7 +47,8 @@ Below are assets that are not included and must be installed prior of usage and 
 
 <!-- Pls include all free but CCK, to backup! -->
 > Some packages (e.g. `.unitypackage` extracted) are included for convenience.  
-> Pls keep the Steam Audio with ones caught by kjoy at `ThirdParty/kjoy/SteamAudio.unitypackage`. Using version above this will cause entire project hangs to assembling
+> **Pls keep the Steam Audio with ones caught by kjoy** at `ThirdParty/kjoy/SteamAudio.unitypackage`. Using version above this will cause entire project hangs to assembling C# scripts **forever**.  
+> If you got this, simply close the project, remove 2 plugins in `DiceGlow/Assets/Plugins`: `SteamAudio` & `FMOD`, along with their `.meta` files. Then reload, and install the correct version.
 
 ## Quick Tutorials
 
@@ -61,7 +62,7 @@ Make sure in your Unity Scene, there is a GameObject with component `CVRWorld`. 
 
 You can however, make another empty `GameObject` to be assigned as one of the spawn points. Simply position that `GameObject` to anywhere you'd like the player to spawn at. the `CVRWorld` accepts more than 1 and you can make it pick randomly.
 
-The `CVRWorld` will also spawn component `CVRAssetInfo`. **DO NOT FORGET TO NOTE ITS GUID!**
+The `CVRWorld` will also spawn component `CVRAssetInfo` automatically. **DO NOT FORGET TO NOTE ITS GUID!**
 
 #### How to Avatar
 
