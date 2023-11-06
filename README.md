@@ -8,7 +8,7 @@ This repository contains everything made by us for a VR based social media, Chil
 
 Everything here shall be uploaded & available for all gamers to contribute right to amend, modify, and add more stuffs. As well as to fork & build their own project upon. No part as all as possible be closed to an exclusive access. All gamers deserves.
 
-## WARNING!!! CONTAINS NSFW
+## WARNING!!! MAY CONTAINS NSFW
 
 **All employees are required to be in their mature age (most beings are 18+) in order to volunteer**. I mean, all Perkedel employees in any division basically requires 18+ years old, which is the minimum appropriate age of accepting paid jobs & contracts. If there is something that requires special condition for the target job, we can use the technology to pitch up for the work, OR using their natural abilities. You know, mix it up together? It's common industry practice! Wait where are we? OH, you must be adult. no matter what.
 
@@ -332,6 +332,8 @@ Port this Prefabbed Scene into CVR
 - https://www.youtube.com/watch?v=SyLuutxY_mM
 - https://www.patreon.com/poiyomi/posts
 - https://sfbgames.itch.io/chiptone Generate SFX pls!!!!!
+- https://discord.gg/sHN9x2n2j8 STARCVR pls
+- https://drive.google.com/file/d/1P-Tds7rIppLZAZ2JG-6d7nv9rhS-caHl/view Disconeer Bean Staff
 
 ## sovania
 
