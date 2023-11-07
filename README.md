@@ -33,7 +33,9 @@ Additionally, proper mentals in specifics pertaining encounter of nudity & sexua
 
 ## List of Not Included Assets
 
-Below are assets that are not included and must be installed prior of usage and developments. There are name, Sauce URL, reason, and optionally hash of each package file.
+Below are assets that are not included and **must be installed prior of usage and developments**. There are: name, Sauce URL, reason, and optionally hash of each package file.
+
+<!-- TODO: Table pls! -->
 
 - CCK https://developers.abinteractive.net/cck/setup/ . Space saving, common module. 
 - [Magica Cloth 1](https://assetstore.unity.com/packages/tools/physics/magica-cloth-160144) & [2 the sequel](https://assetstore.unity.com/packages/tools/physics/magica-cloth-2-242307). Paywalled
@@ -45,11 +47,12 @@ Below are assets that are not included and must be installed prior of usage and 
 - ~~[Narazaka's VRC2CVR-YA](https://github.com/Narazaka/VRC2CVR). Space Saving~~ ~~Included, so small!~~ No longer works
 - [DonNomNomVR's AudioLink](https://github.com/DomNomNomVR/cvr-audio-link). Space Saving
 - [Unity-Chan!](https://assetstore.unity.com/packages/3d/characters/unity-chan-model-18705). Space Saving, common module.
+- [SD Unity-chan Haon Custom](https://assetstore.unity.com/packages/3d/animations/haon-sd-series-bundle-84992). Space Saving, common module.
 
 <!-- Pls include all free but CCK, to backup! -->
-> Some packages (e.g. `.unitypackage` extracted) are included for convenience.  
-> **Pls keep the Steam Audio with ones caught by kjoy** at `ThirdParty/kjoy/SteamAudio.unitypackage`. Using version above this will cause entire project hangs to assembling C# scripts **forever**.  
-> If you got this, simply close the project, remove 2 plugins in `DiceGlow/Assets/Plugins`: `SteamAudio` & `FMOD`, along with their `.meta` files. Then reload, and install the correct version shipped by kjoy.
+> Some packages (e.g. `.unitypackage` extracted) are included for ***convenience***.  
+> **Pls keep the Steam Audio with ones caught by kjoy** at `ThirdParty/kjoy/SteamAudio.unitypackage`. Using version above this will cause entire project hangs to `assembling C# scripts` **forever**.  
+> If you got this, simply close the project, remove 2 plugins in `DiceGlow/Assets/Plugins`: `SteamAudio` & `FMOD`, along with their `.meta` files. Then reopen this project, and install the correct version shipped by kjoy.
 
 ## Quick Tutorials
 
@@ -72,15 +75,42 @@ Make sure in this Avatar you'd like to upload has these commponents:
 - **CVRAvatar**
 - CVRAssetInfo (Automatic). **DO NOT FORGET TO NOTE ITS GUID!**
 
+##### To Avatar Properties
+
+??? HOW ???
+
 #### How to Props
 
 Make sure the GameObject you'd like to upload as an individual prop has these components:
 
 - **CVRSpawnable**.
-- CVRInteractable. To allow drag & drop.
+- CVRInteractable. To allow interaction actions.
 - CVRAssetInfo (Automatic). **DO NOT FORGET TO NOTE ITS GUID!**
 
 Any other components like MonoBehaviour based and derivatives should be working & load in the software. Ensure also that it is not harmful.
+
+##### To Pickup Props
+
+Ensure that your props has component `CVRPickupObject`. 
+
+Drag its own transform into field `gripOrigin`, **and don't forget the `maximumGrabDistance` property**, to ensure the object can be dragged only by certain distances. If you forgot and kept 0, the object will be pickup-able at any range, and this is usually undesirable.
+
+You also need to ensure that `CVRInteractable` is intact. the `CVRPickupObject` triggers events `onGrab` & `onDrop` respectively.
+
+##### To Sticky Props
+
+Ensure that your props has component `CVRAttachment`.
+
+Assign the `attachmentType` to whichever element you'd want this object attached to. You can chose `none`, `everything`, or some of which. Usually, it is desired to be the `bone`.
+
+Assign the `boneType` to whichever avatar bone you'd want this object attached to, if you included `bone` in `attachmentType`. Usually, it's desired to be attachable to `head`. Sometimes or rarely: `chest`, feet, etc.
+
+**Ensure you finally adjust your `maxAttachmentDistance`!** At least try the usual like 1, or less (`.9`, `.5`, `.25`, etc.) depending on the size and shape. If you forgot and let it 0, the prop would attach / stick forever and you must delete it in the game to restart the prop.
+
+Once you've configured your desired properties, **don't forget to attach methods to the `CVRInteractable`**. Assign these as follow:
+
+- Trigger `onGrab` has method call to `CVRAttachment` on this prop of `deAttach()`. Detach the prop when being picked up.
+- Trigger `onDrop` has method call to `CVRAttachment` on this prop of `attach()`. Once dropped, evaluate if it's on something can be attach to and attach to the valid part of the object.
 
 ## UUIDs
 
@@ -381,6 +411,7 @@ Port this Prefabbed Scene into CVR
 - https://assetstore.unity.com/packages/3d/characters/unity-chan-model-18705
 - https://vocaloid.fandom.com/wiki/Unity-chan!_(VOCALOID4)
 - https://assetstore.unity.com/publishers/7659
+- https://assetstore.unity.com/packages/3d/animations/haon-sd-series-bundle-84992
 
 ## sovania
 
