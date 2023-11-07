@@ -458,6 +458,31 @@ Port this Prefabbed Scene into CVR
 - https://github.com/Thryrallo/ThryEditor
 - https://github.com/poiyomi/PoiyomiToonShader
 - https://valvesoftware.github.io/steam-audio/doc/unity/reference.html
+- https://www.bhaptics.com/tactsuit/tactsuit-x40
+- https://feedback.abinteractive.net/p/world-scripting scripter pls add, ABI
+- https://feedback.abinteractive.net/p/ditch-using-play-mode-for-uploading-content-in-unity Play mode upload is performance bane
+- https://feedback.abinteractive.net/p/booth-gumroad-patreon-integration-specifically-for-content-creators-that-upload-stuff-to-the-game
+- https://github.com/akasaki1211/AkBoneDynamics
+- https://feedback.abinteractive.net/p/implementation-of-akbones
+- https://feedback.abinteractive.net/p/a-universal-scaling-system-for-props-avatars
+- https://github.com/NotAKidOnSteam/AvatarScaleTool
+- https://feedback.abinteractive.net/p/a-universal-scaling-system-for-props-avatars
+- https://feedback.abinteractive.net/p/growth-shrink-ray
+- https://twitter.com/XiexeVR/status/1601777707322601472
+- https://feedback.abinteractive.net/p/advanced-avatar-settings-sub-menus
+- Mass upload pls?
+- https://feedback.abinteractive.net/p/unlisted-avatars-props
+- https://feedback.abinteractive.net/p/prop-tag-for-advertisements-and-a-way-to-block-them-per-instance-world
+- https://feedback.abinteractive.net/p/instance-history
+- https://feedback.abinteractive.net/p/development-version-of-worlds
+- https://feedback.abinteractive.net/p/booth-gumroad-url-open-in-browser-component
+- https://feedback.abinteractive.net/p/qr-code-scanner-in-camera
+- https://feedback.abinteractive.net/p/booth-gumroad-url-open-in-browser-component
+- https://feedback.abinteractive.net/p/open-source-cck-via-version-control-e-g-git
+- https://feedback.abinteractive.net/p/posing-system
+- https://feedback.abinteractive.net/p/open-source-alternative-to-physbones
+- https://feedback.abinteractive.net/p/custom-tagging-search-tags
+- https://feedback.abinteractive.net/p/indicator-when-avatar-prop-world-download-failed-ingame-full-disk
 
 ## sovania
 
