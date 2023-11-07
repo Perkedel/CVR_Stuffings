@@ -507,6 +507,7 @@ GameObject:
   - component: {fileID: 8771408521731618344}
   - component: {fileID: 8771408521731618343}
   - component: {fileID: 902193820088148693}
+  - component: {fileID: 1753468567788304294}
   m_Layer: 0
   m_Name: ControllableBola
   m_TagString: Untagged
@@ -812,6 +813,18 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   syncOwner: 
   guid: 67178b2f-d8e6-4e4f-8f6f-75465244f9fd
+--- !u!75 &1753468567788304294
+ConstantForce:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8771408521731618351}
+  m_Enabled: 1
+  m_Force: {x: 0, y: 0, z: 0}
+  m_RelativeForce: {x: 0, y: 0, z: 0}
+  m_Torque: {x: 0, y: 0, z: 0}
+  m_RelativeTorque: {x: 0, y: 0, z: 0}
 --- !u!1 &8771408521750403017
 GameObject:
   m_ObjectHideFlags: 0
@@ -1034,11 +1047,12 @@ MonoBehaviour:
       floatVal: 0
       stringVal: 
       stringVal2: 
-      stringVal3: 
+      stringVal3: UnityEngine.Rigidbody, UnityEngine.PhysicsModule, Version=0.0.0.0,
+        Culture=neutral, PublicKeyToken=null
       stringVal4: 
       boolVal: 0
       boolVal2: 0
-      gameObjectVal: {fileID: 0}
+      gameObjectVal: {fileID: 8771408521731618351}
       floatVal2: 0
       floatVal3: 0
       floatVal4: 0
@@ -1048,7 +1062,19 @@ MonoBehaviour:
       animationVal: {fileID: 0}
       customEvent:
         m_PersistentCalls:
-          m_Calls: []
+          m_Calls:
+          - m_Target: {fileID: 8771408521731618351}
+            m_TargetAssemblyTypeName: 
+            m_MethodName: 
+            m_Mode: 1
+            m_Arguments:
+              m_ObjectArgument: {fileID: 0}
+              m_ObjectArgumentAssemblyTypeName: 
+              m_IntArgument: 0
+              m_FloatArgument: 0
+              m_StringArgument: 
+              m_BoolArgument: 0
+            m_CallState: 2
     actionType: 19
     execType: 2
     layerMask:

@@ -275,13 +275,15 @@ Following are GitHub repositories allegedly a CVR project:
 - https://github.com/MilchZocker/CVR-Global-Position-Tracker
 - https://github.com/MilchZocker/little-tokyo **EMPTY**
 
-### Beach ball gone
+### Beach ball ~~gone~~ EXISTS
 
-https://www.dropbox.com/s/kaznw4kewte243g/CVR%20Beach%20Ball.unitypackage?dl=0 gone
+~~https://www.dropbox.com/s/kaznw4kewte243g/CVR%20Beach%20Ball.unitypackage?dl=0 gone~~
 
-Pls find Rachus and contact Him/Her/Them. Ask for reupload on different place!
+~~Pls find Rachus and contact Him/Her/Them. Ask for reupload on different place!~~
 
-If you gamers had the `.unitypacakge` file, pls send to us, either directly or share the URL, **send either or both promptly to Kaorfa at JOELwindows7 (Discord) under DM Prefix `FILE_FOUND:CVR_BEACH_BALL`**.
+~~If you gamers had the `.unitypacakge` file, pls send to us, either directly or share the URL, **send either or both promptly to Kaorfa at JOELwindows7 (Discord) under DM Prefix `FILE_FOUND:CVR_BEACH_BALL`**.~~
+
+Yey it back https://github.com/racushstrago/CVR-Props thancc cool and good awesome div by zero!
 
 ## Commissions
 
@@ -419,6 +421,8 @@ Port this Prefabbed Scene into CVR
 - https://youtu.be/xkRUD1Ox9rU?si=2dDqXv4MtE8T16O1 how to sitt pt. 1
 - https://youtu.be/ZuyJTO1V5ls?si=9mevrOPiGK45dBuH how to sitt pt. 2
 - https://discussions.unity.com/t/how-to-add-rotation-to-current-rotation-over-time/182630
+- https://en.wikipedia.org/wiki/Cron
+- https://github.com/racushstrago/CVR-Props
 
 ## sovania
 
