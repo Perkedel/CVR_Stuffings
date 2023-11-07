@@ -331,6 +331,20 @@ Yey it back https://github.com/racushstrago/CVR-Props thancc cool and good aweso
 
 hmm it appears a customization script gone, so does in the game!
 
+## Death Timer
+
+**Contract Unavailable yet. Contract is draft.**
+
+Escalation into a contract is being discussed. When Wakturia deems it viable, it would be then escalated.
+
+Reason = Unity next gen betrayals series 2023.
+
+Observing:
+
+- Unity Engine. Could be mass abandoned, in which usage population observably reduced down to less than 100K gamers
+- ChilloutVR. **Could be ceased**, due to that Unity's ever growing tactic of genocide. Could be a statement regarding inviability handling Unity's bad behaviours, even working around around older the latest Runtime-fee-free version ever activatable by creators & themselves, where it no longer works and must upgrade to Runtime Fee agenda enabled versions. In event of critical situation (which hopefully does not reach), ABI is suggested to restart everything from scratch with Godot (Neos Unreal & VRChat Unity & others already exists, but not Godot). Also, ABI is suggested not to abandon critical support due to a particular competitor whose used same Unity Engine, and ensured to add all suggested & requested last feature sets before going into apocalypse mode.
+- This. Following fate of ChilloutVR for its supporting status, and observing populations of userbase in common setting (normal & modded), not including post-apocalypse userbase (i.e. Overmodded Frankensteined already abandoned CVR).
+
 ## Commissions
 
 Below are available commissions. The status, name, and optional cost to get out of procrastinations
@@ -511,6 +525,8 @@ Port this Prefabbed Scene into CVR
 - https://feedback.abinteractive.net/p/rcc-but-for-tracked-vehicles
 - https://feedback.abinteractive.net/p/adding-steering-wheel-support-for-rcc-cars-and-likewise-props
 - https://feedback.abinteractive.net/p/feature-request-wsm-train-script
+- broadcast world / prop / avatar from local?
+- https://youtu.be/zIRPkDwbfac?si=obrS_6BQuQGKqJg_
 
 ## sovania
 
