@@ -508,6 +508,7 @@ GameObject:
   - component: {fileID: 8771408521731618343}
   - component: {fileID: 902193820088148693}
   - component: {fileID: 1753468567788304294}
+  - component: {fileID: 1053749784517410455}
   m_Layer: 0
   m_Name: ControllableBola
   m_TagString: Untagged
@@ -762,6 +763,52 @@ MonoBehaviour:
     interactionInput: 48
     interactionInputModifier: 0
     guid: a339f99e-e97f-415b-ae81-1713790d5845
+  - delay: 0
+    operations:
+    - type: 35
+      targets:
+      - {fileID: 0}
+      floatVal: 1
+      stringVal: 
+      stringVal2: 
+      stringVal3: UnityEngine.Rigidbody, UnityEngine.PhysicsModule, Version=0.0.0.0,
+        Culture=neutral, PublicKeyToken=null
+      stringVal4: 
+      boolVal: 0
+      boolVal2: 0
+      gameObjectVal: {fileID: 8771408521731618351}
+      floatVal2: 0
+      floatVal3: 0
+      floatVal4: 0
+      varBufferVal: {fileID: 1053749784517410455}
+      varBufferVal2: {fileID: 0}
+      varBufferVal3: {fileID: 0}
+      animationVal: {fileID: 0}
+      customEvent:
+        m_PersistentCalls:
+          m_Calls: []
+    actionType: 13
+    execType: 4
+    layerMask:
+      serializedVersion: 2
+      m_Bits: 0
+    floatVal: 0
+    floatVal2: 0
+    floatVal3: 0
+    boolVal: 0
+    varBufferVal: {fileID: 1053749784517410455}
+    varBufferVal2: {fileID: 0}
+    stringVal: 
+    allowedPointer: []
+    allowedPointerCollapse: 0
+    allowedTypes: []
+    allowedTypesCollapse: 0
+    specificParticleSystems: []
+    specificParticleSystemsCollapse: 0
+    interactionFilter: 0
+    interactionInput: 48
+    interactionInputModifier: 0
+    guid: 
   onEnterSeat:
     m_PersistentCalls:
       m_Calls: []
@@ -825,6 +872,23 @@ ConstantForce:
   m_RelativeForce: {x: 0, y: 0, z: 0}
   m_Torque: {x: 0, y: 0, z: 0}
   m_RelativeTorque: {x: 0, y: 0, z: 0}
+--- !u!114 &1053749784517410455
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8771408521731618351}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 83327aad153c4576ba164cc0f0c0d3d1, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  defaultValue: 0
+  value: 0
+  affectedInteractables:
+  - {fileID: 8771408521731618345}
+  - {fileID: 8873675849137247827}
 --- !u!1 &8771408521750403017
 GameObject:
   m_ObjectHideFlags: 0
@@ -1072,6 +1136,39 @@ MonoBehaviour:
               m_ObjectArgumentAssemblyTypeName: 
               m_IntArgument: 0
               m_FloatArgument: 0
+              m_StringArgument: 
+              m_BoolArgument: 0
+            m_CallState: 2
+    - type: 21
+      targets:
+      - {fileID: 0}
+      floatVal: 0
+      stringVal: 
+      stringVal2: 
+      stringVal3: 
+      stringVal4: 
+      boolVal: 0
+      boolVal2: 0
+      gameObjectVal: {fileID: 8771408521731618351}
+      floatVal2: 0
+      floatVal3: 0
+      floatVal4: 0
+      varBufferVal: {fileID: 1053749784517410455}
+      varBufferVal2: {fileID: 0}
+      varBufferVal3: {fileID: 0}
+      animationVal: {fileID: 0}
+      customEvent:
+        m_PersistentCalls:
+          m_Calls:
+          - m_Target: {fileID: 1053749784517410455}
+            m_TargetAssemblyTypeName: ABI.CCK.Components.CVRVariableBuffer, Assembly-CSharp
+            m_MethodName: SetValue
+            m_Mode: 4
+            m_Arguments:
+              m_ObjectArgument: {fileID: 0}
+              m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+              m_IntArgument: 0
+              m_FloatArgument: 1
               m_StringArgument: 
               m_BoolArgument: 0
             m_CallState: 2

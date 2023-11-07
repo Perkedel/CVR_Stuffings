@@ -285,6 +285,8 @@ Following are GitHub repositories allegedly a CVR project:
 
 Yey it back https://github.com/racushstrago/CVR-Props thancc cool and good awesome div by zero!
 
+hmm it appears a customization script gone, so does in the game!
+
 ## Commissions
 
 Below are available commissions. The status, name, and optional cost to get out of procrastinations
@@ -423,6 +425,9 @@ Port this Prefabbed Scene into CVR
 - https://discussions.unity.com/t/how-to-add-rotation-to-current-rotation-over-time/182630
 - https://en.wikipedia.org/wiki/Cron
 - https://github.com/racushstrago/CVR-Props
+- https://www.youtube.com/watch?v=HmXU4dZbaMw
+- https://docs.unity3d.com/ScriptReference/Rigidbody-sleepVelocity.html
+- https://forum.unity.com/threads/how-to-reproduce-the-standard-input-getaxis-horizontal-in-the-new-input-system.706562/
 
 ## sovania
 
