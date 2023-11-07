@@ -1,5 +1,36 @@
 %YAML 1.1
 %TAG !u! tag:unity3d.com,2011:
+--- !u!1 &2734875436143604425
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6265420978320764603}
+  m_Layer: 0
+  m_Name: ResetPos
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6265420978320764603
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2734875436143604425}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 8771408520733059430}
+  m_RootOrder: 3
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &8771408520626849322
 GameObject:
   m_ObjectHideFlags: 0
@@ -128,6 +159,7 @@ Transform:
   - {fileID: 8873675849137247826}
   - {fileID: 8771408521731618350}
   - {fileID: 8771408521403178128}
+  - {fileID: 6265420978320764603}
   m_Father: {fileID: 0}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -638,7 +670,7 @@ MonoBehaviour:
     interactionFilter: 0
     interactionInput: 48
     interactionInputModifier: 0
-    guid: e00c83f2-5f92-4631-8959-9fd15af8b447
+    guid: 1a4a0b35-aba8-43be-b806-bdfad6734ce8
   - delay: 0
     operations:
     - type: 21
@@ -683,7 +715,7 @@ MonoBehaviour:
     interactionFilter: 0
     interactionInput: 48
     interactionInputModifier: 0
-    guid: 5029fb89-167b-4d89-ae2e-7c95ae8f8068
+    guid: 270bffc8-2214-4d09-a1db-a0313cd2e330
   - delay: 0
     operations:
     - type: 21
@@ -728,7 +760,7 @@ MonoBehaviour:
     interactionFilter: 0
     interactionInput: 48
     interactionInputModifier: 0
-    guid: 82ebf93d-9cb5-47af-8b51-3cd834611f1e
+    guid: a339f99e-e97f-415b-ae81-1713790d5845
   onEnterSeat:
     m_PersistentCalls:
       m_Calls: []
@@ -779,7 +811,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   syncOwner: 
-  guid: 22881d67-1eb6-4f42-b65d-3a33dba4695c
+  guid: 67178b2f-d8e6-4e4f-8f6f-75465244f9fd
 --- !u!1 &8771408521750403017
 GameObject:
   m_ObjectHideFlags: 0
@@ -951,6 +983,27 @@ MonoBehaviour:
       customEvent:
         m_PersistentCalls:
           m_Calls: []
+    - type: 7
+      targets:
+      - {fileID: 8771408521731618351}
+      floatVal: 0
+      stringVal: 
+      stringVal2: 
+      stringVal3: 
+      stringVal4: 
+      boolVal: 0
+      boolVal2: 0
+      gameObjectVal: {fileID: 2734875436143604425}
+      floatVal2: 0
+      floatVal3: 0
+      floatVal4: 0
+      varBufferVal: {fileID: 0}
+      varBufferVal2: {fileID: 0}
+      varBufferVal3: {fileID: 0}
+      animationVal: {fileID: 0}
+      customEvent:
+        m_PersistentCalls:
+          m_Calls: []
     actionType: 3
     execType: 2
     layerMask:
@@ -972,7 +1025,7 @@ MonoBehaviour:
     interactionFilter: 0
     interactionInput: 48
     interactionInputModifier: 0
-    guid: b94ec6e7-85ec-4292-958f-f4417e727753
+    guid: a23d3723-a56a-4b4b-ae2b-f2dc63212478
   - delay: 0
     operations:
     - type: 21
@@ -995,19 +1048,7 @@ MonoBehaviour:
       animationVal: {fileID: 0}
       customEvent:
         m_PersistentCalls:
-          m_Calls:
-          - m_Target: {fileID: 8771408521731618344}
-            m_TargetAssemblyTypeName: UnityEngine.Component, UnityEngine
-            m_MethodName: BroadcastMessage
-            m_Mode: 5
-            m_Arguments:
-              m_ObjectArgument: {fileID: 0}
-              m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
-              m_IntArgument: 0
-              m_FloatArgument: 0
-              m_StringArgument: 
-              m_BoolArgument: 0
-            m_CallState: 2
+          m_Calls: []
     actionType: 19
     execType: 2
     layerMask:
@@ -1029,10 +1070,22 @@ MonoBehaviour:
     interactionFilter: 4
     interactionInput: 10001
     interactionInputModifier: 0
-    guid: 
+    guid: 70738891-650e-442e-b14c-0dec56c62591
   onEnterSeat:
     m_PersistentCalls:
       m_Calls:
+      - m_Target: {fileID: 8771408521731618343}
+        m_TargetAssemblyTypeName: UnityEngine.Behaviour, UnityEngine
+        m_MethodName: set_enabled
+        m_Mode: 6
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 1
+        m_CallState: 2
       - m_Target: {fileID: 8771408521731618343}
         m_TargetAssemblyTypeName: Perkedel.CCK.Scripts.PerkedelBolaControl, Assembly-CSharp
         m_MethodName: setControlling
@@ -1051,6 +1104,18 @@ MonoBehaviour:
       - m_Target: {fileID: 8771408521731618343}
         m_TargetAssemblyTypeName: Perkedel.CCK.Scripts.PerkedelBolaControl, Assembly-CSharp
         m_MethodName: setControlling
+        m_Mode: 6
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
+      - m_Target: {fileID: 8771408521731618343}
+        m_TargetAssemblyTypeName: UnityEngine.Behaviour, UnityEngine
+        m_MethodName: set_enabled
         m_Mode: 6
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
@@ -1134,7 +1199,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 10303, guid: 0000000000000000f000000000000000, type: 0}
+  - {fileID: 2100000, guid: b4a85a91fdeee034c8084f9a8846244e, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
