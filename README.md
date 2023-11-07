@@ -44,6 +44,7 @@ Below are assets that are not included and must be installed prior of usage and 
 - [Fluff's VRC2CVR](https://fluffs.gumroad.com/l/flufftoolbox). Space Saving
 - ~~[Narazaka's VRC2CVR-YA](https://github.com/Narazaka/VRC2CVR). Space Saving~~ ~~Included, so small!~~ No longer works
 - [DonNomNomVR's AudioLink](https://github.com/DomNomNomVR/cvr-audio-link). Space Saving
+- [Unity-Chan!](https://assetstore.unity.com/packages/3d/characters/unity-chan-model-18705). Space Saving, common module.
 
 <!-- Pls include all free but CCK, to backup! -->
 > Some packages (e.g. `.unitypackage` extracted) are included for convenience.  
