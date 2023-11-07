@@ -255,6 +255,18 @@ It is forbidden to place assets under login requirement.
 > Paid (Actively on sale) assets are still forbidden to be unignored, due to strength of Earth people mental warfare & artileries. There shall no be provocation allowed at this time.
 > You sure you'll fulfill your promise on eventually releasing features into free tier? I don't have time to hear whether you did, so feel free treat as `breaking promise`. Right?? ... uh.. yeah, in my opinion.
 
+### Car too expensive
+
+CVR trusted Realistic Car Controller (i.e. whitelisted), and [has been suggested by Dippy to be used to make car props](https://youtu.be/3lWsYM_n1qg?si=jdOltEHmjnfOjFtU). However, we have already seen, that it is **way too expensive** and not all gamers have privilege by their parents and/or many factors.
+
+Indie Scripting support therefore is a must to unshackle our creativity away from requiring such asset just to get there.
+
+> Please do not sparsdat RCC!
+
+Please test these other Free car assets and confirm whether or not they works:
+
+- 
+
 #### Sauces
 
 - https://youtu.be/wyonsFb14zE?si=_59YKO556UHurZJI
@@ -485,6 +497,10 @@ Port this Prefabbed Scene into CVR
 - https://feedback.abinteractive.net/p/indicator-when-avatar-prop-world-download-failed-ingame-full-disk
 - https://feedback.abinteractive.net/p/cvr-video-player-option-to-grab-youtube-thumbnails
 - https://feedback.abinteractive.net/p/manual-portal-placement
+- https://assetstore.unity.com/packages/tools/game-toolkits/physics-tank-maker-50485
+- https://feedback.abinteractive.net/p/rcc-but-for-tracked-vehicles
+- https://feedback.abinteractive.net/p/adding-steering-wheel-support-for-rcc-cars-and-likewise-props
+- https://feedback.abinteractive.net/p/feature-request-wsm-train-script
 
 ## sovania
 
