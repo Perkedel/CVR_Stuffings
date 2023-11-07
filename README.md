@@ -105,7 +105,7 @@ Assign the `attachmentType` to whichever element you'd want this object attached
 
 Assign the `boneType` to whichever avatar bone you'd want this object attached to, if you included `bone` in `attachmentType`. Usually, it's desired to be attachable to `head`. Sometimes or rarely: `chest`, feet, etc.
 
-**Ensure you finally adjust your `maxAttachmentDistance`!** At least try the usual like 1, or less (`.9`, `.5`, `.25`, etc.) depending on the size and shape. If you forgot and let it 0, the prop would attach / stick forever and you must delete it in the game to restart the prop.
+**Ensure you finally adjust your `maxAttachmentDistance`!** At least try the usual like 1, or less (`.9`, `.5`, `.25`, etc.) depending on the size and shape. If you forgot and let it 0, the prop would attach / stick forever by any range and you must delete it in the game to restart the prop.
 
 Once you've configured your desired properties, **don't forget to attach methods to the `CVRInteractable`**. Assign these as follow:
 
