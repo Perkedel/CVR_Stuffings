@@ -271,7 +271,7 @@ CVR trusted Realistic Car Controller (i.e. whitelisted), and [has been suggested
 
 Indie Scripting support therefore is a must to unshackle our creativity away from requiring such asset just to get there.
 
-> Please do not sparsdat RCC!
+> Please do not include nor even sparsdated RCC!
 
 Please test these other Free car assets and confirm whether or not they works:
 
@@ -527,6 +527,10 @@ Port this Prefabbed Scene into CVR
 - https://feedback.abinteractive.net/p/feature-request-wsm-train-script
 - broadcast world / prop / avatar from local?
 - https://youtu.be/zIRPkDwbfac?si=obrS_6BQuQGKqJg_
+- https://youtu.be/j4sFnJccOcM?si=MX8z0zH0Z3pHurWZ MrTactical. There you pecking are! the Interactable Script tutorial... I hope this works. pls work lah! **learning esolang is haaaaaaaaaaaaaaaaaaaaaaaard!!!**
+- wait, that's all? the programming I'm looking for!!!
+- https://youtu.be/qisJ76vk62w?si=vnnPea4JVLn0RX1l
+- https://youtube.com/playlist?list=PL-jAwYaAzuBsuyRLcXXrazP8nREIWWg7r&si=4h1Di4rhFvYf3SbP Playlist of it yey
 
 ## sovania
 
