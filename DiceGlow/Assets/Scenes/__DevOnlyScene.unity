@@ -214,6 +214,7 @@ GameObject:
   m_Component:
   - component: {fileID: 435257846}
   - component: {fileID: 435257845}
+  - component: {fileID: 435257847}
   m_Layer: 0
   m_Name: Directional Light
   m_TagString: Untagged
@@ -298,6 +299,22 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 5
   m_LocalEulerAnglesHint: {x: 50, y: -30, z: 0}
+--- !u!114 &435257847
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 435257844}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a2b6c4e2e2dd02147b337e12ce54186d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  cycling: 0
+  addAngleBy: {x: 1, y: 0, z: 0}
+  speed: 10
+  theTransform: {fileID: 435257846}
 --- !u!1001 &617948678
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -922,7 +939,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4752920920505877267, guid: 86359e1e528a0074881e87e1b3c0e490, type: 3}
       propertyPath: m_IsActive
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 5385765060905195945, guid: 86359e1e528a0074881e87e1b3c0e490, type: 3}
       propertyPath: m_RootOrder
