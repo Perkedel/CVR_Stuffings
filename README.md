@@ -37,7 +37,10 @@ Below are assets that are not included and **must be installed prior of usage an
 
 <!-- TODO: Table pls! -->
 
-- CCK https://developers.abinteractive.net/cck/setup/ . Space saving, common module. 
+- CCK https://developers.abinteractive.net/cck/setup/ . Space saving, common module.
+- TextMesh Pro. Space saving, common module.
+  - Go to `Project Settings`.
+  - in category `TextMesh Pro`, click import `TMP Essentials`, then import `TMP Examples & Extras`.
 - [Magica Cloth 1](https://assetstore.unity.com/packages/tools/physics/magica-cloth-160144) & [2 the sequel](https://assetstore.unity.com/packages/tools/physics/magica-cloth-2-242307). Paywalled
 - Glenskunk's [Cartoon Heart](https://glenskunk.gumroad.com/l/toonheartforVR?layout=profile) & [rest of them](https://glenskunk.gumroad.com/) ([alt](https://jinxxy.com/GlenSkunk?jc=c52ec67a13d09e3c89aaddcb76f108d62e2d254afe4fa1477865)). Paywalled
 - Heartbeat connector . Paywalled
@@ -95,7 +98,7 @@ Make sure the GameObject you'd like to upload as an individual prop has these co
 - `CVRInteractable`. To allow interaction actions.
 - `CVRAssetInfo` (Automatic). **DO NOT FORGET TO NOTE ITS GUID!**
 
-Any other components like MonoBehaviour based and derivatives should be working & load in the software. Ensure also that it is not harmful.
+~~Any other components like MonoBehaviour based and derivatives should be working & load in the software. Ensure also that it is not harmful.~~ **NO, IT DOES NOT WORK!!** You must use niche CVR Scripting system with `CVRVariableBuffer`ed GameObjects as the children of this prop. Scripting is coming soon. use CVRLua mod idk..
 
 ##### To Pickup Props
 
