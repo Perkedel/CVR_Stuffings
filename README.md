@@ -483,6 +483,8 @@ Port this Prefabbed Scene into CVR
 - https://feedback.abinteractive.net/p/open-source-alternative-to-physbones
 - https://feedback.abinteractive.net/p/custom-tagging-search-tags
 - https://feedback.abinteractive.net/p/indicator-when-avatar-prop-world-download-failed-ingame-full-disk
+- https://feedback.abinteractive.net/p/cvr-video-player-option-to-grab-youtube-thumbnails
+- https://feedback.abinteractive.net/p/manual-portal-placement
 
 ## sovania
 
