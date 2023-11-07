@@ -83,9 +83,9 @@ Make sure in this Avatar you'd like to upload has these commponents:
 
 Make sure the GameObject you'd like to upload as an individual prop has these components:
 
-- **CVRSpawnable**.
-- CVRInteractable. To allow interaction actions.
-- CVRAssetInfo (Automatic). **DO NOT FORGET TO NOTE ITS GUID!**
+- **`CVRSpawnable`**.
+- `CVRInteractable`. To allow interaction actions.
+- `CVRAssetInfo` (Automatic). **DO NOT FORGET TO NOTE ITS GUID!**
 
 Any other components like MonoBehaviour based and derivatives should be working & load in the software. Ensure also that it is not harmful.
 
@@ -110,7 +110,9 @@ Assign the `boneType` to whichever avatar bone you'd want this object attached t
 Once you've configured your desired properties, **don't forget to attach methods to the `CVRInteractable`**. Assign these as follow:
 
 - Trigger `onGrab` has method call to `CVRAttachment` on this prop of `deAttach()`. Detach the prop when being picked up.
-- Trigger `onDrop` has method call to `CVRAttachment` on this prop of `attach()`. Once dropped, evaluate if it's on something can be attach to and attach to the valid part of the object.
+- Trigger `onDrop` has method call to `CVRAttachment` on this prop of `attach()`. Once dropped, evaluate if it's on something can be attached to and attach to the valid part of the object.
+
+To disable attachment later, simply set `attachmentType` in `CVRAttachment` to `nothing`. The prop then no longer stick-able.
 
 ## UUIDs
 
