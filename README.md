@@ -240,6 +240,7 @@ Per Archive Protocol established on 2023, It is now forbidden to place assets un
 It is forbidden to place assets under login requirement.
 
 > Paid (Actively on sale) assets are still forbidden to be unignored, due to strength of Earth people mental warfare & artileries. There shall no be provocation allowed at this time.
+> You sure you'll fulfill your promise on eventually releasing features into free tier? I don't have time to hear whether you did, so feel free treat as `breaking promise`. Right?? ... uh.. yeah, in my opinion.
 
 #### Sauces
 
@@ -440,6 +441,10 @@ Port this Prefabbed Scene into CVR
 - https://skfb.ly/oFIup AndyBegg. WhoopieCushion CC4.0-BY
 - SITT GETOUT? Sit chair cheat tool. drag this exit position beyond wall. sit, then stand up to teleport to that exit location.
 - https://skfb.ly/ow6pS 6 twelve
+- https://thryeditor.thryrallo.de/#article-presets
+- https://github.com/Thryrallo/ThryEditor
+- https://github.com/poiyomi/PoiyomiToonShader
+- https://valvesoftware.github.io/steam-audio/doc/unity/reference.html
 
 ## sovania
 
