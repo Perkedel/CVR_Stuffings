@@ -428,6 +428,9 @@ Port this Prefabbed Scene into CVR
 - https://www.youtube.com/watch?v=HmXU4dZbaMw
 - https://docs.unity3d.com/ScriptReference/Rigidbody-sleepVelocity.html
 - https://forum.unity.com/threads/how-to-reproduce-the-standard-input-getaxis-horizontal-in-the-new-input-system.706562/
+- https://skfb.ly/COBy PeteHawk. WhoopieCushion CC4.0-BY
+- https://skfb.ly/oFIup AndyBegg. WhoopieCushion CC4.0-BY
+- SITT GETOUT? Sit chair cheat tool. drag this exit position beyond wall. sit, then stand up to teleport to that exit location.
 
 ## sovania
 
