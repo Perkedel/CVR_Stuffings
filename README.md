@@ -210,7 +210,17 @@ Now, try again. If your log says `killing youtube-dl timeout`, try re-pasting th
 - https://openjur.de/u/2466945.html 🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕 
 - ~~https://youtube-dl.org/~~ brogen
 
-### Whitelisted URL for Video Player
+### Whitelists
+
+#### Whitelisted assets
+
+Known Whitelisted Unity Assets are:
+
+- [Realistic Car Controller](https://assetstore.unity.com/packages/tools/physics/realistic-car-controller-16296). BoneCrackers. Make drivable car props
+
+Custom own MonoBehaviour are not supported, since these needs the `dll` assembly to be installed onto CVR. A Lua Scripting support coming soon.
+
+#### Whitelisted URL for Video Player
 
 Known Whitelisted domains in CVR for Video Player are:
 
