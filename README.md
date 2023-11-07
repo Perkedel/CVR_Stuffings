@@ -91,7 +91,7 @@ Any other components like MonoBehaviour based and derivatives should be working 
 
 ##### To Pickup Props
 
-Ensure that your props has component `CVRPickupObject`. 
+Ensure that your prop has component `CVRPickupObject`.
 
 Drag its own transform into field `gripOrigin`, **and don't forget the `maximumGrabDistance` property**, to ensure the object can be dragged only by certain distances. If you forgot and kept 0, the object will be pickup-able at any range, and this is usually undesirable.
 
@@ -99,7 +99,7 @@ You also need to ensure that `CVRInteractable` is intact. the `CVRPickupObject` 
 
 ##### To Sticky Props
 
-Ensure that your props has component `CVRAttachment`.
+Ensure that your prop has component `CVRAttachment`.
 
 Assign the `attachmentType` to whichever element you'd want this object attached to. You can chose `none`, `everything`, or some of which. Usually, it is desired to be the `bone`.
 
