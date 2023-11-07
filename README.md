@@ -48,11 +48,17 @@ Below are assets that are not included and **must be installed prior of usage an
 - [DonNomNomVR's AudioLink](https://github.com/DomNomNomVR/cvr-audio-link). Space Saving
 - [Unity-Chan!](https://assetstore.unity.com/packages/3d/characters/unity-chan-model-18705). Space Saving, common module.
 - [SD Unity-chan Haon Custom](https://assetstore.unity.com/packages/3d/animations/haon-sd-series-bundle-84992). Space Saving, common module.
+- [Silent's Shader](https://gitlab.com/s-ilent/SCSS). Space Saving, common module.
+  - To install this Shader, **simply clone above repository**. It is advised not to download as ZIP file, since updates comes periodically.
+  - From the Silent's Shader repository you've just cloned, Copy the `Assets/Silent's Cel Shading Shader` along its `.meta` file, into here at `DiceGlow/Assets`.
+  - You can overwrite this folder with new version when it comes. Let us know if the new version broke something.
+  - To download new version, simple go back to above repository (`cd` to there), and `git pull`. Stash any accidental changes you made if it sees unwanted changes. Use [GitHub Desktop](https://desktop.github.com) to manage update at least better. Use Pull Origin button when the arrow down shows up on that button, and say yes stash if asked.
 
 <!-- Pls include all free but CCK, to backup! -->
 > Some packages (e.g. `.unitypackage` extracted) are included for ***convenience***.  
 > **Pls keep the Steam Audio with ones caught by kjoy** at `ThirdParty/kjoy/SteamAudio.unitypackage`. Using version above this will cause entire project hangs to `assembling C# scripts` **forever**.  
 > If you got this, simply close the project, remove 2 plugins in `DiceGlow/Assets/Plugins`: `SteamAudio` & `FMOD`, along with their `.meta` files. Then reopen this project, and install the correct version shipped by kjoy.
+> **DO NOT TRY TO INSTALL ANY CUSTOM RENDERING PIPELINES!!!** I tried and it broke the entire project (revert back to last backup!), and it's hard to manage compatibilities across multiple custom shaders. If you have the fix or better way to make every creation looks astonishing without needing complicated pipelines, let us know.
 
 ## Quick Tutorials
 
@@ -77,7 +83,9 @@ Make sure in this Avatar you'd like to upload has these commponents:
 
 ##### To Avatar Properties
 
-??? HOW ???
+In the `CVRAvatar`, you should see section `Advanced Settings` underneath `Advanced Tagging`. Enable this section, and add your `Input`.
+
+?? AND THEN HOW TO ASSIGN STATE BREAST EXPAND ??
 
 #### How to Props
 
