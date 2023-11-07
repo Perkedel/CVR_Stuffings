@@ -4,7 +4,7 @@
 
 ## All ChilloutVR projects
 
-This repository contains everything made by us for a VR based social media, ChilloutVR / CVR. It has everything ever created by us & with affilation to us.
+This repository contains everything made by us for a VR based social media, ChilloutVR / CVR. It has everything ever created by us & with affilation to us. It also contains 3rd party stuffs to as well!
 
 Everything here shall be uploaded & available for all gamers to contribute right to amend, modify, and add more stuffs. As well as to fork & build their own project upon. No part as all as possible be closed to an exclusive access. All gamers deserves.
 
@@ -19,8 +19,8 @@ Additionally, proper mentals in specifics pertaining encounter of nudity & sexua
 ### Installation Setup
 
 - Install CCK https://developers.abinteractive.net/cck/setup/ . Download the CCK & open up `DiceGlow` project with `Unity 2021.3.23f1` (**the version must be exactly as told by ABI!!**). Once you have downloaded it, simply drag the `.unitypackage` file into the editor. Add all files to it, **and DO NOT MOVE OR EDIT ANY OF THE FILE IN THAT FOLDER!!**
-- Install other assets that are not included here. The refered assets are listed in sections below.
-- Look around.
+- Install other assets that are [not included here](#list-of-not-included-assets). The refered assets are listed in sections below.
+- Look around the project.
 - Start developing & Contribute. You only need this project for all objects.
 
 ### Uploading
@@ -116,49 +116,51 @@ To disable attachment later, simply set `attachmentType` in `CVRAttachment` to `
 
 ## UUIDs
 
+<!-- TODO: Table pls -->
+
 ### Avatars
 
-- 92f6e5f4-e860-42fd-8154-81d69f605099 Howard the Alien
+- `92f6e5f4-e860-42fd-8154-81d69f605099` Howard the Alien
 
 ### Worlds
 
-- 6b1b8855-9196-4e21-a418-f52a862651af SFW DiceGlow Test Area
-- ?? NSFW CornSyrup Test Area
-- 3fe2b7c3-129a-418e-87ad-c3931657f843 (**NOT PERKEDEL**) UCC Cinema. MilchZocker
-- af0f00bc-0702-46ce-9441-bcce0ad6c813 (**NOT PERKEDEL**) UCC Avatars. MilchZocker
-- 9d0677a5-b88f-4994-901b-7b91c99e8cd8 (**NOT PERKEDEL**) UCC Bird Island. MilchZocker
-- bc8f15fa-8f6b-42b5-8096-8b3058345e98 (**NOT PERKEDEL**) UCC Hub. MilchZocker
+- `6b1b8855-9196-4e21-a418-f52a862651af` SFW DiceGlow Test Area
+- `??` NSFW CornSyrup Test Area
+- `3fe2b7c3-129a-418e-87ad-c3931657f843` (**NOT PERKEDEL**) UCC Cinema. MilchZocker
+- `af0f00bc-0702-46ce-9441-bcce0ad6c813` (**NOT PERKEDEL**) UCC Avatars. MilchZocker
+- `9d0677a5-b88f-4994-901b-7b91c99e8cd8` (**NOT PERKEDEL**) UCC Bird Island. MilchZocker
+- `bc8f15fa-8f6b-42b5-8096-8b3058345e98` (**NOT PERKEDEL**) UCC Hub. MilchZocker
 
 ### Props
 
-- e93b46ac-a385-43bc-8458-1ba48f1341db Wahaha Dice
-- e33ca9f8-0785-416a-b635-73a999bcb756 Wahaha Dice Scale 50
-- acfed254-b590-4c9b-96c3-28c8e22f51ec Wahaha Dice Scale 25
-- fa51c676-05bb-41c3-aa41-68941f9fb2a7 Wahaha Dice Scale 5
-- 2796a410-02e1-4fcc-b7d8-d58f31b354c1 Wahaha Dice GIANT 1000
-- e8da5752-5216-4bfe-a3ae-3c87d8ac9ca7 Wahaha Dice micro 1
-- ed1fe55e-c63a-4119-9fc2-caa9933cf6aa Ehehe Dice
-- c5482fb7-620f-42b0-ab84-afc8210a7a5a Ehehe Dice Scale 50
-- 5a5a3265-a1e7-469b-83f3-d83e8800cb02 Ehehe Dice Scale 25
-- 04ea5304-11c2-4244-98f1-7676a656da9e Ehehe Dice Scale 5
-- b06c91e7-989f-4685-8819-875b666093cf Ehehe Dice GIANT 1000
-- ca2e8dfb-3d35-42ad-8f22-bf839f732308 Ehehe Dice micro 1
-- 7bb92abf-fc97-4836-b9fb-fff929408907 A Dice
-- 3974a044-678b-4d26-8c00-9adaba057ffd A Dice Scale 50
-- f500a295-e148-489d-bb6c-bca39fa976ad A Dice Scale 25
-- 86462140-5f07-4fc0-a814-2541b5cd085d A Dice Scale 5
-- 6f803736-519f-4e3c-b8bd-d0581ab83083 A Dice GIANT 1000
-- 7cbb201a-d83b-40cd-975b-05250b7f74ad A Dice micro 1
-- cd15f618-b0bf-4a55-a9ee-6fc52fad42b2 E Dice
-- 962ea7dc-0c0a-4952-9842-d637570f2cde E Dice Scale 50
-- 5e3a8b44-9676-47cc-aa41-91e37fbd301a E Dice Scale 25
-- e2890d25-c725-495a-b5e0-98fb7526be8c E Dice Scale 5
-- dc2a31c2-d7b8-47e2-ae2c-b69c9d638c52 E Dice GIANT 1000
-- c01e0e3d-b793-4259-ba8c-84b1a6038a6c E Dice micro 1
-- c7a0bd47-3ece-485f-a994-d3eddbc2b4c1 Anjay Button
-- 8f094998-b863-4bc6-b3c9-726eb82f1e24 Fart Reverb Button
-- cdc8b5b1-43af-40fd-b7a5-af48dc8d6dde EmptyBall
-- 323d2618-403d-4835-9eac-5c8362a511a4 Stupid Cartoon Heart with Sound
+- `e93b46ac-a385-43bc-8458-1ba48f1341db` Wahaha Dice
+- `e33ca9f8-0785-416a-b635-73a999bcb756` Wahaha Dice Scale 50
+- `acfed254-b590-4c9b-96c3-28c8e22f51ec` Wahaha Dice Scale 25
+- `fa51c676-05bb-41c3-aa41-68941f9fb2a7` Wahaha Dice Scale 5
+- `2796a410-02e1-4fcc-b7d8-d58f31b354c1` Wahaha Dice GIANT 1000
+- `e8da5752-5216-4bfe-a3ae-3c87d8ac9ca7` Wahaha Dice micro 1
+- `ed1fe55e-c63a-4119-9fc2-caa9933cf6aa` Ehehe Dice
+- `c5482fb7-620f-42b0-ab84-afc8210a7a5a` Ehehe Dice Scale 50
+- `5a5a3265-a1e7-469b-83f3-d83e8800cb02` Ehehe Dice Scale 25
+- `04ea5304-11c2-4244-98f1-7676a656da9e` Ehehe Dice Scale 5
+- `b06c91e7-989f-4685-8819-875b666093cf` Ehehe Dice GIANT 1000
+- `ca2e8dfb-3d35-42ad-8f22-bf839f732308` Ehehe Dice micro 1
+- `7bb92abf-fc97-4836-b9fb-fff929408907` A Dice
+- `3974a044-678b-4d26-8c00-9adaba057ffd` A Dice Scale 50
+- `f500a295-e148-489d-bb6c-bca39fa976ad` A Dice Scale 25
+- `86462140-5f07-4fc0-a814-2541b5cd085d` A Dice Scale 5
+- `6f803736-519f-4e3c-b8bd-d0581ab83083` A Dice GIANT 1000
+- `7cbb201a-d83b-40cd-975b-05250b7f74ad` A Dice micro 1
+- `cd15f618-b0bf-4a55-a9ee-6fc52fad42b2` E Dice
+- `962ea7dc-0c0a-4952-9842-d637570f2cde` E Dice Scale 50
+- `5e3a8b44-9676-47cc-aa41-91e37fbd301a` E Dice Scale 25
+- `e2890d25-c725-495a-b5e0-98fb7526be8c` E Dice Scale 5
+- `dc2a31c2-d7b8-47e2-ae2c-b69c9d638c52` E Dice GIANT 1000
+- `c01e0e3d-b793-4259-ba8c-84b1a6038a6c` E Dice micro 1
+- `c7a0bd47-3ece-485f-a994-d3eddbc2b4c1` Anjay Button
+- `8f094998-b863-4bc6-b3c9-726eb82f1e24` Fart Reverb Button
+- `cdc8b5b1-43af-40fd-b7a5-af48dc8d6dde` EmptyBall
+- `323d2618-403d-4835-9eac-5c8362a511a4` Stupid Cartoon Heart with Sound
 
 ### Assorted
 
