@@ -431,6 +431,7 @@ Port this Prefabbed Scene into CVR
 - https://skfb.ly/COBy PeteHawk. WhoopieCushion CC4.0-BY
 - https://skfb.ly/oFIup AndyBegg. WhoopieCushion CC4.0-BY
 - SITT GETOUT? Sit chair cheat tool. drag this exit position beyond wall. sit, then stand up to teleport to that exit location.
+- https://skfb.ly/ow6pS 6 twelve
 
 ## sovania
 
