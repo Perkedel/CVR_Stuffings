@@ -378,6 +378,9 @@ Port this Prefabbed Scene into CVR
 - https://freesound.org/people/loudernoises/sounds/332808/ Synthetic 100 BPM heartbeat sound iyey
 - https://dc.theworldcore.link Discord of NovaVoidHowl. Found at NVH's avatar world
 - https://www.tumblr.com/joelwindows7/733271993109069824/yess-i-did-it-kinda?source=share Official Heartbeat content CVR 1st time
+- https://assetstore.unity.com/packages/3d/characters/unity-chan-model-18705
+- https://vocaloid.fandom.com/wiki/Unity-chan!_(VOCALOID4)
+- https://assetstore.unity.com/publishers/7659
 
 ## sovania
 
