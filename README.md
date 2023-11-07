@@ -233,6 +233,14 @@ We unfortunately have no choice but include these shaders, due to other modules 
 
 Perkedel and affiliates condemn highly, the act of partializing feature sets under micro-transactions or any similar system, as well as basically paywalling assets. If you have any questions, let us know, under DM Prefix `CVR_PAID_ASSET_CONCERNS`.
 
+### Discord Exclusive Downloads
+
+Per Archive Protocol established on 2023, It is now forbidden to place assets under exclusive download behind join guild, for especially with Discord, to join over 100 servers / guild **requires nitro / premium subscription**. Therefore all assets, updated newer, and even any version locking assets will be unignored and all employees have been instructed to unignore & forbid ignoring these kinds of assets.
+
+It is forbidden to place assets under login requirement.
+
+> Paid (Actively on sale) assets are still forbidden to be unignored, due to strength of Earth people mental warfare & artileries. There shall no be provocation allowed at this time.
+
 #### Sauces
 
 - https://youtu.be/wyonsFb14zE?si=_59YKO556UHurZJI
