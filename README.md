@@ -416,6 +416,9 @@ Port this Prefabbed Scene into CVR
 - https://vocaloid.fandom.com/wiki/Unity-chan!_(VOCALOID4)
 - https://assetstore.unity.com/publishers/7659
 - https://assetstore.unity.com/packages/3d/animations/haon-sd-series-bundle-84992
+- https://youtu.be/xkRUD1Ox9rU?si=2dDqXv4MtE8T16O1 how to sitt pt. 1
+- https://youtu.be/ZuyJTO1V5ls?si=9mevrOPiGK45dBuH how to sitt pt. 2
+- https://discussions.unity.com/t/how-to-add-rotation-to-current-rotation-over-time/182630
 
 ## sovania
 
