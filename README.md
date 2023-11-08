@@ -178,6 +178,8 @@ To disable attachment later, simply set `attachmentType` in `CVRAttachment` to `
 - `99e7c61c-f253-4f4a-bb82-224f1d627591` What's your name?
 - `992a3278-59e6-4161-9c8e-69e16a2b9152` What's your pronoun?
 - `ccfe57c8-f21c-46e3-8c3d-ec5a9def4be8` Stop you're annoying!
+- `d3afa62b-3524-46b9-93fd-519dd91a63da` I'm so sorry, I didn't mean to freeze you!
+- `12d3cc16-e202-48ad-900a-99c41d2d6130` I'm very shy!
 
 ### Assorted
 
@@ -583,6 +585,26 @@ Port this Prefabbed Scene into CVR
 - https://www.unicode.org/L2/L2016/16071-three-fingers.pdf
 - https://thehungergames.fandom.com/f/p/3100000000000032123/r/3087807785174657258
 - https://github.com/PrismYoutube/Unity-Car-Controller
+- https://feedback.abinteractive.net/p/midi-support-for-playback-data-sending-network-streaming-and-controllers
+- https://feedback.abinteractive.net/p/movement-flight-prop-tag-for-non-fly-worlds
+- https://feedback.abinteractive.net/p/movement-flight-prop-tag-for-non-fly-worlds
+- https://feedback.abinteractive.net/p/fly-with-clipping
+- https://feedback.abinteractive.net/p/i-was-wondering-if-it-is-possible-to-limit-the-number-of-avatars-you-load-in
+- https://feedback.abinteractive.net/p/cvr-spawnable-local-synced-values
+- https://feedback.abinteractive.net/p/companion-app-for-cvr
+- https://feedback.abinteractive.net/p/marking-instances-as-mature
+- https://feedback.abinteractive.net/p/mature-dlc-only-instances-worlds
+- https://feedback.abinteractive.net/p/the-unity-layer-system-needs-help
+- https://feedback.abinteractive.net/p/still-seeing-props-from-blocked-users
+- https://feedback.abinteractive.net/p/per-user-audio-falloff
+- https://feedback.abinteractive.net/p/prop-zones
+- https://feedback.abinteractive.net/p/prop-whitelist-for-worlds
+- https://feedback.abinteractive.net/p/website-functionality
+- https://feedback.abinteractive.net/p/advanced-safety-settings-needs-an-indicator-for-when-an-avatar-is-affected
+- https://feedback.abinteractive.net/p/velocity-parameter-stream
+- https://feedback.abinteractive.net/p/de-listing-of-legacy-worlds-that-are-significantly-broken
+- https://feedback.abinteractive.net/p/pico-neo-support-specifically-3-and-4
+- https://feedback.abinteractive.net/p/object-sync-broken
 
 ## sovania
 
