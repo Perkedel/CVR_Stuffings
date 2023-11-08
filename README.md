@@ -250,6 +250,18 @@ Therefore, the version of Unity (`Unity 2021.3.23f1`) used by AlphaBlend Interac
 
 Be knowledgeful also, that ABI already built their software & set goals for long since before. Therefore, to stop and *port* to other engines is not a viable option. This can only be done from scratch with different set of instructions. We shall see further, so stay tuned.
 
+#### Sauces Unity Runtime Fee
+
+- https://youtu.be/wyonsFb14zE?si=_59YKO556UHurZJI
+- https://youtu.be/qa58KNo8JfA?si=X-_b1dxivObMaZKz
+- https://youtu.be/ENoVL68z9PU?si=YyeXAfWCEpDq1Hww
+- https://youtu.be/Le79j1ZSfKk?si=k-D8BFEqUwsjx_kl
+- https://youtu.be/LlPOn0nAOeo?si=2tAqr7a9InVhvQVL
+- https://youtu.be/uJnOBC9wJyQ?si=Ixmi5OvGtDEAf0-L
+- https://youtu.be/UW9SiyCPOPI?si=aZHcSHIXE-dMyjBT
+- https://youtu.be/KTWHdLZZdGw?si=PL3HIwjyEEVGphLY
+- https://x.com/FuckedByUnity?s=09
+
 ### Why did you include `NAME`?! They are all partialists
 
 We unfortunately have no choice but include these shaders, due to other modules have used such shader, hence depends on it. We hope that these modules uses features available in Free edition only, and say if they did used paid feature, can be replaced back to the free sets ones without breaking.
@@ -276,18 +288,6 @@ Indie Scripting support therefore is a must to unshackle our creativity away fro
 Please test these other Free car assets and confirm whether or not they works:
 
 - 
-
-#### Sauces
-
-- https://youtu.be/wyonsFb14zE?si=_59YKO556UHurZJI
-- https://youtu.be/qa58KNo8JfA?si=X-_b1dxivObMaZKz
-- https://youtu.be/ENoVL68z9PU?si=YyeXAfWCEpDq1Hww
-- https://youtu.be/Le79j1ZSfKk?si=k-D8BFEqUwsjx_kl
-- https://youtu.be/LlPOn0nAOeo?si=2tAqr7a9InVhvQVL
-- https://youtu.be/uJnOBC9wJyQ?si=Ixmi5OvGtDEAf0-L
-- https://youtu.be/UW9SiyCPOPI?si=aZHcSHIXE-dMyjBT
-- https://youtu.be/KTWHdLZZdGw?si=PL3HIwjyEEVGphLY
-- https://x.com/FuckedByUnity?s=09
 
 ### Dippy's Unity Packages ~~GONE 404~~ EXISTS
 
@@ -344,6 +344,8 @@ Observing:
 - Unity Engine. Could be mass abandoned, in which usage population observably reduced down to less than 100K gamers
 - ChilloutVR. **Could be ceased**, due to that Unity's ever growing tactic of genocide. Could be a statement regarding inviability handling Unity's bad behaviours, even working around around older the latest Runtime-fee-free version ever activatable by creators & themselves, where it no longer works and must upgrade to Runtime Fee agenda enabled versions. In event of critical situation (which hopefully does not reach), ABI is suggested to restart everything from scratch with Godot (Neos Unreal & VRChat Unity & others already exists, but not Godot). Also, ABI is suggested not to abandon critical support due to a particular competitor whose used same Unity Engine, and ensured to add all suggested & requested last feature sets before going into apocalypse mode.
 - This. Following fate of ChilloutVR for its supporting status, and observing populations of userbase in common setting (normal & modded), not including post-apocalypse userbase (i.e. Overmodded Frankensteined already abandoned CVR).
+
+> It has been rumored that extra factor of death are believed to be paid assets. Assets you need to buy are each nail in these coffins. Perkedel states that these are our employees' opinion and we will observe whether or not that this opinion is convertible into facts, by opening opportunities such as Free just for Perkedel atleast (Give assets to Joel for $0 willingly), and evaluate if such encouragement would remove enough amount of nails in the coffin.
 
 ## Commissions
 
