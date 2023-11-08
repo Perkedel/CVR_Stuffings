@@ -285,7 +285,7 @@ Indie Scripting support therefore is a must to unshackle our creativity away fro
 
 > Please do not include nor even sparsdated RCC! Keep this asset folder to yourself 😉.
 
-<!-- Salam X0p1r4t3! -->
+<!-- and your family. Salam X0p1r4t3! -->
 
 Please test these other Free car assets and confirm whether or not they works:
 
