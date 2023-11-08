@@ -572,6 +572,11 @@ Port this Prefabbed Scene into CVR
 - wait, that's all? the programming I'm looking for!!!
 - https://youtu.be/qisJ76vk62w?si=vnnPea4JVLn0RX1l
 - https://youtube.com/playlist?list=PL-jAwYaAzuBsuyRLcXXrazP8nREIWWg7r&si=4h1Di4rhFvYf3SbP Playlist of it yey
+- https://lingojam.com/EOSL:Emoji-OrientedSignLanguage
+- https://id.pinterest.com/pin/848365648554263551/
+- https://emojipedia.org/deaf-person
+- https://www.unicode.org/L2/L2016/16071-three-fingers.pdf
+- https://thehungergames.fandom.com/f/p/3100000000000032123/r/3087807785174657258
 
 ## sovania
 
