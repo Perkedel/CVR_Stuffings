@@ -379,6 +379,8 @@ Neshim: Maaf. Kebijakan transparansi pekerjaan, Jadi, Viorfa harus tugas.
 Otall: Aduh, Joeeel, Joel, ya jangan dong! Ntar kita semua yang habis salah siapa?
 
 Neshim: Udah2, i.. ini mana lagi yang mesti dirapiin.
+
+Info: Gamers who live in X0p1r4t3 city Living Lobe 4 are opportunists, who always ready to take on various hobbies, new and old. Programming C# for Unity is among one of them. Until there was the betrayal recently, where everyone began to abandon Unity, but then canceled partially in favour of ChilloutVR. Fun fact, we started doing ChilloutVR content creation as a request of some of the gamers, who turns out are those 4th Living Lobe housers! Yeah, shoutout to them. 4 has Kaorfa learned for vain in his college (Yes, Joel in his day at Binus University had learned Unity). But atleast it got used again right? Well, sort of.
  -->
 
 ## Commissions
