@@ -279,11 +279,13 @@ It is forbidden to place assets under login requirement.
 
 ### Car too expensive
 
-CVR trusted Realistic Car Controller (i.e. whitelisted), and [has been suggested by Dippy to be used to make car props](https://youtu.be/3lWsYM_n1qg?si=jdOltEHmjnfOjFtU). However, we have already seen, that it is **way too expensive** and not all gamers have privilege by their parents and/or many factors.
+CVR trusted [Realistic Car Controller](https://assetstore.unity.com/packages/tools/physics/realistic-car-controller-16296) (i.e. whitelisted), and [has been suggested by Dippy to be used to make car props](https://youtu.be/3lWsYM_n1qg?si=jdOltEHmjnfOjFtU). However, we have already seen, that it is **way too expensive** and not all gamers have privilege by their parents and/or many factors.
 
 Indie Scripting support therefore is a must to unshackle our creativity away from requiring such asset just to get there.
 
-> Please do not include nor even sparsdated RCC!
+> Please do not include nor even sparsdated RCC! Keep this asset folder to yourself 😉.
+
+<!-- Salam X0p1r4t3! -->
 
 Please test these other Free car assets and confirm whether or not they works:
 
