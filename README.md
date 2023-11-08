@@ -359,6 +359,26 @@ Neshim M'neer (Wakturia): Saya rasa sih nggak deh, kalau gk dishare disini semog
 Otall: Nggak nggak, kita gk bakal masukin kok. kami sebarnya lewat pinjam USB.
 
 Neshim: Sip.
+
+Toresheleni: (Dodo is recording, Viorfas in this topic are tasked to document tasks transparently) Woi, itu ngapain Dodo?
+
+Dodo (Viorfa): Eh?
+
+Toresheleni: Woi, matiin! Para Federal bakal ngelihat ini! Ketahuan kita!
+
+Neshim: (hold) dah gpp gpp gpp.
+
+Toresheleni: Woi matii..n, ini kita lagi ngomong aset terpaksa! Si Federal udah tahu tak segan2 nyari cara kok dimasukin
+
+Neshim: Tenang. Biar kami yang urus.
+
+Otall: Kok pakai acara rekam2 rekaman sih, apalagi ini?
+
+Neshim: Maaf. Kebijakan transparansi pekerjaan, Jadi, Viorfa harus tugas.
+
+Otall: Aduh, Joeeel, Joel, ya jangan dong! Ntar kita semua yang habis salah siapa?
+
+Neshim: Udah2, i.. ini mana lagi yang mesti dirapiin.
  -->
 
 ## Commissions
