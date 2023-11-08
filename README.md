@@ -172,6 +172,7 @@ To disable attachment later, simply set `attachmentType` in `CVRAttachment` to `
 - `8f094998-b863-4bc6-b3c9-726eb82f1e24` Fart Reverb Button
 - `cdc8b5b1-43af-40fd-b7a5-af48dc8d6dde` EmptyBall
 - `323d2618-403d-4835-9eac-5c8362a511a4` Stupid Cartoon Heart with Sound
+- `05b157e8-d51f-4411-ad86-8cb314535e6d` C# forbidden meme
 
 ### Assorted
 
@@ -380,7 +381,9 @@ Otall: Aduh, Joeeel, Joel, ya jangan dong! Ntar kita semua yang habis salah siap
 
 Neshim: Udah2, i.. ini mana lagi yang mesti dirapiin.
 
-Info: Gamers who live in X0p1r4t3 city Living Lobe 4 are opportunists, who always ready to take on various hobbies, new and old. Programming C# for Unity is among one of them. Until there was the betrayal recently, where everyone began to abandon Unity, but then canceled partially in favour of ChilloutVR. Fun fact, we started doing ChilloutVR content creation as a request of some of the gamers, who turns out are those 4th Living Lobe housers! Yeah, shoutout to them. 4 has Kaorfa learned for vain in his college (Yes, Joel in his day at Binus University had learned Unity). But atleast it got used again right? Well, sort of.
+Info: Gamers who live in X0p1r4t3 city Living Lobe 4 are opportunists, who always ready to take on various hobbies, new and old. Programming C# for Unity is among one of them. Until there was the betrayal recently, where everyone began to abandon Unity, but then canceled partially in favour of ChilloutVR. Fun fact, we started doing ChilloutVR content creation as a request of some of the gamers, who turns out are those 4th Living Lobe housers! Yeah, shoutout to them. 4 has Kaorfa learned for vain in his college (Yes, Joel in his day at Binus University had learned Unity). But atleast it got used again right? Well, sort of. 
+
+Joel: Also pls don't ask to borrow my USB Flashdisk, buy your own, unless you're my close family. Blend in! I promise I'll make car script whenver CVR supports custom scripting, as all I can.
  -->
 
 ## Commissions
