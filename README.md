@@ -349,6 +349,18 @@ Observing:
 
 > It has been rumored that extra factor of death are believed to be paid assets. Each Assets you need to buy are each nail in these coffins. Perkedel states that these are our employees' opinion and we will observe whether or not that this opinion is convertible into facts, by opening opportunities such as Free just for Perkedel atleast (Give assets to Joel for $0 willingly), and evaluate if such encouragement would remove enough amount of nails in the coffin.
 
+<!-- 
+Otall (X0p1r4t3): Woi, langsung aja ya? gw rasa gk kaya FNF kemarin yg mesti ancam nyawa. ini can cuma Unity bakal mati gitu2
+
+Toresheleni (X0p1r4t3): Nggak, soalnya ada aset2 yg kontributor dari kitanya yg bajak. Contohnya RCC udah kesebar di Lobe Living 4. mesti lihat dulu nih, apakah mereka ngelihat.
+
+Neshim M'neer (Wakturia): Saya rasa sih nggak deh, kalau gk dishare disini semoga gpp. Mending kalian jangan sampai masuk Discordnya Kaorfa.
+
+Otall: Nggak nggak, kita gk bakal masukin kok. kami sebarnya lewat pinjam USB.
+
+Neshim: Sip.
+ -->
+
 ## Commissions
 
 Below are available commissions. The status, name, and optional cost to get out of procrastinations
