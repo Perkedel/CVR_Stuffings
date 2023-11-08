@@ -368,7 +368,7 @@ Toresheleni: Woi, matiin! Para Federal bakal ngelihat ini! Ketahuan kita!
 
 Neshim: (hold) dah gpp gpp gpp.
 
-Toresheleni: Woi matii..n, ini kita lagi ngomong aset terpaksa! Si Federal udah tahu tak segan2 nyari cara kok dimasukin
+Toresheleni: Woi matii..n, ini kita lagi ngomong aset terpaksa! Si Federal udah tahu tak segan2 nyari cara kok dimasukin?
 
 Neshim: Tenang. Biar kami yang urus.
 
