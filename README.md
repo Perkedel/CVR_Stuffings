@@ -685,6 +685,27 @@ Port this Prefabbed Scene into CVR
 - https://github.com/lilxyzw/lilToon/
 - https://github.com/whiteflare/Unlit_WF_ShaderSuite
 - https://github.com/OmochiNobiru/DPSShaderGenerator2
+- https://github.com/VoyVivika/CVR-Tutorial-Prop
+- https://github.com/VoyVivika/VivikaShader/releases
+- https://github.com/VoyVivika?tab=repositories
+- https://github.com/VoyVivika/shapeshift1
+- https://github.com/VoyVivika/shapeshift
+- https://github.com/VoyVivika/GodSpeakBot
+- https://github.com/Kavex/ChilloutVR_Prefabs/releases
+- https://www.youtube.com/watch?v=_1zzRLMHlDM
+- https://3dwarehouse.sketchup.com/model/4ee36dd6-7482-41a2-87ff-ceaefc83c4da/Rippchen
+- https://3dwarehouse.sketchup.com/model/4ee36dd6-7482-41a2-87ff-ceaefc83c4da/Rippchen
+- https://3dwarehouse.sketchup.com/model/4ee36dd6-7482-41a2-87ff-ceaefc83c4da/Rippchen
+- https://3dwarehouse.sketchup.com/model/4ee36dd6-7482-41a2-87ff-ceaefc83c4da/Rippchen
+- https://imgur.com/a/gKzuoze
+- https://imgur.com/a/HiQHKc6
+- https://imgur.com/a/HiQHKc6
+- https://imgur.com/a/HiQHKc6
+- https://imgur.com/a/iPeoQrR
+- https://imgur.com/a/8Wo6Ed5
+- https://imgur.com/a/XbczvRS
+- https://github.com/NovaVoidHowl/Mesh-Bone-Rebind.git
+- https://github.com/NovaVoidHowl/NavMesh-Follower-Setup
 
 ## sovania
 
