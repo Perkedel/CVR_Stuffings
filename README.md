@@ -626,6 +626,9 @@ Port this Prefabbed Scene into CVR
 - https://www.bhaptics.com/tactsuit/tactsuit-x40
 - https://www.reddit.com/r/ChilloutVR/comments/yrx5pt/does_dps_work/
 - https://en.wikipedia.org/wiki/4K_resolution
+- https://internetcheckpoint.page/Q9XTqQbuavI
+- https://booth.pm/en/items/5231989
+- https://booth.pm/en/items/5155673
 
 ## sovania
 

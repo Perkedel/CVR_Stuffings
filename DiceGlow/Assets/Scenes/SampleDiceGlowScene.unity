@@ -1499,6 +1499,54 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 53
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &320701127
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 320701129}
+  - component: {fileID: 320701128}
+  m_Layer: 0
+  m_Name: ApplicateRotate
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 0
+--- !u!114 &320701128
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 320701127}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cfa2d3fd5b564c4f923e1963652b46a3, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  target: {fileID: 0}
+  forceVector: {x: 0, y: 0, z: 0}
+  strength: 0
+  onlyWhenSubmerged: 0
+--- !u!4 &320701129
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 320701127}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 79
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &343213057
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -1918,7 +1966,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   type: 2
   objectId: 6b1b8855-9196-4e21-a418-f52a862651af
-  randomNum: 34163619
+  randomNum: 72557967
 --- !u!114 &444788605
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2817,7 +2865,7 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 705507993}
-  m_Enabled: 1
+  m_Enabled: 0
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: a2b6c4e2e2dd02147b337e12ce54186d, type: 3}
   m_Name: 
@@ -2839,7 +2887,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   syncOwner: 
-  guid: 88bf6c1d-335e-43b3-a775-b418488b5a19
+  guid: bcd4af3a-6d9a-4272-863e-a668900905b5
 --- !u!1 &722088653
 GameObject:
   m_ObjectHideFlags: 0
@@ -3565,10 +3613,10 @@ Camera:
   serializedVersion: 2
   m_ClearFlags: 1
   m_BackGroundColor: {r: 0.06915272, g: 0.19634803, b: 0.3962264, a: 0}
-  m_projectionMatrixMode: 1
+  m_projectionMatrixMode: 2
   m_GateFitMode: 2
   m_FOVAxisMode: 0
-  m_SensorSize: {x: 36, y: 24}
+  m_SensorSize: {x: 70.41, y: 52.63}
   m_LensShift: {x: 0, y: 0}
   m_FocalLength: 50
   m_NormalizedViewPortRect:
@@ -3579,7 +3627,7 @@ Camera:
     height: 1
   near clip plane: 0.3
   far clip plane: 1000
-  field of view: 26.991467
+  field of view: 55.515667
   orthographic: 0
   orthographic size: 5
   m_Depth: -1
@@ -4387,7 +4435,7 @@ MonoBehaviour:
     interactionFilter: 0
     interactionInput: 48
     interactionInputModifier: 0
-    guid: 1ade3e9d-be05-4154-b59f-94ced9929f84
+    guid: b7aca75a-4c9c-4100-875c-383f7d49dd31
   onEnterSeat:
     m_PersistentCalls:
       m_Calls: []
@@ -4497,11 +4545,11 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 902193820088148693, guid: 2fc287c4c26aa4949857279a61558229, type: 3}
       propertyPath: guid
-      value: 87a49672-9c0d-4b61-a4ad-3198bec4d5bd
+      value: 60ccfa95-f404-44bc-b65d-1b808d698547
       objectReference: {fileID: 0}
     - target: {fileID: 7539083245261713974, guid: 2fc287c4c26aa4949857279a61558229, type: 3}
       propertyPath: guid
-      value: 0c79f5f2-c9a1-4a88-a15d-cd02509a1632
+      value: e268ef51-1e73-4294-ba80-32a1e05e9eae
       objectReference: {fileID: 0}
     - target: {fileID: 8771408520733059430, guid: 2fc287c4c26aa4949857279a61558229, type: 3}
       propertyPath: m_RootOrder
@@ -5479,7 +5527,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4963468759218669784, guid: b8334d98f267c134c8e1551b17780e98, type: 3}
       propertyPath: guid
-      value: cb14fd65-2b3d-4ac5-b35d-adc4a228fd83
+      value: 2151ef4c-4ed5-4bf3-b4a4-4184e926a436
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: b8334d98f267c134c8e1551b17780e98, type: 3}
@@ -5618,13 +5666,13 @@ MonoBehaviour:
       customEvent:
         m_PersistentCalls:
           m_Calls:
-          - m_Target: {fileID: 705507996}
-            m_TargetAssemblyTypeName: Perkedel.CCK.Scripts.PerkedelAutoRotate, Assembly-CSharp
-            m_MethodName: toggleCycle
+          - m_Target: {fileID: 1825622977}
+            m_TargetAssemblyTypeName: 
+            m_MethodName: 
             m_Mode: 1
             m_Arguments:
               m_ObjectArgument: {fileID: 0}
-              m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+              m_ObjectArgumentAssemblyTypeName: 
               m_IntArgument: 0
               m_FloatArgument: 0
               m_StringArgument: 
@@ -5651,7 +5699,7 @@ MonoBehaviour:
     interactionFilter: 0
     interactionInput: 48
     interactionInputModifier: 0
-    guid: bb28f4d4-f9d7-4439-a574-b0a8cd04263b
+    guid: f4eebb91-35e1-4164-a75b-0b2c9c12c867
   onEnterSeat:
     m_PersistentCalls:
       m_Calls: []
@@ -5813,7 +5861,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!114 &1926114993
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -7960,7 +8008,7 @@ MonoBehaviour:
     interactionFilter: 0
     interactionInput: 48
     interactionInputModifier: 0
-    guid: 95ccd344-cfdb-4a58-8b06-1111bf8964ff
+    guid: 8121bae7-459f-40fa-b008-f3060cf4bc99
   onEnterSeat:
     m_PersistentCalls:
       m_Calls: []
@@ -8395,7 +8443,7 @@ MonoBehaviour:
     interactionFilter: 0
     interactionInput: 48
     interactionInputModifier: 0
-    guid: a9a63e57-adbb-472d-b01c-50f410197c64
+    guid: eb7e17f0-ed1d-4b87-ab6c-2f55d10cce90
   onEnterSeat:
     m_PersistentCalls:
       m_Calls: []
@@ -12713,7 +12761,7 @@ MonoBehaviour:
     interactionFilter: 0
     interactionInput: 48
     interactionInputModifier: 0
-    guid: ee7a015c-f833-4b72-a618-38bf54b75d1d
+    guid: 9d81dc61-09be-4695-9536-e5ff31010667
   onEnterSeat:
     m_PersistentCalls:
       m_Calls: []
@@ -13564,7 +13612,7 @@ MonoBehaviour:
     interactionFilter: 0
     interactionInput: 48
     interactionInputModifier: 0
-    guid: 2d6bdc3a-b1a3-4385-9e92-303445e2f0a5
+    guid: dc45f8cc-3167-4d09-8942-23aefe1aaeb6
   onEnterSeat:
     m_PersistentCalls:
       m_Calls: []
@@ -13904,7 +13952,7 @@ MonoBehaviour:
     interactionFilter: 0
     interactionInput: 48
     interactionInputModifier: 0
-    guid: 3f960b5b-dc17-4a96-9eea-579cf69f4cea
+    guid: 7ad0e65a-60a1-4c7c-83f0-867587b3d25a
   onEnterSeat:
     m_PersistentCalls:
       m_Calls: []
@@ -13924,7 +13972,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   syncOwner: 
-  guid: 6a3ee515-52c9-4d47-8283-509ac8a118ac
+  guid: e8aaa821-a912-4011-b27f-c21a1dc8ac5a
 --- !u!222 &3429289557469666939
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -14191,7 +14239,7 @@ MonoBehaviour:
     interactionFilter: 0
     interactionInput: 48
     interactionInputModifier: 0
-    guid: 7bb65c85-f86e-44ba-b9db-1f5483052b7a
+    guid: ea6272dd-c844-4676-9887-f50bad5e8aec
   onEnterSeat:
     m_PersistentCalls:
       m_Calls: []
@@ -14633,7 +14681,7 @@ MonoBehaviour:
     interactionFilter: 0
     interactionInput: 48
     interactionInputModifier: 0
-    guid: 969610ce-4ab4-4abc-9fff-6cbca6649cb1
+    guid: 61569060-9e0b-4aba-ab67-bb8933b03950
   onEnterSeat:
     m_PersistentCalls:
       m_Calls: []
@@ -14721,7 +14769,7 @@ MonoBehaviour:
     interactionFilter: 0
     interactionInput: 48
     interactionInputModifier: 0
-    guid: 83fd4229-5a03-4333-b4df-e61369eeab0d
+    guid: 73b1327c-3e57-4472-86ff-3a687654e336
   onEnterSeat:
     m_PersistentCalls:
       m_Calls: []
@@ -15105,7 +15153,7 @@ MonoBehaviour:
     interactionFilter: 0
     interactionInput: 48
     interactionInputModifier: 0
-    guid: d8fa5f47-b181-4bda-a178-086401695e5f
+    guid: d0ed6dc8-f909-4a6b-98d9-bf95b92e8b94
   onEnterSeat:
     m_PersistentCalls:
       m_Calls: []
@@ -15215,7 +15263,7 @@ MonoBehaviour:
     interactionFilter: 0
     interactionInput: 48
     interactionInputModifier: 0
-    guid: f96f6be1-df62-434a-8324-d1170d04ff9f
+    guid: e202c553-5a7f-4dc0-a263-81b812068508
   onEnterSeat:
     m_PersistentCalls:
       m_Calls: []
@@ -16082,7 +16130,7 @@ MonoBehaviour:
     interactionFilter: 0
     interactionInput: 48
     interactionInputModifier: 0
-    guid: 4fabf70b-fcfc-46ab-b2be-cc2c5a3cc398
+    guid: 9fad86f8-1502-4dff-8ef2-334fd46b7abb
   onEnterSeat:
     m_PersistentCalls:
       m_Calls: []
@@ -16192,7 +16240,7 @@ MonoBehaviour:
     interactionFilter: 0
     interactionInput: 48
     interactionInputModifier: 0
-    guid: e55371ae-ea0e-4057-aa3a-3266cb3845a4
+    guid: e855a699-0d16-4f04-9642-a0645025d91d
   onEnterSeat:
     m_PersistentCalls:
       m_Calls: []
@@ -17246,7 +17294,7 @@ MonoBehaviour:
     interactionFilter: 0
     interactionInput: 48
     interactionInputModifier: 0
-    guid: df243959-4f38-4d42-868f-4ad78c68fed4
+    guid: a3c38908-c42f-418e-bc18-7d4d4da3dadb
   onEnterSeat:
     m_PersistentCalls:
       m_Calls: []
