@@ -680,6 +680,8 @@ Port this Prefabbed Scene into CVR
 - https://feedback.abinteractive.net/p/material-swap-in-cck
 - https://github.com/unity3d-jp/UnityChanToonShaderVer2_Project/blob/release/legacy/2.0/UTS2_ShaderOnly_v2.0.9_Release.unitypackage
 - https://github.com/unity3d-jp/UnityChanToonShaderVer2_Project/
+- https://github.com/lilxyzw/lilToon/releases/download/1.3.7/lilToon_1.3.7.unitypackage
+- https://github.com/lilxyzw/lilToon/
 
 ## sovania
 
