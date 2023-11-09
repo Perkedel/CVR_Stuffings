@@ -200,6 +200,7 @@ To disable attachment later, simply set `attachmentType` in `CVRAttachment` to `
 - `ccfe57c8-f21c-46e3-8c3d-ec5a9def4be8` Stop you're annoying!
 - `d3afa62b-3524-46b9-93fd-519dd91a63da` I'm so sorry, I didn't mean to freeze you!
 - `12d3cc16-e202-48ad-900a-99c41d2d6130` I'm very shy!
+- `66effc2f-41af-475d-bfd2-df37989c1600` (**NOT PERKEDEL**) VoyVivika Portable Tutorial Prop
 
 ### Assorted
 
