@@ -709,6 +709,8 @@ Port this Prefabbed Scene into CVR
 - https://github.com/NovaVoidHowl/NavMesh-Follower-Setup
 - https://github.com/kafeijao/Kafe_CVR_CCKs/blob/master/NavMeshFollower/README.md
 - https://assetstore.unity.com/packages/tools/animation/final-ik-14290 BUSET IDR 3 JUTA!!!!
+- https://github.com/kafeijao/Kafe_CVR_CCKs/blob/master/NavMeshFollower/README.md
+- https://github.com/kafeijao/Kafe_CVR_CCKs
 
 ## sovania
 
