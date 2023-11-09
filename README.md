@@ -642,6 +642,13 @@ Port this Prefabbed Scene into CVR
 - https://sherbertdragon.gumroad.com/ yoooooooooooooooooooooooooo
 - https://zueda.gumroad.com/ OAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAARGH
 - https://github.com/NovaVoidHowl/BlenderBits/blob/main/Moving-Bones-From-Armature-To-Armature.md
+- https://assetstore.unity.com/packages/tools/animation/final-ik-14290 maybe I should have commission more freer than ever, in which catch is to be there on my account.
+- https://assetstore.unity.com/packages/tools/physics/magica-cloth-160144
+- https://sketchfoxsky.gumroad.com/
+- https://docs.google.com/spreadsheets/d/e/2PACX-1vSlKw7F4duN6QvoZqP4gAGjy99k4Ngi5arvKe1r0VGeWg5dnqhWXP1r5YcFJ3-gkaOwQgdpt-XUnd8G/pubhtml#
+- https://mommamollycvr.gumroad.com/l/gxruw
+- https://sketchfoxsky.gumroad.com/l/CKeeN
+- https://github.com/NovaVoidHowl/CVR---Guides-Notes
 
 ## sovania
 
