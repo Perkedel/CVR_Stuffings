@@ -42,10 +42,10 @@ Below are assets that are not included and **must be installed prior of usage an
   - Go to `Project Settings`.
   - in category `TextMesh Pro`, click import `TMP Essentials`, then import `TMP Examples & Extras`.
 - [Magica Cloth 1](https://assetstore.unity.com/packages/tools/physics/magica-cloth-160144) & [2 the sequel](https://assetstore.unity.com/packages/tools/physics/magica-cloth-2-242307). Paywalled
-- Glenskunk's [Cartoon Heart](https://glenskunk.gumroad.com/l/toonheartforVR?layout=profile) & [rest of them](https://glenskunk.gumroad.com/) ([alt](https://jinxxy.com/GlenSkunk?jc=c52ec67a13d09e3c89aaddcb76f108d62e2d254afe4fa1477865)). Paywalled
-- Heartbeat connector . Paywalled
-- Car Module . Paywalled
-- [Fluff's VRC Avatar Toolbox](https://fluffs.gumroad.com/l/flufftoolbox). Paywalled
+- Glenskunk's [Cartoon Heart](https://glenskunk.gumroad.com/l/toonheartforVR?layout=profile) & [rest of them](https://glenskunk.gumroad.com/) ([alt](https://jinxxy.com/GlenSkunk?jc=c52ec67a13d09e3c89aaddcb76f108d62e2d254afe4fa1477865)). **Paywalled**
+- [Gan Servo's Heartbeat connector for VRChat](https://garnservo.gumroad.com/l/Heartbeat?layout=profile). **Paywalled**, **INCOMPATIBLE PLS PORT**. using [HR2VRC](https://hrtovrchat.fortnite.lol/setup) ([HR2VRC DISCONTINUED 2024-01-01](https://hrtovrchat.fortnite.lol/discontinuation))
+- [Realistic Car Controller](https://assetstore.unity.com/packages/tools/physics/realistic-car-controller-16296). **Paywalled**
+- [Fluff's VRC Avatar Toolbox](https://fluffs.gumroad.com/l/flufftoolbox). **Paywalled**
 - [Fluff's VRC2CVR](https://fluffs.gumroad.com/l/flufftoolbox). Space Saving
 - ~~[Narazaka's VRC2CVR-YA](https://github.com/Narazaka/VRC2CVR). Space Saving~~ ~~Included, so small!~~ No longer works
 - [DonNomNomVR's AudioLink](https://github.com/DomNomNomVR/cvr-audio-link). Space Saving
@@ -59,6 +59,7 @@ Below are assets that are not included and **must be installed prior of usage an
 - [Fast Script Reload](https://assetstore.unity.com/packages/tools/utilities/fast-script-reload-239351). Space Saving
 - [Live Script Reload](https://assetstore.unity.com/packages/tools/utilities/live-script-reload-on-device-hot-reload-239380). **Paywalled**, argh you son of a female dog! Partialism much?! I was already excited. Congratulations, you surprised me. You did it, congratulations! *may your life be successful*, woohoo!!
 - [WhiteFlare's Unlit Shader Suite](https://github.com/whiteflare/Unlit_WF_ShaderSuite/). Space Saving. ~~wait, why did you picked the caught version?!~~ [OLD](https://github.com/whiteflare/Unlit_WF_ShaderSuite/releases/download/Unlit_WF_ShaderSuite_20230107/UnlitWF_20230107_01_Core_2019.unitypackage). THIS IS NEW ONES!!!
+- [Final IK](https://assetstore.unity.com/packages/tools/animation/final-ik-14290). **Paywalled**. Instead, [the stub will be included](https://github.com/VRLabs/Final-IK-Stub).
 
 <!-- Pls include all free but CCK, to backup! -->
 > Some packages (e.g. `.unitypackage` extracted) are included for ***convenience***.  
@@ -706,6 +707,8 @@ Port this Prefabbed Scene into CVR
 - https://imgur.com/a/XbczvRS
 - https://github.com/NovaVoidHowl/Mesh-Bone-Rebind.git
 - https://github.com/NovaVoidHowl/NavMesh-Follower-Setup
+- https://github.com/kafeijao/Kafe_CVR_CCKs/blob/master/NavMeshFollower/README.md
+- https://assetstore.unity.com/packages/tools/animation/final-ik-14290 BUSET IDR 3 JUTA!!!!
 
 ## sovania
 

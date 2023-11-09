@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!206 &20600000
+BlendTree:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Flying
+  m_Childs:
+  - serializedVersion: 2
+    m_Motion: {fileID: 7400000, guid: e452ef6b5b038cb4d8f7eeee2ab8f9aa, type: 2}
+    m_Threshold: 0.049019612
+    m_Position: {x: 0, y: 2}
+    m_TimeScale: 0.8
+    m_CycleOffset: 0
+    m_DirectBlendParameter: MovementZ
+    m_Mirror: 0
+  - serializedVersion: 2
+    m_Motion: {fileID: 7400000, guid: 6371a3af05e72e344b7b525240884563, type: 2}
+    m_Threshold: 0.058823533
+    m_Position: {x: 0, y: 0}
+    m_TimeScale: 0.4
+    m_CycleOffset: 0
+    m_DirectBlendParameter: MovementZ
+    m_Mirror: 0
+  - serializedVersion: 2
+    m_Motion: {fileID: 7400000, guid: 404c6fd53966032408ec5840008dc25e, type: 2}
+    m_Threshold: 0.06862746
+    m_Position: {x: 0, y: -2}
+    m_TimeScale: 0.8
+    m_CycleOffset: 0
+    m_DirectBlendParameter: MovementX
+    m_Mirror: 0
+  - serializedVersion: 2
+    m_Motion: {fileID: 7400000, guid: d1c99989b8037794d82ef90bfec88060, type: 2}
+    m_Threshold: 0.07843138
+    m_Position: {x: -2, y: 0}
+    m_TimeScale: 0.8
+    m_CycleOffset: 0
+    m_DirectBlendParameter: MovementX
+    m_Mirror: 0
+  - serializedVersion: 2
+    m_Motion: {fileID: 7400000, guid: da2649698b70c6243923b552f6e4da3f, type: 2}
+    m_Threshold: 0.088235304
+    m_Position: {x: 2, y: 0}
+    m_TimeScale: 0.8
+    m_CycleOffset: 0
+    m_DirectBlendParameter: MovementX
+    m_Mirror: 0
+  m_BlendParameter: MovementX
+  m_BlendParameterY: MovementY
+  m_MinThreshold: 0.049019612
+  m_MaxThreshold: 0.088235304
+  m_UseAutomaticThresholds: 1
+  m_NormalizedBlendValues: 0
+  m_BlendType: 2
