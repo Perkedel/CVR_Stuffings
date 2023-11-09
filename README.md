@@ -58,6 +58,7 @@ Below are assets that are not included and **must be installed prior of usage an
   - To download new version, simple go back to above repository (`cd` to there), and `git pull`. Stash any accidental changes you made if it sees unwanted changes. Use [GitHub Desktop](https://desktop.github.com) to manage update at least better. Use Pull Origin button when the arrow down shows up on that button, and say yes stash if asked.
 - [Fast Script Reload](https://assetstore.unity.com/packages/tools/utilities/fast-script-reload-239351). Space Saving
 - [Live Script Reload](https://assetstore.unity.com/packages/tools/utilities/live-script-reload-on-device-hot-reload-239380). **Paywalled**, argh you son of a female dog! Partialism much?! I was already excited. Congratulations, you surprised me. You did it, congratulations! *may your life be successful*, woohoo!!
+- [WhiteFlare's Unlit Shader Suite](https://github.com/whiteflare/Unlit_WF_ShaderSuite/). Space Saving. ~~wait, why did you picked the caught version?!~~ [OLD](https://github.com/whiteflare/Unlit_WF_ShaderSuite/releases/download/Unlit_WF_ShaderSuite_20230107/UnlitWF_20230107_01_Core_2019.unitypackage). THIS IS NEW ONES!!!
 
 <!-- Pls include all free but CCK, to backup! -->
 > Some packages (e.g. `.unitypackage` extracted) are included for ***convenience***.  
@@ -69,6 +70,13 @@ Below are assets that are not included and **must be installed prior of usage an
 > **(For Perkedel Cinematic Universe gamers) DO NOT USE ANY OF THE PAID ASSETS UNTIL KAORFA PAID THE LICENSE!**. Wait until there is `PAID` flags in it, if there is, then all gamers to contribute must buy it (not using sparsdated file you got out there 😉, for legal reason). For legal reason complying Earth's law.
 > **(For real life gamers & Kaorfa) CONTRIBUTORS ARE REQUIRED TO OWN EACH AND WHICH LICENSES OF ABOVE PAID ASSETS BEFORE INVOLVING ANY OF THEM**. For legal reason complying Earth's law
 
+<!-- 
+Garaves (X0p1r4t3): Guys, you better put this in all anyways instead, can't we? uh.. We're going to have so many plugins assets here! Paid assets are still few enough to manage. Free ones, no longer! which is great, no offense! That's neat! But uh.. Let's just expect contributors REALLY CAN BUY STORAGE, and only. YOu know, coz we spread to archive. No huert spreading free assets huh? right??
+
+Gyouter: Thank you for your feedback. We will together discuss this.
+
+Info: Current Ignore settings are: Common Free, Paid. Current Always include settings are: Gone 404 (including reuploads).
+ -->
 
 ### Proves of purchases
 
@@ -247,6 +255,22 @@ Known Whitelisted domains in CVR for Video Player are:
 
 - [VRCDN](https://vrcdn.live)
 - [YouTube.com](https://youtube.com)
+- [Soundcloud.com](https://soundcloud.com)
+- [DailyMotion.com](https://dailymotion.com). Oh this a888888, banned my account because `advertise market link` and refuse to unban.
+- [Google.com](https://google.com)
+- [Google Video (Drive, Photos, etc.)](https://googlevideo.com)
+- [Streamable](https://streamable.com)
+- [MixCloud](https://mixcloud.com)
+- [Twitch.tv](https://twitch.tv)
+- [CVR.GG](https://cvr.gg)
+- [ABI Data](https://abidata.io)
+- [ABI Network](https://abi.network)
+- [ABI Website](https://abinteractive.net)
+- [Vimeo](https://vimeo.com). Now you can watch Ondemands you buy to here! iyey.. no. login required.
+- [vivo.sx](https://vivo.sx)
+
+([SAUCE](https://github.com/NovaVoidHowl/CVR---Guides-Notes/blob/main/file-locations-and-info.md)) Modify these whitelist on this JSON file: `%USERPROFILE%\Appdata\LocalLow\Alpha Blend Interactive\ChilloutVR\UrlWhitelist.json`  
+**Do this at your own risk!**
 
 ### Are these done by Realizer division?
 
@@ -649,6 +673,13 @@ Port this Prefabbed Scene into CVR
 - https://mommamollycvr.gumroad.com/l/gxruw
 - https://sketchfoxsky.gumroad.com/l/CKeeN
 - https://github.com/NovaVoidHowl/CVR---Guides-Notes
+- https://github.com/NovaVoidHowl/CVR---Guides-Notes/blob/main/file-locations-and-info.md
+- https://github.com/cpenny42/juce-soundfonts/issues/2
+- https://github.com/cpenny42/juce-soundfonts/pull/3#issuecomment-1788963545
+- https://github.com/Perkedel/CVR_Stuffings/issues/1
+- https://feedback.abinteractive.net/p/material-swap-in-cck
+- https://github.com/unity3d-jp/UnityChanToonShaderVer2_Project/blob/release/legacy/2.0/UTS2_ShaderOnly_v2.0.9_Release.unitypackage
+- https://github.com/unity3d-jp/UnityChanToonShaderVer2_Project/
 
 ## sovania
 
