@@ -62,6 +62,16 @@ Below are assets that are not included and **must be installed prior of usage an
 > **Pls keep the Steam Audio with ones caught by kjoy** at `ThirdParty/kjoy/SteamAudio.unitypackage`. Using version above this will cause entire project hangs to `assembling C# scripts` **forever**.  
 > If you got this, simply close the project, remove 2 plugins in `DiceGlow/Assets/Plugins`: `SteamAudio` & `FMOD`, along with their `.meta` files. Then reopen this project, and install the correct version shipped by kjoy.
 > **DO NOT TRY TO INSTALL ANY CUSTOM RENDERING PIPELINES!!!** I tried and it broke the entire project (revert back to last backup!), and it's hard to manage compatibilities across multiple custom shaders. If you have the fix or better way to make every creation looks astonishing without needing complicated pipelines, let us know.
+>
+> We are aware that there are concerns regarding sparsdated assets. We understand that gamers have difficulty for those are not $0, and we have no rights to intervene your act. However, in order to keep us safe from Federals vengeance, please follow these orders bellow:
+> **(For Perkedel Cinematic Universe gamers) DO NOT USE ANY OF THE PAID ASSETS UNTIL KAORFA PAID THE LICENSE!**. Wait until there is `PAID` flags in it, if there is, then all gamers to contribute must buy it (not using sparsdated file you got out there 😉, for legal reason). For legal reason complying Earth's law.
+> **(For real life gamers & Kaorfa) CONTRIBUTORS ARE REQUIRED TO OWN EACH AND WHICH LICENSES OF ABOVE PAID ASSETS BEFORE INVOLVING ANY OF THEM**. For legal reason complying Earth's law
+
+
+### Proves of purchases
+
+Please attach screenshots below for the assets we have paid to be used by Perkedel Cinematic Universe gamers.  
+For real life contributors, you must purchase the license of your own, not sparsdated you got out there 😉. For legal reasons. We do not want you get harrassed by your Federals because caught using sparsdated assets.
 
 ## Quick Tutorials
 
