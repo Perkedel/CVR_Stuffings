@@ -629,6 +629,12 @@ Port this Prefabbed Scene into CVR
 - https://internetcheckpoint.page/Q9XTqQbuavI
 - https://booth.pm/en/items/5231989
 - https://booth.pm/en/items/5155673
+- https://en.wikipedia.org/wiki/4K_resolution
+- https://github.com/Yusarina pls download all Jolia files!!!
+- https://github.com/Yusarina/Cats-Blender-Plugin-Unofficial- Hoo???
+- https://github.com/michaeldegroot/cats-blender-plugin/
+- https://github.com/Kyobinoyo/Pencil-Prop don't forget this one
+- 
 
 ## sovania
 
