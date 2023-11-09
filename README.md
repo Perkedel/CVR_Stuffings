@@ -56,6 +56,8 @@ Below are assets that are not included and **must be installed prior of usage an
   - From the Silent's Shader repository you've just cloned, Copy the `Assets/Silent's Cel Shading Shader` along its `.meta` file, into here at `DiceGlow/Assets`.
   - You can overwrite this folder with new version when it comes. Let us know if the new version broke something.
   - To download new version, simple go back to above repository (`cd` to there), and `git pull`. Stash any accidental changes you made if it sees unwanted changes. Use [GitHub Desktop](https://desktop.github.com) to manage update at least better. Use Pull Origin button when the arrow down shows up on that button, and say yes stash if asked.
+- [Fast Script Reload](https://assetstore.unity.com/packages/tools/utilities/fast-script-reload-239351). Space Saving
+- [Live Script Reload](https://assetstore.unity.com/packages/tools/utilities/live-script-reload-on-device-hot-reload-239380). **Paywalled**, argh you son of a female dog! Partialism much?! I was already excited. Congratulations, you surprised me. You did it, congratulations! *may your life be successful*, woohoo!!
 
 <!-- Pls include all free but CCK, to backup! -->
 > Some packages (e.g. `.unitypackage` extracted) are included for ***convenience***.  
@@ -635,6 +637,11 @@ Port this Prefabbed Scene into CVR
 - https://github.com/michaeldegroot/cats-blender-plugin/
 - https://github.com/Kyobinoyo/Pencil-Prop don't forget this one
 - https://github.com/VoyVivika?tab=repositories iyeayeeiy VoyVivika
+- https://assetstore.unity.com/packages/tools/utilities/live-script-reload-on-device-hot-reload-239380 YOu sone of a
+- https://assetstore.unity.com/publishers/46154
+- https://sherbertdragon.gumroad.com/ yoooooooooooooooooooooooooo
+- https://zueda.gumroad.com/ OAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAARGH
+- https://github.com/NovaVoidHowl/BlenderBits/blob/main/Moving-Bones-From-Armature-To-Armature.md
 
 ## sovania
 
