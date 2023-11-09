@@ -682,6 +682,8 @@ Port this Prefabbed Scene into CVR
 - https://github.com/unity3d-jp/UnityChanToonShaderVer2_Project/
 - https://github.com/lilxyzw/lilToon/releases/download/1.3.7/lilToon_1.3.7.unitypackage
 - https://github.com/lilxyzw/lilToon/
+- https://github.com/whiteflare/Unlit_WF_ShaderSuite
+- https://github.com/OmochiNobiru/DPSShaderGenerator2
 
 ## sovania
 
