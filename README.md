@@ -605,6 +605,7 @@ Port this Prefabbed Scene into CVR
 - https://feedback.abinteractive.net/p/de-listing-of-legacy-worlds-that-are-significantly-broken
 - https://feedback.abinteractive.net/p/pico-neo-support-specifically-3-and-4
 - https://feedback.abinteractive.net/p/object-sync-broken
+- https://store.steampowered.com/news/app/661130/view/3796032312660573554
 
 ## sovania
 
