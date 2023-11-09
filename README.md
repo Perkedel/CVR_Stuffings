@@ -179,7 +179,7 @@ To disable attachment later, simply set `attachmentType` in `CVRAttachment` to `
 - `992a3278-59e6-4161-9c8e-69e16a2b9152` What's your pronoun?
 - `ccfe57c8-f21c-46e3-8c3d-ec5a9def4be8` Stop you're annoying!
 - `d3afa62b-3524-46b9-93fd-519dd91a63da` I'm so sorry, I didn't mean to freeze you!
-- `d3afa62b-3524-46b9-93fd-519dd91a63da` I'm very shy!
+- `12d3cc16-e202-48ad-900a-99c41d2d6130` I'm very shy!
 
 ### Assorted
 
@@ -225,6 +225,7 @@ Now, try again. If your log says `killing youtube-dl timeout`, try re-pasting th
 Known Whitelisted Unity Assets are:
 
 - [Realistic Car Controller](https://assetstore.unity.com/packages/tools/physics/realistic-car-controller-16296). BoneCrackers. Make drivable car props
+- Magica Cloth Gen1 & Gen2.
 
 Custom own MonoBehaviour are not supported, since these needs the `dll` assembly to be installed onto CVR. A Lua Scripting support coming soon.
 
@@ -607,7 +608,13 @@ Port this Prefabbed Scene into CVR
 - https://feedback.abinteractive.net/p/object-sync-broken
 - https://store.steampowered.com/news/app/661130/view/3796032312660573554
 - fsd
-- 
+- https://assetstore.unity.com/publishers/1
+- https://github.com/handzlikchris/FastScriptReload
+- https://assetstore.unity.com/packages/tools/utilities/fast-script-reload-239351
+- https://assetstore.unity.com/packages/tools/gui/in-game-debug-console-68068
+- https://github.com/yasirkula/UnityIngameDebugConsole
+- https://www.bhaptics.com/tactsuit/tactsuit-x40
+- https://www.reddit.com/r/ChilloutVR/comments/yrx5pt/does_dps_work/
 
 ## sovania
 
