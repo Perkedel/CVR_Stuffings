@@ -728,7 +728,30 @@ Port this Prefabbed Scene into CVR
 - https://unity.com/releases/editor/qa/lts-releases?version=2021.3 2021.3 is legacy LTS and gets last support in mid-2024
 - Welcome to another video, from [ExplainingComputers, dot com](https://explainingcomputers.com). This time..
 - .
-- 
+- https://past.furality.org/f4/legendaryshader iyey Furality shader
+- https://furality.org/ website furality
+- https://twitter.com/NaitoOokami who made this shader
+- https://www.twitch.tv/furality
+- https://github.com/Thorinair/LumaDriver-for-ChilloutVR You check this too!
+- https://past.furality.org/f3/lumaglow OH MOAR
+- https://past.furality.org/f5/aqua-assets YESS!!
+- https://furality.org/asset-license
+- https://github.com/Thorinair/Chryssy
+- https://github.com/Thorinair?tab=repositories
+- https://github.com/Ksisa/Avali-Continued-1.1
+- https://steamcommunity.com/sharedfiles/filedetails/?id=1732147907
+- https://github.com/Thorinair/Steam-The-Punks
+- https://avali.fandom.com/wiki/The_Official_Avali_Wiki
+- https://github.com/Thorinair/Avalon-Harmonics
+- https://avalon-harmonics.com/
+- https://github.com/Ksisa/Avali-Continued-1.1
+- https://github.com/Thorinair/AuraDriver
+- https://evilbetty.booth.pm/items/4059518
+- https://evilbetty.booth.pm/items/4053039
+- https://youtu.be/r_ErytGpScQ?si=qQIzmyQSxqPSShDA I wish, gamers.
+- https://youtu.be/IouiZ1J_AJo?si=HKZhE0efjfKpLJPA wai wait, This is the one!!!
+- https://youtu.be/GC-ZmlwBWKM?si=d1YAfkQwk1DHyKYq and this the music.
+
 
 ## sovania
 
