@@ -14,6 +14,10 @@ Everything here shall be uploaded & available for all gamers to contribute right
 
 Additionally, proper mentals in specifics pertaining encounter of nudity & sexualized works **are required**. I mean all Perkedel employees in any division are expected to say okay with lewd works, we are company of culture! We don't hire losers. only winners. We don't care if you are handsome or beautiful (not like most of local companies in my areas), We want works. You can do it, willing do it, even by others is disgusting? You're in! Yeah, I know, we're trying everyday.
 
+## Disclaimer
+
+**Perkedel Technologies (Perkedel Teknologi Canggih Abadi) and divisions are NOT affiliated with Alpha Blend Interactive**. Therefore, such work & creation endeavors in any forms presented here are not officially made, nor endorsed, nor sponsored by ABI in any way.
+
 ## Instructions
 
 ### Installation Setup
@@ -48,10 +52,10 @@ Below are assets that are not included and **must be installed prior of usage an
 - [Fluff's VRC Avatar Toolbox](https://fluffs.gumroad.com/l/flufftoolbox). **Paywalled**
 - [Fluff's VRC2CVR](https://fluffs.gumroad.com/l/flufftoolbox). Space Saving
 - ~~[Narazaka's VRC2CVR-YA](https://github.com/Narazaka/VRC2CVR). Space Saving~~ ~~Included, so small!~~ No longer works
-- ~~[DonNomNomVR's AudioLink](https://github.com/DomNomNomVR/cvr-audio-link). Space Saving~~ **INCLUDED**
+- ~~[DonNomNomVR's AudioLink](https://github.com/DomNomNomVR/cvr-audio-link). Space Saving~~ **INCLUDED, [License](https://github.com/DomNomNomVR/cvr-audio-link/blob/master/LICENSE)**
 - [Unity-Chan!](https://assetstore.unity.com/packages/3d/characters/unity-chan-model-18705). Space Saving, common module.
 - [SD Unity-chan Haon Custom](https://assetstore.unity.com/packages/3d/animations/haon-sd-series-bundle-84992). Space Saving, common module.
-- [Silent's Shader](https://gitlab.com/s-ilent/SCSS). Space Saving, common module.
+- ~~[Silent's Shader](https://gitlab.com/s-ilent/SCSS). Space Saving, common module.~~ **INCLUDED, [License MIT](https://gitlab.com/s-ilent/SCSS/-/blob/master/LICENSE?ref_type=heads)**
   - To install this Shader, **simply clone above repository**. It is advised not to download as ZIP file, since updates comes periodically.
   - From the Silent's Shader repository you've just cloned, Copy the `Assets/Silent's Cel Shading Shader` along its `.meta` file, into here at `DiceGlow/Assets`.
   - You can overwrite this folder with new version when it comes. Let us know if the new version broke something.
