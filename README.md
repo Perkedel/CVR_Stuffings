@@ -45,6 +45,8 @@ Below are assets that are not included and **must be installed prior of usage an
 - TextMesh Pro. Space saving, **CORE MODULE**.
   - Go to `Project Settings`.
   - in category `TextMesh Pro`, click import `TMP Essentials`, then import `TMP Examples & Extras`.
+- ProBuilder. Space saving, **CORE MODULE**.
+  - Install this in `Assets`, `View in Package Manager`.
 - [Magica Cloth 1](https://assetstore.unity.com/packages/tools/physics/magica-cloth-160144) & [2 the sequel](https://assetstore.unity.com/packages/tools/physics/magica-cloth-2-242307). Paywalled
 - Glenskunk's [Cartoon Heart](https://glenskunk.gumroad.com/l/toonheartforVR?layout=profile) & [rest of them](https://glenskunk.gumroad.com/) ([alt](https://jinxxy.com/GlenSkunk?jc=c52ec67a13d09e3c89aaddcb76f108d62e2d254afe4fa1477865)). **Paywalled**
 - [Gan Servo's Heartbeat connector for VRChat](https://garnservo.gumroad.com/l/Heartbeat?layout=profile). **Paywalled**, **INCOMPATIBLE PLS PORT**. using [HR2VRC](https://hrtovrchat.fortnite.lol/setup) ([HR2VRC DISCONTINUED 2024-01-01](https://hrtovrchat.fortnite.lol/discontinuation))
@@ -157,7 +159,6 @@ To disable attachment later, simply set `attachmentType` in `CVRAttachment` to `
 
 ## UUIDs
 
-
 Here are the UUIDs of all these assets we uploaded to CVR:
 
 <!-- TODO: Table pls -->
@@ -240,6 +241,10 @@ These are the GUID from our cache folder of CVR.
 Ensure to detach the GUID if you'd like to make new variant of these prefabs.
 
 For employee: **DO NOT LOSE THE GUID!! MAKE SURE IT IS STILL ATTACHED, & IS SAME MATCH WITH THE PAGE IT UPLOADED TO!**
+
+### Control Bola
+
+Idk what to write yet!
 
 ### Video Player not working
 
@@ -459,6 +464,16 @@ Info: Gamers who live in X0p1r4t3 city Living Lobe 4 are opportunists, who alway
 
 Joel: Also pls don't ask to borrow my USB Flashdisk, buy your own, unless you're my close family. Blend in! I promise I'll make car script whenver CVR supports custom scripting, as all I can.
  -->
+
+> UPDATE: We are unable to determine its death timer, as we believe that ChilloutVR has no sign of degradation or sickness whatsoever. However, We do find that Unity **indeed has** been dying, due to their reckless acts. But for this one, This is simply too slow & therefore long due to abundant amount of users already trusted Unity. We can simply reduce the scope of overlooking up to only New Version which officially stated being the only one and forth that has Runtime Fee.  
+> All and all, This project fortunately, can't be considered contract since that would be too long for an oathed job. Instead this will be considered... We have no name yet, but for now, it's Checkpoint.  
+> Until CVR demise, This is our place to share our thoughts.
+>
+> Current Checkpoints:
+>
+> - [Perkedel NTLF+ASTR Website](https://perkedel.netlify.app/), [Source Code](https://github.com/Perkedel/perkedel-astro).
+> - [~~Hexagon Engine~~ Overseer](https://github.com/Perkedel/HexagonEngine) (Inactive, under maintenance)
+> - [CVR Stuffings for ChilloutVR](https://github.com/Perkedel/CVR_Stuffings) (**NEW**)
 
 ## Commissions
 
@@ -819,6 +834,7 @@ Port this Prefabbed Scene into CVR
 - https://github.com/SutekhVRC/VOR
 - https://dev.abinteractive.net/official/legal/tos/
 - https://github.com/Kavex/GameSounds GNU GPL v3
+- https://assetstore.unity.com/packages/3d/props/3d-chest-object-50741 Layer Lab's 3D Chest Object! **The asset is free**, the [Sketchfab preview](https://skfb.ly/ILHv) **has no download button** & Sketchfab or themselves **removed the link back** to this asset store.
 
 ## sovania
 
