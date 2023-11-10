@@ -445,6 +445,8 @@ Below are available commissions. The status, name, and optional cost to get out 
 
 Ready to Inquire? Contact `JOELwindows7`, Discord. **Use below DM prefix!**
 
+> **WARNING**: If your commission involves paid assets such as RCC & you have not paid this commission, it will cause extra prolonged procrastinations! Pls lah, bayar dong, gw jatuh miskin cuman buat beli nih ori.
+
 ### (INACTIVE) Props 0/20, US$5 + `assets_cost`/Service
 
 DM Prefix = `PLS_CVR_PROP`
