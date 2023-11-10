@@ -724,6 +724,9 @@ Port this Prefabbed Scene into CVR
 - https://unity.com/releases/editor/qa/lts-releases
 - https://unity.com/releases/lts
 - https://unity.com/releases/editor/qa/lts-releases?version=2021.3 2021.3 is legacy LTS and gets last support in mid-2024
+- Welcome to another video, from [ExplainingComputers, dot com](https://explainingcomputers.com). This time..
+- .
+- 
 
 ## sovania
 
