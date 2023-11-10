@@ -62,18 +62,18 @@ Below are assets that are not included and **must be installed prior of usage an
   - To download new version, simple go back to above repository (`cd` to there), and `git pull`. Stash any accidental changes you made if it sees unwanted changes. Use [GitHub Desktop](https://desktop.github.com) to manage update at least better. Use Pull Origin button when the arrow down shows up on that button, and say yes stash if asked.
 - [Fast Script Reload](https://assetstore.unity.com/packages/tools/utilities/fast-script-reload-239351). Space Saving
 - [Live Script Reload](https://assetstore.unity.com/packages/tools/utilities/live-script-reload-on-device-hot-reload-239380). **Paywalled**, argh you son of a female dog! Partialism much?! I was already excited. Congratulations, you surprised me. You did it, congratulations! *may your life be successful*, woohoo!!
-- [WhiteFlare's Unlit Shader Suite](https://github.com/whiteflare/Unlit_WF_ShaderSuite/). Space Saving. ~~wait, why did you picked the caught version?!~~ [OLD](https://github.com/whiteflare/Unlit_WF_ShaderSuite/releases/download/Unlit_WF_ShaderSuite_20230107/UnlitWF_20230107_01_Core_2019.unitypackage). THIS IS NEW ONES!!!
+- ~~[WhiteFlare's Unlit Shader Suite](https://github.com/whiteflare/Unlit_WF_ShaderSuite/). Space Saving.~~ ~~wait, why did you picked the caught version?!~~ [OLD](https://github.com/whiteflare/Unlit_WF_ShaderSuite/releases/download/Unlit_WF_ShaderSuite_20230107/UnlitWF_20230107_01_Core_2019.unitypackage). THIS IS NEW ONES!!! **Included, [License MIT](https://github.com/whiteflare/Unlit_WF_ShaderSuite/blob/master/LICENSE)**
 - [Final IK](https://assetstore.unity.com/packages/tools/animation/final-ik-14290). **Paywalled**. Instead, [the stub will be included](https://github.com/VRLabs/Final-IK-Stub).
 
 <!-- Pls include all free but CCK, to backup! -->
-> Some packages (e.g. `.unitypackage` extracted) are included for ***convenience***.  
+> ~~Some packages (e.g. `.unitypackage` extracted) are included for ***convenience***~~ All $0 & Redistribution allowed licensed `.unitypackage`s are included.  
 > **Pls keep the Steam Audio with ones caught by kjoy** at `ThirdParty/kjoy/SteamAudio.unitypackage`. Using version above this will cause entire project hangs to `assembling C# scripts` **forever**.  
 > If you got this, simply close the project, remove 2 plugins in `DiceGlow/Assets/Plugins`: `SteamAudio` & `FMOD`, along with their `.meta` files. Then reopen this project, and install the correct version shipped by kjoy.
 > **DO NOT TRY TO INSTALL ANY CUSTOM RENDERING PIPELINES!!!** I tried and it broke the entire project (revert back to last backup!), and it's hard to manage compatibilities across multiple custom shaders. If you have the fix or better way to make every creation looks astonishing without needing complicated pipelines, let us know.
 >
 > We are aware that there are concerns regarding sparsdated assets. We understand that gamers have difficulty for those are not $0, and we have no rights to intervene your act. However, in order to keep us safe from Federals vengeance, please follow these orders bellow:
-> **(For Perkedel Cinematic Universe gamers) DO NOT USE ANY OF THE PAID ASSETS UNTIL KAORFA PAID THE LICENSE!**. Wait until there is `PAID` flags in it, if there is, then all gamers to contribute must buy it (not using sparsdated file you got out there 😉, for legal reason). For legal reason complying Earth's law.
-> **(For real life gamers & Kaorfa) CONTRIBUTORS ARE REQUIRED TO OWN EACH AND WHICH LICENSES OF ABOVE PAID ASSETS BEFORE INVOLVING ANY OF THEM**. For legal reason complying Earth's law
+> **(For Perkedel Cinematic Universe gamers) DO NOT USE ANY OF THE PAID ASSETS UNTIL KAORFA PAID THE LICENSE!**. Wait until there is `PAID` flags in it, if there is, then all gamers to contribute must buy it (not using sparsdated file you got out there 😉, for legal reason). For legal reason complying Earth's law. See below what if Kaorfa who lives IRL, caught.
+> **(For real life gamers & Kaorfa) CONTRIBUTORS ARE REQUIRED TO OWN EACH AND WHICH LICENSES OF ABOVE PAID ASSETS BEFORE INVOLVING ANY OF THEM**. For legal reason complying Earth's law. If we (kita) were caught using Sparsdated assets, we would be harrassed by a Federal branch claiming protecting the author, until death or cease of use, both options with extra huge fines!
 
 <!-- 
 Garaves (X0p1r4t3): Guys, you better put this in all anyways instead, can't we? uh.. We're going to have so many plugins assets here! Paid assets are still few enough to manage. Free ones, no longer! which is great, no offense! That's neat! But uh.. Let's just expect contributors REALLY CAN BUY STORAGE, and only. YOu know, coz we spread to archive. No huert spreading free assets huh? right??
@@ -81,6 +81,8 @@ Garaves (X0p1r4t3): Guys, you better put this in all anyways instead, can't we? 
 Gyouter: Thank you for your feedback. We will together discuss this.
 
 Info: Current Ignore settings are: Common Free, Paid. Current Always include settings are: Gone 404 (including reuploads).
+
+Joel: idk what am I thinking, We call these DMCAers Federals, that's what X0p1r4t3s from Admiral Zumi to his citizens calls them. There are alot of them, spread across galaxies with one goal, that is to enforce legit buying and if necessary, harrass the sparsdators until they stop doing that, and then anything ends, impose huge fines without mercy. That's why it's called `Federals`. Alot yes, Spreading yes, One same or similar goal yes. I think I just ruined another 🌈 Rainbow true meaning just like that Germany guy once upon a time who formerly a farmer, and then upset about his nation got troubled something2, and became full on chancelor of some military organisation idk. or maybe bluntly, uh.. ruined what does 🌈 actually means normally, and ruined by.. umm to mean include something that's.. **too more**, away from God's intent. I can't think a better word atm, I'm sorry! Find me word easier to say than `Federals` and originally means negatively, what? `Dee Em See Ae` is hard to say!
  -->
 
 ### Proves of purchases
