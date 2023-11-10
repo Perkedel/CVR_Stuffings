@@ -55,12 +55,13 @@ Below are assets that are not included and **must be installed prior of usage an
 - ~~[DonNomNomVR's AudioLink](https://github.com/DomNomNomVR/cvr-audio-link). Space Saving~~ **INCLUDED, [License](https://github.com/DomNomNomVR/cvr-audio-link/blob/master/LICENSE)**
 - [Unity-Chan!](https://assetstore.unity.com/packages/3d/characters/unity-chan-model-18705). Space Saving, common module.
 - [SD Unity-chan Haon Custom](https://assetstore.unity.com/packages/3d/animations/haon-sd-series-bundle-84992). Space Saving, common module.
+- [Unity-chan Toon Shader Legacy Built-in RP](https://github.com/unity3d-jp/UnityChanToonShaderVer2_Project). Space Saving, common module. **PLEASE ONLY USE LEGACY BUILT-IN VERSION, NOT UNIVERSAL RP!!**
 - ~~[Silent's Shader](https://gitlab.com/s-ilent/SCSS). Space Saving, common module.~~ **INCLUDED, [License MIT](https://gitlab.com/s-ilent/SCSS/-/blob/master/LICENSE?ref_type=heads)**
   - To install this Shader, **simply clone above repository**. It is advised not to download as ZIP file, since updates comes periodically.
   - From the Silent's Shader repository you've just cloned, Copy the `Assets/Silent's Cel Shading Shader` along its `.meta` file, into here at `DiceGlow/Assets`.
   - You can overwrite this folder with new version when it comes. Let us know if the new version broke something.
   - To download new version, simple go back to above repository (`cd` to there), and `git pull`. Stash any accidental changes you made if it sees unwanted changes. Use [GitHub Desktop](https://desktop.github.com) to manage update at least better. Use Pull Origin button when the arrow down shows up on that button, and say yes stash if asked.
-- [Fast Script Reload](https://assetstore.unity.com/packages/tools/utilities/fast-script-reload-239351). Space Saving
+- ~~[Fast Script Reload](https://assetstore.unity.com/packages/tools/utilities/fast-script-reload-239351). Space Saving~~ **INCLUDED, [License MIT](https://github.com/handzlikchris/FastScriptReload/blob/master/LICENSE)**
 - [Live Script Reload](https://assetstore.unity.com/packages/tools/utilities/live-script-reload-on-device-hot-reload-239380). **Paywalled**, argh you son of a female dog! Partialism much?! I was already excited. Congratulations, you surprised me. You did it, congratulations! *may your life be successful*, woohoo!!
 - ~~[WhiteFlare's Unlit Shader Suite](https://github.com/whiteflare/Unlit_WF_ShaderSuite/). Space Saving.~~ ~~wait, why did you picked the caught version?!~~ [OLD](https://github.com/whiteflare/Unlit_WF_ShaderSuite/releases/download/Unlit_WF_ShaderSuite_20230107/UnlitWF_20230107_01_Core_2019.unitypackage). THIS IS NEW ONES!!! **Included, [License MIT](https://github.com/whiteflare/Unlit_WF_ShaderSuite/blob/master/LICENSE)**
 - [Final IK](https://assetstore.unity.com/packages/tools/animation/final-ik-14290). **Paywalled**. Instead, [the stub will be included](https://github.com/VRLabs/Final-IK-Stub).
