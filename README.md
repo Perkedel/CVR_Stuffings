@@ -500,6 +500,8 @@ Port this Prefabbed Scene into CVR
 
 ## Sauces Total
 
+> WARNING: Some Sauce URLs may contain NSFW. Viewer discretion is advised.
+
 - https://youtu.be/tnPS_l-1N94?si=ZHS3yb_UwXq7o8Bd how to prop
 - https://youtu.be/a98qCeLAogw?si=y0Rjmnn5fB7sq6za how to convert from vrc to cvr
 - https://youtu.be/t1dp00Ot3N8?si=vGoCEuC83_OA7C2S how to video player
@@ -786,7 +788,6 @@ Port this Prefabbed Scene into CVR
 - I am not sure if that person ever had Breathing project on sale. These for sale projects are spans around this year, 2023 of November today, to October. Oh this could be.. idk.
 - https://youtu.be/9tjYz6Ab0oc?si=FCrxEWx6F-jvnRAX
 - https://youtu.be/wNdszCgpzZQ?si=8RQmH3O8reVRVmHo
-
 
 ## sovania
 
