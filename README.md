@@ -65,6 +65,8 @@ Below are assets that are not included and **must be installed prior of usage an
 - [Live Script Reload](https://assetstore.unity.com/packages/tools/utilities/live-script-reload-on-device-hot-reload-239380). **Paywalled**, argh you son of a female dog! Partialism much?! I was already excited. Congratulations, you surprised me. You did it, congratulations! *may your life be successful*, woohoo!!
 - ~~[WhiteFlare's Unlit Shader Suite](https://github.com/whiteflare/Unlit_WF_ShaderSuite/). Space Saving.~~ ~~wait, why did you picked the caught version?!~~ [OLD](https://github.com/whiteflare/Unlit_WF_ShaderSuite/releases/download/Unlit_WF_ShaderSuite_20230107/UnlitWF_20230107_01_Core_2019.unitypackage). THIS IS NEW ONES!!! **Included, [License MIT](https://github.com/whiteflare/Unlit_WF_ShaderSuite/blob/master/LICENSE)**
 - [Final IK](https://assetstore.unity.com/packages/tools/animation/final-ik-14290). **Paywalled**. Instead, [the stub will be included](https://github.com/VRLabs/Final-IK-Stub).
+- [Keycard Access Badge Lock System](https://mommamollycvr.gumroad.com/l/gxruw). **Paywalled**. Instead, **the hopefully same which is [Evil-Betty's Booth](https://evilbetty.booth.pm/items/4059518) one** that's included.
+- [Pin Keypad Lock System](https://mommamollycvr.gumroad.com/l/yfsta). **Paywalled**. Instead, **the hopefully same which is [Evil-Betty's Booth](https://evilbetty.booth.pm/items/4053039) one** that's included.
 
 <!-- Pls include all free but CCK, to backup! -->
 > ~~Some packages (e.g. `.unitypackage` extracted) are included for ***convenience***~~ All $0 & Redistribution allowed licensed `.unitypackage`s are included.  
