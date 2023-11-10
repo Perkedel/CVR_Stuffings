@@ -65,8 +65,8 @@ Below are assets that are not included and **must be installed prior of usage an
 - [Live Script Reload](https://assetstore.unity.com/packages/tools/utilities/live-script-reload-on-device-hot-reload-239380). **Paywalled**, argh you son of a female dog! Partialism much?! I was already excited. Congratulations, you surprised me. You did it, congratulations! *may your life be successful*, woohoo!!
 - ~~[WhiteFlare's Unlit Shader Suite](https://github.com/whiteflare/Unlit_WF_ShaderSuite/). Space Saving.~~ ~~wait, why did you picked the caught version?!~~ [OLD](https://github.com/whiteflare/Unlit_WF_ShaderSuite/releases/download/Unlit_WF_ShaderSuite_20230107/UnlitWF_20230107_01_Core_2019.unitypackage). THIS IS NEW ONES!!! **Included, [License MIT](https://github.com/whiteflare/Unlit_WF_ShaderSuite/blob/master/LICENSE)**
 - [Final IK](https://assetstore.unity.com/packages/tools/animation/final-ik-14290). **Paywalled**. Instead, [the stub will be included](https://github.com/VRLabs/Final-IK-Stub).
-- [Keycard Access Badge Lock System](https://mommamollycvr.gumroad.com/l/gxruw). **Paywalled**. Instead, **the hopefully same which is [Evil-Betty's Booth](https://evilbetty.booth.pm/items/4059518) one** that's included.
-- [Pin Keypad Lock System](https://mommamollycvr.gumroad.com/l/yfsta). **Paywalled**. Instead, **the hopefully same which is [Evil-Betty's Booth](https://evilbetty.booth.pm/items/4053039) one** that's included.
+- [Keycard Access Badge Lock System](https://mommamollycvr.gumroad.com/l/gxruw). **Paywalled**. Instead, **the hopefully same which is [Evil-Betty's Booth](https://evilbetty.booth.pm/items/4059518) one** that's included. **Wait, that was Evil-Betty's invention??** NOTE: The package lacks prefab & only copied over as a Unity Scene. We have simply dragged this invention (both reader & card) out to the asset & now here the prefab. You're welcome. <!--**PLEASE DO NOT NFT-FIZE (Private the keycard under NFT check sharing)!!!**--> a
+- [Pin Keypad Lock System](https://mommamollycvr.gumroad.com/l/yfsta). **Paywalled**. Instead, **the hopefully same which is [Evil-Betty's Booth](https://evilbetty.booth.pm/items/4053039) one** that's included. **Wait, that was Evil-Betty's invention??**
 
 <!-- Pls include all free but CCK, to backup! -->
 > ~~Some packages (e.g. `.unitypackage` extracted) are included for ***convenience***~~ All $0 & Redistribution allowed licensed `.unitypackage`s are included.  
@@ -221,6 +221,11 @@ Here are the UUIDs of all these assets we uploaded to CVR:
 - `d3afa62b-3524-46b9-93fd-519dd91a63da` I'm so sorry, I didn't mean to freeze you!
 - `12d3cc16-e202-48ad-900a-99c41d2d6130` I'm very shy!
 - `66effc2f-41af-475d-bfd2-df37989c1600` (**NOT PERKEDEL**) VoyVivika Portable Tutorial Prop
+- `1dd3b77b-8982-4627-9979-4a0503b6f2b9` (**NOT PERKEDEL**) Kavex's Rib ported from https://3dwarehouse.sketchup.com/model/4ee36dd6-7482-41a2-87ff-ceaefc83c4da/Rippchen with [song](https://www.youtube.com/watch?v=_1zzRLMHlDM)
+- `39c89b9e-abbe-4b48-8afc-d2ad910bf8e6` (**NOT PERKEDEL**) Kavex's 🏳️‍⚧️ Trans heart
+- `eabe330a-a392-4a0f-b7f7-7cdb748834ac` (**NOT PERKEDEL**) Kavex's Pansexual heart
+- `fc89a8ba-e426-41e8-81fa-268e79b80175` (**NOT PERKEDEL**) Dippy Push Button
+- `d3317583-fc62-4422-861c-c94b24cbeee0` (**NOT PERKEDEL**) Dippy Sauce Squirt Bottle 😏
 
 ### Assorted
 
@@ -719,7 +724,7 @@ Port this Prefabbed Scene into CVR
 - https://github.com/VoyVivika/shapeshift1
 - https://github.com/VoyVivika/shapeshift
 - https://github.com/VoyVivika/GodSpeakBot
-- https://github.com/Kavex/ChilloutVR_Prefabs/releases
+- https://github.com/Kavex/ChilloutVR_Prefabs/releases Pls install all these will ya?
 - https://www.youtube.com/watch?v=_1zzRLMHlDM
 - https://3dwarehouse.sketchup.com/model/4ee36dd6-7482-41a2-87ff-ceaefc83c4da/Rippchen
 - https://3dwarehouse.sketchup.com/model/4ee36dd6-7482-41a2-87ff-ceaefc83c4da/Rippchen
@@ -790,6 +795,30 @@ Port this Prefabbed Scene into CVR
 - I am not sure if that person ever had Breathing project on sale. These for sale projects are spans around this year, 2023 of November today, to October. Oh this could be.. idk.
 - https://youtu.be/9tjYz6Ab0oc?si=FCrxEWx6F-jvnRAX
 - https://youtu.be/wNdszCgpzZQ?si=8RQmH3O8reVRVmHo
+- https://github.com/fholger/openvr_fsr
+- https://github.com/fholger/vrperfkit
+- https://archiveofourown.org/works/47561710
+- https://github.com/Kavex/GameDev-Resources
+- https://github.com/PWhiddy/PokemonRedExperiments
+- https://github.com/Kavex/UsefulSoftware4IT
+- https://github.com/Kavex/Various-Code
+- https://github.com/Guad/sm64o
+- https://github.com/Kavex/CCConline
+- https://github.com/bluenviron/mediamtx
+- https://github.com/Kavex/Desperate-Gods-Tabletop-Simulator-Edition
+- https://github.com/Kavex/GameSounds
+- https://www.nirsoft.net/utils/uninstall_view.html
+- https://www.nirsoft.net/utils/uninstall_view.html
+- https://github.com/ShareX/ShareX
+- https://github.com/ShareX/ShareX
+- https://sourceforge.net/projects/ditto-cp/
+- https://www.speedtest.net/apps/cli
+- https://geekuninstaller.com/download
+- https://github.com/NovaVoidHowl/VRC-MultiOSC
+- https://github.com/SutekhVRC/VOR
+- https://github.com/SutekhVRC/VOR
+- https://dev.abinteractive.net/official/legal/tos/
+- https://github.com/Kavex/GameSounds GNU GPL v3
 
 ## sovania
 
