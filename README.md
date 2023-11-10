@@ -155,7 +155,17 @@ To disable attachment later, simply set `attachmentType` in `CVRAttachment` to `
 
 ## UUIDs
 
+
+Here are the UUIDs of all these assets we uploaded to CVR:
+
 <!-- TODO: Table pls -->
+
+> Commissioned assets still private? We apologize, those are the commissions customer haven't yet paid to this day, and therefore long procrastinations to press `Submit to Public`.  
+> Desperate of trying one? Contact us, JOELwindows7 at Discord under DM prefix `PLS_SHARE_ASSETS` and then the UUID(s) & your ABI account username. We will share that/those to you. Absolutely $0  
+> As always, source code making these asset **are always open source** & you can implement to your world!  
+> Please note, to avoid confusion it is advised to reupload the assets. Just let me do it. To break procrastinations, Simply pay full or part by part in crowd until full to which UUID, to [Joel's Ko-fi](https://ko-fi.com/joelwindows7)  
+> by putting donation pay & message like e.g.: $?? `UNPROCRASTINATE 92f6e5f4-e860-42fd-8154-81d69f605099`. Any added amount will slowly reduce procrastinations. If the payment pool reaches `FULL` for this UUID commission, the procrastination will be removed immediately. Extra accidental extras will not be refunded and will be considered donation tip, thank you so much.  
+> C'mon, I need money & my parents will retire soon. But I'm not an asshole, just.. I'll long it (and times later to be public), because you don't pay. I can't work without money, I'm bio being!
 
 ### Avatars
 
@@ -246,6 +256,10 @@ Now, try again. If your log says `killing youtube-dl timeout`, try re-pasting th
 - https://ytdl-org.github.io/youtube-dl/
 - https://openjur.de/u/2466945.html 🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕 
 - ~~https://youtube-dl.org/~~ brogen
+
+#### Extra Video not working
+
+Looks like this is a Windows 10 vs. 11 permissioning eh? https://github.com/Perkedel/CVR_Stuffings/issues/1
 
 ### Whitelists
 
@@ -751,6 +765,27 @@ Port this Prefabbed Scene into CVR
 - https://youtu.be/r_ErytGpScQ?si=qQIzmyQSxqPSShDA I wish, gamers.
 - https://youtu.be/IouiZ1J_AJo?si=HKZhE0efjfKpLJPA wai wait, This is the one!!!
 - https://youtu.be/GC-ZmlwBWKM?si=d1YAfkQwk1DHyKYq and this the music.
+- https://feedback.abinteractive.net/p/2023r173-amd-users-voice-system-issue-with-game-not-focused
+- https://feedback.abinteractive.net/p/dark-mode-option-for-the-hub-website
+- https://feedback.abinteractive.net/p/vr-login-screen
+- https://feedback.abinteractive.net/p/official-cvr-wiki
+- https://feedback.abinteractive.net/p/quest-version
+- https://twitter.com/Sakura_Rabbiter?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor
+- https://x.com/Sakura_Rabbiter/status/1717229001322959341?s=20
+- https://sakura-rabbit.fanbox.cc/
+- https://assetstore.unity.com/sakura-rabbit
+- https://sakura-rabbit.fanbox.cc/posts/6421683
+- https://sakura-rabbit.fanbox.cc/posts/4671237
+- https://sakura-rabbit.fanbox.cc/posts/4145183 nope, no project. uhh
+- https://sakura-rabbit.fanbox.cc/posts/6884244
+- https://sakura-rabbit.fanbox.cc/posts/6825017
+- oh noo
+- https://sakura-rabbit.fanbox.cc/posts/6966853
+- Great. Now how did they made dick wiggle & this breathing torso, all within built-in RP. I am supposed to Godot, why the heck we Unity here?!
+- https://sakura-rabbit.fanbox.cc/posts/4144873 fuck...
+- I am not sure if that person ever had Breathing project on sale. These for sale projects are spans around this year, 2023 of November today, to October. Oh this could be.. idk.
+- https://youtu.be/9tjYz6Ab0oc?si=FCrxEWx6F-jvnRAX
+- https://youtu.be/wNdszCgpzZQ?si=8RQmH3O8reVRVmHo
 
 
 ## sovania
