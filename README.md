@@ -37,8 +37,8 @@ Below are assets that are not included and **must be installed prior of usage an
 
 <!-- TODO: Table pls! -->
 
-- CCK https://developers.abinteractive.net/cck/setup/ . Space saving, common module.
-- TextMesh Pro. Space saving, common module.
+- CCK https://developers.abinteractive.net/cck/setup/ . Space saving, **CORE MODULE**.
+- TextMesh Pro. Space saving, **CORE MODULE**.
   - Go to `Project Settings`.
   - in category `TextMesh Pro`, click import `TMP Essentials`, then import `TMP Examples & Extras`.
 - [Magica Cloth 1](https://assetstore.unity.com/packages/tools/physics/magica-cloth-160144) & [2 the sequel](https://assetstore.unity.com/packages/tools/physics/magica-cloth-2-242307). Paywalled
@@ -48,7 +48,7 @@ Below are assets that are not included and **must be installed prior of usage an
 - [Fluff's VRC Avatar Toolbox](https://fluffs.gumroad.com/l/flufftoolbox). **Paywalled**
 - [Fluff's VRC2CVR](https://fluffs.gumroad.com/l/flufftoolbox). Space Saving
 - ~~[Narazaka's VRC2CVR-YA](https://github.com/Narazaka/VRC2CVR). Space Saving~~ ~~Included, so small!~~ No longer works
-- [DonNomNomVR's AudioLink](https://github.com/DomNomNomVR/cvr-audio-link). Space Saving
+- ~~[DonNomNomVR's AudioLink](https://github.com/DomNomNomVR/cvr-audio-link). Space Saving~~ **INCLUDED**
 - [Unity-Chan!](https://assetstore.unity.com/packages/3d/characters/unity-chan-model-18705). Space Saving, common module.
 - [SD Unity-chan Haon Custom](https://assetstore.unity.com/packages/3d/animations/haon-sd-series-bundle-84992). Space Saving, common module.
 - [Silent's Shader](https://gitlab.com/s-ilent/SCSS). Space Saving, common module.
@@ -711,6 +711,12 @@ Port this Prefabbed Scene into CVR
 - https://assetstore.unity.com/packages/tools/animation/final-ik-14290 BUSET IDR 3 JUTA!!!!
 - https://github.com/kafeijao/Kafe_CVR_CCKs/blob/master/NavMeshFollower/README.md
 - https://github.com/kafeijao/Kafe_CVR_CCKs
+- https://blog.unity.com/news/open-letter-on-runtime-fee
+- https://blog.unity.com/news/plan-pricing-and-packaging-updates
+- https://blog.unity.com/engine-platform/2023-3-coming-april-2024-with-updates
+- https://unity.com/releases/editor/qa/lts-releases
+- https://unity.com/releases/lts
+- https://unity.com/releases/editor/qa/lts-releases?version=2021.3 2021.3 is legacy LTS and gets last support in mid-2024
 
 ## sovania
 
