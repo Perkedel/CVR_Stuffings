@@ -882,6 +882,37 @@ Port this Prefabbed Scene into CVR
 - https://vcc.docs.vrchat.com/guides/getting-started/
 - https://vcc.docs.vrchat.com/guides/getting-started/
 - https://github.com/vrchat/packages/releases
+- WHAT?! YOU (VRChat) STILL USES `2019.4.31F1` 🗿🚨🚨🚨🚨🚨🚨🚨🚨🗿🗿🗿🗿🗿🗿🗿🗿?!??!
+- https://x.com/discord/status/1138488312262381568?s=20
+- https://x.com/voicemod/status/1722690519912906952?s=20
+- https://twitter.com/nostalgen?lang=ca
+- https://www.tumblr.com/joelwindows7/720838722101313536/top-betrayal-of-websites-where-people-migrated?source=share
+- https://www.tumblr.com/alex-chaser/714288372219330560/oh-my-god-guys-how-could-you-plan-something-like?source=share
+- https://joelwindows7.tumblr.com/post/720553739135631360/the-grid-mode
+- https://hello.vrchat.com/vrchatplus You sonuva..
+- First Apple with Procreate, `Copy` button
+- Then you. Subscription symbol!!! WHAT?!?!?
+- RALLY?? Not subscribing limits your add avatar to favourite?!?!?! OH c'mon, in CVR, the not paid account only limits the avatar upload, **NOT THE FUCKING CONSUMPTION!!!**
+- https://hello.vrchat.com/vrchat-plus-faq#Trust
+- https://ltcgi.dev/Advanced/Udon_Sharp_API
+- https://unity.com/releases/editor/archive
+- https://vcc.docs.vrchat.com/guides/getting-started/
+- https://github.com/vrchat/packages/releases
+- https://web.archive.org/web/20220424175341/https://objects.githubusercontent.com/github-production-release-asset-2e65be/412817921/ea75cc97-f679-4430-9d4e-29145b0143e0?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIWNJYAX4CSVEH53A%2F20220424%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20220424T175342Z&X-Amz-Expires=300&X-Amz-Signature=236cf4abd2507acffbd37f35d1ee8515849d244c68ad71319c87174bc2dd84fe&X-Amz-SignedHeaders=host&actor_id=0&key_id=0&repo_id=412817921&response-content-disposition=attachment%3B%20filename%3DDynamic.Bone.Container.v1.3.0.unitypackage&response-content-type=application%2Foctet-stream
+- https://web.archive.org/web/20220417123027/https://github.com/Markcreator/VRChat-Tools/releases
+- https://markcreator.gumroad.com/
+- https://markcreator.net/
+- https://github.com/Markcreator/VRChat-Tools/releases/download/Dynamic.Bone.Container.v1.3.0/Dynamic.Bone.Container.v1.3.0.unitypackage goned
+- https://github.com/Markcreator/VRChat-Tools/commit/16b9639f8c9a4995d4c8dd8b9acbe76423f843f6
+- https://www.vrcarena.com/assets/1633249069939 does not help
+- https://cdn.discordapp.com/attachments/530360261635211274/1020360639316758589/Dynamic.Bone.Container.v1.3.0.unitypackage for fuck sake, Discord!!!
+- https://github.com/Markcreator/VRChat-Tools/releases/
+- https://github.com/Markcreator/VRCTextureCompressor/releases
+- https://github.com/Markcreator/Unity-Tools
+- https://www.reddit.com/r/VRchat/comments/yqs29n/is_markcreators_dynamic_bones_still_available/
+- https://web.archive.org/web/20221109221354/https://cdn.discordapp.com/attachments/530360261635211274/1020360639316758589/Dynamic.Bone.Container.v1.3.0.unitypackage
+- https://github.com/VRLabs/Dynamic-Bones-Stub
+- https://github.com/ttxhxz/UnityA_plan-stage2_getting_started
 
 ## sovania
 
