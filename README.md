@@ -18,6 +18,8 @@ Additionally, proper mentals in specifics pertaining encounter of nudity & sexua
 
 **Perkedel Technologies (Perkedel Teknologi Canggih Abadi) and divisions are NOT affiliated with Alpha Blend Interactive**. Therefore, such work & creation endeavors in any forms presented here are not officially made, nor endorsed, nor sponsored by ABI in any way.
 
+In event of any presence of sponsorship in any form, no works & creations including but not limited to decisions, opinions, etc. shall be affected by any mean. We do not accept any request and order of editorial of certain parts of these works & creations. Both the company(ies) and other gamers are witnessing these work & creation endeavors for the first time alongside.
+
 ## Instructions
 
 ### Installation Setup
