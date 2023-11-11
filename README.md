@@ -331,7 +331,13 @@ In VRChat, your Unity Project creation menu in VRChat Creation Companion has 2 o
 
 In ChilloutVR, you only need to create a Unity Project for that version asked, then install the all-in-one SDK (called Content Creation Kit). All `World`s, `Avatar`s, & new `Prop`s can be created, modified, and uploaded just in 1 single projects. Note that if you had `World` marker, you need to disable (or delete but it's not recommended) or move to new un`World`ed Unity Scene & place all to be uploaded stuffs there, in order to upload & update `Avatar`s & `Prop`s.
 
-As of my flawed testing in November 2023 (no VRChat test, just glance), Indeed CVR is much more intuitive, although I understand people would disagree, since without tidying system VRChat has (VCC), it may makes a mess & recovery a hassle. But again, there would be polar opposition that says VCC eats another disk space & deems unecessary. Your mileage may varies
+As of my flawed testing in November 2023 (no VRChat test, just glance), Indeed CVR is much more intuitive, although I understand people would disagree, since without tidying system VRChat has (VCC), it may makes a mess & recovery a hassle. But again, there would be polar opposition that says VCC eats another disk space & deems unecessary. Your mileage may varies.
+
+Ah what do you know? in VRChat you login with username, **and password**. **Main Password**. BUT, in ChilloutVR, you login with your username, **and your CCK key**. Your specialized key you got in your dashboard, **not main password**.
+
+Remember, since CVR is the new guy in the VR Social media, they take a while to catch up.
+
+<!-- Pain Massword -->
 
 ### Are these done by Realizer division?
 
