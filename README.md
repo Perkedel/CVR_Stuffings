@@ -323,6 +323,16 @@ Known Whitelisted domains in CVR for Video Player are:
 ([SAUCE](https://github.com/NovaVoidHowl/CVR---Guides-Notes/blob/main/file-locations-and-info.md)) Modify these whitelist on this JSON file: `%USERPROFILE%\Appdata\LocalLow\Alpha Blend Interactive\ChilloutVR\UrlWhitelist.json`  
 **Do this at your own risk!**
 
+### Is ChilloutVR indeed much more intuitive than VRChat?
+
+> Further testing & experience required in order to build conclusion
+
+In VRChat, your Unity Project creation menu in VRChat Creation Companion has 2 options: `Avatar`, & `World`. Each uses different SDK. ***TEST LACKING, IS IT POSSIBLE TO SINGLE PROJECT FOR ALL?**
+
+In ChilloutVR, you only need to create a Unity Project for that version asked, then install the all-in-one SDK (called Content Creation Kit). All `World`s, `Avatar`s, & new `Prop`s can be created, modified, and uploaded just in 1 single projects. Note that if you had `World` marker, you need to disable (or delete but it's not recommended) or move to new un`World`ed Unity Scene & place all to be uploaded stuffs there, in order to upload & update `Avatar`s & `Prop`s.
+
+As of my flawed testing in November 2023 (no VRChat test, just glance), Indeed CVR is much more intuitive, although I understand people would disagree, since without tidying system VRChat has (VCC), it may makes a mess & recovery a hassle. But again, there would be polar opposition that says VCC eats another disk space & deems unecessary. Your mileage may varies
+
 ### Are these done by Realizer division?
 
 Not officially. Although some Realizer members had involved, still it was done by serveral other volunteers at Perkedel Technologies who worked with this in their free time.
