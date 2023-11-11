@@ -52,7 +52,7 @@ Below are assets that are not included and **must be installed prior of usage an
 - [Gan Servo's Heartbeat connector for VRChat](https://garnservo.gumroad.com/l/Heartbeat?layout=profile). **Paywalled**, **INCOMPATIBLE PLS PORT**. using [HR2VRC](https://hrtovrchat.fortnite.lol/setup) ([HR2VRC DISCONTINUED 2024-01-01](https://hrtovrchat.fortnite.lol/discontinuation))
 - [Realistic Car Controller](https://assetstore.unity.com/packages/tools/physics/realistic-car-controller-16296). **Paywalled**
 - [Fluff's VRC Avatar Toolbox](https://fluffs.gumroad.com/l/flufftoolbox). **Paywalled**
-- [Fluff's VRC2CVR](https://fluffs.gumroad.com/l/flufftoolbox). Space Saving
+- [Fluff's VRC2CVR](https://fluffs.gumroad.com/l/sdk3-to-cck). Space Saving
 - ~~[Narazaka's VRC2CVR-YA](https://github.com/Narazaka/VRC2CVR). Space Saving~~ ~~Included, so small!~~ No longer works
 - ~~[DonNomNomVR's AudioLink](https://github.com/DomNomNomVR/cvr-audio-link). Space Saving~~ **INCLUDED, [License](https://github.com/DomNomNomVR/cvr-audio-link/blob/master/LICENSE)**
 - [Unity-Chan!](https://assetstore.unity.com/packages/3d/characters/unity-chan-model-18705). Space Saving, common module.
@@ -871,6 +871,17 @@ Port this Prefabbed Scene into CVR
 - https://youtu.be/n-o2e4KxbW4?si=WtpP3-bHTHUESxSP
 - https://assetstore.unity.com/packages/tools/modeling/splinemesh-104989 f888 it's only since 2022, use this instead
 - https://assetstore.unity.com/packages/tools/utilities/dreamteck-splines-61926 Don't get excited tho. Are any of these whitelisted?
+- https://twitter.com/triwavebz/status/1514302395836100609?s=20 Protogen free 3d model
+- https://drive.google.com/drive/folders/1JPh85gOn74EI8hujZB8KZcrOkNDQmolt download protogen free
+- https://creators.vrchat.com/releases/release-3-4-1
+- https://creators.vrchat.com/sdk/
+- https://vcc.docs.vrchat.com/guides/getting-started/
+- https://www.reddit.com/r/VRchat/comments/605c9j/cant_get_the_vrchat_sdk/
+- https://github.com/vrchat/packages/releases
+- https://github.com/vrchat/packages
+- https://vcc.docs.vrchat.com/guides/getting-started/
+- https://vcc.docs.vrchat.com/guides/getting-started/
+- https://github.com/vrchat/packages/releases
 
 ## sovania
 
