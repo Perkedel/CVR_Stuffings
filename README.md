@@ -69,6 +69,7 @@ Below are assets that are not included and **must be installed prior of usage an
 - [Live Script Reload](https://assetstore.unity.com/packages/tools/utilities/live-script-reload-on-device-hot-reload-239380). **Paywalled**, argh you son of a female dog! Partialism much?! I was already excited. Congratulations, you surprised me. You did it, congratulations! *may your life be successful*, woohoo!!
 - ~~[WhiteFlare's Unlit Shader Suite](https://github.com/whiteflare/Unlit_WF_ShaderSuite/). Space Saving.~~ ~~wait, why did you picked the caught version?!~~ [OLD](https://github.com/whiteflare/Unlit_WF_ShaderSuite/releases/download/Unlit_WF_ShaderSuite_20230107/UnlitWF_20230107_01_Core_2019.unitypackage). THIS IS NEW ONES!!! **Included, [License MIT](https://github.com/whiteflare/Unlit_WF_ShaderSuite/blob/master/LICENSE)**
 - [Final IK](https://assetstore.unity.com/packages/tools/animation/final-ik-14290). **Paywalled**. Instead, [the stub will be included](https://github.com/VRLabs/Final-IK-Stub).
+- [Dynamic Bones](https://assetstore.unity.com/packages/tools/animation/dynamic-bone-16743). **Paywalled**. Instead, [the stub will be included](https://github.com/VRLabs/Dynamic-Bones-Stub).
 - [Keycard Access Badge Lock System](https://mommamollycvr.gumroad.com/l/gxruw). **Paywalled**. Instead, **the hopefully same which is [Evil-Betty's Booth](https://evilbetty.booth.pm/items/4059518) one** that's included. **Wait, that was Evil-Betty's invention??** NOTE: The package lacks prefab & only copied over as a Unity Scene. We have simply dragged this invention (both reader & card) out to the asset & now here the prefab. You're welcome. <!--**PLEASE DO NOT NFT-FIZE (Private the keycard under NFT check sharing)!!!**--> a
 - [Pin Keypad Lock System](https://mommamollycvr.gumroad.com/l/yfsta). **Paywalled**. Instead, **the hopefully same which is [Evil-Betty's Booth](https://evilbetty.booth.pm/items/4053039) one** that's included. **Wait, that was Evil-Betty's invention??**
 
@@ -931,6 +932,11 @@ Port this Prefabbed Scene into CVR
 - https://web.archive.org/web/20221109221354/https://cdn.discordapp.com/attachments/530360261635211274/1020360639316758589/Dynamic.Bone.Container.v1.3.0.unitypackage
 - https://github.com/VRLabs/Dynamic-Bones-Stub
 - https://github.com/ttxhxz/UnityA_plan-stage2_getting_started
+- https://github.com/imagitama/vrc3cvr
+- https://assetstore.unity.com/packages/tools/animation/dynamic-bone-16743
+- https://youtu.be/dRy1cG9nCTo
+- https://booth.pm/en/items/2700784 paid
+- https://booth.pm/en/browse/3D%20Models?q=PRefab
 
 ## sovania
 
