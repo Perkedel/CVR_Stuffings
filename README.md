@@ -157,6 +157,22 @@ Once you've configured your desired properties, **don't forget to attach methods
 
 To disable attachment later, simply set `attachmentType` in `CVRAttachment` to `nothing`. The prop then no longer stick-able.
 
+### Moar Tutorial
+
+#### How to Path Camera
+
+Cinematic Path camera allows you to make the camera runs dolly in specified pen path. It uses your Numpad Key on the right of your keyboard
+
+- `NUM0` = Add point.
+- `NUM1` = Start
+- `NUM3` = Stop
+- `NUM7` = Delete all path points
+- `DEL` = Delete selected path point. Unfortunately, `NUMPERIOD` a.k.a `DEL` in numpad does not work.
+- `NUM+` = Increase time on selected path point
+- `NUM-` = Decrease time on selected path point
+- Drag a path point (`RMB` on a path point) = Select a path point. Selected path point turns yellow, and turns rest of path points back to white.
+- Drag its dot (`RMB` on the path point's dot) = Adjust pen curve strength to this path. Think it like using Pen Tool in image & vector editing software.
+
 ## UUIDs
 
 Here are the UUIDs of all these assets we uploaded to CVR:
@@ -835,6 +851,26 @@ Port this Prefabbed Scene into CVR
 - https://dev.abinteractive.net/official/legal/tos/
 - https://github.com/Kavex/GameSounds GNU GPL v3
 - https://assetstore.unity.com/packages/3d/props/3d-chest-object-50741 Layer Lab's 3D Chest Object! **The asset is free**, the [Sketchfab preview](https://skfb.ly/ILHv) **has no download button** & Sketchfab or themselves **removed the link back** to this asset store.
+- https://www.youtube.com/watch?v=_R5VAVgYo54
+- https://github.com/MistressPlague/ChilloutButtonAPI
+- https://booth.pm/en/items/2734506
+- https://booth.pm/en/items/2644492
+- https://booth.pm/en/items/2995458
+- https://booth.pm/en/items/3426597
+- https://booth.pm/en/items/2499651
+- https://github.com/madjin/awesome-vrchat
+- https://www.youtube.com/watch?v=ibDu0dCeUE8&t=0s
+- https://www.youtube.com/watch?v=ibDu0dCeUE8&t=0s
+- https://github.com/vrchat-community/UdonSharp
+- https://booth.pm/en/items/4039197
+- https://assetstore.unity.com/packages/tools/gui/simple-animated-functional-3d-buttons-mobile-ar-pc-ready-97333
+- https://github.com/madjin/awesome-vrchat
+- https://booth.pm/en/browse/3D%20Character%20Attachments
+- https://booth.pm/en/items/2700784
+- https://youtu.be/GSo_fU1JdfM?si=Slz1iVr1GYS1hXt3
+- https://youtu.be/n-o2e4KxbW4?si=WtpP3-bHTHUESxSP
+- https://assetstore.unity.com/packages/tools/modeling/splinemesh-104989 f888 it's only since 2022, use this instead
+- https://assetstore.unity.com/packages/tools/utilities/dreamteck-splines-61926 Don't get excited tho. Are any of these whitelisted?
 
 ## sovania
 
