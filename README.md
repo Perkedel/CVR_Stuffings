@@ -937,6 +937,26 @@ Port this Prefabbed Scene into CVR
 - https://youtu.be/dRy1cG9nCTo
 - https://booth.pm/en/items/2700784 paid
 - https://booth.pm/en/browse/3D%20Models?q=PRefab
+- https://github.com/H-uru
+- https://github.com/orgs/H-uru/repositories
+- https://github.com/H-uru/Plasma
+- https://github.com/H-uru/dirtsand
+- https://github.com/H-uru/moul-assets
+- https://github.com/H-uru/dirtsand
+- https://github.com/H-uru/dirtsand
+- https://github.com/H-uru/Plasma
+- https://github.com/H-uru/agedb
+- https://nardoiri.gumroad.com/l/Nardoragon
+- https://booth.pm/en/items/2911183
+- https://github.com/VRLabs/Ragdoll-System
+- https://vrlabs.gumroad.com/l/ragdoll-system
+- https://booth.pm/en/items/3462994
+- https://booth.pm/en/items/2906380 
+- https://feedback.abinteractive.net/p/adjusting-behaviour-cvr-interactable-input-horizontal-vertical
+- https://feedback.abinteractive.net/p/feature-request-wsm-train-script
+- https://feedback.abinteractive.net/p/nodegraph-block-coding-support
+- https://feedback.abinteractive.net/p/damage-and-object-heath-support-on-props-and-avatars
+- https://feedback.abinteractive.net/p/if-lua-is-chosen-as-the-scripting-language-consider-using-luau-instead
 
 ## sovania
 
