@@ -957,6 +957,9 @@ Port this Prefabbed Scene into CVR
 - https://feedback.abinteractive.net/p/nodegraph-block-coding-support
 - https://feedback.abinteractive.net/p/damage-and-object-heath-support-on-props-and-avatars
 - https://feedback.abinteractive.net/p/if-lua-is-chosen-as-the-scripting-language-consider-using-luau-instead
+- https://discord.com/invite/aNsMMhCTxM Can you please bring whatever this CVR Explore group has, thancc.
+- https://uv-license.com/en/license?utf8=%E2%9C%93&pcu=true&ccu=true&ddw=true&seu=true&veu=true
+- https://booth.pm/en/items/1969082
 
 ## sovania
 
