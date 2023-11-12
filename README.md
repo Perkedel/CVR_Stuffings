@@ -960,6 +960,7 @@ Port this Prefabbed Scene into CVR
 - https://discord.com/invite/aNsMMhCTxM Can you please bring whatever this CVR Explore group has, thancc.
 - https://uv-license.com/en/license?utf8=%E2%9C%93&pcu=true&ccu=true&ddw=true&seu=true&veu=true
 - https://booth.pm/en/items/1969082
+- https://signyamo.blog/vrchat_switch_en/
 
 ## sovania
 
