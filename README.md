@@ -961,6 +961,10 @@ Port this Prefabbed Scene into CVR
 - https://uv-license.com/en/license?utf8=%E2%9C%93&pcu=true&ccu=true&ddw=true&seu=true&veu=true
 - https://booth.pm/en/items/1969082
 - https://signyamo.blog/vrchat_switch_en/
+- https://vr-items.me/content/ui
+- https://assetstore.unity.com/packages/tools/particles-effects/azure-sky-dynamic-skybox-36050
+- https://github.com/wave-harmonic/crest
+- https://assetstore.unity.com/packages/tools/particles-effects/crest-water-system-ocean-rivers-lakes-252194?aid=1011lic2K
 
 ## sovania
 
