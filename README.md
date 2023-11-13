@@ -248,6 +248,7 @@ Here are the UUIDs of all these assets we uploaded to CVR:
 - `d3317583-fc62-4422-861c-c94b24cbeee0` (**NOT PERKEDEL**) Dippy Sauce Squirt Bottle 😏
 - `b1ee7ffe-8686-4cbb-b438-5db7f13c539c` (**NOT PERKEDEL**) UCC Mirror. MilchZocker
 - `25f0fbe4-7a23-40f3-815d-a6dd33786a3d` (**NOT PERKEDEL**) UCC Pen. MilchZocker
+- `fba60ac2-b053-401b-9d5d-02986c21af24` (**NOT PERKEDEL**) Kin's Badge. Vespei Kin
 
 ### Assorted
 
@@ -970,6 +971,9 @@ Port this Prefabbed Scene into CVR
 - https://github.com/MilchZocker?tab=repositories Download everything except profile repo. little tokyo empty
 - https://vespei.gumroad.com/ Somehow the pen is not visible
 - https://vespei.gumroad.com/l/pens here thing
+- https://assetstore.unity.com/publishers/3727
+- https://github.com/devdogio/sci-fi-ui
+- https://vespei.gumroad.com/l/pin
 
 ## sovania
 

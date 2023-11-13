@@ -26,6 +26,7 @@ Transform:
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 8136383362520580981}
   - {fileID: 8136383363328583593}
@@ -63,6 +64,7 @@ Transform:
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 8136383362282205039}
   m_RootOrder: 0
@@ -82,6 +84,7 @@ MonoBehaviour:
   attachmentType: 2
   boneType: 0
   trackerType: 1
+  snappingPointTypes: []
   useFixedPositionOffset: 1
   useFixedRotationOffset: 1
   positionOffset: {x: 0, y: 0, z: 0}
@@ -128,10 +131,12 @@ MeshRenderer:
   m_CastShadows: 1
   m_ReceiveShadows: 1
   m_DynamicOccludee: 1
+  m_StaticShadowCaster: 0
   m_MotionVectors: 1
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 1
   m_RayTracingMode: 2
+  m_RayTraceProcedural: 0
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
@@ -156,6 +161,7 @@ MeshRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
+  m_AdditionalVertexStreams: {fileID: 0}
 --- !u!114 &8136383362520580969
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -169,7 +175,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   syncOwner: 
-  guid: 99257588-d915-498e-a4df-2c9eca8901a2
+  guid: c09e2b42-00d3-44ed-b24b-3ca3fdfa4171
 --- !u!1 &8136383363328583599
 GameObject:
   m_ObjectHideFlags: 0
@@ -197,6 +203,7 @@ Transform:
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 8136383362282205039}
   m_RootOrder: 1
@@ -239,6 +246,7 @@ MonoBehaviour:
         m_PersistentCalls:
           m_Calls:
           - m_Target: {fileID: 8136383362520580974}
+            m_TargetAssemblyTypeName: 
             m_MethodName: Attach
             m_Mode: 1
             m_Arguments:
@@ -270,7 +278,7 @@ MonoBehaviour:
     interactionFilter: 0
     interactionInput: 48
     interactionInputModifier: 0
-    guid: 3386c4f0-478b-4886-bc91-e745ee7d131d
+    guid: f16c6655-7399-4ce9-85a1-7751b3bb8b83
   onEnterSeat:
     m_PersistentCalls:
       m_Calls: []
