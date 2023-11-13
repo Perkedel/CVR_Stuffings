@@ -1009,6 +1009,13 @@ Port this Prefabbed Scene into CVR
 - https://avislime.gumroad.com/
 - https://github.com/jll123567/VR-Content
 - https://github.com/jll123567?tab=repositories
+- https://github.com/Neradon/Dasui
+- https://github.com/topics/chilloutvr
+- https://github.com/topics/chilloutvr
+- https://github.com/topics/chilloutvr
+- https://github.com/EyeTrackVR/EyeTrackVR
+- https://vespei.gumroad.com/l/badge
+- https://github.com/NotAKidOnSteam/CCK.BaseAnimatorPatch
 
 ## sovania
 
