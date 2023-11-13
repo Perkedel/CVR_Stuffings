@@ -1,0 +1,24 @@
+GoopStreamEffect: Drips, start of the particle systems
+  Main
+    Duration: How long before the system "loops".
+    Start Lifetime: How long until the particle dies "natuarally".
+    Gravity Modifier: How fast drip falls.
+    Max Particles: The maximum ammount of drips that can be had.
+  Emission
+    RateOverTime: How many particles are emitted per second.
+  Size Over Lifetime
+    Size: Curve setting the size of the particle over its lifetime(from emission to death)
+      X-Axis: Percent of lifetime
+      Y-Axis: Size [0 to max]
+  Noise: How flight path of particles are randomly altered.
+  Sub Emitters: The particle system that will appear from this particle system.
+  Renderer
+    Material: Drip Appearence.
+GoopSplash: Drips that bounce off the ground.
+  Renderer
+    Material: Drip Appearence
+Pool Emiiter: Creates the pools and dertermines how they fall
+  Emission
+    Rate Over Time: How many particles over the duration.
+Goop Pool: The pools of goop.
+  Start Size: A random size between two bounds, may want something smaller

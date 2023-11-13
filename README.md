@@ -1016,6 +1016,10 @@ Port this Prefabbed Scene into CVR
 - https://github.com/EyeTrackVR/EyeTrackVR
 - https://vespei.gumroad.com/l/badge
 - https://github.com/NotAKidOnSteam/CCK.BaseAnimatorPatch
+- https://github.com/NotAKidOnSteam/
+- https://github.com/NotAKidOnSteam/AvatarScaleTool
+- https://github.com/NotAKidOnSteam/AASEmulator don't forget!
+- https://feedback.abinteractive.net/p/add-a-assembly-definition-to-the-cck
 
 ## sovania
 
