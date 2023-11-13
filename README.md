@@ -974,6 +974,11 @@ Port this Prefabbed Scene into CVR
 - https://assetstore.unity.com/publishers/3727
 - https://github.com/devdogio/sci-fi-ui
 - https://vespei.gumroad.com/l/pin
+- https://assetstore.unity.com/top-assets/top-free
+- https://gitlab.com/sayiarin/sayiavatartools
+- https://sayiarin.booth.pm/items/4094022
+- https://sayiarin.booth.pm/
+- https://booth.pm/en/items/4102091
 
 ## sovania
 
