@@ -72,6 +72,7 @@ Below are assets that are not included and **must be installed prior of usage an
 - [Dynamic Bones](https://assetstore.unity.com/packages/tools/animation/dynamic-bone-16743). **Paywalled**. Instead, [the stub will be included](https://github.com/VRLabs/Dynamic-Bones-Stub).
 - [Keycard Access Badge Lock System](https://mommamollycvr.gumroad.com/l/gxruw). **Paywalled**. Instead, **the hopefully same which is [Evil-Betty's Booth](https://evilbetty.booth.pm/items/4059518) one** that's included. **Wait, that was Evil-Betty's invention??** NOTE: The package lacks prefab & only copied over as a Unity Scene. We have simply dragged this invention (both reader & card) out to the asset & now here the prefab. You're welcome. <!--**PLEASE DO NOT NFT-FIZE (Private the keycard under NFT check sharing)!!!**--> a
 - [Pin Keypad Lock System](https://mommamollycvr.gumroad.com/l/yfsta). **Paywalled**. Instead, **the hopefully same which is [Evil-Betty's Booth](https://evilbetty.booth.pm/items/4053039) one** that's included. **Wait, that was Evil-Betty's invention??**
+- [MochieShaders](https://www.patreon.com/mochieshaders). **Paywalled**. Instead, **the [Partialized free version](https://github.com/MochiesCode/Mochies-Unity-Shaders)** that's included. Looks like the [MIT is not an appropriate license after all](https://github.com/MochiesCode/Mochies-Unity-Shaders/blob/master/LICENSE)? neither GNU GPL forbids partialisms (assuming both all features in the $0 public source code, Just binary partialism)..
 
 <!-- Pls include all free but CCK, to backup! -->
 > ~~Some packages (e.g. `.unitypackage` extracted) are included for ***convenience***~~ All $0 & Redistribution allowed licensed `.unitypackage`s are included.  
@@ -998,6 +999,16 @@ Port this Prefabbed Scene into CVR
 - https://github.com/Thorinair/LumaDriver-for-ChilloutVR Pls install this first
 - https://github.com/Thorinair?tab=repositories
 - https://github.com/MochiesCode/Mochies-Unity-Shaders Willfey yea
+- https://github.com/MochiesCode/Mochies-Unity-Shaders/releases/tag/v1.44 Yeah you.. wait.
+- https://github.com/MochiesCode/Mochies-Unity-Shaders/releases yeah you got it there.
+- https://www.patreon.com/mochieshaders
+- https://avislime.gumroad.com/l/obOgEK
+- https://avislime.gumroad.com/
+- https://hitl.washington/ what?? what did you say? it's cut off!
+- world `headroom` JillTheSomething
+- https://avislime.gumroad.com/
+- https://github.com/jll123567/VR-Content
+- https://github.com/jll123567?tab=repositories
 
 ## sovania
 
