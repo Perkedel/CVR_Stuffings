@@ -18,7 +18,7 @@ Additionally, proper mentals in specifics pertaining encounter of nudity & sexua
 
 **Perkedel Technologies (Perkedel Teknologi Canggih Abadi) and divisions are NOT affiliated with Alpha Blend Interactive**. Therefore, such work & creation endeavors in any forms presented here are not officially made, nor endorsed, nor sponsored by ABI in any way.
 
-In event of any presence of sponsorship in any form, no works & creations including but not limited to decisions, opinions, etc. shall be affected by any mean. We do not accept any request and order of editorial of certain parts of these works & creations. Both the company(ies) and other gamers are witnessing these work & creation endeavors for the first time alongside.
+In event of any presence of sponsorship in any form, no works & creations including but not limited to decisions, opinions, etc. shall be affected by any mean. We do not accept any request and order of editorial of certain parts of these works & creations. Both the company(ies), you, and other gamers are witnessing these work & creation endeavors for the first time alongside.
 
 ## Instructions
 
@@ -250,6 +250,9 @@ Here are the UUIDs of all these assets we uploaded to CVR:
 - `b1ee7ffe-8686-4cbb-b438-5db7f13c539c` (**NOT PERKEDEL**) UCC Mirror. MilchZocker
 - `25f0fbe4-7a23-40f3-815d-a6dd33786a3d` (**NOT PERKEDEL**) UCC Pen. MilchZocker
 - `fba60ac2-b053-401b-9d5d-02986c21af24` (**NOT PERKEDEL**) Kin's Badge. Vespei Kin
+- `fc89a8ba-e426-41e8-81fa-268e79b80175` (**NOT PERKEDEL**) Dippy Press Button. Dippy
+- `9e13b14c-d70b-4266-ae7b-aa687b75faae` (**NOT PERKEDEL**) NUT BUTTON. Dippy
+- `d3317583-fc62-4422-861c-c94b24cbeee0` (**NOT PERKEDEL**) Dippy Sauce. Dippy
 
 ### Assorted
 
@@ -1020,6 +1023,9 @@ Port this Prefabbed Scene into CVR
 - https://github.com/NotAKidOnSteam/AvatarScaleTool
 - https://github.com/NotAKidOnSteam/AASEmulator don't forget!
 - https://feedback.abinteractive.net/p/add-a-assembly-definition-to-the-cck
+- https://www.deviantart.com/quakethorn/gallery
+- https://steamcommunity.com/profiles/76561198390471057?utm_source=SteamLadder.com
+- https://steamcommunity.com/profiles/76561198390471057/myworkshopfiles/?section=items&appid=252490
 
 ## sovania
 
