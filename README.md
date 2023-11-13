@@ -979,6 +979,10 @@ Port this Prefabbed Scene into CVR
 - https://sayiarin.booth.pm/items/4094022
 - https://sayiarin.booth.pm/
 - https://booth.pm/en/items/4102091
+- https://gitlab.com/users/sayiarin/projects
+- https://gitlab.com/sayiarin/sayifx
+- https://github.com/crosire/reshade
+- https://nova-works.booth.pm/
 
 ## sovania
 
