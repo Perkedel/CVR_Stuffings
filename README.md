@@ -983,6 +983,21 @@ Port this Prefabbed Scene into CVR
 - https://gitlab.com/sayiarin/sayifx
 - https://github.com/crosire/reshade
 - https://nova-works.booth.pm/
+- https://booth.pm/en/items?tags%5B%5D=android
+- https://booth.pm/en/items/3072368
+- https://booth.pm/ja/items/2630998
+- https://booth.pm/ja/items/2904811
+- https://github.com/Vianvolaeus/blender-matcap-generator
+- https://booth.pm/en/items/2831542
+- https://assetstore.unity.com/packages/vfx/shaders/free-matcap-shaders-8221 Can you pls have these matcap shaders pls?
+- https://assetstore.unity.com/packages/vfx/shaders/toony-colors-pro-2-8105
+- https://assetstore.unity.com/packages/vfx/shaders/toony-colors-pro-2-8105
+- https://github.com/inoook/UnityMatCapShader
+- https://www.poiyomi.com/#free I think we're done for here.
+- https://github.com/DomNomNomVR/cvr-audio-link/blob/master/LICENSE
+- https://github.com/Thorinair/LumaDriver-for-ChilloutVR Pls install this first
+- https://github.com/Thorinair?tab=repositories
+- https://github.com/MochiesCode/Mochies-Unity-Shaders Willfey yea
 
 ## sovania
 
