@@ -1107,6 +1107,17 @@ Port this Prefabbed Scene into CVR
 - https://github.com/devdogio/Rucksack
 - https://github.com/devdogio/Quest-System-Pro
 - https://github.com/orgs/devdogio/repositories
+- https://github.com/MerlinVR/UdonSharp
+- https://github.com/vrchat-community/UdonSharp
+- https://github.com/MistressPlague/ChilloutButtonAPI
+- https://github.com/MistressPlague/ChilloutButtonAPI/releases/tag/1.9
+- https://github.com/NovaVoidHowl/CVRSpawnMover/blob/main/SpawnMoveUnityProject/Assets/NovaVoidHowl/Spawn_Mover/README.md
+- https://bnuuy-dynamics.booth.pm/
+- https://gitlab.com/s-ilent/filamented
+- https://gitlab.com/s-ilent/fake-glass
+- https://bnuuy-dynamics.booth.pm/items/4954990
+- https://bnuuy-dynamics.booth.pm/items/4596365
+- https://bnuuy-dynamics.booth.pm/items/4456543
 
 ## sovania
 
