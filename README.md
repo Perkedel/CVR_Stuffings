@@ -1118,6 +1118,20 @@ Port this Prefabbed Scene into CVR
 - https://bnuuy-dynamics.booth.pm/items/4954990
 - https://bnuuy-dynamics.booth.pm/items/4596365
 - https://bnuuy-dynamics.booth.pm/items/4456543
+- https://bnuuy-dynamics.booth.pm/items/4456543
+- https://bnuuy-dynamics.booth.pm/items/3559588
+- https://bnuuy-dynamics.booth.pm/items/3552312
+- https://bnuuy-dynamics.booth.pm/items/3376607
+- https://bnuuy-dynamics.booth.pm/items/3370599
+- https://bnuuy-dynamics.booth.pm/items/3355486
+- https://bnuuy-dynamics.booth.pm/items/3340675
+- https://bnuuy-dynamics.booth.pm/items/3177020
+- https://xelevia.booth.pm/items/3002686
+- https://bnuuy-dynamics.booth.pm/items/2837931
+- https://bnuuy-dynamics.booth.pm/items/2736589
+- https://github.com/lilxyzw/lilToon/releases/tag/1.4.1
+- https://bnuuy-dynamics.booth.pm/items/2837931
+- https://booth.pm/ja/items/4084010 Don't foget this pen!
 
 ## sovania
 
