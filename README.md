@@ -1132,6 +1132,32 @@ Port this Prefabbed Scene into CVR
 - https://github.com/lilxyzw/lilToon/releases/tag/1.4.1
 - https://bnuuy-dynamics.booth.pm/items/2837931
 - https://booth.pm/ja/items/4084010 Don't foget this pen!
+- https://github.com/PiMaker/VRChatUnityThings#aurora Pls Shaders heere
+- https://github.com/CyanLaser/CyanEmu
+- https://github.com/vrchat-community/ClientSim
+- https://github.com/89Mods/1802-Namebadge/
+- https://github.com/89Mods/1802-Namebadge/releases/ This too aswell will ya?
+- https://github.com/89Mods/AvalonPlanetPack
+- https://github.com/89Mods/Keppy-s-MIDI-Converter-Multiplatform whoa
+- http://www.un4seen.com/
+- http://jerome.jouvie.free.fr/nativebass/index.php
+- https://github.com/KeppySoftware/KMC
+- https://github.com/KeppySoftware
+- https://github.com/kode54/BASSMIDI-Driver
+- https://booth.pm/en/items/3104007 eggspensiv
+- https://booth.pm/en/items/3127194 too
+- https://tsunamoo.booth.pm/items/4014902
+- https://www.patreon.com/mochieshaders/posts
+- https://github.com/NovaVoidHowl/Common-Avatar-Settings-Configuration-Storage-System WIP
+- https://github.com/NovaVoidHowl/HRtoOSC **LOOK WHAT I FOUND!!! 🫀🫀🫀🫀🫀🫀🫀🫀🫀🫀🫀🫀🫀**
+- https://github.com/200Tigersbloxed/HRtoVRChat_OSC
+- wait.. Only VRChat?!
+- https://vimeo.com/678939624
+- https://github.com/NovaVoidHowl/VRC_prefabs_release
+- https://github.com/NovaVoidHowl/Neitri-Unity-Shaders
+- https://github.com/NovaVoidHowl/CRUMPET-Builder
+- https://github.com/netri/Neitri-Unity-Shaders
+- https://hoshinolabs.booth.pm/items/2666275
 
 ## sovania
 
