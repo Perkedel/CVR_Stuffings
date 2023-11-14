@@ -272,7 +272,35 @@ For employee: **DO NOT LOSE THE GUID!! MAKE SURE IT IS STILL ATTACHED, & IS SAME
 
 ### Control Bola
 
-Idk what to write yet!
+How to Control:
+
+First, start the machine by sitting on the orange chair.
+
+- Left Joystick / WASD = Move the Bola
+- ESC / Right Option Menu? = Stand up & shut down the machine.
+
+### Audio Link Surround Experiment Paused
+
+You need to edit:
+
+- `.cginc` core file to have each and every speaker. There is `_AudioTexture` `sample2D` property to take a look.
+- `.shader` to `include` to each and every `cginc` per speaker
+- `.material` to point to each and every shader there is per speaker
+
+Property for `cginc` & Global Shader Updater Property name, was all `_AudioLink`:
+
+- `_AudioTexture_CF`
+- `_AudioTexture_SubL`
+- `_AudioTexture_LF`
+- `_AudioTexture_RF`
+- `_AudioTexture_LS`
+- `_AudioTexture_RS`
+- `_AudioTexture_LB`
+- `_AudioTexture_RB`
+
+Wait no, just have one `_AudioLink` `sample2D` for each of `.cginc` file. Then each different shader includes which `cginc` to which speaker.
+
+Alternatively for now, have a script that control this `AudioLinkController`, to change reference audio source to different speakers. Yes, unfortunately at the moment, CVR does not support scripting & has strict whitelisted MonoBehaviour scripts rule by default. You may hack around by changing experimental settings and disable Bundle Verifier, who knows, haven't tested yet, **but it's not safe & not recommended**.
 
 ### Video Player not working
 
@@ -1049,6 +1077,16 @@ Port this Prefabbed Scene into CVR
 - https://assetstore.unity.com/packages/vfx/shaders/amplify-shader-pack-202484
 - https://assetstore.unity.com/packages/tools/visual-scripting/amplify-shader-editor-68570
 - https://github.com/Vilar24/VilarVRC/issues/3
+- https://youtu.be/JL9G5nTfsAk?si=Cna_fyGQi3EXqsYH
+- https://phoenixacevfx.gumroad.com/l/MAX
+- https://phoenixacevfx.gumroad.com/
+- https://phoenixacevfx.gumroad.com/l/SweetDreams?layout=profile
+- https://github.com/Leviant/ScreenSpace_Ubershader
+- https://github.com/Leviant/ScreenSpace_Ubershader
+- https://vb-audio.com/Cable/index.htm
+- https://github.com/DomNomNomVR/cvr-audio-link
+- https://vipe.io/ Oh no, NFT 💩
+- https://www.100avatars.com/ Right click save as!
 
 ## sovania
 
