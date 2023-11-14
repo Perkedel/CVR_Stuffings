@@ -73,6 +73,7 @@ Below are assets that are not included and **must be installed prior of usage an
 - [Keycard Access Badge Lock System](https://mommamollycvr.gumroad.com/l/gxruw). **Paywalled**. Instead, **the hopefully same which is [Evil-Betty's Booth](https://evilbetty.booth.pm/items/4059518) one** that's included. **Wait, that was Evil-Betty's invention??** NOTE: The package lacks prefab & only copied over as a Unity Scene. We have simply dragged this invention (both reader & card) out to the asset & now here the prefab. You're welcome. <!--**PLEASE DO NOT NFT-FIZE (Private the keycard under NFT check sharing)!!!**--> a
 - [Pin Keypad Lock System](https://mommamollycvr.gumroad.com/l/yfsta). **Paywalled**. Instead, **the hopefully same which is [Evil-Betty's Booth](https://evilbetty.booth.pm/items/4053039) one** that's included. **Wait, that was Evil-Betty's invention??**
 - [MochieShaders](https://www.patreon.com/mochieshaders). **Paywalled**. Instead, **the [Partialized free version](https://github.com/MochiesCode/Mochies-Unity-Shaders)** that's included. Looks like the [MIT is not an appropriate license after all](https://github.com/MochiesCode/Mochies-Unity-Shaders/blob/master/LICENSE)? neither GNU GPL forbids partialisms (assuming both all features in the $0 public source code, Just binary partialism)..
+- [RollTheRed FireShader PRO](https://www.patreon.com/posts/fire-shader-pro-81534967). **Paywalled**. Instead, **the [Partialized free version](https://discord.gg/construct-1024)** that's included.
 
 <!-- Pls include all free but CCK, to backup! -->
 > ~~Some packages (e.g. `.unitypackage` extracted) are included for ***convenience***~~ All $0 & Redistribution allowed licensed `.unitypackage`s are included.  
@@ -1087,6 +1088,25 @@ Port this Prefabbed Scene into CVR
 - https://github.com/DomNomNomVR/cvr-audio-link
 - https://vipe.io/ Oh no, NFT 💩
 - https://www.100avatars.com/ Right click save as!
+- https://booth.pm/ja/items/3384598 argh man!! fuck!!! Audio Link Debug Tablet is not $0
+- https://booth.pm/ja/items/2141514
+- https://booth.pm/ja/items/1637978
+- https://booth.pm/ja/items/2310370
+- https://booth.pm/ja/items/1501675
+- https://jangxx.booth.pm/items/4813594
+- https://jangxx.booth.pm/
+- https://github.com/devdogio/general
+- https://github.com/devdogio/sci-fi-ui
+- https://assetstore.unity.com/packages/tools/gui/inventory-engine-pro-161513
+- https://assetstore.unity.com/packages/tools/utilities/rewired-21676
+- https://assetstore.unity.com/packages/tools/utilities/rewired-21676
+- https://github.com/devdogio/general
+- https://github.com/devdogio/sci-fi-ui
+- https://github.com/devdogio/Inventory-Pro
+- https://github.com/devdogio
+- https://github.com/devdogio/Rucksack
+- https://github.com/devdogio/Quest-System-Pro
+- https://github.com/orgs/devdogio/repositories
 
 ## sovania
 
