@@ -1158,6 +1158,8 @@ Port this Prefabbed Scene into CVR
 - https://github.com/NovaVoidHowl/CRUMPET-Builder
 - https://github.com/netri/Neitri-Unity-Shaders
 - https://hoshinolabs.booth.pm/items/2666275
+- https://lura.booth.pm/items/1969082 Don't forget credit
+- https://signyamo.blog/vrchat_switch_en/
 
 ## sovania
 
