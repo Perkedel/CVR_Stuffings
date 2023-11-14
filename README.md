@@ -231,6 +231,7 @@ Here are the UUIDs of all these assets we uploaded to CVR:
 - `c01e0e3d-b793-4259-ba8c-84b1a6038a6c` E Dice micro 1
 - `c7a0bd47-3ece-485f-a994-d3eddbc2b4c1` Anjay Button
 - `8f094998-b863-4bc6-b3c9-726eb82f1e24` Fart Reverb Button
+- `d85d797b-2965-4622-9699-962e8bdaf88d` WTF Boom Button
 - `cdc8b5b1-43af-40fd-b7a5-af48dc8d6dde` EmptyBall
 - `323d2618-403d-4835-9eac-5c8362a511a4` Stupid Cartoon Heart with Sound
 - `05b157e8-d51f-4411-ad86-8cb314535e6d` C# forbidden meme
@@ -1026,6 +1027,24 @@ Port this Prefabbed Scene into CVR
 - https://www.deviantart.com/quakethorn/gallery
 - https://steamcommunity.com/profiles/76561198390471057?utm_source=SteamLadder.com
 - https://steamcommunity.com/profiles/76561198390471057/myworkshopfiles/?section=items&appid=252490
+- https://youtu.be/6oe3kOz3j_w wtf boom highest quality clip Let'sch Player.
+- https://www.youtube.com/watch?v=CzORVWFvZ28
+- https://github.com/pema99/glsl2hlsl
+- https://smkplus.github.io/ShaderMan.io/
+- https://youtu.be/MCER5P8Xz3w?si=jq06UP3IA4i4zLmQ
+- https://github.com/smkplus/ShaderMan
+- https://www.shadertoy.com/view/4dl3zn
+- https://docs.microsoft.com/en-us/previous-versions/windows/apps/dn166865(v=win.10)
+- https://docs.unity3d.com/Manual/SL-PlatformDifferences.html
+- https://assetstore.unity.com/packages/tools/utilities/shader-converter-242525 YOU MOTHE--
+- https://forum.unity.com/threads/released-shader-converter.1400083/
+- https://stackoverflow.com/questions/35243265/problems-porting-a-glsl-shadertoy-shader-to-unity
+- https://pema.dev/glsl2hlsl/
+- https://www.shadertoy.com/view/XsXXDn
+- https://gamedev.stackexchange.com/questions/35030/can-i-use-an-animated-gif-as-a-texture
+- https://gamedev.stackexchange.com/questions/35030/can-i-use-an-animated-gif-as-a-texture
+- https://liindy.gumroad.com/
+- https://brehd.gumroad.com/
 
 ## sovania
 
