@@ -202,6 +202,7 @@ Here are the UUIDs of all these assets we uploaded to CVR:
 - `af0f00bc-0702-46ce-9441-bcce0ad6c813` (**NOT PERKEDEL**) UCC Avatars. MilchZocker
 - `9d0677a5-b88f-4994-901b-7b91c99e8cd8` (**NOT PERKEDEL**) UCC Bird Island. MilchZocker
 - `bc8f15fa-8f6b-42b5-8096-8b3058345e98` (**NOT PERKEDEL**) UCC Hub. MilchZocker
+- `9a7d706f-a70e-4e7f-a301-406f25e509b3` (**NOT PERKEDEL**) DomNomNomVR's AudioLink Samples. DomNomNomVR
 
 ### Props
 
@@ -1045,6 +1046,9 @@ Port this Prefabbed Scene into CVR
 - https://gamedev.stackexchange.com/questions/35030/can-i-use-an-animated-gif-as-a-texture
 - https://liindy.gumroad.com/
 - https://brehd.gumroad.com/
+- https://assetstore.unity.com/packages/vfx/shaders/amplify-shader-pack-202484
+- https://assetstore.unity.com/packages/tools/visual-scripting/amplify-shader-editor-68570
+- https://github.com/Vilar24/VilarVRC/issues/3
 
 ## sovania
 
