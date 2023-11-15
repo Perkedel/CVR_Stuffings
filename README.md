@@ -76,6 +76,7 @@ Below are assets that are not included and **must be installed prior of usage an
 - [Pin Keypad Lock System](https://mommamollycvr.gumroad.com/l/yfsta). **Paywalled**. Instead, **the hopefully same which is [Evil-Betty's Booth](https://evilbetty.booth.pm/items/4053039) one** that's included. **Wait, that was Evil-Betty's invention??**
 - [MochieShaders](https://www.patreon.com/mochieshaders). **Paywalled**. Instead, **the [Partialized free version](https://github.com/MochiesCode/Mochies-Unity-Shaders)** that's included. Looks like the [MIT is not an appropriate license after all](https://github.com/MochiesCode/Mochies-Unity-Shaders/blob/master/LICENSE)? neither GNU GPL forbids partialisms (assuming both all features in the $0 public source code, Just binary partialism)..
 - [RollTheRed FireShader PRO](https://www.patreon.com/posts/fire-shader-pro-81534967). **Paywalled**. ~~Instead, **the [Partialized free version](https://discord.gg/construct-1024)** that's included~~ Hello? what the peck did you say? NO, many gamers had no Nitro and hence may not be able to join. They had to, unjoin the others, disgusting by look. Zumi, negotiate this order!
+- [Fantasy Skybox](https://assetstore.unity.com/packages/2d/textures-materials/sky/fantasy-skybox-18216). **Paywalled**. Instead, [this free version](https://assetstore.unity.com/packages/2d/textures-materials/sky/fantasy-skybox-free-18353) will be included, and **idk if this has reduced feature sets**, let me know. **Yes, it's has reduced number of features.**
 
 <!-- Pls include all free but CCK, to backup! -->
 > ~~Some packages (e.g. `.unitypackage` extracted) are included for ***convenience***~~ All $0 & Redistribution allowed licensed `.unitypackage`s are included.  
@@ -588,6 +589,12 @@ DM Prefix = `PLS_CVR_WORLD`
 
 Port this Prefabbed Scene into CVR
 
+### (INACTIVE) Advertisement Billboard 0/10, US$70 / Image file
+
+DM Prefix = `PLS_CVR_AD`
+
+Put this image onto some quads. This image is my promotion for gamers to check out
+
 ### Rules
 
 - All models will be included in the repo and will be shared.
@@ -606,6 +613,13 @@ Port this Prefabbed Scene into CVR
   - And out of some, if this is critically sought after, **it can even bypass INACTIVE status**!! Who knows!
   - So if you are really sure that the 3D Model were sought after to be here in CVR, don't hesitate to consult with us (JOELwindows7, Discord), and we'll gladly review and discuss. 
   - Note again, you shall not expect things would be done fast.
+- Advertisement image files will be disclosed in the `Sprite` folder.
+- Advertisement Life Span: **`POSITIVE_INFINITY`**.
+  - Ads may not contains: Spam, Scam, Cyrptocurrency & NFTs (Except right clicked ones), Download Exclusive to join guild (Download file is okay if no need login), Paywalled & Subscription required files, Virus & Malwares.
+  - NSFW ads are allowed, but they will only appear in NSFW worlds.
+  - Please be honestful to all products contained to be promoted, as we have no time to see details. If e.g. we found there is exclusive download behind this join guild or worse **Paywall & Subscriptions**, **your ad will be immediately removed by the next update**. Gamers may report any promotion that violates our guidelines by contacting Kaorfa at `JOELwindows7`, Discord under DM Prefix `REPORT_AD`.
+  - Some advertisement may be removed at discretion of Perkedel Technologies by the next update of our World.
+  - If your product is critical to be promoted for all gamers to know such as ones that's Gratis, Open Source, & FULL VERSION, either some or better all (Priotizing Gratis), at discretion of Perkedel Technologies, **you may be promoted automatically free of charge** without having to contact us or anything. We will cover all the marketing materials for you if you don't have any.
 
 ## Sauces Total
 
@@ -1175,6 +1189,16 @@ Port this Prefabbed Scene into CVR
 - https://lura.booth.pm/items/1969082 Don't forget credit
 - https://signyamo.blog/vrchat_switch_en/
 - https://www.artstation.com/laluk
+- https://assetstore.unity.com/packages/2d/textures-materials/sky/fantasy-skybox-free-18353
+- https://assetstore.unity.com/packages/2d/textures-materials/nature/realistic-grass-flowers-pack-191866
+- https://assetstore.unity.com/packages/2d/textures-materials/nature/grass-flowers-pack-free-138810
+- https://assetstore.unity.com/packages/2d/textures-materials/floors/hand-painted-grass-texture-78552
+- https://assetstore.unity.com/packages/2d/textures-materials/nature/handpainted-grass-ground-textures-187634
+- https://assetstore.unity.com/packages/2d/textures-materials/floors/hand-painted-seamless-grass-texture-vol-3-159522
+- https://assetstore.unity.com/packages/2d/textures-materials/floors/hand-painted-seamless-ground-texture-155088
+- https://assetstore.unity.com/packages/3d/environments/landscapes/lowpoly-environment-pack-99479
+- https://assetstore.unity.com/packages/3d/environments/lowpoly-environment-nature-free-medieval-fantasy-series-187052
+- https://youtu.be/2PBgCl-zIZQ?si=RBtN35fp1VoQDLM0
 
 ## sovania
 
