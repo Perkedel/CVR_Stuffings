@@ -185,10 +185,10 @@ TODO: pls do
 Pay attention to these files. You need to clone the following to your own folder:
 
 - `CPU.rendertexture` & `CPU 1.rendertexture`
-- `EmuMat.material`
+- `EmuMat.material` & `Register.material`
 - `program.png`
 
-
+> Tips: Make sure to clone the file within the Unity editor, so that the `.meta` files are aligned with each file.
 
 ## UUIDs GUIDs
 
