@@ -20,6 +20,8 @@ Additionally, proper mentals in specifics pertaining encounter of nudity & sexua
 
 In event of any presence of sponsorship in any form, no works & creations including but not limited to decisions, opinions, etc. shall be affected by any mean. We do not accept any request and order of editorial of certain parts of these works & creations. Both the company(ies), you, and other gamers are witnessing these work & creation endeavors for the first time alongside.
 
+[Click here to learn more about Terms of Service of Alpha Blend Interactive](https://documentation.abinteractive.net/official/legal/tos/)
+
 ## Instructions
 
 ### Installation Setup
@@ -73,7 +75,7 @@ Below are assets that are not included and **must be installed prior of usage an
 - [Keycard Access Badge Lock System](https://mommamollycvr.gumroad.com/l/gxruw). **Paywalled**. Instead, **the hopefully same which is [Evil-Betty's Booth](https://evilbetty.booth.pm/items/4059518) one** that's included. **Wait, that was Evil-Betty's invention??** NOTE: The package lacks prefab & only copied over as a Unity Scene. We have simply dragged this invention (both reader & card) out to the asset & now here the prefab. You're welcome. <!--**PLEASE DO NOT NFT-FIZE (Private the keycard under NFT check sharing)!!!**--> a
 - [Pin Keypad Lock System](https://mommamollycvr.gumroad.com/l/yfsta). **Paywalled**. Instead, **the hopefully same which is [Evil-Betty's Booth](https://evilbetty.booth.pm/items/4053039) one** that's included. **Wait, that was Evil-Betty's invention??**
 - [MochieShaders](https://www.patreon.com/mochieshaders). **Paywalled**. Instead, **the [Partialized free version](https://github.com/MochiesCode/Mochies-Unity-Shaders)** that's included. Looks like the [MIT is not an appropriate license after all](https://github.com/MochiesCode/Mochies-Unity-Shaders/blob/master/LICENSE)? neither GNU GPL forbids partialisms (assuming both all features in the $0 public source code, Just binary partialism)..
-- [RollTheRed FireShader PRO](https://www.patreon.com/posts/fire-shader-pro-81534967). **Paywalled**. Instead, **the [Partialized free version](https://discord.gg/construct-1024)** that's included.
+- [RollTheRed FireShader PRO](https://www.patreon.com/posts/fire-shader-pro-81534967). **Paywalled**. ~~Instead, **the [Partialized free version](https://discord.gg/construct-1024)** that's included~~ Hello? what the peck did you say? NO, many gamers had no Nitro and hence may not be able to join. They had to, unjoin the others, disgusting by look. Zumi, negotiate this order!
 
 <!-- Pls include all free but CCK, to backup! -->
 > ~~Some packages (e.g. `.unitypackage` extracted) are included for ***convenience***~~ All $0 & Redistribution allowed licensed `.unitypackage`s are included.  
