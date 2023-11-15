@@ -178,6 +178,18 @@ Cinematic Path camera allows you to make the camera runs dolly in specified pen 
 - Drag a path point (`RMB` on a path point) = Select a path point. Selected path point turns yellow, and turns rest of path points back to white.
 - Drag its dot (`RMB` on the path point's dot) = Adjust pen curve strength to this path. Think it like using Pen Tool in image & vector editing software.
 
+#### How to Tholin's Namebadge
+
+TODO: pls do
+
+Pay attention to these files. You need to clone the following to your own folder:
+
+- `CPU.rendertexture` & `CPU 1.rendertexture`
+- `EmuMat.material`
+- `program.png`
+
+
+
 ## UUIDs GUIDs
 
 Here are the UUIDs of all these assets we uploaded to CVR:
