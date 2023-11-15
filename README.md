@@ -615,8 +615,8 @@ Put this image onto some quads. This image is my promotion for gamers to check o
   - Note again, you shall not expect things would be done fast.
 - Advertisement image files will be disclosed in the `Sprite` folder.
 - Advertisement Life Span: **`POSITIVE_INFINITY`**.
-  - Ads may not contains: Spam, Scam, Cyrptocurrency & NFTs (Except right clicked ones), Download Exclusive to join guild (Download file is okay if no need login), Paywalled & Subscription required files, Virus & Malwares.
-  - NSFW ads are allowed, but they will only appear in NSFW worlds.
+  - Ads may not contains: Spam, Scam, Cyrptocurrency & NFTs (Except right clicked ones), Download Exclusive to join guild (Download file is okay if no need login), Paywalled & Subscription required files, Virus & Malwares, Pay to Win competitive advantages.
+  - NSFW ads are allowed, but they will only appear in NSFW worlds. **Please state if your ads are NSFW**.
   - Please be honestful to all products contained to be promoted, as we have no time to see details. If e.g. we found there is exclusive download behind this join guild or worse **Paywall & Subscriptions**, **your ad will be immediately removed by the next update**. Gamers may report any promotion that violates our guidelines by contacting Kaorfa at `JOELwindows7`, Discord under DM Prefix `REPORT_AD`.
   - Some advertisement may be removed at discretion of Perkedel Technologies by the next update of our World.
   - If your product is critical to be promoted for all gamers to know such as ones that's Gratis, Open Source, & FULL VERSION, either some or better all (Priotizing Gratis), at discretion of Perkedel Technologies, **you may be promoted automatically free of charge** without having to contact us or anything. We will cover all the marketing materials for you if you don't have any.
