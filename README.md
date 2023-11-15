@@ -379,6 +379,24 @@ Known Whitelisted domains in CVR for Video Player are:
 ([SAUCE](https://github.com/NovaVoidHowl/CVR---Guides-Notes/blob/main/file-locations-and-info.md)) Modify these whitelist on this JSON file: `%USERPROFILE%\Appdata\LocalLow\Alpha Blend Interactive\ChilloutVR\UrlWhitelist.json`  
 **Do this at your own risk!**
 
+### World Rule of NO Private 3D Model allowed
+
+***Feedback cannot be made nor published to Feedback ABI due to obvious disagreeabilities***.
+
+A world rule that disallows Avatar that its privacy setting not `Public`. If a gamer entered the world / instance with rule set, wearing this kind of avatar, their avatar will be replaced with 2D Placeholder sprites like censored ones.
+
+Application possibilities:
+
+- in World, rule that were set alongside props & fly permissions.
+- in user Setting, to be alongside with View Safety settings like NSFW, Horror, Violence, Particle, Giant & Micro sizes, Effects, etc.
+- in instance, rule that were set alongside props & fly permissions.
+
+This idea was inspired from Blender Surreal Meme realm where **nobody is allowed to wear body that has no Public Download Link and Paywalled Download link** (anything that Kaorfa never had grasp with the 3D model said). The NPCs there are all simple primitives being & can be said an AI. The visitors who typically have more complex conciousness structures usually respects these cultures by also creating avatar that is also a simple primitives with added complex features, **and agree to make these special avatars public no exception**.
+
+If the visitors who ended up here either had no usable avatar, OR wore a Private Avatar, their body will be immediately swapped with random primitives shapes with random / signature colors, usually `Default Cube`, `Suzanne`, `Stanford Rabbit`, or `Utah Teapot`.
+
+Yeah pls download link. peck you, proprietarists!
+
 ### Is ChilloutVR indeed much more intuitive than VRChat?
 
 > Further testing & experience required in order to build conclusion
@@ -1199,6 +1217,7 @@ Put this image onto some quads. This image is my promotion for gamers to check o
 - https://assetstore.unity.com/packages/3d/environments/landscapes/lowpoly-environment-pack-99479
 - https://assetstore.unity.com/packages/3d/environments/lowpoly-environment-nature-free-medieval-fantasy-series-187052
 - https://youtu.be/2PBgCl-zIZQ?si=RBtN35fp1VoQDLM0
+- pls note, `fearless7` Discord was the one that told us about `LURA Lightswitches`. pls tell me their CVR username!
 
 ## sovania
 
