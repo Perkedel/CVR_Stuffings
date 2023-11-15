@@ -178,7 +178,7 @@ Cinematic Path camera allows you to make the camera runs dolly in specified pen 
 - Drag a path point (`RMB` on a path point) = Select a path point. Selected path point turns yellow, and turns rest of path points back to white.
 - Drag its dot (`RMB` on the path point's dot) = Adjust pen curve strength to this path. Think it like using Pen Tool in image & vector editing software.
 
-## UUIDs
+## UUIDs GUIDs
 
 Here are the UUIDs of all these assets we uploaded to CVR:
 
@@ -203,7 +203,7 @@ Here are the UUIDs of all these assets we uploaded to CVR:
 - `af0f00bc-0702-46ce-9441-bcce0ad6c813` (**NOT PERKEDEL**) UCC Avatars. MilchZocker
 - `9d0677a5-b88f-4994-901b-7b91c99e8cd8` (**NOT PERKEDEL**) UCC Bird Island. MilchZocker
 - `bc8f15fa-8f6b-42b5-8096-8b3058345e98` (**NOT PERKEDEL**) UCC Hub. MilchZocker
-- `9a7d706f-a70e-4e7f-a301-406f25e509b3` (**NOT PERKEDEL**) DomNomNomVR's AudioLink Samples. DomNomNomVR
+- `9a7d706f-a70e-4e7f-a301-406f25e509b3` (**NOT PERKEDEL**) DomNomNomVR's AudioLink Samples. DomNomNomVR. **NOTE: UUID mismatch into `TEST Audio Link`! World is not same as seemingly identical `AudioLink Example`!!**
 
 ### Props
 
@@ -1160,6 +1160,7 @@ Port this Prefabbed Scene into CVR
 - https://hoshinolabs.booth.pm/items/2666275
 - https://lura.booth.pm/items/1969082 Don't forget credit
 - https://signyamo.blog/vrchat_switch_en/
+- https://www.artstation.com/laluk
 
 ## sovania
 
