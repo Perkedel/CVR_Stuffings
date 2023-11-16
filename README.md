@@ -1219,6 +1219,9 @@ Put this image onto some quads. This image is my promotion for gamers to check o
 - https://youtu.be/2PBgCl-zIZQ?si=RBtN35fp1VoQDLM0
 - pls note, `fearless7` Discord was the one that told us about `LURA Lightswitches`. pls tell me their CVR username!
 - pls crute series will ya????????
+- https://github.com/Slime-Senpai/cvshare
+- https://github.com/orels1/orels1-AudioLink-Shader
+- https://github.com/llealloo/vrc-udon-audio-link/releases
 
 ## sovania
 
