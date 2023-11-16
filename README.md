@@ -1218,6 +1218,7 @@ Put this image onto some quads. This image is my promotion for gamers to check o
 - https://assetstore.unity.com/packages/3d/environments/lowpoly-environment-nature-free-medieval-fantasy-series-187052
 - https://youtu.be/2PBgCl-zIZQ?si=RBtN35fp1VoQDLM0
 - pls note, `fearless7` Discord was the one that told us about `LURA Lightswitches`. pls tell me their CVR username!
+- pls crute series will ya????????
 
 ## sovania
 
