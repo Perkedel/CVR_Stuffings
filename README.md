@@ -77,6 +77,7 @@ Below are assets that are not included and **must be installed prior of usage an
 - [MochieShaders](https://www.patreon.com/mochieshaders). **Paywalled**. Instead, **the [Partialized free version](https://github.com/MochiesCode/Mochies-Unity-Shaders)** that's included. Looks like the [MIT is not an appropriate license after all](https://github.com/MochiesCode/Mochies-Unity-Shaders/blob/master/LICENSE)? neither GNU GPL forbids partialisms (assuming both all features in the $0 public source code, Just binary partialism)..
 - [RollTheRed FireShader PRO](https://www.patreon.com/posts/fire-shader-pro-81534967). **Paywalled**. ~~Instead, **the [Partialized free version](https://discord.gg/construct-1024)** that's included~~ Hello? what the peck did you say? NO, many gamers had no Nitro and hence may not be able to join. They had to, unjoin the others, disgusting by look. Zumi, negotiate this order!
 - [Fantasy Skybox](https://assetstore.unity.com/packages/2d/textures-materials/sky/fantasy-skybox-18216). **Paywalled**. Instead, [this free version](https://assetstore.unity.com/packages/2d/textures-materials/sky/fantasy-skybox-free-18353) will be included, and **idk if this has reduced feature sets**, let me know. **Yes, it's has reduced number of features.**
+- [Hard Surface metal TIFF File from 3D Effect Pack Free](https://assetstore.unity.com/packages/p/3d-games-effects-pack-free-42285). **Exceeded over 100 MB**.
 
 <!-- Pls include all free but CCK, to backup! -->
 > ~~Some packages (e.g. `.unitypackage` extracted) are included for ***convenience***~~ All $0 & Redistribution allowed licensed `.unitypackage`s are included.  
@@ -1252,6 +1253,9 @@ Put this image onto some quads. This image is my promotion for gamers to check o
 - https://assetstore.unity.com/packages/vfx/particles/3d-games-effects-pack-free-42285
 - https://assetstore.unity.com/packages/tools/input-management/sketchfab-for-unity-14302 old
 - https://kenney.itch.io/kenney-game-assets Pls keep an eye of an update of this prepacked! Yes, it's paid, but all assets are free to download manually. Full disclosure, because he provided about generously, I paid $12. He deserved it.
+- http://blitz3dfr.free.fr/
+- https://assetstore.unity.com/packages/vfx/particles/3d-games-effects-pack-free-42285
+- https://assetstore.unity.com/packages/3d/props/weapons/3d-items-free-wand-pack-46225
 
 ## sovania
 
