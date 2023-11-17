@@ -338,8 +338,9 @@ Now, try again. If your log says `killing youtube-dl timeout`, try re-pasting th
 - https://www.reddit.com/r/archlinux/comments/119hsoj/stop_using_youtubedl_and_use_ytdlp_instead/
 - https://www.reddit.com/r/youtubedl/comments/mh51mc/out_of_curiosity_how_does_youtubedl_work/
 - https://ytdl-org.github.io/youtube-dl/
-- https://openjur.de/u/2466945.html 🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕 
+- https://openjur.de/u/2466945.html 🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕
 - ~~https://youtube-dl.org/~~ brogen
+- https://github.com/yt-dlp/yt-dlp **NEW**
 
 #### Extra Video not working
 
@@ -412,6 +413,20 @@ Ah what do you know? in VRChat you login with username, **and password**. **Main
 Remember, since CVR is the new guy in the VR Social media, they take a while to catch up.
 
 <!-- Pain Massword -->
+
+### UNITY TOOK LONG TIME TO LOAD!!! HAAAAAAAAAAAAAAAAAAH
+
+Well what do you know? It is expected. We're not in Godot where everything is super optimized and super light by default. You know.
+
+If your PC **has no**:
+
+- Highest end CPU (critically Core i7 OR Ryzen 7, OR anything that has at least 6 real cores & and each rate from at least 4 of them 2 GHz)
+- Highest end NVMe SSD, where the Unity project resides in (putting on Game Harddisk is as same slow as regular Harddisk, YOU MUST put it in an NVMe SSD where it is connected to NVMe M.2 slot directly to your motherboard, not SATA SSD of any kind (Neither M.2 nor SATA, don't get scammed!))
+- Highest end RAM with highest possible Hz & Size (Critically totals to 32 GB and up, and conclusive usable rate by 5000 Mhz and up)
+
+It will take long, and more file adds longer it is. Therefore you need a combination of those above, & a **Highest end GPU** you could possibly find (critically, with Nvidia XX60 Ti or not, OR AMD Radeon XX60 XT or not, or anything able to VR at medium setting). Without those above, it may take up to 5 hours to start! & without enough GPU, it is impossible to render viably.
+
+Even with ultimate today spec that won Overclocking contest yesterday, you may still experience long time loading I think about 2 minutes. Remember, this is Unity, not Godot.
 
 ### Are these done by Realizer division?
 
@@ -1222,6 +1237,21 @@ Put this image onto some quads. This image is my promotion for gamers to check o
 - https://github.com/Slime-Senpai/cvshare
 - https://github.com/orels1/orels1-AudioLink-Shader
 - https://github.com/llealloo/vrc-udon-audio-link/releases
+- https://assetstore.unity.com/packages/tools/input-management/sketchfab-for-unity-14302
+- https://skfb.ly/6S9CM
+- https://sketchfab.com/hippostance
+- https://github.com/sketchfab/unity-plugin
+- https://skfb.ly/6RWYR
+- https://sketchfab.com/Urpo
+- https://skfb.ly/6RKRU
+- https://sketchfab.com/motaman
+- https://skfb.ly/6uFxX
+- https://sketchfab.com/Xill
+- https://github.com/sketchfab/unity-plugin/releases/tag/1.2.1
+- https://github.com/sketchfab/unity-plugin
+- https://assetstore.unity.com/packages/vfx/particles/3d-games-effects-pack-free-42285
+- https://assetstore.unity.com/packages/tools/input-management/sketchfab-for-unity-14302 old
+- https://kenney.itch.io/kenney-game-assets Pls keep an eye of an update of this prepacked! Yes, it's paid, but all assets are free to download manually. Full disclosure, because he provided about generously, I paid $12. He deserved it.
 
 ## sovania
 
