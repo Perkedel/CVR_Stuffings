@@ -1266,6 +1266,9 @@ Put this image onto some quads. This image is my promotion for gamers to check o
 - https://github.com/VRCBilliards/vrcbce2
 - https://github.com/VRCBilliards
 - https://github.com/VRCBilliards/vrcbce
+- https://3dtextures.me
+- https://seamless-pixels.blogspot.com
+- https://wiki.tockdom.com/wiki/lunar_biodomes
 
 ## sovania
 
