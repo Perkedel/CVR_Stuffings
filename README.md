@@ -1256,6 +1256,11 @@ Put this image onto some quads. This image is my promotion for gamers to check o
 - http://blitz3dfr.free.fr/
 - https://assetstore.unity.com/packages/vfx/particles/3d-games-effects-pack-free-42285
 - https://assetstore.unity.com/packages/3d/props/weapons/3d-items-free-wand-pack-46225
+- https://freesound.org/people/InspectorJ/packs/22864/
+- https://gitlab.com/towelfunnelvrc/towel-license
+- https://freesound.org/people/InspectorJ/packs/22864/
+- https://freesound.org/people/InspectorJ/sounds/404329/
+- https://en.wikipedia.org/wiki/480p
 
 ## sovania
 
