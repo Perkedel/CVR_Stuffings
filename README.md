@@ -1261,6 +1261,11 @@ Put this image onto some quads. This image is my promotion for gamers to check o
 - https://freesound.org/people/InspectorJ/packs/22864/
 - https://freesound.org/people/InspectorJ/sounds/404329/
 - https://en.wikipedia.org/wiki/480p
+- from ArcherPupper's port of XOXO world, we got..
+- https://github.com/VRCBilliards/vcc-repo
+- https://github.com/VRCBilliards/vrcbce2
+- https://github.com/VRCBilliards
+- https://github.com/VRCBilliards/vrcbce
 
 ## sovania
 
