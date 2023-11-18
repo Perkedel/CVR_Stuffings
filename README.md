@@ -1276,6 +1276,9 @@ Put this image onto some quads. This image is my promotion for gamers to check o
 - https://feedback.abinteractive.net/p/steam-audio-for-players
 - https://feedback.abinteractive.net/p/steam-audio-for-players
 - https://rantisvr.gumroad.com
+- https://youtu.be/5dvst-lbx1Y?si=ThC6a3P1MfEnN7No
+- https://youtu.be/hCn0ZZbQAUs?si=ER6aPAYW4RbMhTD6
+- https://youtu.be/bo8HwoFIBUQ?si=RC631Pjd8C3Ii6gZ
 
 ## sovania
 
