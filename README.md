@@ -494,6 +494,29 @@ Please test these other Free car assets and confirm whether or not they works:
 
 - null. Custom MonoBehaviour is forbidden by default.
 
+### Legit Purchase Disclosure
+
+> In response of backlash towards Van Elektronische on grounds of involvement of X0p1r4t3 Eenvreensmnt which concerning parties claim notorious for sparsdating assets
+
+We have heard your concern. We understand that such organisation involvement in this checkpoint leaves an immense distaste to you, the concerning parties. Rest assured, No assets should these were sparsdated, shall never enter this repository, **until Kaorfa (JOELwindows7) himself paid for those assets**. The payment proof will promptly be included at above section, once the transactions is complete. And, **No paid assets to be unignored either**. All gamers who wanted to contribute **are required to provide the assets should be involved here, which are paid, on their own**, until the alternative was manufactured.
+
+In order to relieve you, the concerning parties, we would like to fully disclose Kaorfa's parameter, on paid files, as follows:
+
+- Kaorfa had ceased sparsdating `video games`, since around 2012, and the transition so to speak had been completed, in around 2016's. Today, Kaorfa will readily purchase new games legitly, if he inclined so. Unless of course, such games are no longer available to purchase legitimately, or unviable to support should the company beholding behaves badly.
+- Kaorfa already **lost over $100 in total and counting**, to purchase `assets`, legitimately.
+- Kaorfa **already spent over $3000 in computer information equipments**, to download these assets & games, and use them to inspire & create more creative works out of those.
+- Kaorfa's **mother would not be happy and furious**, should she found that Kaorfa spent that much of a money over serveral assets, such as one that costed him $30 a being. In fact, on purchasing hardwares alone, Kaorfa is today strictly being monitored and requires low chance approval processes. Kaorfa is indeed under immense pressure, required to mend good spending behaviour & reduce reckless shopping. And as the result, this has risk of compromising integrity & will of disclosure towards his own parent, which has already shown, Kaorfa is silently purchasing assets and games in his same bedroom alone, often times away from his parent's supervisions.
+
+Additionally, This checkpoint project, and others under our command have rules, all participant required to obey, in particular regarding assets and costs:
+
+- All assets must be obtained legitimately as it can.
+- All assets should this one paid, requires proof of transaction where Kaorfa commited towards beholding owner of the assets.
+- Should the proposed assets comes from sparsdat, Check previous point.
+- Assets that have met the legitimacy condition above, still cannot be included in the repository it sits to be. These files must be `.gitignored` to prevent provocation against the beholding owner of the assets
+- Should the assets are discontinued & gone 404, legitimacy rules voids & preservation now falls & engages at the discretion of the project managers.
+
+We also would like to apologize, as many of our member of this checkpoint project had uttered abundant amount of insults against the beholding owners when their assets are paid. This is because of this project policies in effect, that permit unfiltered & uneditorialized utterance from the member, in accordance with main protocol No. ???? stating `Integrity & Honesty`, where words are required to be seen by other gamers, without censorship, or worse turns manipulated / oppositely lying. This will not be fixed & request for such cover ups will not be accepted, due to above's policy. We apologize for your inconveniences.
+
 ### Dippy's Unity Packages ~~GONE 404~~ EXISTS
 
 ~~We are no longer able to find his Gumroad whatsoever. However worry not, because we have claimed those items before these disappearances. Further creation shall use these items yoinked or the reuploads. Only things we worry are the other files that may have not been claimed, who knows.~~ We found it https://dippythefoxderg.gumroad.com/ . Please refer to these files for more informations.
@@ -1279,6 +1302,8 @@ Put this image onto some quads. This image is my promotion for gamers to check o
 - https://youtu.be/5dvst-lbx1Y?si=ThC6a3P1MfEnN7No
 - https://youtu.be/hCn0ZZbQAUs?si=ER6aPAYW4RbMhTD6
 - https://youtu.be/bo8HwoFIBUQ?si=RC631Pjd8C3Ii6gZ
+- https://pammematth.gumroad.com/ argh, mother..
+- https://trashtanuki.gumroad.com/ Welp. This is not gonna work alone. This one's $0, all 2, ... but not the shader above these uses. Pammemathh, wtf bro?! 💀
 
 ## sovania
 
