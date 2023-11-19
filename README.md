@@ -1339,6 +1339,9 @@ Put this image onto some quads. This image is my promotion for gamers to check o
 - https://www.patreon.com/posts/your-own-shader-30978519?utm_medium=clipboard_copy&utm_source=copyLink&utm_campaign=postshare_fan&utm_content=join_link
 - https://www.patreon.com/posts/simple-progress-30958470?utm_medium=clipboard_copy&utm_source=copyLink&utm_campaign=postshare_fan&utm_content=join_link
 - https://www.patreon.com/posts/making-shaders-30956373?utm_medium=clipboard_copy&utm_source=copyLink&utm_campaign=postshare_fan&utm_content=join_link
+- https://github.com/KeppySoftware/OmniMIDI
+- https://www.patreon.com/mochieshaders There hasn't been alot. go back to that github.
+- 
 
 ## sovania
 
