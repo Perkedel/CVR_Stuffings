@@ -78,6 +78,8 @@ Below are assets that are not included and **must be installed prior of usage an
 - [RollTheRed FireShader PRO](https://www.patreon.com/posts/fire-shader-pro-81534967). **Paywalled**. ~~Instead, **the [Partialized free version](https://discord.gg/construct-1024)** that's included~~ Hello? what the peck did you say? NO, many gamers had no Nitro and hence may not be able to join. They had to, unjoin the others, disgusting by look. Zumi, negotiate this order!
 - [Fantasy Skybox](https://assetstore.unity.com/packages/2d/textures-materials/sky/fantasy-skybox-18216). **Paywalled**. Instead, [this free version](https://assetstore.unity.com/packages/2d/textures-materials/sky/fantasy-skybox-free-18353) will be included, and **idk if this has reduced feature sets**, let me know. **Yes, it's has reduced number of features.**
 - [Hard Surface metal TIFF File from 3D Effect Pack Free](https://assetstore.unity.com/packages/p/3d-games-effects-pack-free-42285). **Exceeded over 100 MB**.
+- [RED_SIM Perfect Water Shader](https://www.patreon.com/posts/32255294/). **Paywalled**. Instead, [this partialized free version](https://www.patreon.com/posts/32252234) included.
+- [RED_SIM XMAS Lights](https://www.patreon.com/posts/xmas-lights-full-32033307). **Paywalled**. Instead, [this partialized free version](https://www.patreon.com/posts/xmas-lights-32030551) included.
 
 <!-- Pls include all free but CCK, to backup! -->
 > ~~Some packages (e.g. `.unitypackage` extracted) are included for ***convenience***~~ All $0 & Redistribution allowed licensed `.unitypackage`s are included.  
@@ -1314,6 +1316,29 @@ Put this image onto some quads. This image is my promotion for gamers to check o
 - https://beats2.net/
 - https://discord.gg/zmQsjqr maebbie will ya?
 - https://github.com/kafeijao/Kafe_CVR_CCKs/blob/master/NavMeshFollower/README.md how to navmesh follower. install & making
+- https://github.com/PlagueVRC/AntiRip ... Right. I'm gonna pretend to be so friendly & star this shit.
+- https://github.com/rygo6/GTAvaCrypt and move on.
+- https://seblagarde.wordpress.com/2014/12/01/inverse-trigonometric-functions-gpu-optimization-for-amd-gcn-architecture/
+- https://github.com/synqark?tab=repositories YOu gone it!!
+- https://github.com/synqark/Arktoon-Shaders where did you gone it?!?!??!
+- https://lilxyzw.github.io/lilToon/#/?id=overview
+- https://coposuke.hateblo.jp/entry/2019/01/20/043042
+- https://booth.pm/en/items/3087170 the liltoon is already on GitHub. This is support donate button, I hope
+- https://booth.pm/ja/items/2836532
+- https://kyubihome.booth.pm/items/2554585 argh
+- https://github.com/CMoyuer/ChilloutVR-LocalTest I don't think this work anymore. It's been long time ago, and it's just fast it pass.
+- https://www.patreon.com/posts/xmas-lights-32030551
+- https://www.patreon.com/posts/xmas-lights-full-32033307
+- https://www.patreon.com/red_sim
+- https://www.patreon.com/posts/sucrose-genshin-52393195?utm_medium=clipboard_copy&utm_source=copyLink&utm_campaign=postshare_fan&utm_content=join_link
+- https://docs.google.com/spreadsheets/d/e/2PACX-1vSlKw7F4duN6QvoZqP4gAGjy99k4Ngi5arvKe1r0VGeWg5dnqhWXP1r5YcFJ3-gkaOwQgdpt-XUnd8G/pubhtml#
+- https://www.patreon.com/posts/32252234
+- https://www.patreon.com/posts/32252234
+- https://www.patreon.com/posts/32255294/
+- https://www.patreon.com/posts/32255294/
+- https://www.patreon.com/posts/your-own-shader-30978519?utm_medium=clipboard_copy&utm_source=copyLink&utm_campaign=postshare_fan&utm_content=join_link
+- https://www.patreon.com/posts/simple-progress-30958470?utm_medium=clipboard_copy&utm_source=copyLink&utm_campaign=postshare_fan&utm_content=join_link
+- https://www.patreon.com/posts/making-shaders-30956373?utm_medium=clipboard_copy&utm_source=copyLink&utm_campaign=postshare_fan&utm_content=join_link
 
 ## sovania
 
