@@ -250,7 +250,10 @@ Here are the UUIDs of all these assets we uploaded to CVR:
 - `c01e0e3d-b793-4259-ba8c-84b1a6038a6c` E Dice micro 1
 - `c7a0bd47-3ece-485f-a994-d3eddbc2b4c1` Anjay Button
 - `8f094998-b863-4bc6-b3c9-726eb82f1e24` Fart Reverb Button
+- `2b7ef53d-a4aa-457d-b613-6a542fb385d0` Fart Origin Button
 - `d85d797b-2965-4622-9699-962e8bdaf88d` WTF Boom Button
+- `4c35b951-7dc3-4adf-8dda-7bf253d24dc5` Bin Canon duar Button
+- `a245cf37-09f3-408c-bcc9-cf35839a4fe9` Very Loud Explosion Button
 - `cdc8b5b1-43af-40fd-b7a5-af48dc8d6dde` EmptyBall
 - `323d2618-403d-4835-9eac-5c8362a511a4` Stupid Cartoon Heart with Sound
 - `05b157e8-d51f-4411-ad86-8cb314535e6d` C# forbidden meme
@@ -525,7 +528,7 @@ We also would like to apologize, as many of our member of this checkpoint projec
 
 ~~We are no longer able to find his Gumroad whatsoever. However worry not, because we have claimed those items before these disappearances. Further creation shall use these items yoinked or the reuploads. Only things we worry are the other files that may have not been claimed, who knows.~~ We found it https://dippythefoxderg.gumroad.com/ . Please refer to these files for more informations.
 
-- https://dippythefoxderg.gumroad.com/l/DippyPushButt Button SFX
+- https://dippythefoxderg.gumroad.com/l/DippyPushButt Button SFX Dippy Push Button
 - https://dippythefoxderg.gumroad.com/l/DippyDipSauce Dip Sauce
 - https://dippythefoxderg.gumroad.com/l/DippyAdStand Advertisement Stand
   
@@ -1309,6 +1312,8 @@ Put this image onto some quads. This image is my promotion for gamers to check o
 - https://pammematth.gumroad.com/ argh, mother..
 - https://trashtanuki.gumroad.com/ Welp. This is not gonna work alone. This one's $0, all 2, ... but not the shader above these uses. Pammemathh, wtf bro?! 💀
 - https://beats2.net/
+- https://discord.gg/zmQsjqr maebbie will ya?
+- https://github.com/kafeijao/Kafe_CVR_CCKs/blob/master/NavMeshFollower/README.md how to navmesh follower. install & making
 
 ## sovania
 
