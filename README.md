@@ -1361,6 +1361,8 @@ Put this image onto some quads. This image is my promotion for gamers to check o
 - https://assetstore.unity.com/packages/3d/towers-and-cars-62749
 - https://docs.unity3d.com/510/Documentation/Manual/PrimitiveObjects.html
 - https://github.com/keijiro/Metamesh Hello, here's procedural mesh generator yey
+- https://docs.unity3d.com/Manual/upm-scoped.html
+- https://github.com/keijiro/Metatex
 
 ## sovania
 
