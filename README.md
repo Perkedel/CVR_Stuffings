@@ -221,7 +221,8 @@ Here are the UUIDs of all these assets we uploaded to CVR:
 - `af0f00bc-0702-46ce-9441-bcce0ad6c813` (**NOT PERKEDEL**) UCC Avatars. MilchZocker
 - `9d0677a5-b88f-4994-901b-7b91c99e8cd8` (**NOT PERKEDEL**) UCC Bird Island. MilchZocker
 - `bc8f15fa-8f6b-42b5-8096-8b3058345e98` (**NOT PERKEDEL**) UCC Hub. MilchZocker
-- `9a7d706f-a70e-4e7f-a301-406f25e509b3` (**NOT PERKEDEL**) DomNomNomVR's AudioLink Samples. DomNomNomVR. **NOTE: UUID mismatch into `TEST Audio Link`! World is not same as seemingly identical `AudioLink Example`!!**
+- `9a7d706f-a70e-4e7f-a301-406f25e509b3` (**NOT PERKEDEL**) DomNomNomVR's ~~AudioLink Samples~~ Wrong AL world. DomNomNomVR. **NOTE: UUID mismatch into `TEST Audio Link`! World is not same as seemingly identical `AudioLink Example`!!**
+- `b98f304c-e1e0-410d-a6c3-cfcb15c7c087` (**NOT PERKEDEL**) DomNomNomVR's AudioLink Samples. DomNomNomVR. **NOTE: This is the correct UUID**
 - `9cb2b515-eee3-4258-8c3d-108ccfc5d299` (**NOT PERKEDEL**) Madvicius' Old Anime world. Madvicius.
 
 ### Props
@@ -1341,7 +1342,7 @@ Put this image onto some quads. This image is my promotion for gamers to check o
 - https://www.patreon.com/posts/making-shaders-30956373?utm_medium=clipboard_copy&utm_source=copyLink&utm_campaign=postshare_fan&utm_content=join_link
 - https://github.com/KeppySoftware/OmniMIDI
 - https://www.patreon.com/mochieshaders There hasn't been alot. go back to that github.
-- 
+- https://feedback.abinteractive.net/p/specific-putting-fluxv2-in-projector-game-component-tends-to-crash-the-game
 
 ## sovania
 
