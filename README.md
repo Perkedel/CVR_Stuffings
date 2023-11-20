@@ -51,6 +51,8 @@ Below are assets that are not included and **must be installed prior of usage an
   - in category `TextMesh Pro`, click import `TMP Essentials`, then import `TMP Examples & Extras`.
 - ProBuilder. Space saving, **CORE MODULE**.
   - Install this in `Assets`, `View in Package Manager`.
+- PolyBrush. Space saving, **CORE MODULE**.
+  - Install this in `Assets`, `View in Package Manager`.
 - [Magica Cloth 1](https://assetstore.unity.com/packages/tools/physics/magica-cloth-160144) & [2 the sequel](https://assetstore.unity.com/packages/tools/physics/magica-cloth-2-242307). Paywalled
 - Glenskunk's [Cartoon Heart](https://glenskunk.gumroad.com/l/toonheartforVR?layout=profile) & [rest of them](https://glenskunk.gumroad.com/) ([alt](https://jinxxy.com/GlenSkunk?jc=c52ec67a13d09e3c89aaddcb76f108d62e2d254afe4fa1477865)). **Paywalled**
 - [Gan Servo's Heartbeat connector for VRChat](https://garnservo.gumroad.com/l/Heartbeat?layout=profile). **Paywalled**, **INCOMPATIBLE PLS PORT**. using [HR2VRC](https://hrtovrchat.fortnite.lol/setup) ([HR2VRC DISCONTINUED 2024-01-01](https://hrtovrchat.fortnite.lol/discontinuation))
@@ -208,10 +210,17 @@ Here are the UUIDs of all these assets we uploaded to CVR:
 > Please note, to avoid confusion it is advised to reupload the assets. Just let me do it. To break procrastinations, Simply pay full or part by part in crowd until full to which UUID, to [Joel's Ko-fi](https://ko-fi.com/joelwindows7)  
 > by putting donation pay & message like e.g.: $?? `UNPROCRASTINATE 92f6e5f4-e860-42fd-8154-81d69f605099`. Any added amount will slowly reduce procrastinations. If the payment pool reaches `FULL` for this UUID commission, the procrastination will be removed immediately. Extra accidental extras will not be refunded and will be considered donation tip, thank you so much.  
 > C'mon, I need money & my parents will retire soon. But I'm not an asshole, just.. I'll long it (and times later to be public), because you don't pay. I can't work without money, I'm bio being!
+>
+> PS: If you did not handover the GUID or selected wrong GUID (i.e. already published GUIDs), we will pick random GUID.
 
 ### Avatars
 
 - `92f6e5f4-e860-42fd-8154-81d69f605099` Howard the Alien
+- `11f91306-49c6-4d8b-b075-461e24d4f6ed` (**NOT PERKEDEL**) Abstract. JillTheSomething
+- `fdbc8414-06a8-482f-9062-ebf394c09d06` (**NOT PERKEDEL**) Chitio Avislime. JillTheSomething. **(DEV DEPENDENCY PAYWALLED!!!) CHITIO NOT INCLUDED IN THIS SOURCE CODE, PAYWALLED!**
+- `244d5daf-35bd-4752-b286-e9c0a6057548` (**NOT PERKEDEL**) MothBoi 2. JillTheSomething.
+- `71f810ba-2def-4d28-9ed0-833d6e427de3` (**NOT PERKEDEL**) Rosy Buggie. JillTheSomething.
+- `03191378-dd84-481b-84ad-2cedaaed7592` (**NOT PERKEDEL**) Waddle Abomination. JillTheSomething.
 
 ### Worlds
 
@@ -224,6 +233,9 @@ Here are the UUIDs of all these assets we uploaded to CVR:
 - `9a7d706f-a70e-4e7f-a301-406f25e509b3` (**NOT PERKEDEL**) DomNomNomVR's ~~AudioLink Samples~~ Wrong AL world. DomNomNomVR. **NOTE: UUID mismatch into `TEST Audio Link`! World is not same as seemingly identical `AudioLink Example`!!**
 - `b98f304c-e1e0-410d-a6c3-cfcb15c7c087` (**NOT PERKEDEL**) DomNomNomVR's AudioLink Samples. DomNomNomVR. **NOTE: This is the correct UUID**
 - `9cb2b515-eee3-4258-8c3d-108ccfc5d299` (**NOT PERKEDEL**) Madvicius' Old Anime world. Madvicius.
+- `2f14fd53-2850-43b9-91f0-132d3f2db2bc` (**NOT PERKEDEL**) Writhe. JillTheSomething.
+- `11a92064-d9d1-4f6b-91a0-845c78952659` (**NOT PERKEDEL**) Pool House. JillTheSomething.
+- `0b038da9-1a2a-4c25-88bb-b5047d682a8d` (**NOT PERKEDEL**) SpaceHey. Root, uploaded by JillTheSomething.
 
 ### Props
 
@@ -1343,6 +1355,12 @@ Put this image onto some quads. This image is my promotion for gamers to check o
 - https://github.com/KeppySoftware/OmniMIDI
 - https://www.patreon.com/mochieshaders There hasn't been alot. go back to that github.
 - https://feedback.abinteractive.net/p/specific-putting-fluxv2-in-projector-game-component-tends-to-crash-the-game
+- Make no mistake the paid libraries are not code. 3D Models. But you got the idea.
+- https://github.com/VRLabs/World-Constraint
+- https://assetstore.unity.com/packages/3d/primitives-3197
+- https://assetstore.unity.com/packages/3d/towers-and-cars-62749
+- https://docs.unity3d.com/510/Documentation/Manual/PrimitiveObjects.html
+- https://github.com/keijiro/Metamesh Hello, here's procedural mesh generator yey
 
 ## sovania
 

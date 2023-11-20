@@ -8,7 +8,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-// namespace Perkedel.CCK.Scripts{
+namespace Perkedel.CCK.Scripts{
     public class PerkedelBolaControl : MonoBehaviour
     {
         /*
@@ -48,4 +48,4 @@ using UnityEngine;
             controlling = into;
         }
     }
-// }
+}
