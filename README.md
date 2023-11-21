@@ -1367,6 +1367,11 @@ Put this image onto some quads. This image is my promotion for gamers to check o
 - https://github.com/TotallyWholesome/TotallyWholesomeMod
 - https://twitter.com/B33_Bratty/status/1616781294331105280?s=20
 - https://tailslol.gumroad.com/ uhhh some models gone here. where's the avali?
+- https://github.com/llealloo/vrc-udon-audio-link/tree/master/Docs
+- https://sketchfab.com/Teiozemo
+- https://sketchfab.com/3d-models/cotton-fox-billiards-vrchat-338cc8d2912d416ca364f102f2d7def8
+- https://skfb.ly/6DqZE
+- https://github.com/cnlohr/colorchord
 
 ## sovania
 
