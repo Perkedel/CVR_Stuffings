@@ -1364,6 +1364,8 @@ Put this image onto some quads. This image is my promotion for gamers to check o
 - https://docs.unity3d.com/Manual/upm-scoped.html
 - https://github.com/keijiro/Metatex
 - https://github.com/V-Sekai/v-sekai-game oh hey look, VR social for Godot. They've experimenting.
+- https://github.com/TotallyWholesome/TotallyWholesomeMod
+- https://twitter.com/B33_Bratty/status/1616781294331105280?s=20
 
 ## sovania
 
