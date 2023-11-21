@@ -1363,6 +1363,7 @@ Put this image onto some quads. This image is my promotion for gamers to check o
 - https://github.com/keijiro/Metamesh Hello, here's procedural mesh generator yey
 - https://docs.unity3d.com/Manual/upm-scoped.html
 - https://github.com/keijiro/Metatex
+- https://github.com/V-Sekai/v-sekai-game oh hey look, VR social for Godot. They've experimenting.
 
 ## sovania
 
