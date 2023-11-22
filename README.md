@@ -1372,6 +1372,11 @@ Put this image onto some quads. This image is my promotion for gamers to check o
 - https://sketchfab.com/3d-models/cotton-fox-billiards-vrchat-338cc8d2912d416ca364f102f2d7def8
 - https://skfb.ly/6DqZE
 - https://github.com/cnlohr/colorchord
+- https://fashionablebloodfall.gumroad.com
+- https://vrcmods.com/item/10151
+- https://assetstore.unity.com/publishers/6000 Lumo-art 3D cuy!
+- https://github.com/jll123567?tab=repositories
+- https://voxie3d.com
 
 ## sovania
 
