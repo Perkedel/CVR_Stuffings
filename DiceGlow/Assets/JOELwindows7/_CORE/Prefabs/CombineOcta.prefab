@@ -14,6 +14,7 @@ GameObject:
   - component: {fileID: 6116675617143071668}
   - component: {fileID: 4240713457180349813}
   - component: {fileID: 4087048297249999452}
+  - component: {fileID: 1016229180560784242}
   m_Layer: 0
   m_Name: ConeTop
   m_TagString: Untagged
@@ -379,6 +380,32 @@ MeshCollider:
   m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: 0}
+--- !u!114 &1016229180560784242
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2587364958470164656}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fdc0f8cf4e404413977612cac1108d7d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  textureType: 1
+  texture: {fileID: 0}
+  globalTextureName: _AudioTexture
+  tasks:
+  - x: 0
+    y: 0
+    channel: 0
+    minValue: 0
+    maxValue: 1
+    target: {fileID: 2587364958470164656}
+    component: {fileID: 4801890929786465308}
+    propertyName: position
+    typeIndex: 4
+    targetIndex: 1
 --- !u!1 &3193501790649309096
 GameObject:
   m_ObjectHideFlags: 0
@@ -393,6 +420,7 @@ GameObject:
   - component: {fileID: 8104846988466953903}
   - component: {fileID: 3083911691309657167}
   - component: {fileID: 2117686977606580810}
+  - component: {fileID: 3979976607980281430}
   m_Layer: 0
   m_Name: ConeBottom
   m_TagString: Untagged
@@ -407,14 +435,14 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 3193501790649309096}
-  m_LocalRotation: {x: -0, y: -0, z: -1, w: 0.000052779906}
-  m_LocalPosition: {x: 1.6309357, y: 1.0000848, z: 0}
+  m_LocalRotation: {x: 0, y: 0, z: 1, w: 0}
+  m_LocalPosition: {x: 1.631, y: 1, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 7893869884185533267}
   m_RootOrder: 1
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: -179.994}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 180}
 --- !u!114 &8921995918976500984
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -758,6 +786,32 @@ MeshCollider:
   m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: 0}
+--- !u!114 &3979976607980281430
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3193501790649309096}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fdc0f8cf4e404413977612cac1108d7d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  textureType: 1
+  texture: {fileID: 0}
+  globalTextureName: _AudioTexture
+  tasks:
+  - x: 0
+    y: 0
+    channel: 0
+    minValue: 0
+    maxValue: 1
+    target: {fileID: 3193501790649309096}
+    component: {fileID: 669980093521279262}
+    propertyName: position
+    typeIndex: 4
+    targetIndex: 1
 --- !u!1 &9105129413390379005
 GameObject:
   m_ObjectHideFlags: 0
