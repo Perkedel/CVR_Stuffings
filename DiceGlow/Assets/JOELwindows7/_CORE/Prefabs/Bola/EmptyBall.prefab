@@ -18,6 +18,7 @@ GameObject:
   - component: {fileID: 4963468759218669785}
   - component: {fileID: 4963468759218669788}
   - component: {fileID: 4963468759218669791}
+  - component: {fileID: 2254946570861088597}
   m_Layer: 0
   m_Name: EmptyBall
   m_TagString: Untagged
@@ -111,8 +112,8 @@ Rigidbody:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 4963468759218669777}
   serializedVersion: 2
-  m_Mass: 0.1
-  m_Drag: 0
+  m_Mass: 2
+  m_Drag: 0.1
   m_AngularDrag: 0.01
   m_UseGravity: 1
   m_IsKinematic: 0
@@ -177,7 +178,7 @@ MonoBehaviour:
     interactionFilter: 0
     interactionInput: 48
     interactionInputModifier: 0
-    guid: 388b54ea-eaf6-46e3-9240-6391fac5854c
+    guid: 91525797-9736-46af-83e9-e6b358e066ca
   - delay: 0
     operations:
     - type: 21
@@ -222,7 +223,7 @@ MonoBehaviour:
     interactionFilter: 0
     interactionInput: 48
     interactionInputModifier: 0
-    guid: 0c4f5f22-9172-4a54-9969-e15f1dfd3f4b
+    guid: d5516168-9b44-4661-bd56-7dc7053c4172
   onEnterSeat:
     m_PersistentCalls:
       m_Calls: []
@@ -242,7 +243,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   syncOwner: 
-  guid: a29275b7-8ec8-472d-85c8-9844a0fd2342
+  guid: 1a61dd81-20ce-4c0d-aedb-bc7f1840d719
 --- !u!114 &4963468759218669785
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -303,3 +304,33 @@ MonoBehaviour:
   type: 3
   objectId: cdc8b5b1-43af-40fd-b7a5-af48dc8d6dde
   randomNum: 59012142
+--- !u!114 &2254946570861088597
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4963468759218669777}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d9078deea7194f13a9264e906ab6e576, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  guiCenterOfMassFoldout: 1
+  changeCenterOfMass: 0
+  centerOfMass: {fileID: 0}
+  updateContinuously: 0
+  guiBuoyancyFoldout: 1
+  enableBuoyancy: 1
+  density: 0.0038197185
+  volume: 0.5235988
+  airDrag: 1
+  airAngularDrag: 0.05
+  fluidDrag: 3
+  fluidAngularDrag: 1
+  guiGravityFoldout: 0
+  enableLocalGravity: 0
+  forceAlignUpright: 0
+  guiMovementParentFoldout: 0
+  enableMovementParent: 0
+  ignoreForcesWhileParented: 0

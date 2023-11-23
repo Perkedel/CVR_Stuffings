@@ -77,7 +77,7 @@ Below are assets that are not included and **must be installed prior of usage an
 - [Keycard Access Badge Lock System](https://mommamollycvr.gumroad.com/l/gxruw). **Paywalled**. Instead, **the hopefully same which is [Evil-Betty's Booth](https://evilbetty.booth.pm/items/4059518) one** that's included. **Wait, that was Evil-Betty's invention??** NOTE: The package lacks prefab & only copied over as a Unity Scene. We have simply dragged this invention (both reader & card) out to the asset & now here the prefab. You're welcome. <!--**PLEASE DO NOT NFT-FIZE (Private the keycard under NFT check sharing)!!!**--> a
 - [Pin Keypad Lock System](https://mommamollycvr.gumroad.com/l/yfsta). **Paywalled**. Instead, **the hopefully same which is [Evil-Betty's Booth](https://evilbetty.booth.pm/items/4053039) one** that's included. **Wait, that was Evil-Betty's invention??**
 - [MochieShaders](https://www.patreon.com/mochieshaders). **Paywalled**. Instead, **the [Partialized free version](https://github.com/MochiesCode/Mochies-Unity-Shaders)** that's included. Looks like the [MIT is not an appropriate license after all](https://github.com/MochiesCode/Mochies-Unity-Shaders/blob/master/LICENSE)? neither GNU GPL forbids partialisms (assuming both all features in the $0 public source code, Just binary partialism)..
-- [RollTheRed FireShader PRO](https://www.patreon.com/posts/fire-shader-pro-81534967). **Paywalled**. ~~Instead, **the [Partialized free version](https://discord.gg/construct-1024)** that's included~~ Hello? what the peck did you say? NO, many gamers had no Nitro and hence may not be able to join. They had to, unjoin the others, disgusting by look. Zumi, negotiate this order!
+- [RollTheRed FireShader PRO](https://www.patreon.com/posts/fire-shader-pro-81534967). **Paywalled**. Instead, **the [Partialized free version](https://discord.gg/construct-1024)** that's included. ~~Hello? what the peck did you say? NO, many gamers had no Nitro and hence may not be able to join. They had to, unjoin the others, disgusting by look. Zumi, negotiate this order!~~ Discussed.
 - [Fantasy Skybox](https://assetstore.unity.com/packages/2d/textures-materials/sky/fantasy-skybox-18216). **Paywalled**. Instead, [this free version](https://assetstore.unity.com/packages/2d/textures-materials/sky/fantasy-skybox-free-18353) will be included, and **idk if this has reduced feature sets**, let me know. **Yes, it's has reduced number of features.**
 - [Hard Surface metal TIFF File from 3D Effect Pack Free](https://assetstore.unity.com/packages/p/3d-games-effects-pack-free-42285). **Exceeded over 100 MB**.
 - [RED_SIM Perfect Water Shader](https://www.patreon.com/posts/32255294/). **Paywalled**. Instead, [this partialized free version](https://www.patreon.com/posts/32252234) included.
@@ -1393,6 +1393,25 @@ Put this image onto some quads. This image is my promotion for gamers to check o
 - https://feedback.abinteractive.net/p/prefix-all-components-in-the-cck-with-cvr
 - https://feedback.abinteractive.net/p/advanced-avatar-trigger-breaks-world-triggers-playerlocal
 - https://docs.unity3d.com/2021.3/Documentation/Manual/ParallelImport.html
+- https://orangenova.booth.pm
+- https://assetstore.unity.com/packages/2d/gui/ultimate-clean-gui-pack-154574
+- https://assetstore.unity.com/packages/tools/gui/clean-settings-ui-65588 YO!!! THANCC KJOY FOR REFERENCE!!
+- https://assetstore.unity.com/packages/audio/sound-fx/minimal-ui-sounds-78266
+- https://steamcommunity.com/sharedfiles/filedetails/?id=2685053029
+- https://steamcommunity.com/sharedfiles/filedetails/?id=2716898492
+- https://assetstore.unity.com/packages/vfx/particles/action-rpg-fx-38222
+- https://assetstore.unity.com/packages/3d/characters/amane-kisora-chan-free-ver-70581
+- https://assetstore.unity.com/packages/vfx/shaders/fullscreen-camera-effects/amplify-color-1894
+- https://assetstore.unity.com/packages/3d/vehicles/land/arcade-free-racing-car-161085
+- https://assetstore.unity.com/packages/3d/characters/humanoids/humans/asobi-chan-free-116360
+- https://assetstore.unity.com/packages/tools/integration/asset-swap-tool-151202 gone
+- https://assetstore.unity.com/packages/tools/utilities/asset-usage-detector-112837
+- https://assetstore.unity.com/packages/3d/characters/humanoids/humans/asobi-chan-free-116360
+- https://assetstore.unity.com/packages/templates/automotive-hmi-template-201095
+- https://assetstore.unity.com/packages/3d/characters/toonmaid-coolgirl-28832 gone. **FUCK YOU MOTHERFUCKER WHY DELETE IT?!?!? FUCKING HELL PIECE OF SHIT!! WHY?!?!?** (Asset is $0, if I remember correctly)
+- https://assetstore.unity.com/packages/3d/characters/query-chan-model-20031
+- https://assetstore.unity.com/packages/3d/characters/query-chan-model-sd-35616
+- https://assetstore.unity.com/packages/3d/characters/query-chan-model-20031
 
 ## sovania
 
