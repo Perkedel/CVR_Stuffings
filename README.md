@@ -1430,6 +1430,8 @@ Put this image onto some quads. This image is my promotion for gamers to check o
 - https://assetstore.unity.com/packages/3d/props/logic-blox-models-130956
 - https://assetstore.unity.com/packages/3d/props/weapons/weapon-pack-ppsh-41-free-soviet-smg-131767
 - https://sketchfab.com/19vladis97/collections/weapon-pack-smgs
+- https://assetstore.unity.com/packages/3d/vehicles/land/stylized-vehicles-169168/
+- https://assetstore.unity.com/packages/tools/physics/realistic-car-controller-16296 stuccc!!!
 
 ## sovania
 
