@@ -1412,6 +1412,24 @@ Put this image onto some quads. This image is my promotion for gamers to check o
 - https://assetstore.unity.com/packages/3d/characters/query-chan-model-20031
 - https://assetstore.unity.com/packages/3d/characters/query-chan-model-sd-35616
 - https://assetstore.unity.com/packages/3d/characters/query-chan-model-20031
+- https://assetstore.unity.com/packages/tools/utilities/fbasic-assets-121782
+- https://assetstore.unity.com/packages/tools/audio/maestro-midi-player-tool-kit-pro-115331
+- https://assetstore.unity.com/packages/3d/props/high-poly-gas-cylinders-131593
+- https://assetstore.unity.com/packages/3d/props/exterior/us-road-signs-free-164941
+- https://assetstore.unity.com/packages/2d/gui/icons/multicolored-icons-set-128419
+- https://assetstore.unity.com/packages/tools/input-management/simple-input-system-113033
+- https://assetstore.unity.com/packages/3d/props/console-items-39225
+- https://assetstore.unity.com/packages/3d/props/technology-components-143637
+- https://assetstore.unity.com/packages/3d/props/nervous-system-140515
+- https://assetstore.unity.com/packages/3d/props/electronics/jukebox-tabletop-108269
+- https://assetstore.unity.com/packages/3d/human-kidneys-75923
+- https://assetstore.unity.com/packages/3d/environments/historic/logic-blox-mainframe-models-136006
+- https://assetstore.unity.com/packages/3d/props/exterior/us-road-signs-free-164941
+- https://assetstore.unity.com/packages/3d/props/weapons/weapon-pack-ppsh-41-free-soviet-smg-131767
+- https://assetstore.unity.com/packages/3d/environments/historic/logic-blox-mainframe-models-136006
+- https://assetstore.unity.com/packages/3d/props/logic-blox-models-130956
+- https://assetstore.unity.com/packages/3d/props/weapons/weapon-pack-ppsh-41-free-soviet-smg-131767
+- https://sketchfab.com/19vladis97/collections/weapon-pack-smgs
 
 ## sovania
 
