@@ -263,6 +263,18 @@ Here are the UUIDs of all these assets we uploaded to CVR:
 - `e2890d25-c725-495a-b5e0-98fb7526be8c` E Dice Scale 5
 - `dc2a31c2-d7b8-47e2-ae2c-b69c9d638c52` E Dice GIANT 1000
 - `c01e0e3d-b793-4259-ba8c-84b1a6038a6c` E Dice micro 1
+- `8212db17-de59-475a-a36c-f8fb84bcc26a` Awu Dice AudioLink
+- `ed2e7173-bdff-4200-be76-82543bf45b70` Awu Dice Scale 50 AudioLink
+- `e7318916-445e-4133-bf46-4e61bb4a75e8` Awu Dice Scale 25 AudioLink
+- `b3668105-08ef-41ad-8da4-2cfc1ebe3882` Awu Dice Scale 5 AudioLink
+- `0d68f8b4-0980-49e7-ab3e-f62e7469ee5a` Awu Dice GIANT 1000 AudioLink
+- `0351eead-50bf-4d8f-8916-d787a12f1e3a` Awu Dice micro 1 AudioLink
+- `64501bf1-7c8f-4213-bb62-376ebfdaa820` Eyea Dice AudioLink
+- `32f8f36e-050b-4dcb-83ef-b5b6093dce08` Eyea Dice Scale 50 AudioLink
+- `0d8b55e3-0117-498f-9774-ef600cb36876` Eyea Dice Scale 25 AudioLink
+- `f8ca6f5f-0de2-471a-8516-4058b12f906c` Eyea Dice Scale 5 AudioLink
+- `820a6d23-fc4d-462b-b7d6-e4d30f91a453` Eyea Dice GIANT 1000 AudioLink
+- `28c3750e-ea72-4634-a8b9-06c098c8d9c6` Eyea Dice micro1 1 AudioLink
 - `c7a0bd47-3ece-485f-a994-d3eddbc2b4c1` Anjay Button
 - `8f094998-b863-4bc6-b3c9-726eb82f1e24` Fart Reverb Button
 - `2b7ef53d-a4aa-457d-b613-6a542fb385d0` Fart Origin Button
@@ -1380,6 +1392,7 @@ Put this image onto some quads. This image is my promotion for gamers to check o
 - https://youtu.be/JVFg9g4f-ME?si=FzPSst3TCCRJrzZT
 - https://feedback.abinteractive.net/p/prefix-all-components-in-the-cck-with-cvr
 - https://feedback.abinteractive.net/p/advanced-avatar-trigger-breaks-world-triggers-playerlocal
+- https://docs.unity3d.com/2021.3/Documentation/Manual/ParallelImport.html
 
 ## sovania
 
