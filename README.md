@@ -1378,6 +1378,8 @@ Put this image onto some quads. This image is my promotion for gamers to check o
 - https://github.com/jll123567?tab=repositories
 - https://voxie3d.com
 - https://youtu.be/JVFg9g4f-ME?si=FzPSst3TCCRJrzZT
+- https://feedback.abinteractive.net/p/prefix-all-components-in-the-cck-with-cvr
+- https://feedback.abinteractive.net/p/advanced-avatar-trigger-breaks-world-triggers-playerlocal
 
 ## sovania
 
