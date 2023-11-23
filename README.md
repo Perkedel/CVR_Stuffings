@@ -1377,6 +1377,7 @@ Put this image onto some quads. This image is my promotion for gamers to check o
 - https://assetstore.unity.com/publishers/6000 Lumo-art 3D cuy!
 - https://github.com/jll123567?tab=repositories
 - https://voxie3d.com
+- https://youtu.be/JVFg9g4f-ME?si=FzPSst3TCCRJrzZT
 
 ## sovania
 
