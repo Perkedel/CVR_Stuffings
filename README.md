@@ -391,6 +391,9 @@ Known Whitelisted Unity Assets are:
 
 Custom own MonoBehaviour are not supported, since these needs the `dll` assembly to be installed onto CVR. A Lua Scripting support coming soon.
 
+[Click Here to see official list of whitelisted assets on **Worlds**](https://documentation.abinteractive.net/cck/world/whitelisted-components/)  
+[Click Here to see official list of whitelisted assets on **Avatars**](https://documentation.abinteractive.net/cck/avatar/whitelisted-components/)
+
 #### Whitelisted URL for Video Player
 
 Known Whitelisted domains in CVR for Video Player are:
@@ -1434,6 +1437,13 @@ Put this image onto some quads. This image is my promotion for gamers to check o
 - https://sketchfab.com/19vladis97/collections/weapon-pack-smgs
 - https://assetstore.unity.com/packages/3d/vehicles/land/stylized-vehicles-169168/
 - https://assetstore.unity.com/packages/tools/physics/realistic-car-controller-16296 stuccc!!!
+- https://assetstore.unity.com/packages/3d/props/floatingplantpots-141013
+- https://youtu.be/ly9mK0TGJJo?si=S0_A8lUr-sDeni25
+- https://assetstore.unity.com/packages/tools/gui/modern-procedural-ui-kit-163041
+- https://assetstore.unity.com/packages/tools/terrain/gaia-2021-terrain-scene-generator-193509
+- https://assetstore.unity.com/packages/tools/terrain/r-a-m-river-auto-material-101205
+- https://assetstore.unity.com/packages/vfx/shaders/fullscreen-camera-effects/beautify-3-advanced-post-processing-233073
+- https://assetstore.unity.com/packages/vfx/shaders/fullscreen-camera-effects/beautify-2-advanced-post-processing-163949 wait. which one replace with?
 
 ## sovania
 
