@@ -228,6 +228,7 @@ Here are the UUIDs of all these assets we uploaded to CVR:
 
 - `6b1b8855-9196-4e21-a418-f52a862651af` SFW DiceGlow Test Area
 - `604d2db5-93b4-4511-8b53-a66e16cc6325` NSFW CornSyrup Test Area
+- `6055a6c3-e589-45dc-a2c2-5de2d83ae449` Moving Spawns
 - `3fe2b7c3-129a-418e-87ad-c3931657f843` (**NOT PERKEDEL**) UCC Cinema. MilchZocker
 - `af0f00bc-0702-46ce-9441-bcce0ad6c813` (**NOT PERKEDEL**) UCC Avatars. MilchZocker
 - `9d0677a5-b88f-4994-901b-7b91c99e8cd8` (**NOT PERKEDEL**) UCC Bird Island. MilchZocker

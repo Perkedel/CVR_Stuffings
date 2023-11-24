@@ -18,9 +18,9 @@ GameObject:
   - component: {fileID: 4963468759218669785}
   - component: {fileID: 4963468759218669788}
   - component: {fileID: 4963468759218669791}
-  - component: {fileID: 8247027415323120225}
+  - component: {fileID: 2254946570861088597}
   m_Layer: 0
-  m_Name: EmptyBallForbiddenToWork
+  m_Name: EmptyBallNoAudioLinkAlt
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -34,7 +34,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 4963468759218669777}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 3.5}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -69,7 +69,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: b4a85a91fdeee034c8084f9a8846244e, type: 2}
+  - {fileID: 2100000, guid: 5720f4bd9b88ac34a9b1174067c59826, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -112,8 +112,8 @@ Rigidbody:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 4963468759218669777}
   serializedVersion: 2
-  m_Mass: 0.1
-  m_Drag: 0
+  m_Mass: 2
+  m_Drag: 0.1
   m_AngularDrag: 0.01
   m_UseGravity: 1
   m_IsKinematic: 0
@@ -156,19 +156,7 @@ MonoBehaviour:
       animationVal: {fileID: 0}
       customEvent:
         m_PersistentCalls:
-          m_Calls:
-          - m_Target: {fileID: 8247027415323120225}
-            m_TargetAssemblyTypeName: UnityEngine.AudioSource, UnityEngine
-            m_MethodName: PlayOneShot
-            m_Mode: 2
-            m_Arguments:
-              m_ObjectArgument: {fileID: 8300000, guid: d2ebb7ef6cfe106429aa27316d270d0b, type: 3}
-              m_ObjectArgumentAssemblyTypeName: UnityEngine.AudioClip, UnityEngine
-              m_IntArgument: 0
-              m_FloatArgument: 0
-              m_StringArgument: 
-              m_BoolArgument: 0
-            m_CallState: 2
+          m_Calls: []
     actionType: 7
     execType: 2
     layerMask:
@@ -190,7 +178,7 @@ MonoBehaviour:
     interactionFilter: 0
     interactionInput: 48
     interactionInputModifier: 0
-    guid: 
+    guid: e72ff2d0-4c1d-4b07-89f9-4fc20dc93c0b
   - delay: 0
     operations:
     - type: 21
@@ -235,7 +223,7 @@ MonoBehaviour:
     interactionFilter: 0
     interactionInput: 48
     interactionInputModifier: 0
-    guid: 
+    guid: ef966952-72ad-4363-b775-aec1a6bb6edd
   onEnterSeat:
     m_PersistentCalls:
       m_Calls: []
@@ -255,7 +243,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   syncOwner: 
-  guid: 
+  guid: 2a7c91de-1729-404c-a8f9-35e38a16c4c3
 --- !u!114 &4963468759218669785
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -289,18 +277,18 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   spawnHeight: 0.56
-  useAdditionalValues: 0
+  useAdditionalValues: 1
   syncValues:
-  - name: 
+  - name: Push
     startValue: 0
-    updatedBy: 0
+    updatedBy: 25
     updateMethod: 1
     animator: {fileID: 0}
     animatorParameterName: 
   propPrivacy: 1
   subSyncs: []
-  spawnableType: 0
-  preGeneratedInstanceId: 
+  spawnableType: 1
+  preGeneratedInstanceId: ws~6e0d20a3-a42a-4f06-bc58-8a31c3c132bd
 --- !u!114 &4963468759218669791
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -314,101 +302,35 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   type: 3
-  objectId: cdc8b5b1-43af-40fd-b7a5-af48dc8d6dde
+  objectId: 
   randomNum: 59012142
---- !u!82 &8247027415323120225
-AudioSource:
+--- !u!114 &2254946570861088597
+MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 4963468759218669777}
   m_Enabled: 1
-  serializedVersion: 4
-  OutputAudioMixerGroup: {fileID: 0}
-  m_audioClip: {fileID: 0}
-  m_PlayOnAwake: 1
-  m_Volume: 1
-  m_Pitch: 1
-  Loop: 0
-  Mute: 0
-  Spatialize: 0
-  SpatializePostEffects: 0
-  Priority: 128
-  DopplerLevel: 1
-  MinDistance: 1
-  MaxDistance: 500
-  Pan2D: 0
-  rolloffMode: 1
-  BypassEffects: 0
-  BypassListenerEffects: 0
-  BypassReverbZones: 0
-  rolloffCustomCurve:
-    serializedVersion: 2
-    m_Curve:
-    - serializedVersion: 3
-      time: 0
-      value: 1
-      inSlope: 0
-      outSlope: 0
-      tangentMode: 0
-      weightedMode: 0
-      inWeight: 0.33333334
-      outWeight: 0.33333334
-    - serializedVersion: 3
-      time: 1
-      value: 0
-      inSlope: 0
-      outSlope: 0
-      tangentMode: 0
-      weightedMode: 0
-      inWeight: 0.33333334
-      outWeight: 0.33333334
-    m_PreInfinity: 2
-    m_PostInfinity: 2
-    m_RotationOrder: 4
-  panLevelCustomCurve:
-    serializedVersion: 2
-    m_Curve:
-    - serializedVersion: 3
-      time: 0
-      value: 0
-      inSlope: 0
-      outSlope: 0
-      tangentMode: 0
-      weightedMode: 0
-      inWeight: 0.33333334
-      outWeight: 0.33333334
-    m_PreInfinity: 2
-    m_PostInfinity: 2
-    m_RotationOrder: 4
-  spreadCustomCurve:
-    serializedVersion: 2
-    m_Curve:
-    - serializedVersion: 3
-      time: 0
-      value: 0
-      inSlope: 0
-      outSlope: 0
-      tangentMode: 0
-      weightedMode: 0
-      inWeight: 0.33333334
-      outWeight: 0.33333334
-    m_PreInfinity: 2
-    m_PostInfinity: 2
-    m_RotationOrder: 4
-  reverbZoneMixCustomCurve:
-    serializedVersion: 2
-    m_Curve:
-    - serializedVersion: 3
-      time: 0
-      value: 1
-      inSlope: 0
-      outSlope: 0
-      tangentMode: 0
-      weightedMode: 0
-      inWeight: 0.33333334
-      outWeight: 0.33333334
-    m_PreInfinity: 2
-    m_PostInfinity: 2
-    m_RotationOrder: 4
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d9078deea7194f13a9264e906ab6e576, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  guiCenterOfMassFoldout: 1
+  changeCenterOfMass: 0
+  centerOfMass: {fileID: 0}
+  updateContinuously: 0
+  guiBuoyancyFoldout: 1
+  enableBuoyancy: 1
+  density: 0.0038197185
+  volume: 0.5235988
+  airDrag: 1
+  airAngularDrag: 0.05
+  fluidDrag: 3
+  fluidAngularDrag: 1
+  guiGravityFoldout: 0
+  enableLocalGravity: 0
+  forceAlignUpright: 0
+  guiMovementParentFoldout: 0
+  enableMovementParent: 0
+  ignoreForcesWhileParented: 0
