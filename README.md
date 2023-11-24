@@ -22,6 +22,8 @@ In event of any presence of sponsorship in any form, no works & creations includ
 
 [Click here to learn more about Terms of Service of Alpha Blend Interactive](https://documentation.abinteractive.net/official/legal/tos/)
 
+> Profanity is allowed in this premise. Ensure to use this permission **only** to strengthen your quotes, and **avoid unecessary & irrelevant derogatory attacks** against another parties.
+
 ## Instructions
 
 ### Installation Setup
