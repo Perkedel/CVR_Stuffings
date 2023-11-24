@@ -22,7 +22,7 @@ In event of any presence of sponsorship in any form, no works & creations includ
 
 [Click here to learn more about Terms of Service of Alpha Blend Interactive](https://documentation.abinteractive.net/official/legal/tos/)
 
-> Profanity is allowed in this premise. Ensure to use this permission **only** to strengthen your quotes, and **avoid unecessary & irrelevant derogatory attacks** against another parties.
+> Profanity is allowed in this premise. Ensure to use this permission **only** to strengthen your quotes, and **avoid unecessary & irrelevant overboard derogatory attacks** against another parties.
 
 ## Instructions
 
@@ -398,7 +398,7 @@ Known Whitelisted domains in CVR for Video Player are:
 - [VRCDN](https://vrcdn.live)
 - [YouTube.com](https://youtube.com)
 - [Soundcloud.com](https://soundcloud.com)
-- [DailyMotion.com](https://dailymotion.com). Oh this a888888, banned my account because `advertise market link` and refuse to unban.
+- [DailyMotion.com](https://dailymotion.com). Oh this asshole, banned my account because `advertise market link` and refuse to unban.
 - [Google.com](https://google.com)
 - [Google Video (Drive, Photos, etc.)](https://googlevideo.com)
 - [Streamable](https://streamable.com)
@@ -1048,7 +1048,7 @@ Put this image onto some quads. This image is my promotion for gamers to check o
 - https://booth.pm/en/items/2700784
 - https://youtu.be/GSo_fU1JdfM?si=Slz1iVr1GYS1hXt3
 - https://youtu.be/n-o2e4KxbW4?si=WtpP3-bHTHUESxSP
-- https://assetstore.unity.com/packages/tools/modeling/splinemesh-104989 f888 it's only since 2022, use this instead
+- https://assetstore.unity.com/packages/tools/modeling/splinemesh-104989 fuck it's only since 2022, use this instead
 - https://assetstore.unity.com/packages/tools/utilities/dreamteck-splines-61926 Don't get excited tho. Are any of these whitelisted?
 - https://twitter.com/triwavebz/status/1514302395836100609?s=20 Protogen free 3d model
 - https://drive.google.com/drive/folders/1JPh85gOn74EI8hujZB8KZcrOkNDQmolt download protogen free
