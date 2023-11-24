@@ -1445,6 +1445,8 @@ Put this image onto some quads. This image is my promotion for gamers to check o
 - https://assetstore.unity.com/packages/tools/terrain/r-a-m-river-auto-material-101205
 - https://assetstore.unity.com/packages/vfx/shaders/fullscreen-camera-effects/beautify-3-advanced-post-processing-233073
 - https://assetstore.unity.com/packages/vfx/shaders/fullscreen-camera-effects/beautify-2-advanced-post-processing-163949 wait. which one replace with?
+- https://cleanerwolf.gumroad.com/l/cleanerwolfavatar
+- https://cleanerwolf.gumroad.com/
 
 ## sovania
 
