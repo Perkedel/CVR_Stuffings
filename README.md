@@ -1447,6 +1447,59 @@ Put this image onto some quads. This image is my promotion for gamers to check o
 - https://assetstore.unity.com/packages/vfx/shaders/fullscreen-camera-effects/beautify-2-advanced-post-processing-163949 wait. which one replace with?
 - https://cleanerwolf.gumroad.com/l/cleanerwolfavatar
 - https://cleanerwolf.gumroad.com/
+- https://patreon.com/foxkintechnologies
+- https://discord.gg/wVGDb8Jr46 Succubuny pls
+- https://booth.pm/en/items/3995617 I have seen free models has second paid tier just to donate same file. You? you requires it, did the the same same file. ugh, next!
+- https://github.com/z3y/shaders
+- https://booth.pm/en/items/4278221 Seriously?! only this one $0?!
+- https://booth.pm/en/items/4805378 ayyy
+- https://junotanuki.booth.pm/
+- https://pammematth.booth.pm/items/3557346 **YOU!!!** YOU AGAIN!!!
+- https://booth.pm/en/items/3637883 This the one? welp, some worlds had it. dang! I wish I can steal more money from parents' retirement zones. You know, it's unethical.
+- https://booth.pm/en/items/4453164 You gotta stop this bullshit, gamers. Coz I've already spent entire parents' money on Steam & itch games I never gonna play. To this day, I could be keep doing so with parents' retirement zones. Stop this me being unethical by
+- https://booth.pm/en/items/2024216 Okay sparsdat is way too far. https://drive.google.com/file/d/1hkyMpIOBaOL4S2TqNBk7kdz5JeNSESmf/view read license of that abo
+- https://booth.pm/en/items/4653553 You know, my Surreal Blender Meme main realm NPCs are all primitives, because to send a message that so many amazing models are paid, so too much, I can't do it no more. Screw this, use the placeholders, fuck you all gamers. You know what, decorate these placeholders to be as handsome & beatiful it can be. Forgot what franchise was it, but I remember, first time in college I did Geogon Polymetry.
+- https://booth.pm/en/items/2892007 Mask only
+- https://skfb.ly/oFBZP **WHERE'S THE BOOTH?!**
+- https://sketchfab.com/___so___u___
+- https://sou-works.booth.pm/ **WHAT?!**
+- https://sou-works.booth.pm/items/4646236 **YOU MOTHER-**
+- https://www.reddit.com/r/VRchat/comments/shk2km/i_dj_in_vrchat_and_just_started_making_content/
+- https://skfb.ly/oNKCX MaxTht Pioneer DJ. Iyey!!!
+- https://skfb.ly/o7rVZ **WAAAAAAAAAAAAAAW**
+- https://hub.vroid.com/en/characters/6927728671257225235/models/2271715335038118927
+- https://hub.vroid.com/en/characters/8637121705183951802/models/380482134555023892
+- https://booth.pm/ja/items/3892201
+- https://booth.pm/ja/items/2844217
+- https://booth.pm/ja/items/4511536
+- https://booth.pm/ja/items/3755026
+- https://booth.pm/ja/items/1629490 argh
+- https://booth.pm/ja/items/3135842
+- https://booth.pm/ja/items/1226205 wait.. *usage for R18 prohibited*?! **YOU-**
+- https://skfb.ly/ovLsr Google, can you see downloadability correctly pls?! Destroy the SEO for those who are not! I don't need to ask!!
+- https://skfb.ly/m5kig0ba
+- https://free3d.com/nl/3d-model/dj-booth-7531.html Ugh, I cannot trust you anymore. your website while had it, slips lots of paid models in between. You could've used the algorithm for the better instead.
+- https://aminoapps.com/c/fnaf/page/blog/deg-fluffy-spider-boy-dj-mm-deg/5rrj_4GUVua65RYkGb7ppGR7eEZbRRnZG0
+- https://www.deviantart.com/dizzysweaterkitty/art/MMD-DJ-Sona-DJ-Table-DOWNLOAD-521122111 **ARGH YOU MO-**
+- https://learn.microsoft.com/en-us/windows/win32/direct3dhlsl/dx-graphics-hlsl-variable-syntax
+- https://skfb.ly/oMGQQ ZIRODESIGN's Technical Difficulties TV pls!!!!!
+- https://skfb.ly/6YGNK Oh hey look, I found it. thancc gamers!
+- https://sketchfab.com/gamayunovantonsakh that's all.
+- https://skfb.ly/oLNwQ Can you pls download entire Turbo Topology files pls? We got treasures. I know, not NSFW at all, but it's there.
+- https://skfb.ly/oLBwP
+- https://skfb.ly/oLKnE HAAAAAAAH?! NEWS STUDIO?!?!? NO PECKING WAY!!!
+- https://assetstore.unity.com/packages/tools/easy-qr-code-generator-encoder-37821 WHY? HAS TO BE THIS. Godot's sort of be better, coz that's the only one place. For now. Will we ignore Asset Store one day? absolutely, you need to have the free version and we'll never stop call the paywallism out.
+- https://assetstore.unity.com/packages/tools/integration/azure-kinect-for-unity3d-camera-api-body-tracking-api-157915
+- https://github.com/nenuadrian/qr-code-unity-3d-read-generate Why only give the dll?? no raw CS code? **LIKELY NO LONGER WORK, OLD VERSION**
+- https://feedback.abinteractive.net/p/vivox-disconnects-randomly
+- https://feedback.abinteractive.net/p/grab-and-mouth-pointer-and-spawnables
+- https://feedback.abinteractive.net/p/auto-select-newly-created-instances
+- https://feedback.abinteractive.net/p/auto-rejoin
+- https://feedback.abinteractive.net/p/prop-limits
+- https://feedback.abinteractive.net/p/mature-dlc-only-instances-worlds
+- https://feedback.abinteractive.net/p/18-public-instances
+- https://feedback.abinteractive.net/p/more-tag-ideas-whitelists-blacklists-editability-and-more
+- https://feedback.abinteractive.net/p/world-scripting
 
 ## sovania
 
