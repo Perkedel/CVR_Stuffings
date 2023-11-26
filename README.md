@@ -1526,6 +1526,10 @@ Put this image onto some quads. This image is my promotion for gamers to check o
 - https://irongut.gumroad.com/ Oh yeah forgor these jackpots! get those too!
 - https://gumroad.com/alber wait, where is ColdHeartedYeen?
 - https://tailslol.gumroad.com
+- https://github.com/FrostBanditTeam/extract-unity-package-action Okay. First we have this pre-packed exporter.
+- https://github.com/marketplace/actions/export-unitypackage-from-unity-project
+- https://github.com/FrostBanditTeam/extract-unity-package-action it uses this.
+- https://github.com/Lachee/Unity-Package-Exporter I said, **this**.
 
 ## sovania
 

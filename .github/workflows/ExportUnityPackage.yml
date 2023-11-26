@@ -1,0 +1,31 @@
+name: Export to .unitypackage
+
+# JOELwindows7: have write permission pls
+permissions:
+    contents: write
+
+# use https://github.com/FrostBanditTeam/extract-unity-package-action
+on: [push, pull_request]
+
+jobs:
+  extract_unity_package:
+    runs-on: ubuntu-latest
+    name: extract_unity_package
+    steps:
+    - name: Checkout
+      uses: actions/checkout@v2
+    - name: Extract unity package
+      id: extract_unity_package
+      uses: FrostBanditTeam/extract-unity-package-action@1
+      with:
+        #Specify the unity project path, relative to the repo root.
+        unityProjectPath: './DiceGlow'
+        #Optional: Set the directory to package, relative to the project.
+        packagePath: 'Assets/JOELwindows7'
+        #Optional: Set the output path for the package.
+        outputPackagePath: './artifacts/WholeJOELwindows7CVRSets.unitypackage'
+    - name: Upload artifact
+      uses: actions/upload-artifact@v2
+      with:
+        name: Output package
+        path: ${{ steps.extract_unity_package.outputs.artifactsPath }}
