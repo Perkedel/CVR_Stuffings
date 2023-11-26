@@ -302,7 +302,7 @@ Here are the UUIDs of all these assets we uploaded to CVR:
 - `d3317583-fc62-4422-861c-c94b24cbeee0` (**NOT PERKEDEL**) Dippy Sauce Squirt Bottle 😏
 - `b1ee7ffe-8686-4cbb-b438-5db7f13c539c` (**NOT PERKEDEL**) UCC Mirror. MilchZocker
 - `25f0fbe4-7a23-40f3-815d-a6dd33786a3d` (**NOT PERKEDEL**) UCC Pen. MilchZocker
-- `fba60ac2-b053-401b-9d5d-02986c21af24` (**NOT PERKEDEL**) Kin's Badge. Vespei Kin
+- ~~`fba60ac2-b053-401b-9d5d-02986c21af24` (**NOT PERKEDEL**) Kin's Badge. Vespei Kin~~ **GONE / MISMATCH 404**
 - `fc89a8ba-e426-41e8-81fa-268e79b80175` (**NOT PERKEDEL**) Dippy Press Button. Dippy
 - `9e13b14c-d70b-4266-ae7b-aa687b75faae` (**NOT PERKEDEL**) NUT BUTTON. Dippy
 - `d3317583-fc62-4422-861c-c94b24cbeee0` (**NOT PERKEDEL**) Dippy Sauce. Dippy
@@ -1500,6 +1500,14 @@ Put this image onto some quads. This image is my promotion for gamers to check o
 - https://feedback.abinteractive.net/p/18-public-instances
 - https://feedback.abinteractive.net/p/more-tag-ideas-whitelists-blacklists-editability-and-more
 - https://feedback.abinteractive.net/p/world-scripting
+- https://github.com/marketplace/actions/unity-builder
+- https://github.com/marketplace/actions/create-unitypackage
+- https://github.com/marketplace/actions/unity-test-runner
+- https://github.com/marketplace/actions/export-unitypackage-from-unity-project
+- https://github.com/game-ci/unity-actions
+- https://github.com/Lachee/Unity-Package-Exporter
+- https://github.com/Lachee/Unity-Package-Exporter
+- https://github.com/marketplace/actions/create-unitypackage
 
 ## sovania
 
