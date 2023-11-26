@@ -227,6 +227,7 @@ Here are the UUIDs of all these assets we uploaded to CVR:
 ### Worlds
 
 - `6b1b8855-9196-4e21-a418-f52a862651af` SFW DiceGlow Test Area
+- `576dd214-4d23-4441-86f1-d0f56f3095da` SFW DiceGlow Test Area Pt. 2
 - `604d2db5-93b4-4511-8b53-a66e16cc6325` NSFW CornSyrup Test Area
 - `6055a6c3-e589-45dc-a2c2-5de2d83ae449` Moving Spawns
 - `3fe2b7c3-129a-418e-87ad-c3931657f843` (**NOT PERKEDEL**) UCC Cinema. MilchZocker
@@ -1508,6 +1509,23 @@ Put this image onto some quads. This image is my promotion for gamers to check o
 - https://github.com/Lachee/Unity-Package-Exporter
 - https://github.com/Lachee/Unity-Package-Exporter
 - https://github.com/marketplace/actions/create-unitypackage
+- https://shadethebat.gumroad.com/l/awtter
+- https://shadethebat.gumroad.com/
+- https://shadethebat.gumroad.com/l/awtteruwu ... Uhh I mean, what? uh.. you must buy to have NSFW? SO NSFW is Pay to win??
+- Official DLC.
+- .. 😠 ..
+- Fuxk this. next!
+- Hey listen. If you paywall NSFW.. damn. that was derogatory. I just wanna say.. We & ABI are better. Yes, DLC NSFW, but $0.
+- Why you ask alot for more you EA!!
+- https://discord.gg/Zz4shhwFtm Oceano discord
+- Dude. If you close the world behind pin despite public, that's not that different anyways. Just saying. Nobody can then have their own, and nobody will hold event all the time either!
+- https://malganis-lefay.booth.pm/ pls download do not forget
+- https://coldghost.gumroad.com/ nothing to see here! ...
+- https://rezilloryker.gumroad.com/
+- https://kaitosai.booth.pm/ don't forget these too!
+- https://irongut.gumroad.com/ Oh yeah forgor these jackpots! get those too!
+- https://gumroad.com/alber wait, where is ColdHeartedYeen?
+- https://tailslol.gumroad.com
 
 ## sovania
 
