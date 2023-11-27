@@ -307,6 +307,7 @@ Here are the UUIDs of all these assets we uploaded to CVR:
 - `fc89a8ba-e426-41e8-81fa-268e79b80175` (**NOT PERKEDEL**) Dippy Press Button. Dippy
 - `9e13b14c-d70b-4266-ae7b-aa687b75faae` (**NOT PERKEDEL**) NUT BUTTON. Dippy
 - `d3317583-fc62-4422-861c-c94b24cbeee0` (**NOT PERKEDEL**) Dippy Sauce. Dippy
+- `d1dac649-e96a-4f91-92f2-40a2214a33d4` (**NOT PERKEDEL**) MollyTribute Interaction Layer. DomNomNomVR
 
 ### Assorted
 
@@ -1567,6 +1568,9 @@ Put this image onto some quads. This image is my promotion for gamers to check o
 - https://youtu.be/tzNAyWCNdJA?si=70sSuP-5K5n2Pu3L Unity Camera render to texture pls!!!!
 - https://youtu.be/x9BwUJbXnDY?si=R35Yfz1bBgMkYHWw
 - https://youtu.be/lN9mHYJtc5M?si=Tn0OCWSj4CT8U9Yt
+- https://sketchfoxsky.gumroad.com/l/SketchyBarPack aw, shuck!!
+- https://sketchfoxsky.gumroad.com/ wait, we've been there before!
+- https://www.solarsystemscope.com/
 
 ## sovania
 

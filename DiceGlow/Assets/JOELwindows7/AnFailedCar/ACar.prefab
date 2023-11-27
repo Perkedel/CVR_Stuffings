@@ -657,7 +657,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   target: {fileID: 9170206601714233145}
   forceVector: {x: 0, y: 0, z: -1}
-  strength: 1000
+  strength: 1500
   onlyWhenSubmerged: 0
 --- !u!1 &2471741505972075871
 GameObject:
@@ -802,7 +802,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   target: {fileID: 9170206601714233145}
   forceVector: {x: 0, y: 0, z: 1}
-  strength: 1000
+  strength: 1500
   onlyWhenSubmerged: 0
 --- !u!1 &3430922901148317452
 GameObject:
@@ -1568,7 +1568,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &1670009341489887488
 Transform:
   m_ObjectHideFlags: 0
@@ -1624,6 +1624,8 @@ GameObject:
   - component: {fileID: 4312580914440815479}
   - component: {fileID: 3848977184753811856}
   - component: {fileID: 2072007176136197612}
+  - component: {fileID: 7349327675560889126}
+  - component: {fileID: 3172085980751224968}
   m_Layer: 0
   m_Name: ACar
   m_TagString: Untagged
@@ -1720,6 +1722,33 @@ MonoBehaviour:
   autoHold: 0
   updateWithPhysics: 1
   ikReference: {fileID: 0}
+--- !u!65 &7349327675560889126
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5008119870204874335}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 1
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 2.11, y: 0.34, z: 3.19}
+  m_Center: {x: 0, y: 0, z: 0}
+--- !u!114 &3172085980751224968
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5008119870204874335}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4d5101e7f108ab74bb2f98b5203dfce3, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  orientationMode: 1
+  velocityInheritance: 1
 --- !u!1 &5039484218516278572
 GameObject:
   m_ObjectHideFlags: 0
