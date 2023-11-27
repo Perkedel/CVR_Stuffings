@@ -15,8 +15,8 @@ jobs:
       - uses: actions/checkout@v2
       - name: Include which files you wanted to the list file
         run: |
-          echo "DiceGlow/Assets/JOELwindows7.meta" > metaList
-          find DiceGlow/Assets/JOELwindows7/ -name \*.meta >> metaList
+          echo "Assets/JOELwindows7.meta" > metaList
+          find Assets/JOELwindows7/ -name \*.meta >> metaList
   
       - name: create output directory here
         run: mkdir a
