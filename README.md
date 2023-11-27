@@ -1571,6 +1571,20 @@ Put this image onto some quads. This image is my promotion for gamers to check o
 - https://sketchfoxsky.gumroad.com/l/SketchyBarPack aw, shuck!!
 - https://sketchfoxsky.gumroad.com/ wait, we've been there before!
 - https://www.solarsystemscope.com/
+- https://github.com/TatumKirchner/Unity-Car-Controller
+- https://www.reddit.com/r/Unity3D/comments/p4u3l7/for_people_who_want_a_car_controller_script/
+- https://github.com/Coder-Boiiiiiii/Unity-Car-Controller/
+- https://assetstore.unity.com/packages/templates/packs/car-controller-202269 idk if this work, coz I don't think ABI trusted this one!
+- https://thorium.rocks/
+- https://thorium.rocks/dev
+- https://github.com/armooey/Car-Controller
+- https://assetstore.unity.com/packages/2d/textures-materials/abstract/10-1-standard-materials-12349
+- https://assetstore.unity.com/packages/2d/gui/icons/controller-icon-pack-128505 idk man, let's have these anyways. they're free, so, whatever, get 'em here.
+- https://assetstore.unity.com/packages/tools/gui/lean-gui-72138
+- https://assetstore.unity.com/packages/tools/gui/lean-gui-shapes-69366 sike there's ware
+- https://assetstore.unity.com/packages/tools/gui/runtime-file-browser-113006
+- https://github.com/yasirkula/UnitySimpleFileBrowser
+- https://assetstore.unity.com/publishers/22792 he got all stuffs for $0... I hope all and on.
 
 ## sovania
 
