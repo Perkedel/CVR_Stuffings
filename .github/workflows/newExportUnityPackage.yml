@@ -10,34 +10,41 @@ on: [push, pull_request]
 # https://github.com/marketplace/actions/create-unitypackage
 jobs:
     echo:
-      runs-on: ubuntu-latest
-      steps:
-      - uses: actions/checkout@v2
-      - name: Include which files you wanted to the list file
-        run: |
-          cd DiceGlow
-          pwd
-          ls
-          echo "Assets/JOELwindows7.meta" > ../metaList
-          find Assets/JOELwindows7/ -name \*.meta >> ../metaList
-  
-      - name: create output directory here
-        run: mkdir a
+        runs-on: ubuntu-latest
+        steps:
+            - uses: actions/checkout@v2
+            - name: Include which files you wanted to the list file
+              run: |
+                cd DiceGlow
+                pwd
+                ls
+                echo "Assets/JOELwindows7.meta" > ../metaList
+                find Assets/JOELwindows7/ -name \*.meta >> ../metaList
 
-      - name: Wait, check everything first.
-        run: |
-            pwd
-            ls
-            echo 'Okay good right?'
-  
-      - name: It's morbin time!
-        uses: pCYSl5EDgo/create-unitypackage@master
-        with:
-          package-path: 'a/WholeJOELwindows7CVRSets.unitypackage'
-          include-files: metaList
-          project-folder: 'DiceGlow'
-      - name: Here's your morbin sir!
-        uses: actions/upload-artifact@master
-        with:
-          path: a
-          name: package
+            - name: create output directory here
+              run: mkdir a
+
+            - name: Wait, check everything first.
+              run: |
+                pwd
+                ls
+                echo 'Okay good right?'
+
+            - name: Again, inside DiceGlow.
+              run: |
+                cd DiceGlow
+                pwd
+                ls
+                echo 'Okay good right?'
+
+            - name: It's morbin time!
+              uses: pCYSl5EDgo/create-unitypackage@master
+              with:
+                package-path: 'a/WholeJOELwindows7CVRSets.unitypackage'
+                include-files: metaList
+                project-folder: 'DiceGlow'
+            - name: Here's your morbin sir!
+              uses: actions/upload-artifact@master
+              with:
+                path: a
+                name: package
