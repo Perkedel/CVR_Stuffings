@@ -1559,6 +1559,11 @@ Put this image onto some quads. This image is my promotion for gamers to check o
 - https://gh0stt.gumroad.com/
 - https://assetstore.unity.com/packages/2d/textures-materials/gridbox-prototype-materials-129127
 - https://www.procamera2d.com/
+- regular 4K non-DCI = `3840` x `2160`
+- https://github.com/marketplace/actions/create-unitypackage works
+- https://github.com/Kyobinoyo/Pencil-Prop
+- https://github.com/OpenShock/Wiki
+- https://github.com/Kyobinoyo/CVRExamples/
 
 ## sovania
 
