@@ -1564,6 +1564,9 @@ Put this image onto some quads. This image is my promotion for gamers to check o
 - https://github.com/Kyobinoyo/Pencil-Prop
 - https://github.com/OpenShock/Wiki
 - https://github.com/Kyobinoyo/CVRExamples/
+- https://youtu.be/tzNAyWCNdJA?si=70sSuP-5K5n2Pu3L Unity Camera render to texture pls!!!!
+- https://youtu.be/x9BwUJbXnDY?si=R35Yfz1bBgMkYHWw
+- https://youtu.be/lN9mHYJtc5M?si=Tn0OCWSj4CT8U9Yt
 
 ## sovania
 
