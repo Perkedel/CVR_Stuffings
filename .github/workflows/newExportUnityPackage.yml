@@ -15,8 +15,11 @@ jobs:
       - uses: actions/checkout@v2
       - name: Include which files you wanted to the list file
         run: |
-          echo "DiceGlow/Assets/JOELwindows7.meta" > metaList
-          find DiceGlow/Assets/JOELwindows7/ -name \*.meta >> metaList
+          cd DiceGlow
+          pwd
+          ls
+          echo "Assets/JOELwindows7.meta" > metaList
+          find Assets/JOELwindows7/ -name \*.meta >> metaList
   
       - name: create output directory here
         run: mkdir a
@@ -32,7 +35,7 @@ jobs:
         with:
           package-path: 'a/WholeJOELwindows7CVRSets.unitypackage'
           include-files: metaList
-        #   project-folder: 'DiceGlow'
+          project-folder: 'DiceGlow'
       - name: Here's your morbin sir!
         uses: actions/upload-artifact@master
         with:
