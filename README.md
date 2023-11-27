@@ -1537,6 +1537,27 @@ Put this image onto some quads. This image is my promotion for gamers to check o
 - https://github.com/marketplace/actions/create-unitypackage or go somewhere else?
 - https://github.com/marketplace/actions/setup-unity-editor-for-use-with-actions
 - ugh! this is useless, VRLabs also had same **unable to download error!!!!!!!!!!**
+- .
+- localhost servered requires others to localhostered with exact same structure and same file on their own disk
+- https://assetstore.unity.com/packages/3d/vehicles/land/low-poly-cars-101798
+- https://assetstore.unity.com/packages/3d/vehicles/cartoon-vehicles-low-poly-cars-free-138160
+- https://assetstore.unity.com/packages/3d/vehicles/land/drive-low-poly-cars-204830
+- https://github.com/PrismYoutube/Unity-Car-Controller alas, script forbidden by default
+- https://assetstore.unity.com/packages/2d/textures-materials/gridbox-prototype-materials-129127 Don't forget this!
+- https://sketchfab.com/Teiozemo/models
+- https://sketchfab.com/SM0L
+- https://sm0l.gumroad.com/
+- https://sm0l404.carrd.co/
+- .
+- https://ghosti.gumroad.com/
+- https://discord.gg/c9F9dhenx2 I must join your discord just to password?!?!?!? 💀 Bruh, gamers already had 100 server without nitro!
+- Listen up. Why the hell that `unitypackage` is half GB?! I'm suspicious. DId you pack entire Avatar Project unselectively!?!?!??!?!?!?!?
+- .
+- Pls, don't give me your paid stuff for free. No, no thancc. **I want all gamers too had those for $0**. It is useless if you do that. I had it, and they'll be disappointed, the sauce is not $0.
+- (all Perkedel endeavor will be $0) Okay, stop. no.. all companies, all platform no exception must benefit your items for $0.
+- (all endeavor that involved JOELwindows7 in any form gets privilege) Hey, HEY!!, I said stop. We don't want that. Don't become half hearted, just give all of them for $0. I promise, if you are the most wholesome person I never met, I'll donate you, when I have at least 1 revenue streams, each atleast exceeds over IDR 12 Jt per month. You more wholesome than never, got it now even I'm poor, who knows!
+- https://gh0stt.gumroad.com/
+- https://assetstore.unity.com/packages/2d/textures-materials/gridbox-prototype-materials-129127
 
 ## sovania
 
