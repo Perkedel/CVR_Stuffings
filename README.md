@@ -1616,6 +1616,7 @@ Put this image onto some quads. This image is my promotion for gamers to check o
 - https://github.com/Saarg/AutoTober
 - https://github.com/Nanousis/MobileUIButtons
 - https://youtube.com/playlist?list=PL2bjJcrwBAVivg9-SN8MjkUB4g05syvtW&si=zG2n2Qo-VaMkGsYs
+- https://www.gnu.org/licenses/gpl-3.0.html
 
 ## sovania
 
