@@ -295,6 +295,7 @@ Here are the UUIDs of all these assets we uploaded to CVR:
 - `ccfe57c8-f21c-46e3-8c3d-ec5a9def4be8` Stop you're annoying!
 - `d3afa62b-3524-46b9-93fd-519dd91a63da` I'm so sorry, I didn't mean to freeze you!
 - `12d3cc16-e202-48ad-900a-99c41d2d6130` I'm very shy!
+- `2d106677-d4d3-4671-b960-fa0c6dda30a1` A Failed Car. **RCC is not $0!!!** How do we supposed to car?!
 - `66effc2f-41af-475d-bfd2-df37989c1600` (**NOT PERKEDEL**) VoyVivika Portable Tutorial Prop
 - `1dd3b77b-8982-4627-9979-4a0503b6f2b9` (**NOT PERKEDEL**) Kavex's Rib ported from https://3dwarehouse.sketchup.com/model/4ee36dd6-7482-41a2-87ff-ceaefc83c4da/Rippchen with [song](https://www.youtube.com/watch?v=_1zzRLMHlDM)
 - `39c89b9e-abbe-4b48-8afc-d2ad910bf8e6` (**NOT PERKEDEL**) Kavex's 🏳️‍⚧️ Trans heart
@@ -389,8 +390,12 @@ Looks like this is a Windows 10 vs. 11 permissioning eh? https://github.com/Perk
 
 Known Whitelisted Unity Assets are:
 
-- [Realistic Car Controller](https://assetstore.unity.com/packages/tools/physics/realistic-car-controller-16296). BoneCrackers. Make drivable car props
-- Magica Cloth Gen1 & Gen2.
+> Asset Name & Sauce. Author. Available for. Descriptions
+
+- [Realistic Car Controller](https://assetstore.unity.com/packages/tools/physics/realistic-car-controller-16296). BoneCrackers. PROPS. Make drivable car props.
+- Magica Cloth Gen1 & Gen2. PROPS, AVATAR.
+- TextMesh Pro. Unity. WORLD
+- ProBuilder. Unity. WORLD
 
 Custom own MonoBehaviour are not supported, since these needs the `dll` assembly to be installed onto CVR. A Lua Scripting support coming soon.
 
@@ -1609,6 +1614,8 @@ Put this image onto some quads. This image is my promotion for gamers to check o
 - https://github.com/Saarg/Arcade_Car_Physics this fucking shit, is MIT licensed too. Do you see that?! When there is no restriction against paywallism & partialisms, we have all it.
 - https://github.com/Saarg/AutoTober
 - https://github.com/Saarg/AutoTober
+- https://github.com/Nanousis/MobileUIButtons
+- https://youtube.com/playlist?list=PL2bjJcrwBAVivg9-SN8MjkUB4g05syvtW&si=zG2n2Qo-VaMkGsYs
 
 ## sovania
 
