@@ -1617,6 +1617,11 @@ Put this image onto some quads. This image is my promotion for gamers to check o
 - https://github.com/Nanousis/MobileUIButtons
 - https://youtube.com/playlist?list=PL2bjJcrwBAVivg9-SN8MjkUB4g05syvtW&si=zG2n2Qo-VaMkGsYs
 - https://www.gnu.org/licenses/gpl-3.0.html
+- https://creativecommons.org/licenses/by-sa/4.0/?ref=chooser-v1
+- https://creativecommons.org/publicdomain/list.en
+- https://creativecommons.org/publicdomain/zero/1.0/deed.en
+- https://chooser-beta.creativecommons.org/
+- https://creativecommons.org/share-your-work/cclicenses/
 
 ## sovania
 
