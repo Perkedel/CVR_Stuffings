@@ -1589,6 +1589,26 @@ Put this image onto some quads. This image is my promotion for gamers to check o
 - https://assetstore.unity.com/packages/2d/textures-materials/the-best-flag-and-war-banner-system-124022 wihhhhhh
 - https://assetstore.unity.com/packages/2d/textures-materials/the-best-flag-and-war-banner-system-124022 whoa wait a second **that's not free**, close the import! ... Damn, that was promo!
 - https://assetstore.unity.com/packages/2d/textures-materials/sky/allsky-free-10-sky-skybox-set-146014 my computer going to explodos
+- https://assetstore.unity.com/packages/tools/physics/arcade-car-physics-119484 That's all I can do
+- https://assetstore.unity.com/packages/templates/systems/arcade-car-controller-lite-version-145489 I can't do no more. For of of God, pls! buy me harddisk!
+- https://docs.unity3d.com/Packages/com.unity.postprocessing@3.0/manual/Quick-start.html
+- https://assetstore.unity.com/packages/3d/props/industrial/workplace-tools-86242 uwaw
+- https://www.reddit.com/r/Unity2D/comments/u1nna1/how_could_you_create_an_unmoving_plaid_effect/
+- https://assetstore.unity.com/packages/tools/physics/sci-fi-ship-controller-134914
+- https://github.com/MangoButtermilch/Unity-Hover-Ship-Controller
+- https://github.com/yboumaiza7/Boat-Controller
+- https://assetstore.unity.com/packages/3d/vehicles/land/low-poly-cars-101798
+- https://assetstore.unity.com/packages/3d/vehicles/land/low-poly-civilian-vehicle-5-124987 how the fuck Unity even let this happened? not even whose already claimed it!?
+- https://www.facebook.com/pro3dmodels
+- https://ua.3dexport.com/surdov eh, they're not free anyways. I got them during $0 promo. There's free 2 files tho, demo said.
+- https://ua.3dexport.com/free-3dmodel-civilian-vehicle-demo-447457.htm
+- https://assetstore.unity.com/packages/3d/vehicles/land/low-poly-cars-101798
+- https://assetstore.unity.com/packages/tools/physics/arcade-car-physics-119484 wait..
+- https://assetstore.unity.com/packages/tools/physics/arcade-car-physics-extended-142918 no, we know there is partialism.. but..
+- https://saarg.me
+- https://github.com/Saarg/Arcade_Car_Physics this fucking shit, is MIT licensed too. Do you see that?! When there is no restriction against paywallism & partialisms, we have all it.
+- https://github.com/Saarg/AutoTober
+- https://github.com/Saarg/AutoTober
 
 ## sovania
 
