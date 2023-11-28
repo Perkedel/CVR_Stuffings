@@ -1585,6 +1585,9 @@ Put this image onto some quads. This image is my promotion for gamers to check o
 - https://assetstore.unity.com/packages/tools/gui/runtime-file-browser-113006
 - https://github.com/yasirkula/UnitySimpleFileBrowser
 - https://assetstore.unity.com/publishers/22792 he got all stuffs for $0... I hope all and on.
+- https://assetstore.unity.com/packages/essentials/ui-samples-25468#description
+- https://assetstore.unity.com/packages/2d/textures-materials/the-best-flag-and-war-banner-system-124022 wihhhhhh
+- https://assetstore.unity.com/packages/2d/textures-materials/the-best-flag-and-war-banner-system-124022 whoa wait a second **that's not free**, close the import! ... Damn, that was promo!
 
 ## sovania
 
