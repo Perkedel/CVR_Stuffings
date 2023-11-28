@@ -1622,6 +1622,9 @@ Put this image onto some quads. This image is my promotion for gamers to check o
 - https://creativecommons.org/publicdomain/zero/1.0/deed.en
 - https://chooser-beta.creativecommons.org/
 - https://creativecommons.org/share-your-work/cclicenses/
+- https://tomori-hikage.booth.pm/items/945256
+- https://melonwiki.xyz/#/?id=requirements
+- https://gitlab.com/lox9973/ShaderMotion you pls
 
 ## sovania
 
