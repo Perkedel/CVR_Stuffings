@@ -1646,6 +1646,27 @@ Put this image onto some quads. This image is my promotion for gamers to check o
 - https://feedback.abinteractive.net/p/world-auto-closes-after-so-many-days
 - https://feedback.abinteractive.net/p/parameter-stream-not-working-correctly
 - https://feedback.abinteractive.net/p/parameter-stream-not-working-correctly
+- https://discord.com/invite/tWBEpmBnED Pls Hobkin!!! thancc, Dragon.
+- https://discord.gg/EuSnqKGtRv pls Goofy OwO
+- https://payhip.com/GoofyAvatars .....
+- https://discord.gg/XnjmSer expired. Perhaps, this is Avali old invite
+- https://discord.gg/avali argh pls...
+- https://discord.gg/kitavali don't forget this one too!
+- https://twitter.com/PolarisVr/status/1198775982519398400 WHERE THE FUCK IS THE TEMPORAL SPIRIT MODEL?!?!?
+- https://vrcmods.com/item?id=6150 We got only this remake. How others had it?!
+- https://www.deviantart.com/neonminun/art/Time-spirit-Blue-757010636 Oh man.. Find until found!!
+- https://www.reddit.com/r/VRchat/comments/iwup6l/i_have_been_seeing_this_avatar_alot_recently_two/
+- https://discord.gg/dXP7Tn C'mon... SHIT FUCK HELL!! THIS GONE!!
+- https://skfb.ly/oOpzA
+- https://sketchfab.com/NegaTheImpmon9508
+- https://sketchfab.com/tags/vrchat-vrchat_avatar
+- https://www.instagram.com/p/C0AZCnxoq8n/?utm_source=ig_web_copy_link
+- https://www.instagram.com/_polaris_art_/
+- https://vrchat-legends.fandom.com/wiki/Polaris_VR
+- https://officialtimespirits.tumblr.com/
+- https://discord.gg/4E52SKh **FINALLY!!!** Wait..
+- FUcking hell. you have terrible SEO here. I shall have you SEO. but how.. hmmm.. uh... Can I just DeviantArt here?
+- No wait a century! The franchise owner is... rather.. propritarist or.. I can't politely describe this behaviour. Maybe.. keep it this way for this case. You do you.
 
 ## sovania
 
