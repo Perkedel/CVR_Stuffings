@@ -1667,6 +1667,26 @@ Put this image onto some quads. This image is my promotion for gamers to check o
 - https://discord.gg/4E52SKh **FINALLY!!!** Wait..
 - FUcking hell. you have terrible SEO here. I shall have you SEO. but how.. hmmm.. uh... Can I just DeviantArt here?
 - No wait a century! The franchise owner is... rather.. propritarist or.. I can't politely describe this behaviour. Maybe.. keep it this way for this case. You do you.
+- https://sketchfab.com/Sidega ..
+- https://sketchfab.com/Sidega
+- I hate when somebody plays high class - trash class okay? high class gets exclusive no others get, trash gets nothing and stuck to default. fucking shit. no gamers should live in that. As always
+- okay that's enough. keep the bashing up to NFT bullshits instead, for now. there, right click there.
+- https://booth.pm/ja/items/2820532
+- imagine one day, you paid full, you never sparsdat, you obey the law, all laws imposed by the government you live at. One day, the company defunct, and order you to stop and uninstall everything you bought with your own modal like it never exist. violation is sparsdat. WOW what a time we live in. That's not funny, it happened in real life, [Mike told us](https://youtube.com/@gamefromscratch?si=u_ylUwYO2coN6neB). Forgot the company name who did that tho. We'll bring the sauce when we found it.
+- https://www.reddit.com/r/VRchat/comments/iwup6l/i_have_been_seeing_this_avatar_alot_recently_two/
+- https://booth.pm/ja/items/2324819
+- https://tkykt.booth.pm/
+- https://battlebunnymods.booth.pm/items/2820442
+- https://battlebunnymods.booth.pm/items/2820480
+- https://psychpsyo.booth.pm/ jackpot!!
+- https://booth.pm/ja/items/2796953 back to losses.
+- man what a good day gambling, but not losing money instead! lose only if you gone reckless!
+- https://booth.pm/ja/items/2753966
+- https://booth.pm/ja/items/1148311 WOOO YESS!!
+- https://booth.pm/ja/items/1267741 TAKE EVERYTHING!!
+- https://officialtimespirits.tumblr.com/
+- https://linthm.tumblr.com/tagged/thm
+- https://www.tumblr.com/joelwindows7/735353892846632960/quick-how-to-download-time-spirit-vrchat-base-3d?source=share
 
 ## sovania
 
