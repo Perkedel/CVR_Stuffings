@@ -1625,6 +1625,27 @@ Put this image onto some quads. This image is my promotion for gamers to check o
 - https://tomori-hikage.booth.pm/items/945256
 - https://melonwiki.xyz/#/?id=requirements
 - https://gitlab.com/lox9973/ShaderMotion you pls
+- https://www.reddit.com/r/ChilloutVRERP/ This Subreddit, had discord
+- https://discord.gg/gWKu6gNtYP but to get started, **you must selfie with your SSN / ID**, YAIKES!!! In Germany & many European countries would instantly be blammed for it. I mean, it's not even bank or whatever money related!
+- Hey, maybe I should design quickly clip to cover private info, except birthdate coz that's what they want. Only spyful government allowed to see our own SSN / ID.
+- https://www.reddit.com/r/ChilloutVRERP/comments/17euzfp/wheres_the_discord_link/
+- https://www.reddit.com/r/ChilloutVRERP/comments/w9vnzy/rchilloutvrerp_lounge/
+- https://assetstore.unity.com/packages/3d/props/electronics/web-camera-164934 eyho webcam
+- https://assetstore.unity.com/packages/3d/props/electronics/hq-laptop-computer-42030
+- https://assetstore.unity.com/packages/3d/props/tools/office-knife-89088
+- https://assetstore.unity.com/packages/audio/music/electronic/enormous-8bit-sounds-pack-174689
+- https://assetstore.unity.com/packages/3d/props/electronics/hq-laptop-computer-42030
+- https://assetstore.unity.com/packages/3d/environments/historic/logic-blox-mainframe-models-136006
+- https://assetstore.unity.com/packages/3d/environments/lowpoly-server-room-props-197268
+- https://assetstore.unity.com/packages/3d/props/electronics/retro-big-computer-6174
+- https://assetstore.unity.com/publishers/2427 whoah!!! Zoologo Zololgo got it all?!?!?
+- https://assetstore.unity.com/packages/3d/environments/sci-fi/sci-fi-tablet-computer-33216
+- https://assetstore.unity.com/packages/3d/environments/sci-fi/sci-fi-tablet-computer-33216
+- https://assetstore.unity.com/packages/3d/props/furniture/table-angular-164855
+- https://feedback.abinteractive.net/p/toggle-swimming-in-fbt
+- https://feedback.abinteractive.net/p/world-auto-closes-after-so-many-days
+- https://feedback.abinteractive.net/p/parameter-stream-not-working-correctly
+- https://feedback.abinteractive.net/p/parameter-stream-not-working-correctly
 
 ## sovania
 
