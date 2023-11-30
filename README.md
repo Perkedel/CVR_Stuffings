@@ -1687,6 +1687,47 @@ Put this image onto some quads. This image is my promotion for gamers to check o
 - https://officialtimespirits.tumblr.com/
 - https://linthm.tumblr.com/tagged/thm
 - https://www.tumblr.com/joelwindows7/735353892846632960/quick-how-to-download-time-spirit-vrchat-base-3d?source=share
+- https://github.com/SDraw/roc_engine
+- https://github.com/SDraw/CVRLua
+- https://github.com/fholger/openvr_fsr
+- https://github.com/LavaGang/ML_OpenVR_FSR
+- https://sugary-boutique.booth.pm/
+- https://komado.booth.pm/
+- https://booth.pm/en/items/3470989
+- https://booth.pm/en/items/1093504
+- https://github.com/LavaGang/ML_OpenVR_FSR
+- https://github.com/SDraw/CVRLua/releases
+- https://github.com/SDraw/ml_mods_cvr
+- https://github.com/knah/CVRMelonAssistant
+- https://docs.abinteractive.net/official/legal/tos/#7-modding-our-games
+- https://github.com/cellomonster/vrcfox JACKPOT ULIMATE
+- https://sketchfab.com/3d-models/vrchat-fox-9ed90de72e9c437b8820cbf0eeb32a50
+- https://discord.com/channels/1001388809184870441/1002841950577242152/1157441733068595310
+- https://www.vrcarena.com/species/168YiKm3SCMmkOwFddKv/avatar
+- https://www.vrcarena.com/assets/098cf-delyth---sps-modular-goloco
+- https://krenki.gumroad.com/l/delyth
+- https://krenki.gumroad.com/
+- https://www.vrcarena.com/assets/1e389-amaterasu
+- https://therpgslayer.gumroad.com/l/Amaterasu
+- https://therpgslayer.gumroad.com/
+- https://www.vrcarena.com/assets/31df3-mommyfox
+- https://booth.pm/en/items/5247549
+- https://www.vrcarena.com/assets/nja7M-amaterasu
+- https://vrcmods.com/item/6741
+- https://github.com/cellomonster?tab=repositories
+- https://stackoverflow.com/questions/66025220/paired-values-in-github-actions-matrix
+- https://docs.github.com/en/actions/using-jobs/using-a-matrix-for-your-jobs
+- https://youtu.be/a6zKohQnFJk?si=T0wygbLa88Osnztb
+- https://youtu.be/EzWNBmjyv7Y?t=6
+- https://www.youtube.com/watch?v=uooNWuF0tqY
+- https://www.youtube.com/watch?v=gkook0l_gsM
+- https://www.youtube.com/watch?v=tDacjrSCeq4&t=27s
+- https://github.com/SDraw/CVRLua
+- https://github.com/rms-support-letter/rms-support-letter.github.io
+- https://rms-support-letter.github.io/
+- https://github.com/rms-support-letter/revoke-open-letter-signature
+- https://github.com/SDraw/ml_mods_vsf
+- https://www.vseeface.icu/
 
 ## sovania
 

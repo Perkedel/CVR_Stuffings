@@ -1,0 +1,21 @@
+-- https://github.com/SDraw/CVRLua
+-- https://github.com/SDraw/CVRLua/wiki/Scripting-introduction
+-- HelloPlayer.lua example
+
+function Start()
+    Log("Hello, "..localPlayer.name.."! This script is started on "..this.name.." gameObject.")
+    
+end
+
+function Update()
+
+end
+
+function OnInteractableDown()
+    Log("Click yey "..localPlayer.name)
+    coloring = not coloring
+    if coloring then
+
+    else
+    end
+end
