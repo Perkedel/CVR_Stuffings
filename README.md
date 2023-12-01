@@ -1739,6 +1739,9 @@ Put this image onto some quads. This image is my promotion for gamers to check o
 - https://shatteredfur.gumroad.com/l/bone
 - https://youtu.be/dRy1cG9nCTo
 - https://hfcred.gumroad.com/l/Among-Us-Follower
+- https://forum.unity.com/threads/dynamic-bone-realistic-swaying-ponytail-and-bouncing-boobs.245418/
+- https://assetstore.unity.com/packages/tools/animation/dynamic-bone-16743
+- Todo: change protogen thumb, install UUID to your world.
 
 ## sovania
 
