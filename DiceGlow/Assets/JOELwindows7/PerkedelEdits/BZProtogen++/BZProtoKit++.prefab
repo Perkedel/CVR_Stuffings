@@ -1,5 +1,133 @@
 %YAML 1.1
 %TAG !u! tag:unity3d.com,2011:
+--- !u!1 &4274153142689982454
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4955154614187493474}
+  - component: {fileID: 2169919585251209605}
+  m_Layer: 0
+  m_Name: DetakJantung
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 0
+--- !u!4 &4955154614187493474
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4274153142689982454}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -0.09, y: 2.331, z: 0.118}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 4492195126902220768}
+  m_RootOrder: 4
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!82 &2169919585251209605
+AudioSource:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4274153142689982454}
+  m_Enabled: 1
+  serializedVersion: 4
+  OutputAudioMixerGroup: {fileID: 0}
+  m_audioClip: {fileID: 0}
+  m_PlayOnAwake: 1
+  m_Volume: 1
+  m_Pitch: 1
+  Loop: 0
+  Mute: 0
+  Spatialize: 0
+  SpatializePostEffects: 0
+  Priority: 128
+  DopplerLevel: 1
+  MinDistance: 0.05
+  MaxDistance: 0.075
+  Pan2D: 0
+  rolloffMode: 0
+  BypassEffects: 0
+  BypassListenerEffects: 0
+  BypassReverbZones: 0
+  rolloffCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 1
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  panLevelCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  spreadCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  reverbZoneMixCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
 --- !u!1 &4492195125564394586
 GameObject:
   m_ObjectHideFlags: 0
@@ -4559,6 +4687,7 @@ Transform:
   - {fileID: 4492195126408120720}
   - {fileID: 4492195127353953344}
   - {fileID: 4492195125588346748}
+  - {fileID: 4955154614187493474}
   m_Father: {fileID: 0}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -4598,7 +4727,7 @@ MonoBehaviour:
   viewPosition: {x: 0, y: 1.43, z: 0.06}
   voicePosition: {x: 0, y: 1.37709, z: 0.06}
   voiceParent: 0
-  overrides: {fileID: 22100000, guid: 16246999dbc79d445a4fd724a5de197e, type: 2}
+  overrides: {fileID: 22100000, guid: 45c40d2de98cb2e4d83fcde2f70c202f, type: 2}
   bodyMesh: {fileID: 4492195126408120721}
   useEyeMovement: 1
   eyeLookMode: 0
@@ -4636,8 +4765,8 @@ MonoBehaviour:
     initialized: 1
     baseController: {fileID: 9100000, guid: da8fdd92b1d700545a9d24c1ebf3ee2e, type: 2}
     baseOverrideController: {fileID: 0}
-    animator: {fileID: 0}
-    overrides: {fileID: 0}
+    animator: {fileID: 9100000, guid: 7063bdd052e4e5848b8bdfcacd93022a, type: 2}
+    overrides: {fileID: 22100000, guid: 45c40d2de98cb2e4d83fcde2f70c202f, type: 2}
     settings:
     - type: 2
       toggleSettings:
@@ -4791,7 +4920,7 @@ MonoBehaviour:
         materialColorTargets: []
       dropDownSettings:
         usedType: 2
-        isCollapsed: 0
+        isCollapsed: 1
         defaultValue: 0
         options:
         - name: None
@@ -5410,6 +5539,63 @@ MonoBehaviour:
         defaultValue: {x: 0, y: 0, z: 0}
       name: ArmorExtrude
       machineName: 
+    - type: 0
+      toggleSettings:
+        usedType: 1
+        isCollapsed: 1
+        defaultValue: 0
+        useAnimationClip: 0
+        animationClip: {fileID: 0}
+        offAnimationClip: {fileID: 0}
+        gameObjectTargets:
+        - isCollapsed: 0
+          gameObject: {fileID: 4274153142689982454}
+          treePath: DetakJantung
+          onState: 1
+      materialColorSettings:
+        usedType: 1
+        isCollapsed: 1
+        defaultValue: {r: 1, g: 1, b: 1, a: 1}
+        materialColorTargets: []
+      dropDownSettings:
+        usedType: 1
+        isCollapsed: 1
+        defaultValue: 0
+        options: []
+      sliderSettings:
+        usedType: 1
+        isCollapsed: 1
+        defaultValue: 0
+        materialPropertyTargets: []
+        useAnimationClip: 0
+        minAnimationClip: {fileID: 0}
+        maxAnimationClip: {fileID: 0}
+      joystick2DSetting:
+        usedType: 1
+        isCollapsed: 1
+        defaultValue: {x: 0, y: 0}
+        rangeMin: {x: 0, y: 0}
+        rangeMax: {x: 1, y: 1}
+      joystick3DSetting:
+        usedType: 1
+        isCollapsed: 1
+        defaultValue: {x: 0, y: 0, z: 0}
+        rangeMin: {x: 0, y: 0, z: 0}
+        rangeMax: {x: 1, y: 1, z: 1}
+      inputSingleSettings:
+        usedType: 1
+        isCollapsed: 1
+        defaultValue: 0
+      inputVector2Settings:
+        usedType: 1
+        isCollapsed: 1
+        defaultValue: {x: 0, y: 0}
+      inputVector3Settings:
+        usedType: 1
+        isCollapsed: 1
+        defaultValue: {x: 0, y: 0, z: 0}
+      name: HeartbeatSound
+      machineName: HeartbeatSound
     - type: 3
       toggleSettings:
         usedType: 3
