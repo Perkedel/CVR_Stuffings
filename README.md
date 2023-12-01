@@ -1734,6 +1734,8 @@ Put this image onto some quads. This image is my promotion for gamers to check o
 - https://carls3d.gumroad.com/
 - https://twitter.com/80Level/status/1560197309412978689
 - https://skymy.booth.pm/
+- https://sisters.booth.pm/
+- https://shatteredfur.gumroad.com/l/bone
 
 ## sovania
 
