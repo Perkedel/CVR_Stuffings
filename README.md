@@ -1742,6 +1742,36 @@ Put this image onto some quads. This image is my promotion for gamers to check o
 - https://forum.unity.com/threads/dynamic-bone-realistic-swaying-ponytail-and-bouncing-boobs.245418/
 - https://assetstore.unity.com/packages/tools/animation/dynamic-bone-16743
 - Todo: change protogen thumb, install UUID to your world.
+- https://github.com/Dreadrith?tab=repositories
+- https://github.com/Dreadrith/DreadScripts
+- https://gumroad.com/dreadrith
+- https://github.com/SleightlyDreadful/Carbon-Copy
+- https://www.dreadrith.com/
+- Oh, what a hyp-
+- https://github.com/Dreadrith/DreadScripts/blob/main/LICENSE -
+- Balhed: Sir, Ayu reminds you to not go overboard with your bashing. She exclaim that you have to moderate your Terry Davisness. DO NOT go full!, Sir!
+- Joel: (relieve anger)...... Thank you. 
+- Ayu is Zumi's Girlfriend.
+- Zumi: Tell me. I have already handled 2 projects both have restrictions! I don't like this.
+- Gyouter: Tell you what, buddy. We've been since 30 years having facing giga whole ass amount of restriction in each and every contract. You tell me, they make sense, usually..
+- Zumi: Really? You gamers had to be suffering!
+- Gyouter: Yes. But we used to it. And so this your training. You just have 2, and same reason. C'mon, Just two, and you're tired? No I mean.. not to brag, it's.. dark to brag.
+- Zumi: Ugh.... say that again.
+- Gyouter: For [Friday Night Funkin'](https://gamebanana.com/mods/293257), you cannot include downloaded mods & NSFWs because of GameBanana. And *Federals* in it basically. This one, you cannot include sparsdated Unity Assets because... of *Federals*. Also.
+- Zumi: Yeah yeah, remember again. Federals. I cannot sparsdat. rE-got it. (felt suffer again, look in confuse upon Gyouter) huh..
+- Gyouter: Remember buddy. This universe now also depends your hands too. One infraction could cost us everything.
+- Zumi: Again, remind you again. I hate that I am forbidden to have it. We're just about the same, aren't we?
+- Gyouter: Well, can be said, only.. polarly, between us & Federals. You know.. We files, they money.
+- Zumi: Wars that never ends. Until Jesus come back.
+- https://docs.unity3d.com/2019.4/Documentation/ScriptReference/Component.GetComponent.html
+- https://github.com/SDraw/CVRLua/wiki pls document complete lah, will you share the sample assets too!???!? plssssssssssssssssss????????????????
+- https://github.com/SDraw/CVRLua
+- https://cappyadams.booth.pm/ pls do not forget cappy adams
+- https://cappyadams.carrd.co/ yes.
+- https://gamebanana.com/members/2172988
+- https://www.deviantart.com/neomifloof/art/Commission-Shiloh-Fristen-831053548
+- https://www.deviantart.com/cappyadams/art/Oh-No-996912498
+- https://www.deviantart.com/shadowleswolf/art/MMD-Blender-DTSS-Model-Robo-Kitty-Catlyke-ver0-3-975348892
 
 ## sovania
 
