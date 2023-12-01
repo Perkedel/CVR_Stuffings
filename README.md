@@ -218,6 +218,7 @@ Here are the UUIDs of all these assets we uploaded to CVR:
 ### Avatars
 
 - `92f6e5f4-e860-42fd-8154-81d69f605099` Howard the Alien
+- `1fe3eebd-7671-4392-9e3c-87f269ebe69e` BZ Protogen ++
 - `11f91306-49c6-4d8b-b075-461e24d4f6ed` (**NOT PERKEDEL**) Abstract. JillTheSomething
 - `fdbc8414-06a8-482f-9062-ebf394c09d06` (**NOT PERKEDEL**) Chitio Avislime. JillTheSomething. **(DEV DEPENDENCY PAYWALLED!!!) CHITIO NOT INCLUDED IN THIS SOURCE CODE, PAYWALLED!**
 - `244d5daf-35bd-4752-b286-e9c0a6057548` (**NOT PERKEDEL**) MothBoi 2. JillTheSomething.
@@ -1728,6 +1729,11 @@ Put this image onto some quads. This image is my promotion for gamers to check o
 - https://github.com/rms-support-letter/revoke-open-letter-signature
 - https://github.com/SDraw/ml_mods_vsf
 - https://www.vseeface.icu/
+- https://80.lv/articles/a-new-hair-braids-generator-for-blender-3-1/
+- https://carls3d.gumroad.com/l/braids
+- https://carls3d.gumroad.com/
+- https://twitter.com/80Level/status/1560197309412978689
+- https://skymy.booth.pm/
 
 ## sovania
 
