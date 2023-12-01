@@ -122,13 +122,13 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 4274153142689982454}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -0.09, y: 2.331, z: 0.118}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalRotation: {x: 0.08640838, y: -0.000000119087126, z: 0.0000000099770405, w: 0.99625987}
+  m_LocalPosition: {x: -0.053738423, y: 0.04649582, z: 0.09286325}
+  m_LocalScale: {x: 0.59709495, y: 0.59709495, z: 0.597095}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 4492195126902220768}
-  m_RootOrder: 4
+  m_Father: {fileID: 4492195125609829799}
+  m_RootOrder: 5
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!82 &2169919585251209605
 AudioSource:
@@ -144,7 +144,7 @@ AudioSource:
   m_PlayOnAwake: 1
   m_Volume: 1
   m_Pitch: 1
-  Loop: 0
+  Loop: 1
   Mute: 0
   Spatialize: 0
   SpatializePostEffects: 0
@@ -692,6 +692,7 @@ Transform:
   - {fileID: 4492195127356171611}
   - {fileID: 4492195126778053785}
   - {fileID: 4492195126485813003}
+  - {fileID: 4955154614187493474}
   m_Father: {fileID: 4492195126697986036}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -2343,14 +2344,14 @@ MonoBehaviour:
   m_Roots: []
   m_UpdateRate: 60
   m_UpdateMode: 3
-  m_Damping: 0.79999995
+  m_Damping: 0.05
   m_DampingDistrib:
     serializedVersion: 2
     m_Curve: []
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 4
-  m_Elasticity: 0.75
+  m_Elasticity: 0.05
   m_ElasticityDistrib:
     serializedVersion: 2
     m_Curve: []
@@ -2931,7 +2932,7 @@ MonoBehaviour:
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 4
-  m_Elasticity: 0.25
+  m_Elasticity: 0.01
   m_ElasticityDistrib:
     serializedVersion: 2
     m_Curve: []
@@ -4744,14 +4745,14 @@ MonoBehaviour:
   m_Roots: []
   m_UpdateRate: 60
   m_UpdateMode: 3
-  m_Damping: 0.79999995
+  m_Damping: 0.008
   m_DampingDistrib:
     serializedVersion: 2
     m_Curve: []
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 4
-  m_Elasticity: 0.4375
+  m_Elasticity: 0.01
   m_ElasticityDistrib:
     serializedVersion: 2
     m_Curve: []
@@ -4865,7 +4866,6 @@ Transform:
   - {fileID: 4492195126408120720}
   - {fileID: 4492195127353953344}
   - {fileID: 4492195125588346748}
-  - {fileID: 4955154614187493474}
   m_Father: {fileID: 0}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -4943,7 +4943,7 @@ MonoBehaviour:
     initialized: 1
     baseController: {fileID: 9100000, guid: ff926e022d914b84e8975ba6188a26f0, type: 2}
     baseOverrideController: {fileID: 0}
-    animator: {fileID: 9100000, guid: 3aa883bf934336340920277dd1a51be4, type: 2}
+    animator: {fileID: 9100000, guid: 7da053ab37722f043b66cb0b7269ca60, type: 2}
     overrides: {fileID: 22100000, guid: 45c40d2de98cb2e4d83fcde2f70c202f, type: 2}
     settings:
     - type: 2
@@ -5728,7 +5728,7 @@ MonoBehaviour:
         gameObjectTargets:
         - isCollapsed: 0
           gameObject: {fileID: 4274153142689982454}
-          treePath: DetakJantung
+          treePath: Armature/hip/spine/spine.001/upperchest/DetakJantung
           onState: 1
       materialColorSettings:
         usedType: 1
@@ -6015,9 +6015,9 @@ MonoBehaviour:
         animationClip: {fileID: 0}
         offAnimationClip: {fileID: 0}
         gameObjectTargets:
-        - isCollapsed: 0
-          gameObject: {fileID: 0}
-          treePath: 
+        - isCollapsed: 1
+          gameObject: {fileID: 3696299602888740963}
+          treePath: Armature/hip/spine/spine.001/upperchest/shoulder.R/upper_arm.R/forearm.R/debugCube
           onState: 1
       materialColorSettings:
         usedType: 1
@@ -6190,14 +6190,14 @@ MonoBehaviour:
   m_Roots: []
   m_UpdateRate: 60
   m_UpdateMode: 3
-  m_Damping: 0.6
+  m_Damping: 0.006
   m_DampingDistrib:
     serializedVersion: 2
     m_Curve: []
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 4
-  m_Elasticity: 0.1875
+  m_Elasticity: 0.01
   m_ElasticityDistrib:
     serializedVersion: 2
     m_Curve: []
@@ -6349,7 +6349,7 @@ MonoBehaviour:
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 4
-  m_Inert: 0.5
+  m_Inert: 0.05
   m_InertDistrib:
     serializedVersion: 2
     m_Curve: []
@@ -8039,14 +8039,14 @@ MonoBehaviour:
   m_Roots: []
   m_UpdateRate: 60
   m_UpdateMode: 3
-  m_Damping: 0.79999995
+  m_Damping: 0.05
   m_DampingDistrib:
     serializedVersion: 2
     m_Curve: []
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 4
-  m_Elasticity: 0.75
+  m_Elasticity: 0.05
   m_ElasticityDistrib:
     serializedVersion: 2
     m_Curve: []
@@ -8424,14 +8424,14 @@ MonoBehaviour:
   m_Roots: []
   m_UpdateRate: 60
   m_UpdateMode: 3
-  m_Damping: 0.79999995
+  m_Damping: 0.008
   m_DampingDistrib:
     serializedVersion: 2
     m_Curve: []
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 4
-  m_Elasticity: 0.25
+  m_Elasticity: 0.01
   m_ElasticityDistrib:
     serializedVersion: 2
     m_Curve: []
