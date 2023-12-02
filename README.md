@@ -1805,6 +1805,8 @@ Put this image onto some quads. This image is my promotion for gamers to check o
 - https://booth.pm/en/items/3104007
 - https://skfb.ly/6YK7P Argh you kidding me?
 - https://skfb.ly/6Zn9S hurnn..
+- https://assetstore.unity.com/publishers/22792 You know what? download everything. I guess.. Guess we'll never know.
+- https://discord.com/channels/410126604237406209/766086942005526579/1075090431760674869
 
 ## sovania
 
