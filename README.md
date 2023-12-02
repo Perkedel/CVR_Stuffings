@@ -1806,7 +1806,11 @@ Put this image onto some quads. This image is my promotion for gamers to check o
 - https://skfb.ly/6YK7P Argh you kidding me?
 - https://skfb.ly/6Zn9S hurnn..
 - https://assetstore.unity.com/publishers/22792 You know what? download everything. I guess.. Guess we'll never know.
-- https://discord.com/channels/410126604237406209/766086942005526579/1075090431760674869
+- https://discord.com/channels/410126604237406209/766086942005526579/1075090431760674869 bluethefox
+- 2021 shader fix tutorial. add in `struct appdata` `UNITY_VERTEX_INPUT_INSTANCE_ID`
+- add to `struct v2f` `UNITY_VERTEX_OUTPUT_STEREO`
+- add to `v2f vert under v2f o;` `UNITY_SETUP_INSTANCE_ID(v);` *ENTER* `UNITY_INITIALIZE_VERTEX_OUTPUT_STEREO(o);  ` 
+- 
 
 ## sovania
 
