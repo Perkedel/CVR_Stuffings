@@ -1776,6 +1776,17 @@ Put this image onto some quads. This image is my promotion for gamers to check o
 - https://www.deviantart.com/cappyadams/art/Oh-No-996912498
 - https://www.deviantart.com/shadowleswolf/art/MMD-Blender-DTSS-Model-Robo-Kitty-Catlyke-ver0-3-975348892
 - https://github.com/edcasillas/unity-missing-references-finder Hey, what's missing here. **YEAH WHAT MISSING!! WHAT'S SCRIPT NAME!? VRCHAT??**
+- https://acchosen.gumroad.com/
+- https://github.com/AcChosen/VR-Stage-Lighting
+- https://www.youtube.com/watch?v=b6SjQHFF6Qo
+- https://github.com/AcChosen/VR-Stage-Lighting
+- https://vpm.vrsl.dev/
+- wow VR Stage Lights!!
+- https://github.com/Unity-Technologies/FPSSample/blob/master/Packages/com.unity.postprocessing/PostProcessing/Shaders/Builtins/Uber.shader
+- https://github.com/Leviant/ScreenSpace_Ubershader
+- https://github.com/devdogio/sci-fi-ui
+- https://assetstore.unity.com/packages/2d/gui/shift-complete-sci-fi-ui-157943 this is what MilchZocker used!
+- https://michsky.com/
 
 ## sovania
 
