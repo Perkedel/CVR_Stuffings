@@ -218,7 +218,7 @@ Here are the UUIDs of all these assets we uploaded to CVR:
 ### Avatars
 
 - `92f6e5f4-e860-42fd-8154-81d69f605099` Howard the Alien
-- `1fe3eebd-7671-4392-9e3c-87f269ebe69e` BZ Protogen ++
+- `1fe3eebd-7671-4392-9e3c-87f269ebe69e` **BZ Protogen ++**.
 - `11f91306-49c6-4d8b-b075-461e24d4f6ed` (**NOT PERKEDEL**) Abstract. JillTheSomething
 - `fdbc8414-06a8-482f-9062-ebf394c09d06` (**NOT PERKEDEL**) Chitio Avislime. JillTheSomething. **(DEV DEPENDENCY PAYWALLED!!!) CHITIO NOT INCLUDED IN THIS SOURCE CODE, PAYWALLED!**
 - `244d5daf-35bd-4752-b286-e9c0a6057548` (**NOT PERKEDEL**) MothBoi 2. JillTheSomething.
@@ -231,6 +231,7 @@ Here are the UUIDs of all these assets we uploaded to CVR:
 - `576dd214-4d23-4441-86f1-d0f56f3095da` SFW DiceGlow Test Area Pt. 2
 - `604d2db5-93b4-4511-8b53-a66e16cc6325` NSFW CornSyrup Test Area
 - `6055a6c3-e589-45dc-a2c2-5de2d83ae449` Moving Spawns
+- `dd4303c8-3f5c-4fed-9d37-21e8836310e3` iPoly3D Low Poly Server Room
 - `3fe2b7c3-129a-418e-87ad-c3931657f843` (**NOT PERKEDEL**) UCC Cinema. MilchZocker
 - `af0f00bc-0702-46ce-9441-bcce0ad6c813` (**NOT PERKEDEL**) UCC Avatars. MilchZocker
 - `9d0677a5-b88f-4994-901b-7b91c99e8cd8` (**NOT PERKEDEL**) UCC Bird Island. MilchZocker
