@@ -298,6 +298,7 @@ Here are the UUIDs of all these assets we uploaded to CVR:
 - `12d3cc16-e202-48ad-900a-99c41d2d6130` I'm very shy!
 - `2d106677-d4d3-4671-b960-fa0c6dda30a1` A Failed Car. **RCC is not $0!!!** How do we supposed to car?!
 - `3f562c88-e8d6-4b39-827c-a910588bc4e6` DynBonen.
+- `ddb5a8b0-758e-4469-a181-5c5e959bab07` Le Among Us. hfcRed's among us follower demo
 - `66effc2f-41af-475d-bfd2-df37989c1600` (**NOT PERKEDEL**) VoyVivika Portable Tutorial Prop
 - `1dd3b77b-8982-4627-9979-4a0503b6f2b9` (**NOT PERKEDEL**) Kavex's Rib ported from https://3dwarehouse.sketchup.com/model/4ee36dd6-7482-41a2-87ff-ceaefc83c4da/Rippchen with [song](https://www.youtube.com/watch?v=_1zzRLMHlDM)
 - `39c89b9e-abbe-4b48-8afc-d2ad910bf8e6` (**NOT PERKEDEL**) Kavex's 🏳️‍⚧️ Trans heart
@@ -730,7 +731,8 @@ Put this image onto some quads. This image is my promotion for gamers to check o
 
 ## Sauces Total
 
-> WARNING: Some Sauce URLs may contain NSFW. Viewer discretion is advised.
+> WARNING: Some Sauce URLs may contain NSFW. Viewer discretion is advised.  
+> WARNING: All Sauces lists below maybe moved to the [new file](/CREDIT.md).
 
 - https://youtu.be/tnPS_l-1N94?si=ZHS3yb_UwXq7o8Bd how to prop
 - https://youtu.be/a98qCeLAogw?si=y0Rjmnn5fB7sq6za how to convert from vrc to cvr
@@ -1772,6 +1774,7 @@ Put this image onto some quads. This image is my promotion for gamers to check o
 - https://www.deviantart.com/neomifloof/art/Commission-Shiloh-Fristen-831053548
 - https://www.deviantart.com/cappyadams/art/Oh-No-996912498
 - https://www.deviantart.com/shadowleswolf/art/MMD-Blender-DTSS-Model-Robo-Kitty-Catlyke-ver0-3-975348892
+- https://github.com/edcasillas/unity-missing-references-finder Hey, what's missing here. **YEAH WHAT MISSING!! WHAT'S SCRIPT NAME!? VRCHAT??**
 
 ## sovania
 
