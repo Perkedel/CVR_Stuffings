@@ -1787,6 +1787,24 @@ Put this image onto some quads. This image is my promotion for gamers to check o
 - https://github.com/devdogio/sci-fi-ui
 - https://assetstore.unity.com/packages/2d/gui/shift-complete-sci-fi-ui-157943 this is what MilchZocker used!
 - https://michsky.com/
+- https://github.com/AcChosen/VR-Stage-Lighting/wiki/Getting-Started:-Project-Setup
+- Argh, shit. the model does not match!!! find again!!
+- https://booth.pm/en/items/5203784
+- https://booth.pm/en/items/5307468 paid too
+- https://hanaechu.booth.pm/items/4795520 paid
+- https://booth.pm/ja/items/5058077 (many favs) too few of us I assume. ... uhh. few of.. mm.. we. many them who much less.. ah shit, I.. sor..I........ whatever.
+- https://hanaechu.booth.pm/items/5273345 paaaaaaaaaaaaaaaaaaid
+- https://booth.pm/en/items/5282192 ayyyyyyyyy!!!
+- https://booth.pm/en/items/4837189
+- https://booth.pm/en/items/1637978 not matching. also too expensive. shut the fuck up. focus.
+- https://booth.pm/en/items/2141514 neeeext!!
+- https://booth.pm/en/items/1494518
+- https://booth.pm/en/items/4879725
+- https://booth.pm/en/items/4882405
+- https://booth.pm/en/items/5200106
+- https://booth.pm/en/items/3104007
+- https://skfb.ly/6YK7P Argh you kidding me?
+- https://skfb.ly/6Zn9S hurnn..
 
 ## sovania
 
