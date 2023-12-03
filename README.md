@@ -1818,6 +1818,10 @@ Put this image onto some quads. This image is my promotion for gamers to check o
 - .
 - https://vrm.dev/en/vrm/vrm_applications.html
 - https://vrm.dev/en/univrm1/index.html
+- https://youtu.be/lhELeLnynI8?si=IAUtF2IAu_IPKG2Y
+- https://assetstore.unity.com/packages/vfx/shaders/fullscreen-camera-effects/screen-space-reflections-ssr-for-mobile-80272
+- https://youtu.be/m0P1b3TNZZE?si=yUgG4kOSiIV0Eqz_
+- https://github.com/hecomi/UnityScreenSpaceReflection
 
 ## sovania
 
