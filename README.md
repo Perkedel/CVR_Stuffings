@@ -1822,6 +1822,25 @@ Put this image onto some quads. This image is my promotion for gamers to check o
 - https://assetstore.unity.com/packages/vfx/shaders/fullscreen-camera-effects/screen-space-reflections-ssr-for-mobile-80272
 - https://youtu.be/m0P1b3TNZZE?si=yUgG4kOSiIV0Eqz_
 - https://github.com/hecomi/UnityScreenSpaceReflection
+- https://codepen.io/akai_inu/pen/zQXyxL?editors=1010
+- https://github.com/nagatsuki/VirtualMotionPuppet/blob/master/AliciaSolid.vrm
+- https://3d.nicovideo.jp/works/td32797
+- https://github.com/madjin/vrm-samples
+- https://codesandbox.io/examples/package/@pixiv/three-vrm
+- https://www.tumblr.com/freethegens
+- ...
+- .
+- .
+- .
+- .
+- https://x.com/askl1285/status/1256080405343531008?s=20
+- .
+- .
+- .
+- https://sanctuary.moe/assets/08d9a441-c159-43a9-8747-4d3475d062ea/Comfy-Neko
+- https://subcom.booth.pm/ orghlkjsdahfjk shit!! It's private.
+- It's time.
+- https://vrmodels.store/avatars/9119-comfy-neko.html
 
 ## sovania
 
