@@ -1841,6 +1841,143 @@ Put this image onto some quads. This image is my promotion for gamers to check o
 - https://subcom.booth.pm/ orghlkjsdahfjk shit!! It's private.
 - It's time.
 - https://vrmodels.store/avatars/9119-comfy-neko.html
+- https://docs.unity3d.com/Packages/com.unity.postprocessing@3.0/manual/Screen-Space-Reflections.html
+- Frustumer.
+- Table structure. face to face sofa
+- .
+- empty (sofa)
+- marble table
+- Zuuljedus (sofa)
+- **bridging partition wall**
+- Malore (sofa)
+- Gyouter (external chair), marble table
+- Grevor (sofa) 
+- .
+- Malore & Grevor is discussing. them both just finish lunch. Malore was just been coronated as a vice in archiving part of X0p1r4t3, & whole Perkedel Archive. yeh.
+- Malore Konufir (X0p1r4t3, was Wakturia): (wipe mouth)...
+- Grevor Sritowi (Wakturia, looking for division transition): (wiped mouth) Mmmh! Well, what do you say buddy? Congratulations, for becoming the Vice of Archive division. 2 jobs, one mission.
+- Malore: Wow. I'd say I like it here. I can watch all the files that goes in and out, engage on a file missions, foster & preserve treasures (booties).
+- Grevor: Well, got to tell you once again. I guess you all already know. (right hand pat Malore's left shoulder) Be careful.
+- Malore: ...
+- Grevor: Be careful out there. We are still facing a grave danger. (release pat) Whatever you do, you will not expose once again towards the reckless strikes (refering to Joel's comment against a paywallist long ago, 2 of them). Never again.
+- Malore: Yeah. That one. Remind myself. Do not be *karen and ask for manager*. And then what? I can just do the ***old days silently***.
+- Grevor: (stare, say **do not sparsdat**)....
+- Malore: And that's where I met it this boulder. ... **I cannot sparsdat**. Are you serious. Again? What am I supposed to do?!
+- Grevor: Uhhh Look. I..
+- Gyouter Embinosa (Wakturia, Leader): (open portal)!! (Enter to this Restaurant scene) Ay what's up!
+- Grevor: Uh..
+- Gyouter: (deploy portable chair)! (sitt).
+- Malore: You're late! Where have you been?
+- Gyouter: Argh sorry, gamers. I got sudden calling. SO I just.. take away it. It's done.
+- Malore: (Gyouter's mouth is still dirty of sushi soy) (give napkin tissue) Wipe your mouth man!
+- Gyouter: Thanks, (wipe).... mm, ah. Man. I had to eat while working everyday. You know, some mission forbids it, but luckily this today just normal allowed.
+- Malore: Hurgh! What a horrible day..
+- Gyouter: Okay.., Tell me.
+- Grevor: We are not allowed to sparsdat. X0p1r4t3 now holds 2 active dominant projects here, neither allows sparsdat
+- Gyouter: Oowh yeah. You know. You never risk it. Just 1 lawsuit, we're done. All of us, and your future wife dead. Game over.
+- Malore: Yes. I know. Universe destroyed. I have already heard this so many times in my previous job.
+- Gyouter: Yeah.. I'm sorry, this is so unfortunate it propagates to everything that involves.. Earth and its jurisdictions. All projects would also involves Earths, and it's impossible to disallow Earth gets along, it's forbidden to region lock anymore in Sloantim.
+- Malore: .. (sigh) HHHHHHHHHhhhh.... Now if you... uh.. anybody wants to hold it? I think you want it?? huh?
+- Gyouter: Whoah, calm down.
+- Grevor: Okay.. who wants this? Don't forget, we already had risked our lives during Friday Night Funkin' modding here, that's why we gave it to you, coz X0p1r4t3 had defense up in your sleeves against Federals. But still.
+- Gyouter: Yeah I'm sorry. We do not want to guard new adaptation anymore. Just small tasks that's it. No. Uh.. adaptations that had less toxicity from now on. It's hard. But if we get it, that's the grateful-worthy.
+- Malore: (disappointed, CVR Stuffing give back rejected) Huh. Well..
+- Grevor: It's only you. I guarantee. Just be cool, and pay the full price. This time. I know there's already abundant of assholes (paywallists) here, but we better be cool.
+- Gyouter: Because you know the last time we attempted to apologize but then it's horrible in the end. We can't. SO please, for the safety of this universe. ... Ignore your buys (gitignore). Don't even think to sparsdat, to just in case, pay it full.
+- Malore: (overwhelmed with the same stipulation like FNF modding days)..... Hooooorgh.. ... mchk... eough... May I know, I mean do you have any idea who requested this of the person behind this idea. I know embarrassing to ask not one who's in charge, but Admiral (Zumi) and friends are busy right now. I don't like to bother, coz hours ago I saw they are in a huge business for this mall. Do you know?
+- Info: Zumi & his girlfriend Ayu is strategizing pruning and refunding unused trade cells right now.
+- Grevor: Wait, you can just Roig
+- Malore: He's busy too. Balancing files.
+- Info: Joel's harddisk & SSD are full and his PC is unstable because of it. Right this moment you viewed this TSCN, Joel is desperately moving his collections back and forth. immediately Gyouter & Grevor start pitiful again having to see Joel suffering everyday. https://perkedel.netlify.app/@JOELwindows7
+- Gyouter: Okay. I'm sorry this gonna make me bad, assure you I never meant to if considered to be, it was.. (saw Zuuljedus right behind Malore) There. (confirming scan of green body color) Uhhh.. (correct) Yes.
+- Malore: (look back)?..., (stand up and approach her)
+- change structure
+- .
+- empty (sofa)
+- marble table
+- Malore (off table), Zuuljedus (sofa edge out)
+- .
+- Malore: Excuse me, sorry for interuption.
+- Zuuljedus: (look Malore)... (it's Malore) Eh, Sir? (greet)
+- Malore: (accept greet) May I ask you a question for a minute?
+- Zuuljedus: Sure! What is it?
+- Malore: Are you the one behind the project called `CVR Stuffings`?
+- Zuuljedus: Yes! I am.
+- Malore: Oh!. I see. Well then technically by X0p1r4t3 culture, you are the leader for this project.
+- Zuuljedus: Betul!
+- Malore: Cool. I'm the vice of Archive & X0p1r4t3 filings, just to remind you.
+- Zuuljedus: Okay..!
+- Malore: One more thing.
+- Info: Download [Zuuljedus](https://github.com/Perkedel/After-Church/blob/master/RAW%20files/VRoid/Zuuljedus.vroid) Vroid. (c) Perkedel, CC4.0-BY-SA. Also, sampling note & prompt purpose, inspire her voice style from SodaFunkin Ch.
+- Zuuljedus: Yes? 
+- Malore: Why?
+- Zuuljedus: Oh.. coz I like... I like VR!
+- Malore: I see. I VR too. ... .. But why here though?
+- Zuuljedus: Huh?
+- Malore: I'm sorry. We're not supposed to judge, it's rude I know, I'm sorry. However. You know you're working with Unity? We all know Unity is already the worst idea of ever making contents here?
+- Gyouter: Whoa sir, watch your mouth.
+- Zuuljedus: I mean...
+- Malore: I hate to say this... But is there nothing we do here? Do we have mission, supposedly? uh.. I cannot say **Waste of time** that harsh here.
+- Gyouter: Okay, okay, listen. I know we've wasted our time. Especially we worked with Unity again, when we were supposed to go away with it.
+- Malore: Have you also convinced all of us?
+- Gyouter: Aargh.. well.. we tried. But Joel says proceed.
+- Malore: .... Ugh, Kaorfa, why the hell-
+- Gyouter: Yes yes, we're taking breaks right now. We promise, we'll later go back to [Hexagon Engine](https://github.com/Perkedel/HexagonEngine). ... Overseer (renamed to this), I mean. yeah.
+- Malore: (analyze if taking break from Godot is worthy despite ends to prickly Unity again) .. Okay, I understand. But only for that.
+- Zuuljedus: Of course. I promise, it shall only be for ChilloutVR, nothing more. I hate Unity, tbh.
+- Malore: Good. I was afraid we're going to be idiots again due to `Made with Unity` & no perma-buy.
+- Gyouter: Right, right. But first.. we must help Pinball Agung beforehand. Well.. they just called us, but feel free to help if you want.
+- Malore: What favor?
+- Gyouter: (it's that thing) Oh no..
+- Grevor: uuuh.. Do we say d'it?
+- Gyouter: (blow nose)...., Ugh man.. (wrap together along).. (cancel, handle the crowd first!) Wait. No. (analyzing way to handle crowd so no bad secret shared).... Ugh.. Well, follow me. (open portal to another scene)! (pull towards here over)!!, (close).
+- Info: X0p1r4t3 Research Facility. bring everyone including Zuuljedus. we are in position of front door. enter inside. now inside. talk while walking along the main hallway
+- Door closed!
+- Gyouter: Okay so.. This is kinda horrible to tell you. Because,.. Pinball Agung needs us to guard their process. It's baad, this time. To umm.. **Subscription**.
+- Malore: (surprised) Wait, What? Hold on. What the Fuck? Slow down!.
+- Gyouter: No it just.. Remove Ad Subcription. that's why we're asked to guard it, in case there is a wild gamer saw us doing that, we're doomed, be hated forever.
+- Malore: Alright what the hell is this? Subcription?? in apps to be submited to Joel, and published under his Play Console Account?!??!?!?
+- Gyouter: Uuh hold on, lemme give you context (right hand hold head & install telepathically the context)....
+- Info: It's about [Tebenge](https://play.google.com/store/apps/details?id=com.Perkedel.tebenge).
+- Malore: (got the context. The Ad is integrated part of the game)...
+- Gyouter: Yeah it's uh.. the game. That we're working on to recoup some money. I know it's failed, so let's ground research that instead. Apparently, Pinball Agung got message from Google, they need to update the app again because they intentionally block installation by Android 13 since that was last ago updated.
+- Malore: Ugh, what an Asshole. ... But still why Remove Ad subcription? I mean I've seen all games do infact permanent remove ad. Why us this one? Weird. Are we betraying ourselves?
+- Gyouter: hhmmmff, Kaorfa is very desperate right now. He's... no donation. If people permanently take off the ad, that's it. it's over. You got once, but that's it. And considering there'll be no clout somehow without buying & hiring some cheats.
+- Malore: Okay. Can't you just keep the ad? afaik, `hideAd()` function I think still keeps the ad runnning, right?
+- Gyouter: eeeh yeah. But it's forbidden by Sloantim. You're not allowed to ad in background, invisible ad is criminal offense. When customer buy remove ad, you must ensure that at least by startup that Advertisement Java code never run as it's set on Setting.
+- Malore: Huh damn it... and?
+- Gyouter: But no regulation if Remove Ad must be permanent or not.. soo... Go Website! (be like Website where ad remove is part of premium subscription), and *shit yourself*!
+- Malore: Oh cool. Fascinating.
+- Gyouter: Win win. no.. Win lose. But atleast it should keep that running. Customer forget, charge always! ... Wait If I think About it, that's asshole, but we're researching, no stop unless said so.
+- Malore: That (Customer forget kept charged no refund) also had no regulation?
+- Gyouter: Yess. .. I wish there is. but uh.. we'll see.
+- Malore: Yeah, just give me the result. I bet people will hate us all after this. Does clout matter here?
+- Gyouter: uuuh.. it's complicated. There are multiple dimension of matterness in clout. Idk which one that I must atleast keep from being down. Not even Kaorfa could figure out.
+- Malore: Okaey.....
+- Zuuljedus: Eh, guys. Aku pergi dulu guys! dadaa
+- *everyone*: dadaaa..
+- Gyouter: Great luck, God Bless you! She's a fascinating girl I tell you. Man, like to come back home now and see my wife.
+- Malore: Did you know, her boyfriend, [Panfesir](https://github.com/Perkedel/After-Church/blob/master/RAW%20files/VRoid/Panfesir.vroid), works with the mall. He's logistic guy. that Shipment port
+- Gyouter: oooh!
+- Grevor: Wow!..
+- Malore: Chief of Logistic. You know, outgoing deliveries when say people buy online, or maybe too big to carry? That's where it goes. Over thousands of trucks here back and forth 24/7. We're the busiest trade center in Dasandim. maybe also whole Sloantim.
+- Info: Think it like Tanah Abang or Roxy or whatever ITC to be, but extraterrestrial.
+- Grevor: Impressive. I shall one day revisit but to logistic.
+- Malore: Go ahead. Observe, just don't disturb, easy. All parts of the operation are smoke & vape free. It's criminal offense to do that. So you can fall asleep and wake up there. Na na, just kidding. Don't. not safe. It also sometimes had containers.
+- Grevor: Wait. **Whole sized shipping containers?**
+- Malore: Yess..
+- Grevor: Oh my God!
+- Malore: A special vehicle sometimes used to bring it in. after done, back it again to its truck outside.
+- Grevor: Wow, is this efficient?
+- Malore: We're trying to find ways. It'll be journey.
+- Grevor: Okay..
+- Malore: You know, you buy alot of stuffs from us. stores you buy from happens many of them to be here.
+- Grevor: Wait. most here?
+- Malore: Yes! Your name's known far and wide. You wanna visit our tenants, go ahead show yourself next time you be here.
+- Grevor: Wow. .. I am famous haha..! 🤣
+- .
+- .
+- don't foget Nubir Fongyeul! assistant during Wakturia days, before.
 
 ## sovania
 
