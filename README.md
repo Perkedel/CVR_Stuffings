@@ -1810,7 +1810,14 @@ Put this image onto some quads. This image is my promotion for gamers to check o
 - 2021 shader fix tutorial. add in `struct appdata` `UNITY_VERTEX_INPUT_INSTANCE_ID`
 - add to `struct v2f` `UNITY_VERTEX_OUTPUT_STEREO`
 - add to `v2f vert under v2f o;` `UNITY_SETUP_INSTANCE_ID(v);` *ENTER* `UNITY_INITIALIZE_VERTEX_OUTPUT_STEREO(o);  ` 
-- 
+- https://www.etsy.com/listing/1467609501/vtuber-witch-vroid-advance-rigging-w
+- https://vrm.dev/en/index.html
+- https://github.com/vrm-c/UniVRM
+- https://vrm.dev/en/licenses/1.0/
+- .
+- .
+- https://vrm.dev/en/vrm/vrm_applications.html
+- https://vrm.dev/en/univrm1/index.html
 
 ## sovania
 
