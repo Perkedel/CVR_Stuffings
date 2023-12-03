@@ -1956,11 +1956,12 @@ Put this image onto some quads. This image is my promotion for gamers to check o
 - Malore: Okaey.....
 - Zuuljedus: Eh, guys. Aku pergi dulu guys! dadaa
 - *everyone*: dadaaa..
+- Zuuljedus: (proceed went early ahead to her house)...
 - Gyouter: Great luck, God Bless you! She's a fascinating girl I tell you. Man, like to come back home now and see my wife.
-- Malore: Did you know, her boyfriend, [Panfesir](https://github.com/Perkedel/After-Church/blob/master/RAW%20files/VRoid/Panfesir.vroid), works with the mall. He's logistic guy. that Shipment port
+- Malore: Did you know, her boyfriend, [Panfesir](https://github.com/Perkedel/After-Church/blob/master/RAW%20files/VRoid/Panfesir.vroid), works with the mall. He's logistic guy. that Shipment ports at the edge of trading lobes.
 - Gyouter: oooh!
 - Grevor: Wow!..
-- Malore: Chief of Logistic. You know, outgoing deliveries when say people buy online, or maybe too big to carry? That's where it goes. Over thousands of trucks here back and forth 24/7. We're the busiest trade center in Dasandim. maybe also whole Sloantim.
+- Malore: Chief of Logistic. You know, outgoing deliveries when say people buy online, or maybe too big to carry? That's where it goes. pack it here, bring it there to ships, and sail it goes! or run it goes, since some vehicles are wheels. Over thousands of trucks, spaceships, & saucers here back and forth 24/7. We're the busiest trade center in Dasandim. maybe also whole Sloantim (cluster).
 - Info: Think it like Tanah Abang or Roxy or whatever ITC to be, but extraterrestrial.
 - Grevor: Impressive. I shall one day revisit but to logistic.
 - Malore: Go ahead. Observe, just don't disturb, easy. All parts of the operation are smoke & vape free. It's criminal offense to do that. So you can fall asleep and wake up there. Na na, just kidding. Don't. not safe. It also sometimes had containers.
@@ -1971,10 +1972,11 @@ Put this image onto some quads. This image is my promotion for gamers to check o
 - Grevor: Wow, is this efficient?
 - Malore: We're trying to find ways. It'll be journey.
 - Grevor: Okay..
-- Malore: You know, you buy alot of stuffs from us. stores you buy from happens many of them to be here.
+- Malore: You know, you buy alot of stuffs from us. stores you buy from, happens many of them to be here.
 - Grevor: Wait. most here?
-- Malore: Yes! Your name's known far and wide. You wanna visit our tenants, go ahead show yourself next time you be here.
+- Malore: Yes! Your name's known far and wide. You wanna visit our tenants, go ahead show yourself next time you be here. You're the hero, out of thousands of 'em.
 - Grevor: Wow. .. I am famous haha..! 🤣
+- Malore: Yep.
 - .
 - .
 - don't foget Nubir Fongyeul! assistant during Wakturia days, before.
