@@ -2001,6 +2001,9 @@ Put this image onto some quads. This image is my promotion for gamers to check o
 - https://docs.unity3d.com/Manual/class-VideoPlayer.html Unity has its own? wait. this is from 2022!
 - https://assetstore.unity.com/tools/video yikes, bro! they are very expensive!! you might wanna try optimize away from it those, I think.. or not, if that works well, idk..
 - https://github.com/BTK-Development/BTKUILib/wiki/Page
+- https://assetstore.unity.com/packages/tools/physics/puppetmaster-48977
+- https://github.com/SDraw/ml_mods_cvr/blob/master/ml_prm/README.md
+- https://github.com/BTK-Development/BTKUILib/wiki/Help-and-Hints
 
 ## sovania
 
