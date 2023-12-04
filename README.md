@@ -1980,6 +1980,18 @@ Put this image onto some quads. This image is my promotion for gamers to check o
 - .
 - .
 - don't foget Nubir Fongyeul! assistant during Wakturia days, before.
+- https://github.com/emilianavt/OpenSeeFace
+- https://github.com/emilianavt/VSeeFaceReleases no source code
+- https://www.vseeface.icu/#about
+- https://github.com/emilianavt
+- https://github.com/emilianavt/OpenSeeFaceSample
+- https://github.com/emilianavt/OpenSeeFaceSample
+- https://youtu.be/jhQ8DF87I5I
+- https://github.com/EtiTheSpirit/CVRLocalTools
+- https://github.com/kafeijao/Kafe_CVR_Mods/tree/master/TheClapper
+- https://github.com/SDraw/ml_mods_cvr
+- https://github.com/SDraw/ml_mods_cvr/blob/master/ml_prm/README.md
+- https://assetstore.unity.com/packages/tools/physics/puppetmaster-48977
 
 ## sovania
 
