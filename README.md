@@ -1992,6 +1992,15 @@ Put this image onto some quads. This image is my promotion for gamers to check o
 - https://github.com/SDraw/ml_mods_cvr
 - https://github.com/SDraw/ml_mods_cvr/blob/master/ml_prm/README.md
 - https://assetstore.unity.com/packages/tools/physics/puppetmaster-48977
+- https://renderheads.com/products/avpro-video/ CVR uses this
+- https://github.com/RenderHeads/UnityPlugin-AVProVideo/releases triale
+- https://assetstore.unity.com/packages/tools/video/avpro-video-core-edition-181844?aid=1101lcNgx FOUR FUCKING HUNDRED FUCKING BUCKS!??!?!??!?!? YOU FUCKING RICH MAN! I'M FUCKING PITIFUL TO YOU, YOU PAY THIS?!
+- Could've been better alternative huh?
+- https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp
+- https://github.com/SDraw
+- https://docs.unity3d.com/Manual/class-VideoPlayer.html Unity has its own? wait. this is from 2022!
+- https://assetstore.unity.com/tools/video yikes, bro! they are very expensive!! you might wanna try optimize away from it those, I think.. or not, if that works well, idk..
+- https://github.com/BTK-Development/BTKUILib/wiki/Page
 
 ## sovania
 
