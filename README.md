@@ -2007,6 +2007,8 @@ Put this image onto some quads. This image is my promotion for gamers to check o
 - https://www.lipsum.com/ generate the lorem ipsum
 - https://loremipsum.io/
 - https://github.com/eliemichel/LilySurfaceScraper
+- https://github.com/netri/Neitri-Unity-Shaders Pls install these
+- https://github.com/BlackStartx/VRC-Gesture-Manager
 
 ## sovania
 
