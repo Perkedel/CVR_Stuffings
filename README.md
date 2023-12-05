@@ -2004,6 +2004,9 @@ Put this image onto some quads. This image is my promotion for gamers to check o
 - https://assetstore.unity.com/packages/tools/physics/puppetmaster-48977
 - https://github.com/SDraw/ml_mods_cvr/blob/master/ml_prm/README.md
 - https://github.com/BTK-Development/BTKUILib/wiki/Help-and-Hints
+- https://www.lipsum.com/ generate the lorem ipsum
+- https://loremipsum.io/
+- https://github.com/eliemichel/LilySurfaceScraper
 
 ## sovania
 
