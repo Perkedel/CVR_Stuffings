@@ -84,6 +84,7 @@ Below are assets that are not included and **must be installed prior of usage an
 - [Hard Surface metal TIFF File from 3D Effect Pack Free](https://assetstore.unity.com/packages/p/3d-games-effects-pack-free-42285). **Exceeded over 100 MB**.
 - [RED_SIM Perfect Water Shader](https://www.patreon.com/posts/32255294/). **Paywalled**. Instead, [this partialized free version](https://www.patreon.com/posts/32252234) included.
 - [RED_SIM XMAS Lights](https://www.patreon.com/posts/xmas-lights-full-32033307). **Paywalled**. Instead, [this partialized free version](https://www.patreon.com/posts/xmas-lights-32030551) included.
+- [VRA-05 `Morph`](https://gh0stt.gumroad.com/l/morph). **Paywalled**. Instead, [this partialized free version](https://gh0stt.gumroad.com/l/morph) included.
 
 <!-- Pls include all free but CCK, to backup! -->
 > ~~Some packages (e.g. `.unitypackage` extracted) are included for ***convenience***~~ All $0 & Redistribution allowed licensed `.unitypackage`s are included.  
@@ -2018,6 +2019,26 @@ Put this image onto some quads. This image is my promotion for gamers to check o
 - `fixed2 ScrollingUV = i.uv;`
 - `ScrollingUV.x += ((_Time.y * 2.0) % 1.0);`
 - `return tex2D(_MainTex, ScrollingUV);`
+- https://github.com/moonvrc/MoonGestureHUD
+- https://github.com/moonvrc/MoonGestureHUD
+- https://juzovr.gumroad.com/l/PMD
+- https://github.com/Lachee/Unity-Package-Exporter
+- https://tori-nyan.booth.pm/
+- https://rollthered.booth.pm/ remember install!
+- https://github.com/CyanLaser/CyanTrigger/
+- https://cyanlaser.booth.pm/
+- https://crontab.guru/every-minute
+- https://meyavapor.gumroad.com/l/rbcnl?ref=jinxxy GONE. ugh, motherfucker!
+- https://discord.com/invite/Fatf35UjNu wait.. that's gone too.
+- where should I vent?
+- https://gh0stt.gumroad.com/ Morph has heartbeat cardiophilia, pls install cardiophilia!
+- we have to research first!
+- https://www.tumblr.com/joelwindows7/735892205592526848/boy-would-you-look-at-that
+- pls Haggets Slugcats
+- https://www.reddit.com/r/rainworld/comments/14r4zi6/slugcat_rigs/
+- https://haggets.gumroad.com/l/slugcat
+- `\u2022`
+- steam://openurl_external/https://steamcommunity.com/linkfilter/?u=https%3A%2F%2Fvroid.com%2Fstudio
 
 ## sovania
 
