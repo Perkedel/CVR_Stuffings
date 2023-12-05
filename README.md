@@ -242,6 +242,7 @@ Here are the UUIDs of all these assets we uploaded to CVR:
 - `2f14fd53-2850-43b9-91f0-132d3f2db2bc` (**NOT PERKEDEL**) Writhe. JillTheSomething.
 - `11a92064-d9d1-4f6b-91a0-845c78952659` (**NOT PERKEDEL**) Pool House. JillTheSomething.
 - `0b038da9-1a2a-4c25-88bb-b5047d682a8d` (**NOT PERKEDEL**) SpaceHey. Root, uploaded by JillTheSomething.
+- `a15e207e-daac-4cea-a02f-13870cb14052` (**NOT PERKEDEL**) Spawn Mover Demo. NovaVoidHowl.
 
 ### Props
 
@@ -2009,6 +2010,14 @@ Put this image onto some quads. This image is my promotion for gamers to check o
 - https://github.com/eliemichel/LilySurfaceScraper
 - https://github.com/netri/Neitri-Unity-Shaders Pls install these
 - https://github.com/BlackStartx/VRC-Gesture-Manager
+- https://discord.com/channels/762908352493256714/852255396994744320/1160371522754588682
+- https://rollthered.booth.pm/ jackpot
+- https://booth.pm/en/items/3932436
+- https://discord.com/channels/762908352493256714/852255396994744320/1160685753035149394 Lunar Void SPS-I shader for RollTheRed's PinArt 
+- https://discord.com/channels/762908352493256714/852255396994744320/1162832196512518214
+- `fixed2 ScrollingUV = i.uv;`
+- `ScrollingUV.x += ((_Time.y * 2.0) % 1.0);`
+- `return tex2D(_MainTex, ScrollingUV);`
 
 ## sovania
 
