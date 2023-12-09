@@ -233,6 +233,7 @@ Here are the UUIDs of all these assets we uploaded to CVR:
 - `604d2db5-93b4-4511-8b53-a66e16cc6325` NSFW CornSyrup Test Area
 - `6055a6c3-e589-45dc-a2c2-5de2d83ae449` Moving Spawns
 - `dd4303c8-3f5c-4fed-9d37-21e8836310e3` iPoly3D Low Poly Server Room
+- `d55da2f2-6349-4558-ad6e-f74ce92945af` Minimum World
 - `3fe2b7c3-129a-418e-87ad-c3931657f843` (**NOT PERKEDEL**) UCC Cinema. MilchZocker
 - `af0f00bc-0702-46ce-9441-bcce0ad6c813` (**NOT PERKEDEL**) UCC Avatars. MilchZocker
 - `9d0677a5-b88f-4994-901b-7b91c99e8cd8` (**NOT PERKEDEL**) UCC Bird Island. MilchZocker
@@ -2039,6 +2040,49 @@ Put this image onto some quads. This image is my promotion for gamers to check o
 - https://haggets.gumroad.com/l/slugcat
 - `\u2022`
 - steam://openurl_external/https://steamcommunity.com/linkfilter/?u=https%3A%2F%2Fvroid.com%2Fstudio
+- https://vroid.com
+- .
+- Drink Dice!
+- 1 = `Tidak minum` `No drink`
+- 2 = `Seteguk` `Sipp`
+- 3 = `Sepuasnya` `At will`
+- 4 = `Setengah` `Half cup`
+- 5 = `Habiskan` `Bottoms up`
+- 6 = `2 gelas` `2 cups`
+- .
+- Sex Dice! Body parts
+- 1 = `Mulut` `Mouth`
+- 2 = `Dada` `Chest`
+- 3 = `Perut` `Belly`
+- 4 = `Paha` `Thigh`
+- 5 = `Selangkang` `Crotch`
+- 6 = `Leher` `Neck`
+- .
+- Sex Dice! Actions
+- 1 = `Sentuh` `Touch`
+- 2 = `Jilat` `Lick`
+- 3 = `Gosok` `Rub`
+- 4 = `Hisap` `Blow`
+- 5 = `Sedot` `Suck`
+- 6 = `Crot` `Cum`
+- .
+- https://github.com/jll123567/VR-Content Do not forget check update. I'm sorry did not respond to DM because I've been used to receive alot of spam scammers.
+- https://github.com/VRLabs/Avatars-3.0-Manager
+- https://github.com/NotAKidOnSteam/SimpleAAS
+- http://hitl.washington.edu/vrml/archive
+- https://web.archive.org/web/20230914064411/https://www.hitl.washington.edu/vrml/archive/
+- https://web.archive.org/web/20230914064424/https://www.hitl.washington.edu/vrml/
+- https://web.archive.org/web/20100706184349/http://www.hitl.washington.edu/vrml/gallery/
+- https://web.archive.org/web/20100707181237/http://www.hitl.washington.edu/vrml/
+- https://web.archive.org/web/20100709122028/http://www.hitl.washington.edu/vrml/notebook/index.html
+- https://web.archive.org/web/20100709115625/http://www.hitl.washington.edu/vrml/polyshop/
+- https://web.archive.org/web/20100706101231/http://www.hitl.washington.edu/vrml/greenspace/
+- https://web.archive.org/web/20230914064424/https://www.hitl.washington.edu/vrml/
+- http://hitl.washington.edu/
+- https://web.archive.org/web/20100709132608/http://www.hitl.washington.edu/vrml/cedes/
+- https://web.archive.org/web/20100713205700/http://www.hitl.washington.edu/vrml/caup
+- https://web.archive.org/web/20100709122505/http://www.hitl.washington.edu/vrml/notebook/
+- https://web.archive.org/web/20100707170611/http://www.hitl.washington.edu/projects/knowledge_base/vrm.html
 
 ## sovania
 
