@@ -2087,7 +2087,26 @@ Put this image onto some quads. This image is my promotion for gamers to check o
 - https://github.com/natemoo-re/astro-icon#readme
 - https://jillthesomething.tumblr.com/ Jill's tumblr confirmed
 - https://joelwindows7.tumblr.com/
-- 
+- https://hrtovrchat.fortnite.lol/setup/neos
+- neosrec:///U-200Tigersbloxed/R-a0b4c47e-5048-4cfc-a0be-f520c5d55b59
+- https://github.com/200Tigersbloxed/HRtoVRChat_OSC/blob/main/AvatarSetup.md
+- https://vimeo.com/697202508
+- https://github.com/200Tigersbloxed/HRtoVRChat_OSC
+- https://vimeo.com/678939624
+- https://gist.github.com/200Tigersbloxed/6c5798cb959b8073deaf5d6a3c17454f
+- https://booth.pm/en/items/3087170
+- https://booth.pm/en/items/3206716
+- https://booth.pm/en/items/3206716
+- https://github.com/whiteflare/Unlit_WF_ShaderSuite
+- https://tips.hecomi.com/entry/2021/07/24/121420
+- https://booth.pm/en/items/1026956
+- https://booth.pm/en/items/1489411
+- https://booth.pm/en/items/1484117
+- https://gend-vrchat.booth.pm/ has sleep idle animation
+- https://booth.pm/en/items/2645962 PAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAID
+- https://peachyboba.gumroad.com/
+- you gamers shut up with KYC!! ... Oh.. not just you. companies too under.., `Guest list`.. SHU-
+- https://littlesaku.gumroad.com/l/wzigdd?layout=profile **NO PUBLIC ALLOWED?!**, YO-
 
 ## sovania
 
