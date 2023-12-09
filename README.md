@@ -2085,6 +2085,9 @@ Put this image onto some quads. This image is my promotion for gamers to check o
 - https://web.archive.org/web/20100707170611/http://www.hitl.washington.edu/projects/knowledge_base/vrm.html
 - https://github.com/jll123567/VR-Content/tree/main/CVRAnimatorTemplates
 - https://github.com/natemoo-re/astro-icon#readme
+- https://jillthesomething.tumblr.com/ Jill's tumblr confirmed
+- https://joelwindows7.tumblr.com/
+- 
 
 ## sovania
 
