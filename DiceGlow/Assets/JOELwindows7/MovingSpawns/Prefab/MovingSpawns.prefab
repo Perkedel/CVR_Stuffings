@@ -13,6 +13,7 @@ GameObject:
   - component: {fileID: 3083484067421189152}
   - component: {fileID: 566690611987129840}
   - component: {fileID: 1034788193585380862}
+  - component: {fileID: 2074554560796526289}
   m_Layer: 0
   m_Name: FloorAgain
   m_TagString: Untagged
@@ -113,6 +114,20 @@ MonoBehaviour:
   material: {fileID: 11400000, guid: a086f686223eed942816c70be67841b0, type: 2}
   exportAllChildren: 0
   terrainSimplificationLevel: 0
+--- !u!114 &2074554560796526289
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 38814142786390205}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4d5101e7f108ab74bb2f98b5203dfce3, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  orientationMode: 1
+  velocityInheritance: 1
 --- !u!1 &150662977141208752
 GameObject:
   m_ObjectHideFlags: 0
@@ -449,6 +464,7 @@ GameObject:
   - component: {fileID: 2630699211729624323}
   - component: {fileID: 3329597379951875574}
   - component: {fileID: 1095220346147640638}
+  - component: {fileID: 1560235815405668771}
   m_Layer: 0
   m_Name: Pleng
   m_TagString: Untagged
@@ -549,6 +565,20 @@ MonoBehaviour:
   material: {fileID: 11400000, guid: a086f686223eed942816c70be67841b0, type: 2}
   exportAllChildren: 0
   terrainSimplificationLevel: 0
+--- !u!114 &1560235815405668771
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2940898626199396351}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4d5101e7f108ab74bb2f98b5203dfce3, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  orientationMode: 1
+  velocityInheritance: 1
 --- !u!1 &2998893812580476944
 GameObject:
   m_ObjectHideFlags: 0
@@ -565,6 +595,7 @@ GameObject:
   - component: {fileID: 34653153442680663}
   - component: {fileID: 8353170439322930682}
   - component: {fileID: 5345683613290335655}
+  - component: {fileID: 1423407404674516923}
   m_Layer: 0
   m_Name: Poling
   m_TagString: Untagged
@@ -766,6 +797,20 @@ MonoBehaviour:
   animatorParameters:
   - -none-
   animatorParameterType: 02000000
+--- !u!114 &1423407404674516923
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2998893812580476944}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4d5101e7f108ab74bb2f98b5203dfce3, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  orientationMode: 1
+  velocityInheritance: 1
 --- !u!1 &3438694460475269591
 GameObject:
   m_ObjectHideFlags: 0
@@ -1033,6 +1078,104 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   orientationMode: 1
   velocityInheritance: 1
+--- !u!1 &4312349382454691063
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8032378917324074467}
+  - component: {fileID: 1945682983036070454}
+  - component: {fileID: 7188199367830649747}
+  - component: {fileID: 2162173764612341497}
+  m_Layer: 0
+  m_Name: TutorialMovementParent
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8032378917324074467
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4312349382454691063}
+  m_LocalRotation: {x: 0, y: 1, z: 0, w: 0}
+  m_LocalPosition: {x: 12.25, y: 2.5, z: -24.5}
+  m_LocalScale: {x: 8, y: 4.5, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 1081458142901204597}
+  m_RootOrder: 21
+  m_LocalEulerAnglesHint: {x: 0, y: 180, z: 0}
+--- !u!33 &1945682983036070454
+MeshFilter:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4312349382454691063}
+  m_Mesh: {fileID: 10210, guid: 0000000000000000e000000000000000, type: 0}
+--- !u!23 &7188199367830649747
+MeshRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4312349382454691063}
+  m_Enabled: 1
+  m_CastShadows: 1
+  m_ReceiveShadows: 1
+  m_DynamicOccludee: 1
+  m_StaticShadowCaster: 0
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 2
+  m_RayTraceProcedural: 0
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 2100000, guid: 89e7d1992db472346987216e4f962aaa, type: 2}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 1
+  m_SelectedEditorRenderState: 3
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+  m_AdditionalVertexStreams: {fileID: 0}
+--- !u!64 &2162173764612341497
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4312349382454691063}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 4
+  m_Convex: 0
+  m_CookingOptions: 30
+  m_Mesh: {fileID: 10210, guid: 0000000000000000e000000000000000, type: 0}
 --- !u!1 &4563394136997128639
 GameObject:
   m_ObjectHideFlags: 0
@@ -1083,6 +1226,7 @@ Transform:
   - {fileID: 6116021788719672304}
   - {fileID: 380802219413693299}
   - {fileID: 7294940126471650335}
+  - {fileID: 8032378917324074467}
   m_Father: {fileID: 5331198331890088385}
   m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -1863,13 +2007,14 @@ GameObject:
   - component: {fileID: 6748128050598019624}
   - component: {fileID: 4520192656739386861}
   - component: {fileID: 6474103076331050147}
+  - component: {fileID: 3980603420082980358}
   m_Layer: 0
   m_Name: ParentMover (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &6748128050598019624
 Transform:
   m_ObjectHideFlags: 0
@@ -1912,6 +2057,83 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   orientationMode: 1
   velocityInheritance: 1
+--- !u!114 &3980603420082980358
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6932340017667479464}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a45fb99111d54dba84a8ff33016b93fd, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  tooltip: 
+  actions:
+  - delay: 0
+    operations:
+    - type: 21
+      targets:
+      - {fileID: 0}
+      floatVal: 0
+      stringVal: 
+      stringVal2: 
+      stringVal3: 
+      stringVal4: 
+      boolVal: 0
+      boolVal2: 0
+      gameObjectVal: {fileID: 0}
+      floatVal2: 0
+      floatVal3: 0
+      floatVal4: 0
+      varBufferVal: {fileID: 0}
+      varBufferVal2: {fileID: 0}
+      varBufferVal3: {fileID: 0}
+      animationVal: {fileID: 0}
+      customEvent:
+        m_PersistentCalls:
+          m_Calls:
+          - m_Target: {fileID: 6932340017667479464}
+            m_TargetAssemblyTypeName: 
+            m_MethodName: 
+            m_Mode: 1
+            m_Arguments:
+              m_ObjectArgument: {fileID: 0}
+              m_ObjectArgumentAssemblyTypeName: 
+              m_IntArgument: 0
+              m_FloatArgument: 0
+              m_StringArgument: 
+              m_BoolArgument: 0
+            m_CallState: 2
+    actionType: 5
+    execType: 1
+    layerMask:
+      serializedVersion: 2
+      m_Bits: 0
+    floatVal: 0
+    floatVal2: 0
+    floatVal3: 0
+    boolVal: 0
+    varBufferVal: {fileID: 0}
+    varBufferVal2: {fileID: 0}
+    stringVal: 
+    allowedPointer: []
+    allowedPointerCollapse: 0
+    allowedTypes: []
+    allowedTypesCollapse: 0
+    specificParticleSystems: []
+    specificParticleSystemsCollapse: 0
+    interactionFilter: 0
+    interactionInput: 48
+    interactionInputModifier: 0
+    guid: 
+  onEnterSeat:
+    m_PersistentCalls:
+      m_Calls: []
+  onExitSeat:
+    m_PersistentCalls:
+      m_Calls: []
 --- !u!1 &6951570588950940190
 GameObject:
   m_ObjectHideFlags: 0
@@ -2113,6 +2335,7 @@ GameObject:
   - component: {fileID: 6848037570567403751}
   - component: {fileID: 7256759749037867555}
   - component: {fileID: 1503291346735777363}
+  - component: {fileID: 6346343273667706707}
   m_Layer: 0
   m_Name: Floor
   m_TagString: Untagged
@@ -2213,6 +2436,20 @@ MonoBehaviour:
   material: {fileID: 11400000, guid: a086f686223eed942816c70be67841b0, type: 2}
   exportAllChildren: 0
   terrainSimplificationLevel: 0
+--- !u!114 &6346343273667706707
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8201440078158928136}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4d5101e7f108ab74bb2f98b5203dfce3, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  orientationMode: 1
+  velocityInheritance: 1
 --- !u!1 &8204054240637628338
 GameObject:
   m_ObjectHideFlags: 0
@@ -2226,6 +2463,7 @@ GameObject:
   - component: {fileID: 53375289171372955}
   - component: {fileID: 2421312701298220619}
   - component: {fileID: 6255992813784883747}
+  - component: {fileID: 6893116231679447590}
   m_Layer: 0
   m_Name: FloorAgain (1)
   m_TagString: Untagged
@@ -2326,6 +2564,20 @@ MonoBehaviour:
   material: {fileID: 11400000, guid: a086f686223eed942816c70be67841b0, type: 2}
   exportAllChildren: 0
   terrainSimplificationLevel: 0
+--- !u!114 &6893116231679447590
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8204054240637628338}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4d5101e7f108ab74bb2f98b5203dfce3, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  orientationMode: 1
+  velocityInheritance: 1
 --- !u!1 &8557849457145921160
 GameObject:
   m_ObjectHideFlags: 0
@@ -2455,8 +2707,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: -180, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0, y: 11.25}
-  m_SizeDelta: {x: 45.7, y: 12.12}
+  m_AnchoredPosition: {x: 0, y: 13.5}
+  m_SizeDelta: {x: 45.7, y: 17.51}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!23 &8224411048378774392
 MeshRenderer:
@@ -2520,27 +2772,16 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: 'Moving Spawns
-
-    <size=10><color=red><b>Experiment Failed</b></color>
-
-    Attempted
-    to move the spawn with it & how VR Player Controller behave on moving platform
-
-
-    <size=5>by
-    JOELwindows7
-
-    Perkedel Technologies
-
-    My Codes = GNU GPL v3
-
-    My Assets
-    = CC4.0-BY-SA
-
-    </size>
-
-    </size>'
+  m_text: "Moving Spawns\n<size=10><color=green><b>Experiment WORKS</b></color>\nAttempted
+    to move the spawn with it & how VR Player Controller behave on moving platform\n\nPlace
+    <color=green>CVR Movement Parent</color> component on these moving floors. It
+    works with solid collider. <color=#FFAA00>Players only</color>! Can easily disengage
+    by jumping off the floor.\n\n(World: <color=green>Murder Mountain Ski Resort</color>)
+    Next time, nyankee, you should've told us how did you make the player stick to
+    the sled when we stood on it. seriously!!! <b>TUTORIAL PLS!!!</b> thancc. <color=red>Not
+    just on Discord, I missed it!! We would.</color> yeah. basically it.\n\nAlright,
+    sorry, no biggie to anyone. Who said we biggie? NO! no biggie! Be cool. \n\n<size=5>by
+    JOELwindows7\nPerkedel Technologies\nMy Codes = GNU GPL v3\nMy Assets = CC4.0-BY-SA\n</size>\n</size>"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -2603,7 +2844,7 @@ MonoBehaviour:
   m_VertexBufferAutoSizeReduction: 0
   m_useMaxVisibleDescender: 1
   m_pageToDisplay: 1
-  m_margin: {x: 0, y: 0, z: 0, w: 0}
+  m_margin: {x: 0, y: -3.228428, z: 0, w: 0}
   m_isUsingLegacyAnimationComponent: 0
   m_isVolumetricText: 0
   _SortingLayer: 0

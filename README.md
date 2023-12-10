@@ -1639,7 +1639,7 @@ Put this image onto some quads. This image is my promotion for gamers to check o
 - https://www.reddit.com/r/ChilloutVRERP/comments/17euzfp/wheres_the_discord_link/
 - https://www.reddit.com/r/ChilloutVRERP/comments/w9vnzy/rchilloutvrerp_lounge/
 - https://assetstore.unity.com/packages/3d/props/electronics/web-camera-164934 eyho webcam
-- https://assetstore.unity.com/packages/3d/props/electronics/hq-laptop-computer-42030
+- https://assetstore.unity.com/packages/3d/props/electronics/hq-laptop-computer-42030 aha HQ Laptop
 - https://assetstore.unity.com/packages/3d/props/tools/office-knife-89088
 - https://assetstore.unity.com/packages/audio/music/electronic/enormous-8bit-sounds-pack-174689
 - https://assetstore.unity.com/packages/3d/props/electronics/hq-laptop-computer-42030
@@ -2111,6 +2111,33 @@ Put this image onto some quads. This image is my promotion for gamers to check o
 - https://jinxxy.com/Little_Saku_/listings
 - https://payhip.com/b/hvLZM SERIOUSLY?!??!? NSFW PART PAYWALLED!??!?!?
 - https://cupkakestore.gumroad.com/ IMPOSING LIMITED MODELS?!??!
+- .
+- .
+- .
+- Hey, they've told they gotta move right? why stay? who threw the blame to the owners? oh. oh shit. oh no. They're being presurred by their own filings.
+- Hey can you bring them here for a while until we found a new planet for them? thancc.
+- .
+- .
+- .
+- Sir, X0p1r4t3 is very strict in housing rules. you from Wakturia better be quick find them place.
+- .
+- .
+- .
+- create a small pray rooms. Designed for use either Christian or Islam sessions. in it there is 2 types of seating you can switch: Carpet & Chairs. There is also Qibla arrow for those religion that prays pointing it. The Qibla will points to Mekka virtually, from Germany at CVR dimension. There is a mimbar for the priest or ustad to put Bible, or Al-Quran, & other presentation materials during sermon. This room **may only be allowed to be placed if the world is SFW**.
+- .
+- .
+- .
+- .
+- https://cupkake.store/pages/terms-of-server-terms-of-use dah lah, capek gue.
+- https://cupkakestore.gumroad.com/
+- https://0ctal.gumroad.com/
+- https://sfmlab.com/project/29591/
+- https://sfmlab.com/user/144352/
+- https://s1nnerf0x.gumroad.com/l/raventeamleader
+- https://s1nnerf0x.gumroad.com/
+- https://zoidberg656.gumroad.com/
+- https://milanaroseta.gumroad.com/
+- https://skfb.ly/ovUrC paid tau
 
 ## sovania
 
