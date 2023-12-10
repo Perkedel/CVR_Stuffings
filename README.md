@@ -2138,6 +2138,14 @@ Put this image onto some quads. This image is my promotion for gamers to check o
 - https://zoidberg656.gumroad.com/
 - https://milanaroseta.gumroad.com/
 - https://skfb.ly/ovUrC paid tau
+- https://github.com/VoyVivika/VivikaShader NEW UPDATE!!!
+- https://skullyhellfire.gumroad.com/l/skullysmurdoc
+- https://skullyhellfire.gumroad.com/
+- From 7.1ch World test by Towneh, we had
+- https://vrcdn.video/towneh/8525f9c706d438055cd985d56369b952.mp4
+- https://vrcdn.video/towneh/a6ee609b58816d4eb6d455fef6fe2499.mp4
+- https://cdn.discordapp.com/attachments/992448795109511188/1010740459410300988/7.1Setup.wav
+- https://cdn.discordapp.com/attachments/992448795109511188/1010738209900199946/310_To_Yuma_Clip_1080p23.976_PCM_7.1.mov
 
 ## sovania
 

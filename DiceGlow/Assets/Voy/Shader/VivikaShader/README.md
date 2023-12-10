@@ -17,20 +17,13 @@ This Shader only officially supports the Unity Built-in Render Pipeline, it does
 	- UV Based Delay
 		- Three Modes
 			- Off (None at all)
-			- UV Vertial (From the Top of the UV Map to the Bottom)
+			- UV Vertical (From the Top of the UV Map to the Bottom)
 			- Distance (Distance out from a Position)
 		- This uses UV Map 3 on your Model
-- UV Based Vertex Discarding
+- Vertex UV Tile Discard
 	- Discards Verticies within Certain UV Coordinates
 	- This uses UV Map 2 on your Model
-	- Two Types
-		- Vertex UV Tile Discard
-			- This Treats UV Coordinates like Tiles (U 1.0 to 2.0, V 1.0 to 2.0 is considered Tile 1, 1)
-		- Vertex UV Range Discard
-			- This will Discard Verticies within a Specified UV Range.
-			- This uses a Vector 4
-				- X and Y are the Starting UVs (Example: 1.0, 1.0)
-				- Z and W are the Ending UVs (Example: 2.0, 2.0)
+	- This Treats UV Coordinates like Tiles (U 1.0 to 2.0, V 1.0 to 2.0 is considered Tile 1, 1)
 - Video Player Decal
 	- Supports both ChilloutVR & VRChat in Select Worlds
 		- in VRChat, Worlds with Newer Versions of ProTV
@@ -42,15 +35,19 @@ This Shader only officially supports the Unity Built-in Render Pipeline, it does
 				3. Drag and Drop the Render Texture being used by a `CVR Video Player` Components
 				4. Set the Property Name to `_Udon_VideoTex`
 - Rim Lighting
-- 3 Lighting Types
+- 2 Lighting Types
 	- Standard (Acts like Unity Standard Shader)
-	- Toon (Stylized Lighting, may be buggy, deprecated, replaced by wrapped)
 	- Wrapped (A Less Realistic Lighting Mode with the intent of having less harsh, smoother, flatter lighting.)
 ### MultiMap
 MultiMap is a Texture which contains multiple maps in a Single RGB Texture intended for use with DXT1 Encoded Textures
 Currently the Spec for the Divorce Shader Multi-Map is
 - Red Channel = Metalic
 - Green Channel = Smoothness
+### UV Map Uses
+This Shader has Features which use different UV Maps for Different Purposes. These are:
+1. Used for Rendering
+2. Used for UV Tile Discarding
+3. Used for AudioLink UV Based Delay
 ### Texture Ramp (Toon Lighting)
 - Left is Darkest, Right is Lightest
 - For best results on your Texture Ramp switch the Wrap Mode from "Repeat" to "Clamp"
