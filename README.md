@@ -383,7 +383,7 @@ Alternatively for now, have a script that control this `AudioLinkController`, to
 
 BUG REPORT: https://feedback.abinteractive.net/p/youtube-dl-sometimes-did-not-ship-with-it-video-player-does-not-work-on-some-people
 
-![Log found using Mod: MelonLoader, CVRLogger++. ChilloutVR is unable to find the software needed to download the video, which is `youtube-dl`.](/DiceGlow/Assets/Sprites/Screenshots/cvr_uses_youtube-dl.png)
+![Log found using Mod: MelonLoader, CVRLogger++. ChilloutVR is unable to find the software needed to download the video, which is `youtube-dl`.](/DiceGlow/Assets/JOELwindows7/_CORE/Sprites/Screenshots/cvr_uses_youtube-dl.png)
 
 ChilloutVR uses [`youtube-dl`](https://github.com/ytdl-org/youtube-dl) to download the video, and then either with Network Sync to broadcast the playback, or locally play depending on that GameObject video player component setting right now. The part that plays the video is powered by AVPro. Somehow, the `youtube-dl` either **did not shipped with**, OR had obvious permission trouble (i.e. `Program Files` folders have strict permissions).
 
@@ -393,7 +393,7 @@ Pick just the regular [`yt-dlp.exe`](https://github.com/yt-dlp/yt-dlp#release-fi
 
 Now, try again. If your log says `killing youtube-dl timeout`, try re-pasting the URL again to try load again. It should work now. When it successful, the log should say something about **AVPro playback broadcasting**.
 
-![IT WORKS!!! The video now plays TheFatRat Hunger!!!](/DiceGlow/Assets/Sprites/Screenshots/cvr_youtube_works.png)
+![IT WORKS!!! The video now plays TheFatRat Hunger!!!](/DiceGlow/Assets/JOELwindows7/_CORE/Sprites/Screenshots/cvr_youtube_works.png)
 
 - https://github.com/ytdl-org/youtube-dl
 - https://www.reddit.com/r/archlinux/comments/119hsoj/stop_using_youtubedl_and_use_ytdlp_instead/
