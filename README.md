@@ -399,7 +399,7 @@ Now, try again. If your log says `killing youtube-dl timeout`, try re-pasting th
 - https://www.reddit.com/r/archlinux/comments/119hsoj/stop_using_youtubedl_and_use_ytdlp_instead/
 - https://www.reddit.com/r/youtubedl/comments/mh51mc/out_of_curiosity_how_does_youtubedl_work/
 - https://ytdl-org.github.io/youtube-dl/
-- https://openjur.de/u/2466945.html 🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕
+- https://openjur.de/u/2466945.html 🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕 
 - ~~https://youtube-dl.org/~~ brogen
 - https://github.com/yt-dlp/yt-dlp **NEW**
 
