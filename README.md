@@ -248,17 +248,17 @@ Here are the UUIDs of all these assets we uploaded to CVR:
 | `6055a6c3-e589-45dc-a2c2-5de2d83ae449` | Moving Spawns | JOELwindows7 | . |
 | `dd4303c8-3f5c-4fed-9d37-21e8836310e3` | iPoly3D Low Poly Server Room | JOELwindows7 | . |
 | `d55da2f2-6349-4558-ad6e-f74ce92945af` | Minimum World | JOELwindows7 | . |
-| `3fe2b7c3-129a-418e-87ad-c3931657f843` | (**NOT PERKEDEL**) UCC Cinema | MilchZocker | . |
-| `af0f00bc-0702-46ce-9441-bcce0ad6c813` | (**NOT PERKEDEL**) UCC Avatars | MilchZocker | . |
-| `9d0677a5-b88f-4994-901b-7b91c99e8cd8` | (**NOT PERKEDEL**) UCC Bird Island | MilchZocker | . |
-| `bc8f15fa-8f6b-42b5-8096-8b3058345e98` | (**NOT PERKEDEL**) UCC Hub. MilchZocker | . |
-| ~~`9a7d706f-a70e-4e7f-a301-406f25e509b3`~~ | (**NOT PERKEDEL**) DomNomNomVR's ~~AudioLink Samples~~ Wrong AL world | DomNomNomVR | **NOTE: UUID mismatch into `TEST Audio Link`! World is not same as seemingly identical `AudioLink Example`!!** |
-| `b98f304c-e1e0-410d-a6c3-cfcb15c7c087` | (**NOT PERKEDEL**) DomNomNomVR's AudioLink Samples | DomNomNomVR. **NOTE: This is the correct UUID** | . |
-| `9cb2b515-eee3-4258-8c3d-108ccfc5d299` | (**NOT PERKEDEL**) Madvicius' Old Anime world | Madvicius | . |
-| `2f14fd53-2850-43b9-91f0-132d3f2db2bc` | (**NOT PERKEDEL**) Writhe | JillTheSomething | . |
-| `11a92064-d9d1-4f6b-91a0-845c78952659` | (**NOT PERKEDEL**) Pool House | JillTheSomething | . |
-| `0b038da9-1a2a-4c25-88bb-b5047d682a8d` | (**NOT PERKEDEL**) SpaceHey | Root (uploaded by JillTheSomething on behalf) | . |
-| `a15e207e-daac-4cea-a02f-13870cb14052` | (**NOT PERKEDEL**) Spawn Mover Demo | NovaVoidHowl | . |
+| `3fe2b7c3-129a-418e-87ad-c3931657f843` | UCC Cinema | MilchZocker | (**NOT PERKEDEL**) |
+| `af0f00bc-0702-46ce-9441-bcce0ad6c813` | UCC Avatars | MilchZocker | (**NOT PERKEDEL**) |
+| `9d0677a5-b88f-4994-901b-7b91c99e8cd8` | UCC Bird Island | MilchZocker | (**NOT PERKEDEL**) |
+| `bc8f15fa-8f6b-42b5-8096-8b3058345e98` | UCC Hub. MilchZocker | (**NOT PERKEDEL**) |
+| ~~`9a7d706f-a70e-4e7f-a301-406f25e509b3`~~ | ~~DomNomNomVR's AudioLink Samples~~ | DomNomNomVR | (**NOT PERKEDEL**) **NOTE: WRONG AL WORLD!!! UUID mismatch into `TEST Audio Link`! World is not same as seemingly identical `AudioLink Example`!!** |
+| `b98f304c-e1e0-410d-a6c3-cfcb15c7c087` | DomNomNomVR's AudioLink Samples | DomNomNomVR | (**NOT PERKEDEL**) **NOTE: This is the correct UUID** |
+| `9cb2b515-eee3-4258-8c3d-108ccfc5d299` | Madvicius' Old Anime world | Madvicius | (**NOT PERKEDEL**) |
+| `2f14fd53-2850-43b9-91f0-132d3f2db2bc` | Writhe | JillTheSomething | (**NOT PERKEDEL**) |
+| `11a92064-d9d1-4f6b-91a0-845c78952659` | Pool House | JillTheSomething | (**NOT PERKEDEL**) |
+| `0b038da9-1a2a-4c25-88bb-b5047d682a8d` | SpaceHey | Root (uploaded by JillTheSomething on behalf) | (**NOT PERKEDEL**) |
+| `a15e207e-daac-4cea-a02f-13870cb14052` | Spawn Mover Demo | NovaVoidHowl | (**NOT PERKEDEL**) |
 
 ### Props
 
@@ -319,19 +319,19 @@ Here are the UUIDs of all these assets we uploaded to CVR:
 | `2d106677-d4d3-4671-b960-fa0c6dda30a1` | A Failed Car | JOELwindows7 | **RCC is not $0!!!** How do we supposed to car?! |
 | `3f562c88-e8d6-4b39-827c-a910588bc4e6` | DynBonen | JOELwindows7 | . |
 | `ddb5a8b0-758e-4469-a181-5c5e959bab07` | Le Among Us | JOELwindows7 | hfcRed's among us follower demo |
-| `66effc2f-41af-475d-bfd2-df37989c1600` | (**NOT PERKEDEL**) VoyVivika Portable Tutorial Prop | VoyVivika | . |
-| `1dd3b77b-8982-4627-9979-4a0503b6f2b9` | (**NOT PERKEDEL**) Kavex's Rib | Kavex | ported from https://3dwarehouse.sketchup.com/model/4ee36dd6-7482-41a2-87ff-ceaefc83c4da/Rippchen with [song](https://www.youtube.com/watch?v=_1zzRLMHlDM) |
-| `39c89b9e-abbe-4b48-8afc-d2ad910bf8e6` | (**NOT PERKEDEL**) Kavex's 🏳️‍⚧️ Trans heart | Kavex | . |
-| `eabe330a-a392-4a0f-b7f7-7cdb748834ac` | (**NOT PERKEDEL**) Kavex's Pansexual heart | Kavex | . |
-| `fc89a8ba-e426-41e8-81fa-268e79b80175` | (**NOT PERKEDEL**) Dippy Push Button | Dippy | . |
-| `d3317583-fc62-4422-861c-c94b24cbeee0` | (**NOT PERKEDEL**) Dippy Sauce Squirt Bottle 😏 | Dippy | . |
-| `b1ee7ffe-8686-4cbb-b438-5db7f13c539c` | (**NOT PERKEDEL**) UCC Mirror | MilchZocker | . |
-| `25f0fbe4-7a23-40f3-815d-a6dd33786a3d` | (**NOT PERKEDEL**) UCC Pen | MilchZocker | . |
-| ~~`fba60ac2-b053-401b-9d5d-02986c21af24`~~ | (**NOT PERKEDEL**) Kin's Badge | Vespei Kin | **GONE / MISMATCH 404** |
-| `fc89a8ba-e426-41e8-81fa-268e79b80175` | (**NOT PERKEDEL**) Dippy Press Button | Dippy  | . |
-| `9e13b14c-d70b-4266-ae7b-aa687b75faae` | (**NOT PERKEDEL**) NUT BUTTON | Dippy | . |
-| `d3317583-fc62-4422-861c-c94b24cbeee0` | (**NOT PERKEDEL**) Dippy Sauce | Dippy | . |
-| `d1dac649-e96a-4f91-92f2-40a2214a33d4` | (**NOT PERKEDEL**) MollyTribute Interaction Layer | DomNomNomVR | . |
+| `66effc2f-41af-475d-bfd2-df37989c1600` | VoyVivika Portable Tutorial Prop | VoyVivika | (**NOT PERKEDEL**) |
+| `1dd3b77b-8982-4627-9979-4a0503b6f2b9` | Kavex's Rib | Kavex | (**NOT PERKEDEL**) ported from https://3dwarehouse.sketchup.com/model/4ee36dd6-7482-41a2-87ff-ceaefc83c4da/Rippchen with [song](https://www.youtube.com/watch?v=_1zzRLMHlDM) |
+| `39c89b9e-abbe-4b48-8afc-d2ad910bf8e6` | Kavex's 🏳️‍⚧️ Trans heart | Kavex | (**NOT PERKEDEL**) |
+| `eabe330a-a392-4a0f-b7f7-7cdb748834ac` | Kavex's Pansexual heart | Kavex | (**NOT PERKEDEL**) |
+| `fc89a8ba-e426-41e8-81fa-268e79b80175` | Dippy Push Button | Dippy | (**NOT PERKEDEL**) |
+| `d3317583-fc62-4422-861c-c94b24cbeee0` | Dippy Sauce Squirt Bottle 😏 | Dippy | (**NOT PERKEDEL**) |
+| `b1ee7ffe-8686-4cbb-b438-5db7f13c539c` | UCC Mirror | MilchZocker | (**NOT PERKEDEL**) |
+| `25f0fbe4-7a23-40f3-815d-a6dd33786a3d` | UCC Pen | MilchZocker | (**NOT PERKEDEL**) |
+| ~~`fba60ac2-b053-401b-9d5d-02986c21af24`~~ | Kin's Badge | Vespei Kin | (**NOT PERKEDEL**) **GONE / MISMATCH 404** |
+| `fc89a8ba-e426-41e8-81fa-268e79b80175` | Dippy Press Button | Dippy  | (**NOT PERKEDEL**) |
+| `9e13b14c-d70b-4266-ae7b-aa687b75faae` | NUT BUTTON | Dippy | (**NOT PERKEDEL**) |
+| `d3317583-fc62-4422-861c-c94b24cbeee0` | Dippy Sauce | Dippy | (**NOT PERKEDEL**) |
+| `d1dac649-e96a-4f91-92f2-40a2214a33d4` | MollyTribute Interaction Layer | DomNomNomVR | (**NOT PERKEDEL**) |
 
 ### Assorted
 
