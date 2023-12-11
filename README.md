@@ -222,11 +222,11 @@ Here are the UUIDs of all these assets we uploaded to CVR:
 | --- | --- | --- | --- |
 | `92f6e5f4-e860-42fd-8154-81d69f605099` | Howard the Alien | JOELwindows7 | . |
 | `1fe3eebd-7671-4392-9e3c-87f269ebe69e` | **BZ Protogen ++** | JOELwindows7 | . |
-| `11f91306-49c6-4d8b-b075-461e24d4f6ed` | (**NOT PERKEDEL**) Abstract | JillTheSomething | . |
-| `fdbc8414-06a8-482f-9062-ebf394c09d06` | (**NOT PERKEDEL**) Chitio Avislime | JillTheSomething | **(DEV DEPENDENCY PAYWALLED!!!) CHITIO NOT INCLUDED IN THIS SOURCE CODE, PAYWALLED!** |
-| `244d5daf-35bd-4752-b286-e9c0a6057548` | (**NOT PERKEDEL**) MothBoi 2 | JillTheSomething | . |
-| `71f810ba-2def-4d28-9ed0-833d6e427de3` | (**NOT PERKEDEL**) Rosy Buggie | JillTheSomething | . |
-| `03191378-dd84-481b-84ad-2cedaaed7592` | (**NOT PERKEDEL**) Waddle Abomination | JillTheSomething | . |
+| `11f91306-49c6-4d8b-b075-461e24d4f6ed` | Abstract | JillTheSomething | (**NOT PERKEDEL**) |
+| `fdbc8414-06a8-482f-9062-ebf394c09d06` | Chitio Avislime | JillTheSomething | (**NOT PERKEDEL**) **(DEV DEPENDENCY PAYWALLED!!!) CHITIO NOT INCLUDED IN THIS SOURCE CODE, PAYWALLED!** |
+| `244d5daf-35bd-4752-b286-e9c0a6057548` | MothBoi 2 | JillTheSomething | (**NOT PERKEDEL**) |
+| `71f810ba-2def-4d28-9ed0-833d6e427de3` | Rosy Buggie | JillTheSomething | (**NOT PERKEDEL**) |
+| `03191378-dd84-481b-84ad-2cedaaed7592` | Waddle Abomination | JillTheSomething | (**NOT PERKEDEL**) |
 
 <!-- 
 - `92f6e5f4-e860-42fd-8154-81d69f605099` Howard the Alien
