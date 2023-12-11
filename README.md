@@ -218,104 +218,120 @@ Here are the UUIDs of all these assets we uploaded to CVR:
 
 ### Avatars
 
+| GUID | Name | Uploader | Description |
+| --- | --- | --- | --- |
+| `92f6e5f4-e860-42fd-8154-81d69f605099` | Howard the Alien | JOELwindows7 | . |
+| `1fe3eebd-7671-4392-9e3c-87f269ebe69e` | **BZ Protogen ++** | JOELwindows7 | . |
+| `11f91306-49c6-4d8b-b075-461e24d4f6ed` | (**NOT PERKEDEL**) Abstract | JillTheSomething | . |
+| `fdbc8414-06a8-482f-9062-ebf394c09d06` | (**NOT PERKEDEL**) Chitio Avislime | JillTheSomething | **(DEV DEPENDENCY PAYWALLED!!!) CHITIO NOT INCLUDED IN THIS SOURCE CODE, PAYWALLED!** |
+| `244d5daf-35bd-4752-b286-e9c0a6057548` | (**NOT PERKEDEL**) MothBoi 2 | JillTheSomething | . |
+| `71f810ba-2def-4d28-9ed0-833d6e427de3` | (**NOT PERKEDEL**) Rosy Buggie | JillTheSomething | . |
+| `03191378-dd84-481b-84ad-2cedaaed7592` | (**NOT PERKEDEL**) Waddle Abomination | JillTheSomething | . |
+
+<!-- 
 - `92f6e5f4-e860-42fd-8154-81d69f605099` Howard the Alien
 - `1fe3eebd-7671-4392-9e3c-87f269ebe69e` **BZ Protogen ++**.
 - `11f91306-49c6-4d8b-b075-461e24d4f6ed` (**NOT PERKEDEL**) Abstract. JillTheSomething
 - `fdbc8414-06a8-482f-9062-ebf394c09d06` (**NOT PERKEDEL**) Chitio Avislime. JillTheSomething. **(DEV DEPENDENCY PAYWALLED!!!) CHITIO NOT INCLUDED IN THIS SOURCE CODE, PAYWALLED!**
 - `244d5daf-35bd-4752-b286-e9c0a6057548` (**NOT PERKEDEL**) MothBoi 2. JillTheSomething.
 - `71f810ba-2def-4d28-9ed0-833d6e427de3` (**NOT PERKEDEL**) Rosy Buggie. JillTheSomething.
-- `03191378-dd84-481b-84ad-2cedaaed7592` (**NOT PERKEDEL**) Waddle Abomination. JillTheSomething.
+- `03191378-dd84-481b-84ad-2cedaaed7592` (**NOT PERKEDEL**) Waddle Abomination. JillTheSomething. 
+-->
 
 ### Worlds
 
-- `6b1b8855-9196-4e21-a418-f52a862651af` SFW DiceGlow Test Area
-- `576dd214-4d23-4441-86f1-d0f56f3095da` SFW DiceGlow Test Area Pt. 2
-- `604d2db5-93b4-4511-8b53-a66e16cc6325` NSFW CornSyrup Test Area
-- `6055a6c3-e589-45dc-a2c2-5de2d83ae449` Moving Spawns
-- `dd4303c8-3f5c-4fed-9d37-21e8836310e3` iPoly3D Low Poly Server Room
-- `d55da2f2-6349-4558-ad6e-f74ce92945af` Minimum World
-- `3fe2b7c3-129a-418e-87ad-c3931657f843` (**NOT PERKEDEL**) UCC Cinema. MilchZocker
-- `af0f00bc-0702-46ce-9441-bcce0ad6c813` (**NOT PERKEDEL**) UCC Avatars. MilchZocker
-- `9d0677a5-b88f-4994-901b-7b91c99e8cd8` (**NOT PERKEDEL**) UCC Bird Island. MilchZocker
-- `bc8f15fa-8f6b-42b5-8096-8b3058345e98` (**NOT PERKEDEL**) UCC Hub. MilchZocker
-- ~~`9a7d706f-a70e-4e7f-a301-406f25e509b3`~~ (**NOT PERKEDEL**) DomNomNomVR's ~~AudioLink Samples~~ Wrong AL world. DomNomNomVR. **NOTE: UUID mismatch into `TEST Audio Link`! World is not same as seemingly identical `AudioLink Example`!!**
-- `b98f304c-e1e0-410d-a6c3-cfcb15c7c087` (**NOT PERKEDEL**) DomNomNomVR's AudioLink Samples. DomNomNomVR. **NOTE: This is the correct UUID**
-- `9cb2b515-eee3-4258-8c3d-108ccfc5d299` (**NOT PERKEDEL**) Madvicius' Old Anime world. Madvicius.
-- `2f14fd53-2850-43b9-91f0-132d3f2db2bc` (**NOT PERKEDEL**) Writhe. JillTheSomething.
-- `11a92064-d9d1-4f6b-91a0-845c78952659` (**NOT PERKEDEL**) Pool House. JillTheSomething.
-- `0b038da9-1a2a-4c25-88bb-b5047d682a8d` (**NOT PERKEDEL**) SpaceHey. Root, uploaded by JillTheSomething.
-- `a15e207e-daac-4cea-a02f-13870cb14052` (**NOT PERKEDEL**) Spawn Mover Demo. NovaVoidHowl.
+| GUID | Name | Uploader | Description |
+| --- | --- | --- | --- |
+| `6b1b8855-9196-4e21-a418-f52a862651af` | SFW DiceGlow Test Area | JOELwindows7 | . |
+| `576dd214-4d23-4441-86f1-d0f56f3095da` | SFW DiceGlow Test Area Pt. 2 | JOELwindows7 | . |
+| `604d2db5-93b4-4511-8b53-a66e16cc6325` | NSFW CornSyrup Test Area | JOELwindows7 | . |
+| `6055a6c3-e589-45dc-a2c2-5de2d83ae449` | Moving Spawns | JOELwindows7 | . |
+| `dd4303c8-3f5c-4fed-9d37-21e8836310e3` | iPoly3D Low Poly Server Room | JOELwindows7 | . |
+| `d55da2f2-6349-4558-ad6e-f74ce92945af` | Minimum World | JOELwindows7 | . |
+| `3fe2b7c3-129a-418e-87ad-c3931657f843` | (**NOT PERKEDEL**) UCC Cinema | MilchZocker | . |
+| `af0f00bc-0702-46ce-9441-bcce0ad6c813` | (**NOT PERKEDEL**) UCC Avatars | MilchZocker | . |
+| `9d0677a5-b88f-4994-901b-7b91c99e8cd8` | (**NOT PERKEDEL**) UCC Bird Island | MilchZocker | . |
+| `bc8f15fa-8f6b-42b5-8096-8b3058345e98` | (**NOT PERKEDEL**) UCC Hub. MilchZocker | . |
+| ~~`9a7d706f-a70e-4e7f-a301-406f25e509b3`~~ | (**NOT PERKEDEL**) DomNomNomVR's ~~AudioLink Samples~~ Wrong AL world | DomNomNomVR | **NOTE: UUID mismatch into `TEST Audio Link`! World is not same as seemingly identical `AudioLink Example`!!** |
+| `b98f304c-e1e0-410d-a6c3-cfcb15c7c087` | (**NOT PERKEDEL**) DomNomNomVR's AudioLink Samples | DomNomNomVR. **NOTE: This is the correct UUID** | . |
+| `9cb2b515-eee3-4258-8c3d-108ccfc5d299` | (**NOT PERKEDEL**) Madvicius' Old Anime world | Madvicius | . |
+| `2f14fd53-2850-43b9-91f0-132d3f2db2bc` | (**NOT PERKEDEL**) Writhe | JillTheSomething | . |
+| `11a92064-d9d1-4f6b-91a0-845c78952659` | (**NOT PERKEDEL**) Pool House | JillTheSomething | . |
+| `0b038da9-1a2a-4c25-88bb-b5047d682a8d` | (**NOT PERKEDEL**) SpaceHey | Root (uploaded by JillTheSomething on behalf) | . |
+| `a15e207e-daac-4cea-a02f-13870cb14052` | (**NOT PERKEDEL**) Spawn Mover Demo | NovaVoidHowl | . |
 
 ### Props
 
-- `e93b46ac-a385-43bc-8458-1ba48f1341db` Wahaha Dice
-- `e33ca9f8-0785-416a-b635-73a999bcb756` Wahaha Dice Scale 50
-- `acfed254-b590-4c9b-96c3-28c8e22f51ec` Wahaha Dice Scale 25
-- `fa51c676-05bb-41c3-aa41-68941f9fb2a7` Wahaha Dice Scale 5
-- `2796a410-02e1-4fcc-b7d8-d58f31b354c1` Wahaha Dice GIANT 1000
-- `e8da5752-5216-4bfe-a3ae-3c87d8ac9ca7` Wahaha Dice micro 1
-- `ed1fe55e-c63a-4119-9fc2-caa9933cf6aa` Ehehe Dice
-- `c5482fb7-620f-42b0-ab84-afc8210a7a5a` Ehehe Dice Scale 50
-- `5a5a3265-a1e7-469b-83f3-d83e8800cb02` Ehehe Dice Scale 25
-- `04ea5304-11c2-4244-98f1-7676a656da9e` Ehehe Dice Scale 5
-- `b06c91e7-989f-4685-8819-875b666093cf` Ehehe Dice GIANT 1000
-- `ca2e8dfb-3d35-42ad-8f22-bf839f732308` Ehehe Dice micro 1
-- `7bb92abf-fc97-4836-b9fb-fff929408907` A Dice
-- `3974a044-678b-4d26-8c00-9adaba057ffd` A Dice Scale 50
-- `f500a295-e148-489d-bb6c-bca39fa976ad` A Dice Scale 25
-- `86462140-5f07-4fc0-a814-2541b5cd085d` A Dice Scale 5
-- `6f803736-519f-4e3c-b8bd-d0581ab83083` A Dice GIANT 1000
-- `7cbb201a-d83b-40cd-975b-05250b7f74ad` A Dice micro 1
-- `cd15f618-b0bf-4a55-a9ee-6fc52fad42b2` E Dice
-- `962ea7dc-0c0a-4952-9842-d637570f2cde` E Dice Scale 50
-- `5e3a8b44-9676-47cc-aa41-91e37fbd301a` E Dice Scale 25
-- `e2890d25-c725-495a-b5e0-98fb7526be8c` E Dice Scale 5
-- `dc2a31c2-d7b8-47e2-ae2c-b69c9d638c52` E Dice GIANT 1000
-- `c01e0e3d-b793-4259-ba8c-84b1a6038a6c` E Dice micro 1
-- `8212db17-de59-475a-a36c-f8fb84bcc26a` Awu Dice AudioLink
-- `ed2e7173-bdff-4200-be76-82543bf45b70` Awu Dice Scale 50 AudioLink
-- `e7318916-445e-4133-bf46-4e61bb4a75e8` Awu Dice Scale 25 AudioLink
-- `b3668105-08ef-41ad-8da4-2cfc1ebe3882` Awu Dice Scale 5 AudioLink
-- `0d68f8b4-0980-49e7-ab3e-f62e7469ee5a` Awu Dice GIANT 1000 AudioLink
-- `0351eead-50bf-4d8f-8916-d787a12f1e3a` Awu Dice micro 1 AudioLink
-- `64501bf1-7c8f-4213-bb62-376ebfdaa820` Eyea Dice AudioLink
-- `32f8f36e-050b-4dcb-83ef-b5b6093dce08` Eyea Dice Scale 50 AudioLink
-- `0d8b55e3-0117-498f-9774-ef600cb36876` Eyea Dice Scale 25 AudioLink
-- `f8ca6f5f-0de2-471a-8516-4058b12f906c` Eyea Dice Scale 5 AudioLink
-- `820a6d23-fc4d-462b-b7d6-e4d30f91a453` Eyea Dice GIANT 1000 AudioLink
-- `28c3750e-ea72-4634-a8b9-06c098c8d9c6` Eyea Dice micro1 1 AudioLink
-- `c7a0bd47-3ece-485f-a994-d3eddbc2b4c1` Anjay Button
-- `8f094998-b863-4bc6-b3c9-726eb82f1e24` Fart Reverb Button
-- `2b7ef53d-a4aa-457d-b613-6a542fb385d0` Fart Origin Button
-- `d85d797b-2965-4622-9699-962e8bdaf88d` WTF Boom Button
-- `4c35b951-7dc3-4adf-8dda-7bf253d24dc5` Bin Canon duar Button
-- `a245cf37-09f3-408c-bcc9-cf35839a4fe9` Very Loud Explosion Button
-- `cdc8b5b1-43af-40fd-b7a5-af48dc8d6dde` EmptyBall
-- `323d2618-403d-4835-9eac-5c8362a511a4` Stupid Cartoon Heart with Sound
-- `05b157e8-d51f-4411-ad86-8cb314535e6d` C# forbidden meme
-- `4a193ad4-4119-47c8-ae89-80ba7acd1182` Nice to Meet You
-- `677f8f5f-6e35-4399-85bc-bb1323f0b32b` How are you today?
-- `99e7c61c-f253-4f4a-bb82-224f1d627591` What's your name?
-- `992a3278-59e6-4161-9c8e-69e16a2b9152` What's your pronoun?
-- `ccfe57c8-f21c-46e3-8c3d-ec5a9def4be8` Stop you're annoying!
-- `d3afa62b-3524-46b9-93fd-519dd91a63da` I'm so sorry, I didn't mean to freeze you!
-- `12d3cc16-e202-48ad-900a-99c41d2d6130` I'm very shy!
-- `2d106677-d4d3-4671-b960-fa0c6dda30a1` A Failed Car. **RCC is not $0!!!** How do we supposed to car?!
-- `3f562c88-e8d6-4b39-827c-a910588bc4e6` DynBonen.
-- `ddb5a8b0-758e-4469-a181-5c5e959bab07` Le Among Us. hfcRed's among us follower demo
-- `66effc2f-41af-475d-bfd2-df37989c1600` (**NOT PERKEDEL**) VoyVivika Portable Tutorial Prop
-- `1dd3b77b-8982-4627-9979-4a0503b6f2b9` (**NOT PERKEDEL**) Kavex's Rib ported from https://3dwarehouse.sketchup.com/model/4ee36dd6-7482-41a2-87ff-ceaefc83c4da/Rippchen with [song](https://www.youtube.com/watch?v=_1zzRLMHlDM)
-- `39c89b9e-abbe-4b48-8afc-d2ad910bf8e6` (**NOT PERKEDEL**) Kavex's 🏳️‍⚧️ Trans heart
-- `eabe330a-a392-4a0f-b7f7-7cdb748834ac` (**NOT PERKEDEL**) Kavex's Pansexual heart
-- `fc89a8ba-e426-41e8-81fa-268e79b80175` (**NOT PERKEDEL**) Dippy Push Button
-- `d3317583-fc62-4422-861c-c94b24cbeee0` (**NOT PERKEDEL**) Dippy Sauce Squirt Bottle 😏
-- `b1ee7ffe-8686-4cbb-b438-5db7f13c539c` (**NOT PERKEDEL**) UCC Mirror. MilchZocker
-- `25f0fbe4-7a23-40f3-815d-a6dd33786a3d` (**NOT PERKEDEL**) UCC Pen. MilchZocker
-- ~~`fba60ac2-b053-401b-9d5d-02986c21af24` (**NOT PERKEDEL**) Kin's Badge. Vespei Kin~~ **GONE / MISMATCH 404**
-- `fc89a8ba-e426-41e8-81fa-268e79b80175` (**NOT PERKEDEL**) Dippy Press Button. Dippy
-- `9e13b14c-d70b-4266-ae7b-aa687b75faae` (**NOT PERKEDEL**) NUT BUTTON. Dippy
-- `d3317583-fc62-4422-861c-c94b24cbeee0` (**NOT PERKEDEL**) Dippy Sauce. Dippy
-- `d1dac649-e96a-4f91-92f2-40a2214a33d4` (**NOT PERKEDEL**) MollyTribute Interaction Layer. DomNomNomVR
+| GUID | Name | Uploader | Description |
+| --- | --- | --- | --- |
+| `e93b46ac-a385-43bc-8458-1ba48f1341db` | Wahaha Dice | JOELwindows7 | . |
+| `e33ca9f8-0785-416a-b635-73a999bcb756` | Wahaha Dice Scale 50 | JOELwindows7 | . |
+| `acfed254-b590-4c9b-96c3-28c8e22f51ec` | Wahaha Dice Scale 25 | JOELwindows7 | . |
+| `fa51c676-05bb-41c3-aa41-68941f9fb2a7` | Wahaha Dice Scale 5 | JOELwindows7 | . |
+| `2796a410-02e1-4fcc-b7d8-d58f31b354c1` | Wahaha Dice GIANT 1000 | JOELwindows7 | . |
+| `e8da5752-5216-4bfe-a3ae-3c87d8ac9ca7` | Wahaha Dice micro 1 | JOELwindows7 | . |
+| `ed1fe55e-c63a-4119-9fc2-caa9933cf6aa` | Ehehe Dice | JOELwindows7 | . |
+| `c5482fb7-620f-42b0-ab84-afc8210a7a5a` | Ehehe Dice Scale 50 | JOELwindows7 | . |
+| `5a5a3265-a1e7-469b-83f3-d83e8800cb02` | Ehehe Dice Scale 25 | JOELwindows7 | . |
+| `04ea5304-11c2-4244-98f1-7676a656da9e` | Ehehe Dice Scale 5 | JOELwindows7 | . |
+| `b06c91e7-989f-4685-8819-875b666093cf` | Ehehe Dice GIANT 1000 | JOELwindows7 | . |
+| `ca2e8dfb-3d35-42ad-8f22-bf839f732308` | Ehehe Dice micro 1 | JOELwindows7 | . |
+| `7bb92abf-fc97-4836-b9fb-fff929408907` | A Dice | JOELwindows7 | . |
+| `3974a044-678b-4d26-8c00-9adaba057ffd` | A Dice Scale 50 | JOELwindows7 | . |
+| `f500a295-e148-489d-bb6c-bca39fa976ad` | A Dice Scale 25 | JOELwindows7 | . |
+| `86462140-5f07-4fc0-a814-2541b5cd085d` | A Dice Scale 5 | JOELwindows7 | . |
+| `6f803736-519f-4e3c-b8bd-d0581ab83083` | A Dice GIANT 1000 | JOELwindows7 | . |
+| `7cbb201a-d83b-40cd-975b-05250b7f74ad` | A Dice micro 1 | JOELwindows7 | . |
+| `cd15f618-b0bf-4a55-a9ee-6fc52fad42b2` | E Dice | JOELwindows7 | . |
+| `962ea7dc-0c0a-4952-9842-d637570f2cde` | E Dice Scale 50 | JOELwindows7 | . |
+| `5e3a8b44-9676-47cc-aa41-91e37fbd301a` | E Dice Scale 25 | JOELwindows7 | . |
+| `e2890d25-c725-495a-b5e0-98fb7526be8c` | E Dice Scale 5 | JOELwindows7 | . |
+| `dc2a31c2-d7b8-47e2-ae2c-b69c9d638c52` | E Dice GIANT 1000 | JOELwindows7 | . |
+| `c01e0e3d-b793-4259-ba8c-84b1a6038a6c` | E Dice micro 1 | JOELwindows7 | . |
+| `8212db17-de59-475a-a36c-f8fb84bcc26a` | Awu Dice AudioLink | JOELwindows7 | . |
+| `ed2e7173-bdff-4200-be76-82543bf45b70` | Awu Dice Scale 50 AudioLink | JOELwindows7 | . |
+| `e7318916-445e-4133-bf46-4e61bb4a75e8` | Awu Dice Scale 25 AudioLink | JOELwindows7 | . |
+| `b3668105-08ef-41ad-8da4-2cfc1ebe3882` | Awu Dice Scale 5 AudioLink | JOELwindows7 | . |
+| `0d68f8b4-0980-49e7-ab3e-f62e7469ee5a` | Awu Dice GIANT 1000 AudioLink | JOELwindows7 | . |
+| `0351eead-50bf-4d8f-8916-d787a12f1e3a` | Awu Dice micro 1 AudioLink | JOELwindows7 | . |
+| `64501bf1-7c8f-4213-bb62-376ebfdaa820` | Eyea Dice AudioLink | JOELwindows7 | . |
+| `32f8f36e-050b-4dcb-83ef-b5b6093dce08` | Eyea Dice Scale 50 AudioLink | JOELwindows7 | . |
+| `0d8b55e3-0117-498f-9774-ef600cb36876` | Eyea Dice Scale 25 AudioLink | JOELwindows7 | . |
+| `f8ca6f5f-0de2-471a-8516-4058b12f906c` | Eyea Dice Scale 5 AudioLink | JOELwindows7 | . |
+| `820a6d23-fc4d-462b-b7d6-e4d30f91a453` | Eyea Dice GIANT 1000 AudioLink | JOELwindows7 | . |
+| `28c3750e-ea72-4634-a8b9-06c098c8d9c6` | Eyea Dice micro1 1 AudioLink | JOELwindows7 | . |
+| `c7a0bd47-3ece-485f-a994-d3eddbc2b4c1` | Anjay Button | JOELwindows7 | . |
+| `8f094998-b863-4bc6-b3c9-726eb82f1e24` | Fart Reverb Button | JOELwindows7 | . |
+| `2b7ef53d-a4aa-457d-b613-6a542fb385d0` | Fart Origin Button | JOELwindows7 | . |
+| `d85d797b-2965-4622-9699-962e8bdaf88d` | WTF Boom Button | JOELwindows7 | . |
+| `4c35b951-7dc3-4adf-8dda-7bf253d24dc5` | Bin Canon duar Button | JOELwindows7 | . |
+| `a245cf37-09f3-408c-bcc9-cf35839a4fe9` | Very Loud Explosion Button | JOELwindows7 | . |
+| `cdc8b5b1-43af-40fd-b7a5-af48dc8d6dde` | EmptyBall | JOELwindows7 | . |
+| `323d2618-403d-4835-9eac-5c8362a511a4` | Stupid Cartoon Heart with Sound | JOELwindows7 | . |
+| `05b157e8-d51f-4411-ad86-8cb314535e6d` | C# forbidden meme | JOELwindows7 | . |
+| `4a193ad4-4119-47c8-ae89-80ba7acd1182` | Nice to Meet You | JOELwindows7 | . |
+| `677f8f5f-6e35-4399-85bc-bb1323f0b32b` | How are you today? | JOELwindows7 | . |
+| `99e7c61c-f253-4f4a-bb82-224f1d627591` | What's your name? | JOELwindows7 | . |
+| `992a3278-59e6-4161-9c8e-69e16a2b9152` | What's your pronoun? | JOELwindows7 | . |
+| `ccfe57c8-f21c-46e3-8c3d-ec5a9def4be8` | Stop you're annoying! | JOELwindows7 | . |
+| `d3afa62b-3524-46b9-93fd-519dd91a63da` | I'm so sorry, I didn't mean to freeze you! | JOELwindows7 | . |
+| `12d3cc16-e202-48ad-900a-99c41d2d6130` | I'm very shy! | JOELwindows7 | . |
+| `2d106677-d4d3-4671-b960-fa0c6dda30a1` | A Failed Car. **RCC is not $0!!!** How do we supposed to car?! | JOELwindows7 | . |
+| `3f562c88-e8d6-4b39-827c-a910588bc4e6` | DynBonen. | JOELwindows7 | . |
+| `ddb5a8b0-758e-4469-a181-5c5e959bab07` | Le Among Us. hfcRed's among us follower demo | JOELwindows7 | . |
+| `66effc2f-41af-475d-bfd2-df37989c1600` | (**NOT PERKEDEL**) | VoyVivika Portable Tutorial Prop | VoyVivika | . |
+| `1dd3b77b-8982-4627-9979-4a0503b6f2b9` | (**NOT PERKEDEL**) | Kavex's Rib ported from https://3dwarehouse.sketchup.com/model/4ee36dd6-7482-41a2-87ff-ceaefc83c4da/Rippchen with [song](https://www.youtube.com/watch?v=_1zzRLMHlDM) | Kavex | . |
+| `39c89b9e-abbe-4b48-8afc-d2ad910bf8e6` | (**NOT PERKEDEL**) | Kavex's 🏳️‍⚧️ Trans heart | Kavex | . |
+| `eabe330a-a392-4a0f-b7f7-7cdb748834ac` | (**NOT PERKEDEL**) | Kavex's Pansexual heart | Kavex | . |
+| `fc89a8ba-e426-41e8-81fa-268e79b80175` | (**NOT PERKEDEL**) | Dippy Push Button | Dippy | . |
+| `d3317583-fc62-4422-861c-c94b24cbeee0` | (**NOT PERKEDEL**) | Dippy Sauce Squirt Bottle 😏 | Dippy | . |
+| `b1ee7ffe-8686-4cbb-b438-5db7f13c539c` | (**NOT PERKEDEL**) | UCC Mirror | MilchZocker | . |
+| `25f0fbe4-7a23-40f3-815d-a6dd33786a3d` | (**NOT PERKEDEL**) | UCC Pen | MilchZocker | . |
+| ~~`fba60ac2-b053-401b-9d5d-02986c21af24`~~ | (**NOT PERKEDEL**) Kin's Badge | Vespei Kin | **GONE / MISMATCH 404** |
+| `fc89a8ba-e426-41e8-81fa-268e79b80175` | (**NOT PERKEDEL**) | Dippy Press Button | Dippy  | . |
+| `9e13b14c-d70b-4266-ae7b-aa687b75faae` | (**NOT PERKEDEL**) | NUT BUTTON | Dippy | . |
+| `d3317583-fc62-4422-861c-c94b24cbeee0` | (**NOT PERKEDEL**) | Dippy Sauce | Dippy | . |
+| `d1dac649-e96a-4f91-92f2-40a2214a33d4` | (**NOT PERKEDEL**) | MollyTribute Interaction Layer | DomNomNomVR | . |
 
 ### Assorted
 
@@ -2146,6 +2162,29 @@ Put this image onto some quads. This image is my promotion for gamers to check o
 - https://vrcdn.video/towneh/a6ee609b58816d4eb6d455fef6fe2499.mp4
 - https://cdn.discordapp.com/attachments/992448795109511188/1010740459410300988/7.1Setup.wav
 - https://cdn.discordapp.com/attachments/992448795109511188/1010738209900199946/310_To_Yuma_Clip_1080p23.976_PCM_7.1.mov
+- https://bestbois.com/
+- https://bestboivrc.gumroad.com/
+- https://drive.google.com/file/d/1ASrGbmoDRS9ytjUfwJ1ITh1uarOCgLWB/view
+- https://drive.google.com/file/d/1TrDyhuaMvsCiKnW2J9PsMrFOnzWUhT0R/view
+- https://bestbois.com/BestboiLore.html
+- https://drive.google.com/file/d/1oFVNDfN_xXJ-H6FMCd4Z44wHSVMs-sAc/view
+- https://drive.google.com/file/d/14WlxAvNVUwXTnsAejVCDurXucHV5nMfr/view gone, winter, go to seedsy
+- https://drive.google.com/file/d/147qqogK0XzR-q7EgZ5yzJXAOVoKCF8KQ/view
+- https://drive.google.com/file/d/1MAtdtUZxvqyL5svw6SMDMj17qzNwTaf-/view
+- https://drive.google.com/file/d/1w6dY5TatGdu3c9pTaqDBHYjnc5plC9jz/view
+- https://drive.google.com/file/d/14g0bEK91rBxRmHQ4KQq_hPNqJWaAZe-D/view
+- https://drive.google.com/file/d/1GAnhgW6YPJOrFWcQmlSccO12ZU6NTw_p/view
+- https://seedsy.gumroad.com/
+- https://rantisvr.gumroad.com/
+- https://octohedgie.gumroad.com/l/Kerians
+- https://nuclear57.gumroad.com/
+- https://bestbois.com/BestboiLore.html
+- https://seedsy.gumroad.com/l/bestboiclothes
+- https://malganis-lefay.booth.pm/items/4307576
+- https://malganis-lefay.booth.pm/items/4018692
+- https://malganis-lefay.booth.pm/
+- https://gotm.io/red-mage-games/pichon
+- https://www.markdownguide.org/cheat-sheet/
 
 ## sovania
 
