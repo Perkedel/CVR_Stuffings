@@ -320,7 +320,7 @@ Here are the UUIDs of all these assets we uploaded to CVR:
 | `3f562c88-e8d6-4b39-827c-a910588bc4e6` | DynBonen | JOELwindows7 | . |
 | `ddb5a8b0-758e-4469-a181-5c5e959bab07` | Le Among Us | JOELwindows7 | hfcRed's among us follower demo |
 | `66effc2f-41af-475d-bfd2-df37989c1600` | (**NOT PERKEDEL**) VoyVivika Portable Tutorial Prop | VoyVivika | . |
-| `1dd3b77b-8982-4627-9979-4a0503b6f2b9` | (**NOT PERKEDEL**) Kavex's Rib ported from https://3dwarehouse.sketchup.com/model/4ee36dd6-7482-41a2-87ff-ceaefc83c4da/Rippchen with [song](https://www.youtube.com/watch?v=_1zzRLMHlDM) | Kavex | . |
+| `1dd3b77b-8982-4627-9979-4a0503b6f2b9` | (**NOT PERKEDEL**) Kavex's Rib | Kavex | ported from https://3dwarehouse.sketchup.com/model/4ee36dd6-7482-41a2-87ff-ceaefc83c4da/Rippchen with [song](https://www.youtube.com/watch?v=_1zzRLMHlDM) |
 | `39c89b9e-abbe-4b48-8afc-d2ad910bf8e6` | (**NOT PERKEDEL**) Kavex's 🏳️‍⚧️ Trans heart | Kavex | . |
 | `eabe330a-a392-4a0f-b7f7-7cdb748834ac` | (**NOT PERKEDEL**) Kavex's Pansexual heart | Kavex | . |
 | `fc89a8ba-e426-41e8-81fa-268e79b80175` | (**NOT PERKEDEL**) Dippy Push Button | Dippy | . |
