@@ -319,19 +319,19 @@ Here are the UUIDs of all these assets we uploaded to CVR:
 | `2d106677-d4d3-4671-b960-fa0c6dda30a1` | A Failed Car. **RCC is not $0!!!** How do we supposed to car?! | JOELwindows7 | . |
 | `3f562c88-e8d6-4b39-827c-a910588bc4e6` | DynBonen. | JOELwindows7 | . |
 | `ddb5a8b0-758e-4469-a181-5c5e959bab07` | Le Among Us. hfcRed's among us follower demo | JOELwindows7 | . |
-| `66effc2f-41af-475d-bfd2-df37989c1600` | (**NOT PERKEDEL**) | VoyVivika Portable Tutorial Prop | VoyVivika | . |
-| `1dd3b77b-8982-4627-9979-4a0503b6f2b9` | (**NOT PERKEDEL**) | Kavex's Rib ported from https://3dwarehouse.sketchup.com/model/4ee36dd6-7482-41a2-87ff-ceaefc83c4da/Rippchen with [song](https://www.youtube.com/watch?v=_1zzRLMHlDM) | Kavex | . |
-| `39c89b9e-abbe-4b48-8afc-d2ad910bf8e6` | (**NOT PERKEDEL**) | Kavex's 🏳️‍⚧️ Trans heart | Kavex | . |
-| `eabe330a-a392-4a0f-b7f7-7cdb748834ac` | (**NOT PERKEDEL**) | Kavex's Pansexual heart | Kavex | . |
-| `fc89a8ba-e426-41e8-81fa-268e79b80175` | (**NOT PERKEDEL**) | Dippy Push Button | Dippy | . |
-| `d3317583-fc62-4422-861c-c94b24cbeee0` | (**NOT PERKEDEL**) | Dippy Sauce Squirt Bottle 😏 | Dippy | . |
-| `b1ee7ffe-8686-4cbb-b438-5db7f13c539c` | (**NOT PERKEDEL**) | UCC Mirror | MilchZocker | . |
-| `25f0fbe4-7a23-40f3-815d-a6dd33786a3d` | (**NOT PERKEDEL**) | UCC Pen | MilchZocker | . |
+| `66effc2f-41af-475d-bfd2-df37989c1600` | (**NOT PERKEDEL**) VoyVivika Portable Tutorial Prop | VoyVivika | . |
+| `1dd3b77b-8982-4627-9979-4a0503b6f2b9` | (**NOT PERKEDEL**) Kavex's Rib ported from https://3dwarehouse.sketchup.com/model/4ee36dd6-7482-41a2-87ff-ceaefc83c4da/Rippchen with [song](https://www.youtube.com/watch?v=_1zzRLMHlDM) | Kavex | . |
+| `39c89b9e-abbe-4b48-8afc-d2ad910bf8e6` | (**NOT PERKEDEL**) Kavex's 🏳️‍⚧️ Trans heart | Kavex | . |
+| `eabe330a-a392-4a0f-b7f7-7cdb748834ac` | (**NOT PERKEDEL**) Kavex's Pansexual heart | Kavex | . |
+| `fc89a8ba-e426-41e8-81fa-268e79b80175` | (**NOT PERKEDEL**) Dippy Push Button | Dippy | . |
+| `d3317583-fc62-4422-861c-c94b24cbeee0` | (**NOT PERKEDEL**) Dippy Sauce Squirt Bottle 😏 | Dippy | . |
+| `b1ee7ffe-8686-4cbb-b438-5db7f13c539c` | (**NOT PERKEDEL**) UCC Mirror | MilchZocker | . |
+| `25f0fbe4-7a23-40f3-815d-a6dd33786a3d` | (**NOT PERKEDEL**) UCC Pen | MilchZocker | . |
 | ~~`fba60ac2-b053-401b-9d5d-02986c21af24`~~ | (**NOT PERKEDEL**) Kin's Badge | Vespei Kin | **GONE / MISMATCH 404** |
-| `fc89a8ba-e426-41e8-81fa-268e79b80175` | (**NOT PERKEDEL**) | Dippy Press Button | Dippy  | . |
-| `9e13b14c-d70b-4266-ae7b-aa687b75faae` | (**NOT PERKEDEL**) | NUT BUTTON | Dippy | . |
-| `d3317583-fc62-4422-861c-c94b24cbeee0` | (**NOT PERKEDEL**) | Dippy Sauce | Dippy | . |
-| `d1dac649-e96a-4f91-92f2-40a2214a33d4` | (**NOT PERKEDEL**) | MollyTribute Interaction Layer | DomNomNomVR | . |
+| `fc89a8ba-e426-41e8-81fa-268e79b80175` | (**NOT PERKEDEL**) Dippy Press Button | Dippy  | . |
+| `9e13b14c-d70b-4266-ae7b-aa687b75faae` | (**NOT PERKEDEL**) NUT BUTTON | Dippy | . |
+| `d3317583-fc62-4422-861c-c94b24cbeee0` | (**NOT PERKEDEL**) Dippy Sauce | Dippy | . |
+| `d1dac649-e96a-4f91-92f2-40a2214a33d4` | (**NOT PERKEDEL**) MollyTribute Interaction Layer | DomNomNomVR | . |
 
 ### Assorted
 
@@ -2185,6 +2185,7 @@ Put this image onto some quads. This image is my promotion for gamers to check o
 - https://malganis-lefay.booth.pm/
 - https://gotm.io/red-mage-games/pichon
 - https://www.markdownguide.org/cheat-sheet/
+- https://github.com/200Tigersbloxed/HRtoVRChat_OSC
 
 ## sovania
 
