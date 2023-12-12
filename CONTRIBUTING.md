@@ -19,6 +19,7 @@ You can help us build better by contributing your stuffs with us. Before we get 
 - **Be mindful for the rant contributions!**
   - *Man! XYZ is expensive!! let's harrass them!* ❌. This is obviously a hate speech.
   - *Man! XYZ is expensive!! let me sparsdat that for you.* ❌. Telling other gamers to pirate the assets because it cost $0 explicitly & wide-mouthedly is too extreme & also still insulting. You should keep such will of action to yourself & your family 😉.
+  - *Let me sparsdat everything for you.* ⚠️. However, you can & still allowed to will to pirate stuffs for gamers, as long as you do not mention specific who or which offending individual or organization. Keep in mind though, **you may expose yourself to Federal's watch list (to be hunted or simply being blocked by paywallists, which latter usually often a worse disaster especially if their store comes with anti-archival & DRMs)**, therefore it's still advisable that you keep such will of action to yourself & your family 😉.
   - *Man! XYZ is expensive!! let's build the rip off!* ✅. Building a knock-off know it or not, seems like a normal business practice, that help caters more gamers for those who unable to fathom high price of a product, or to disagree of original's decisions, etc etc.
   - Additionally, you may either buy or pirate the assets to research & reverse engineer the product. **Remember, do not blatantly copy the code nor the pixelings!** If you'd like to trace the pixel or the code, **be sure to mostly use the painter-weasel-fruits back and forth technique** instead of overlaying.
   - You may include rant regarding the file license, costs, and patent rights rules, at any level & granularity possible, **as long as you do not impose any life threats** to any beholding owner of those assets & patents. Life threats cannot be the goal of this campaign. There is always a better way 😉.
@@ -29,8 +30,8 @@ You can help us build better by contributing your stuffs with us. Before we get 
 - Contributors who would like to involve paid assets pays those all themselves, or sparsdat it themselves. Or pays and then sparsdat them, give across family or the organization.
   - Avoid sharing those assets outside your family or organization to prevent Federal from declaring DMCA.
 - **All Assets must allow public World / Props / Avatar upload** without microtransaction required. Once download, gamers must be allowed to public their uploads no exception, **without having to purchase nor agree to additional restrictions**.
-- **ALL SAUCE URLS MUST BE LISTED IN THE SAUCE LIST AT THE README FILE!!!** Do not & never miss any of them. All gamers shall have all of the knowledge about where did a gamer acquired those files. i.e. Please credit the link where did you download the `unitypackage`!!!
-- No malicious codes or any security exploits allowed!
+- **ALL SAUCE URLS MUST BE LISTED IN THE SAUCE LIST AT THE README FILE!!!** Do not & never miss any of them. All gamers shall have all of the knowledge about where did the gamer acquired those files. i.e. **Please credit the link where did you download the `unitypackage`!!!**
+- No malicious codes or any security exploits allowed! You are not allowed to disrupt neither our service nor ChilloutVR service with any unexpected exploits. You must report any security hole to the respective channels.
 
 ### Pull Request
 

@@ -2186,6 +2186,13 @@ Put this image onto some quads. This image is my promotion for gamers to check o
 - https://gotm.io/red-mage-games/pichon
 - https://www.markdownguide.org/cheat-sheet/
 - https://github.com/200Tigersbloxed/HRtoVRChat_OSC
+- https://x.com/nintles/status/1317669850207191046?s=20
+- https://www.deviantart.com/dizzysweaterkitty/art/MMD-DJ-Sona-DJ-Table-DOWNLOAD-521122111
+- https://www.deviantart.com/dizzysweaterkitty/art/MMD-Sweater-Meulin-DOWNLOAD-DOWN-355143286 this also also fucking delete other homestuck models too. what an -
+- https://imgur.com/4Pyxm5p update to Mochie shaders!
+- https://github.com/MochiesCode/Mochies-Unity-Shaders/releases/tag/v1.45 yea
+- https://media.giphy.com/media/xT4uQjdzhGxPSTmUk8/giphy.gif
+- https://media.giphy.com/media/xT4uQjdzhGxPSTmUk8/giphy.mp4
 
 ## sovania
 
