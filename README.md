@@ -2271,6 +2271,9 @@ Put this image onto some quads. This image is my promotion for gamers to check o
 - .
 - What's the advantage? you can use mask image to select which area it will activate
 - What's the catch? you have to use the mask image to select which area it will activate
+- https://docs.unity3d.com/Packages/com.unity.textmeshpro@4.0/manual/ColorEmojis.html
+- https://docs.unity3d.com/Manual/com.unity.textmeshpro.html
+- https://forum.godotengine.org/t/get-audio-input-using-windows-wasapi/36940/2
 
 ## sovania
 
