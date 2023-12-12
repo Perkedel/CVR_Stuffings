@@ -1,22 +1,21 @@
-A Pen which is a prop for ChlloutVR
+NOTICE: The Pen has been updated to Unity 2021.3.23f1 and to CCK 3.7, hhowever further updates are not guaranteed.
 
-- See my gumroad: https://joliavr.gumroad.com/l/joliascvrworldpens
-- See my github: https://github.com/JoliaVR/Jolia-s-World-Pen-s-For-ChilloutVR
-- Join my discord server: https://discord.gg/dR6ekufKSM
+A Prop Pen for ChlloutVR.
 
+See my gumroad: https://yusarina.gumroad.com
+See my github: https://github.com/Yusarina
 Requirements:
 
-Unity 2019.4.31f1
-ChilloutVR CCK 3.3
+Unity 2023.3.23f1
+ChilloutVR CCK 3.7
 Basic Unity and CVR knowledge.
-
 This pen has 8 Different Colours: White, Black, Red, Green, Blue, Orange, Purple and Pink, it also has an erase button so you can easily erase any mistakes you make.
 
 How to use:
 
-- To write, press your trigger button (Or Left mouse button).
-- To erase, there is a button at the end of the pen press it and it will erase the colour you currently have (Note you may have to point at it like you do will UI).
-- To change colour, there is a button on the pen (See below image) which changes the colour (Note you may have to point at it like you do will UI).
+To write, press your trigger button (Or Left mouse button).
+To erase, there is a button at the end of the pen press it and it will erase the colour you currently have (Note you may have to point at it like you do will UI).
+To change colour, there is a button on the pen (See below image) which changes the colour (Note you may have to point at it like you do will UI).
 
 How to upload:
 
@@ -24,7 +23,7 @@ Simply start a new project, import CVR's CCK and Import the Unity Package provid
 
 Issues?
 
-If there is any issues please report them on my discord server: https://discord.gg/dR6ekufKSM
+If there is any issues please report them on cia the issues tab.
 
 License:
 
