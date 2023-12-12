@@ -181,7 +181,7 @@ namespace Mochie {
 		public static GUIContent foamNormal = new GUIContent("Create Normals", "Automatically generates normals for the foam based on the grayscale value of the foam texture.");
 		public static GUIContent foamCrestStrength = new GUIContent("Crest Strength", "How visible foam is on the crests of gerstner waves.");
 		public static GUIContent foamCrestThreshold = new GUIContent("Crest Threshold", "How high or low a gerstner wave must be to have crest foam.");
-		public static GUIContent foamOpacity = new GUIContent("Opacity", "How visible the foam is on both crests and edges.");
+		public static GUIContent foamEdgeStrength = new GUIContent("Edge Strength", "How visible the foam is on the edges.");
 		public static GUIContent foamPower = new GUIContent("Edge Power", "Intensity of the edge foam gradient.");
 		public static GUIContent foamRoughness = new GUIContent("Roughness", "How rough the foam should be when calculating reflections and specular highlights.");
 		public static GUIContent foamNoiseTexCrestStrength = new GUIContent("Crest Noise", "How strongly the noise texture should affect crest foam.");

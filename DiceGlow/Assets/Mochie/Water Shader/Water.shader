@@ -60,7 +60,7 @@ Shader "Mochie/Water" {
 		_NormalMapFlipbookStrength("Normal Map Flipbook Strength", Float) = 0.2
 		_NormalMapFlipbookScale("Flipbook Scale", Vector) = (3,3,0,0)
 
-		[Enum(Off,0, Environment,1, Manual,2)]_Reflections("Probe Reflections", Int) = 1
+		[Enum(Off,0, Environment,1, Manual,2, Mirror,3)]_Reflections("Probe Reflections", Int) = 1 // Add "Mirror,3" for vrchat mirror reflections
 		_ReflStrength("Reflection Strength", Float) = 1
 		_ReflTint("Reflection Tint", Color) = (1,1,1,1)
 		[ToggleUI]_BackfaceReflections("Backface Reflections", Int) = 1
@@ -164,15 +164,15 @@ Shader "Mochie/Water" {
 		_FoamNoiseTexScroll("Scroll", Vector) = (0,0.1,0,0)
 		_FoamNoiseTexStrength("Strength", Float) = 0
 		_FoamNoiseTexCrestStrength("Crest Strength", Float) = 1.1
-		_FoamTexScale("Scale", Vector) = (5,5,0,0)
+		_FoamTexScale("Scale", Vector) = (6,6,0,0)
 		_FoamTexScroll("Scroll", Vector) = (0.1,-0.1,0,0)
 		_FoamRoughness("Roughness", Range(0,1)) = 0.2
 		[HDR]_FoamColor("Color", Color) = (1,1,1,1)
 		_FoamPower("Power", Float) = 200
-		_FoamOpacity("Opacity", Float) = 3
+		_FoamEdgeStrength("Edge Strength", Float) = 1.5
 		_FoamOffset("Parallax Offset", Float) = 0
 		_FoamCrestThreshold("Crest Threshold", Range(0,1)) = 0.5
-		_FoamCrestStrength("Crest Strength", Float) = 0
+		_FoamCrestStrength("Crest Strength", Float) = 1.5
 		[Toggle(_FOAM_STOCHASTIC_ON)]_FoamStochasticToggle("Stochastic Sampling", Int) = 0
 		_FoamDistortionStrength("Distortion Strength", Float) = 0.1
 		[Toggle(_FOAM_NORMALS_ON)]_FoamNormalToggle("Foam Normals", Int) = 0
@@ -211,6 +211,10 @@ Shader "Mochie/Water" {
 		[Enum(UnityEngine.Rendering.CullMode)]_CullMode("Cull", Int) = 2
 		[Enum(Off,0, On,1)]_ZWrite("ZWrite", Int) = 0
 		[Enum(Off,0, On,1)]_DepthEffects("Depth Effects", Int) = 1
+		[Enum(UV,0, World,1)]_TexCoordSpace("Texture Coordinate Space", Int) = 0
+		[Enum(XY,0, XZ,1, YZ,2)]_TexCoordSpaceSwizzle("Swizzle", Int) = 1
+		_GlobalTexCoordScaleUV("Global Scale", Float) = 1
+		_GlobalTexCoordScaleWorld("Global Scale", Float) = 0.1
 
         [HideInInspector]_SrcBlend("__src", Float) = 1.0
         [HideInInspector]_DstBlend("__dst", Float) = 0.0
@@ -253,7 +257,7 @@ Shader "Mochie/Water" {
 			#pragma shader_feature_local _SPECULAR_ON
 			#pragma shader_feature_local _SPECULAR_MANUAL_ON
 			#pragma shader_feature_local _REFLECTIONS_ON
-			#pragma shader_feature_local _REFLECTIONS_MANUAL_ON
+			#pragma shader_feature_local _ _REFLECTIONS_MANUAL_ON _REFLECTIONS_MIRROR_ON
 			#pragma shader_feature_local _SCREENSPACE_REFLECTIONS_ON
 			#pragma shader_feature_local _NORMALMAP_1_ON
 			#pragma shader_feature_local _DETAIL_NORMAL_ON

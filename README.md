@@ -248,6 +248,7 @@ Here are the UUIDs of all these assets we uploaded to CVR:
 | `6055a6c3-e589-45dc-a2c2-5de2d83ae449` | Moving Spawns | JOELwindows7 | . |
 | `dd4303c8-3f5c-4fed-9d37-21e8836310e3` | iPoly3D Low Poly Server Room | JOELwindows7 | . |
 | `d55da2f2-6349-4558-ad6e-f74ce92945af` | Minimum World | JOELwindows7 | . |
+| `56925a80-f3d7-40c3-ab06-3d2b299ab77b` | Zuuljedus' homeworld | JOELwindows7 | . |
 | `3fe2b7c3-129a-418e-87ad-c3931657f843` | UCC Cinema | MilchZocker | (**NOT PERKEDEL**) |
 | `af0f00bc-0702-46ce-9441-bcce0ad6c813` | UCC Avatars | MilchZocker | (**NOT PERKEDEL**) |
 | `9d0677a5-b88f-4994-901b-7b91c99e8cd8` | UCC Bird Island | MilchZocker | (**NOT PERKEDEL**) |
@@ -2193,6 +2194,83 @@ Put this image onto some quads. This image is my promotion for gamers to check o
 - https://github.com/MochiesCode/Mochies-Unity-Shaders/releases/tag/v1.45 yea
 - https://media.giphy.com/media/xT4uQjdzhGxPSTmUk8/giphy.gif
 - https://media.giphy.com/media/xT4uQjdzhGxPSTmUk8/giphy.mp4
+- yoghurt bunny bot
+- jackheartbeat
+- https://twitter.com/cap_yogurt/status/1254187450223652864?s=20
+- https://twitter.com/SarmaTeppou
+- https://twitter.com/SarmaTeppou/status/1373329043551043585
+- https://twitter.com/KindredSpirit92/status/1302047341218652160
+- https://twitter.com/SarmaTeppou/status/1302144554020278272
+- https://twitter.com/cap_yogurt/status/1502466409053376514
+- https://twitter.com/cap_yogurt/status/1248354565189070849
+- https://www.deviantart.com/shadowolfz/art/Yogurt-cap-854865914
+- https://www.kibrispdr.org/detail-5/yogurt-cap-robot-model.html wrong
+- https://www.youtube.com/watch?app=desktop&v=gYHhjh7jw1g
+- https://vrchat.com/home/world/wrld_668e4ac7-5e84-45fa-b71a-1db937a23f94
+- https://twitter.com/Xenosnake003/status/1618744895497437184 IT'S FUCKING FRAMEDOLL!!!! OH MY GOD!!! I HATE WHEN GAMERS DID NOT CREDIT!!!!!
+- **WOI, YANG LAIN TOLONGLAH KERJASAMANYA, DIKREDIT URL SIAPA YG BIKIN NIH AVATAR, ANJIIIIIIIIING, ANJING!!!**
+- https://arca.live/b/monmusu/8144825
+- https://www.reddit.com/r/VRchat/comments/gy0ahi/how_go_check_you_yogurt_cap_on_youtube_heshe/?rdt=57699
+- https://steamcommunity.com/sharedfiles/filedetails/?id=2159249987
+- https://framedoll.booth.pm/ **HERE, FRAMEDOLL**!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+- https://twitter.com/Xenosnake003/status/1618744895497437184
+- I hope them blocking me is not the cause of their demise. Let's declare it this time, it's not funny if it does. So many gamers have warned them, that the.. needling heart is not a good idea. I have spread the warn too, and I said it multiple times! 
+- But still.., not blocking me, helps you better get the warning.
+- so fuck them all for blocking me... okay okay okay.. I just... want the file. I hate any of them gone. I want to collect.. pls don't block me, what did I do??! Fucking tell me, is my aura of will bad?
+- moving on.
+- .
+- https://framedoll.booth.pm/items/1375873
+- https://framedoll.booth.pm/items/1371949
+- https://framedoll.booth.pm/items/1373257
+- https://framedoll.booth.pm/items/1371728
+- https://framedoll.booth.pm/items/1374938
+- https://framedoll.booth.pm/items/1371618
+- https://framedoll.booth.pm/items/1391507 **PAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAID**
+- https://framedoll.booth.pm/items
+- https://framedoll.booth.pm/items/1412429
+- https://framedoll.booth.pm/items/1430077 **Yoghurt Cap original wiggle bot**
+- https://framedoll.booth.pm/items/1445203 **PAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAID**
+- https://framedoll.booth.pm/items/1536074
+- https://framedoll.booth.pm/items/1906433
+- https://framedoll.booth.pm/items/2200121
+- https://framedoll.booth.pm/items/2920859
+- https://framedoll.booth.pm/items/3874247
+- https://framedoll.booth.pm/items/3922893
+- https://framedoll.booth.pm/items/3957264
+- https://framedoll.booth.pm/items/3984290
+- https://booth.pm/en/items/3072368 wait.. what is .. oh. **PPAAAAID**
+- https://booth.pm/en/items/5314122
+- https://booth.pm/en/items/3134364
+- https://lamiho.booth.pm/
+- https://c0deless.booth.pm/
+- https://framedoll.booth.pm/items/3998318
+- https://framedoll.booth.pm/items/4134199
+- https://framedoll.booth.pm/items/4209957
+- https://framedoll.booth.pm/items/4229352
+- https://skfb.ly/6x8SH arcghfasdjklh
+- https://framedoll.booth.pm/items/4349921
+- https://framedoll.booth.pm/items/4510074
+- https://framedoll.booth.pm/items/4682928
+- https://khodrin.com/christmas-scarf/
+- https://khodrin.com/christmas-hat/
+- https://gum.co/nkOP
+- https://khodrin.gumroad.com/
+- https://khodrin.com/category/asset-pack-free/
+- https://github.com/Khodrin/DynamicBoneTools/releases
+- https://github.com/Khodrin/DynamicBoneTools
+- https://github.com/Khodrin?tab=repositories
+- https://github.com/NicoKuroKusagi/localization-abi-hub
+- https://github.com/Khodrin/lowpolyassets
+- https://github.com/Khodrin/ProjectT
+- https://khodrin.gumroad.com/l/nkOP
+- https://khodrin.com/christmas-hat/
+- https://skfb.ly/6WZK9
+- https://sketchfab.com/Khodrin
+- https://khodrin.com/dynamicbone-tools/
+- go.
+- .
+- What's the advantage? you can use mask image to select which area it will activate
+- What's the catch? you have to use the mask image to select which area it will activate
 
 ## sovania
 

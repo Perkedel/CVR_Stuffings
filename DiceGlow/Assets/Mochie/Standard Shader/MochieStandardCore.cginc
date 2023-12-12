@@ -444,8 +444,10 @@ struct VertexOutputForwardBase
 	float4 localPos                       : TEXCOORD7;
     UNITY_LIGHTING_COORDS(8,9)
 
+    float3 posWorld                   : TEXCOORD10;
+
 	#if UNITY_REQUIRE_FRAG_WORLDPOS && !UNITY_PACK_WORLDPOS_WITH_TANGENT
-		float3 posWorld                   : TEXCOORD10;
+		
 	#endif
 	#if SSR_ENABLED
 		float4 screenPos                  : TEXCOORD11;
@@ -485,7 +487,7 @@ VertexOutputForwardBase vertForwardBase (VertexInput v)
 	o.color = v.color;
     o.rawUV.xy = v.uv0;
     o.rawUV.zw = v.uv1;
-    TexCoords(v, o.tex, o.tex1, o.tex2, o.tex3, o.tex4);
+    TexCoords(v, o.tex, o.tex1, o.tex2, o.tex3, o.tex4, posWorld);
     o.eyeVec.xyz = NormalizePerVertexNormal(posWorld.xyz - _WorldSpaceCameraPos);
     float3 normalWorld = UnityObjectToWorldNormal(v.normal);
     #ifdef _TANGENT_TO_WORLD
@@ -808,7 +810,7 @@ VertexOutputForwardAdd vertForwardAdd (VertexInput v)
 
     o.rawUV.xy = v.uv0;
     o.rawUV.zw = v.uv1;
-    TexCoords(v, o.tex, o.tex1, o.tex2, o.tex3, o.tex4);
+    TexCoords(v, o.tex, o.tex1, o.tex2, o.tex3, o.tex4, posWorld);
     o.eyeVec.xyz = NormalizePerVertexNormal(posWorld.xyz - _WorldSpaceCameraPos);
     o.posWorld = posWorld.xyz;
     float3 normalWorld = UnityObjectToWorldNormal(v.normal);

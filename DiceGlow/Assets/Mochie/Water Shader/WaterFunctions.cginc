@@ -28,6 +28,17 @@ float3 BoxProjection(float3 dir, float3 pos, float4 cubePos, float3 boxMin, floa
 	return dir;
 }
 
+float3 GetMirrorReflections(float4 reflUV, float3 normal, float roughness){
+    float perceptualRoughness = roughness;
+    perceptualRoughness = perceptualRoughness*(1.7 - 0.7*perceptualRoughness);
+    float mip = perceptualRoughnessToMipmapLevel(perceptualRoughness);
+	reflUV.xy += normal.xy;
+    float2 uv = reflUV.xy / (reflUV.w + 0.00000001);
+    float4 uvMip = float4(uv, 0, mip * 6);
+    float3 refl = unity_StereoEyeIndex == 0 ? tex2Dlod(_ReflectionTex0, uvMip) : tex2Dlod(_ReflectionTex1, uvMip);
+    return refl;
+}
+
 float3 GetWorldReflections(float3 reflDir, float3 worldPos, float roughness){
 	float3 baseReflDir = reflDir;
 	roughness *= 1.7-0.7*roughness;
@@ -142,7 +153,7 @@ float3 GerstnerWave(float4 wave, float3 vertex, float speed, float rotation, ino
 		) * offsetMask;
 	}
 	
-	return float3(0, a * sin(f), dir.y * (a*cos(f)));
+	return float3(dir.x * (a*cos(f)), a * sin(f), dir.y * (a*cos(f)));
 }
 
 #endif // WATER_FUNCTIONS_INCLUDED

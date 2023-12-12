@@ -36,7 +36,7 @@ public class WaterEditor : ShaderGUI {
     Toggles toggles = new Toggles(new string[] {
 			"BASE", 
 			"NORMAL MAPS", 
-			"REFLECTIONS & SPECULAR", 
+			"SPECULARITY", 
 			"FLOW MAPPING", 
 			"VERTEX OFFSET",
 			"CAUSTICS",
@@ -51,7 +51,7 @@ public class WaterEditor : ShaderGUI {
 	}, 0);
 
     string header = "WaterHeader_Pro";
-	string versionLabel = "v1.16";
+	string versionLabel = "v1.17";
 
 	MaterialProperty _Color = null;
 	MaterialProperty _NonGrabColor = null;
@@ -140,7 +140,7 @@ public class WaterEditor : ShaderGUI {
 	MaterialProperty _FoamRoughness = null;
 	MaterialProperty _FoamColor = null;
 	MaterialProperty _FoamPower = null;
-	MaterialProperty _FoamOpacity = null;
+	MaterialProperty _FoamEdgeStrength = null;
 	MaterialProperty _FoamCrestStrength = null;
 	MaterialProperty _FoamCrestThreshold = null;
 	MaterialProperty _FoamNoiseTexScroll = null;
@@ -240,6 +240,11 @@ public class WaterEditor : ShaderGUI {
 	MaterialProperty _SubsurfaceThreshold = null;
 	MaterialProperty _SubsurfaceBrightness = null;
 	MaterialProperty _SubsurfaceStrength = null;
+	MaterialProperty _TexCoordSpace = null;
+	MaterialProperty _TexCoordSpaceSwizzle = null;
+	MaterialProperty _GlobalTexCoordScaleUV = null;
+	MaterialProperty _GlobalTexCoordScaleWorld = null;
+
 	// MaterialProperty _FogTint2 = null;
 	// MaterialProperty _FogPower2 = null;
 	// MaterialProperty _FogBrightness2 = null;
@@ -373,7 +378,7 @@ public class WaterEditor : ShaderGUI {
 			};
 			Foldouts.Foldout("NORMAL MAPS", foldouts, norm0TabButtons, mat, me, norm0TabAction);
 
-			// Reflections & Specular
+			// Reflections & Specular Highlights
 			reflSpecTabButtons.Add(()=>{ResetReflSpec();}, MGUI.resetLabel);
 			Action reflSpecTabAction = ()=>{
 				MGUI.Space4();
@@ -384,6 +389,9 @@ public class WaterEditor : ShaderGUI {
 				me.ShaderProperty(_DetailTextureMode, Tips.detailMode);
 				MGUI.Space8();
 				me.ShaderProperty(_Reflections, "Reflections");
+				if (_Reflections.floatValue == 3){
+					MGUI.DisplayWarning("Mirror mode requires a VRChat mirror component with this shader selected in the custom shader field. It also requires the mesh be facing forwards on the local Z axis (see default unity quad for example). Lastly, this incurs the same performance cost as any other VRChat mirror, use it very sparingly.");
+				}
 				MGUI.PropertyGroup(()=>{
 					MGUI.ToggleGroup(_Reflections.floatValue == 0);
 					if (_Reflections.floatValue == 2){
@@ -394,7 +402,7 @@ public class WaterEditor : ShaderGUI {
 						me.ShaderProperty(_ReflTint, "Tint");
 					}
 					me.ShaderProperty(_ReflStrength, "Strength");
-					if (_DepthEffects.floatValue == 1){
+					if (_DepthEffects.floatValue == 1 && _Reflections.floatValue != 3){
 						MGUI.ToggleFloat(me, "Screenspace Reflections", _SSR, _SSRStrength);
 						if (_SSR.floatValue > 0){
 							me.ShaderProperty(_EdgeFadeSSR, "Edge Fade");
@@ -405,7 +413,7 @@ public class WaterEditor : ShaderGUI {
 					MGUI.ToggleGroupEnd();
 				});
 				MGUI.Space8();
-				me.ShaderProperty(_Specular, "Specular");
+				me.ShaderProperty(_Specular, "Specular Highlights");
 				MGUI.PropertyGroup( ()=>{
 					MGUI.ToggleGroup(_Specular.floatValue == 0);
 					me.ShaderProperty(_SpecTint, "Tint");
@@ -417,7 +425,7 @@ public class WaterEditor : ShaderGUI {
 				});
 
 			};
-			Foldouts.Foldout("REFLECTIONS & SPECULAR", foldouts, reflSpecTabButtons, mat, me, reflSpecTabAction);
+			Foldouts.Foldout("SPECULARITY", foldouts, reflSpecTabButtons, mat, me, reflSpecTabAction);
 
 			// Emission
 			emissTabButtons.Add(()=>{ResetEmission();}, MGUI.resetLabel);
@@ -622,7 +630,7 @@ public class WaterEditor : ShaderGUI {
 				MGUI.PropertyGroup(()=>{
 					me.ShaderProperty(_FoamRoughness, Tips.foamRoughness);
 					me.ShaderProperty(_FoamPower, Tips.foamPower);
-					me.ShaderProperty(_FoamOpacity, Tips.foamOpacity);
+					me.ShaderProperty(_FoamEdgeStrength, Tips.foamEdgeStrength);
 					me.ShaderProperty(_FoamCrestStrength, Tips.foamCrestStrength);
 					me.ShaderProperty(_FoamCrestThreshold, Tips.foamCrestThreshold);
 				});
@@ -757,6 +765,8 @@ public class WaterEditor : ShaderGUI {
 				MGUI.PropertyGroup(()=>{
 					me.RenderQueueField();
 					me.ShaderProperty(_StencilRef, "Stencil Reference");
+				});
+				MGUI.PropertyGroup(()=>{
 					EditorGUI.BeginChangeCheck();
 					me.ShaderProperty(_TransparencyMode, "Transparency Mode");
 					if (EditorGUI.EndChangeCheck()){
@@ -766,11 +776,21 @@ public class WaterEditor : ShaderGUI {
 					me.ShaderProperty(_ZWrite, "ZWrite");
 					if (transMode == 2){
 						me.ShaderProperty(_DepthEffects, "Depth Effects");
-						if (_DepthEffects.floatValue == 1){
-							MGUI.DisplayInfo("   Depth effects require a \"Depth Light\" prefab be present in the scene.\n   (Found in: Assets/Mochie/Unity/Prefabs)");
-						}
 					}
 				});
+				MGUI.PropertyGroup(()=>{
+					me.ShaderProperty(_TexCoordSpace, "Texture Coordinate Space");
+					if (_TexCoordSpace.floatValue == 1f){
+						me.ShaderProperty(_TexCoordSpaceSwizzle, "Swizzle");
+						me.ShaderProperty(_GlobalTexCoordScaleWorld, "Texture Coordinate Scale");
+					}
+					else {
+						me.ShaderProperty(_GlobalTexCoordScaleUV, "Texture Coordinate Scale");
+					}
+				});
+				if (_DepthEffects.floatValue == 1 && transMode == 2){
+					MGUI.DisplayInfo("   Depth effects require a \"Depth Light\" prefab be present in the scene.\n   (Found in: Assets/Mochie/Unity/Prefabs)");
+				}
 			};
 			Foldouts.Foldout("RENDER SETTINGS", foldouts, renderingTabButtons, mat, me, renderingTabAction);
 
@@ -840,9 +860,11 @@ public class WaterEditor : ShaderGUI {
 		int causticsMode = mat.GetInt("_CausticsToggle");
 		int normalMapMode = mat.GetInt("_NormalMapMode");
 		int ssrToggle = mat.GetInt("_SSR");
+		bool ssrEnabled = ssrToggle == 1 && depthFXToggle == 1 && transMode == 2 && (reflMode == 1 || reflMode == 2);
 
 		MGUI.SetKeyword(mat, "_REFLECTIONS_ON", reflMode > 0);
 		MGUI.SetKeyword(mat, "_REFLECTIONS_MANUAL_ON", reflMode == 2);
+		MGUI.SetKeyword(mat, "_REFLECTIONS_MIRROR_ON", reflMode == 3);
 		MGUI.SetKeyword(mat, "_SPECULAR_ON", specMode > 0);
 		MGUI.SetKeyword(mat, "_NOISE_TEXTURE_ON", vertMode == 1);
 		MGUI.SetKeyword(mat, "_GERSTNER_WAVES_ON", vertMode == 2);
@@ -855,7 +877,7 @@ public class WaterEditor : ShaderGUI {
 		MGUI.SetKeyword(mat, "_CAUSTICS_TEXTURE_ON", causticsMode == 2 && depthFXToggle == 1);
 		MGUI.SetKeyword(mat, "_CAUSTICS_FLIPBOOK_ON", causticsMode == 3 && depthFXToggle == 1);
 		MGUI.SetKeyword(mat, "_NORMALMAP_FLIPBOOK_ON", normalMapMode == 1);
-		MGUI.SetKeyword(mat, "_SCREENSPACE_REFLECTIONS_ON", ssrToggle == 1);
+		MGUI.SetKeyword(mat, "_SCREENSPACE_REFLECTIONS_ON", ssrEnabled);
 	}
 
 	void CheckTrilinear(Texture tex) {
@@ -995,18 +1017,18 @@ public class WaterEditor : ShaderGUI {
 	}
 
 	void ResetFoam(){
-		_FoamTexScale.vectorValue = new Vector4(5,5,0,0);
+		_FoamTexScale.vectorValue = new Vector4(6,6,0,0);
+		_FoamTexScroll.vectorValue = new Vector4(0.1f,-0.1f,0,0);
 		_FoamRoughness.floatValue = 0.2f;
 		_FoamColor.colorValue = Color.white;
 		_FoamPower.floatValue = 200f;
-		_FoamOpacity.floatValue = 3f;
-		_FoamTexScroll.vectorValue = new Vector4(0.1f,-0.1f,0,0);
-		_FoamCrestStrength.floatValue = 0.5f;
-		_FoamCrestThreshold.floatValue = 0f;
+		_FoamEdgeStrength.floatValue = 1.5f;
+		_FoamCrestStrength.floatValue = 1.5f;
+		_FoamCrestThreshold.floatValue = 0.5f;
+		_FoamNoiseTexScale.vectorValue = new Vector4(3f,3f,0,0);
 		_FoamNoiseTexScroll.vectorValue = new Vector4(0f,0.1f,0f,0f);
 		_FoamNoiseTexStrength.floatValue = 0f;
 		_FoamNoiseTexCrestStrength.floatValue = 1.1f;
-		_FoamNoiseTexScale.vectorValue = new Vector4(3f,3f,0,0);
 		_FoamDistortionStrength.floatValue = 0.1f;
 		_FoamNormalStrength.floatValue = 4f;
 		_FoamNormalToggle.floatValue = 0f;
@@ -1075,6 +1097,10 @@ public class WaterEditor : ShaderGUI {
 		_DepthEffects.floatValue = 1f;
 		_ZWrite.floatValue = 0f;
 		_CullMode.floatValue = 0f;
+		_TexCoordSpace.floatValue = 0f;
+		_TexCoordSpaceSwizzle.floatValue = 1f;
+		_GlobalTexCoordScaleUV.floatValue = 1f;
+		_GlobalTexCoordScaleWorld.floatValue = 0.1f;
 		ApplyTransparencySettings(mat);
 	}
 

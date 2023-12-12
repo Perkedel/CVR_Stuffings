@@ -357,6 +357,104 @@ RectTransform:
   m_AnchoredPosition: {x: 0, y: 0}
   m_SizeDelta: {x: -20, y: -20}
   m_Pivot: {x: 0.5, y: 0.5}
+--- !u!1 &2426509337687592292
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3328155383566480588}
+  - component: {fileID: 7362037760068740442}
+  - component: {fileID: 1642516908181998765}
+  - component: {fileID: 5684894327195972598}
+  m_Layer: 0
+  m_Name: ImageCometogether
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3328155383566480588
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2426509337687592292}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -2.7500002, y: 1.75, z: 0.4999998}
+  m_LocalScale: {x: 2.4700003, y: 1.3893751, z: 1.2350001}
+  m_ConstrainProportionsScale: 1
+  m_Children: []
+  m_Father: {fileID: 8138091126018637624}
+  m_RootOrder: 2
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!33 &7362037760068740442
+MeshFilter:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2426509337687592292}
+  m_Mesh: {fileID: 10210, guid: 0000000000000000e000000000000000, type: 0}
+--- !u!23 &1642516908181998765
+MeshRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2426509337687592292}
+  m_Enabled: 1
+  m_CastShadows: 1
+  m_ReceiveShadows: 1
+  m_DynamicOccludee: 1
+  m_StaticShadowCaster: 0
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 2
+  m_RayTraceProcedural: 0
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 2100000, guid: 66130a10a4035d744b06187f785c3d59, type: 2}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 1
+  m_SelectedEditorRenderState: 3
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+  m_AdditionalVertexStreams: {fileID: 0}
+--- !u!64 &5684894327195972598
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2426509337687592292}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 4
+  m_Convex: 0
+  m_CookingOptions: 30
+  m_Mesh: {fileID: 10210, guid: 0000000000000000e000000000000000, type: 0}
 --- !u!1 &2728754047206693530
 GameObject:
   m_ObjectHideFlags: 0
@@ -1366,6 +1464,7 @@ Transform:
   m_Children:
   - {fileID: 8130518681133036561}
   - {fileID: 372127208090891083}
+  - {fileID: 3328155383566480588}
   m_Father: {fileID: 7870835608739543627}
   m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -1485,33 +1584,33 @@ MonoBehaviour:
 
     So, if you... want.. any material
     using VoyVivika''s shader to blink in AudioLink.., you gotta.. bring which area
-    you''d wanted it to flash, i.e., <b>the mask of it</b>, yess! Okay, it''s a big
-    disadvantage looks like, but what piqued me now.. the..... the mechanism.., that
-    used former shader, had the same requirement, I guess. Yep, I can bring the same
-    mask that marks where the speaker woofer to which it should act in AudioLink.
+    you''d wanted it to flash, i.e., <b>the mask of it</b>, yess! Okay, that''s a
+    big disadvantage looks like, but what piqued me now.. the..... the mechanism..,
+    that used by the former shader, had the same requirement, I guess. Yep, I can
+    bring the same mask that marks where the speaker woofer to which it should act
+    in AudioLink.
 
 
-    And
-    looks like it''s gonna works, the area mask I gave now emits which part is the
-    woofer.
+    And looks like it''s gonna works, the area mask I gave now
+    emits which part is the woofer.
 
 
-    I mean, very simple. you have a... woofer texture. and then the
-    second image is the mask. Start it all black first as your canvas. The area that
-    is woofer, draw it white, with.. smooth edges to add realism if you use.. reactive
-    speaker, and any similar.
+    I mean, very simple. you have a... woofer
+    texture. and then the second image is the mask. Start it all black first as your
+    canvas. The area that is woofer, draw it white, with.. smooth edges to add realism
+    if you use.. reactive speaker, and any similar.
 
 
-    Right that''s it. I''m I cannot help right now.
-    And when other gamers going to <i>do that here</i>, can you please help me build
-    that similar shader that.. You know, the masked area, based on.. AudioLink something,
-    normal & bumply goes.. up & down. From what I think or understand, how did..
-    Pammeantth achieve it like so.. <color=#FFAA00><b>And it gotta be $0</b></color>
-    of course, coz you just saw it. Reverse engineer whatever weasel-painter-fruits
-    you like, to most importantly, this masked area goes up & down in AudioLink.
-    I mean.. it''s rocket science this time, but.. will you use your power & knowledge
-    for gamers..., or your own something? You pick, idk. I hope you use for gamer
-    pls i beg you yess.
+    Right that''s it. I''m
+    I cannot help right now. And when other gamers going to <i>do that here</i>,
+    can you please help me build that similar shader that.. You know, the masked
+    area, based on.. AudioLink something, normal & bumply goes.. up & down. From
+    what I think or understand, how did.. Pammeantth achieve it like so.. <color=#FFAA00><b>And
+    it gotta be $0</b></color> of course, coz you just saw it. Reverse engineer whatever
+    weasel-painter-fruits you like, to most importantly, this masked area goes up
+    & down in AudioLink. I mean.. it''s rocket science this time, but.. will you
+    use your power & knowledge for gamers..., or your own something? You pick, idk.
+    I hope you use for gamer pls i beg you yess.
 
 
     (JOELwindows7)'
