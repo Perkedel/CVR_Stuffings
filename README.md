@@ -320,6 +320,8 @@ Here are the UUIDs of all these assets we uploaded to CVR:
 | `2d106677-d4d3-4671-b960-fa0c6dda30a1` | A Failed Car | JOELwindows7 | **RCC is not $0!!!** How do we supposed to car?! |
 | `3f562c88-e8d6-4b39-827c-a910588bc4e6` | DynBonen | JOELwindows7 | . |
 | `ddb5a8b0-758e-4469-a181-5c5e959bab07` | Le Among Us | JOELwindows7 | hfcRed's among us follower demo |
+| `6566357c-3640-4b9f-b6eb-2abab7225e4b` | Unity Crashed | JOELwindows7 | How did this happened?! |
+| `597e172e-2ca1-426f-9b84-a5e701b3478c` | ChilloutVR Crashed | JOELwindows7 | IMPOSSIBLE!! |
 | `66effc2f-41af-475d-bfd2-df37989c1600` | VoyVivika Portable Tutorial Prop | VoyVivika | (**NOT PERKEDEL**) |
 | `1dd3b77b-8982-4627-9979-4a0503b6f2b9` | Kavex's Rib | Kavex | (**NOT PERKEDEL**) ported from https://3dwarehouse.sketchup.com/model/4ee36dd6-7482-41a2-87ff-ceaefc83c4da/Rippchen with [song](https://www.youtube.com/watch?v=_1zzRLMHlDM) |
 | `39c89b9e-abbe-4b48-8afc-d2ad910bf8e6` | Kavex's 🏳️‍⚧️ Trans heart | Kavex | (**NOT PERKEDEL**) |
@@ -2119,7 +2121,7 @@ Put this image onto some quads. This image is my promotion for gamers to check o
 - https://booth.pm/en/items/1026956
 - https://booth.pm/en/items/1489411
 - https://booth.pm/en/items/1484117
-- https://gend-vrchat.booth.pm/ has sleep idle animation
+- https://gend-vrchat.booth.pm/ has sleep idle animation sleeping idle animation
 - https://booth.pm/en/items/2645962 PAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAID
 - https://peachyboba.gumroad.com/
 - you gamers shut up with KYC!! ... Oh.. not just you. companies too under.., `Guest list`.. SHU-
@@ -2274,6 +2276,16 @@ Put this image onto some quads. This image is my promotion for gamers to check o
 - https://docs.unity3d.com/Packages/com.unity.textmeshpro@4.0/manual/ColorEmojis.html
 - https://docs.unity3d.com/Manual/com.unity.textmeshpro.html
 - https://forum.godotengine.org/t/get-audio-input-using-windows-wasapi/36940/2
+- If you put any outrageous stipulation, X0p1r4t3 will judge your file (which is not X0p1r4t3 nor Archive things. Archivers do not judge!), and compare you to better and similar file of the same patent. You wouldn't want Archivers to start judging. **I'm serious**.
+- SO FUCKING, GIVE ME THE FILE. Stop asking my Discord (nor email, nor DA Notes, nor PM DM, nor whatever). Just... share it. idk. pls.
+- I promise you, & I always did. Your name is carved alongside the installation. i.e., credited down to the Sauce URL.
+- https://hanaechu.booth.pm/items/4001133
+- https://booth.pm/en/items/3496911
+- https://booth.pm/en/items/2178937
+- https://puetsua.booth.pm/items/4667956
+- https://puetsua.booth.pm/items/4953697
+- https://puetsua.booth.pm/
+- https://booth.pm/ja/items/4701501
 
 ## sovania
 
