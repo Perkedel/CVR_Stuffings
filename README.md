@@ -85,6 +85,7 @@ Below are assets that are not included and **must be installed prior of usage an
 - [RED_SIM Perfect Water Shader](https://www.patreon.com/posts/32255294/). **Paywalled**. Instead, [this partialized free version](https://www.patreon.com/posts/32252234) included.
 - [RED_SIM XMAS Lights](https://www.patreon.com/posts/xmas-lights-full-32033307). **Paywalled**. Instead, [this partialized free version](https://www.patreon.com/posts/xmas-lights-32030551) included.
 - [VRA-05 `Morph`](https://gh0stt.gumroad.com/l/morph). **Paywalled**. Instead, [this partialized free version](https://gh0stt.gumroad.com/l/morph) included.
+- [Hekky Shaders](https://www.patreon.com/hekky). **Paywalled**. Instead, [this partialized free version](https://github.com/hyblocker/hekky-shaders) included.
 
 <!-- Pls include all free but CCK, to backup! -->
 > ~~Some packages (e.g. `.unitypackage` extracted) are included for ***convenience***~~ All $0 & Redistribution allowed licensed `.unitypackage`s are included.  
@@ -104,6 +105,10 @@ Gyouter: Thank you for your feedback. We will together discuss this.
 Info: Current Ignore settings are: Common Free, Paid. Current Always include settings are: Gone 404 (including reuploads).
 
 Joel: idk what am I thinking, We call these DMCAers Federals, that's what X0p1r4t3s from Admiral Zumi to his citizens calls them. There are alot of them, spread across galaxies with one goal, that is to enforce legit buying and if necessary, harrass the sparsdators until they stop doing that, and then anything ends, impose huge fines without mercy. That's why it's called `Federals`. Alot yes, Spreading yes, One same or similar goal yes. I think I just ruined another 🌈 Rainbow true meaning just like that Germany guy once upon a time who formerly a farmer, and then upset about his nation got troubled something2, and became full on chancelor of some military organisation idk. or maybe bluntly, uh.. ruined what does 🌈 actually means normally, and ruined by.. umm to mean include something that's.. **too more**, away from God's intent. I can't think a better word atm, I'm sorry! Find me word easier to say than `Federals` and originally means negatively, what? `Dee Em See Ae` is hard to say!
+
+.......
+
+⚠️ Turned to list of shame! Pls reconfigure promptly
  -->
 
 ### Proves of purchases
@@ -2339,6 +2344,56 @@ Put this image onto some quads. This image is my promotion for gamers to check o
 - https://shaders.orels.sh/ Take a look at this orels1 shader!
 - https://github.com/orels1/orels-Unity-Shaders
 - https://shaders.orels.sh/docs/installation
+- https://assetstore.unity.com/packages/tools/level-design/bakery-gpu-lightmapper-122218
+- https://github.com/PiMaker/ltcgi
+- attribution: `This project/world uses LTCGI by _pi_, see 'github.com/pimaker/ltcgi'.`
+- https://github.com/orels1/orels-Unity-Shaders/releases if the Package Manager way does not work, take it off & use `.unitypackage` instead.
+- https://shaders.orels.sh/docs/shaders-list the shader folder is `orels1` in Shader type of a Material.
+- https://www.patreon.com/posts/fake-parallax-77385180?utm_medium=clipboard_copy&utm_source=copyLink&utm_campaign=postshare_fan&utm_content=join_link fake parallax window pls. Oh, it's already included with main shader pack.
+- https://www.patreon.com/hekky/posts
+- https://uniunishop.booth.pm/ hey
+- https://booth.pm/en/items/1148311 do not forget this!
+- https://booth.pm/ja/items/1142851 OH SHIT! (PAID)
+- https://uniunishop.booth.pm/items/1277266
+- https://uniunishop.booth.pm/items/1416512
+- https://uniunishop.booth.pm/items/1454216
+- https://uniunishop.booth.pm/items/1572261
+- https://uniunishop.booth.pm/items/1572277
+- https://uniunishop.booth.pm/items/1572285
+- https://uniunishop.booth.pm/items/1587117
+- https://uniunishop.booth.pm/items/1635280 iyey
+- https://uniunishop.booth.pm/items/1735249
+- https://uniunishop.booth.pm/items/1764618
+- https://uniunishop.booth.pm/items/2147846
+- https://uniunishop.booth.pm/items/3692917
+- https://uniunishop.booth.pm/items/4633595 iyey??
+- https://uniunishop.booth.pm/items/4638603 iyey??
+- https://uniunishop.booth.pm/items/4641365 iyey??
+- https://vrun.booth.pm/
+- https://kouboutokiya.booth.pm/
+- https://booth.pm/en/items/2278448
+- https://booth.pm/en/items/1564788
+- https://booth.pm/en/items/3681787
+- https://booth.pm/en/items/4511536
+- https://youtu.be/17p4SnL1kus
+- https://booth.pm/en/items/4511536 even the boob is not free.............................................. wait. uh.. I was movie-ing. nvm, move on.
+- https://booth.pm/en/items/4108136 I said move on!
+- https://tani-hara.booth.pm/
+- https://mirrornoa.booth.pm/
+- https://mirrornoa.booth.pm/
+- https://vlran.booth.pm/ hmm
+- https://vlran.booth.pm/items/5327999 This is for VRChat. in ChilloutVR, there is AdultToyAPI mod. Check [Knah's MelonAssistant](https://github.com/knah/CVRMelonAssistant)!
+- https://uniunishop.booth.pm/items/5213016 iyey
+- https://uniunishop.booth.pm/items/5230329
+- https://uniunishop.booth.pm/items/1168687
+- uniuni was the one behind: Crystal Shader, Candy Paint shader, uh what again?, Fake inner light, Planet shader?, Uni Star, Custom Camera.
+- PiMaker / `_pi_` was the one behind LTCGI
+- https://uniunishop.booth.pm/items?page=2
+- https://khodrin.com/hud-shader-3-0/
+- **Occcassional reminder**, please do not harrass paywallists. ***There is always a better way 😉***.
+- Keep the such files to yourself, family, & organizations only.
+- https://www.youtube.com/watch?v=2NdPHW4_SOg
+- https://youtu.be/Ar9eIn4z6XE?si=xmnFBk0nYKk7waVK WE HAVE `Shader Graph` IN UNITY PACKAGE MANAGER
 
 ## sovania
 
