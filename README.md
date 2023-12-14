@@ -2299,6 +2299,46 @@ Put this image onto some quads. This image is my promotion for gamers to check o
 - https://sm0l.gumroad.com/ meet smol again!!
 - https://discord.gg/Zu4nhqhu5R and discord of it.
 - https://sm0l.gumroad.com/l/ixxpv?layout=profile Hey did you know **you can't over 250 MB if you $0 it?** So one trick is.. is to um... Paywall it, **BUUUT,** put a **100% discount code right next to it!** WIN WIN!!!
+- https://github.com/z3y/ install these all!!!
+- https://github.com/z3y/ShaderGraph
+- https://github.com/z3y/shaders
+- https://github.com/CianNoonan/SmartTexture
+- https://github.com/phi-lira/SmartTexture
+- https://github.com/Kink3d/kPackageTemplate ooooooooooo! package template!!!
+- https://github.com/Thryrallo/ThryEditor
+- https://discord.thryrallo.de/ and discord
+- https://thryeditor.thryrallo.de/
+- https://github.com/TheRensei/GrandGeoGrass-Public Grass shader!!! `GGG_Package`, fell to `Plugins` folder
+- https://github.com/chikacc/Smart-Hierarchy
+- https://github.com/neon-age/Smart-Hierarchy archived old
+- https://github.com/chikacc/Smart-Hierarchy So, here are packages under `com.av` Scoped registry.
+- https://openupm.com/packages/com.av.smart-hierarchy/
+- https://openupm.com/packages/com.av.smart-hierarchy/#modal-packageinstaller
+- argh shit, `Smart Hierarchy` did not work!!!
+- well `Smart Inspector` works. great!
+- okay, maybe `Tags`, don't. It says replace built-in assets!
+- https://github.com/z3y/BakeryModeUtility This is Bakery Mode Utility.
+- https://github.com/PiMaker/ltcgi.git another from Pi, the LTCGI!
+- https://github.com/PiMaker/ltcgi/releases/tag/v1.2.4 Okay, if you want the VRChat adapters, you got it here. This was the last version ever had it. ... btw, why you gamers still in VRChat, then what're you doing here?
+- https://architechvr.gumroad.com/l/protv VRChat complete video player. Note that the difference, as ChilloutVR had it built-in. **But is CVR compares higher than ProTV in VRC?**
+- https://github.com/MerlinVR/USharpVideo Or maybe this?
+- https://github.com/z3y/XatlasLightmap.git iyey lightmapeh
+- the Sponza pls
+- https://github.com/z3y/ClusteredBIRP lamp maps
+- [How to use z3y Birp](https://github.com/z3y/ClusteredBIRP?tab=readme-ov-file#how-to-use):
+  - Swap shaders to a supported shader (a standard shader example included CBRIP/Standard - Mono SH enabled by default)
+  - Drag in the manager prefab in the scene
+  - Drag in lights and reflection probe prefabs
+  - Press bake and pack reflection probes
+- https://github.com/z3y?tab=repositories
+- https://github.com/z3y/UdonBakeryAdapter
+- https://github.com/phi-lira/SmartTexture Smart Texture packing!!!
+- https://docs.unity3d.com/Manual/upm-ui-giturl.html
+- https://github.com/z3y/ClusteredBIRP.git Hello, this guy requires VRChat SDK.. you forgot to take it off.
+- Argh man, I gotta uninstall ClusteredBIRP for now. You gotta wrap all VRChat dependency under some... `#if UDONSHARP` & `#endif`s.
+- https://shaders.orels.sh/ Take a look at this orels1 shader!
+- https://github.com/orels1/orels-Unity-Shaders
+- https://shaders.orels.sh/docs/installation
 
 ## sovania
 
