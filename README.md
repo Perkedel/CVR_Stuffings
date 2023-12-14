@@ -2286,6 +2286,19 @@ Put this image onto some quads. This image is my promotion for gamers to check o
 - https://puetsua.booth.pm/items/4953697
 - https://puetsua.booth.pm/
 - https://booth.pm/ja/items/4701501
+- https://youtu.be/U8W1SWWAZ6E?si=B4ilbmsadzdbmoZE how to play never have I ever
+- https://www.patreon.com/AlphaBlendInteractive
+- https://github.com/z3y/shaders don't forget to install these!!!!
+- https://github.com/PiMaker/VRChatUnityThings I think these one shows under `_pi_`???
+- https://marketplace.secondlife.com/p/The-complete-Tokushi-collection/12567748 wait, what?! Racush been SecondLife before?! (PAID)
+- https://www.tumblr.com/tokushiavatars here's old tumblr of it
+- https://secondlife.com/ well how itself been now?
+- https://secondlife.com/support/downloads/ idkman
+- https://tokushi.gumroad.com/ and we're stuck.
+- Racush been together with Tokushi.
+- https://sm0l.gumroad.com/ meet smol again!!
+- https://discord.gg/Zu4nhqhu5R and discord of it.
+- https://sm0l.gumroad.com/l/ixxpv?layout=profile Hey did you know **you can't over 250 MB if you $0 it?** So one trick is.. is to um... Paywall it, **BUUUT,** put a **100% discount code right next to it!** WIN WIN!!!
 
 ## sovania
 
