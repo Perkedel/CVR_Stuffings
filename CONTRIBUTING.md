@@ -48,3 +48,29 @@ a
 ## Developing your own stuffs
 
 Documentation for ***Whole JOELwindows7 Unity Package*** is coming soon. In the meantime, you make regularly checkout our **Action** to inspect this `.unitypackage` our CI has packaged fresh, every commit.
+
+### Setup
+
+To get started with standalone ChilloutVR Unity Project installing our whole package, ensure that you have installed the following packages beforehand:
+
+- **(CORE)** CVR Content Creation Kit
+- **(CORE) (Unity Package Manager)** TextMesh Pro along with its examples.
+- Orels 1. Install the UPM packages in following order: 
+    1. a
+    2. b
+    3. c
+- DomNomNomVR AudioLink. Then add original llealloo's assets
+    1. Install the DomNomVR's `.unitypackage`
+    2. Install original llealloo's `.unitypackage` **BUT, only the extra new FBX files!!** Make sure to have added: Circle.
+    3. c
+- aa
+- aa
+- aa
+- aa
+- aa
+- aa
+- aa
+- aa
+- etc.
+
+After it's all done, head over to the (release?), download & import to your project.
