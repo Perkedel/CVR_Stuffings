@@ -2394,6 +2394,9 @@ Put this image onto some quads. This image is my promotion for gamers to check o
 - Keep the such files to yourself, family, & organizations only.
 - https://www.youtube.com/watch?v=2NdPHW4_SOg
 - https://youtu.be/Ar9eIn4z6XE?si=xmnFBk0nYKk7waVK WE HAVE `Shader Graph` IN UNITY PACKAGE MANAGER
+- https://github.com/Perkedel/HRtoVRChat_OSC forked just in case
+- https://github.com/NovaVoidHowl/CVR---Guides-Notes/blob/main/local-only-anims.md
+- https://github.com/NovaVoidHowl/CVR---Guides-Notes/blob/main/Avatar%20Creation%20info.md
 
 ## sovania
 
