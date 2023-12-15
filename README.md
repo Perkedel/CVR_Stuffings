@@ -2423,6 +2423,161 @@ Put this image onto some quads. This image is my promotion for gamers to check o
 - https://mommamollycvr.gumroad.com/l/imrfi?layout=profile This is MollyTribute's interaction layer
 - Smart Inspector errors `UIElemements` not found in namespace `UnityEditor`
 - removed Smart Inspector yahhhhhhhhhhhhhhhhh
+- Incoming Godette things unsorted
+- https://www.blendswap.com/
+- https://web.archive.org/web/20201112003813/https://www.blendswap.com/blend/22276
+- https://blendswap.com/blends/view/19845
+- https://blendswap.com/
+- https://twitter.com/01lifeleft/status/1046434416073957376
+- https://danbooru.donmai.us/posts/6644811?q=godette
+- https://danbooru.donmai.us/posts/6644826?q=godette
+- https://danbooru.donmai.us/posts/6731018?q=godette
+- https://danbooru.donmai.us/posts/6833511?q=godette
+- https://danbooru.donmai.us/posts?tags=godette&z=1
+- https://danbooru.donmai.us/posts/6833536
+- https://mastodon.gamedev.place/@akien/99446171762346677
+- https://danbooru.donmai.us/posts/6730908
+- https://countouf.itch.io/godette-asset
+- https://www.reddit.com/r/godot/comments/xhbh53/i_made_free_animated_asset_pack_featuring_godette/
+- https://www.reddit.com/r/godot/comments/mtny4k/godette_the_game_maker/
+- https://twitter.com/TysonTanX/status/1506226919733403652
+- https://x.com/TysonTanX/status/1506295529839505411?s=20
+- https://www.artstation.com/artwork/RydXzO
+- https://www.artstation.com/artwork/OGlg36
+- https://www.artstation.com/artwork/klPJ9l
+- https://sourceforge.net/p/supertuxkart/code/HEAD/tree/media/trunk/karts/godette/
+- https://twitter.com/TysonTanX/status/1506226919733403652?t=lB01Zq24KrXCguEr-xaIrg
+- https://x.com/TysonTanX/status/1506226919733403652?s=20
+- https://twistedtwigleg.itch.io/twistedik2
+- https://twitter.com/zahlenmaler
+- https://sketchfab.com/zahlenmaler
+- https://skfb.ly/oxZY8
+- https://twitter.com/zahlenmaler
+- https://www.youtube.com/watch?v=w9m2JDj6teY
+- https://github.com/AniMesuro/posepal?tab=readme-ov-file
+- https://github.com/AniMesuro/rhubarb-lipsync-tp-integration-godot
+- https://github.com/AniMesuro/Animation-Frame-Picker-for-Godot
+- https://github.com/AniMesuro?tab=repositories
+- https://www.youtube.com/watch?app=desktop&v=dwGIoGmWkNA
+- https://www.youtube.com/watch?app=desktop&v=dwGIoGmWkNA
+- https://godotengine.org/asset-library/asset/240
+- https://github.com/samsface/godot-tutorials/tree/master/midi
+- https://github.com/samsface/godot-tutorials/tree/master/midi
+- https://www.youtube.com/watch?v=owbRRxrIp14
+- https://www.youtube.com/watch?app=desktop&v=U6zHnNffnGE
+- https://www.deviantart.com/viabyte/art/Godette-904905100
+- https://www.moddb.com/games/riven-tails/images/nelly-and-godette-fanart
+- https://store.steampowered.com/app/1435470/Space_Bandit/
+- https://twitter.com/01lifeleft/status/959761839897767936
+- https://imgur.com/t/godotengine/xkrd2IO
+- https://imgur.com/t/godotengine/xkrd2IO
+- https://twitter.com/01lifeleft/status/959761839897767936
+- https://imgur.com/t/godotengine/Mgyf2
+- https://twitter.com/01lifeleft/status/959761839897767936
+- https://twitter.com/01lifeleft/status/962938253706805248
+- https://www.reddit.com/r/godot/comments/raj2nn/godette_godot_kart_racing/
+- https://www.fiverr.com/rafaelbrum/create-a-3d-model-rigged-with-animations-for-your-game?source=order_page_summary_gig_link_title&funnel=1aab4daff01cdc8f42cc2ae15723a824
+- https://www.reddit.com/r/godot/comments/raj2nn/godette_godot_kart_racing/
+- https://www.reddit.com/r/godot/comments/epvj7l/friend_asked_me_to_make_my_own_version_of_godette/
+- https://duckduckgo.com/?q=krita+mascot&t=ffab&atb=v102-1&iar=images&iax=images&ia=images
+- https://tqqq.itch.io/godette-3-animations-with-psd-files
+- https://twitter.com/NathanGDQuest/status/1511962438526189569
+- https://www.youtube.com/watch?v=XPkQ1Q7a3Co
+- https://www.artstation.com/artwork/Oowq66
+- https://www.artstation.com/artwork/Oowq66
+- https://github.com/Abdera7mane/cordot
+- https://github.com/Abdera7mane/godette-bot
+- https://goalou.itch.io/godette
+- https://www.cgtrader.com/3d-models/character/man/male-and-female-cartoon-characters-base-mesh-f65df889-b4f4-402b-bc54-843f829a8c5a
+- https://www.cgtrader.com/3d-models/character/fantasy-character/kyoko-game-ready-character
+- https://www.cgtrader.com/3d-models/character/fantasy-character/uzaki-chan-vrchat
+- https://www.cgtrader.com/3d-models/character/woman/godotte **WHAT THEFFFF-**
+- https://www.deviantart.com/13character5/art/Godette-Violet-952439564
+- https://github.com/branegames/godot_3d_outline
+- https://www.deviantart.com/avalonmelody/art/FNAF-2-Human-Meme-Sherry-the-Sheep-518545555
+- https://www.deviantart.com/avalonmelody/art/Elomimi-MYO-Design-Orion-732978205
+- https://croben.itch.io/chibi-godette-cutout
+- https://twitter.com/madodev18/status/1723050410535989531
+- https://twitter.com/pablodp606/status/1357808850083209227
+- https://x.com/pablodp606/status/1735029958613803488?s=20
+- https://dfmarin.artstation.com/projects/Oowq66
+- https://www.newgrounds.com/art/view/h3xagon3st/godette-godot-engine-anime-mascot
+- https://godotcommunity.itch.io/app
+- https://x.com/candrazdestroy/status/1486345199316086787?s=20
+- https://godotengine.org/asset-library/asset/1687
+- https://www.reddit.com/r/godot/comments/ufowtf/my_own_fork_of_godette_3/
+- https://x.com/bruno_arabica/status/959764473073602560?s=20
+- https://www.deviantart.com/bihpeixinho/art/Godette-797136963
+- https://www.deviantart.com/bihpeixinho/art/Godette-On-computer-799098281
+- https://twitter.com/01lifeleft/status/962938253706805248
+- https://x.com/01lifeleft/status/962938253706805248?s=20
+- https://x.com/01lifeleft/status/978971979406393344?s=20
+- https://www.reddit.com/r/godot/comments/mukpw6/godot_meme/
+- https://knowyourmeme.com/memes/this-generation-was-the-first-to-be-raised-online/photos/trending/page/2
+- https://knowyourmeme.com/photos/1988542-gaming
+- https://knowyourmeme.com/photos/2700879-gaming
+- https://knowyourmeme.com/memes/andrew-and-ashley-graves-redraws/photos/trending
+- https://knowyourmeme.com/photos/2715079-andrew-and-ashley-graves-redraws
+- https://knowyourmeme.com/photos/1930480-gaming
+- https://knowyourmeme.com/photos/2418354-gaming
+- https://x.com/reduzio/status/958305883976536064?s=20
+- https://www.pixiv.net/en/artworks/111908080
+- https://www.pixiv.net/en/artworks/111773446
+- https://www.facebook.com/animador3dconblender/photos/godotengine-blender3d-gimp-godot-gochi-o-godot-chan-como-muchos-les-dicen-es-la-/988000231383727/
+- https://www.facebook.com/animador3dconblender/photos/godotengine-blender3d-modelando-a-la-mascota-de-godot-engine-en-blender3dvi-que-/891540947696323/
+- https://godotengine.org/article/godot-has-been-renamed-godette-engine/
+- https://www.reddit.com/r/godot/comments/midw7m/the_very_kind_people_at_godette_gave_me_an_early/
+- https://github.blog/2023-07-25-game-bytes-july-2023/
+- https://github.com/tmewett/BrogueCE
+- https://twitter.com/TweetFurcifer/status/1475854845328437254 ulala
+- https://github.com/godotengine/godot-design/tree/master/godette
+- https://github.com/bitbrain?tab=repositories&q=&type=&language=&sort=
+- https://knowyourmeme.com/photos/2275830-gaming
+- https://www.newgrounds.com/art/view/just-a-ng-dummy/godette
+- https://www.reddit.com/r/godot/comments/mju6rc/my_godette_fanart/
+- https://twitter.com/TweetFurcifer/status/1475854845328437254
+- https://www.pinterest.com.au/pin/700802391988915249/
+- https://www.pinterest.com.au/pin/603552787588157962/
+- https://www.pinterest.com.au/pin/613052568035586375/
+- https://www.pinterest.com.au/pin/603552787574907250/
+- https://www.pinterest.com.au/pin/pin-en-0000--595249275762092707/
+- https://i.pinimg.com/originals/20/ca/87/20ca87f941b6e0e8fbd3c1ae13e56d0b.jpg
+- https://www.pinterest.com.au/pin/609252655858260828/
+- https://www.pinterest.com.au/pin/454230312433316091/
+- https://www.facebook.com/watch/?v=1445472388908300
+- https://www.deviantart.com/judkauwe/art/Godette-Godot-Mascot-Human-design-878523374
+- https://www.deviantart.com/judkauwe/art/Darklord-Ixchel-Colored-2-855477981
+- https://www.deviantart.com/judkauwe/art/Groovy-876336171
+- https://skfb.ly/oonuA MOTHER-
+- https://skfb.ly/oA8Rt
+- https://www.redbubble.com/i/t-shirt/Godot-Nodes-by-RafaLagoon/119962561.UIIS2
+- https://www.planetminecraft.com/skin/godette/
+- https://www.planetminecraft.com/skin/godette-5042342/
+- https://www.deviantart.com/tag/godette
+- https://www.deviantart.com/squidboimusic/art/Godette-Topless-930578669 🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵
+- https://www.deviantart.com/foxiemoose/art/Journey-3-Corporate-Singed-Concept-686884199
+- https://www.deviantart.com/lulutyler/art/Unity-0-20-per-download-983035300
+- https://godotforums.org/d/34706-godette-rendered-in-blender
+- https://skfb.ly/oxZY8 Zahlenmahler is the best Godette model could be!
+- https://www.youtube.com/watch?app=desktop&v=dwGIoGmWkNA PostuRecord Addon Godot
+- https://mastodon.gamedev.place/@bitbraindev
+- https://mastodon.gamedev.place/@bitbraindev/111363621817584566
+- https://mastodon.gamedev.place/@Emilly
+- End. back to normal
+- https://www.furaffinity.net/view/40327492/#cid:176545509
+- https://rezilloryker.gumroad.com/l/MYutV This is Rexouium. **WHAT THE HELL?!??!** No NSFW even!
+- https://rezilloryker.gumroad.com/
+- https://www.vrcarena.com/assets/t9t33LFHlzzMeBHFbIVF
+- https://web.archive.org/web/20201012053436/https://twitter.com/SilverEagleDev/status/1315319340380680192 What are you doing.. argh whatever. Stay here. This is the comment from VRC area above. [and uh](https://web.archive.org/web/20201012053455/https://twitter.com/Ms_Kappy/status/1315374141646811137). Argh c'mon, we can't talk this right now, there's alot of files we haven't handled
+- https://xtosca.gumroad.com/l/ToscaRex *ask to be respe*
+- oi oi shut up shut up, moving on!! NO, keep going! Find more files!
+- Hey, also.. I am that, but.. I do not want to offend anyone. Anyone with these sets of neo-genders are welcome. It's up to you, and God. Idk. Get back to work! Shit.
+- BlendSwap. What the fuck man? Last archive just couple days ago.
+- ultrakill
+- https://furhubcvr.com/
+- https://feedback.abinteractive.net/p/first-person-renderer-on-bones-and-or-changing-functionality-to-a-component
+- https://github.com/stevemao/github-issue-templates
+- https://docs.github.com/en/communities/using-templates-to-encourage-useful-issues-and-pull-requests/configuring-issue-templates-for-your-repository
 
 ## sovania
 
