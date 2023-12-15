@@ -339,7 +339,8 @@ Here are the UUIDs of all these assets we uploaded to CVR:
 | `fc89a8ba-e426-41e8-81fa-268e79b80175` | Dippy Press Button | Dippy  | (**NOT PERKEDEL**) |
 | `9e13b14c-d70b-4266-ae7b-aa687b75faae` | NUT BUTTON | Dippy | (**NOT PERKEDEL**) |
 | `d3317583-fc62-4422-861c-c94b24cbeee0` | Dippy Sauce | Dippy | (**NOT PERKEDEL**) |
-| `d1dac649-e96a-4f91-92f2-40a2214a33d4` | MollyTribute Interaction Layer | DomNomNomVR | (**NOT PERKEDEL**) |
+| `d1dac649-e96a-4f91-92f2-40a2214a33d4` | MollyTribute Interaction Layer | DomNomNomVR & MollyTribute (Momma Molly) | (**NOT PERKEDEL**) |
+| `d849a70d-adc0-4cea-a09b-84a9a0037e84` | Pen Props | SketchFoxsky | (**NOT PERKEDEL**) |
 
 ### Assorted
 
@@ -2397,6 +2398,31 @@ Put this image onto some quads. This image is my promotion for gamers to check o
 - https://github.com/Perkedel/HRtoVRChat_OSC forked just in case
 - https://github.com/NovaVoidHowl/CVR---Guides-Notes/blob/main/local-only-anims.md
 - https://github.com/NovaVoidHowl/CVR---Guides-Notes/blob/main/Avatar%20Creation%20info.md
+- https://github.com/kafeijao/Kafe_CVR_CCKs/ make sure all them installed!
+- Mario64 errors missing water caustic
+- https://github.com/BepInEx/NStrip
+- https://github.com/aniruddhahar/URP-WaterShaders
+- https://github.com/NotAKidOnSteam/SimpleAAS
+- https://github.com/VRLabs/Avatars-3.0-Manager
+- https://github.com/NotAKidOnSteam/NAK_CVR_Mods
+- https://github.com/TanukiPenny/CVRMods
+- https://github.com/AstroDogeDX/Astro_CVR_Mods
+- https://github.com/dakyneko/DakyModsCVR
+- https://github.com/Slaynash/CVRModUpdater
+- https://github.com/ZettaiVR/CVR-Mods
+- https://github.com/libsm64/libsm64
+- https://github.com/EtiTheSpirit/CVRLocalTools
+- https://github.com/ValdemarOrn/SharpOSC
+- https://github.com/VRCClones/UnmuteSound
+- https://github.com/NovaVoidHowl/CVR---Guides-Notes
+- https://sketchfoxsky.gumroad.com/ This is SketchFoxy
+- https://drive.google.com/file/d/1yEwO0irNOUJo_9DwW8Im7yBc8YeEC-2m/view he has this Pen Prop
+- the Pen Prop has involvement with folder `PEN_SET_WORLD`
+- https://docs.google.com/spreadsheets/d/e/2PACX-1vSlKw7F4duN6QvoZqP4gAGjy99k4Ngi5arvKe1r0VGeWg5dnqhWXP1r5YcFJ3-gkaOwQgdpt-XUnd8G/pubhtml# link's collected here.
+- https://mommamollycvr.gumroad.com/ this
+- https://mommamollycvr.gumroad.com/l/imrfi?layout=profile This is MollyTribute's interaction layer
+- Smart Inspector errors `UIElemements` not found in namespace `UnityEditor`
+- removed Smart Inspector yahhhhhhhhhhhhhhhhh
 
 ## sovania
 

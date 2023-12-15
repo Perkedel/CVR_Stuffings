@@ -693,6 +693,7 @@ Transform:
   - {fileID: 4492195126778053785}
   - {fileID: 4492195126485813003}
   - {fileID: 4955154614187493474}
+  - {fileID: 5180897714176891179}
   m_Father: {fileID: 4492195126697986036}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -4843,6 +4844,7 @@ GameObject:
   - component: {fileID: 4492195126902220769}
   - component: {fileID: 4492195126902220774}
   - component: {fileID: 4492195126902220775}
+  - component: {fileID: 1103154625761472873}
   m_Layer: 0
   m_Name: BZProtoKit++
   m_TagString: Untagged
@@ -6078,6 +6080,21 @@ MonoBehaviour:
   type: 1
   objectId: 1fe3eebd-7671-4392-9e3c-87f269ebe69e
   randomNum: 
+--- !u!114 &1103154625761472873
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4492195126902220772}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bdd70cfd94391f94bb959088337c91d6, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  avatar: {fileID: 4492195126902220774}
+  overrideController: {fileID: 0}
+  customControllers: []
 --- !u!1 &4492195126928786833
 GameObject:
   m_ObjectHideFlags: 0
@@ -8636,3 +8653,90 @@ Transform:
   m_Father: {fileID: 4492195126167199635}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &7392688548512035708
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5180897714176891179}
+  - component: {fileID: 8125422548658434526}
+  m_Layer: 0
+  m_Name: HapticAreaChest
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5180897714176891179
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7392688548512035708}
+  m_LocalRotation: {x: 0.08639942, y: 0, z: 0, w: 0.9962606}
+  m_LocalPosition: {x: 0, y: 0.15, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 4492195125609829799}
+  m_RootOrder: 6
+  m_LocalEulerAnglesHint: {x: 9.913, y: 0, z: 0}
+--- !u!114 &8125422548658434526
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7392688548512035708}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: df887164a20042b3a4f5cfa9e8975d32, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  chestAreaSize: {x: -0.54, y: 0.38, z: 0.47}
+  HapticPoints40:
+  - {x: -0.75, y: 0.8, z: 1}
+  - {x: -0.25, y: 0.8, z: 1}
+  - {x: 0.25, y: 0.8, z: 1}
+  - {x: 0.75, y: 0.8, z: 1}
+  - {x: -0.75, y: 0.4, z: 1}
+  - {x: -0.25, y: 0.4, z: 1}
+  - {x: 0.25, y: 0.4, z: 1}
+  - {x: 0.75, y: 0.4, z: 1}
+  - {x: -0.75, y: 0, z: 1}
+  - {x: -0.25, y: 0, z: 1}
+  - {x: 0.25, y: 0, z: 1}
+  - {x: 0.75, y: 0, z: 1}
+  - {x: -0.75, y: -0.4, z: 1}
+  - {x: -0.25, y: -0.4, z: 1}
+  - {x: 0.25, y: -0.4, z: 1}
+  - {x: 0.75, y: -0.4, z: 1}
+  - {x: -0.75, y: -0.8, z: 1}
+  - {x: -0.25, y: -0.8, z: 1}
+  - {x: 0.25, y: -0.8, z: 1}
+  - {x: 0.75, y: -0.8, z: 1}
+  - {x: -0.75, y: 0.8, z: -1}
+  - {x: -0.25, y: 0.8, z: -1}
+  - {x: 0.25, y: 0.8, z: -1}
+  - {x: 0.75, y: 0.8, z: -1}
+  - {x: -0.75, y: 0.4, z: -1}
+  - {x: -0.25, y: 0.4, z: -1}
+  - {x: 0.25, y: 0.4, z: -1}
+  - {x: 0.75, y: 0.4, z: -1}
+  - {x: -0.75, y: 0, z: -1}
+  - {x: -0.25, y: 0, z: -1}
+  - {x: 0.25, y: 0, z: -1}
+  - {x: 0.75, y: 0, z: -1}
+  - {x: -0.75, y: -0.4, z: -1}
+  - {x: -0.25, y: -0.4, z: -1}
+  - {x: 0.25, y: -0.4, z: -1}
+  - {x: 0.75, y: -0.4, z: -1}
+  - {x: -0.75, y: -0.8, z: -1}
+  - {x: -0.25, y: -0.8, z: -1}
+  - {x: 0.25, y: -0.8, z: -1}
+  - {x: 0.75, y: -0.8, z: -1}
+  selectedPoint: -1
