@@ -2578,6 +2578,21 @@ Put this image onto some quads. This image is my promotion for gamers to check o
 - https://feedback.abinteractive.net/p/first-person-renderer-on-bones-and-or-changing-functionality-to-a-component
 - https://github.com/stevemao/github-issue-templates
 - https://docs.github.com/en/communities/using-templates-to-encourage-useful-issues-and-pull-requests/configuring-issue-templates-for-your-repository
+- https://docs.github.com/en/communities/using-templates-to-encourage-useful-issues-and-pull-requests/syntax-for-githubs-form-schema uyaiouy yeah
+- https://github.com/libsm64/libsm64-unity-dev
+- https://github.com/kafeijao/Kafe_CVR_Mods/tree/master/CVRSuperMario64
+- https://github.com/kafeijao/Kafe_CVR_Mods/tree/master/CVRSuperMario64
+- https://github.com/I5UCC/MelonAutoLaunch
+- https://github.com/Nirv-git/CVRMods-Nirv/tree/main/SitLaydown
+- https://github.com/kafeijao/Kafe_CVR_Mods/tree/master/PickupOverrides
+- https://feedback.vrchat.com/open-beta/p/eac-in-a-social-vr-game-creates-more-problems-than-it-solves
+- https://vrchat.com/home/world/wrld_d9c8c442-f69f-4b14-bf76-b9369853f702 what?!??! Louis Rossman VRChat world?!?!??!?
+- https://github.com/Dervali-git/VRC-Tips/blob/main/LaySittingPrefab.md
+- https://github.com/Dervali-git/VRC-Tips
+- https://github.com/kafeijao/Kafe_CVR_Mods/tree/master/TheClapper
+- https://github.com/Nirv-git/CVRMods-Nirv
+- https://github.com/EtiTheSpirit/CVRLocalTools
+- https://github.com/kafeijao/Kafe_CVR_Mods/tree/master/PickupOverrides
 
 ## sovania
 

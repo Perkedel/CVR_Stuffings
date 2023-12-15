@@ -1,0 +1,63 @@
+# https://docs.github.com/en/communities/using-templates-to-encourage-useful-issues-and-pull-requests/configuring-issue-templates-for-your-repository
+
+name: Submit Assets
+description: Submit Avatars, Props, and/or Worlds
+title: "[Assets] "
+labels: ["assets"]
+# projects: ["octo-org/1", "octo-org/44"]
+assignees:
+  - JOELwindows7
+body:
+  - type: markdown
+    attributes:
+      value: |
+        # Submit Assets
+        Thanks for taking the time to submit your assets!
+  # - type: input
+  #   id: contact
+  #   attributes:
+  #     label: Contact Details
+  #     description: How can we get in touch with you if we need more info?
+  #     placeholder: ex. email@example.com
+  #   validations:
+  #     required: false
+  # - type: textarea
+  #   id: what-happened
+  #   attributes:
+  #     label: What happened?
+  #     description: Also tell us, what did you expect to happen?
+  #     placeholder: Tell us what you see!
+  #     value: "A bug happened!"
+  #   validations:
+  #     required: true
+  - type: markdown
+    attributes:
+      value: |
+        ## WARNING!
+        For each `.unitypackage` and related packs, ensure you have granted permission, and if it's your own to allow non-exclusive rights once and for all, in specific:
+        - Royalty Free. You are automatically granted permission without contact. Avoid assets that requires asking permission
+        - Gratis. Assets cost $0
+        - Someone else's if above criterias met.
+        - Your own. You are waiving any restriction if exist, and declared this assets are now available to Perkedel Technologies, its divisions (like X0p1r4t3 Eenvreensment), and all gamers, to be used, edited, and reshared (with full credit), to other gamers, and without restriction (both in scope of CVR & beyond scope, NSFW allowed, adding missing NSFW parts allowed, etc.), **even at no costs nor require other gamers purchase said assets**. You are agree by the time this Issue has been approved, you announce where shall gamers download these assets for $0 to here or a platform (GitHub, GitLab, and/or Odysee) without imposing paywall nor private access. From now on, files that are on paid platform (Patreon, Gumroad, payhip, Itch, Etsy, etc.) effectively acts only as support page. From now on, Maximum license of this asset now turns to maximum CC4.0-BY-SA - GNU GPL v3 or freer (CC4.0-BY, GNU GPL v3/v2, MIT, or Public Domain) by discretion.
+        - Confirmed gone (Please reupload & archive). Assets has been confirmed gone, discontinued, no longer active on sale. However, most of the time these assets may not be instantly included in our Worlds, Props, nor Avatar due to *Harrassment* concerns.
+  - type: textarea
+    id: sauces
+    attributes:
+      label: Please Attach your sauces here
+      description: Attach your download links of those assets to here. You can attach your own and/or someone's assets (**you must credit their name & original URL where did you get it from**). It is advisable to use GitHub, GitLab, Odysee, and **NOT Cloud Storage** share like Drive, MEGA, etc. in order to maintain posterity to these assets.
+      render: markdown
+      value: |
+        - ???
+        - ???
+        - ???
+        ...
+    validation:
+      required: true
+  - type: checkboxes
+    id: terms
+    attributes:
+      label: Code of Conduct
+      description: By submitting this issue, you agree to follow our [Code of Conduct](https://perkedel.netlify.app/terms_of_service)
+      options:
+        - label: I agree to follow this project's Code of Conduct
+          required: true

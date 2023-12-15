@@ -1,0 +1,77 @@
+# https://docs.github.com/en/communities/using-templates-to-encourage-useful-issues-and-pull-requests/configuring-issue-templates-for-your-repository
+
+name: Bug Report
+description: File a bug report
+title: "[Bug] "
+labels: ["bug"]
+# projects: ["octo-org/1", "octo-org/44"]
+assignees:
+  - JOELwindows7
+body:
+  - type: markdown
+    attributes:
+      value: |
+        # Bug Report
+        Thanks for taking the time to fill out this bug report!
+
+        Please note, this bug report is meant for bugs related to this CVRStuffings project. For ChilloutVR & CCK bugs in overall, be sure to submit the report to https://feedback.abinteractive.net/ instead.
+  # - type: input
+  #   id: contact
+  #   attributes:
+  #     label: Contact Details
+  #     description: How can we get in touch with you if we need more info?
+  #     placeholder: ex. email@example.com
+  #   validations:
+  #     required: false
+  - type: textarea
+    id: what-happened
+    attributes:
+      label: What happened?
+      description: Also tell us, what did you expect to happen?
+      placeholder: Tell us what you see!
+      value: "A bug happened!"
+    validations:
+      required: true
+  - type: dropdown
+    id: version
+    attributes:
+      label: Version
+      description: What version of our software are you running?
+      options:
+        - latest
+        # - 1.0.2 (Default)
+        # - 1.0.3 (Edge)
+      default: 0
+    validations:
+      required: true
+  - type: dropdown
+    id: platform
+    attributes:
+      label: What Platform are you seeing the problem on?
+      multiple: true
+      options:
+        - Windows 11
+        - Windows 10
+        - Windows 8 / 8.1
+        - Windows 7
+        - Meta Quest (Android)
+        - PiMax (Android)
+        - Linux with Proton / Wine
+        # - Firefox
+        # - Chrome
+        # - Safari
+        # - Microsoft Edge
+  - type: textarea
+    id: logs
+    attributes:
+      label: Relevant log output
+      description: Please copy and paste any relevant log output. This will be automatically formatted into code, so no need for backticks. You may wanted to install [CVRLogger](https://github.com/SticksDev/CVRLogger) mods & [Logger++](https://github.com/kafeijao/Kafe_CVR_Mods/tree/master/Logger++) in [Knah's MelonAssistant](https://github.com/knah/CVRMelonAssistant) Modlist.
+      render: shell
+  - type: checkboxes
+    id: terms
+    attributes:
+      label: Code of Conduct
+      description: By submitting this issue, you agree to follow our [Code of Conduct](https://perkedel.netlify.app/terms_of_service)
+      options:
+        - label: I agree to follow this project's Code of Conduct
+          required: true
