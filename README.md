@@ -356,6 +356,17 @@ Ensure to detach the GUID if you'd like to make new variant of these prefabs.
 
 For employee: **DO NOT LOSE THE GUID!! MAKE SURE IT IS STILL ATTACHED, & IS SAME MATCH WITH THE PAGE IT UPLOADED TO!**
 
+### Protogen Parameter
+
+#### JOELwindows7
+
+- Material = 0,0,255
+- Emission = 255,170,0
+- No Horn
+- Short Hair
+- Dome visor
+- Single Pair
+
 ### Control Bola
 
 How to Control:
@@ -2619,7 +2630,39 @@ Put this image onto some quads. This image is my promotion for gamers to check o
 - C'mon, left the trackers here..
 - https://skfb.ly/6UWHQ ugh.. the qtit's is the least we can use right now. This Vive Tracker, has umm metal material on the metal ports at least.
 - Of how fucking protective HTC are!! You got better brand than HTC?
-- 
+- ,.
+- .
+- .
+- Issue contains complain. It was one of the Federal agent / Paywallist who got offended.
+- Malore Konufir: Huh. Another Federal agent I see. (type) Fuck y-
+- Gyouter Embinosa: (snatch laptop, normal bit escalate talk) What are you doing, Malore?
+- Malore: (anger increasing)?!?!?!?!?.... (soft internal angry talk) What you doing? Why did you do that? You forgot who I am?
+- Gyouter: Listen. I'm sorry. I don't talk that in X0p1r4t3 there is no tier who's highest order or what. It's Federals.
+- Malore: Then? Attack. Simple.
+- Gyouter: (soft swing head left & right)...., We don't have power anywhere. Not even here in Dasandim. Nothing. (edit writing) Until we do..., We obey (give back).
+- `Thank you for your feedback. We have removed said offending part of this article.` (offending part has been commented)
+- Malore: (it's just commented tho).... 
+- Gyouter: (portal back to his station)!, (enter), (close portal)!
+- Malore: (look Gyouter)?? (oh he left)...., (sigh) Ugh... What the hell (a.k.a. `whatever`), (submit)!
+- .
+- .
+- don't worry dummy test. your creation of this system help relieve maidenlesses much further & reduced numbers of unexpected demises. Don't feel bad. Don't feel guilty you had wife, they're not. Noone shall be jealous, finding maiden is insane these days.
+- Incoming, `VanillaLog`
+- https://youtu.be/eFkwu7p1LhU?si=Bk43kUM2sJnuNyHY has dl
+- https://docs.google.com/document/d/1GIfrXKHr2ndUh10DVIoS4lRw99misyzHZfo0fnwK8uk/edit here
+- https://hub.vroid.com/en/characters/5898640051940108534/models/1526936883753586544
+- ueayh
+- https://github.com/gwaredd/UnityMarkdownViewer Look what we found here! Markdown reader!!!!! yey!!
+- https://github.com/kafeijao/Kafe_CVR_Mods/tree/master/ProfilesExtended
+- `C:\Program Files (x86)\Steam\steamapps\common\ChilloutVR\UserData\MelonPreferences.cfg`
+- in `[ProfilesExtended]` category, set `OnlyLoadAASParams = false`. make sure all params loads
+- https://youtu.be/ZV_CsjoQRp4?si=i2a4C3pGtzzazVfF Merry XMAS
+- VoyVivika Props credits incoming
+- https://sherbertdragon.gumroad.com
+- https://skfb.ly/owoKW ukulele
+- https://skfb.ly/VYys Pancake
+- aa.
+- https://blankinternational.com
 
 ## sovania
 
