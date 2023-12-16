@@ -2663,6 +2663,93 @@ Put this image onto some quads. This image is my promotion for gamers to check o
 - https://skfb.ly/VYys Pancake
 - aa.
 - https://blankinternational.com
+- Update on Racush's port of Ghostt's VRA-05 Morph avatar. There is heartbeat & visible heartbeat. But no sound. also cannot take clothing off. Oviously, there is no also heartbeat react on running due to lack scripting in this CVR.
+- Wait.. I must've missed it. no.. Yep.. Ughhhhhhhhhhhhhh, well uh.. still my assignment.
+- user https://github.com/zLucPlayZ gone
+- https://github.com/zLucPlayZ/audio-link-for-cvr gone.
+- https://github.com/LucHeart/audio-link-for-cvr nvm, it's here!
+- Thancc, Kjoy. found in Lakeside Studio.
+- https://www.reddit.com/r/VRchat/comments/165uuhs/is_there_any_vrchat_world_that_enables_us_to_use/
+- https://github.com/PaciStardust/CoreOSC-UTF8
+- https://github.com/ValdemarOrn/SharpOSC
+- https://github.com/Dalesjo/CoreOSC
+- https://github.com/LucHeart/UnityShaders has UnityShader!
+- LucHeart according to GitHub profile is ABI employee.
+- https://github.com/LucHeart/CoreOSC-UTF8-ASYNC
+- https://github.com/LucHeart?tab=repositories
+- https://github.com/LucHeart/HeartSoos-WearOs
+- https://github.com/LucHeart/HeartSoos-Server
+- https://booth.pm/en/items/3075449
+- https://wispywoo.booth.pm/
+- https://wispywoo.booth.pm/items/4601215
+- The TV (WWTV), heater, Speaker, are part of those world. (PAID)
+- Lakeside Studio also from wispywoo.
+- The Billiard table on that WispyWoo is original WispyWoo's skin of it, not included in VRCBilliard. Look at 7 dots logo in big square bracket!
+- https://wispywoo.booth.pm/items/4601215
+- https://moderatewinguy.gumroad.com/
+- https://www.patreon.com/posts/flexicurve-fairy-94014721?utm_medium=clipboard_copy&utm_source=copyLink&utm_campaign=postshare_fan&utm_content=join_link New things from RED_SIM. FREE. FlexyCurve
+- https://www.patreon.com/posts/94014721/ how to flexicurve
+- https://youtu.be/Fiy1kxU3ymo?si=nMROLTtMN6Hx9QBb YouTube tutorial Flexicurve
+- https://www.patreon.com/posts/65636888 PAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAID
+- https://www.patreon.com/posts/31602949 Fireplace shader paid
+- https://www.patreon.com/posts/41035102 Universal Eye shader paid
+- Keep the assets you've sparsdated yourself! DO not harass anyone! There is always a better way.
+- https://github.com/EtiTheSpirit/CVRLocalTools
+- https://github.com/kafeijao/Kafe_CVR_Mods/tree/master/ProfilesExtended
+- https://youtu.be/zumZ2Y9mPNQ?si=N5An9tLb_nTuYrIo bonus Godot. Await.
+- https://www.youtube.com/watch?v=QIGsBh0XQWg
+- https://web.archive.org/web/20231204130825/https://blendswap.com/contact Blendswap is on again.
+- But include this and all file I mean by all mean, every files uploaded to Blendswap in our proposed protocol `PreserveZero`.
+- https://blendswap.com/ Yes?
+- Yes. All of them. Don't care anymore. It will gone, and always gone. It will be blocked, and always blocked.
+- https://web.archive.org/web/20231204130635/https://blendswap.com/
+- https://www.blendswap.com/blend/22276
+- https://www.blendswap.com/profile/1074223
+- https://sopra21.booth.pm/ This only had one here.. okay, let's take it.
+- https://sopra21.booth.pm/items/3475980
+- https://booth.pm/en/items/3735509
+- https://booth.pm/en/items/4072429
+- https://github.com/rygo6/GTAvaCrypt?tab=readme-ov-file clearing up
+- https://github.com/PlagueVRC/AntiRip clearing up
+- https://coposuke.hateblo.jp/entry/2019/01/20/043042
+- tbh, I would.... you got the idea, but what do you know? CVR also in itself, already had.. encrypted system since scratch.
+- Which is why... This [Overseer](https://github.com/Perkedel/HexagonEngine) here... is not meant.. for proprietarists. It meant to torture them. To not feel torture, cease being one. Be archiveful. Be acknowledgeful. Who did this. Shall spread name.
+- That's for another day. moving on!
+- https://github.com/mitis1233/arktoonShadersBackup
+- https://github.com/mitis1233/arktoonShadersBackup
+- https://github.com/mitis1233/arktoonShadersBackup
+- https://github.com/mitis1233/arktoonShadersBackup
+- https://github.com/CuteWaterBeary/shaders.sqnquark.arktoon Pick from the last!
+- https://github.com/lilxyzw/lilToon/releases new version of Liltoon
+- https://booth.pm/en/items/3087170 pls update!
+- https://kyubihome.booth.pm/items/2554585 paid
+- https://booth.pm/ja/items/2836532
+- https://polyhaven.com/ check pls
+- https://3dtextures.me
+- https://booth.pm/en/items/5323956 pls dl
+- https://booth.pm/en/items/5321656 paid
+- https://booth.pm/en/items/5320824 paid
+- https://booth.pm/en/items/5330672 LIMITED?!??! you m-
+- As always, right click, save as folks
+- https://booth.pm/en/items/5333008
+- https://booth.pm/en/items/5334724
+- https://booth.pm/en/items/5339268
+- https://booth.pm/en/items/5307468
+- https://booth.pm/en/items/5315859
+- https://hanaechu.booth.pm/items/4795520
+- https://booth.pm/en/items/5314122
+- https://gitlab.com/sayiarin
+- https://gitlab.com/users/sayiarin/projects
+- https://gitlab.com/sayiarin/awoo
+- https://awoo.hainsate.com/
+- https://gitlab.com/sayiarin/sayifx
+- https://booth.pm/en/items/2831542 The camera has been found.
+- https://booth.pm/en/items/4054622 paid
+- https://lilpinkdevil.booth.pm/ pls check the entirity
+- https://booth.pm/en/items/4049817 **OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO!!!** CONTAINERS!!!
+- https://github.com/CMoyuer/VRChatAvatarSDK3Container oH SHIT. Welp. We messed up. All VRC Udon files.. gone. We have to reinstall each and everyone of them. We had broke it so that it not error here. Prompty, you gotta put this so next time no more messups.
+- https://github.com/CMoyuer/VRChatAvatarSDK3Container/
+- https://moyuer.booth.pm/
 
 ## sovania
 
