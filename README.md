@@ -2593,6 +2593,33 @@ Put this image onto some quads. This image is my promotion for gamers to check o
 - https://github.com/Nirv-git/CVRMods-Nirv
 - https://github.com/EtiTheSpirit/CVRLocalTools
 - https://github.com/kafeijao/Kafe_CVR_Mods/tree/master/PickupOverrides
+- https://skfb.ly/XXTN (No download, Sketchfab official) Argh, fuck. I can't believe you've done this. 
+- https://www.reddit.com/r/Vive/comments/4onpx6/looking_for_3d_models_of_vive_and_controllers/
+- https://www.reddit.com/r/Vive/comments/70crph/cad_3d_model_files_for_vive_and_accessories/
+- https://developer.vive.com/us/
+- https://www.viveport.com/
+- https://www.vive.com/us/setup/
+- https://www.vive.com/us/support/
+- https://www.vive.com/us/setup/
+- https://skfb.ly/RTIM I'm just gonna download here okay?. JER3D.
+- https://developer.vive.com/resources/
+- https://sketchfab.com/blogs/community/tutorial-build-virtual-reality-game-sketchfab/ how to VR Game in Sketchfab
+- https://skfb.ly/6ZXYJ First, obtain a wheelchair. imnuts000
+- https://skfb.ly/MCA8 Then this HTC Vive kit alban (Sketchfab Co-founder) had scanned. ... nvm.
+- uhhhh
+- https://skfb.ly/6vU6x try this.. Vive Pro that Eternal Realm uploaded?
+- https://github.com/Unity-Technologies/usd-unity-sdk okay pls wait. uhh, technical difficulties. Unity only works well if it's Blend or FBX.
+- https://docs.unity3d.com/2020.1/Documentation/Manual/com.unity.formats.usd.html
+- Okay, I did it. First, download convert GLB max res. Put in Blender, select just the headset, not floor. Export again GLB. Make sure only that selected, material exported.
+- https://forum.htc.com/topic/6069-cosmos-controller-models/ why?!
+- https://forum.htc.com/topic/7379-vive-cosmos-controllers-official-3d-model/
+- https://skfb.ly/67pqB wait hold this one. Marco_Romero
+- https://skfb.ly/6vYMA Okay, here we go. iShoNz. Vive 1 controller.
+- https://github.com/Unity-Technologies/usd-unity-sdk/blob/dev/package/com.unity.formats.usd/Documentation~/index.md
+- C'mon, left the trackers here..
+- https://skfb.ly/6UWHQ ugh.. the qtit's is the least we can use right now. This Vive Tracker, has umm metal material on the metal ports at least.
+- Of how fucking protective HTC are!! You got better brand than HTC?
+- 
 
 ## sovania
 
