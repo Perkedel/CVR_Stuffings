@@ -2750,6 +2750,18 @@ Put this image onto some quads. This image is my promotion for gamers to check o
 - https://github.com/CMoyuer/VRChatAvatarSDK3Container oH SHIT. Welp. We messed up. All VRC Udon files.. gone. We have to reinstall each and everyone of them. We had broke it so that it not error here. Prompty, you gotta put this so next time no more messups.
 - https://github.com/CMoyuer/VRChatAvatarSDK3Container/
 - https://moyuer.booth.pm/
+- Don't get excited tho, you sure this work? Why there's only,.. dlls??
+- Clean up paid assets now
+- https://booth.pm/en/items/4028065 
+- https://booth.pm/en/items/4264831
+- https://booth.pm/en/items/4204738
+- https://booth.pm/en/items/3370660 good
+- https://booth.pm/en/items/4090910
+- https://booth.pm/en/items/4205304 good
+- https://booth.pm/en/items/2609345
+- shit. swap ate disk. close browser!
+- Hey idea. If I had to VRChat for a while, I'd like to... make Udon things, that detect if a player avatar contains.. KannaProtect. If it is, hide it. censor it to everyone. idk. Fuck you, proprietarists. This is .. long research.
+- And for ChilloutVR, there is database. If this avatar in database says Paid or No DL, censor it to everyone. ... 1 research map. it'll be somewhere. Originally from Godot we have Overseer, Surreal Blender Meme.
 
 ## sovania
 
