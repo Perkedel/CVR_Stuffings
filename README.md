@@ -2802,7 +2802,83 @@ Put this image onto some quads. This image is my promotion for gamers to check o
 - .
 - https://www.tumblr.com/freethegens pls obtain every documentation from here for the future project with Homestuck. ... Or maybe after we handled the Queen first, which stranglehold the actual patent of it. Yeah, the Primagen. No.., Protogen while yes public patent, has rules. Mostly outrageous ones. It's.., it's a long story. No.. This person is not the Queen. It's.. different. Not that Mercury. OTHER Queen, OTHER OTHER OTHER AND OTHER QUEEN. I cannot say the name today, safety reason. 
 - .
-- 
+- https://hobbert.gumroad.com/l/qxodn paid
+- https://hobbert.gumroad.com/ still wanna check all?
+- https://github.com/lilxyzw/lilAvatarUtils.git hey, liltoon had more packages here.
+- https://github.com/lilxyzw/lilMaterialConverter
+- https://github.com/lilxyzw/OpenLit
+- https://github.com/lilxyzw/lilFurGenerator
+- https://github.com/lilxyzw/Shader-MEMO Oh no... this is unsorted to user sorted folder!
+- https://github.com/lilxyzw/lilSceneViewExtensions oOo.
+- Incoming Avali Model Comparison world. Dervali
+- https://raikitamatsu.gumroad.com/l/JerryAvali gone
+- **the rai gumroad itself also gone**. Yes, Rai Kita'vali
+- https://bluegua.gumroad.com all paid as of 2023-12-18
+- https://discord.gg/Cq8NacV Natvali. Lords of Floof
+- https://rosebur.gumroad.com/ all paid as of 2023-12-18
+- https://mikedabird.itch.io Only games are $0, All games says `Play in Browser`
+- https://lorcanvr.gumroad.com
+- https://starmax.gumroad.com/ paid
+- https://voidangeldesigns.gumroad.com FREE as of 2023-12-18. Nexavali
+- https://patreon.com/AngelBoy Substance Painter file paid
+- https://discord.gg/XNfdDHg Void Angel discord
+- https://tinyurl.com/NexaVRC unofficial VRChat package of Nexavali.
+- https://javenchiart.gumroad.com all paid as of 2023-12-18
+- https://javenchiart.gumroad.com/ paid all as of 2023-12-18
+- I said Paywalled. DId not bought any these yet. ... None are here.
+- Flutevali is complicated reach out! ask on X, cost USD 60 **NOT GOOD**! here https://tinyurl.com/FluteAvatar
+- https://twitter.com/FluteBirdie/status/1458308021650481153 shit. it's gone.
+- https://twitter.com/FluteBirdie/ entire account gone.
+- https://toastySheeb.gumroad.com paywalled. (alas, the rubber related (pooltoy) are also paywalled, I like latex) Shit fuckin' hell, I wish!, man.
+- https://modernballoonie.gumroad.com paywalled.
+- https://modernballoonie.gumroad.com/l/PooltoyAvali zikeseren.
+- https://discord.gg/JE9CGyr
+- https://angriestscv.gumroad.com paywalled. (AudioLink driven shader Poiyomi shader also paywalled) Ugh.. you-
+- Grevor Sritowi (Wakturia): Sir, can you please.. for one day not to uh.. idk.. I'm confused right now..
+- https://rosebur.gumroad.com paywalled.
+- https://polyottr.gumroad.com Only the Genderfluid symbol is free? ... Alright, alright. Where do we put this? YOu know Perkedel do not endorse neo-gender, just so you know. ... C.. Can we.. Argh damn it.. If I... only had this.. THere only be.. unrelated shame. NOt the neo-gender. **The paywallism**. We cannot put too much shame energy supposedly, right now. ... You know what? put this here. I'll think about this later.
+- Oh, remember, keep the sparsdat to yourself. Don't put paid nor sparsdated asset here, you had it, **all must be gitignored**. If we accidentally uploaded, we're done. There will be massive history purge need to do. Just telling.
+- Later. There will be time. I promise. I may not see the day, it'd be my far descendants one day.
+- Now, survey all above. What do we got?
+- Oh wait
+- https://tinyurl.com/AvaliLinks & also..
+- https://discord.gg/XnjmSer (joined) Avali Army. We need a bigger boat. Man, WHERE THE FUCK IS MY MONEY!!!? I NEED ALL THE NAS!! WHATEVER BIG STORAGE I HOLD!! FUCK!!!
+- https://tinyurl.com/DervaliWorlds now, is Dervali actively seeing Forms?
+- https://web.archive.org/web/20230724143515/https://raikitamatsu.gumroad.com/ Oh my God... no.. there's more.
+- on Kolmorotzzet folder `Rai Kitavali`, we only got Kitavali files. That's all. Textures, aan that's it.
+- What do you know btw, in regards of this.. let's not. let's move on.
+- Hey, keep the quick link open. We got to bring to the direct link to that Avali Army Discord. the Forum thread.
+- https://discord.com/channels/530351426833088512/1060234969517129778 Uhh yeah, this. Everything. Damn **FUCKING UNTIL WHEN WILL WE CAN?!** Who say... My mom refuse to understand, if things can gone one day. No realize which had been since. Did I told? ugh, why would again?
+- https://nukude.gumroad.com/l/pyhkyk Oh shit I forgot. eh, here whatever. ... Yeah, (paywall) the one did Protogen I mad about.
+- https://www.artstation.com/marketplace/p/AYe9l/avali-rigged-model-blend-file (paywalled) Argh.... r.
+- https://vrcmods.com/item/6550 Oh hey Optimized Avali 1.3
+- https://kotyor.gumroad.com/l/softwaiterdavali
+- https://kotyor.gumroad.com/
+- Okay.. uh.. in Avali Army, Rai made room `#da'vali-avatar-rules`. Same rule. Same restricted. Same agree button.
+- Now, if anybody had to Avali... Which one to pick then? coz.. You know something is up with Rai. ... I'll put up this later. A guy.. yes, paywallist, wanted to.. make.. inspired from her Kita. Robot Kitavali. Rejected. Yeah, that one won vote, but rejected, say... uh.. *backseat commercialisation*. ... Yeah you got the idea. Well, we got.. other Avali. Luckily it's just with Kita & Da'vali patents. Not like... mine (Protogen & Primagen patents). ... the Queen... I'm ashamed.
+- https://ko-fi.com/avaliarmy/shop here accessories shop.. ugh.. and uh..
+- wait.. where'd the..
+- https://ko-fi.com/i/IZ8Z324YM2 hah wait. cool art from miss.meylin. Pumpkin Girl
+- the second link is gone. no, not that cool art, that exists. I wanted to visit the other link.
+- .
+- Ugh.. the Jerry gone. and has no `Public Okay` sticker. ... Let's forget clout. There's something up with everyone who uh... so fuckin' exclusive!! not just this, fuckin' everyone who had such behaviour.
+- https://kotyor.gumroad.com/ paywalled. hey you put this already? don't forget. accessories.
+- **WAIT!! THIS TIME DO NOT IMPORT ALL RAI PACKAGE**. Something wrong! Not technical. Bad behaviours.
+- Okay.. huuu, I mean Protogen too bad behaviours, but the Queen is 2D drawing only. Rai's 3D, and it's these `.unitypackage`s!
+- idk.. 3D speakingly, because Nukude's protogen is paid, then I am lucky I had TriwaveBZ.
+- So does with Avali. Rai's problematic & lost paid file, back to Avali vanilla. ... I wish that it's former good. argh...
+- https://archive.org/details/minecraft-avali-model-yosh here Minecraft Avali.
+- I'M SIGNED OUT AGAIN?!?! GITLAB, I SAID `REMEMBER ME`!!! Ugh..
+- https://gitlab.com/farfelu/vrchat-reverse-avali-avatar/ It's a whole Unity project. but wait. there's only `ReverseAvali` folder. Just take that bring to here.
+- Don't worry, ... who's again? We got the container. ... let's try? Okay, who's that guy again?
+- https://github.com/CMoyuer/VRChatAvatarSDK3Container/ Oh, Moyuer. okayh.
+- Hey, can you pls.. start from Vanilla first? that's the most important.
+- Okay, I've covered most MEGA & Discord Attachments. the mediafire & Dropbox not yet.
+- Oh yeah I forgot https://twitter.com/FluteBirdie/status/1458308021650481153 this gone too. report again!
+- argh I already left.
+- Ay look, the shadergraph works. I mean.. it's (the `.shader` file) already generated, yeah. Auto render thingy.., yess.
+- ***Never have I ever pirated, sparsdated, or download film torrent from torrent site***. Right, who's finger eliminated / closed? Me.. and....... okay, thancc.
+- https://youtu.be/U8W1SWWAZ6E?si=y3R4BqkRDsTgKdz7 how to never have I ever
 
 ## sovania
 
