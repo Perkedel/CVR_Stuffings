@@ -2634,8 +2634,8 @@ Put this image onto some quads. This image is my promotion for gamers to check o
 - .
 - .
 - Issue contains complain. It was one of the Federal agent / Paywallist who got offended.
-- Malore Konufir: Huh. Another Federal agent I see. (type) Fuck y-
-- Gyouter Embinosa: (snatch laptop, normal bit escalate talk) What are you doing, Malore?
+- Malore Konufir (X0p1r4t3, prev. Wakturia): Huh. Another Federal agent I see. (type) Fuck y-
+- Gyouter Embinosa (Wakturia, captain): (snatch laptop, normal bit escalate talk) What are you doing, Malore?
 - Malore: (anger increasing)?!?!?!?!?.... (soft internal angry talk) What you doing? Why did you do that? You forgot who I am?
 - Gyouter: Listen. I'm sorry. I don't talk that in X0p1r4t3 there is no tier who's highest order or what. It's Federals.
 - Malore: Then? Attack. Simple.
@@ -2762,6 +2762,47 @@ Put this image onto some quads. This image is my promotion for gamers to check o
 - shit. swap ate disk. close browser!
 - Hey idea. If I had to VRChat for a while, I'd like to... make Udon things, that detect if a player avatar contains.. KannaProtect. If it is, hide it. censor it to everyone. idk. Fuck you, proprietarists. This is .. long research.
 - And for ChilloutVR, there is database. If this avatar in database says Paid or No DL, censor it to everyone. ... 1 research map. it'll be somewhere. Originally from Godot we have Overseer, Surreal Blender Meme.
+- sugu.
+- .
+- .
+- Morning briefings Monday 18 Dec 2023
+- Pelvog (X0p1r4t3): We, have been BLOCked!
+- ..
+- ..
+- Pelvog: What do we do?
+- ..
+- Sdorg (Crossban University, Student of Pure System Information): **DOX!!**
+- Deuxro (X0p1r4t3): (async) (press `wrong` buzzer twice in bip bip)! !.
+- Pelvog: (async) (swing head left & right index swing `No` gesture).... We'll be doing this., (gesture `offer` palm give something).... (& lift that palm up)!!....!
+- *audicence*: (interpreted as `reupload` as if 404 already gone) WOOOOO 🙌🙌🙌🙌🙌👏👏👏👏👏👏👏!!!
+- Bakk (Crossban University, Student of Pure System Information): (disagree, reuploading someone post is illegal) What?! (angerily step forward to stage)!!...
+- Pelvog: (notice a student going to snap a protest, sharply point index finger up and look sharply to that student) WIith!!!....
+- Bakk: (stop & kept upset face)??....
+- Pelvog: **CREDT!.** ... YesMyFriend., Craedit.
+- Bakk: .... (Thought that could lead to harassment towards the blocker because they told, this person blocked, continue step forward)
+- Pelvog: (interupt again, iconic right index up gesture) ENSURING!!... TO not.... not... (change that right hand gesture to palm sideways point to that protestful student Bakk) harrass. That's not our goal. ... (the task therefore -) This is our task. .. The only task. ... No else but. (right index partial up) NO INTERACT!.. ... .., `yt-dl`. Sorry, **`yt-dlp`**.
+- ...
+- ...
+- *audience*: ... (understood & applause) Yes!! WOW, 🙌🙌🙌🙌🙌👏👏👏👏👏👏👏!!!..... (keep going)
+- Pelvog: Good morning, gamers!.., Great-luck God-Bless-you. Let's begin to work. (about to throw handle-stick mic towards that big door) Look out!
+- *middle audiences*: (move away)!!....
+- Pelvog: (wait).... (clear, throw now) HEUGH!!!, (take brand new improved head mic, present it) NEW MIC! ....
+- Info: add applause
+- Pevlog: (wear)!... HAAAh!
+- Roig Hermalansa (X0p1r4t3, Vice President): Pelvog!
+- Pevlog: HEUGH?!
+- Roig: You think alt account is good idea?
+- Pevlog: Don't do it now. Just propose. Let Joel decide.
+- Roig: Okay, so. Here we have last night found more stuffs you gonna check out.
+- Pevlog: (left hand lift goodbye leave stage & then down again) Heuoi, (leave with Roig)..
+- Roig: So.., we found serveral newfound Booth files our Enthusiasts had craved midnight.......
+- *audience*: (stop applause)., (leaving).., (go to work stations)..
+- .
+- .
+- .
+- https://www.tumblr.com/freethegens pls obtain every documentation from here for the future project with Homestuck. ... Or maybe after we handled the Queen first, which stranglehold the actual patent of it. Yeah, the Primagen. No.., Protogen while yes public patent, has rules. Mostly outrageous ones. It's.., it's a long story. No.. This person is not the Queen. It's.. different. Not that Mercury. OTHER Queen, OTHER OTHER OTHER AND OTHER QUEEN. I cannot say the name today, safety reason. 
+- .
+- 
 
 ## sovania
 
