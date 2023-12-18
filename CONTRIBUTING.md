@@ -74,3 +74,35 @@ To get started with standalone ChilloutVR Unity Project installing our whole pac
 - etc.
 
 After it's all done, head over to the (release?), download & import to your project.
+
+## FAQ
+
+### 1
+
+### 2
+
+### 3
+
+### 4
+
+### 5
+
+### 6
+
+### 7
+
+### 8
+
+### 9
+
+### 10
+
+### 11
+
+### 12
+
+### I had ever been involved with KannaProtect / Anti-Rip either or both as a user or a contributor (specifically improving it). Am I still eligible?
+
+Perkedel **will not reject any gamers** who had been involved with any form of Digital Resctriction Managed Asset system (which are in a way that improved such system). By agreeing the rule above, obeying the rule, and begin submitting to us, you have done your redemption 😉. Additionally, part of your `NOTORIOUS.txt` file (if exists) in our Kolmorotzzet folder may be voided e.g., once you have Open Sourced everything you've made since the beginning, and did other redemption things.
+
+Cancel Culture by standard here in Perkedel Technologies is forbidden, as much as possible.

@@ -73,7 +73,7 @@ Below are assets that are not included and **must be installed prior of usage an
   - To download new version, simple go back to above repository (`cd` to there), and `git pull`. Stash any accidental changes you made if it sees unwanted changes. Use [GitHub Desktop](https://desktop.github.com) to manage update at least better. Use Pull Origin button when the arrow down shows up on that button, and say yes stash if asked.
 - ~~[Fast Script Reload](https://assetstore.unity.com/packages/tools/utilities/fast-script-reload-239351). Space Saving~~ **INCLUDED, [License MIT](https://github.com/handzlikchris/FastScriptReload/blob/master/LICENSE)**
 - [Live Script Reload](https://assetstore.unity.com/packages/tools/utilities/live-script-reload-on-device-hot-reload-239380). **Paywalled**, argh you son of a female dog! Partialism much?! I was already excited. Congratulations, you surprised me. You did it, congratulations! *may your life be successful*, woohoo!!
-- ~~[WhiteFlare's Unlit Shader Suite](https://github.com/whiteflare/Unlit_WF_ShaderSuite/). Space Saving.~~ ~~wait, why did you picked the caught version?!~~ [OLD](https://github.com/whiteflare/Unlit_WF_ShaderSuite/releases/download/Unlit_WF_ShaderSuite_20230107/UnlitWF_20230107_01_Core_2019.unitypackage). THIS IS NEW ONES!!! **Included, [License MIT](https://github.com/whiteflare/Unlit_WF_ShaderSuite/blob/master/LICENSE)**
+- ~~[WhiteFlare's Unlit Shader Suite](https://github.com/whiteflare/Unlit_WF_ShaderSuite/). Space Saving.~~ ~~wait, why did you picked the caught version?!~~ ~~[OLD](https://github.com/whiteflare/Unlit_WF_ShaderSuite/releases/download/Unlit_WF_ShaderSuite_20230107/UnlitWF_20230107_01_Core_2019.unitypackage). THIS IS NEW ONES!!!~~ **Included, [License MIT](https://github.com/whiteflare/Unlit_WF_ShaderSuite/blob/master/LICENSE)**
 - [Final IK](https://assetstore.unity.com/packages/tools/animation/final-ik-14290). **Paywalled**. Instead, [the stub will be included](https://github.com/VRLabs/Final-IK-Stub).
 - [Dynamic Bones](https://assetstore.unity.com/packages/tools/animation/dynamic-bone-16743). **Paywalled**. Instead, [the stub will be included](https://github.com/VRLabs/Dynamic-Bones-Stub).
 - [Keycard Access Badge Lock System](https://mommamollycvr.gumroad.com/l/gxruw). **Paywalled**. Instead, **the hopefully same which is [Evil-Betty's Booth](https://evilbetty.booth.pm/items/4059518) one** that's included. **Wait, that was Evil-Betty's invention??** NOTE: The package lacks prefab & only copied over as a Unity Scene. We have simply dragged this invention (both reader & card) out to the asset & now here the prefab. You're welcome. <!--**PLEASE DO NOT NFT-FIZE (Private the keycard under NFT check sharing)!!!**--> a
@@ -2915,6 +2915,26 @@ Put this image onto some quads. This image is my promotion for gamers to check o
 - https://www.slideshare.net/VirtualCast/vrm-mtoon
 - https://github.com/Santarh/MToon This whole repo is the folder itself, put here!
 - VRMC shader already has it! Package `com.vrmc.vrmshaders`. the VRM package!
+- https://hbaddict.itch.io/heart-clinic please not, this is not my game. I have no involvement. caheartman made mistake, idk how did he confused.
+- https://www.tumblr.com/joelwindows7/717681080846663680/caheartman-here-is-a-video-from-the-heart
+- https://feedback.abinteractive.net/p/sphere-triggers
+- https://feedback.abinteractive.net/p/cck-scripts-don-t-get-marked-dirty-serialize-on-change-properly
+- https://feedback.abinteractive.net/p/aas-decides-the-animation-override-is-missing-randomly
+- https://github.com/whiteflare/Unlit_WF_ShaderSuite **NEW UPDATE!!!**
+- https://booth.pm/ja/items/1197108 Also has this example. This is 2A-7, from hiroiheya
+- https://booth.pm/en/items/3835599
+- https://booth.pm/en/items/3202177
+- https://booth.pm/en/items/1992750
+- https://booth.pm/en/items/4358143
+- https://booth.pm/en/items/4499397
+- https://booth.pm/en/items/5199910
+- https://booth.pm/en/items/3809077
+- https://booth.pm/en/items/5335264
+- https://booth.pm/en/items/4207881 
+- https://github.com/AcChosen/VR-Stage-Lighting/tree/main/Packages/com.acchosen.vr-stage-lighting Pls convert to UPM path
+- https://github.com/AcChosen/VR-Stage-Lighting/tree/main/Packages/com.vrchat.core.vpm-resolver and this
+- https://github.com/AcChosen/VR-Stage-Lighting.git?path=Packages/com.acchosen.vr-stage-lighting#main
+- https://github.com/AcChosen/VR-Stage-Lighting.git?path=Packages/com.vrchat.core.vpm-resolver#main
 
 ## sovania
 
