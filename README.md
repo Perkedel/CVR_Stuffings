@@ -2935,6 +2935,132 @@ Put this image onto some quads. This image is my promotion for gamers to check o
 - https://github.com/AcChosen/VR-Stage-Lighting/tree/main/Packages/com.vrchat.core.vpm-resolver and this
 - https://github.com/AcChosen/VR-Stage-Lighting.git?path=Packages/com.acchosen.vr-stage-lighting#main
 - https://github.com/AcChosen/VR-Stage-Lighting.git?path=Packages/com.vrchat.core.vpm-resolver#main
+- https://twitter.com/sunekosurisuri_
+- https://youtu.be/GXmDRRabHRY?si=TiYnzv-K-e_HzdHL from here, we got
+- https://3d.nicovideo.jp/users/130536457/works
+- https://x.com/sunekosurisuri_/status/1725162301794230291?s=20
+- https://twitter.com/suyakouta
+- https://x.com/WholesomeDoujin/status/1736775004296298682?s=20 what are you doing here? moving on.
+- https://x.com/miwa_koku/status/1736778354127200597?s=20 c'mon, where's the model?
+- https://fantia.jp/fanclubs/474192
+- https://suyasuyasuya.booth.pm/
+- https://fantia.jp/fanclubs/474192/posts the models on suyakouta are all paid! including
+- https://fantia.jp/fanclubs/474192/posts Fuwawa. and
+- https://fantia.jp/posts/2331101 Mococo.
+- also,
+- https://fantia.jp/posts/2331101 there's outrageous rules! it says..
+- `For works other than still images and videos, please confirm the use with me.`
+- `Completely prohibiting the use of derivative models in VR・MR・AR apps and demo videos (including still images) (please contact us separately for originals).` This one..
+- `Violent expressions (including R18G) are prohibited (gags are okay).` This one, fucking hell..
+- `Prohibition of use of political expressions.` This one..
+- `Use of derivative models on VRSNS is prohibited.` This one, shit!
+- `Any other content that I deem inappropriate.` 💀, because
+- there was... `Recently, the Ina-chan model was used in a VR app demo, and the content was not a derivative work with recognized character characteristics, and the image was a bit shocking, with the arms bent in strange directions, so the release was stopped. As luck would have it.`
+- The Ina-chan model deleted. .. Ugh.. another day.
+- https://fantia.jp/posts/2286153 what?
+- https://fantia.jp/posts/1861050 Wait, Ina's still here? Also Paid. Damn! can you pls hire some translator or born bilingual JP & EN?! Don't confuse me, will ya?
+- https://suyasuyasuya.booth.pm/ one last check..
+- We're done. that latter paid. Beyond recovery.
+- Keep assets to yourself. git ignore them.
+- https://spotlight.fantia.jp/news/20211014_verification
+- https://x.com/suyakouta/status/1730237323776860437?s=20
+- https://x.com/amedamahitotubu/status/1736687396065034294?s=20
+- https://x.com/fuwamoco_en/status/1736796677502382099?s=20
+- https://www.foriio.com/suya
+- https://github.com/vrchat-community/UdonSharp
+- https://github.com/AcChosen/VR-Stage-Lighting/tree/main/Packages/com.vrchat.core.vpm-resolver/Editor
+- Okay
+- https://sarasarenge.booth.pm/ here we have sarasarenge.
+- https://booth.pm/ja/items/2836532 begin from Anting-anting. file name `Acce`.
+- https://sarasarenge.booth.pm/items/3123829 argh shit!! paid!!
+- https://sarasarenge.booth.pm/items/4312949 `DecoDecoGoodsB` Dakimakura, Cutouts, and.. whatever. etc.
+- https://sarasarenge.booth.pm/items/4312877 `DecoDecoGoodsA` Mugs, coaster, and acrylic cutoutss
+- https://sarasarenge.booth.pm/items/2833456 Anting-anting Plumbob `Acce 01`
+- https://sarasarenge.booth.pm/items/2841030 Flame Grenade . **PAID!!!**
+- https://note.com/sarasa_renge/n/nd87b71b81462
+- https://sarasarenge.booth.pm/items/2846460 Flower decoration
+- https://unity-chan.com/download/releaseNote.php?id=UTS2_0
+- https://unity-chan.com/download/
+- https://sarasarenge.booth.pm/items/2879571 top hat **PAID**
+- https://sarasarenge.booth.pm/items/3123529 Cotton Candy machine **PAID**
+- https://sarasarenge.booth.pm/items/3123829 Lollipop **PAID**
+- https://sarasarenge.booth.pm/items/3194998 Cat Tower **PAID**
+- https://sarasarenge.booth.pm/items/3123529 Cotton Candy machine **PAID**
+- https://sarasarenge.booth.pm/items/3195276 Apple Stick **PAID**
+- https://sarasarenge.booth.pm/items/3211078 Ice cream cone holder **PAID**
+- https://sarasarenge.booth.pm/items/3628896 Corkboard **PAID**
+- https://sarasarenge.booth.pm/items/3889526 Japanese world map quiz scale model **PAID**
+- https://sarasarenge.booth.pm/items/3110056 Balance Stick `Acce`
+- https://sarasarenge.booth.pm/items/2919018 Bell ears **PAID**
+- https://sarasarenge.booth.pm/items/2894487 Camp Survival Kit. **PAID**. Stove, mug, etc.
+- Okay, I think that's all. https://sarasarenge.booth.pm/
+- https://booth.pm/ja/items/3087170
+- https://booth.pm/ja/items/3087170
+- https://booth.pm/ja/items/2874219
+- https://booth.pm/ja/items/2836532
+- https://lua8556.booth.pm/ Now. Take a look at this. `SHOP TSUKIMORI`.
+- https://booth.pm/ja/items/4082095 Pleochroic Acrylic
+- https://lua8556.booth.pm/items/4844913 Lamellar
+- https://lua8556.booth.pm/items/4814777 Spectra
+- https://lua8556.booth.pm/items/3661886 SD-VLCD **PAID**
+- https://lua8556.booth.pm/items/2595505 Floating Lantern
+- tips. first prefab SFW. then put SFW in a new Empty GameObject Prefab. beside in this new prefab add your NSFW things.
+- Please find where's Sunao Shader this Floating Lantern used!
+- https://github.com/FrenkelS/Doom8088/releases
+- https://mononobe-monoko.booth.pm/ Okay, mononobe! モノ子のおみせ.
+- https://booth.pm/en/items/2831542 here's camera last time. `PropCamera`
+- https://mononobe-monoko.booth.pm/items/4264924 merch
+- https://mononobe-monoko.booth.pm/items/3786444 **PAID**
+- https://mononobe-monoko.booth.pm/items/3468381 or [old version](https://www.dropbox.com/sh/itus9y3dm0wsp6i/AADyujFEf5h8okOssouCWfBoa?dl=0)
+- https://mononobe-monoko.booth.pm/items/3437882 merch
+- https://mononobe-monoko.booth.pm/items/3018105
+- https://mononobe-monoko.booth.pm/items/2611235 or https://www.v-market.work/ec/items/4583/detail/ **PAID**
+- https://mononobe-monoko.booth.pm/items/2243625
+- https://mononobe-monoko.booth.pm/items/1799190 merch
+- done
+- https://moyuer.booth.pm/ clean up
+- https://moyuer.booth.pm/
+- https://github.com/CMoyuer?tab=repositories
+- https://github.com/CMoyuer/ChilloutVR-LocalTest
+- https://github.com/CMoyuer/BlitzRhythm-Editor-Mod-Loader
+- https://aliced.booth.pm/ pls don't forget
+- https://booth.pm/en/items/1637978 **PAID**
+- https://noriben.booth.pm/
+- https://nanaworks.booth.pm/
+- https://nanaworks.booth.pm/items/2720197 free. NanaTab, VRChat only
+- https://junotanuki.booth.pm/ We already have these
+- b
+- .
+- I wish I downloaded it all. Now that's gone.
+- But are we gonna mourn everyday for that?
+- How about we make it again, since we know how the pattern looks like?
+- Brush your teeth mascots
+- cardiophilia pig girl
+- It's a long journey.
+- .
+- .
+- .
+- .
+- .
+- .
+- .
+- .
+- .
+- .
+- .
+- .
+- .
+- .
+- .
+- .
+- .
+- .
+- .
+- .
+- .
+- .
+- .
+- Please begin importing main Avali & repack it properly. bring result to here.
 
 ## sovania
 
