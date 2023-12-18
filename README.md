@@ -2909,6 +2909,12 @@ Put this image onto some quads. This image is my promotion for gamers to check o
 - https://github.com/lilxyzw/EXShaders hold on. I think I can do this..
 - https://github.com/lilxyzw/EXShaders.git?path=Assets/EXShaders#main okay, let's see.. **ALRIGHT!!, HERE WE GO.**
 - https://github.com/lilxyzw/OpenLit wait, this guy had no proper package json?
+- https://vrcmods.com/item/3457 hey,.. there is repackage here. Funny story, the original Avali package was not foldered to its dedicated folder, basically, should be own project. NOw this, is.. repackaged to be.. sorted out. Nvm, this is not up to date. Ugh.. let me sort the latest one later.
+- https://coposuke.hateblo.jp/entry/2019/01/20/043042
+- https://github.com/Santarh/MToon
+- https://www.slideshare.net/VirtualCast/vrm-mtoon
+- https://github.com/Santarh/MToon This whole repo is the folder itself, put here!
+- VRMC shader already has it! Package `com.vrmc.vrmshaders`. the VRM package!
 
 ## sovania
 
