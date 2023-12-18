@@ -2879,6 +2879,36 @@ Put this image onto some quads. This image is my promotion for gamers to check o
 - Ay look, the shadergraph works. I mean.. it's (the `.shader` file) already generated, yeah. Auto render thingy.., yess.
 - ***Never have I ever pirated, sparsdated, or download film torrent from torrent site***. Right, who's finger eliminated / closed? Me.. and....... okay, thancc.
 - https://youtu.be/U8W1SWWAZ6E?si=y3R4BqkRDsTgKdz7 how to never have I ever
+- https://gitlab.com/farfelu/vrchat-reverse-avali-avatar/
+- https://sfbgames.itch.io/chiptone we use this to generate sound
+- https://sfbgames.itch.io/ hawat
+- https://sfbgames.itch.io/tangle-tower
+- Hey! Do not corrupt the Federals before Admiral Zumi & Roig escape! If you do that, Zumi will instead join Crackers group. You already know that this is nasty game. NO, not the cracking itself, **it's the competition!!** Who got cracked first, is the honor. Doesn't matter money (given or not). And the late.. **dishonored / nuked**. That's why I hate Cracker Contest Game. Basically let it go. Do not meddle with time! This planet Zumi & Roig came from is... horrible since scratch, you do it, had to be.. alot. Say you did, and then bad again, just... can't be done, it's canon.
+- How could that be? Well, The Federal is corrupted say. There is this cracker group, amongst many. Since Federals supposedly scronched bunch of them including this one, this Cracker group got to Zumi.
+- *Hello. Why just consuming pirated content, when you can be the pirate itself?* And so there it is. Zumi helped this Cracker group reach the peak honor of all time. Being the 1st and again to crack video games & software tools!
+- What's the catch? **Of course you fucking already know it!** Zumi becomes arrogant! 180 degrees way over than this Perkedel canon (humble & likes to share). Zumi then.. will *die for* the secret. Keep the secret out of any gamers but the Cracker group he's in. Noone shall know how did they do that.
+- Oh and also, on related topic, the Cracker group here happens to be... racist. Discriminative. Likes to harrass.. those skin who aren't them. Ah, correct! you know that lady. Good. She's very proficient. Alas tho, that's her behaviour. I... can't understand what's her implication. What if this.. argh.. wha yeah.
+- And then... If Zumi instead becomes anti-villain, then.. who's going to archive these files? ... Let me tell you: .................. **null**. That's right. Nobody. Zumi was the only & 1st and most 1st. **FUCKING 1st since scratch**. very 1st, most 1st, to act upon files. in Perkedel canon, there was a guy. Once upon a time, in early day (while research basement is WIP), a guy portaled to his temp office space. FIle gone! here tablet to show it. Heh really? check, type website, gone. Archive? nada. But lucky, Zumi downloaded that file way before. COnfused, of course. Give file or not. Is it illegal? But the guy insist: *if you don't act, when? all will gone, no gold survives*. You know, Zumi's mend is still pure, so.. of course, he copy to USB, and give the USB. the guy glad, like he can die in peace. No, he not die, just.. HDR increase glow, and then remove from the scene. Yeah. The rest is history. 
+- No Zumi... file all gone, by the time 100 years before Jesus comes back. Peace both islands, Armageddon, scrolls & trumpets, spiritual physical wars & yadi yada. All those time, file gone. Well actually, there's remake, but.. too paltry. Everyone is focusing war on suddenly fucking shit after these 2 peace. What a horrible era to be in appocalypse eh? Wish Jesus took you to Heaven right away but oh no, you gotta pass these tribulations first.
+- So yeah. Just.. let it go. Just saying. NO.. I mean, serious. It's better this way. No more sparsdat video game, or some software tools. **Except Adobe**. We will make the knock off like bad really. We will have the alternate of those software tools.
+- Oh also... don't look too much porn. Not good. Just keep the file. And you, in very future, you too. Don't watch porn too much. Look outside, I know it'll be hell day of yours, but it's better this way. Watch out for.... those who offer uh.. the chip, that'll injected to your hand, **reject at all cost**! If you chose devil, game over. OH and.. you also if by no consent you wake up with it, pray to God that it got removed, and follow instruction. If you die with that, pray God again, I hope He'll tolerate it, as long.. it's not your consent. Damn, that part I have no full Revelation I understand. I ask question to pastors of the world, If I ... no I mean, my descendants far in the future, woke up with the chip suddenly in hand, they don't consent at all, will still they Heaven eligible? One few says still no. That's not alright, So.. I'm asking for different opinion. Really? that timeout the mercy would be? Then asshole He is?! NO.. that's incorrect, He owns the Real Life, How the hell could unluck constitute you to eternal doom? How the hell would He let tiny ants like us.. squashed useless? I mean, we being are.. yeah, but He is God, He made all matters! So no.. He cannot be that, despite the day later. We fucking unconsent!! We know who they are!
+- I'm serious!! I need full insight!! I don't want my descendants far in the future stress only to think, and disable sleep for good, only then die of lack sleeping!
+- .
+- .
+- https://resonite.com/ Here's resonite. Very new. **already has scripting**, but **no permanent buy**.
+- https://github.com/Yellow-Dog-Man/Resonite-Issues same, not open source either.
+- https://github.com/lilxyzw/lilFurGenerator/ Okay this is done now
+- https://github.com/lilxyzw/lilMaterialConverter and this too.
+- okay, get ready! and..
+- https://github.com/lilxyzw/lilSceneViewExtensions this done..
+- https://github.com/lilxyzw/lilOutlineUtil this...
+- https://github.com/lilxyzw/lilMatCapGenerator.git?path=Assets/lilMatCapGenerator#main UPM now..
+- wait.. Oh yeah, there's `package.json`.
+- https://github.com/lilxyzw/lilMatCapGenerator/blob/main/Assets/lilMatCapGenerator/package.json wait.. version is `0.0.0`?? argh, whatever.
+- https://github.com/lilxyzw/Material-Separator don't forget this one
+- https://github.com/lilxyzw/EXShaders hold on. I think I can do this..
+- https://github.com/lilxyzw/EXShaders.git?path=Assets/EXShaders#main okay, let's see.. **ALRIGHT!!, HERE WE GO.**
+- https://github.com/lilxyzw/OpenLit wait, this guy had no proper package json?
 
 ## sovania
 
