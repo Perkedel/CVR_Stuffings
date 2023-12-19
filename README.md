@@ -3065,8 +3065,9 @@ Put this image onto some quads. This image is my promotion for gamers to check o
 - https://github.com/TumblThreeApp/TumblThree?tab=readme-ov-file
 - https://stevivor.com/guides/download-entire-tumblr-blog/
 - Sarasarenge had file names too long! these are:
-  - `{{{{{masterpiece}}}}},{highly detailed}, blonde hair, forehead, small breasts, blue eyes, long hair, full body, black micro bikini, sleeping,  s-1695196687-upscale-4x.png`
-  - `{{{{{masterpiece}}}}},{highly detailed}, blonde hair, forehead, small breasts, blue eyes, long hair, full body, school uniform, sleeping, bed sheet,  s-1918269853-upscale-4x.png`
+  - `{{{{{masterpiece}}}}},{highly detailed}, blonde hair, forehead, small breasts, blue eyes, long hair, full body, black micro bikini, sleeping,  s-1695196687-upscale-4x.png` 👉 `AI_1`
+  - `{{{{{masterpiece}}}}},{highly detailed}, blonde hair, forehead, small breasts, blue eyes, long hair, full body, school uniform, sleeping, bed sheet,  s-1918269853-upscale-4x.png` 👉 `AI_2`
+  - `{{{{{masterpiece}}}}},{highly detailed}, blonde hair, forehead, small breasts, blue eyes, long hair, full body, black micro bikini, sleeping,  s-1695196687-upscale-4x.mat` 👉 `AI_Pillow`
 
 ## sovania
 
