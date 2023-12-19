@@ -280,7 +280,7 @@ AudioSource:
   Priority: 128
   DopplerLevel: 1
   MinDistance: 0.1
-  MaxDistance: 0.3
+  MaxDistance: 0.15
   Pan2D: 0
   rolloffMode: 0
   BypassEffects: 0
@@ -369,18 +369,18 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   directBinaural: 1
   interpolation: 0
-  distanceAttenuation: 0
-  distanceAttenuationInput: 0
+  distanceAttenuation: 1
+  distanceAttenuationInput: 1
   distanceAttenuationValue: 1
-  airAbsorption: 0
+  airAbsorption: 1
   airAbsorptionInput: 0
   airAbsorptionLow: 1
   airAbsorptionMid: 1
   airAbsorptionHigh: 1
-  directivity: 0
+  directivity: 1
   directivityInput: 0
-  dipoleWeight: 0
-  dipolePower: 0
+  dipoleWeight: 1
+  dipolePower: 4
   directivityValue: 1
   occlusion: 1
   occlusionInput: 0
@@ -395,7 +395,7 @@ MonoBehaviour:
   transmissionMid: 1
   transmissionHigh: 1
   directMixLevel: 1
-  reflections: 0
+  reflections: 1
   reflectionsType: 0
   useDistanceCurveForReflections: 0
   currentBakedSource: {fileID: 0}
@@ -406,7 +406,7 @@ MonoBehaviour:
   hybridReverbEQMid: 1
   hybridReverbEQHigh: 1
   hybridReverbDelay: 0
-  applyHRTFToReflections: 0
+  applyHRTFToReflections: 1
   reflectionsMixLevel: 1
   pathing: 0
   pathingProbeBatch: {fileID: 0}
