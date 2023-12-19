@@ -3062,12 +3062,13 @@ Put this image onto some quads. This image is my promotion for gamers to check o
 - .
 - Please begin importing main Avali & repack it properly. bring result to here.
 - https://www.pixiv.net/en/artworks/114115283 Cardiac Extract. `it.`. Please don't just say the name, Sauce URL too pls.
-- https://github.com/TumblThreeApp/TumblThree?tab=readme-ov-file
+- https://github.com/TumblThreeApp/TumblThree
 - https://stevivor.com/guides/download-entire-tumblr-blog/
 - Sarasarenge had file names too long! these are:
   - `{{{{{masterpiece}}}}},{highly detailed}, blonde hair, forehead, small breasts, blue eyes, long hair, full body, black micro bikini, sleeping,  s-1695196687-upscale-4x.png` 👉 `AI_1`
   - `{{{{{masterpiece}}}}},{highly detailed}, blonde hair, forehead, small breasts, blue eyes, long hair, full body, school uniform, sleeping, bed sheet,  s-1918269853-upscale-4x.png` 👉 `AI_2`
   - `{{{{{masterpiece}}}}},{highly detailed}, blonde hair, forehead, small breasts, blue eyes, long hair, full body, black micro bikini, sleeping,  s-1695196687-upscale-4x.mat` 👉 `AI_Pillow`
+- https://github.com/jll123567?tab=repositories pls check again. ... nothing new yet.
 
 ## sovania
 
