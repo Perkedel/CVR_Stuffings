@@ -3069,6 +3069,21 @@ Put this image onto some quads. This image is my promotion for gamers to check o
   - `{{{{{masterpiece}}}}},{highly detailed}, blonde hair, forehead, small breasts, blue eyes, long hair, full body, school uniform, sleeping, bed sheet,  s-1918269853-upscale-4x.png` 👉 `AI_2`
   - `{{{{{masterpiece}}}}},{highly detailed}, blonde hair, forehead, small breasts, blue eyes, long hair, full body, black micro bikini, sleeping,  s-1695196687-upscale-4x.mat` 👉 `AI_Pillow`
 - https://github.com/jll123567?tab=repositories pls check again. ... nothing new yet.
+- https://furhubcvr.com
+- https://discord.com/invite/zpWrNRxBEN and Discord.
+- https://cron.help/every-minute
+- https://archive3d.net/?a=download&id=3c98c78f POS Terminal. Emel. filename `40de62d8b87623cd3e0af39e7cb75540.zip`
+- > Ketololan Gamer-gamer di metaverse adalah avatar2nya. Gile tuh avatar pada sexy, cuman harganya buset day IDR 800K-an!
+- > Janganlah, jadi penyepong!
+- *note, this is not real word. These are made up word with inspired man-sampled wording.
+- https://youtube.com/@GTID
+- So we have heard that GT.ID had spread their rant towards Keyboard now. I have open another eyes, that uh.. there is just this whole another rabbit hole of keyboard, like
+- https://youtu.be/BcqerXtCPks?si=to8160cM0xpMQ9M3
+- A custom keyboard, you know. That.., It's a dedicated design, hence.. not for sale for long. You contact the designer, pay huge price, and huge shipping cost. I saw there's a people like him, who do everything in order to be... *cool*, GTID said. Can't say why, just... addicted.
+- Now now, how about we bring it here?.
+- There is people like that, who had huge pride upon.. exclusive avatar, to get it, not that easy. Had rules to obey, etc. etc. These dwellers. Moronically, let themselve's be consumed by pride of exclusivity.
+- .
+- Yeah you got the idea. I'm still training how to be derogatory, **just enough & at the right spot of course**. It's just to target... no, **only the designers**. That's what we are. I hate paywall.
 
 ## sovania
 
