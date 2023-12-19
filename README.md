@@ -3084,6 +3084,41 @@ Put this image onto some quads. This image is my promotion for gamers to check o
 - There is people like that, who had huge pride upon.. exclusive avatar, to get it, not that easy. Had rules to obey, etc. etc. These dwellers. Moronically, let themselve's be consumed by pride of exclusivity.
 - .
 - Yeah you got the idea. I'm still training how to be derogatory, **just enough & at the right spot of course**. It's just to target... no, **only the designers**. That's what we are. I hate paywall.
+- https://booth.pm/en/items/4957483 merch
+- https://booth.pm/en/items/3293366 **PAID**
+- https://github.com/RetroGEO/reroStandard
+- https://elixa.booth.pm/
+- https://releed.booth.pm/
+- https://jared64.booth.pm/ **PAID**
+- https://sidega.booth.pm/ **PAID**
+- https://sidega.booth.pm/items/3274788 **PAID**
+- https://booth.pm/en/items/4054952 Mynx **PAID**
+- https://marivr.gumroad.com/l/Deira **PAID**
+- https://marivr.gumroad.com/
+- https://github.com/Dervali-git/VRC-Tips/blob/main/LaySittingPrefab.md Laydown sitting animation VRChat
+- https://arkorenart.gumroad.com/ **PAID**
+- https://booth.pm/en/items/3675344 Neobit **PAID**
+- https://booth.pm/en/items/1851806 HORiZONDOLL **PAID**
+- https://booth.pm/en/items/3927902 GrayDOS **PAID**
+- https://booth.pm/en/items/3483143 Oniyuri **PAID**, only License free provided
+- https://pocho.booth.pm/items/4424448 Custom animation controller VRChat
+- https://marivr.gumroad.com/l/Zywie?layout=profile&recommended_by=library Zywie
+- https://booth.pm/en/items/4979460 merch
+- https://booth.pm/en/items/4774121 UDJ-1000
+- https://github.com/laserimouto/UDJ-1000
+- https://booth.pm/en/items/3669512 Laser-multi Shader **PAID**. argh shit
+- https://booth.pm/en/items/2141514 LaserLight Shader **PAID**
+- https://booth.pm/en/items/4493526 **paid**
+- https://booth.pm/en/items/2582305 laser riffle
+- https://twitter.com/KamikazE_Chan/status/1350140870213984256?s=20
+- https://booth.pm/en/items/2679082 BUNNY Anthro **Paid**
+- https://booth.pm/en/items/4230120 CLARA
+- https://booth.pm/en/items/1944618 M1N1 **PAID**
+- https://steamcommunity.com/sharedfiles/filedetails/?id=105150660 SW Gokart
+- https://steamcommunity.com/workshop/filedetails/?id=116572450 SW addons
+- https://kazunavali.gumroad.com
+- https://booth.pm/en/items/4017284 Legacy Lava lamp **Paid**
+- https://booth.pm/en/items/4260173 Lava Lamp **PAid**
 
 ## sovania
 
