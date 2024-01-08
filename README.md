@@ -3119,6 +3119,55 @@ Put this image onto some quads. This image is my promotion for gamers to check o
 - https://kazunavali.gumroad.com
 - https://booth.pm/en/items/4017284 Legacy Lava lamp **Paid**
 - https://booth.pm/en/items/4260173 Lava Lamp **PAid**
+- https://youtu.be/CQGr75XiKuw?si=4LVDN-MY3R0dw930
+- https://www.youtube.com/watch?v=cd6EYHDqlmw
+- https://www.youtube.com/watch?v=NN1YxYSyDHQ
+- https://depressed.gumroad.com/l/base **PAID**
+- https://ivyvr.gumroad.com/
+- https://sanislovart.gumroad.com/l/gOEV **FREE**
+- https://seedsy.gumroad.com/l/Seedbeast **PAID**
+- https://seedsy.gumroad.com/
+- https://seedsy.gumroad.com/l/strapsforRantichi **PAID**
+- https://rantisvr.gumroad.com/
+- https://twitter.com/newyearsevecvr
+- https://github.com/ShiinaManatsu/MMD4UnityTools
+- https://github.com/madjin/vrm-samples
+- https://stackoverflow.com/questions/35534766/how-to-create-submodule-in-existing-repo
+- https://git-scm.com/book/en/v2/Git-Tools-Submodules
+- https://git-scm.com/book/en/v2/Git-Tools-Submodules
+- Incoming Maya Putri file
+- https://www.deviantart.com/joelwindows7/journal/Maya-Putri-MMD-3D-Model-situation-Bantu-cariin-928109950
+- https://www.deviantart.com/aziib/art/Maya-Putri-ver1-01-MMD-Download-1004214586
+- https://odysee.com/@X0P1R4T3-33NSVREENMNT-0FFICIAL:f/Maya_Putri_official_mmd:4
+- done
+- https://www.deviantart.com/ds-dna/art/MMD-to-Unity-Quick-import-tutorial-432421331
+- https://www.deviantart.com/unitygamedevs
+- https://www.deviantart.com/mmd-videos
+- https://www.deviantart.com/unitygamedevs
+- https://youtu.be/zSC2hKaG5AA?si=pX7EDoIm0HOP7fG3
+- https://mmd-for-unity-proj.github.io/mmd-for-unity/
+- https://github.com/mmd-for-unity-proj/mmd-for-unity
+- https://www.youtube.com/watch?v=Ms9hDt5cPGQ
+- https://mmd-for-unity-proj.github.io/mmd-for-unity/
+- https://www.youtube.com/watch?v=eHddD5OfuwI
+- https://vertexarcade.gumroad.com/l/adjustable-mannequin **PAID**
+- https://www.youtube.com/watch?v=eHddD5OfuwI
+- https://id.pinterest.com/pin/556968678902903535/
+- https://www.youtube.com/watch?v=BzcTn2x_8Dw&t=1s
+- https://github.com/x3bits/libmmd-for-unity
+- https://steamcommunity.com/app/438100/discussions/1/1635237606654475389/
+- https://www.youtube.com/watch?v=UiwEuR_qXt8
+- https://www.deviantart.com/saryta-chan/art/I-Stop-the-Models-Series-Please-Read-812899523
+- https://www.youtube.com/watch?v=QvrTb-epsug
+- https://www.youtube.com/watch?v=G2XHn38YWvk
+- https://www.youtube.com/watch?v=G2XHn38YWvk
+- https://github.com/absolute-quantum/cats-blender-plugin
+- https://www.youtube.com/watch?v=G2XHn38YWvk
+- https://acegikmo.com/shaderforge/
+- https://github.com/FreyaHolmer/ShaderForge
+- https://github.com/UuuNyaa/blender_mmd_tools
+- https://vrcat.club/threads/cats-blender-plugin-0-4-1.6/
+- https://github.com/FreyaHolmer/ShaderForge
 
 ## sovania
 
