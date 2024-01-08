@@ -3168,6 +3168,11 @@ Put this image onto some quads. This image is my promotion for gamers to check o
 - https://github.com/UuuNyaa/blender_mmd_tools
 - https://vrcat.club/threads/cats-blender-plugin-0-4-1.6/
 - https://github.com/FreyaHolmer/ShaderForge
+- https://github.com/cubedparadox/Cubeds-Unity-Shaders SHADER!!!!
+- https://www.atlassian.com/git/tutorials/git-submodule
+- https://github.blog/2016-02-01-working-with-submodules/
+- https://git-scm.com/docs/git-submodule
+- https://git-scm.com/book/en/v2/Git-Tools-Submodules
 
 ## sovania
 
