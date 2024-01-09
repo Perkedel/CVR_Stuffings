@@ -257,7 +257,7 @@ Here are the UUIDs of all these assets we uploaded to CVR:
 | `3fe2b7c3-129a-418e-87ad-c3931657f843` | UCC Cinema | MilchZocker | (**NOT PERKEDEL**) |
 | `af0f00bc-0702-46ce-9441-bcce0ad6c813` | UCC Avatars | MilchZocker | (**NOT PERKEDEL**) |
 | `9d0677a5-b88f-4994-901b-7b91c99e8cd8` | UCC Bird Island | MilchZocker | (**NOT PERKEDEL**) |
-| `bc8f15fa-8f6b-42b5-8096-8b3058345e98` | UCC Hub. MilchZocker | (**NOT PERKEDEL**) |
+| `bc8f15fa-8f6b-42b5-8096-8b3058345e98` | UCC Hub | MilchZocker | (**NOT PERKEDEL**) |
 | ~~`9a7d706f-a70e-4e7f-a301-406f25e509b3`~~ | ~~DomNomNomVR's AudioLink Samples~~ | DomNomNomVR | (**NOT PERKEDEL**) **NOTE: WRONG AL WORLD!!! UUID mismatch into `TEST Audio Link`! World is not same as seemingly identical `AudioLink Example`!!** |
 | `b98f304c-e1e0-410d-a6c3-cfcb15c7c087` | DomNomNomVR's AudioLink Samples | DomNomNomVR | (**NOT PERKEDEL**) **NOTE: This is the correct UUID** |
 | `9cb2b515-eee3-4258-8c3d-108ccfc5d299` | Madvicius' Old Anime world | Madvicius | (**NOT PERKEDEL**) |
@@ -3139,6 +3139,7 @@ Put this image onto some quads. This image is my promotion for gamers to check o
 - https://www.deviantart.com/joelwindows7/journal/Maya-Putri-MMD-3D-Model-situation-Bantu-cariin-928109950
 - https://www.deviantart.com/aziib/art/Maya-Putri-ver1-01-MMD-Download-1004214586
 - https://odysee.com/@X0P1R4T3-33NSVREENMNT-0FFICIAL:f/Maya_Putri_official_mmd:4
+- https://www.facebook.com/groups/MMDIndo/?ref=share&mibextid=NSMWBT
 - done
 - https://www.deviantart.com/ds-dna/art/MMD-to-Unity-Quick-import-tutorial-432421331
 - https://www.deviantart.com/unitygamedevs
@@ -3173,6 +3174,132 @@ Put this image onto some quads. This image is my promotion for gamers to check o
 - https://github.blog/2016-02-01-working-with-submodules/
 - https://git-scm.com/docs/git-submodule
 - https://git-scm.com/book/en/v2/Git-Tools-Submodules
+- Thorium Lewd files!
+- https://github.com/Alex313031/thorium/blob/ddd0396ddfa427be0de53989e2dd855063d5b2e6/src/chrome/app/theme/default_100_percent/chromium/yiff.png
+- https://github.com/Alex313031/thorium/pull/469/commits/e29bec62414dd5ac1be7a96b6bcd9004813a3a8c
+- https://github.com/Alex313031/thorium/pull/469
+- https://github.com/Alex313031/quark-player/blob/9c631812c47f7b372e7d712e27c0979e6723342a/src/ui/imgs/catgirl_fridge.png
+- https://github.com/Alex313031/quark-player/commit/867017884d0ee40399922955ee41dee8195f33c0
+- https://github.com/Alex313031/atom-ng/blob/db318f9eefd9458b1121dd895f6c95eeb3a4355a/packages/yiff/assets/Ass_Shaking.gif
+- https://github.com/Alex313031/atom-ng/blob/db318f9eefd9458b1121dd895f6c95eeb3a4355a/packages/yiff/assets/Roxy_Upskirt.jpg
+- https://github.com/Alex313031/atom-ng/blob/db318f9eefd9458b1121dd895f6c95eeb3a4355a/packages/yiff/assets/Maid_Bend_Over.png
+- https://github.com/Alex313031/atom-ng/blob/db318f9eefd9458b1121dd895f6c95eeb3a4355a/packages/yiff/assets/Kody_Inspection.png
+- https://github.com/Alex313031/atom-ng/blob/db318f9eefd9458b1121dd895f6c95eeb3a4355a/packages/yiff/assets/Girls_Just_Wanna_Have_Fun.png
+- https://github.com/Alex313031/atom-ng/blob/db318f9eefd9458b1121dd895f6c95eeb3a4355a/packages/yiff/assets/Bunny_Butt.jpg
+- https://github.com/Alex313031/atom-ng/commit/e428018f8077bdc7cfe71808e5e5cae047b59832#diff-e32fecf2f0f2c8b8cf1be71e09042dac7d1bf2cf2f985a00aa084d264ef0d106
+- https://github.com/Alex313031/thorium/issues/470
+- https://github.com/Alex313031/thorium/issues/474
+- https://github.com/Alex313031/thorium/issues/479
+- https://github.com/NekoNyanners/thorium/issues/1
+- https://github.com/Alex313031/thorium/blob/3759529384a18ae7c1d59155e1fef48573e5834c/src/chrome/app/theme/default_100_percent/chromium/yiff.png
+- https://github.com/Alex313031/thorium/issues/479
+- done. wait, more Thorium file!
+- https://github.com/Alex313031/Thorium
+- https://www.chromium.org/chromium-os/
+- https://support.google.com/chromeosflex/answer/11542901
+- https://support.google.com/chromeosflex/answer/11552529
+- https://chromewebstore.google.com/detail/utilitas-pemulihan-chrome/pocpnlppkickgojjlmhdmidojbmbodfm
+- https://support.google.com/chromeosflex/answer/11552352?sjid=1143323221805349169-AP
+- https://chromeenterprise.google/
+- https://chromeenterprise.google/os/chromeosflex
+- https://chromium.arnoldthebat.co.uk/index.php?dir=special
+- https://arnoldthebat.co.uk/wordpress/chromiumos-special-builds/
+- https://github.com/Alex313031/TrImLy
+- https://thorium.rocks/
+- https://github.com/Alex313031/ThoriumOS/
+- https://thorium.rocks/thoriumos
+- done final.
+- https://partedmagic.com/store/?ref=8 **PAID** was free 💀.
+- https://www.system-rescue.org/ **FREE**
+- https://antixlinux.com/
+- https://mxlinux.org/
+- https://distrowatch.com/table.php?distribution=mx
+- https://distrowatch.com/dwres.php?resource=popularity WHAT?! MX LINUX IS THE MOST POPULAR FOR THE LAST COUPLE MONTHS?!??!?!?!
+- https://maid.binbash.rocks/
+- https://forums.ventoy.net/showthread.php?tid=1982&highlight=chromeos
+- https://nayuos.nexedi.com/
+- https://github.com/arnoldthebat/chromiumos
+- https://mxlinux.org/download-links/
+- https://forums.ventoy.net/showthread.php?tid=1982&highlight=chromeos
+- https://www.balena.io/etcher-pro
+- https://www.balena.io/etcher-pro
+- https://etcher.balena.io/
+- https://www.balena.io/
+- https://www.balena.io/pricing
+- https://github.com/Alex313031/ThoriumOS/
+- https://www.centbrowser.com/features.html#basics
+- https://github.com/dhowe/AdNauseam/wiki/Install-AdNauseam-in-Chrome-on-Windows
+- https://github.com/dhowe/AdNauseam/wiki/Install-AdNauseam-on-Chromium-based-browsers
+- https://github.com/dhowe/AdNauseam/wiki/FAQ#can-i-combine-adnauseam-with-another-blocker
+- https://feeder.co/installed/pin
+- https://github.com/lemnos/chrome-session-dump
+- https://feeder.co/installed/pin
+- https://alex313031.blogspot.com/2024/01/the-good-bad-and-ugly.html
+- https://thorium.rocks/CoC
+- https://alex313031.blogspot.com/2024/01/the-good-bad-and-ugly.html
+- https://github.com/Alex313031/thorium/blob/main/src/chrome/app/theme/default_100_percent/chromium/technical_error.png
+- https://github.com/win32ss/supermium/issues/150
+- https://chromewebstore.google.com/detail/go-back-with-backspace/pgmlidkcpfcjeeenlbkfmagkeclinnkh
+- https://chromewebstore.google.com/detail/clearurls/lckanjgmijmafbedllaakclkaicjfmnk uhhh
+- https://chromewebstore.google.com/detail/neat-url/jchobbjgibcahbheicfocecmhocglkco yess
+- https://github.com/Smile4ever/Neat-URL
+- https://chromewebstore.google.com/detail/google-link-fixer/pcpdkhaeeohmogfgcheopfcigcfdaioj
+- https://github.com/LittleLightLittleFire/link-fixer
+- https://chromewebstore.google.com/detail/no-opener-no-phishers/hieejlcohhkjbpiihgphcnaaiehphike
+- https://chromewebstore.google.com/detail/no-opener-no-phishers/hieejlcohhkjbpiihgphcnaaiehphike
+- https://chromewebstore.google.com/detail/add-jxl-support/khacgjhalljalcbfehknlagpjgjcgoej
+- https://github.com/niutech/jxl.js
+- https://bit.ly/jxl-as-Chrome-extension
+- https://github.com/zamfofex/jxl-crx
+- https://chromewebstore.google.com/detail/jpeg-xl-viewer/bkhdlfmkaenamnlbpdfplekldlnghchp
+- https://chromewebstore.google.com/detail/site-bleacher/mlcfcepfmnjphcdkfbfgokkjodlkmemo
+- https://github.com/wooque/site-bleacher
+- https://www.daniel.priv.no/web-extensions/amp2html.html
+- Enough browsering! back to 3D Models!
+- https://shinon51788.booth.pm/
+- https://shinon51788.booth.pm/items/3381066 **PAID**
+- https://shinon51788.booth.pm/items/575557 **PAID**
+- https://www.reddit.com/r/VRoid/comments/ytp6um/would_someone_be_willing_to_convert_a_pmx_to_a/
+- https://github.com/absolute-quantum/cats-blender-plugin
+- Vtuber Shop pls!
+- https://vtuber.itch.io/dssconverter converter
+- https://vtuber.itch.io/
+- https://vtubershop.booth.pm/items/3581243
+- https://vtuber.itch.io/chatgpt-for-kids
+- https://vtuber.itch.io/
+- https://vtuber.itch.io/sugar **NO DOWNLOAD**
+- https://m.imdb.com/title/tt1798709/
+- https://lightship.dev/products/vps
+- SugAR applet
+- https://www.youtube.com/watch?v=IMk2wyCeQYc
+- https://www.youtube.com/watch?v=M6zXipEzNSg&t=6s
+- https://vtuber.itch.io/zoo-studio-avatar-maker **PAID**, lite version (reduced avatar) available. pls reclarify if unlockable with grind!
+- https://vtuber.itch.io/game-3-vision
+- https://vtuber.itch.io/game-4-vision
+- https://vtuber.itch.io/game2-vision
+- https://vtuber.itch.io/game1
+- https://vtuber.itch.io/vroid-vtuber-broadcast-tool
+- https://store.steampowered.com/app/1455360/Vtuber_Broadcast_Tool_Mac_supported/
+- https://store.steampowered.com/app/1688750/Photographer_Cinematography_for_Vroid_VRM_and_MMD/ **PAID**
+- https://vtuber.itch.io/dansingsing This is the lite watermarked version
+- https://stormlab.itch.io/dvvr **PAID** US$24
+- https://vtuber.itch.io/dansingsing **DEMO WATERMARK**
+- https://vtuber.itch.io/covie20 **MOBILE APK ONLY**
+- https://covie20.softmind.tech/
+- https://vtubershop.booth.pm/items/3581243 This app is the best to convert PMX to VRM these days!
+- done
+- https://guribo.itch.io/suva
+- https://www.tumblr.com/joelwindows7/738979343070593024/in-case-anyone-is-having-a-bad-night
+- https://booth.pm/en/items/2842969 **PAID**
+- https://github.com/ShiinaManatsu/MMD4UnityTools/blob/master/Images/Menu1.png
+- https://github.com/madjin/vrm-samples
+- https://remasuri3.itch.io/tits **PAID** Bully throw object
+- https://arzolath.itch.io/vtuber-plus **PAID**
+- https://dreamtoaster.itch.io/honk **PAID**
+- https://twitter.com/RuneBellArt/status/1744745091183571008?t=gaYpEqnX_B1ReqREnufmKg&s=19
+- https://twitter.com/jinsang_3d/status/1744518886240694551?t=gaYpEqnX_B1ReqREnufmKg&s=19
+- https://twitter.com/MMdrawstuff/status/1743687673452122209?t=gaYpEqnX_B1ReqREnufmKg&s=19
+- https://www.patreon.com/MMAD311 **PAID**
 
 ## sovania
 
