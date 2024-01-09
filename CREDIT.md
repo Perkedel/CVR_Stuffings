@@ -3194,3 +3194,7 @@ New Sauce lists
 - https://www.tumblr.com/garrett-06/737139427106783232/cuddleking01-thumpingdemon-my-heart-fighting
 - a
 - VERY DONE
+- https://git-scm.com/docs/gitignore
+- https://blog.colind.me/adding-japanese-visemes-to-avatars-for-vrchat/
+- https://github.com/ShyWolf42/Copy-to-MMD-Visemes
+- https://www.reddit.com/r/VRchat/comments/d53geq/help_cats_plugging_wont_translate_mmd_avatar_so/
