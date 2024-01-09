@@ -3198,3 +3198,7 @@ New Sauce lists
 - https://blog.colind.me/adding-japanese-visemes-to-avatars-for-vrchat/
 - https://github.com/ShyWolf42/Copy-to-MMD-Visemes
 - https://www.reddit.com/r/VRchat/comments/d53geq/help_cats_plugging_wont_translate_mmd_avatar_so/
+- https://booth.pm/en/items/5403906 **PAID**
+- https://booth.pm/en/items/3543652 **PAID**
+- https://booth.pm/en/items/5155699 **PAID**
+- https://assetstore.unity.com/packages/vfx/particles/fire-explosions/fireworks-collection-6037 **PAID**
