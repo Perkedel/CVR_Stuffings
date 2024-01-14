@@ -3202,3 +3202,14 @@ New Sauce lists
 - https://booth.pm/en/items/3543652 **PAID**
 - https://booth.pm/en/items/5155699 **PAID**
 - https://assetstore.unity.com/packages/vfx/particles/fire-explosions/fireworks-collection-6037 **PAID**
+- https://youtu.be/h902r73QtGQ?si=9D8DAE4rM_nfOgGu
+- cvr world
+- https://www.youtube.com/watch?v=aNcZqriWgTE
+- https://www.youtube.com/watch?v=aNcZqriWgTE
+- https://www.youtube.com/watch?v=AqieYVRPWr4
+- https://www.youtube.com/watch?v=yQEqejsWt4M
+- ok done
+- Pls note pos. `25.25`, `-3.5`, `-39.25`
+- https://openupm.com/
+- https://openupm.com/packages/de.thryrallo.vrc.avatar-performance-tools/#close
+- https://github.com/Perkedel/After-Church/blob/master/RAW%20files/Blender/ChristmasTreeButTheLeavesAreFurs.blend
