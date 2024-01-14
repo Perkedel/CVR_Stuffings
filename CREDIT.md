@@ -3213,3 +3213,25 @@ New Sauce lists
 - https://openupm.com/
 - https://openupm.com/packages/de.thryrallo.vrc.avatar-performance-tools/#close
 - https://github.com/Perkedel/After-Church/blob/master/RAW%20files/Blender/ChristmasTreeButTheLeavesAreFurs.blend
+- https://assetstore.unity.com/packages/3d/props/exterior/fairground-rides-4205 **PAID**. Dippy already ported most of these probably! Check `Dippy FunFair` world!
+- https://patreon.com/DiaDaDaNe
+- https://diadadane.gumroad.com **GONE** ARGH, mother-
+- https://discord.gg/n5vTED8 DiaDaDane discord
+- pls
+- https://discord.gg/aisponge pls check again
+- https://en.wikipedia.org/wiki/Ai_sponge
+- https://psychpsyo.booth.pm/ **ALL FREE** as of now
+- https://psychpsyo.booth.pm/items/4870447
+- https://psychpsyo.booth.pm/items/4327740
+- https://psychpsyo.booth.pm/items/3469736
+- https://psychpsyo.booth.pm/items/2721663
+- https://www.vseeface.icu/#virtual-camera-issues
+- http://deatrathias.net/TW/
+- https://vrm.dev/en/gltf/index.html **GONE**, now JP only
+- https://vrm-c.github.io/vrm.dev.en/index **NEW** for EN.
+- https://avatar.viverse.com/avatar/what-is-vrm
+- https://github.com/Thryrallo/VRC-Avatar-Performance-Tools
+- https://github.com/benaclejames/VRCFaceTracking
+- https://docs.vrcft.io/docs/intro/getting-started
+- https://3d.nicovideo.jp/alicia/ **PLEASE DOWNLOAD!!!**
+- https://benchmark.unigine.com/
