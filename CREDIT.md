@@ -3235,3 +3235,5 @@ New Sauce lists
 - https://docs.vrcft.io/docs/intro/getting-started
 - https://3d.nicovideo.jp/alicia/ **PLEASE DOWNLOAD!!!**
 - https://benchmark.unigine.com/
+- https://porkisg00d.itch.io/ai-sponge-rebooted
+- Pls just repack everything we can.
