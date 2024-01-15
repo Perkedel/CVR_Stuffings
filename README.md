@@ -315,6 +315,8 @@ Here are the UUIDs of all these assets we uploaded to CVR:
 | `a245cf37-09f3-408c-bcc9-cf35839a4fe9` | Very Loud Explosion Button | JOELwindows7 | . |
 | `cdc8b5b1-43af-40fd-b7a5-af48dc8d6dde` | EmptyBall | JOELwindows7 | . |
 | `323d2618-403d-4835-9eac-5c8362a511a4` | Stupid Cartoon Heart with Sound | JOELwindows7 | . |
+| `933b41b9-075f-45a6-b2a7-4eafe0a97a03` | Stupid Cartoon Heart Particle Drop | JOELwindows7 | Same but using Particle Drop |
+| `5c394959-b82f-45d9-a924-576d80878404` | BeepStick | JOELwindows7 | Test Particle Sound |
 | `05b157e8-d51f-4411-ad86-8cb314535e6d` | C# forbidden meme | JOELwindows7 | . |
 | `4a193ad4-4119-47c8-ae89-80ba7acd1182` | Nice to Meet You | JOELwindows7 | . |
 | `677f8f5f-6e35-4399-85bc-bb1323f0b32b` | How are you today? | JOELwindows7 | . |
