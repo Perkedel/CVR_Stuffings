@@ -3250,3 +3250,18 @@ New Sauce lists
 - https://samvrc.gumroad.com **PAID**
 - https://skfb.ly/oNuWB
 - https://skfb.ly/oJBQU
+- https://dippythefoxderg.gumroad.com/
+- https://github.com/AcChosen/VR-Stage-Lighting/tree/e67854ff4d7c2ba9ad1c63083d3ab2ce74f6f459/Packages/com.acchosen.vr-stage-lighting/Runtime/Meshes Before Blender file removal
+- https://github.com/AcChosen/VR-Stage-Lighting/blob/e67854ff4d7c2ba9ad1c63083d3ab2ce74f6f459/Packages/com.acchosen.vr-stage-lighting/Runtime/Meshes/Backups/MoverLight--RTP-SplitMesh-DMX-Backups.blend
+- https://github.com/AcChosen/VR-Stage-Lighting/blob/e67854ff4d7c2ba9ad1c63083d3ab2ce74f6f459/Packages/com.acchosen.vr-stage-lighting/Runtime/Meshes/Backups/MoverLight--RTP-SplitMesh-Backups.blend
+- https://github.com/AcChosen/VR-Stage-Lighting/blob/e67854ff4d7c2ba9ad1c63083d3ab2ce74f6f459/Packages/com.acchosen.vr-stage-lighting/Runtime/Meshes/Other/testscreenshottesterrrr.blend
+- https://github.com/AcChosen/VR-Stage-Lighting/blob/e67854ff4d7c2ba9ad1c63083d3ab2ce74f6f459/Packages/com.acchosen.vr-stage-lighting/Runtime/Meshes/HQ%20Meshes/MoverLight-Bar-Mesh/MoverLightBar-Mesh.blend
+- https://github.com/AcChosen/VR-Stage-Lighting/blob/e67854ff4d7c2ba9ad1c63083d3ab2ce74f6f459/Packages/com.acchosen.vr-stage-lighting/Runtime/Meshes/HQ%20Meshes/MoverLight-WashLight-HQMesh.blend
+- https://github.com/AcChosen/VR-Stage-Lighting/blob/e67854ff4d7c2ba9ad1c63083d3ab2ce74f6f459/Packages/com.acchosen.vr-stage-lighting/Runtime/Meshes/HQ%20Meshes/MoverLight-Spotlight-HQMesh.blend
+- https://github.com/AcChosen/VR-Stage-Lighting/blob/e67854ff4d7c2ba9ad1c63083d3ab2ce74f6f459/Packages/com.acchosen.vr-stage-lighting/Runtime/Meshes/VRSL-LaserCone.blend
+- https://github.com/AcChosen/VR-Stage-Lighting/blob/e67854ff4d7c2ba9ad1c63083d3ab2ce74f6f459/Packages/com.acchosen.vr-stage-lighting/Runtime/Meshes/VRSL-AdvancedLaserConeWithShapes.blend
+- https://github.com/AcChosen/VR-Stage-Lighting/blob/e67854ff4d7c2ba9ad1c63083d3ab2ce74f6f459/Packages/com.acchosen.vr-stage-lighting/Runtime/Meshes/VRSL-AdvancedLaserCone.blend
+- https://github.com/AcChosen/VR-Stage-Lighting/blob/e67854ff4d7c2ba9ad1c63083d3ab2ce74f6f459/Packages/com.acchosen.vr-stage-lighting/Runtime/Meshes/StrobeLight-Non-Volumetric.blend
+- https://github.com/AcChosen/VR-Stage-Lighting/blob/e67854ff4d7c2ba9ad1c63083d3ab2ce74f6f459/Packages/com.acchosen.vr-stage-lighting/Runtime/Meshes/ParLight--RTP-SplitMesh.blend
+- https://github.com/AcChosen/VR-Stage-Lighting/blob/e67854ff4d7c2ba9ad1c63083d3ab2ce74f6f459/Packages/com.acchosen.vr-stage-lighting/Runtime/Meshes/MoverLight--RTP-SplitMesh.blend
+- https://github.com/AcChosen/VR-Stage-Lighting/tree/e67854ff4d7c2ba9ad1c63083d3ab2ce74f6f459/Packages/com.acchosen.vr-stage-lighting/Runtime/Textures
