@@ -3238,3 +3238,14 @@ New Sauce lists
 - https://porkisg00d.itch.io/ai-sponge-rebooted
 - Pls just repack everything we can.
 - https://github.com/PorkDevMode/
+- heartbeat sound pack pls
+- https://freesound.org/people/loudernoises/packs/18767/
+- https://freesound.org/people/.name/
+- https://freesound.org/people/.name/sounds/641231/
+- https://freesound.org/people/.name/packs/23663/
+- https://freesound.myspreadshop.com/
+- https://dippythefoxderg.gumroad.com/l/DipBestLoreBook BestBoy lore book!!!!!!!! Dippy got new file ported to CVR now!!!
+- https://dippythefoxderg.gumroad.com/l/DippyPushButt Pls credit this again for ParticleDrop stupid heart, because we took AudioSource setup from this Button.
+- https://skfb.ly/oFrJF Oh also, this my stupid heart
+- https://samvrc.gumroad.com **PAID**
+- https://skfb.ly/oNuWB
