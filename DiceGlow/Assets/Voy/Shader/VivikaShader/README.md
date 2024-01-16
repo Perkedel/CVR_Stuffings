@@ -3,7 +3,7 @@
 
 [3D  Model Showcased is my Personal Edit of Murdoc the Rat by Skully Hellfire](https://skullyhellfire.gumroad.com/l/skullysmurdoc)
 
-The Vivika Shader (Formerly the "Divorce Shader" after an inside joke) is a Shader created by VoyVivika in Unity3D with the Amplify Shader Editor. I made these for my Personal ChilloutVR Avatars with some in-game encouragement from N3X15, ended up being a fun project for experimenting with Amplify Shaders Honestly, figured out how UV Discarding worked (and it's honestly a personal favorite feature despite not using it very much).
+The Vivika Shader is a Shader created by VoyVivika in Unity3D with the Amplify Shader Editor. I made these for my Personal ChilloutVR Avatars with some in-game encouragement from N3X15, ended up being a fun project for experimenting with Amplify Shaders Honestly, figured out how UV Discarding worked (and it's honestly a personal favorite feature despite me not using it very much).
 
 # Please Note:
 This Shader only officially supports the Unity Built-in Render Pipeline, it does not support LWRP, URP, or HDRP at this time.
@@ -32,25 +32,15 @@ This Shader only officially supports the Unity Built-in Render Pipeline, it does
 			- to Support This in ChilloutVR:
 				1. in your world, add a Component called `CVR Global Shader Updater`
 				2. Enable "Update Texture"
-				3. Drag and Drop the Render Texture being used by a `CVR Video Player` Components
+				3. Drag and Drop the Render Texture being used by a `CVR Video Player` Component in your world
 				4. Set the Property Name to `_Udon_VideoTex`
 - Rim Lighting
-- 2 Lighting Types
-	- Standard (Acts like Unity Standard Shader)
-	- Wrapped (A Less Realistic Lighting Mode with the intent of having less harsh, smoother, flatter lighting.)
+- Toon Style Lighting
 ### MultiMap
 MultiMap is a Texture which contains multiple maps in a Single RGB Texture intended for use with DXT1 Encoded Textures
 Currently the Spec for the Divorce Shader Multi-Map is
 - Red Channel = Metalic
 - Green Channel = Smoothness
-### UV Map Uses
-This Shader has Features which use different UV Maps for Different Purposes. These are:
-1. Used for Rendering
-2. Used for UV Tile Discarding
-3. Used for AudioLink UV Based Delay
-### Texture Ramp (Toon Lighting)
-- Left is Darkest, Right is Lightest
-- For best results on your Texture Ramp switch the Wrap Mode from "Repeat" to "Clamp"
 ## Amplify Functions
 This Repo contains some Amplify Shader Editor Functions useful for Shader Creators, namely:
 - Distance
@@ -66,6 +56,9 @@ This Repo contains some Amplify Shader Editor Functions useful for Shader Creato
 - Decal
 	- A Function to assist in the creation of Decals (Textures that get added on top of the existing Albedo map)
 	- A variant also exists to create a variant that does not include rotation
+- If Float Equals
+	- Optimized way to check if Two Values are Equal, if yes the input of true is returned, if no the input of false is returned.
+		- Uses Step Functions to check if Equal and Lerp Function to return either based on the result of the step functions.
 # Third-Party Licenses
 Please Note if these links are incorrect they will be corrected in a later commit after the mistake is corrected.
 - Hue Shift - https://github.com/VoyVivika/VivikaShader/blob/main/Functions/ThirdParty/HueShift/LICENSE.txt

@@ -3265,3 +3265,18 @@ New Sauce lists
 - https://github.com/AcChosen/VR-Stage-Lighting/blob/e67854ff4d7c2ba9ad1c63083d3ab2ce74f6f459/Packages/com.acchosen.vr-stage-lighting/Runtime/Meshes/ParLight--RTP-SplitMesh.blend
 - https://github.com/AcChosen/VR-Stage-Lighting/blob/e67854ff4d7c2ba9ad1c63083d3ab2ce74f6f459/Packages/com.acchosen.vr-stage-lighting/Runtime/Meshes/MoverLight--RTP-SplitMesh.blend
 - https://github.com/AcChosen/VR-Stage-Lighting/tree/e67854ff4d7c2ba9ad1c63083d3ab2ce74f6f459/Packages/com.acchosen.vr-stage-lighting/Runtime/Textures
+- https://booth.pm/en/items/5271315 **PAID**
+- https://booth.pm/en/items/3669512 **PAID**
+- https://booth.pm/en/items/4757744 **PAID**
+- https://booth.pm/en/items/2756412 **VRChat Only**
+- https://booth.pm/en/items/4889902
+- https://llaser-warehouse.booth.pm/
+- https://booth.pm/en/items/3403933 **PAID**
+- https://booth.pm/en/items/5054709
+- https://blackpitvrc.booth.pm/
+- a
+- https://booth.pm/en/items/4054952 **PAID**
+- https://booth.pm/en/items/5314122 **PAID**
+- https://booth.pm/en/items/4782715 **PAID**
+- https://booth.pm/en/items/4766226 **PAID**
+- https://honokakaori.booth.pm/items/2336137 **PAID** is this one?

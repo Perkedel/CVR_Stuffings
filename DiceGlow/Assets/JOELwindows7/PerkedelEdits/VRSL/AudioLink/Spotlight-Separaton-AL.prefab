@@ -1,0 +1,120 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &5801384096521934816
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 8258381393498663324, guid: a57baf40647c08842b9bb331d893844a, type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8258381393498663324, guid: a57baf40647c08842b9bb331d893844a, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8258381393498663324, guid: a57baf40647c08842b9bb331d893844a, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8258381393498663324, guid: a57baf40647c08842b9bb331d893844a, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8258381393498663324, guid: a57baf40647c08842b9bb331d893844a, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8258381393498663324, guid: a57baf40647c08842b9bb331d893844a, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8258381393498663324, guid: a57baf40647c08842b9bb331d893844a, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8258381393498663324, guid: a57baf40647c08842b9bb331d893844a, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8258381393498663324, guid: a57baf40647c08842b9bb331d893844a, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8258381393498663324, guid: a57baf40647c08842b9bb331d893844a, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8258381393498663324, guid: a57baf40647c08842b9bb331d893844a, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8777650587150758694, guid: a57baf40647c08842b9bb331d893844a, type: 3}
+      propertyPath: m_Name
+      value: Spotlight-Separaton-AL
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: a57baf40647c08842b9bb331d893844a, type: 3}
+--- !u!1 &388412984180697669 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 6188301667444145573, guid: a57baf40647c08842b9bb331d893844a, type: 3}
+  m_PrefabInstance: {fileID: 5801384096521934816}
+  m_PrefabAsset: {fileID: 0}
+--- !u!4 &510528205926701379 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 6311630687818370723, guid: a57baf40647c08842b9bb331d893844a, type: 3}
+  m_PrefabInstance: {fileID: 5801384096521934816}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &2977673934441604294 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 8777650587150758694, guid: a57baf40647c08842b9bb331d893844a, type: 3}
+  m_PrefabInstance: {fileID: 5801384096521934816}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &4851413723468349063
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2977673934441604294}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fdc0f8cf4e404413977612cac1108d7d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  textureType: 1
+  texture: {fileID: 0}
+  globalTextureName: _AudioTexture
+  tasks:
+  - x: 0
+    y: 1
+    channel: 0
+    minValue: 0
+    maxValue: 45
+    target: {fileID: 4146924760045800433}
+    component: {fileID: 6298128880886272887}
+    propertyName: eulerAngles
+    typeIndex: 4
+    targetIndex: 1
+  - x: 0
+    y: 2
+    channel: 0
+    minValue: 45
+    maxValue: -135
+    target: {fileID: 388412984180697669}
+    component: {fileID: 510528205926701379}
+    propertyName: eulerAngles
+    typeIndex: 4
+    targetIndex: 0
+--- !u!1 &4146924760045800433 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 7570126563564788753, guid: a57baf40647c08842b9bb331d893844a, type: 3}
+  m_PrefabInstance: {fileID: 5801384096521934816}
+  m_PrefabAsset: {fileID: 0}
+--- !u!4 &6298128880886272887 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 569101447712507031, guid: a57baf40647c08842b9bb331d893844a, type: 3}
+  m_PrefabInstance: {fileID: 5801384096521934816}
+  m_PrefabAsset: {fileID: 0}
