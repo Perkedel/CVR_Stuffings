@@ -3280,3 +3280,25 @@ New Sauce lists
 - https://booth.pm/en/items/4782715 **PAID**
 - https://booth.pm/en/items/4766226 **PAID**
 - https://honokakaori.booth.pm/items/2336137 **PAID** is this one?
+- Think Defender 3D models pls?
+- https://www.deviantart.com/princessdevin302/art/Mini-Mega-Milk-735090611
+- https://www.deviantart.com/timeblitz/art/mega-milk-650365688
+- https://www.deviantart.com/jendratherabbit/art/M-E-G-A-M-I-L-K-721261544
+- https://www.deviantart.com/pit-of-darkness/art/MiasmA-Mega-Milk-256981605
+- https://www.deviantart.com/mijumarunr1/art/MMD-Milk-download-792008005
+- https://www.deviantart.com/nekomusic/art/Mega-Milk-and-Mega-Butt-505283925
+- https://github.com/Frostation/KK-Plugins-Compendium/blob/master/Plugins%20Compendium.md
+- https://github.com/Frostation/KK-Plugins-Compendium Koikatsu plugins
+- https://sketchfab.com/3d-models/jerma-3d-56237336b7914fccb26aa4ce9885cd5c **NO DOWNLOAD**
+- https://sketchfab.com/3d-models/mega-milk-shake-b97fc1ad8db34171b495d97175258b4b **NO DOWNLOAD**
+- https://www.deviantart.com/jinsters
+- https://jinsters.gumroad.com/l/padoru?layout=profile
+- https://jinsters.gumroad.com/ only one
+- https://www.deviantart.com/jinsters/art/PADORU-3D-Model-776247283
+- https://jinsters.booth.pm/
+- https://sketchfab.com/3d-models/padoru-vrchat-avatar-9b43a4de6cd54722bfce699f46933f83
+- https://www.deviantart.com/jinsters/art/Chibi-Nezuko-Demon-Slayer-3D-Model-815555362 **PAID**
+- https://www.deviantart.com/jinsters/art/Male-Aigis-Guygis-Persona-3-754486257
+- https://booth.pm/en/items/4610332
+- https://takehkun.booth.pm/
+- https://takehkun.booth.pm/items/4225277
