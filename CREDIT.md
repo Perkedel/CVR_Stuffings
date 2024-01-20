@@ -3358,3 +3358,15 @@ New Sauce lists
 - https://booth.pm/en/items/4025480 **PAID**
 - https://github.com/bbible3/UnityLavaLamps FREE
 - https://booth.pm/en/items/4260173 **PAID**
+- https://github.com/bbible3/UnityLavaLamps yey!
+- https://twitter.com/antro3dcg/status/1717877495117275275
+- https://ko-fi.com/antro
+- https://github.com/NotAKidOnSteam/PropUndoButton
+- https://github.com/NotAKidOnSteam/AvatarScaleTool
+- https://github.com/NotAKidOnSteam/AvatarPointerGenerator/
+- https://github.com/NotAKidOnSteam/AASEmulator/ **HOW**: `Tools` top menu, `Enable AAS Emulator` option.
+- https://github.com/lyuma/Av3Emulator
+- https://twitter.com/KirbyDX55
+- https://sketchfab.com/kirbydx
+- https://skfb.ly/6Y7tB the Spotlight!!!
+- https://sketchfab.com/DanartriDonuth
