@@ -3302,3 +3302,59 @@ New Sauce lists
 - https://booth.pm/en/items/4610332
 - https://takehkun.booth.pm/
 - https://takehkun.booth.pm/items/4225277
+- pls make psa mod your cvr
+- https://feedback.abinteractive.net/p/can-t-log-into-the-forums
+- https://store.steampowered.com/app/1070910/Are_you_ready_for_Valve_Index/
+- https://blendermarket.com/products/candy-character-pack **PAID**
+- https://navillusstudio.gumroad.com/ ALL FREE for now
+- **The power of the sun, in the palm of my hand**
+- https://skfb.ly/oP7uS
+- https://sketchfab.com/ayushcodemate
+- OK
+- https://forum.unity.com/threads/released-unity-package-uninstaller-2-0.1036372/
+- https://assetstore.unity.com/packages/tools/utilities/package-uninstaller-2-35439 **GONE** I used this long ago!
+- https://github.com/mvnrc/Unity-Package-Uninstaller-1.3-legacy Wait no, what are you doing?
+- https://movinarc.com/unity-package-uninstaller **TRAIT**.. gone.
+- https://discussions.unity.com/t/how-to-completely-remove-an-asset-package/135297 let's not force install that coz that may cause trouble today.
+- https://docs.unity3d.com/Manual/upm-ui-remove-asset.html
+- https://razedrake.gumroad.com **JACKPOT**
+- Thancc, Dervali (Avali Showcase world)!!
+- https://cvr.lonewolfawoo.com
+- https://skfb.ly/ouAro
+- https://pm85122.onamae.jp FONT
+- https://pm85122.onamae.jp/85122font.html
+- https://pm85122.onamae.jp/851mkpop.html
+- https://booth.pm/en/items/3458481
+- https://github.com/Neradon/DisconnectSound
+- https://github.com/NotAKidOnSteam/SimpleAAS
+- https://github.com/NotAKidOnSteam/AASEmulator
+- https://github.com/AutumnFS/CVRMods
+- https://github.com/kawashirov/vrc2webp
+- https://github.com/kafeijao/cvr_osc_lib_py
+- https://github.com/NotAKidOnSteam/AvatarPointerGenerator
+- https://github.com/aniiiiiimal/obscontrol
+- https://github.com/WTFBlaze/Aristois-CVR
+- https://github.com/NotAKidOnSteam/PickupPushPull
+- https://github.com/NotAKidOnSteam/PickupPushPull
+- https://github.com/NotAKidOnSteam/PickupPushPull
+- https://github.com/NotAKidOnSteam/PortableCameraAdditions
+- https://github.com/NotAKidOnSteam/PathCamDisabler
+- https://github.com/Umbra999/CVR-HexBOT
+- https://github.com/CrispyPin/CVR-ConfigHack
+- https://github.com/NotAKidOnSteam/BadAnimatorFix
+- https://github.com/onlivfe/core
+- https://github.com/MintLily/NoVRCJustOtherGame
+- https://github.com/Umbra999/CVR-HexBOT
+- https://github.com/CrispyPin/CVR-ConfigHack
+- https://github.com/MistressPlague/ChilloutButtonAPI
+- https://github.com/NotAKidOnSteam/AASBufferFix
+- https://github.com/NotAKidOnSteam/NAK_CVR_Mods
+- https://github.com/onlivfe/chilloutvr_rs
+- https://github.com/Umbra999/CVR-HexClient
+- https://github.com/NotAKidOnSteam/PropUndoButton
+- https://booth.pm/en/items/4906392 **PAID**
+- https://booth.pm/en/items/4052918 **PAID**
+- https://booth.pm/en/items/4468861 **PAID**
+- https://booth.pm/en/items/4025480 **PAID**
+- https://github.com/bbible3/UnityLavaLamps FREE
+- https://booth.pm/en/items/4260173 **PAID**
