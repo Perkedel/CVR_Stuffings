@@ -1,4 +1,5 @@
-﻿using System.Collections.Generic;
+﻿#if CVR_CCK_EXISTS
+using System.Collections.Generic;
 using System.Linq;
 using UnityEditor;
 using UnityEngine;
@@ -351,3 +352,4 @@ namespace NAK.EditorTools
         }
     }
 }
+#endif
