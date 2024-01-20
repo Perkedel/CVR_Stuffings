@@ -226,7 +226,7 @@ Here are the UUIDs of all these assets we uploaded to CVR:
 | GUID | Name | Uploader | Description |
 | --- | --- | --- | --- |
 | `92f6e5f4-e860-42fd-8154-81d69f605099` | Howard the Alien | JOELwindows7 | https://odysee.com/@X0P1R4T3-33NSVREENMNT-0FFICIAL:f/howard-the-alien-fbx:3 |
-| `1fe3eebd-7671-4392-9e3c-87f269ebe69e` | **BZ Protogen ++** | JOELwindows7 | . |
+| `1fe3eebd-7671-4392-9e3c-87f269ebe69e` | **BZ Protogen ++** | JOELwindows7 | https://twitter.com/triwavebz/status/1514302395836100609?s=20 Protogen free 3d model |
 | `b8e26010-8b21-4e97-b38b-5ec9cc8d9502` | Maya Putri | JOELwindows7 | https://odysee.com/@X0P1R4T3-33NSVREENMNT-0FFICIAL:f/Maya_Putri_official_mmd:4 |
 | `11f91306-49c6-4d8b-b075-461e24d4f6ed` | Abstract | JillTheSomething | (**NOT PERKEDEL**) |
 | `fdbc8414-06a8-482f-9062-ebf394c09d06` | Chitio Avislime | JillTheSomething | (**NOT PERKEDEL**) **(DEV DEPENDENCY PAYWALLED!!!) CHITIO NOT INCLUDED IN THIS SOURCE CODE, PAYWALLED!** |
@@ -338,7 +338,7 @@ Here are the UUIDs of all these assets we uploaded to CVR:
 | `d3317583-fc62-4422-861c-c94b24cbeee0` | Dippy Sauce Squirt Bottle 😏 | Dippy | (**NOT PERKEDEL**) |
 | `b1ee7ffe-8686-4cbb-b438-5db7f13c539c` | UCC Mirror | MilchZocker | (**NOT PERKEDEL**) |
 | `25f0fbe4-7a23-40f3-815d-a6dd33786a3d` | UCC Pen | MilchZocker | (**NOT PERKEDEL**) |
-| ~~`fba60ac2-b053-401b-9d5d-02986c21af24`~~ | Kin's Badge | Vespei Kin | (**NOT PERKEDEL**) **GONE / MISMATCH 404** |
+| ~~`fba60ac2-b053-401b-9d5d-02986c21af24`~~ | ~~Kin's Badge~~ | ~~Vespei Kin~~ | (**NOT PERKEDEL**) **GONE / MISMATCH 404** |
 | `fc89a8ba-e426-41e8-81fa-268e79b80175` | Dippy Press Button | Dippy  | (**NOT PERKEDEL**) |
 | `9e13b14c-d70b-4266-ae7b-aa687b75faae` | NUT BUTTON | Dippy | (**NOT PERKEDEL**) |
 | `d3317583-fc62-4422-861c-c94b24cbeee0` | Dippy Sauce | Dippy | (**NOT PERKEDEL**) |
