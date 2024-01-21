@@ -3370,3 +3370,6 @@ New Sauce lists
 - https://sketchfab.com/kirbydx
 - https://skfb.ly/6Y7tB the Spotlight!!!
 - https://sketchfab.com/DanartriDonuth
+- https://twitter.com/sasaminvrc/status/1271675744549142529 Niko Oneshot pls!!!!
+- https://skfb.ly/6BtIq
+- https://gumroad.com/kristifr **PAID**
