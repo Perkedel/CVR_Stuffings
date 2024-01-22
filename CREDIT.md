@@ -3409,7 +3409,323 @@ New Sauce lists
 - https://discord.com/channels/410126604237406209/766086942005526579/1176149412985184346
 - https://github.com/cnlohr/shadertrixx#detecting-if-you-are-on-desktop-vr-camera-etc
 - https://gist.github.com/EtiTheSpirit/78b7f57da19323f9f9d8a392369b37f0
-- https://github.com/CuteWaterBeary/ShaderForge
+- https://github.com/CuteWaterBeary/ShaderForge **NEW 2021 COMPATIBLE** thancc SnekMach!
 - https://gist.github.com/EtiTheSpirit/3dce03d381396f390f8a073d0276d7c0
 - https://github.com/cnlohr/shadertrixx
 - ok
+- CVR pls
+- https://booth.pm/en/items/3259425
+- https://assetstore.unity.com/packages/vfx/shaders/urp-stylized-water-shader-proto-series-187485
+- https://fxtwitter.com/orzeeee/status/1738655606079214018?s=20
+- https://github.com/akasaki1211/AkBoneDynamics
+- https://github.com/naelstrof/UnityJigglePhysics
+- https://gist.github.com/EtiTheSpirit/78b7f57da19323f9f9d8a392369b37f0
+- https://catlikecoding.com/unity/tutorials/rendering/part-19/
+- https://github.com/CuteWaterBeary/ShaderForge
+- done
+- bottle spun cvr
+- https://youtu.be/bukZlq1tkdg?si=CRB_MWbsFuw0AHcG
+- https://youtu.be/DGnAtDKOcx8?si=ombj7mp6ya76BFhh
+- https://discord.com/channels/410126604237406209/588350770777161748/1159664275741220935
+- https://discord.com/channels/410126604237406209/588350770777161748/1003440157820735509
+- https://discord.com/channels/410126604237406209/588350770777161748/1003373088609669273
+- https://discord.com/channels/410126604237406209/588350770777161748/864658082863775824
+- https://discord.com/channels/410126604237406209/588350770777161748/1159668428769075250
+- https://discord.com/channels/410126604237406209/588350770777161748/1159664275741220935
+- https://feedback.abinteractive.net/p/extended-camera-view-distance
+- https://discord.com/channels/410126604237406209/588350770777161748/1110335729889988709
+- https://discord.com/channels/410126604237406209/588350770777161748/1187838621227696158
+- https://discord.com/channels/410126604237406209/588350770777161748/1189799149294588014
+- https://youtu.be/cbyCSvu1B9c?si=Xyv-XWHEnqoRXemz
+- https://youtu.be/9JCqTh3QFBY?si=r573rLun2R_ESqpI
+- https://youtube.com/shorts/87rZ7GEq-FQ?si=HppOVcwTeYUPlqSm
+- https://youtu.be/F8XzPJUPAkQ?si=Oyg-UM8vROSnmQVD
+- https://youtu.be/371a62Svbvs?si=n0EKnB79Udlzw11p
+- https://youtu.be/LcpWDTtQa_E?si=laVBwEEg5TLXeurF
+- https://youtu.be/sU8mj9lid0s?si=HzcfDtIbUD25hb-1
+- https://youtu.be/kEdYeQ3NJyQ?si=GrTYKdZ8RNI2aENA
+- https://www.thingiverse.com/thing:6395406
+- https://www.thingiverse.com/thing:6352206
+- https://www.thingiverse.com/thing:6359548
+- https://www.thingiverse.com/thing:6386630
+- https://www.thingiverse.com/thing:6371997
+- https://www.thingiverse.com/thing:6355752
+- https://www.thingiverse.com/thing:6357608
+- https://www.thingiverse.com/thing:6371997
+- https://youtu.be/7qNV3CN8fFE?si=FonnGNUJvW1aGNzU
+- https://youtu.be/2Q-WA4vxPEk?si=h99uJqxnhCZL0OGe
+- https://youtube.com/shorts/fuXMInseOD8?si=A6bRxlWrEZiJnUV4
+- https://youtube.com/shorts/8HqZz1YVsjs?si=7BS0Ynvidn3ClkER
+- https://youtube.com/shorts/qO8rz0_dxlE?si=oYVtvLFRCAqxUX1u
+- https://youtu.be/ar3gEAT2h28?si=oM22wVr0-twUehiX
+- https://youtu.be/gIjJTEJ7soQ?si=dIsfu0_aEMTNCwA0
+- https://youtu.be/9o__c8wNd3I?si=lAfT4gu78UbBqLoV
+- https://youtu.be/OPoqBIEvoj0?si=9JBmiOvyxocW7qxz
+- https://youtube.com/shorts/IeBzNzzFMLI?si=KIuaC7ZSso0M4cDa
+- https://youtube.com/shorts/rx9JELYVR2M?si=nnhTWh5AKC-9Vt-Z
+- https://youtube.com/shorts/utPN36QqUDk?si=W7nRITE-RsRHHXJB
+- https://youtube.com/shorts/49X1SiV0i60?si=i6-p1hnM9a_AD331
+- https://youtu.be/CjAC6gzrpOY?si=9qhWpJlTIut3Elkz
+- https://www.tiktok.com/@thewrapshackwc/video/7281330084785540395?is_from_webapp=1&sender_device=mobile&sender_web_id=6916407706849871362
+- https://youtu.be/IAov3P_3b6o?si=BzwwProonDX8gQwI
+- https://ark.media/record/12352
+- https://youtu.be/hTqw_CGCmNs?si=HZ0Qpw6p-iyidnFx
+- https://youtube.com/shorts/e8uuYda5wY4?si=Qx00KBGykFCbwBbR
+- https://youtu.be/a4wjM1TtbQs?si=yrpmjXw2GCdeJGPF
+- https://youtu.be/9_WZM5CuHpI?si=_CySHYkK10jV9kbd
+- https://youtu.be/BSE2RcVmw1w?si=4h0LsH3BThSIvgWB
+- https://youtu.be/EwX_wBj2f30?si=kv4g8TpZCehSKi-A pls inspire prop autospawn
+- https://youtu.be/ypXMnqYnzQk?si=Kjk6kj4wsOSSXykL pls 
+- https://youtu.be/sZQs02wRac0?si=mbaJ7e__QBf1zzsV
+- https://youtu.be/P8q9yB68PpA?si=zWDtipsNQA1w7BcY dreamcast tribute
+- https://youtu.be/X952GPffvFI?si=Ka8wmKuOqhoqKqv4 long
+- https://youtu.be/IuAKN-cuABk?si=NHGTM1vknPEh-3sh
+- https://youtu.be/VclMXzgkuGo?si=o-ozvUtVpTtN4rC9
+- https://youtu.be/EBZFlJDqnWY?si=eiWLzgg-O_fdRpuL
+- https://youtu.be/DyPW02nxSk4?si=hvlVPfI5jxfjOLOp
+- https://youtu.be/Om2JXAV4ZGQ?si=drCka-_95W2SNN92
+- https://youtu.be/z0uZ5xbrcp8?si=ywG2TINCBjcNhMIp
+- https://youtu.be/0F1RkebcoEI?si=NqEweRdT883usXu3
+- https://youtu.be/Oyq8Di01nN8?si=9hIPxdNQiT-da_fq
+- https://youtu.be/8c4-SmuvndQ?si=0zG-gRW0_B6t2joG
+- https://youtu.be/NtNrO5Cjwns?si=7q1yjTmEK6rnQBRt
+- https://youtu.be/HfeMfdCe9Tg?si=k4GvUlii3Yv-d-2k
+- https://youtu.be/FylHnsus4MQ?si=1-EwgUj4dyBK4kHT
+- https://youtu.be/CVDDtbiGDxA?si=tIlau5SDMMP89wwG
+- https://youtube.com/shorts/w2vKjnCFuK0?si=JKA2QxiX0NAQgmwd
+- https://youtube.com/shorts/RJTibrtEYW8?si=oe8RVQXVMBSAwrDW
+- https://youtube.com/shorts/1M19wiMQnSM?si=IJcbUmoLwKqX1-ny
+- deltarune
+- https://youtu.be/KTQyelrNqak?si=fsIJ7YjyR4m3c77_
+- https://youtu.be/oZy6eZVAB_I?si=ZUxMwOEwqbZ7f5NI
+- https://youtu.be/q1v98XAZaCQ?si=YbNnWVRVvqqe1Pll
+- https://youtu.be/SDROIPqPRKQ?si=iphkG4BzLaeLs2uu
+- https://youtu.be/RtpYObV4c1Y?si=zI5gsUGDoNkXMQOB
+- https://youtu.be/LXMNMbOJ9S8?si=tP8yzqTX7hmxwzwJ
+- https://youtu.be/lx4CQ-4hEVM?si=yUN4a28LNb91yjmd
+- https://youtu.be/UKOSnxWUOd0?si=Cv56KMny1Hgiiimt
+- https://youtu.be/E9BwxsHL4cE?si=Stm861Y1ogFezbGt
+- https://youtu.be/H1uOvpUdmkg?si=A5HGD3NJ26Gxa4Rr
+- https://youtu.be/vl0wRkiq8vg?si=EKDnFJwJYQyqMhXo
+- https://youtu.be/1kFTYw-dJeA?si=gaxOWtGoS54HMuQ3
+- https://youtu.be/rsBtS8nQkjw?si=P76HSCto6KgJhR60
+- https://youtu.be/LEgKjXZI4Mk?si=jGdCg_M4Ub8qPm6s
+- https://youtu.be/deHXOVySBCY?si=sKZzd9zlBpurZj-j
+- https://youtu.be/GmfM8VCAu-I?si=r5wwKL-eR7XneH45
+- https://github.com/termux/termux-packages/issues/6726
+- https://github.com/termux/termux-packages/issues/6726
+- https://www.dropbox.com/scl/fi/irpaebjwlu5v1c3mt4hzi/Android-Kali-NetHunter-Install-2.pdf?rlkey=65gpc275fy6sbkz0i19wlcj06&dl=0 david bombal instruction kali nethunter
+- https://youtube.com/shorts/A-iJcdtwW-k?si=CWytb4HHyZQuKJ89
+- https://youtube.com/shorts/nQPcNlwHZa4?si=cdrPafjVpR2nnpUw
+- https://youtu.be/6D4PAKuLE1A?si=Tr1CH6C9oEYmx6ho
+- https://youtu.be/lOKASgtr6kU?si=4yOW-NyuKka4EA13
+- https://youtu.be/9RhWXPcKBI8?si=jliCx17lvlvK-mPm
+- https://youtu.be/5YYxC1ZcgZU?si=B22cFIl8NExSNBCz
+- https://youtube.com/shorts/9ckkfCVMqH8?si=-1p25qxWkirE3rE8
+- https://youtube.com/shorts/fLHVzs0G8LA?si=popO9CaFe4RH40Jg
+- https://youtube.com/shorts/9PccvE7dzKU?si=Gt7RF0ZigW7NhQGt
+- https://youtube.com/shorts/Hbgb0sy9cLU?si=8HCvyYfeK2yMROBs
+- https://youtube.com/shorts/0GNwX8UOy4I?si=bvZ8pZz_N-jTxAq7
+- https://youtube.com/shorts/vOM9SBMs6wY?si=db4OsCKBowuDArDI
+- https://youtube.com/shorts/lVaDUNRK13Q?si=4_aA4TdTrN8MT2qx
+- https://youtube.com/shorts/ESctXHptQ04?si=IoMiufNx8v7jnSZZ
+- https://youtube.com/shorts/sZEw9pryOB0?si=PuWP-7tqcUs4Nmsn
+- https://youtube.com/shorts/Q5MghExNXyA?si=Er11RsExesZ7DhHB
+- https://youtube.com/shorts/6XwAfhsL4S8?si=YQHtIhlfNrqh0hay
+- https://youtube.com/shorts/_0Y7yVPaqC0?si=qSWjYVWdz3fkB5CH
+- https://youtube.com/shorts/3RGhlDJ6QRk?si=b6pbbhJ-3mVVIPH5
+- https://youtu.be/j9DSeBCplOc?si=F8hqgIZiPjKyCAxM
+- https://youtu.be/_P4VhmdLi4I?si=TrAyMSP9qJ93iErq
+- https://youtube.com/shorts/vJDupoAtd9k?si=M__yB4nqPmF0yRG3
+- https://youtu.be/lfN5qVoQtsI?si=tdCo_sCwqTFq7VAO
+- https://youtu.be/SIwjoAlej7o?si=GaS4tBoC6SrnqCaL
+- https://youtube.com/shorts/WsuJAuuD_rw?si=FINo5GMJYirLJcUe
+- https://youtube.com/shorts/Zo2NlBCtJpU?si=YUGxTgrVbUbk2TK3
+- https://youtube.com/shorts/2Ax2i_sQ6zk?si=V58bUsZAznM9lgvY
+- https://youtube.com/shorts/3kR-KBKqKW0?si=PlPe3DPiXk5vL3OX
+- https://youtube.com/shorts/4wj8-ksJzUo?si=DLNO6gFDstJtIsef
+- https://youtube.com/shorts/fg-TJYLRMOs?si=SHlzi9yqwtq_lAMU
+- https://youtu.be/dwWBfrMnYM0?si=3HsRwGZ7_06KU4ov
+- https://youtu.be/2wIwCLdKIvc?si=JrVzZk71VT06yi5d
+- https://youtu.be/oNT-9RBxN8s?si=fSFRACC81R61lOed
+- https://youtu.be/tYrLZGJjauU?si=pSfOKo_jIQyiWEGt
+- https://youtu.be/wQf6sDtmPVo?si=mkp9zoq9Nn4zw38j mio mao lalalalala
+- https://youtu.be/N8nX0SV_p7c?si=o_mUZBaKJdYRq7Fo
+- https://youtu.be/R9_uRLlnXSY?si=mARJVzgBwlK6os3x
+- https://youtu.be/wUw2fpJmY8I?si=oa5OSfFNb1mTKLFX
+- https://youtube.com/shorts/MqXAkCebTgM?si=z1C_2oWFgnbTJn_n
+- https://youtube.com/shorts/kJ-SJeVpwvg?si=ueM4OzW-bOAewmFp
+- https://youtube.com/shorts/TEQBUI4cpHI?si=M8nJPWyt5EHC8Sim
+- https://youtube.com/shorts/5wPJzdcVmUI?si=XNH-ySo6yGcDL3P4
+- https://youtube.com/shorts/TqPpHxxJWWA?si=cxKUBg9H5hPeM_i6
+- https://youtu.be/soxcRYUqD4Q?si=iwx2gjKmlbdoqSa1
+- https://youtu.be/3XXzNe5eWUA?si=g0ilXFD_dVrx0sef
+- https://youtu.be/COaKia8-oI4?si=QtBwUwbvwUe8nIXS
+- https://youtu.be/d4wLcI24eCg?si=y4ymMdw2ISOr7Agy
+- https://youtu.be/Db6ux01T83Q?si=K7F7Ox4u84AJxKGL
+- https://youtu.be/8e0DVPD-Aog?si=5Bphl4Ph30pZyARU
+- https://youtu.be/dlSWBGVwqKs?si=jT6tWHzWVrWZ8M7-
+- https://youtu.be/VhvlPJcS7e0?si=dMDKNhppcYxcXNf1
+- https://youtube.com/shorts/IR-GWM6M-7E?si=ir56ozm0JYAcp55J 
+- cvr
+- https://youtu.be/jwMO-ulKo2I?si=ZdaM3QX7UOueykzB
+- https://www.youtube.com/watch?v=HU2bwrVLkEU
+- https://youtu.be/MAsAYnBzudE?si=knpdwRSR7YsZMchC
+- https://youtu.be/haO_2r7kzLE?si=yamKBzQrqUiqM510
+- https://youtu.be/fYTOK89w8h0?si=LSZ6Ygh6CxxtLiaU
+- https://youtube.com/playlist?list=PLZ93iR4vt7mq_ahJiSQnR2YyhhtsX4RaK&si=Fpn4gxZ9db2ykhaL
+- https://youtu.be/jwMO-ulKo2I?si=ZdaM3QX7UOueykzB
+- https://tinny.gumroad.com/
+- https://creators.vrchat.com/avatars/creating-your-first-avatar/ in vrc sdk, there is sample Avatar dynamic bot girl
+- https://youtu.be/OFoYoErRa_o?si=mD1_zvmM52KHhLFc
+- https://youtube.com/playlist?list=PLZ93iR4vt7mrqWZT-mUTgB_RJyNjAMxRx&si=pmrgSQJ5zm2DirwH
+- done
+- Tirta the slime girl
+- https://twitter.com/eiden_2016/status/1743846974749888979?s=19
+- https://twitter.com/forever_gf618/status/1743746020746424570?s=19
+- https://www.tumblr.com/squeakitties/657263697427906560/i-got-a-really-really-big-commission-from
+- https://www.tumblr.com/squeakitties/671392246338371584/the-crew-found-themselves-on-hoxxes-iv-deep-rock
+- https://youtu.be/QRpK-UnpCT8?si=2YkjnfeC5wKb2Nq7
+- https://youtu.be/bDEtdwdHuo8?si=wfuJv-G76ITAmHRe
+- https://youtu.be/uXIgwpjcNa4?si=hvwn-22qV1naQyRt
+- https://youtu.be/pV0PMgp38gI?si=kYXSniNNOclxO19x
+- https://youtu.be/y-apZFPLSc4?si=SXZPqdtN2Enwh46q
+- https://youtu.be/vIaZhebkOJc?si=-HjOr7lXMeQRsVJn
+- https://youtu.be/bJyoqHnmoxc?si=ADA2I3f-PnSO3WqP
+- https://youtu.be/kCe9rumD1V4?si=6Yzc9bZQpyUk56Z0
+- https://youtu.be/e130xAPbGjw?si=pnNyLoJVK41qzmVN
+- https://youtu.be/O5QBETtyXZw?si=yIjAvbckrJCrXQBV
+- https://youtu.be/G-qTcZtQwGE?si=xnBLkkpgm6ApmS4_
+- https://twitter.com/OsoFurry/status/1686500501330821121
+- https://youtu.be/-1HXNxFkKwI?si=7GwXEuATDs87iu7t
+- mckamey
+- https://www.youtube.com/watch?v=f9mjwoLYGr0
+- https://www.youtube.com/watch?v=1cZGaoF4JN4
+- https://www.youtube.com/watch?v=uco9QbrDg7E
+- https://www.youtube.com/watch?v=g1Po07KkH98 sue
+- https://www.youtube.com/watch?v=Ck9Pc4aPjRc footage
+- https://www.youtube.com/watch?v=ckX-RuoEles shutdown
+- from ai sponge
+- https://discord.com/channels/990390355247644672/990390508264239155/1193664091932328036
+- done
+- https://youtu.be/oDhkj1FB32U?si=NGTcc5c1JYHhvcTv
+- https://vxtwitter.com/TeHappyHeartMan/status/1743831449277530129
+- https://www.tumblr.com/joelwindows7/738805813564571648
+- https://www.tumblr.com/joelwindows7/738893885555802112
+- https://www.tumblr.com/joelwindows7/738880920042520576
+- https://www.tumblr.com/joelwindows7/738872859474247680
+- spicyf4u
+- spicy4u
+- https://youtu.be/lvlOBN-eQVA?si=TZNejazC_Kwbnvzv
+- https://youtu.be/ag3L1fBPo54?si=yJFfGgPGdxlXa8jy
+- https://perkedeltechnologies.wordpress.com/2020/11/24/ugh-fine-i-guess-you-are-my-little-pogchamp-come-here/
+- https://developer.wordpress.org/rest-api/extending-the-rest-api/adding-rest-api-support-for-custom-content-types/
+- https://docs.astro.build/en/guides/cms/wordpress/
+- cvr pls
+- https://warrenwolfy.gumroad.com/
+- https://vinuzhka.gumroad.com/
+- https://wetcat.gumroad.com/
+- https://sanyacosmos.gumroad.com/l/VenusBodyVR
+- https://sanyacosmos.gumroad.com/
+- https://peeeep.gumroad.com/
+- https://gireison.gumroad.com/
+- https://alctrap.gumroad.com/
+- https://alctrap.gumroad.com/l/38b?layout=profile wtf
+- https://cicieaaavr.gumroad.com/
+- https://depressed.gumroad.com/
+- https://moonmango.gumroad.com/
+- https://23mink.gumroad.com/
+- https://sunnybunnie.gumroad.com
+- https://bunnybubble212.gumroad.com/
+- https://ultim8nik.gumroad.com/l/fafcj pomni
+- https://discord.com/channels/410126604237406209/797279576459968555/1189972363924733993
+- https://discord.com/channels/410126604237406209/797279576459968555/1019708265975783424
+- https://discord.com/channels/410126604237406209/797279576459968555/1019709401902366811
+- https://discord.com/channels/410126604237406209/797279576459968555/1019709581968035860
+- https://discord.com/channels/410126604237406209/797279576459968555/1019709854992044164
+- https://discord.com/channels/410126604237406209/797279576459968555/880253373662781450
+- https://discord.com/channels/410126604237406209/797279576459968555/1019707740521771058
+- https://discord.com/channels/410126604237406209/588350770777161748/1183196903761002537
+- https://discord.com/channels/410126604237406209/588350770777161748/773149374477762623
+- https://discord.com/channels/410126604237406209/588350770777161748/802167260076179477
+- PolyCount unity assets
+- https://discord.com/channels/410126604237406209/588350770777161748/802169542586662934
+- https://discord.com/channels/410126604237406209/588350770777161748/1002061861220528178
+- https://discord.com/channels/410126604237406209/588350726841827358/1189296880895668225
+- https://github.com/akasaki1211/AkBoneDynamics
+- https://discord.com/channels/410126604237406209/588350726841827358/1011305801467580476
+- tex
+- rex
+- https://gillscreations.gumroad.com/l/merinian
+- https://gillscreations.gumroad.com/
+- https://discord.com/channels/410126604237406209/588350726841827358/1150126067521159302
+- https://discord.com/channels/410126604237406209/588350726841827358/1001982894912319540
+- https://discord.com/channels/410126604237406209/588350726841827358/1011302687293317202
+- https://discord.com/channels/410126604237406209/588350726841827358/1011302763851940003
+- https://discord.com/channels/410126604237406209/588350726841827358/1011302614098526258
+- https://discord.com/channels/410126604237406209/588350726841827358/1011302532213116988
+- https://discord.com/channels/410126604237406209/588350726841827358/1011302494435029022
+- https://discord.com/channels/410126604237406209/588350726841827358/1011302246287417464
+- https://discord.com/channels/410126604237406209/588350726841827358/1011302382807822396
+- https://discord.com/channels/410126604237406209/588350726841827358/1011303106576924713
+- https://discord.com/channels/410126604237406209/588350726841827358/1011302987114758226
+- https://discord.com/channels/410126604237406209/588350726841827358/1011303727371649074
+- https://discord.com/channels/410126604237406209/588350726841827358/1011304133392879646
+- https://discord.com/channels/410126604237406209/588350726841827358/1011304422858575983
+- https://discord.com/channels/410126604237406209/588350726841827358/1011304632594731069
+- https://discord.com/channels/410126604237406209/588350726841827358/1011304786055942256
+- https://discord.com/channels/410126604237406209/588350726841827358/1011304833271214223
+- ok listen fuckheads. No no no, not any of you. You're cool. The fuckheads you gamers talking about. Yes. *Heavy Christian* & LGBT Phobic
+- fuckheads. I am Christian too, and I extremely hates LGBT wholeheartedly. But this does not constitute or is not ethical to restrict who customers shall use the assets.
+- I got fewer than you guys alone. But I always allow anyone use it. One day if I able to somehow make bunch of goth titty furries, I'll let all gamers use it. Guess what? My friend's right! You have no idea what do they use it for. Although, it's still ethical to prevent hate speech, but you got the point!
+- that's right, whoever straight, gay, lesbian, bi, whatever neogenders, atheists, islam, confucian, all and all, even the most juvenile uses, gore and shits (scat), **I shall not care**, and you should too.
+- https://discord.com/channels/410126604237406209/588350726841827358/1011304968084541520
+- https://discord.com/channels/410126604237406209/588350726841827358/1011304955929448458
+- https://discord.com/channels/410126604237406209/588350726841827358/1011305612958760970
+- https://discord.com/channels/410126604237406209/588350726841827358/1011305703836749915
+- ok to be fair tho, I also have an asshole move but it's still proposal. Is to no longer CC4.0-BY-SA and instead prevent Paywallism, Proprietarism, and Partialism. Because neither GNU, nor CC prevent any of these fucking shit from happening. Still in a thinking tho, not real yet. Be cool, I guess, so I don't be.... Evil, more like anti-hero.
+- I want to download but it's paid. We family already paid so much these days. Foods costs 1 digital files these days. Okay exageration, but remember inflations!
+- we then have to sort to sparsdat. But thankfully, because now I have trusted system and trusted payment method, I can buy legit. Look, we are not so poor. Only.... Parents paranoid what if got hacked only because of insertinf credit card info to a computer, I think that's it.
+- help others too will ya? If you got the money from this card, that same card who knows accidentally inserted to a sketchy ass store, whose developer did not carefully store their private keys safely. Just saying. Doesn't matter if Parrents stupid, IT experts who has been Doctor ranked (S3 Doktor) too! It's oblivious! Best trusted and popular store even the payment broker the store relied on can get hacked!
+- ok
+- family these days are insane.
+- everyday we see they are too restrictive and enforces too much.
+- causing religion to be more like, .... Faction.
+- (metal suspense)
+- if faction becomes too harsh and inappropriate, you will get out and in the end...
+- (metal suspense, show sample ID card parameter `religion` shows `null` meaning Atheist)
+- So, are you one of them?
+- one of the victims?
+- we can help.
+- tag cvr
+- .
+- .
+- https://youtube.com/shorts/Wu5QhaX_3HM?si=Z4mJuONSXnaU0Fyt
+- 📸 Lihat postingan ini di Facebook https://www.facebook.com/100064697106148/posts/755870973246133/?mibextid=NOb6eG
+- a
+- https://docs.google.com/spreadsheets/d/1lrE5EGtuDsrwRJNSHIEN9hsGggxzLHmDV5rwuHkmndQ/htmlview#gid=0 this
+- https://www.facebook.com/groups/MMDIndo/?ref=share&mibextid=NSMWBT from here
+- 📸 Lihat postingan ini di Facebook https://www.facebook.com/100078753532167/posts/348746671093781/?mibextid=NSMWBT
+- https://www.deviantart.com/aziib/art/Maya-Putri-3d-Model-ver1-01-MMD-Download-1004214586
+- https://x.com/Wake_Up_Deadman/status/1739788709715984493?s=20
+- https://x.com/eldoradoed_art/status/1739667137986433498?s=20
+- https://youtu.be/okFxRNBvZQ8?si=weMhD7Zl5hrgOQ9n
+- https://youtu.be/Z-MeAPXdKEY?si=ZNDYjVyxyNKVV5eo
+- cvr world
+- https://www.youtube.com/watch?v=aNcZqriWgTE
+- https://www.youtube.com/watch?v=aNcZqriWgTE
+- https://www.youtube.com/watch?v=AqieYVRPWr4
+- https://www.youtube.com/watch?v=yQEqejsWt4M
+- ok done
+- https://discord.gg/7rBmy6y ItzNatsuki Discord
+- https://skfb.ly/oPG6o
+- Dotflare pls
+- https://emperorofmars.gumroad.com
+- https://emperorofmars.itch.io
+- https://github.com/emperorofmars/stf-unity
+- https://github.com/emperorofmars/ava-unity
+- https://tips.orels.sh/ies-profile-generator
+- https://tips.orels.sh/
+- https://cndl.io/
+- https://teodutra.com/unity/shaders/urp/graphics/2020/05/18/From-Built-in-to-URP/
+- https://github.com/pema99/shader-knowledge
