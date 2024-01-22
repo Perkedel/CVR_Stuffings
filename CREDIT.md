@@ -3380,3 +3380,15 @@ New Sauce lists
 - https://github.com/NotAKidOnSteam/AvatarPointerGenerator/ **Pls generate pointers!!!**
 - https://feedback.abinteractive.net/p/add-standard-pointer-name-references
 - https://feedback.abinteractive.net/p/add-standard-pointer-name-references
+- https://discord.com/channels/1001388809184870441/1001388935819309126/1168723262931480636
+- https://discord.com/channels/1001388809184870441/1001388935819309126/1168852114458562570
+- `GameObject.Instantiate` use `.` for accessing static methods
+- https://discord.com/channels/856570745726566411/856794862497693737/1199033001762377728
+- https://skfb.ly/6oKIn
+- https://booth.pm/en/items/2700477 **PAID**
+- https://darkpowers0819.gumroad.com **PAID**
+- https://discord.com/channels/410126604237406209/588350770777161748/1198865836455247983
+- https://discord.com/channels/410126604237406209/1004342533964439592/1198738654273753169
+- https://fxtwitter.com/EtiTheSpirit/status/1748399671054159968
+- https://github.com/keijiro/StandardTriplanar
+- https://discord.com/channels/410126604237406209/766086942005526579/1198375151843151983
