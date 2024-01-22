@@ -3373,3 +3373,10 @@ New Sauce lists
 - https://twitter.com/sasaminvrc/status/1271675744549142529 Niko Oneshot pls!!!!
 - https://skfb.ly/6BtIq
 - https://gumroad.com/kristifr **PAID**
+- https://www.turbosquid.com/FullPreview/2021011 FREE **FOR PERSONAL USE ONLY**
+- https://github.com/Brendan-Kirtlan/Minecraft-file-encoder encode files to Minecraft
+- https://youtu.be/z16rzIF5J40?si=oytbKcCMD5HaT-ri it's Bukkit plugin???
+- https://docs.unity3d.com/ScriptReference/HumanBodyBones.html
+- https://github.com/NotAKidOnSteam/AvatarPointerGenerator/ **Pls generate pointers!!!**
+- https://feedback.abinteractive.net/p/add-standard-pointer-name-references
+- https://feedback.abinteractive.net/p/add-standard-pointer-name-references
