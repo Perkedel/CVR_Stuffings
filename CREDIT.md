@@ -3392,3 +3392,24 @@ New Sauce lists
 - https://fxtwitter.com/EtiTheSpirit/status/1748399671054159968
 - https://github.com/keijiro/StandardTriplanar
 - https://discord.com/channels/410126604237406209/766086942005526579/1198375151843151983
+- cvr
+- https://discord.com/channels/410126604237406209/766086942005526579/1187151182683197531
+- https://discord.com/channels/410126604237406209/766086942005526579/1186297950050209813
+- https://interplayoflight.wordpress.com/2022/12/30/experimenting-with-fp16-in-shaders/
+- https://developer.nvidia.com/blog/advanced-api-performance-shaders/
+- https://gist.github.com/EtiTheSpirit/78b7f57da19323f9f9d8a392369b37f0 Xan
+- https://catlikecoding.com/unity/tutorials/rendering/part-19/
+- https://github.com/CuteWaterBeary/ShaderForge 2021 compatible
+- https://discord.com/channels/410126604237406209/766086942005526579/1179954506545496156
+- https://learn.microsoft.com/en-us/windows/win32/direct3dhlsl/dx-graphics-hlsl-variable-syntax
+- https://discord.com/channels/410126604237406209/766086942005526579/1176656970493739050
+- https://gist.github.com/EtiTheSpirit/3dce03d381396f390f8a073d0276d7c0
+- https://discord.com/channels/410126604237406209/766086942005526579/1176634995616514048
+- https://store.steampowered.com/news/app/661130/view/3796032312660573554
+- https://discord.com/channels/410126604237406209/766086942005526579/1176149412985184346
+- https://github.com/cnlohr/shadertrixx#detecting-if-you-are-on-desktop-vr-camera-etc
+- https://gist.github.com/EtiTheSpirit/78b7f57da19323f9f9d8a392369b37f0
+- https://github.com/CuteWaterBeary/ShaderForge
+- https://gist.github.com/EtiTheSpirit/3dce03d381396f390f8a073d0276d7c0
+- https://github.com/cnlohr/shadertrixx
+- ok
