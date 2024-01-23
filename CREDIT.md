@@ -3729,3 +3729,14 @@ New Sauce lists
 - https://cndl.io/
 - https://teodutra.com/unity/shaders/urp/graphics/2020/05/18/From-Built-in-to-URP/
 - https://github.com/pema99/shader-knowledge
+- https://github.com/Unity-Technologies/com.unity.gis.high-precision-framework Please try Double Precission Float?
+- https://github.com/sldsmkd/vector3d
+- https://dev.to/tandrieu/how-to-handle-double-precision-coordinates-in-unity--1j40
+- https://www.shadertoy.com/view/Xd2BWm Balloon flight
+- https://github.com/AcChosen/VR-Stage-Lighting/tree/e67854ff4d7c2ba9ad1c63083d3ab2ce74f6f459/Packages/com.acchosen.vr-stage-lighting/Runtime/Meshes/HQ%20Meshes **Redownload Blend file pls**
+- https://ko-fi.com/s/88d2812887
+- https://www.tumblr.com/joelwindows7/740299257700040704?source=share
+- https://glaze.cs.uchicago.edu/downloads.html **Anti-AI**
+- https://glaze.cs.uchicago.edu/index.html
+- https://nightshade.cs.uchicago.edu/ Nightshade too pls!
+- https://glaze.cs.uchicago.edu/software/Glaze-LICENSE.pdf
