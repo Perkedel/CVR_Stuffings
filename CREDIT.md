@@ -3740,3 +3740,5 @@ New Sauce lists
 - https://glaze.cs.uchicago.edu/index.html
 - https://nightshade.cs.uchicago.edu/ Nightshade too pls!
 - https://glaze.cs.uchicago.edu/software/Glaze-LICENSE.pdf
+- https://glaze.cs.uchicago.edu/webglaze.html
+- https://glaze.cs.uchicago.edu/webglaze.html
