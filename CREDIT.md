@@ -3742,3 +3742,5 @@ New Sauce lists
 - https://glaze.cs.uchicago.edu/software/Glaze-LICENSE.pdf
 - https://glaze.cs.uchicago.edu/webglaze.html
 - https://glaze.cs.uchicago.edu/webglaze.html
+- https://revit.gumroad.com
+- https://revit.gumroad.com/l/QHWXq **PAID**
