@@ -3747,3 +3747,23 @@ New Sauce lists
 - https://file-converter.org pls check. ChrisTitus again.
 - https://youtu.be/5OJPXX2jv6M?si=1VqeFZ_8rFKJ6ODX
 - Pls thancc SketchFoxky for inspiring us to make configurable dice!
+- https://gum.co/mantlenicojedi
+- https://gum.co/batdal **PAID**
+- https://gum.co/kobodal **PAID**
+- https://x.com/nicoreda FREE
+- https://linktr.ee/nicoreda **FILES**
+- https://gum.com/protodal **PAID**
+- https://nicoreda.gumroad.com/l/Kobodal **PAID**
+- https://nicoreda.gumroad.com/
+- https://nicoreda.gumroad.com/l/batdal **PAID**
+- https://nicoreda.gumroad.com/l/sergodal **PAID**
+- https://nicoreda.gumroad.com/l/protodal **PAID**
+- https://nicoreda.gumroad.com/l/felidal **PAID**
+- https://nicoreda.gumroad.com/l/mantlednicojedi **PAID**
+- https://socel.net/@Nicoreda is on socel's Mastodon!
+- https://bsky.app/profile/nicoreda.bsky.social Nicoreda's Bluesky
+- http://twitch.tv/nicoredatv Twitch
+- http://discord.gg/nicoreda Nicoreda Discord
+- https://discord.gg/b3dQ4QHh FoxHole. the description of `FoxHole` World from FoxSerito
+- https://mondocat.tv MondoCat's Karaoke. `Mondo's Karaoke Boba Bar`
+- `On The Edge` on Sketchfab??? Fenrir port
