@@ -3780,3 +3780,9 @@ New Sauce lists
 - https://gitlab.com/s-ilent/sunshine-flare
 - https://gitlab.com/users/s-ilent/projects
 - OK
+- a
+- a
+- https://youtu.be/yFvSDMsSWUQ?si=bHaibgLkWXiMXLGn
+- https://github.com/chrislo27/RhythmHeavenRemixEditor/ Rhythm Heaven Remix Editor!!!
+- https://youtu.be/yGhcy0zx-B8?si=9bFFlvgE9_hvzfGz hyvat dreamcast
+- https://alex-free.github.io/video2dreamcastdisc/ convert video to dreamcast
