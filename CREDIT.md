@@ -3768,4 +3768,15 @@ New Sauce lists
 - https://mondocat.tv MondoCat's Karaoke. `Mondo's Karaoke Boba Bar`
 - `On The Edge` on Sketchfab??? Fenrir port
 - awsd
-- 
+- Silent Shader
+- https://gitlab.com/s-ilent/SCSS/-/releases
+- https://gitlab.com/s-ilent/fake-glass
+- https://gitlab.com/s-ilent/fake-smoothness
+- https://gitlab.com/s-ilent/HologramShader
+- https://gitlab.com/s-ilent/filamented
+- https://gitlab.com/s-ilent/clear-water
+- a
+- https://gitlab.com/s-ilent/standard-subsurface-scattering
+- https://gitlab.com/s-ilent/sunshine-flare
+- https://gitlab.com/users/s-ilent/projects
+- OK
