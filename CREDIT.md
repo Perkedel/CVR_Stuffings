@@ -3786,3 +3786,10 @@ New Sauce lists
 - https://github.com/chrislo27/RhythmHeavenRemixEditor/ Rhythm Heaven Remix Editor!!!
 - https://youtu.be/yGhcy0zx-B8?si=9bFFlvgE9_hvzfGz hyvat dreamcast
 - https://alex-free.github.io/video2dreamcastdisc/ convert video to dreamcast
+- `bluethefox` & `KANNA KOBAYASHI` Banned.
+- cvr
+- https://github.com/TwoTailsGames/Unity-Built-in-Shaders/blob/master/DefaultResourcesExtra/Skybox.shader
+- https://discord.com/channels/410126604237406209/588350726841827358/1199777318537793587
+- https://discord.com/channels/410126604237406209/766086942005526579/1075090431760674869
+- https://discord.com/channels/410126604237406209/766086942005526579/1075090431760674869 bluethefox
+- ok
