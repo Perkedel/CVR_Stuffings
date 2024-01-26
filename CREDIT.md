@@ -3793,3 +3793,12 @@ New Sauce lists
 - https://discord.com/channels/410126604237406209/766086942005526579/1075090431760674869
 - https://discord.com/channels/410126604237406209/766086942005526579/1075090431760674869 bluethefox
 - ok
+- pls find smug jar tumblr
+- a
+- a
+- https://skfb.ly/XYLZ
+- https://sketchfab.com/kurofeadra Wendy Yang. **only that mobius dice downloadable** as of today
+- https://skfb.ly/6WQuP
+- https://sketchfab.com/smithb6
+- https://skfb.ly/6oFLq
+- https://sketchfab.com/JayDesigns
