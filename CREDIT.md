@@ -3804,3 +3804,29 @@ New Sauce lists
 - https://sketchfab.com/JayDesigns
 - https://booth.pm/en/items/5236104 **PAID** found in Hanz's port of this
 - https://booth.pm/en/items/3818504 FREE. found in Hanz's port of this
+- maysplash
+- https://www.furaffinity.net/view/51219514/ mayosplash
+- https://www.furaffinity.net/gallery/mayosplash/
+- https://www.buymeacoffee.com/mayosplash/extras **PAID**
+- https://mayosplash34.gumroad.com/l/dilce?layout=profile **PAID**
+- https://mayosplash34.gumroad.com/ **PAID**
+- https://inkbunny.net/gallery/zebjo/1/39574abbb7 Zebjo has been banned on smutbase!
+- https://smutba.se/user/8174/ Zebjo gone
+- False alarm, still exist
+- https://smutba.se/project/36334/ wait what?
+- https://smutba.se/project/36334/ no it...
+- damn it. I swear, it was 404!!!
+- https://twitter.com/zebjzz/status/1750703860086157710
+- fucking hell. next!
+- https://skfb.ly/oJSFy rat low poly
+- https://skfb.ly/6UWoN
+- https://sisters.booth.pm
+- https://sketchfab.com/c3posw01 pls download Maksim Batyrev. Chen has tanks ported here
+- https://assetstore.unity.com/packages/3d/environments/sci-fi/polygon-sci-fi-worlds-low-poly-3d-art-by-synty-206299 **PAID**
+- https://skfb.ly/onnNN
+- `CVRprog/`
+- https://skfb.ly/oEKvr gun
+- https://skfb.ly/oJDSw
+- https://www.notebookcheck.net/Digital-master-tapes-of-the-3D-series-Reboot-found-but-a-playback-device-is-lacking.788415.0.html
+- https://skfb.ly/oIG8B pls select Titan
+- Eliza waaaa
