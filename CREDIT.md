@@ -3802,3 +3802,5 @@ New Sauce lists
 - https://sketchfab.com/smithb6
 - https://skfb.ly/6oFLq
 - https://sketchfab.com/JayDesigns
+- https://booth.pm/en/items/5236104 **PAID** found in Hanz's port of this
+- https://booth.pm/en/items/3818504 FREE. found in Hanz's port of this
