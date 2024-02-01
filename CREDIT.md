@@ -3830,3 +3830,30 @@ New Sauce lists
 - https://www.notebookcheck.net/Digital-master-tapes-of-the-3D-series-Reboot-found-but-a-playback-device-is-lacking.788415.0.html
 - https://skfb.ly/oIG8B pls select Titan
 - Eliza waaaa
+- cvr
+- https://discord.com/channels/410126604237406209/588350726841827358/1201844857002262588
+- ok
+- cvr
+- https://youtu.be/k74qhtLJKCc
+- https://youtu.be/1u82E9o2qRk?si=IWPMd0-VnaZ96qea
+- https://youtube.com/@MysticWorldsStudios?si=WwOKBpVwXrUh5uxF
+- ok
+- https://github.com/michael-bill/perfect-circle
+- https://github.com/open-simh/simh SIMH pls
+- Pls Cinematography Hub world by StoneForged
+- https://skfb.ly/ooDCo
+- https://skfb.ly/oFSJL
+- https://skfb.ly/ozOIv
+- https://speed.booth.pm
+- https://assetstore.unity.com/publishers/28391
+- https://assetstore.unity.com/packages/vfx/particles/fire-explosions/fireworks-pack-with-sounds-3d-2d-123720 **PAID** it's this one?
+- https://github.com/Perkedel/After-Church/blob/master/RAW%20files/Inkscape/Perkedel_Desktop_Wallpaper_padded.png
+- https://github.com/Perkedel/After-Church/blob/master/RAW%20files/Inkscape/Perkedel_Desktop_Wallpaper.svg
+- https://github.com/Perkedel/After-Church/blob/master/RAW%20files/Inkscape/Perkedel_Desktop_Wallpaper.png
+- https://github.com/Perkedel/After-Church/blob/master/RAW%20files/Inkscape/Perkedel_Desktop_Wallpaper_decay.png
+- https://github.com/Perkedel/After-Church/blob/master/RAW%20files/Inkscape/Perkedel_Desktop_Wallpaper_decay_dried.png
+- https://github.com/Perkedel/After-Church/blob/master/RAW%20files/Inkscape/Perkedel_Desktop_Wallpaper_decay_dried_padded.png
+- https://github.com/Perkedel/After-Church/blob/master/RAW%20files/Inkscape/Perkedel_Desktop_Wallpaper_decay_padded.png
+- https://github.com/Perkedel/After-Church/blob/master/RAW%20files/Inkscape/Perkedel_Desktop_Wallpaper_dried.png
+- https://github.com/Perkedel/After-Church/blob/master/RAW%20files/Inkscape/Perkedel_Desktop_Wallpaper_dried_padded.png
+- https://github.com/Perkedel/After-Church/blob/master/RAW%20files/Inkscape/Perkedel_Desktop_Wallpaper_padded.png
