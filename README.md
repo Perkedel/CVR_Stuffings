@@ -586,6 +586,18 @@ Please test these other Free car assets and confirm whether or not they works:
 
 - null. Custom MonoBehaviour is forbidden by default.
 
+### Perkedel Logo coincidence
+
+Perkedel logo (capsule with plus) was made purely on philosohpy & inspiration of certain elements. In this case, a mashed potato molded into a capsule shape, with plus symbol, signifying more, infinite, all around.
+
+Unfortunately, we have encountered fatal coincidence with other brands that resembles our logo. Rest assured, our logo was not made for such reason, and therefore has nothing to do with any of those design creation nor endeavours.
+
+Despite all, for safety reasons, we decided to use newly different version of logo (for this case of VR and related) while retaining the recognizable shape of our brand logo. You should see `Furry Isekai` version of our logo in profile pictures and brand logo placement. the `Furry Isekai` variant has capsule without plus but instead blue gradient bright top dark bottom, and tunnel wave inspired from our [free wallpaper, `Wave`](https://github.com/Perkedel/After-Church/blob/master/RAW%20files/Inkscape/Perkedel_Desktop_Wallpaper_padded.png). We named this variant `Furry Isekai` in a nod to one of our upcoming game series & movie franchise, **`Sediron`**, as in entering a brand new world full of furries, Arenod (formerly Areluid). The `Isekai` this time has nothing to do with *literal death*.
+
+Coincident icon:
+- VRChat Plus
+- ProCreate Copy button
+
 ### Legit Purchase Disclosure
 
 > In response of backlash towards Van Elektronische on grounds of involvement of X0p1r4t3 Eenvreensmnt which concerning parties claim notorious for sparsdating assets
