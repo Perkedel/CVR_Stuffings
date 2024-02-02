@@ -3860,3 +3860,8 @@ New Sauce lists
 - https://gitlab.com/s-ilent/filamented
 - https://gitlab.com/s-ilent/fake-glass
 - https://gitlab.com/s-ilent/SCSS/-/wikis/Other/Reflection-Probes
+- Gurumi's GIF port pls
+- https://tenor.com/users/riri-zpt
+- https://youtu.be/Tmmh0K23W4s
+- https://discord.com/channels/410126604237406209/766087403609391165/1197269001882054726
+- https://docs.gimp.org/en/gimp-tool-hue-saturation.html
