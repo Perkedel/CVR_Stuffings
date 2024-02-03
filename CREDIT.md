@@ -3367,7 +3367,7 @@ New Sauce lists
 - https://github.com/NotAKidOnSteam/AASEmulator/ **HOW**: `Tools` top menu, `Enable AAS Emulator` option.
 - https://github.com/lyuma/Av3Emulator
 - https://twitter.com/KirbyDX55
-- https://sketchfab.com/kirbydx
+- https://sketchfab.com/kirbydx pls download
 - https://skfb.ly/6Y7tB the Spotlight!!!
 - https://sketchfab.com/DanartriDonuth
 - https://twitter.com/sasaminvrc/status/1271675744549142529 Niko Oneshot pls!!!!
@@ -3865,3 +3865,7 @@ New Sauce lists
 - https://youtu.be/Tmmh0K23W4s
 - https://discord.com/channels/410126604237406209/766087403609391165/1197269001882054726
 - https://docs.gimp.org/en/gimp-tool-hue-saturation.html
+- photon audio aaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+- https://skfb.ly/UpNK
+- https://booth.pm/en/items/3564947 **PAID**
+- https://nagatorokoyori.booth.pm/
