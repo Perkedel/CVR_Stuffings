@@ -3869,3 +3869,13 @@ New Sauce lists
 - https://skfb.ly/UpNK
 - https://booth.pm/en/items/3564947 **PAID**
 - https://nagatorokoyori.booth.pm/
+- https://studio.blender.org/blog/cartoon-character-shading-with-geometry-nodes/?utm_medium=homepage
+- https://studio.blender.org/blog/introducing-bbatch/?utm_medium=homepage
+- https://mastodon.social/tags/geometrynodes
+- https://mastodon.social/tags/geometrynodes
+- https://mastodon.social/@cmzw/111868333833490952
+- https://ko-fi.com/cmzw_/shop
+- https://youtu.be/TGpxr52jYHk?si=aJBoRSKZRiJUZG12 how to heart Blender
+- https://youtube.com/shorts/nSKiieDLO4E?si=u0CxTGKb8R322gOA how to star
+- https://flycatfly.gumroad.com/ **PAID**
+- https://youtu.be/3SWzQ-e2k3Y?si=C2m27evDSjfGG2vw

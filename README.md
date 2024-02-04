@@ -331,6 +331,7 @@ Here are the UUIDs of all these assets we uploaded to CVR:
 | `ddb5a8b0-758e-4469-a181-5c5e959bab07` | Le Among Us | JOELwindows7 | hfcRed's among us follower demo |
 | `6566357c-3640-4b9f-b6eb-2abab7225e4b` | Unity Crashed | JOELwindows7 | How did this happened?! |
 | `597e172e-2ca1-426f-9b84-a5e701b3478c` | ChilloutVR Crashed | JOELwindows7 | IMPOSSIBLE!! |
+| `17ec4133-0c63-44a7-8032-a218a91f9720` | Valentine Chocolate Box | JOELwindows7 | With each chocolate edible |
 | `382db2db-2101-4308-9a8a-5bcb263880a7` | Reflection Probe Helm Spawner | JOELwindows7 | **Experimental** |
 | `33f06030-a4a8-45f6-9409-a69913cc39e8` | Diagonal Joystick Bug Demonstration | JOELwindows7 | **Experimental** |
 | `66effc2f-41af-475d-bfd2-df37989c1600` | VoyVivika Portable Tutorial Prop | VoyVivika | (**NOT PERKEDEL**) |
