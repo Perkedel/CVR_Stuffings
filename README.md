@@ -326,6 +326,7 @@ Here are the UUIDs of all these assets we uploaded to CVR:
 | `ccfe57c8-f21c-46e3-8c3d-ec5a9def4be8` | Stop you're annoying! | JOELwindows7 | . |
 | `d3afa62b-3524-46b9-93fd-519dd91a63da` | I'm so sorry, I didn't mean to freeze you! | JOELwindows7 | . |
 | `12d3cc16-e202-48ad-900a-99c41d2d6130` | I'm very shy! | JOELwindows7 | . |
+| `89090a15-d3a4-4510-b55b-4299248cf743` | Lua Script Coming soon-ish | JOELwindows7 | . |
 | `2d106677-d4d3-4671-b960-fa0c6dda30a1` | A Failed Car | JOELwindows7 | **RCC is not $0!!!** How do we supposed to car?! |
 | `3f562c88-e8d6-4b39-827c-a910588bc4e6` | DynBonen | JOELwindows7 | . |
 | `ddb5a8b0-758e-4469-a181-5c5e959bab07` | Le Among Us | JOELwindows7 | hfcRed's among us follower demo |

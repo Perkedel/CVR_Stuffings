@@ -3883,3 +3883,42 @@ New Sauce lists
 - https://en.m.wikipedia.org/wiki/File:Lua-Logo.svg
 - https://en.m.wikipedia.org/wiki/File:Lua-Logo.svg
 - https://prod.support.services.microsoft.com/en-us/windows/support-for-fbx-files-has-been-turned-off-in-3d-viewer-b7483e83-422c-4d65-b94d-853eb65cb134
+- https://tavii.gumroad.com
+- https://tavii.gumroad.com/l/LegacyMouse **PAID**
+- https://lolpoly.gumroad.com/
+- https://skfb.ly/6QVtM
+- https://vmwaros.blogspot.com/p/download.html
+- https://sites.google.com/view/arosone
+- https://youtu.be/PtDiXhjSIfs?si=WNfr65sh1xXzdxV6
+- https://youtu.be/-OA28r8Up5U?si=LiZQMTuNu_JvQ1xh
+- https://aros.org
+- https://trivaliyis.gumroad.com/l/ctfdh **PAID**
+- https://www.furaffinity.net/view/51947342/
+- https://www.deviantart.com/anasjifjdjf/art/Kandy-The-Kangaroo-Kandyland-Proyect-934031806
+- https://www.deviantart.com/deviantartuser3214am/art/Suzy-Snacktime-Blender-Release-950906216 do not forget kandyland blender suzy snacktime
+- https://trivaliyis.gumroad.com/l/wkbifc **PAID**
+- https://www.deviantart.com/titi770/art/Kandy-Kangaroo-Model-By-Titi-Me-Release-955818148 and kangaroo
+- https://skfb.ly/oOyXv pls download machinery
+- https://vertexarcade.gumroad.com/l/adjustable-mannequin **PAID**
+- https://vertexarcade.gumroad.com/
+- https://www.vertexarcade.com/store/p/adjustable-mannequin **PAID**
+- https://youtu.be/B2xJCZHdae4?si=4BZhc-5DWIkAIhhE
+- https://youtu.be/gLdZzjxGCS0?si=UEqL0fKTDCPjeWfG Ducky3D Blender LED screen
+- https://github.com/ChristinaRika/EasyHDRI
+- https://youtu.be/oP66AHZwzWY?si=84ibKDE3OfeUX_5-
+- https://youtu.be/oP66AHZwzWY?si=84ibKDE3OfeUX_5-
+- https://youtu.be/oP66AHZwzWY?si=84ibKDE3OfeUX_5-
+- https://youtu.be/oP66AHZwzWY?si=84ibKDE3OfeUX_5-
+- https://github.com/mohsenph69/Godot-MTerrain-plugin Godot Mterrain compress heightmap terrain
+- https://graymoreplus.booth.pm/items/4913158
+- https://sketchfab.com/Idiotic_genius
+- https://www.reddit.com/r/signalis/comments/ykfp2t/spoilers_datamined_sprites_textures_models/
+- https://rose-engine.org/
+- https://rose-engine.org/signalis/
+- https://rose-engine.org/press/sheet.php?p=signalis
+- https://www.deviantart.com/thesilverbluemoon/art/SIGNALIS-MMD-ELSTER-Model-DL-939447015
+- https://trivaliyis.gumroad.com/l/ctfdh **PAID**
+- https://trivaliyis.gumroad.com/
+- https://youtube.com/shorts/kiaK0rAtlD0?si=IcCb40V_zxJoo7pO softy heart SouthernShotty
+- https://youtu.be/qNba2oEij2c?si=F4Hgk7t_wGiPU1yr IanHubert appocalyptic scene
+- https://youtu.be/4EqLyGsu3AA?si=uB0ElUfgi6pSkO9q CG Geek rock 1 minute
