@@ -3879,3 +3879,7 @@ New Sauce lists
 - https://youtube.com/shorts/nSKiieDLO4E?si=u0CxTGKb8R322gOA how to star
 - https://flycatfly.gumroad.com/ **PAID**
 - https://youtu.be/3SWzQ-e2k3Y?si=C2m27evDSjfGG2vw
+- http://www.lua.org/images/
+- https://en.m.wikipedia.org/wiki/File:Lua-Logo.svg
+- https://en.m.wikipedia.org/wiki/File:Lua-Logo.svg
+- https://prod.support.services.microsoft.com/en-us/windows/support-for-fbx-files-has-been-turned-off-in-3d-viewer-b7483e83-422c-4d65-b94d-853eb65cb134
