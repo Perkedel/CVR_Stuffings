@@ -3945,3 +3945,6 @@ New Sauce lists
 - https://assetstore.unity.com/packages/3d/environments/planets-of-the-solar-system-3d-90219
 - https://assetstore.unity.com/packages/3d/props/guns/sci-fi-gun-light-87916
 - https://assetstore.unity.com/packages/3d/environments/low-poly-rock-pack-57874
+- https://assetstore.unity.com/packages/3d/environments/planets-of-the-solar-system-3d-90219
+- https://assetstore.unity.com/packages/3d/environments/landscapes/flatpoly-winter-village-51544
+- https://assetstore.unity.com/packages/tools/particles-effects/breakable-windows-110383
