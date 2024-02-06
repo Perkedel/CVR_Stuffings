@@ -3922,3 +3922,26 @@ New Sauce lists
 - https://youtube.com/shorts/kiaK0rAtlD0?si=IcCb40V_zxJoo7pO softy heart SouthernShotty
 - https://youtu.be/qNba2oEij2c?si=F4Hgk7t_wGiPU1yr IanHubert appocalyptic scene
 - https://youtu.be/4EqLyGsu3AA?si=uB0ElUfgi6pSkO9q CG Geek rock 1 minute
+- https://pathtrace.gumroad.com/
+- https://assetstore.unity.com/packages/tools/level-design/non-convex-mesh-collider-automatic-generator-117273 **PAID**
+- https://stackoverflow.com/questions/64089586/how-to-handle-non-convex-meshcollider-with-non-kinematic-rigidbody-is-no-longer
+- https://stackoverflow.com/a/64116273/9079640
+- https://youtu.be/SckcB099zrg?si=hxBaq3jKA4v73C4f doorbell fell
+- https://youtu.be/eev9tyePDnc?si=CQQkOTuD8ngtABFQ doorbell fell origin
+- https://assetstore.unity.com/packages/3d/environments/landscapes/low-poly-simple-nature-pack-162153
+- https://stackoverflow.com/questions/64089586/how-to-handle-non-convex-meshcollider-with-non-kinematic-rigidbody-is-no-longer
+- https://assetstore.unity.com/packages/3d/3d-game-kit-props-pack-135218
+- https://assetstore.unity.com/packages/3d/3d-game-kit-props-pack-135218
+- https://assetstore.unity.com/packages/3d/props/weapons/free-magic-swords-97694
+- https://assetstore.unity.com/packages/3d/props/weapons/fantasy-moon-sword-155333
+- https://assetstore.unity.com/packages/3d/props/aaa-quality-road-barricades-142191
+- https://assetstore.unity.com/packages/3d/props/industrial/dirty-wooden-crate-111956
+- https://assetstore.unity.com/packages/3d/environments/historic/medieval-tent-big-19023
+- https://assetstore.unity.com/packages/3d/environments/fantasy/medieval-tent-small-18736
+- https://assetstore.unity.com/packages/3d/prototyping-pack-free-94277
+- https://assetstore.unity.com/packages/3d/characters/humanoids/sci-fi/free-test-character-asuna-205897
+- https://assetstore.unity.com/packages/p/free-sound-effects-pack-155776
+- https://assetstore.unity.com/packages/p/3d-free-modular-kit-85732
+- https://assetstore.unity.com/packages/3d/environments/planets-of-the-solar-system-3d-90219
+- https://assetstore.unity.com/packages/3d/props/guns/sci-fi-gun-light-87916
+- https://assetstore.unity.com/packages/3d/environments/low-poly-rock-pack-57874
