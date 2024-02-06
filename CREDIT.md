@@ -3948,3 +3948,11 @@ New Sauce lists
 - https://assetstore.unity.com/packages/3d/environments/planets-of-the-solar-system-3d-90219
 - https://assetstore.unity.com/packages/3d/environments/landscapes/flatpoly-winter-village-51544
 - https://assetstore.unity.com/packages/tools/particles-effects/breakable-windows-110383
+- https://assetstore.unity.com/packages/vfx/particles/action-rpg-fx-38222 **PAID**
+- https://assetstore.unity.com/packages/p/3d-props-adorable-foods-31249
+- https://assetstore.unity.com/packages/3d/props/food/3d-props-bakery-object-17167
+- https://assetstore.unity.com/packages/3d/environments/dungeons/3d-props-cartoon-box-map-50743
+- https://assetstore.unity.com/packages/3d/environments/fantasy/3d-the-blacksmith-s-house-252972
+- https://assetstore.unity.com/packages/3d/characters/humanoids/fantasy/3-free-characters-18098
+- https://assetstore.unity.com/packages/3d/characters/animals/animals-free-260727
+- https://assetstore.unity.com/packages/3d/characters/animals/animated-goat-and-sheep-3d-low-poly-free-251910 **GONE**
