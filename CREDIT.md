@@ -3956,3 +3956,10 @@ New Sauce lists
 - https://assetstore.unity.com/packages/3d/characters/humanoids/fantasy/3-free-characters-18098
 - https://assetstore.unity.com/packages/3d/characters/animals/animals-free-260727
 - https://assetstore.unity.com/packages/3d/characters/animals/animated-goat-and-sheep-3d-low-poly-free-251910 **GONE**
+- https://skfb.ly/6YqOQ Wall-E
+- https://youtu.be/w3KLS9-zR3Y?si=d0OtSWnlQFnqF7UW EVE pls download
+- https://youtu.be/b_tAbc4FmXk?feature=shared
+- https://youtu.be/mVpxvYrEMHI?si=u2gRL9NEl30bJOUp
+- https://ko-fi.com/s/036480150d SONIC
+- https://youtube.com/shorts/SZjp3AGn-_E?si=euXc3bT-RgzCkKEt
+- https://gumroad.com/jordanbeatty **JACKPOT toon boom 2d**
