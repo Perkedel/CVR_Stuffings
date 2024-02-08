@@ -3963,3 +3963,20 @@ New Sauce lists
 - https://ko-fi.com/s/036480150d SONIC
 - https://youtube.com/shorts/SZjp3AGn-_E?si=euXc3bT-RgzCkKEt
 - https://gumroad.com/jordanbeatty **JACKPOT toon boom 2d**
+- https://www.pixiv.net/en/artworks/115790351
+- https://www.deviantart.com/titi770/art/Two-glamrock-on-cave-4-978914774
+- https://www.deviantart.com/titi770/art/Kandy-Kangaroo-Model-By-Titi-Me-Release-955818148
+- https://www.deviantart.com/titi770/gallery/87045459/release-3d-model
+- https://steamcommunity.com/sharedfiles/filedetails/?id=2973158825
+- https://www.deviantart.com/titi770/art/Minireena-SFM-Release-960234839
+- https://www.deviantart.com/titi770/art/Ballora-Model-Prisma-3D-943703753
+- https://steamcommunity.com/sharedfiles/filedetails/?id=2968769814
+- https://www.deviantart.com/deviantartuser3214am/art/SuzySnacktime-Release-1008207381
+- https://www.deviantart.com/deviantartuser3214am/art/Suzy-Snacktime-Blender-Release-950906216
+- https://www.deviantart.com/deviantartuser3214am/gallery/87199480/released-models
+- https://www.deviantart.com/deviantartuser3214am/art/Mr-Smiles-Release-1008209480
+- https://www.deviantart.com/deviantartuser3214am/art/Stylized-Suzy-Snacktime-Release-970045754
+- https://www.deviantart.com/deviantartuser3214am/art/Stylized-Ballora-Release-957518441
+- https://www.deviantart.com/deviantartuser3214am/art/Glamrock-Ballora-Release-957333952
+- https://www.deviantart.com/deviantartuser3214am/art/Kandy-Kangaroo-Blender-Release-957036191
+- https://www.deviantart.com/deviantartuser3214am/art/GlamRock-Circus-Baby-Blender-Release-956966091

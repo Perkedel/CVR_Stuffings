@@ -327,6 +327,10 @@ Here are the UUIDs of all these assets we uploaded to CVR:
 | `d3afa62b-3524-46b9-93fd-519dd91a63da` | I'm so sorry, I didn't mean to freeze you! | JOELwindows7 | . |
 | `12d3cc16-e202-48ad-900a-99c41d2d6130` | I'm very shy! | JOELwindows7 | . |
 | `89090a15-d3a4-4510-b55b-4299248cf743` | Lua Script Coming soon-ish | JOELwindows7 | . |
+| `caca50c3-6a82-48c2-a3dd-8932926b44a1` | Vivox broke on me | JOELwindows7 | . |
+| `f3f97796-cf65-439a-b1f6-b51d3c7950b3` | Sorry your mic broke | JOELwindows7 | . |
+| `19687a1c-c451-40d1-9031-ab714de3a96e` | Have you tried leave and join | JOELwindows7 | . |
+| `effa41a5-6a46-4119-a21b-8f40369fa8e8` | No it doesn't work | JOELwindows7 | . |
 | `2d106677-d4d3-4671-b960-fa0c6dda30a1` | A Failed Car | JOELwindows7 | **RCC is not $0!!!** How do we supposed to car?! |
 | `3f562c88-e8d6-4b39-827c-a910588bc4e6` | DynBonen | JOELwindows7 | . |
 | `ddb5a8b0-758e-4469-a181-5c5e959bab07` | Le Among Us | JOELwindows7 | hfcRed's among us follower demo |
@@ -334,7 +338,9 @@ Here are the UUIDs of all these assets we uploaded to CVR:
 | `597e172e-2ca1-426f-9b84-a5e701b3478c` | ChilloutVR Crashed | JOELwindows7 | IMPOSSIBLE!! |
 | `17ec4133-0c63-44a7-8032-a218a91f9720` | Valentine Chocolate Box | JOELwindows7 | With each chocolate edible |
 | `cced1e10-7db5-44c9-a180-6cc99267f2cd` | Just a Hula Hoop | JOELwindows7 | Hula Hoop with complex colliders configurations working around Unity's limitation |
+| `7a75148c-cdbf-4585-a44a-c28904958ef8` | Hockey Puck | JOELwindows7 | The puck |
 | `382db2db-2101-4308-9a8a-5bcb263880a7` | Reflection Probe Helm Spawner | JOELwindows7 | **Experimental** |
+| `48c2addd-f480-4146-af62-0a2ee047f157` | Cube Scaler | JOELwindows7 | **Experimental** |
 | `33f06030-a4a8-45f6-9409-a69913cc39e8` | Diagonal Joystick Bug Demonstration | JOELwindows7 | **Experimental** |
 | `66effc2f-41af-475d-bfd2-df37989c1600` | VoyVivika Portable Tutorial Prop | VoyVivika | (**NOT PERKEDEL**) |
 | `1dd3b77b-8982-4627-9979-4a0503b6f2b9` | Kavex's Rib | Kavex | (**NOT PERKEDEL**) ported from https://3dwarehouse.sketchup.com/model/4ee36dd6-7482-41a2-87ff-ceaefc83c4da/Rippchen with [song](https://www.youtube.com/watch?v=_1zzRLMHlDM) |
