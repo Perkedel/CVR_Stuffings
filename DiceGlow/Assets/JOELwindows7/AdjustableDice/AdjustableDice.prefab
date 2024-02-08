@@ -146,6 +146,7 @@ GameObject:
   - component: {fileID: 5448764355711417487}
   - component: {fileID: 2418481929927299431}
   - component: {fileID: 7968401344088249271}
+  - component: {fileID: 7292529134393174631}
   m_Layer: 0
   m_Name: AdjustableDice
   m_TagString: Untagged
@@ -187,8 +188,26 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   spawnHeight: 0
-  useAdditionalValues: 0
-  syncValues: []
+  useAdditionalValues: 1
+  syncValues:
+  - name: MatSelecto
+    startValue: 0
+    updatedBy: 25
+    updateMethod: 1
+    animator: {fileID: 7968401344088249271}
+    animatorParameterName: FloatMatSelecto
+  - name: SizeSelecto
+    startValue: 3
+    updatedBy: 25
+    updateMethod: 1
+    animator: {fileID: 7968401344088249271}
+    animatorParameterName: FloatSizeSelecto
+  - name: SettingMenuOpen
+    startValue: 0
+    updatedBy: 25
+    updateMethod: 1
+    animator: {fileID: 7968401344088249271}
+    animatorParameterName: FloatSettingOpen
   propPrivacy: 1
   subSyncs: []
   spawnableType: 0
@@ -229,6 +248,29 @@ Animator:
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorStateOnDisable: 0
   m_WriteDefaultValuesOnDisable: 0
+--- !u!114 &7292529134393174631
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2524873950334787822}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 943b2a67b8ad4877b53caadebe4d8d00, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  referenceType: 2
+  entries:
+  - type: 0
+    targetType: 0
+    applicationType: 0
+    staticValue: 0
+    target: {fileID: 0}
+    parameterName: 
+  onlyUpdateWhenHeld: 0
+  onlyUpdateWhenAttached: 0
+  onlyUpdateWhenControlled: 0
 --- !u!1 &3674297391711120774
 GameObject:
   m_ObjectHideFlags: 0
@@ -695,11 +737,11 @@ MonoBehaviour:
   actions:
   - delay: 0
     operations:
-    - type: 1
+    - type: 22
       targets:
       - {fileID: 1510881697840011881}
       - {fileID: 5186481772363255128}
-      floatVal: 0
+      floatVal: 1
       stringVal: 
       stringVal2: 
       stringVal3: 
@@ -707,7 +749,7 @@ MonoBehaviour:
       boolVal: 0
       boolVal2: 0
       gameObjectVal: {fileID: 0}
-      floatVal2: 0
+      floatVal2: 2
       floatVal3: 0
       floatVal4: 0
       varBufferVal: {fileID: 0}
@@ -794,6 +836,10 @@ PrefabInstance:
     - target: {fileID: 146387472882326987, guid: ce4897654b063344aa738331dccb3edb, type: 3}
       propertyPath: m_IsActive
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 169894104931905632, guid: ce4897654b063344aa738331dccb3edb, type: 3}
+      propertyPath: actions.Array.data[0].operations.Array.data[0].type
+      value: 22
       objectReference: {fileID: 0}
     - target: {fileID: 169894104931905632, guid: ce4897654b063344aa738331dccb3edb, type: 3}
       propertyPath: actions.Array.data[0].operations.Array.data[0].stringVal
@@ -928,8 +974,24 @@ PrefabInstance:
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 2684712240450529442, guid: ce4897654b063344aa738331dccb3edb, type: 3}
+      propertyPath: actions.Array.data[0].operations.Array.size
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 2684712240450529442, guid: ce4897654b063344aa738331dccb3edb, type: 3}
+      propertyPath: actions.Array.data[0].operations.Array.data[1].type
+      value: 22
+      objectReference: {fileID: 0}
+    - target: {fileID: 2684712240450529442, guid: ce4897654b063344aa738331dccb3edb, type: 3}
+      propertyPath: actions.Array.data[0].operations.Array.data[1].floatVal2
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 2684712240450529442, guid: ce4897654b063344aa738331dccb3edb, type: 3}
       propertyPath: actions.Array.data[0].operations.Array.data[0].targets.Array.size
       value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 2684712240450529442, guid: ce4897654b063344aa738331dccb3edb, type: 3}
+      propertyPath: actions.Array.data[0].operations.Array.data[1].targets.Array.size
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 2684712240450529442, guid: ce4897654b063344aa738331dccb3edb, type: 3}
       propertyPath: actions.Array.data[0].operations.Array.data[0].targets.Array.data[1]
@@ -940,6 +1002,18 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 54766815079443664}
     - target: {fileID: 2825626046195698927, guid: ce4897654b063344aa738331dccb3edb, type: 3}
+      propertyPath: actions.Array.data[0].operations.Array.data[0].type
+      value: 22
+      objectReference: {fileID: 0}
+    - target: {fileID: 2825626046195698927, guid: ce4897654b063344aa738331dccb3edb, type: 3}
+      propertyPath: actions.Array.data[0].operations.Array.data[0].floatVal
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2825626046195698927, guid: ce4897654b063344aa738331dccb3edb, type: 3}
+      propertyPath: actions.Array.data[0].operations.Array.data[0].floatVal2
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2825626046195698927, guid: ce4897654b063344aa738331dccb3edb, type: 3}
       propertyPath: actions.Array.data[0].operations.Array.data[0].stringVal
       value: Size5
       objectReference: {fileID: 0}
@@ -948,8 +1022,24 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 2524873950334787822}
     - target: {fileID: 3738766431770758316, guid: ce4897654b063344aa738331dccb3edb, type: 3}
+      propertyPath: actions.Array.data[0].operations.Array.size
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 3738766431770758316, guid: ce4897654b063344aa738331dccb3edb, type: 3}
+      propertyPath: actions.Array.data[0].operations.Array.data[1].type
+      value: 22
+      objectReference: {fileID: 0}
+    - target: {fileID: 3738766431770758316, guid: ce4897654b063344aa738331dccb3edb, type: 3}
+      propertyPath: actions.Array.data[0].operations.Array.data[1].floatVal2
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 3738766431770758316, guid: ce4897654b063344aa738331dccb3edb, type: 3}
       propertyPath: actions.Array.data[0].operations.Array.data[0].targets.Array.size
       value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 3738766431770758316, guid: ce4897654b063344aa738331dccb3edb, type: 3}
+      propertyPath: actions.Array.data[0].operations.Array.data[1].targets.Array.size
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 3738766431770758316, guid: ce4897654b063344aa738331dccb3edb, type: 3}
       propertyPath: actions.Array.data[0].operations.Array.data[0].targets.Array.data[1]
@@ -976,6 +1066,18 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 469483206777165252}
     - target: {fileID: 3944046625711654405, guid: ce4897654b063344aa738331dccb3edb, type: 3}
+      propertyPath: actions.Array.data[0].operations.Array.data[0].type
+      value: 22
+      objectReference: {fileID: 0}
+    - target: {fileID: 3944046625711654405, guid: ce4897654b063344aa738331dccb3edb, type: 3}
+      propertyPath: actions.Array.data[0].operations.Array.data[0].floatVal
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 3944046625711654405, guid: ce4897654b063344aa738331dccb3edb, type: 3}
+      propertyPath: actions.Array.data[0].operations.Array.data[0].floatVal2
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3944046625711654405, guid: ce4897654b063344aa738331dccb3edb, type: 3}
       propertyPath: actions.Array.data[0].operations.Array.data[0].stringVal
       value: Size25
       objectReference: {fileID: 0}
@@ -983,6 +1085,14 @@ PrefabInstance:
       propertyPath: actions.Array.data[0].operations.Array.data[0].targets.Array.data[0]
       value: 
       objectReference: {fileID: 2524873950334787822}
+    - target: {fileID: 4662149227733683587, guid: ce4897654b063344aa738331dccb3edb, type: 3}
+      propertyPath: actions.Array.data[0].operations.Array.data[0].type
+      value: 22
+      objectReference: {fileID: 0}
+    - target: {fileID: 4662149227733683587, guid: ce4897654b063344aa738331dccb3edb, type: 3}
+      propertyPath: actions.Array.data[0].operations.Array.data[0].floatVal
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 4662149227733683587, guid: ce4897654b063344aa738331dccb3edb, type: 3}
       propertyPath: actions.Array.data[0].operations.Array.data[0].stringVal
       value: MatTransparentGlow
@@ -992,6 +1102,14 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 2524873950334787822}
     - target: {fileID: 5036389668748093832, guid: ce4897654b063344aa738331dccb3edb, type: 3}
+      propertyPath: actions.Array.data[0].operations.Array.data[0].type
+      value: 22
+      objectReference: {fileID: 0}
+    - target: {fileID: 5036389668748093832, guid: ce4897654b063344aa738331dccb3edb, type: 3}
+      propertyPath: actions.Array.data[0].operations.Array.data[0].floatVal
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 5036389668748093832, guid: ce4897654b063344aa738331dccb3edb, type: 3}
       propertyPath: actions.Array.data[0].operations.Array.data[0].stringVal
       value: MatTransparentAL
       objectReference: {fileID: 0}
@@ -999,6 +1117,14 @@ PrefabInstance:
       propertyPath: actions.Array.data[0].operations.Array.data[0].targets.Array.data[0]
       value: 
       objectReference: {fileID: 2524873950334787822}
+    - target: {fileID: 5161677010585086611, guid: ce4897654b063344aa738331dccb3edb, type: 3}
+      propertyPath: actions.Array.data[0].operations.Array.data[0].type
+      value: 22
+      objectReference: {fileID: 0}
+    - target: {fileID: 5161677010585086611, guid: ce4897654b063344aa738331dccb3edb, type: 3}
+      propertyPath: actions.Array.data[0].operations.Array.data[0].floatVal
+      value: 3
+      objectReference: {fileID: 0}
     - target: {fileID: 5161677010585086611, guid: ce4897654b063344aa738331dccb3edb, type: 3}
       propertyPath: actions.Array.data[0].operations.Array.data[0].stringVal
       value: MatCreamGlow
@@ -1108,6 +1234,18 @@ PrefabInstance:
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 5953692569143022062, guid: ce4897654b063344aa738331dccb3edb, type: 3}
+      propertyPath: actions.Array.data[0].operations.Array.data[0].type
+      value: 22
+      objectReference: {fileID: 0}
+    - target: {fileID: 5953692569143022062, guid: ce4897654b063344aa738331dccb3edb, type: 3}
+      propertyPath: actions.Array.data[0].operations.Array.data[0].floatVal
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 5953692569143022062, guid: ce4897654b063344aa738331dccb3edb, type: 3}
+      propertyPath: actions.Array.data[0].operations.Array.data[0].floatVal2
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5953692569143022062, guid: ce4897654b063344aa738331dccb3edb, type: 3}
       propertyPath: actions.Array.data[0].operations.Array.data[0].stringVal
       value: Size50
       objectReference: {fileID: 0}
@@ -1132,6 +1270,18 @@ PrefabInstance:
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 6240355837556842168, guid: ce4897654b063344aa738331dccb3edb, type: 3}
+      propertyPath: actions.Array.data[0].operations.Array.data[0].type
+      value: 22
+      objectReference: {fileID: 0}
+    - target: {fileID: 6240355837556842168, guid: ce4897654b063344aa738331dccb3edb, type: 3}
+      propertyPath: actions.Array.data[0].operations.Array.data[0].floatVal
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 6240355837556842168, guid: ce4897654b063344aa738331dccb3edb, type: 3}
+      propertyPath: actions.Array.data[0].operations.Array.data[0].floatVal2
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6240355837556842168, guid: ce4897654b063344aa738331dccb3edb, type: 3}
       propertyPath: actions.Array.data[0].operations.Array.data[0].stringVal
       value: Size100
       objectReference: {fileID: 0}
@@ -1140,6 +1290,14 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 2524873950334787822}
     - target: {fileID: 6764444180446613108, guid: ce4897654b063344aa738331dccb3edb, type: 3}
+      propertyPath: actions.Array.data[0].operations.Array.data[0].type
+      value: 22
+      objectReference: {fileID: 0}
+    - target: {fileID: 6764444180446613108, guid: ce4897654b063344aa738331dccb3edb, type: 3}
+      propertyPath: actions.Array.data[0].operations.Array.data[0].floatVal
+      value: 5
+      objectReference: {fileID: 0}
+    - target: {fileID: 6764444180446613108, guid: ce4897654b063344aa738331dccb3edb, type: 3}
       propertyPath: actions.Array.data[0].operations.Array.data[0].stringVal
       value: MatCreamAL
       objectReference: {fileID: 0}
@@ -1147,6 +1305,14 @@ PrefabInstance:
       propertyPath: actions.Array.data[0].operations.Array.data[0].targets.Array.data[0]
       value: 
       objectReference: {fileID: 2524873950334787822}
+    - target: {fileID: 8394888012412858300, guid: ce4897654b063344aa738331dccb3edb, type: 3}
+      propertyPath: actions.Array.data[0].operations.Array.data[0].type
+      value: 22
+      objectReference: {fileID: 0}
+    - target: {fileID: 8394888012412858300, guid: ce4897654b063344aa738331dccb3edb, type: 3}
+      propertyPath: actions.Array.data[0].operations.Array.data[0].floatVal2
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 8394888012412858300, guid: ce4897654b063344aa738331dccb3edb, type: 3}
       propertyPath: actions.Array.data[0].operations.Array.data[0].stringVal
       value: Size1
@@ -1174,6 +1340,14 @@ PrefabInstance:
     - target: {fileID: 8741114805148146944, guid: ce4897654b063344aa738331dccb3edb, type: 3}
       propertyPath: m_IsTrigger
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 9129476370270425181, guid: ce4897654b063344aa738331dccb3edb, type: 3}
+      propertyPath: actions.Array.data[0].operations.Array.data[0].type
+      value: 22
+      objectReference: {fileID: 0}
+    - target: {fileID: 9129476370270425181, guid: ce4897654b063344aa738331dccb3edb, type: 3}
+      propertyPath: actions.Array.data[0].operations.Array.data[0].floatVal
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 9129476370270425181, guid: ce4897654b063344aa738331dccb3edb, type: 3}
       propertyPath: actions.Array.data[0].operations.Array.data[0].stringVal

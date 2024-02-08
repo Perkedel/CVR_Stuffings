@@ -3980,3 +3980,11 @@ New Sauce lists
 - https://www.deviantart.com/deviantartuser3214am/art/Glamrock-Ballora-Release-957333952
 - https://www.deviantart.com/deviantartuser3214am/art/Kandy-Kangaroo-Blender-Release-957036191
 - https://www.deviantart.com/deviantartuser3214am/art/GlamRock-Circus-Baby-Blender-Release-956966091
+- https://discord.com/channels/410126604237406209/797279576459968555/1067915169579147385
+- https://discord.com/channels/410126604237406209/797279576459968555/1014402137381425213
+- https://assetstore.unity.com/packages/tools/physics/concave-collider-4596 **GONE**
+- https://docs.google.com/document/d/1-Ligv580j0qncl-03Pq_SWJhioYAbvr33DVzLX9BKY0/edit
+- https://discord.com/channels/410126604237406209/797279576459968555/1067890757026979921
+- https://discord.com/channels/410126604237406209/588350726841827358/1067453705831583835
+- https://docs.google.com/document/d/1vWB3VN98i7erA8anywUxxGoT39hrh8oHMmU6uaAnGu0/edit?usp=sharing
+- https://discord.com/channels/410126604237406209/797279576459968555/1179090007236026418
