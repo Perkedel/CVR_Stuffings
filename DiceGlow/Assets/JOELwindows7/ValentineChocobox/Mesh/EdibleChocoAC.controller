@@ -46,6 +46,8 @@ AnimatorStateMachine:
   m_AnyStateTransitions:
   - {fileID: 1037730753528602404}
   - {fileID: 3054736295835053478}
+  - {fileID: 2342327446173361763}
+  - {fileID: -7182837009941647766}
   m_EntryTransitions: []
   m_StateMachineTransitions: {}
   m_StateMachineBehaviours:
@@ -70,6 +72,34 @@ MonoBehaviour:
   EnterTasks: []
   ExitTasks: []
   localOnly: 0
+--- !u!1101 &-7182837009941647766
+AnimatorStateTransition:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: 
+  m_Conditions:
+  - m_ConditionMode: 3
+    m_ConditionEvent: FloatConsume
+    m_EventTreshold: -0.5
+  - m_ConditionMode: 4
+    m_ConditionEvent: FloatConsume
+    m_EventTreshold: 0.5
+  m_DstStateMachine: {fileID: 0}
+  m_DstState: {fileID: -9157354574591340435}
+  m_Solo: 0
+  m_Mute: 0
+  m_IsExit: 0
+  serializedVersion: 3
+  m_TransitionDuration: 0
+  m_TransitionOffset: 0
+  m_ExitTime: 0
+  m_HasExitTime: 0
+  m_HasFixedDuration: 1
+  m_InterruptionSource: 0
+  m_OrderedInterruption: 1
+  m_CanTransitionToSelf: 1
 --- !u!91 &9100000
 AnimatorController:
   m_ObjectHideFlags: 0
@@ -150,6 +180,34 @@ MonoBehaviour:
   EnterTasks: []
   ExitTasks: []
   localOnly: 0
+--- !u!1101 &2342327446173361763
+AnimatorStateTransition:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: 
+  m_Conditions:
+  - m_ConditionMode: 3
+    m_ConditionEvent: FloatConsume
+    m_EventTreshold: 0.5
+  - m_ConditionMode: 4
+    m_ConditionEvent: FloatConsume
+    m_EventTreshold: 1.5
+  m_DstStateMachine: {fileID: 0}
+  m_DstState: {fileID: 5351468762018521259}
+  m_Solo: 0
+  m_Mute: 0
+  m_IsExit: 0
+  serializedVersion: 3
+  m_TransitionDuration: 0
+  m_TransitionOffset: 0
+  m_ExitTime: 0
+  m_HasExitTime: 0
+  m_HasFixedDuration: 1
+  m_InterruptionSource: 0
+  m_OrderedInterruption: 1
+  m_CanTransitionToSelf: 1
 --- !u!1101 &3054736295835053478
 AnimatorStateTransition:
   m_ObjectHideFlags: 1

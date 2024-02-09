@@ -18,6 +18,8 @@ GameObject:
   - component: {fileID: 4912448777645814548}
   - component: {fileID: 3175485915878707026}
   - component: {fileID: 7418168509173916912}
+  - component: {fileID: 334545295230175778}
+  - component: {fileID: 5495324660217882874}
   m_Layer: 0
   m_Name: EdibleChoco
   m_TagString: Untagged
@@ -77,10 +79,10 @@ MonoBehaviour:
   actions:
   - delay: 0
     operations:
-    - type: 18
+    - type: 22
       targets:
       - {fileID: 778364480446024538}
-      floatVal: 0
+      floatVal: 1
       stringVal: ConsumeChoco
       stringVal2: 
       stringVal3: 
@@ -98,6 +100,30 @@ MonoBehaviour:
       customEvent:
         m_PersistentCalls:
           m_Calls: []
+    actionType: 3
+    execType: 1
+    layerMask:
+      serializedVersion: 2
+      m_Bits: 0
+    floatVal: 10
+    floatVal2: 0
+    floatVal3: 0
+    boolVal: 0
+    varBufferVal: {fileID: 0}
+    varBufferVal2: {fileID: 0}
+    stringVal: 
+    allowedPointer: []
+    allowedPointerCollapse: 0
+    allowedTypes: []
+    allowedTypesCollapse: 0
+    specificParticleSystems: []
+    specificParticleSystemsCollapse: 0
+    interactionFilter: 0
+    interactionInput: 48
+    interactionInputModifier: 0
+    guid: 
+  - delay: 0
+    operations:
     - type: 21
       targets:
       - {fileID: 0}
@@ -131,12 +157,12 @@ MonoBehaviour:
               m_StringArgument: 
               m_BoolArgument: 0
             m_CallState: 2
-    actionType: 3
+    actionType: 18
     execType: 1
     layerMask:
       serializedVersion: 2
       m_Bits: 0
-    floatVal: 10
+    floatVal: 0
     floatVal2: 0
     floatVal3: 0
     boolVal: 0
@@ -5102,6 +5128,46 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   syncOwner: 
   guid: 
+--- !u!114 &334545295230175778
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 778364480446024538}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a37fd8d654d5c2840a0ab3a5ad65a5ae, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  spawnHeight: 0
+  useAdditionalValues: 1
+  syncValues:
+  - name: Consuming
+    startValue: 0
+    updatedBy: 25
+    updateMethod: 1
+    animator: {fileID: 2682988115886697336}
+    animatorParameterName: FloatConsume
+  propPrivacy: 1
+  subSyncs: []
+  spawnableType: 0
+  preGeneratedInstanceId: 
+--- !u!114 &5495324660217882874
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 778364480446024538}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 990f6f4efb7f4ec98ad99f6dff1bc6f6, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  type: 3
+  objectId: 
+  randomNum: 
 --- !u!1 &2686313765627757540
 GameObject:
   m_ObjectHideFlags: 0
