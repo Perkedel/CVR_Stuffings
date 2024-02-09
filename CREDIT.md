@@ -3991,3 +3991,6 @@ New Sauce lists
 - https://discord.com/channels/410126604237406209/797279576459968555/1116628650176020520
 - https://discord.com/channels/410126604237406209/797279576459968555/1116813889611505737
 - https://discord.com/channels/410126604237406209/797279576459968555/1116814455746080899 Racush. use custom trigger. from animation, trigger event, and then catch it to here this prop that will launch other method.
+- https://3d.nicovideo.jp/works/td85893 Bocchi pls
+- https://sp.seiga.nicovideo.jp/seiga/#!/im3206150 chair
+- https://discord.com/channels/410126604237406209/797279576459968555/1205566494076047410
