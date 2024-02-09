@@ -3988,3 +3988,6 @@ New Sauce lists
 - https://discord.com/channels/410126604237406209/588350726841827358/1067453705831583835
 - https://docs.google.com/document/d/1vWB3VN98i7erA8anywUxxGoT39hrh8oHMmU6uaAnGu0/edit?usp=sharing
 - https://discord.com/channels/410126604237406209/797279576459968555/1179090007236026418
+- https://discord.com/channels/410126604237406209/797279576459968555/1116628650176020520
+- https://discord.com/channels/410126604237406209/797279576459968555/1116813889611505737
+- https://discord.com/channels/410126604237406209/797279576459968555/1116814455746080899 Racush. use custom trigger. from animation, trigger event, and then catch it to here this prop that will launch other method.
