@@ -339,7 +339,7 @@ Here are the UUIDs of all these assets we uploaded to CVR:
 | `17ec4133-0c63-44a7-8032-a218a91f9720` | Valentine Chocolate Box | JOELwindows7 | With each chocolate edible |
 | `cced1e10-7db5-44c9-a180-6cc99267f2cd` | Just a Hula Hoop | JOELwindows7 | Hula Hoop with complex colliders configurations working around Unity's limitation |
 | `7a75148c-cdbf-4585-a44a-c28904958ef8` | Hockey Puck | JOELwindows7 | The puck |
-| `7031611a-930e-4280-be69-a1e87ece36d8` | Botol Spin | JOELwindows7 | Bottle Spinner |
+| `75eb9b0f-474a-444d-a2d9-77946b994f13` | Botol Spin | JOELwindows7 | Bottle Spinner |
 | `382db2db-2101-4308-9a8a-5bcb263880a7` | Reflection Probe Helm Spawner | JOELwindows7 | **Experimental** |
 | `48c2addd-f480-4146-af62-0a2ee047f157` | Cube Scaler | JOELwindows7 | **Experimental** |
 | `33f06030-a4a8-45f6-9409-a69913cc39e8` | Diagonal Joystick Bug Demonstration | JOELwindows7 | **Experimental** |
