@@ -3994,3 +3994,9 @@ New Sauce lists
 - https://3d.nicovideo.jp/works/td85893 Bocchi pls
 - https://sp.seiga.nicovideo.jp/seiga/#!/im3206150 chair
 - https://discord.com/channels/410126604237406209/797279576459968555/1205566494076047410
+- https://lucasroedel.gumroad.com/l/psx_snapping
+- https://forum.unity.com/threads/free-open-source-shell-based-fur-shader-for-urp.1295112/
+- https://github.com/jiaozi158/ShellFurURP
+- https://github.com/hecomi/UnityFurURP
+- https://warrenwolfy.gumroad.com/l/atntv
+- https://github.com/Sorumi/UnityFurShader
