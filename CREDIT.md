@@ -4000,3 +4000,18 @@ New Sauce lists
 - https://github.com/hecomi/UnityFurURP
 - https://warrenwolfy.gumroad.com/l/atntv
 - https://github.com/Sorumi/UnityFurShader
+- https://bom39.gumroad.com
+- https://discord.com/channels/410126604237406209/588350726841827358/1162243310077882450
+- VoyVivika's club world got these!
+- https://skfb.ly/osxsY
+- AmbientCG textures
+- https://github.com/Nirv-git/CVRPlayersOnlyMirror
+- https://booth.pm/en/items/4494082
+- https://skfb.ly/oGyFo **GONE** Cartoon Balloon
+- https://skfb.ly/6tLIx
+- https://skfb.ly/6DCRI
+- OK
+- https://skfb.ly/oGYFo **PAID**. wrong file!
+- https://assetstore.unity.com/packages/vfx/shaders/parallax-shader-76273 **PAID**
+- https://gist.github.com/enghqii/f9c62749e9589cc28925125e6aff9676
+- https://gist.github.com/Saduras/f0464266a2d217e3ee31649fce635a03
