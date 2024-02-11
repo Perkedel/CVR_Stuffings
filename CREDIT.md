@@ -4015,3 +4015,36 @@ New Sauce lists
 - https://assetstore.unity.com/packages/vfx/shaders/parallax-shader-76273 **PAID**
 - https://gist.github.com/enghqii/f9c62749e9589cc28925125e6aff9676
 - https://gist.github.com/Saduras/f0464266a2d217e3ee31649fce635a03
+- https://valuef.gumroad.com/l/goo **PAID**
+- https://assetstore.unity.com/packages/vfx/easy-slime-243835 **PAID**
+- https://github.com/blewert/funky-unity-shaders
+- https://www.renderosity.com/forums/threads/2864993
+- https://www.reddit.com/r/Unity3D/comments/9j3kqc/slime_shader_in_unity/
+- https://www.shadertoy.com/view/4tVyWt
+- https://www.shadertoy.com/view/lllBDM
+- https://github.com/smkplus/ShaderMan
+- https://youtube.com/shorts/Jh8ezn2Lxyw?si=efAu7msppMxrBke5 blender model beaker
+- https://renderawoo.gumroad.com/l/renpen
+- https://discord.com/channels/410126604237406209/588350770777161748/1012922926653259866
+- https://renderawoo.gumroad.com/l/wyren **PAID**
+- https://discord.com/channels/410126604237406209/588350770777161748/1009197015370055831
+- https://discord.com/channels/410126604237406209/588350770777161748/1138936140636893345
+- https://discord.com/channels/410126604237406209/797279576459968555/1011760378646118461
+- https://discord.com/channels/410126604237406209/1004342104383815681/1009160385900855346
+- https://discord.com/channels/410126604237406209/797279576459968555/912897308297920552
+- https://discord.com/channels/410126604237406209/797279576459968555/912491615979986944
+- https://discord.com/channels/410126604237406209/797279576459968555/1111675628769525793
+- https://discord.com/channels/410126604237406209/797279576459968555/1111678536105869382
+- https://discord.com/channels/410126604237406209/797279576459968555/1111679294612185128
+- https://discord.com/channels/410126604237406209/797279576459968555/1112024276585939069
+- https://discord.com/channels/410126604237406209/797279576459968555/1111674531774484500
+- https://discord.com/channels/410126604237406209/797279576459968555/1110936417716150384
+- https://discord.com/channels/410126604237406209/588350726841827358/1094791541446418532
+- blend tree???
+- MrTactical excercise
+- one knee kneel, stretch the other, and body pulls
+- neck go down, chin to chest pin it, and swing stretch left right.
+- eye close, move eye maximum rotate, then relax
+- OK
+- https://emperorofmars.itch.io
+- Communism vs. Capitalism film?!??!?!?!?!??!
