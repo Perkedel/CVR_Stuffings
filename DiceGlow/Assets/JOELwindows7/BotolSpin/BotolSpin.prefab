@@ -62,7 +62,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: b4a85a91fdeee034c8084f9a8846244e, type: 2}
+  - {fileID: 2100000, guid: a2bc3e38730676b43bee4f3b2b7ed086, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -97,6 +97,232 @@ BoxCollider:
   serializedVersion: 2
   m_Size: {x: 1, y: 1, z: 1}
   m_Center: {x: 0, y: 0, z: 0}
+--- !u!1 &1644001805835971891
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 500556241906261866}
+  - component: {fileID: 8068512932114938042}
+  - component: {fileID: 4941790347112269268}
+  - component: {fileID: 8477143736377390518}
+  - component: {fileID: 8123496657887366039}
+  m_Layer: 0
+  m_Name: PanikButton
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &500556241906261866
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1644001805835971891}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -0.4, y: 0.1, z: -0.5}
+  m_LocalScale: {x: 0.1, y: 0.1, z: 0.1}
+  m_ConstrainProportionsScale: 1
+  m_Children: []
+  m_Father: {fileID: 6874693186820471}
+  m_RootOrder: 3
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!33 &8068512932114938042
+MeshFilter:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1644001805835971891}
+  m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
+--- !u!23 &4941790347112269268
+MeshRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1644001805835971891}
+  m_Enabled: 1
+  m_CastShadows: 1
+  m_ReceiveShadows: 1
+  m_DynamicOccludee: 1
+  m_StaticShadowCaster: 0
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 2
+  m_RayTraceProcedural: 0
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 2100000, guid: f8ddff374462f0444bc8462b10b2df7d, type: 2}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 1
+  m_SelectedEditorRenderState: 3
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+  m_AdditionalVertexStreams: {fileID: 0}
+--- !u!65 &8477143736377390518
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1644001805835971891}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 1, y: 1, z: 1}
+  m_Center: {x: 0, y: 0, z: 0}
+--- !u!114 &8123496657887366039
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1644001805835971891}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a45fb99111d54dba84a8ff33016b93fd, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  tooltip: 
+  actions:
+  - delay: 0
+    operations:
+    - type: 22
+      targets:
+      - {fileID: 3861434583427681927}
+      floatVal: 0
+      stringVal: FloatLoopRemains
+      stringVal2: 
+      stringVal3: 
+      stringVal4: 
+      boolVal: 0
+      boolVal2: 0
+      gameObjectVal: {fileID: 0}
+      floatVal2: 0
+      floatVal3: 0
+      floatVal4: 0
+      varBufferVal: {fileID: 0}
+      varBufferVal2: {fileID: 0}
+      varBufferVal3: {fileID: 0}
+      animationVal: {fileID: 0}
+      customEvent:
+        m_PersistentCalls:
+          m_Calls: []
+    - type: 22
+      targets:
+      - {fileID: 3861434583427681927}
+      floatVal: 1
+      stringVal: FloatEndsTo
+      stringVal2: 
+      stringVal3: 
+      stringVal4: 
+      boolVal: 0
+      boolVal2: 0
+      gameObjectVal: {fileID: 0}
+      floatVal2: 1
+      floatVal3: 0
+      floatVal4: 0
+      varBufferVal: {fileID: 0}
+      varBufferVal2: {fileID: 0}
+      varBufferVal3: {fileID: 0}
+      animationVal: {fileID: 0}
+      customEvent:
+        m_PersistentCalls:
+          m_Calls: []
+    - type: 22
+      targets:
+      - {fileID: 3861434583427681927}
+      floatVal: 0
+      stringVal: FloatGoSpinIt
+      stringVal2: 
+      stringVal3: 
+      stringVal4: 
+      boolVal: 0
+      boolVal2: 0
+      gameObjectVal: {fileID: 0}
+      floatVal2: 2
+      floatVal3: 0
+      floatVal4: 0
+      varBufferVal: {fileID: 0}
+      varBufferVal2: {fileID: 0}
+      varBufferVal3: {fileID: 0}
+      animationVal: {fileID: 0}
+      customEvent:
+        m_PersistentCalls:
+          m_Calls: []
+    - type: 3
+      targets:
+      - {fileID: 3861434583427681927}
+      floatVal: 1
+      stringVal: FloatFibrilation
+      stringVal2: 
+      stringVal3: 
+      stringVal4: 
+      boolVal: 0
+      boolVal2: 0
+      gameObjectVal: {fileID: 0}
+      floatVal2: 0
+      floatVal3: 0
+      floatVal4: 0
+      varBufferVal: {fileID: 0}
+      varBufferVal2: {fileID: 0}
+      varBufferVal3: {fileID: 0}
+      animationVal: {fileID: 0}
+      customEvent:
+        m_PersistentCalls:
+          m_Calls: []
+    actionType: 3
+    execType: 1
+    layerMask:
+      serializedVersion: 2
+      m_Bits: 0
+    floatVal: 10
+    floatVal2: 0
+    floatVal3: 0
+    boolVal: 0
+    varBufferVal: {fileID: 0}
+    varBufferVal2: {fileID: 0}
+    stringVal: 
+    allowedPointer: []
+    allowedPointerCollapse: 0
+    allowedTypes: []
+    allowedTypesCollapse: 0
+    specificParticleSystems: []
+    specificParticleSystemsCollapse: 0
+    interactionFilter: 0
+    interactionInput: 48
+    interactionInputModifier: 0
+    guid: 
+  onEnterSeat:
+    m_PersistentCalls:
+      m_Calls: []
+  onExitSeat:
+    m_PersistentCalls:
+      m_Calls: []
 --- !u!1 &2160447531895093445
 GameObject:
   m_ObjectHideFlags: 0
@@ -317,7 +543,7 @@ MonoBehaviour:
     layerMask:
       serializedVersion: 2
       m_Bits: 0
-    floatVal: 0
+    floatVal: 10
     floatVal2: 0
     floatVal3: 0
     boolVal: 0
@@ -352,6 +578,7 @@ GameObject:
   - component: {fileID: 6241690111249647759}
   - component: {fileID: 2690273531940039753}
   - component: {fileID: 7811471222651362129}
+  - component: {fileID: 6888154555127538780}
   m_Layer: 0
   m_Name: BotolSpin
   m_TagString: Untagged
@@ -374,6 +601,7 @@ Transform:
   - {fileID: 5517539011160407096}
   - {fileID: 5244826625914869251}
   - {fileID: 3329235962916250663}
+  - {fileID: 500556241906261866}
   m_Father: {fileID: 0}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -452,8 +680,41 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   type: 3
-  objectId: 
+  objectId: 75eb9b0f-474a-444d-a2d9-77946b994f13
   randomNum: 
+--- !u!114 &6888154555127538780
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3861434583427681927}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 85325d81a0074483a716c31506478354, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  animatorParameter01: 0
+  animatorParameter02: 0
+  animatorParameter03: 0
+  animatorParameter04: 0
+  animatorParameter05: 0
+  animatorParameter06: 0
+  animatorParameter07: 0
+  animatorParameter08: 0
+  animatorParameter09: 0
+  animatorParameter10: 0
+  animatorParameter11: 0
+  animatorParameter12: 0
+  animatorParameter13: 0
+  animatorParameter14: 0
+  animatorParameter15: 0
+  animatorParameter16: 0
+  animators:
+  - {fileID: 6241690111249647759}
+  animatorParameters:
+  - 
+  animatorParameterType: 00000000
 --- !u!1 &5079064378124535073
 GameObject:
   m_ObjectHideFlags: 0
