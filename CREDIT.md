@@ -4155,3 +4155,37 @@ New Sauce lists
 - https://vxtwitter.com/orzeeee/status/1756755534353424386?s=20
 - https://discord.com/channels/410126604237406209/1004342533964439592/1206314503378305024
 - https://discord.com/channels/410126604237406209/1004342533964439592/1206086443223617557
+- https://discord.com/channels/410126604237406209/588350685255565344/1206398851607433246
+- https://archive.org/details/Win95-audio-media
+- https://cults3d.com/en/3d-model/naughties/renamon-fan-art-nsfw **paid**
+- https://cults3d.com/en/3d-model/naughties/nala-fan-art-nsfw **paid**
+- https://cults3d.com/en/3d-model/naughties/judy-hopps-shibari-stand-frame-chitu-supports **PAID**
+- https://cults3d.com/en/users/gibly/3d-models **PAID**
+- https://kyubumlee.gumroad.com/ FREE
+- https://kyubumlee.gumroad.com/l/pNnKe?layout=profile **PAID**. Except this one. animation homerun samp;e
+- https://www.deviantart.com/moonsler/art/BonBon-and-ChuChu-BLENDER-MODEL-RELEASE-923681514 **PAID** Mime & Dash. Bon Bon & Chu CHu
+- https://www.deviantart.com/blackterio/art/Blender-Lovetaste-Toy-Chica-2-884298470
+- https://www.deviantart.com/blackterio/art/RELEASE-Jailbait-s-C-Baby-and-Ft-Foxy-by-Blazave-1008268517
+- https://www.patreon.com/posts/free-access-nsfw-95907556 I thought it's paid. NOpe, it's **FREE** but don't get excited.
+- https://www.patreon.com/collection/304945?view=expanded MOAR
+- https://www.patreon.com/collection/268239?view=expanded **PAID**
+- https://www.deviantart.com/blackterio
+- https://www.deviantart.com/blackterio/art/Blender-FNAF-RELEA-FNaF-SB-neon-signs-PRE-SB-869978003
+- https://twitter.com/Blackterio/status/1359732230248136706
+- https://www.deviantart.com/blackterio/gallery/77079834/model-releases
+- https://www.patreon.com/Blackterio
+- https://www.deviantart.com/blackterio/art/Blender-FNAF-NSFW-Circus-Mommy-is-here-for-you-1006240203
+- https://skfb.ly/oPWHo **FREE** Bon bon chu chu
+- https://sfmlab.com/project/35825/ **PORT SFM** free
+- https://www.deviantart.com/coolioart/gallery/59791682/old-models
+- https://steamcommunity.com/sharedfiles/filedetails/?id=937589235
+- https://steamcommunity.com/workshop/filedetails/?id=1083394990
+- https://steamcommunity.com/workshop/filedetails/?id=1083430377
+- https://twitter.com/Coolio_Art
+- https://www.artstation.com/coolioart
+- low poly island salim balcik
+- https:/skfb.ly/6VsKR baby bottle
+- https://skfb.ly/oAQNq
+- https://speed.booth.pm
+- https://skfb.ly/oOvUT
+- Jane.F Sketchfab????????
