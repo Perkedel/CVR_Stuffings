@@ -4048,3 +4048,110 @@ New Sauce lists
 - OK
 - https://emperorofmars.itch.io
 - Communism vs. Capitalism film?!??!?!?!?!??!
+- https://archive.org/details/Win95-audio-media/Windows+95+audio+media
+- https://github.com/GorujoCY/Youtube-Video-Summarizer
+- https://github.com/TwoTailsGames/Unity-Built-in-Shaders/blob/master/DefaultResourcesExtra/Skybox.shader
+- https://github.com/TwoTailsGames/Unity-Built-in-Shaders/
+- https://discord.com/channels/410126604237406209/766086942005526579/1199918988319281435
+- https://discord.com/channels/410126604237406209/412210535443202049/1203764354026053703
+- https://discord.com/channels/410126604237406209/588350685255565344/1198126631508783234
+- https://discord.com/channels/410126604237406209/412210535443202049/1193702801868591185
+- https://github.com/renzenicolai/openbmc-x570d4u-old
+- https://github.com/renzenicolai/openbmc-x570d4u
+- https://discord.com/channels/410126604237406209/588350726841827358/1189315424517636136
+- https://github.com/akasaki1211/AkBoneDynamics
+- https://discord.com/channels/410126604237406209/588350726841827358/1189287103981436978
+- https://github.com/naelstrof/UnityJigglePhysics
+- https://discord.com/channels/410126604237406209/588350685255565344/1188117178210332742
+- https://github.com/timvisee/send-instances/
+- https://discord.com/channels/410126604237406209/588350685255565344/1187877561863262249
+- https://github.com/knah/CVRMelonAssistant
+- https://discord.com/channels/410126604237406209/1001657345522282657/1185710526244859934
+- https://discord.com/channels/410126604237406209/689949650614091827/1183635831940984872
+- https://github.com/Genymobile/gnirehtet/
+- https://github.com/c-devhax/SQLite3-Shell
+- https://github.com/GorujoCY/SQLite3-Shell
+- https://discord.com/channels/410126604237406209/1004342104383815681/1180982739365806191
+- https://github.com/MachMX/Advanced-Laydown-System
+- https://github.com/MachMX
+- https://github.com/MachMX/CCK.BaseAnimatorPatch
+- https://github.com/NotAKidOnSteam/CCK.BaseAnimatorPatch
+- https://discord.com/channels/410126604237406209/766086942005526579/1179954506545496156
+- https://github.com/CuteWaterBeary/ShaderForge
+- https://discord.com/channels/410126604237406209/689949650614091827/1179877960598159421
+- https://github.com/GPUOpen-LibrariesAndSDKs/Radeon-ReLive-VR
+- https://discord.com/channels/410126604237406209/588350726841827358/1177360897283469333
+- https://discord.com/channels/410126604237406209/588350726841827358/1177360897283469333
+- https://github.com/imagitama/vrc3cvr
+- https://discord.com/channels/410126604237406209/588350726841827358/1174602512792289300
+- https://github.com/hai-vr/combo-gesture-expressions-av3
+- https://booth.pm/en/items/5121665
+- https://discord.com/channels/410126604237406209/689949650614091827/1165406459648032889
+- https://github.com/BunniKaitlyn/OculusKiller
+- https://discord.com/channels/410126604237406209/766086942005526579/1159132848872231032
+- https://github.com/unity3d-jp/UnityChanToonShaderVer2_Project/blob/release/legacy/2.0/Manual/UTS2_Manual_en.md
+- https://discord.com/channels/410126604237406209/766086942005526579/1154157790366023811
+- a
+- a
+- https://github.com/AkaiMage/VRC-Cancerspace/commit/7ae023518cbbaacaa3de879259548b2bdcf53bba
+- https://github.com/AkaiMage/VRC-Cancerspace
+- https://discord.com/channels/410126604237406209/412210535443202049/1152610992044392589
+- https://discord.com/channels/410126604237406209/412210535443202049/1152301124104224839
+- https://discord.com/channels/410126604237406209/696083224648220762/1148429137690755182
+- https://github.com/benaclejames/VRCFaceTracking
+- https://discord.com/channels/410126604237406209/689949650614091827/1146910894262067270
+- https://discord.com/channels/410126604237406209/689949650614091827/1146910894262067270
+- https://github.com/intel/media-driver#decodingencoding-features
+- https://discord.com/channels/410126604237406209/588350726841827358/1143686110007021669
+- https://discord.com/channels/410126604237406209/696083224648220762/1140030596136063066
+- https://gist.github.com/fang64/d8072ac3db89aadada5d64c59968bcb1
+- https://discord.com/channels/410126604237406209/588350726841827358/1138427475941134346
+- https://github.com/CMoyuer/VRChatAvatarSDK3Container
+- https://discord.com/channels/410126604237406209/689949650614091827/1135961956516364308
+- https://github.com/HoloISO/holoiso/releases?q=3.3&expanded=true
+- https://discord.com/channels/410126604237406209/689949650614091827/1135211875089526794
+- OBS https://obsproject.com/
+- Voicemeeter https://vb-audio.com/Voicemeeter/
+- Steam https://store.steampowered.com/
+- SingalRGB https://signalrgb.com/
+- Fan Control https://github.com/Rem0o/FanControl.Releases
+- https://discord.com/channels/410126604237406209/689949650614091827/1131697605794091050
+- https://github.com/fholger/openvr_foveated
+- https://discord.com/channels/410126604237406209/766086942005526579/1123303801152086056
+- https://github.com/dsoft20/psx_retroshader
+- https://discord.com/channels/410126604237406209/795882566968279091/1122322147096936478
+- https://github.com/Yersi88/WMR-and-Vive-Tracker
+- https://github.com/rrazgriz/RATS
+- https://discord.com/channels/410126604237406209/588350726841827358/1120862331761594438
+- https://github.com/rrazgriz/harmony-vpm
+- https://discord.com/channels/410126604237406209/588350770777161748/1119856707733028885
+- https://github.com/DomNomNomVR/cvr-audio-link
+- https://discord.com/channels/410126604237406209/588350726841827358/1118624447155404840
+- https://github.com/maxartz15/MA_TextureAtlasser
+- https://discord.com/channels/410126604237406209/588350726841827358/1100538447598473246
+- https://github.com/OneYoungMean/Automatic-DynamicBone/wiki/Automatic-Dynamic-Bone-Tutorial
+- https://github.com/OneYoungMean/Automatic-DynamicBone
+- https://youtube.com/shorts/Om5-17CxpjE?si=rat9UD4fRzxisqOj BlenderArt, model a condenser mic
+- ucupaint!!!
+- https://youtu.be/oW7zKbylReI?si=NUUisOtQ_vyfVRCd
+- https://github.com/ucupumar/ucupaint/releases
+- https://krita.org/en/download/krita-desktop/
+- a
+- a
+- cvr now
+- https://youtu.be/FfUn7UUvqQU?si=FcrHA-BT_rKe7vhf
+- https://levimagony.gumroad.com/
+- https://www.blenderkit.com/
+- https://assetstore.unity.com/packages/tools/game-toolkits/easy-mesh-combiner-mt-scene-mesh-merge-atlasing-support-more-138805 **paid**
+- https://youtu.be/2gZPr4sQoZ0?si=TQwQY8d4IKnzPpUu
+- ok now
+- https://youtu.be/0zZkE4S06HE?si=OfyNfdqHbeoUzS4d
+- https://www.nvidia.com/en-us/omniverse/download/?ncid=ref-inpa-767415
+- https://github.com/Nirv-git/CVRPlayersOnlyMirror
+- https://github.com/Nirv-git?tab=repositories
+- https://discord.gg/dndGPM3bxu CVR Modding Group
+- https://discord.com/channels/410126604237406209/682645682968199168/1206390773482922054
+- https://discord.com/channels/410126604237406209/588350726841827358/1101851117408764014
+- https://vxtwitter.com/orzeeee/status/1756755534353424386?s=20
+- https://discord.com/channels/410126604237406209/1004342533964439592/1206314503378305024
+- https://discord.com/channels/410126604237406209/1004342533964439592/1206086443223617557

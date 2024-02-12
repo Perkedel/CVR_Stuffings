@@ -266,6 +266,7 @@ Here are the UUIDs of all these assets we uploaded to CVR:
 | `11a92064-d9d1-4f6b-91a0-845c78952659` | Pool House | JillTheSomething | (**NOT PERKEDEL**) |
 | `0b038da9-1a2a-4c25-88bb-b5047d682a8d` | SpaceHey | Root (uploaded by JillTheSomething on behalf) | (**NOT PERKEDEL**) |
 | `a15e207e-daac-4cea-a02f-13870cb14052` | Spawn Mover Demo | NovaVoidHowl | (**NOT PERKEDEL**) |
+| `c237df59-1df1-4e12-9e41-92608b1c9d5e` | CVRPlayerOnlyMirror demo | Nirv-git | (**NOT PERKEDEL**) |
 
 ### Props
 
