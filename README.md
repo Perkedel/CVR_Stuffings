@@ -309,12 +309,12 @@ Here are the UUIDs of all these assets we uploaded to CVR:
 | `f8ca6f5f-0de2-471a-8516-4058b12f906c` | Eyea Dice Scale 5 AudioLink | JOELwindows7 | . |
 | `820a6d23-fc4d-462b-b7d6-e4d30f91a453` | Eyea Dice GIANT 1000 AudioLink | JOELwindows7 | . |
 | `28c3750e-ea72-4634-a8b9-06c098c8d9c6` | Eyea Dice micro1 1 AudioLink | JOELwindows7 | . |
-| `c7a0bd47-3ece-485f-a994-d3eddbc2b4c1` | Anjay Button | JOELwindows7 | . |
-| `8f094998-b863-4bc6-b3c9-726eb82f1e24` | Fart Reverb Button | JOELwindows7 | . |
-| `2b7ef53d-a4aa-457d-b613-6a542fb385d0` | Fart Origin Button | JOELwindows7 | . |
-| `d85d797b-2965-4622-9699-962e8bdaf88d` | WTF Boom Button | JOELwindows7 | . |
-| `4c35b951-7dc3-4adf-8dda-7bf253d24dc5` | Bin Canon duar Button | JOELwindows7 | . |
-| `a245cf37-09f3-408c-bcc9-cf35839a4fe9` | Very Loud Explosion Button | JOELwindows7 | . |
+| `c7a0bd47-3ece-485f-a994-d3eddbc2b4c1` | Anjay Button | JOELwindows7 | Powered by [Dippy's push Button](https://dippythefoxderg.gumroad.com/l/DippyPushButt) |
+| `8f094998-b863-4bc6-b3c9-726eb82f1e24` | Fart Reverb Button | JOELwindows7 | Powered by [Dippy's push Button](https://dippythefoxderg.gumroad.com/l/DippyPushButt) |
+| `2b7ef53d-a4aa-457d-b613-6a542fb385d0` | Fart Origin Button | JOELwindows7 | Powered by [Dippy's push Button](https://dippythefoxderg.gumroad.com/l/DippyPushButt) |
+| `d85d797b-2965-4622-9699-962e8bdaf88d` | WTF Boom Button | JOELwindows7 | Powered by [Dippy's push Button](https://dippythefoxderg.gumroad.com/l/DippyPushButt) |
+| `4c35b951-7dc3-4adf-8dda-7bf253d24dc5` | Bin Canon duar Button | JOELwindows7 | Powered by [Dippy's push Button](https://dippythefoxderg.gumroad.com/l/DippyPushButt) |
+| `a245cf37-09f3-408c-bcc9-cf35839a4fe9` | Very Loud Explosion Button | JOELwindows7 | Powered by [Dippy's push Button](https://dippythefoxderg.gumroad.com/l/DippyPushButt) |
 | `cdc8b5b1-43af-40fd-b7a5-af48dc8d6dde` | EmptyBall | JOELwindows7 | . |
 | `323d2618-403d-4835-9eac-5c8362a511a4` | Stupid Cartoon Heart with Sound | JOELwindows7 | . |
 | `933b41b9-075f-45a6-b2a7-4eafe0a97a03` | Stupid Cartoon Heart Particle Drop | JOELwindows7 | Same but using Particle Drop |
@@ -337,6 +337,7 @@ Here are the UUIDs of all these assets we uploaded to CVR:
 | `ddb5a8b0-758e-4469-a181-5c5e959bab07` | Le Among Us | JOELwindows7 | hfcRed's among us follower demo |
 | `6566357c-3640-4b9f-b6eb-2abab7225e4b` | Unity Crashed | JOELwindows7 | How did this happened?! |
 | `597e172e-2ca1-426f-9b84-a5e701b3478c` | ChilloutVR Crashed | JOELwindows7 | IMPOSSIBLE!! |
+| `345e2399-bacf-4ddf-ae8f-8df6e9445694` | (Image) World's Most Expensive Burger | JOELwindows7 | Post from [@HumansNoContext at X / Twitter](https://twitter.com/HumansNoContext/status/1756182462944661786) |
 | `17ec4133-0c63-44a7-8032-a218a91f9720` | Valentine Chocolate Box | JOELwindows7 | With each chocolate edible |
 | `cced1e10-7db5-44c9-a180-6cc99267f2cd` | Just a Hula Hoop | JOELwindows7 | Hula Hoop with complex colliders configurations working around Unity's limitation |
 | `7a75148c-cdbf-4585-a44a-c28904958ef8` | Hockey Puck | JOELwindows7 | The puck |
