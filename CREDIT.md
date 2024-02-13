@@ -4189,3 +4189,31 @@ New Sauce lists
 - https://speed.booth.pm
 - https://skfb.ly/oOvUT
 - Jane.F Sketchfab????????
+- https://youtu.be/Vz_GxPMActM?si=SNGVXMNEGYmAfcIK 
+- https://youtu.be/Vz_GxPMActM?si=SNGVXMNEGYmAfcIK
+- https://twitter.com/HumansNoContext/status/1756182462944661786?t=2mse0QW__30Zr7trTcA_ww&s=19 World's most expensive burger
+- https://youtu.be/7HlF2rAwlW8?si=5B8VmTcKKabkQsnR pls download red bull sample
+- https://youtu.be/DDeB4tDVCGY?si=4PTmSqpYbgBfWv1B rigging impatient
+- https://youtu.be/lgzHKw1GYZk?si=GJyM0k5p1Dkfko_2
+- https://www.deviantart.com/kefast/art/MMD-Motion-Pack-DL-911159922
+- https://youtu.be/mt66paJOkQc?si=xy-dfdtnE63zz_MB
+- https://kakaiya.gumroad.com/l/Lucky8 **paid**
+- https://youtu.be/vudH05nQMAU?si=_ySItz1oGK56zAwv pls download
+- https://www.deviantart.com/mmd-downloads-galore/gallery/39472353/models pls check
+- https://www.deviantart.com/ureshiiiiii/art/MMD-DL-20K-Motion-Pack-DL-IN-THE-DESCRIPTION-727902995
+- https://aminoapps.com/c/creepypasta-tm/page/blog/mmd-mega-model-pack-august-2018-download/MNkR_4JFku5lKBo3vmq8ZeQ63DW63rr41
+- https://www.youtube.com/watch?v=r52iIMddS68
+- https://www.deviantart.com/lostwight/art/Creepypasta-MMD-Mega-Model-Pack-2018-DL-761166498 **GONE**
+- https://www.reddit.com/r/Sizebox/comments/7h3uft/mmd_pack_please_sharedownload/
+- https://www.deviantart.com/kacbwords/art/MMD-PACK-PLEASE-SHARE-DOWNLOAD-659450684 **GONE?**
+- https://www.deviantart.com/anonimatespectre/art/MMD-50-Motions-Data-DL-Pack-371610211
+- https://mmd-downloads.deviantart.com/art/A-GOD-DAMN-RUN-WALK-AND-SKIP-MOTION-PACK-305706777?q=gallery%3Ammd-downloads%2F29583738&qo=46 **GONE**
+- https://www.deviantart.com/mmd-tda-market/gallery/58900406/Model-DL
+- https://www.youtube.com/watch?v=KTqRqywB3Y8
+- https://www.deviantart.com/masterchief2021/art/MMD-250-Subscribers-Motion-Pack-DL-633313381 **EXIST**
+- https://www.deviantart.com/kira-kira-sky/art/Aphmau-Model-Pack-DL-MMD-685834289 
+- https://discord.com/channels/410126604237406209/797279576459968555/1206874809674367016 chess
+- https://skfb.ly/oArXH
+- skybaca1985 sketchfab!
+- free bird mayor
+- https://skfb.ly/o7D99
