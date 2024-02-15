@@ -4235,3 +4235,36 @@ New Sauce lists
 - https://www.tumblr.com/i-feel-odd/742349878982819840/im-doing-some-art-for-the-new-freaks-in?source=share
 - https://theoriginalcockatrice.itch.io/my-apartment-2
 - https://theoriginalcockatrice.itch.io/
+- https://www.jagatreview.com/2024/02/plugin-ai-audacity-gratis/
+- https://github.com/intel/openvino-plugins-ai-audacity/releases
+- haox buttoneiz
+- cvr go
+- https://youtu.be/OpIu9myNjm4?si=kAsyG_SRJ5zSLUbJ
+- https://temaroots.gumroad.com/l/jerry free
+- https://temaroots.gumroad.com/l/Amanda_rig?layout=profile **paid**
+- https://temaroots.gumroad.com/?_gl=1*1dz03oj*_ga*MTIyMzE5ODc0NC4xNjEzMTQyMzMy*_ga_6LJN6D94N6*MTcwNzk1NTk3Ni4zMjUuMS4xNzA3OTU1OTkwLjAuMC4w
+- ok go
+- CVR gory
+- https://glenskunk.gumroad.com/l/realisticgoreheart **paid**
+- https://glenskunk.gumroad.com/
+- ok gory
+- copy GUID in prop page CVR pls
+- .
+- Vape prop message!
+- Remember, God gives you air for free?
+- and for you, eventually, you can cut cost by stopping it altogether 
+- Dippy button secret pls check. Just revealed when I had been in somewhere, push button partially, then lift off it instead. haodoifox
+- Bajaj Bajuri laugh?!
+- https://youtu.be/na6Aei6S08c?si=RB3SyuKeMowlGgHt
+- https://youtu.be/ObQ8Y2AEuXQ?si=t5FBccr3DktDkbMj best available
+- https://youtu.be/30rBEQUm700?si=amBWiJK0xoUS_NsJ mergeding
+- https://youtu.be/g-2bYxhYNJA?si=zyf0DqjkzaHmGDhZ
+- https://youtu.be/qazjDsGDaRE?si=EuiJa7KBBso1gmlQ
+- https://youtu.be/lyTdPcK5D8Q?si=Z4nsyjZVaNwYoCKS surprised
+- https://youtu.be/Yn8w3k1lDX8?si=pxJnodldWs0I7W50
+- https://youtu.be/dk-WG_5OoHc?si=AvbfMblq6xq46VCA
+- https://youtu.be/6iYq7J8AHaM?si=AlOSEtzaASDgJSmw
+- OK bajaj bajuri
+- https://youtube.com/shorts/4KjwM4d_bKw?si=bAyJOFmCGL32NDss laugh cindy
+- invaderIka deviantart pls
+- https://skfb.ly/oAO69
