@@ -4217,3 +4217,21 @@ New Sauce lists
 - skybaca1985 sketchfab!
 - free bird mayor
 - https://skfb.ly/o7D99
+- https://discord.com/channels/410126604237406209/797279576459968555/1207167061051314238
+- CVR movement parent asik gk sih?. Add this component to physics collider gameobject
+- monobehaviour forbidden. However, only few select are whitelisted. QR each world prop avatar here. To program, use animator or RamenLua. No lua yet
+- copy GUID in prop page CVR pls
+- .
+- Vape prop message!
+- Remember, God gives you air for free?
+- and for you, eventually, you can cut cost by stopping it altogether 
+- Dippy button secret pls check. Just revealed when I had been in somewhere, push button partially, then lift off it instead.
+- https://www.tumblr.com/a-dauntless-daffodil/742297740889014272?source=share
+- https://youtu.be/tcnFMrIYIM0?si=EEWpzL_Gh66JEcP7 hey what is up it's scarce here.
+- MyFurry Protogen
+- https://discord.com/channels/410126604237406209/588350685255565344/1206915979557474306
+- https://battlebunnymods.booth.pm
+- https://battlebunnymods.booth.pm/items/5321656
+- https://www.tumblr.com/i-feel-odd/742349878982819840/im-doing-some-art-for-the-new-freaks-in?source=share
+- https://theoriginalcockatrice.itch.io/my-apartment-2
+- https://theoriginalcockatrice.itch.io/
