@@ -4269,3 +4269,11 @@ New Sauce lists
 - invaderIka deviantart pls
 - https://skfb.ly/oAO69
 - `56784930234014` Recovery virtual prop
+- https://discord.com/channels/410126604237406209/766086942005526579/1206703665096687748
+- https://www.imdb.com/title/tt0129167/ vin diesel voices iron giant
+- https://www.imdb.com/title/tt2015381/characters/nm0004874 the groot guardian of galaxy
+- Fashionable avatar
+- pls Toastdor
+- https://wiki.chilloutvr.eu/en/community/Events
+- https://wiki.chilloutvr.eu/
+- https://wiki.chilloutvr.eu/en/avatar/magica-cloth-2

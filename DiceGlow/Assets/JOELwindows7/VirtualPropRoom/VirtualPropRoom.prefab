@@ -174,7 +174,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &6278390010561302330
 Transform:
   m_ObjectHideFlags: 0
@@ -276,11 +276,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4017329549322537773, guid: 44324b1c1e141084ab321da07f464905, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 10000
+      value: 1000
       objectReference: {fileID: 0}
     - target: {fileID: 4017329549322537773, guid: 44324b1c1e141084ab321da07f464905, type: 3}
       propertyPath: m_LocalPosition.z
-      value: 50000
+      value: 500
       objectReference: {fileID: 0}
     - target: {fileID: 4017329549322537773, guid: 44324b1c1e141084ab321da07f464905, type: 3}
       propertyPath: m_LocalRotation.w
@@ -323,6 +323,11 @@ PrefabInstance:
 --- !u!4 &2334414612358854476 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 4017329549322537773, guid: 44324b1c1e141084ab321da07f464905, type: 3}
+  m_PrefabInstance: {fileID: 1704025631088295009}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &4237601538693029701 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 3272734214581117732, guid: 44324b1c1e141084ab321da07f464905, type: 3}
   m_PrefabInstance: {fileID: 1704025631088295009}
   m_PrefabAsset: {fileID: 0}
 --- !u!1001 &6669084079103857554
@@ -377,9 +382,29 @@ PrefabInstance:
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 6885987975782096515, guid: c0019023bfb1a204fb14f9a7930bb0b3, type: 3}
+      propertyPath: actions.Array.size
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 6885987975782096515, guid: c0019023bfb1a204fb14f9a7930bb0b3, type: 3}
+      propertyPath: actions.Array.data[1].execType
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6885987975782096515, guid: c0019023bfb1a204fb14f9a7930bb0b3, type: 3}
+      propertyPath: actions.Array.data[1].floatVal
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 6885987975782096515, guid: c0019023bfb1a204fb14f9a7930bb0b3, type: 3}
+      propertyPath: actions.Array.data[1].actionType
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 6885987975782096515, guid: c0019023bfb1a204fb14f9a7930bb0b3, type: 3}
+      propertyPath: actions.Array.data[1].interactionInput
+      value: 48
+      objectReference: {fileID: 0}
+    - target: {fileID: 6885987975782096515, guid: c0019023bfb1a204fb14f9a7930bb0b3, type: 3}
       propertyPath: actions.Array.data[0].operations.Array.data[0].gameObjectVal
       value: 
-      objectReference: {fileID: 3878957498225985150}
+      objectReference: {fileID: 4237601538693029701}
     - target: {fileID: 7224541931927631229, guid: c0019023bfb1a204fb14f9a7930bb0b3, type: 3}
       propertyPath: m_Name
       value: DoorPanel
@@ -387,7 +412,7 @@ PrefabInstance:
     - target: {fileID: 7349749017676027780, guid: c0019023bfb1a204fb14f9a7930bb0b3, type: 3}
       propertyPath: actions.Array.data[0].operations.Array.data[0].gameObjectVal
       value: 
-      objectReference: {fileID: 3878957498225985150}
+      objectReference: {fileID: 4237601538693029701}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: c0019023bfb1a204fb14f9a7930bb0b3, type: 3}
 --- !u!4 &270149180137713482 stripped
