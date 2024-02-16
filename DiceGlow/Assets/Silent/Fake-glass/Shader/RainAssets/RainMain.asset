@@ -1,0 +1,48 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 78b2425a2284af743826c689403a4924, type: 3}
+  m_Name: RainMain
+  m_EditorClassIdentifier: 
+  m_functionInfo: "// Made with Amplify Shader Editor\n// Available at the Unity Asset
+    Store - http://u3d.as/y3X \n/*ASEBEGIN\nVersion=18800\n2085;425;1599;1521;1294.132;1134.26;1;True;False\nNode;AmplifyShaderEditor.Vector3Node;1;-489.2818,-74.77106;Inherit;False;Constant;_2;0,0,1;6;0;Create;True;0;0;0;False;0;False;0,0,1;0,0,0;0;4;FLOAT3;0;FLOAT;1;FLOAT;2;FLOAT;3\nNode;AmplifyShaderEditor.TexturePropertyNode;16;-842.7081,-627.1711;Inherit;True;Property;_RippleNormals;Ripple
+    Normals;1;2;[NoScaleOffset];[Normal];Create;True;0;0;0;False;0;False;fa1aa122c82ea3a4e8d38f9d9ee24ae1;fa1aa122c82ea3a4e8d38f9d9ee24ae1;True;bump;Auto;Texture2D;-1;0;2;SAMPLER2D;0;SAMPLERSTATE;1\nNode;AmplifyShaderEditor.RangedFloatNode;4;-518.7067,-768.793;Inherit;False;Property;_StreakLength;Streak
+    Length;5;0;Create;True;0;0;0;False;0;False;1;1;0;0;0;1;FLOAT;0\nNode;AmplifyShaderEditor.RegisterLocalVarNode;24;75.6922,-375.744;Inherit;False;rainNormals;-1;True;1;0;FLOAT3;0,0,0;False;1;FLOAT3;0\nNode;AmplifyShaderEditor.RegisterLocalVarNode;12;76.48865,-66.79108;Inherit;False;rainAxis;-1;True;1;0;FLOAT;0;False;1;FLOAT;0\nNode;AmplifyShaderEditor.FunctionNode;19;-502.4202,-437.628;Inherit;False;RainWallRipples;-1;;45;ee9ea9189ac23aa45a8a9696e2cd39f3;0;5;44;SAMPLER2D;;False;46;SAMPLER2D;;False;49;FLOAT;0;False;51;FLOAT;0;False;53;FLOAT;0;False;2;FLOAT;0;FLOAT3;43\nNode;AmplifyShaderEditor.LerpOp;21;-118.7934,-391.8526;Inherit;False;3;0;FLOAT3;0,0,0;False;1;FLOAT3;0,0,0;False;2;FLOAT;0;False;1;FLOAT3;0\nNode;AmplifyShaderEditor.GetLocalVarNode;22;-115.8358,-613.8161;Inherit;False;17;noRainArea;1;0;OBJECT;;False;1;FLOAT;0\nNode;AmplifyShaderEditor.LerpOp;23;-118.7934,-514.8526;Inherit;False;3;0;FLOAT;0;False;1;FLOAT;0;False;2;FLOAT;0;False;1;FLOAT;0\nNode;AmplifyShaderEditor.RegisterLocalVarNode;26;383.6922,-584.7441;Inherit;False;rainMask;-1;True;1;0;FLOAT;0;False;1;FLOAT;0\nNode;AmplifyShaderEditor.SimpleMultiplyOpNode;25;204.2033,-584.2211;Inherit;False;3;3;0;FLOAT;0;False;1;FLOAT;0;False;2;FLOAT;0;False;1;FLOAT;0\nNode;AmplifyShaderEditor.GetLocalVarNode;27;-975.9722,-198.0997;Inherit;False;10;rainSpeed;1;0;OBJECT;;False;1;FLOAT;0\nNode;AmplifyShaderEditor.GetLocalVarNode;28;-975.9722,-118.0997;Inherit;False;7;streakTiling;1;0;OBJECT;;False;1;FLOAT;0\nNode;AmplifyShaderEditor.TexturePropertyNode;15;-843.5162,-434.4978;Inherit;True;Property;_DropletNormals;Droplet
+    Normals;2;2;[NoScaleOffset];[Normal];Create;True;0;0;0;False;0;False;b3fce133292218f41884a8cc9135f7a9;b3fce133292218f41884a8cc9135f7a9;True;bump;Auto;Texture2D;-1;0;2;SAMPLER2D;0;SAMPLERSTATE;1\nNode;AmplifyShaderEditor.GetLocalVarNode;29;-975.9722,-38.09979;Inherit;False;8;streakLength;1;0;OBJECT;;False;1;FLOAT;0\nNode;AmplifyShaderEditor.FunctionNode;18;-503.2577,-558.2271;Inherit;False;RainGroundRipples;-1;;44;1e4f1751c78baf34ea6ca6afecb86f67;0;3;30;SAMPLER2D;;False;95;SAMPLER2D;;False;31;FLOAT;0;False;2;FLOAT;0;FLOAT3;94\nNode;AmplifyShaderEditor.RangedFloatNode;3;-516.7067,-846.793;Inherit;False;Property;_StreakTiling;Streak
+    Tiling;4;0;Create;True;0;0;0;False;0;False;1;1;0;0;0;1;FLOAT;0\nNode;AmplifyShaderEditor.RangedFloatNode;6;-524.3168,-931.8251;Inherit;False;Property;_RainSpeed;Rain
+    Speed;3;0;Create;True;0;0;0;False;0;False;1;0.2;0;0;0;1;FLOAT;0\nNode;AmplifyShaderEditor.RegisterLocalVarNode;17;350.4464,68.24503;Inherit;False;noRainArea;-1;True;1;0;FLOAT;0;False;1;FLOAT;0\nNode;AmplifyShaderEditor.RegisterLocalVarNode;8;-363.1859,-764.9161;Inherit;False;streakLength;-1;True;1;0;FLOAT;0;False;1;FLOAT;0\nNode;AmplifyShaderEditor.GetLocalVarNode;30;-331.7934,-274.8525;Inherit;False;12;rainAxis;1;0;OBJECT;;False;1;FLOAT;0\nNode;AmplifyShaderEditor.SaturateNode;11;-57.51117,-61.79108;Inherit;False;1;0;FLOAT;0;False;1;FLOAT;0\nNode;AmplifyShaderEditor.OneMinusNode;13;178.3294,76.51801;Inherit;False;1;0;FLOAT;0;False;1;FLOAT;0\nNode;AmplifyShaderEditor.SaturateNode;9;29.44635,80.24503;Inherit;False;1;0;FLOAT;0;False;1;FLOAT;0\nNode;AmplifyShaderEditor.RegisterLocalVarNode;7;-360.1859,-842.9161;Inherit;False;streakTiling;-1;True;1;0;FLOAT;0;False;1;FLOAT;0\nNode;AmplifyShaderEditor.NegateNode;5;-115.6706,76.51801;Inherit;False;1;0;FLOAT;0;False;1;FLOAT;0\nNode;AmplifyShaderEditor.RangedFloatNode;20;-114.4112,-701.9211;Inherit;False;Property;_RainFade;Rain
+    Fade;6;0;Create;True;0;0;0;False;0;False;1;1;0;1;0;1;FLOAT;0\nNode;AmplifyShaderEditor.WorldNormalVector;2;-329.2818,-75.77106;Inherit;False;False;1;0;FLOAT3;0,0,1;False;4;FLOAT3;0;FLOAT;1;FLOAT;2;FLOAT;3\nNode;AmplifyShaderEditor.RegisterLocalVarNode;10;-367.796,-927.9471;Inherit;False;rainSpeed;-1;True;1;0;FLOAT;0;False;1;FLOAT;0\nNode;AmplifyShaderEditor.TexturePropertyNode;14;-836.2092,-845.3801;Inherit;True;Property;_RainPattern;Rain
+    Pattern;0;0;Create;True;0;0;0;False;1;Header(Rain Properties);False;287b190ad82c12d4fa2044e30b39a8ef;287b190ad82c12d4fa2044e30b39a8ef;False;gray;Auto;Texture2D;-1;0;2;SAMPLER2D;0;SAMPLERSTATE;1\nNode;AmplifyShaderEditor.FunctionOutput;0;619.1,-582.5;Inherit;False;True;-1;rainMask;0;False;1;0;FLOAT;0;False;1;FLOAT;0\nNode;AmplifyShaderEditor.FunctionOutput;31;296.3464,-366.9259;Inherit;False;False;-1;rainNormals;1;False;1;0;FLOAT3;0,0,0;False;1;FLOAT3;0\nWireConnection;24;0;21;0\nWireConnection;12;0;11;0\nWireConnection;19;44;14;0\nWireConnection;19;46;15;0\nWireConnection;19;49;27;0\nWireConnection;19;51;28;0\nWireConnection;19;53;29;0\nWireConnection;21;0;19;43\nWireConnection;21;1;18;94\nWireConnection;21;2;30;0\nWireConnection;23;0;19;0\nWireConnection;23;1;18;0\nWireConnection;23;2;30;0\nWireConnection;26;0;25;0\nWireConnection;25;0;22;0\nWireConnection;25;1;23;0\nWireConnection;25;2;20;0\nWireConnection;18;30;14;0\nWireConnection;18;95;16;0\nWireConnection;18;31;27;0\nWireConnection;17;0;13;0\nWireConnection;8;0;4;0\nWireConnection;11;0;2;2\nWireConnection;13;0;9;0\nWireConnection;9;0;5;0\nWireConnection;7;0;3;0\nWireConnection;5;0;2;2\nWireConnection;2;0;1;0\nWireConnection;10;0;6;0\nWireConnection;0;0;26;0\nWireConnection;31;0;24;0\nASEEND*/\n//CHKSM=9FD8CA676A2B1DC0E13881A6B83BAB231AE3E2C9"
+  m_functionName: 
+  m_description: Calculates a rain pattern and returns a mask and normals. Adds the
+    required parameters to the shader automatically. This also serves as a template
+    for if you want to modify how rain is calculated.
+  m_additionalIncludes:
+    m_additionalIncludes: []
+    m_outsideIncludes: []
+  m_additionalPragmas:
+    m_additionalPragmas: []
+    m_outsidePragmas: []
+  m_additionalDirectives:
+    m_validData: 0
+    m_isDirty: 0
+    m_moduleName: ' Additional Directives'
+    m_independentModule: 1
+    m_additionalDirectives: []
+    m_shaderFunctionDirectives: []
+    m_nativeDirectives: []
+    m_nativeDirectivesIndex: -1
+    m_nativeDirectivesFoldout: 0
+    m_directivesSaveItems: []
+  m_nodeCategory: 3
+  m_customNodeCategory: 
+  m_previewPosition: 0
+  m_hidden: 0
