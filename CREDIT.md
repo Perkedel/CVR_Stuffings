@@ -4277,3 +4277,59 @@ New Sauce lists
 - https://wiki.chilloutvr.eu/en/community/Events
 - https://wiki.chilloutvr.eu/
 - https://wiki.chilloutvr.eu/en/avatar/magica-cloth-2
+- https://youtu.be/sp_54V3TcF4?si=r0kMHDBhkiomVnF9 pls download
+- https://youtu.be/TeUhFSXFmsA?si=nl9w5-HNKzhAUb76
+- https://youtube.com/playlist?list=PLlVaZNX-iBmsZ4Y1H2O029sy5MSdca0Fl&si=y8fie2xSQkjRz82e
+- https://lura.booth.pm/items/3075449 **PAID**
+- https://lura.booth.pm/items/1534495 **PAID**
+- https://cults3d.com/en/3d-model/game/flexible-squeeze-fidget-toy
+- https://cults3d.com/en/3d-model/tool/cool-squeeze-grip-fan
+- https://www.thingiverse.com/thing:4901910
+- https://skfb.ly/otJ8S
+- https://discord.gg/viviklub VoyVivika Viviklub
+- https://discord.gg/zWMXxZYMMJ The Cavern
+- https://discord.gg/e9Hx8qsAdM Oceano
+- https://discord.gg/wVGDb8Jr46 Nowhere Bar **(NSFW, ID Verification Required, Unintuitive system atm)**
+- https://discord.gg/g37gHB3Mfj Purple Fox
+- https://lenserror.gumroad.com/ **JACKPOT**
+- https://discord.gg/n99YW7Vpc8 Garrin's hideout
+- https://discord.com/invite/4rSbBpAn9m Cat Tree Cuties
+- https://github.com/CuteWaterBeary/ShaderMotion
+- https://discord.com/channels/867567549858971669/1044122333696249928/1044242095273164880 **CVR Tools finder**
+- https://docs.google.com/spreadsheets/d/1DyQKiXrIWWWaIJ9LH9bfMrvGZFQsF1nceXVCQnCPPHI/edit#gid=0 found in this Viviklub
+- https://discord.gg/Ncx6t6gy8a CVR Explore
+- https://discord.gg/6xznEX3N9f Creator Showcase VR
+- https://discord.com/channels/1092233134566801478/1092233135925760013/1105794089305243688 Color Picker Prop DomNomVR, found in creator showcase
+- https://29a.ch/photo-forensics/#luminance-gradient
+- https://discord.com/channels/1092233134566801478/1092233135925760013/1098141642868924436
+- https://discord.com/channels/1092233134566801478/1092233135925760013/1096498197213491231 Kavex collections of NotAKid files. Creator Showcase. Has: Roblox Path Giver, Quick Material Swap, Gesture to Int, Base Animator patch, Avatar Pointer Generator
+- https://github.com/KyogenScientia/CVR-Prefabs WOW
+- https://discord.com/channels/1092233134566801478/1092233135925760013/1096490573076119612 Momma Molly's assets, Creator Showcase. Has: Color Mixer from Chen, Cube Puzzle from Chen, Interaction Layer, Keypad, Keycard
+- https://discord.com/channels/752509297837211731/808058590526439424 here are free dl from LensError in Purple Fox
+- https://booth.pm/en/items/4123049 Pls robo hoverkitty **PAID**
+- https://sdkwireframe.booth.pm/ **PAID**
+- https://estefanoida.booth.pm/ **PAID**
+- https://docs.google.com/document/d/1vWB3VN98i7erA8anywUxxGoT39hrh8oHMmU6uaAnGu0/edit Kro's guide VRC to CVR
+- https://emmster.booth.pm/items/4116550 bat **PAID**
+- https://emmster.booth.pm/items/4116586 Business card **PAID**
+- https://bnuuy-dynamics.booth.pm/items/2736589 Cigarette **PAID**
+- https://lilpinkdevil.booth.pm/
+- https://cdn.discordapp.com/attachments/1015347320784683108/1029100896522600479/CVR_GPU_Pointer_Trigger_For_Props.unitypackage from CVR Finder tool, we have this litterallyjustsmith's GPU Pointer trigger system. Folder will be `Smithure`.
+- https://cdn.discordapp.com/attachments/1003268203536994386/1003268263347769344/CVR_World_Spawn.prefab also this too.
+- https://alexviktor.booth.pm/items/2151029 Shader Deltagem **PAID. Demo version available
+- https://github.com/XomiVR/Jolia-s-ChilloutVR-Prop-Pen
+- https://bnuuy-dynamics.booth.pm/items/3355486 **PAID** Marshmallow on a stick
+- https://booth.pm/en/items/4004447 Bowling VRC
+- https://discord.com/channels/963254775321862264/964352949633552404/1093224967702860008 Pls Succubuny consent card from Nowhere bar.
+- https://discord.com/channels/1092233134566801478/1092233135925760013/1156278444842307715 in Creator showcase, Momofier has CoHTML theme file!
+- https://assetstore.unity.com/packages/tools/physics/zibra-liquid-266451 **PAID**
+- https://sketchfoxsky.gumroad.com/l/SketchysLifeSim life sim VRC **PAID**
+- pls suggest. Prop Pre-spawn. insert GUID of the prop. when the new instance created, these props spawns as if you had the prefab, **but actually not**. No Ripping! and no need to ask download link to prefab. Not pirating! Just need to know GUID!
+- The component should also draw boxes to illustrate approximate size it would when the instance created.
+- bridge
+- playlist odysee
+- https://skfb.ly/oJFSy rat
+- https://skfb.ly/EFNB
+- mt103 gumroad
+- N3X15 avatar is PolygonCherub Twitter
+- bom39
