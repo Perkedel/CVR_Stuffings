@@ -267,6 +267,8 @@ Here are the UUIDs of all these assets we uploaded to CVR:
 | `0b038da9-1a2a-4c25-88bb-b5047d682a8d` | SpaceHey | Root (uploaded by JillTheSomething on behalf) | (**NOT PERKEDEL**) |
 | `a15e207e-daac-4cea-a02f-13870cb14052` | Spawn Mover Demo | NovaVoidHowl | (**NOT PERKEDEL**) |
 | `c237df59-1df1-4e12-9e41-92608b1c9d5e` | CVRPlayerOnlyMirror demo | Nirv-git | (**NOT PERKEDEL**) |
+| `406acf24-99b1-4119-8883-4fcda4250743` | Purple Fox | LensError | (**NOT PERKEDEL**) |
+| `88e9a47b-969a-4ef1-b0dd-46b6e12292bc` | Social Spot | LensError | (**NOT PERKEDEL**) |
 
 ### Props
 
@@ -342,6 +344,10 @@ Here are the UUIDs of all these assets we uploaded to CVR:
 | `cced1e10-7db5-44c9-a180-6cc99267f2cd` | Just a Hula Hoop | JOELwindows7 | Hula Hoop with complex colliders configurations working around Unity's limitation |
 | `7a75148c-cdbf-4585-a44a-c28904958ef8` | Hockey Puck | JOELwindows7 | The puck |
 | `75eb9b0f-474a-444d-a2d9-77946b994f13` | Botol Spin | JOELwindows7 | Bottle Spinner |
+| `e7490010-549c-4eb5-a220-eca276686249` | Virtual Prop Room | JOELwindows7 | Portable test room |
+| `b95873c0-f09d-4fc8-8dbe-be6f716dbc2c` | Bridge Carryover | JOELwindows7 | The broken bridge game |
+| `cd1cd0f6-d62d-4f5c-9d84-0567378a1d28` | Pontoon Square | JOELwindows7 | For Bridge Carryover game |
+| `7298ba18-cf8d-4478-b6d5-035c6e59f861` | Pontoon Circle | JOELwindows7 | For Bridge Carryover game |
 | `382db2db-2101-4308-9a8a-5bcb263880a7` | Reflection Probe Helm Spawner | JOELwindows7 | **Experimental** |
 | `48c2addd-f480-4146-af62-0a2ee047f157` | Cube Scaler | JOELwindows7 | **Experimental** |
 | `33f06030-a4a8-45f6-9409-a69913cc39e8` | Diagonal Joystick Bug Demonstration | JOELwindows7 | **Experimental** |
