@@ -4332,4 +4332,14 @@ New Sauce lists
 - https://skfb.ly/EFNB
 - mt103 gumroad
 - N3X15 avatar is PolygonCherub Twitter
-- bom39
+- bom39 3d model
+- a
+- a
+- pls use sub syncer! bridge game
+- s
+- Pls suggest Asset explorer in the CCK rather than website.
+- Pls suggest Prop Prespawn. above. also the reason is to reduce World Size significantly! Yes, your own usefulness.
+- https://feedback.abinteractive.net/p/companion-app-for-cvr
+- https://youtu.be/bN4HrbK8MaY?si=ziStLxAX7L6oPa_E
+- https://github.com/ivarovin/Rope-with-line-renderer
+- https://github.com/Perkedel/After-Church/tree/master/RAW%20files/ChipTone%20SFBGames
