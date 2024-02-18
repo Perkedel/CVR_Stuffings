@@ -382,6 +382,15 @@ Ensure to detach the GUID if you'd like to make new variant of these prefabs.
 
 For employee: **DO NOT LOSE THE GUID!! MAKE SURE IT IS STILL ATTACHED, & IS SAME MATCH WITH THE PAGE IT UPLOADED TO!**
 
+### Car Vehicle License Plates
+
+| UUID | Nick ID | Total Plate | Description | Tags |
+|-|-|-|
+<!-- | `` | `` | `` | a | tags | -->
+| `978bc94d-5a8b-4199-8352-b51c985dfa24` | `FAIL` | `FAIL-FA24` | Failed Research Car No. 1. Non-RCC variant | `⚡ EV`, `🏭 Commercial` |
+| `6ac4ea02-0194-45e4-a1cf-a636af63ab98` | `ISKY` | `ISKY-AB98` | Sky's Hyundai IONIQ 5 (Indonesia Cikarang Version) Signature Long Range (Modded-frankensteined, fulfill all misses) | `⚡ EV`, `🏚️ Personal` |
+| `4dd6fa8f-bd5d-4c64-a5b0-b1e6a4edae56` | `LUCY` | `LUCY-AE56` | Latsufir's Prototype Dasandim Military Tough Saucer Mk. 2019 | `☢️ Mini Reactor`, `🏚️ Personal`, `🌌 Space` |
+
 ### Protogen Parameter
 
 #### JOELwindows7
