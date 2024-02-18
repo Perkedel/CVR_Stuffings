@@ -4343,3 +4343,10 @@ New Sauce lists
 - https://youtu.be/bN4HrbK8MaY?si=ziStLxAX7L6oPa_E
 - https://github.com/ivarovin/Rope-with-line-renderer
 - https://github.com/Perkedel/After-Church/tree/master/RAW%20files/ChipTone%20SFBGames
+- https://github.com/MilchZocker/UCC-PixelPacket
+- https://github.com/MilchZocker/UCC-DreamPacket
+- a
+- lighters
+- https://skfb.ly/6ZEvG
+- https://skfb.ly/o8s9D
+- yeah
