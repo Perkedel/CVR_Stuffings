@@ -348,6 +348,7 @@ Here are the UUIDs of all these assets we uploaded to CVR:
 | `b95873c0-f09d-4fc8-8dbe-be6f716dbc2c` | Bridge Carryover | JOELwindows7 | The broken bridge game |
 | `cd1cd0f6-d62d-4f5c-9d84-0567378a1d28` | Pontoon Square | JOELwindows7 | For Bridge Carryover game |
 | `7298ba18-cf8d-4478-b6d5-035c6e59f861` | Pontoon Circle | JOELwindows7 | For Bridge Carryover game |
+| `6d74cc05-a541-493b-9c5d-2fd377f9e4bc` | Click to Poof | JOELwindows7 | **Experimental** |
 | `382db2db-2101-4308-9a8a-5bcb263880a7` | Reflection Probe Helm Spawner | JOELwindows7 | **Experimental** |
 | `48c2addd-f480-4146-af62-0a2ee047f157` | Cube Scaler | JOELwindows7 | **Experimental** |
 | `33f06030-a4a8-45f6-9409-a69913cc39e8` | Diagonal Joystick Bug Demonstration | JOELwindows7 | **Experimental** |
