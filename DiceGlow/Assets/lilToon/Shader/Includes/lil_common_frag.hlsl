@@ -74,6 +74,10 @@
     #define BEFORE_SHADOW
 #endif
 
+#if !defined(BEFORE_RIMSHADE)
+    #define BEFORE_RIMSHADE
+#endif
+
 #if !defined(BEFORE_BACKLIGHT)
     #define BEFORE_BACKLIGHT
 #endif
@@ -708,6 +712,13 @@
 #endif
 
 //------------------------------------------------------------------------------------------------------------------------------
+// UDIM Discard
+#if !defined(OVERRIDE_UDIMDISCARD)
+    #define OVERRIDE_UDIMDISCARD \
+        if(_UDIMDiscardMode == 1 && LIL_CHECK_UDIMDISCARD(fd)) discard;
+#endif
+
+//------------------------------------------------------------------------------------------------------------------------------
 // Main 2nd
 #if defined(LIL_FEATURE_MAIN2ND) && !defined(LIL_LITE)
     void lilGetMain2nd(inout lilFragData fd, inout float4 color2nd, inout float main2ndDissolveAlpha LIL_SAMP_IN_FUNC(samp))
@@ -1161,6 +1172,39 @@
 #if !defined(OVERRIDE_SHADOW)
     #define OVERRIDE_SHADOW \
         lilGetShading(fd LIL_SAMP_IN(sampler_MainTex));
+#endif
+
+//------------------------------------------------------------------------------------------------------------------------------
+// Rim Shade
+#if defined(LIL_FEATURE_RIMSHADE)
+    void lilGetRimShade(inout lilFragData fd LIL_SAMP_IN_FUNC(samp))
+    {
+        if(_UseRimShade)
+        {
+            float3 N = fd.N;
+            #if defined(LIL_FEATURE_NORMAL_1ST) || defined(LIL_FEATURE_NORMAL_2ND)
+                N = lerp(fd.origN, fd.N, _RimShadeNormalStrength);
+            #endif
+            float nvabs = abs(dot(N,fd.headV));
+            float rim = pow(saturate(1.0 - nvabs), _RimShadeFresnelPower);
+            rim = lilTooningScale(_AAStrength, rim, _RimShadeBorder, _RimShadeBlur);
+            rim *= _RimShadeColor.a;
+            #if defined(LIL_FEATURE_ShadowColorTex)
+                rim *= LIL_SAMPLE_2D(_RimShadeMask, samp, fd.uvMain).r;
+            #endif
+            fd.col.rgb = lerp(fd.col.rgb, fd.col.rgb * _RimShadeColor.rgb, rim);
+        }
+    }
+#endif
+
+#if !defined(OVERRIDE_RIMSHADE)
+    #if defined(LIL_LITE)
+        #define OVERRIDE_RIMSHADE \
+            lilGetRimShade(fd);
+    #else
+        #define OVERRIDE_RIMSHADE \
+            lilGetRimShade(fd LIL_SAMP_IN(sampler_MainTex));
+    #endif
 #endif
 
 //------------------------------------------------------------------------------------------------------------------------------
