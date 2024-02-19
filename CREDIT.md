@@ -1628,8 +1628,8 @@ New Sauce lists
 - https://vlran.booth.pm/ hmm
 - https://vlran.booth.pm/items/5327999 This is for VRChat. in ChilloutVR, there is AdultToyAPI mod. Check [Knah's MelonAssistant](https://github.com/knah/CVRMelonAssistant)!
 - https://uniunishop.booth.pm/items/5213016 iyey
-- https://uniunishop.booth.pm/items/5230329
-- https://uniunishop.booth.pm/items/1168687
+- https://uniunishop.booth.pm/items/5230329 **PAID**
+- https://uniunishop.booth.pm/items/1168687 **PAID**
 - uniuni was the one behind: Crystal Shader, Candy Paint shader, uh what again?, Fake inner light, Planet shader?, Uni Star, Custom Camera.
 - PiMaker / `_pi_` was the one behind LTCGI
 - https://uniunishop.booth.pm/items?page=2
@@ -2065,7 +2065,7 @@ New Sauce lists
 - https://modernballoonie.gumroad.com paywalled.
 - https://modernballoonie.gumroad.com/l/PooltoyAvali zikeseren.
 - https://discord.gg/JE9CGyr
-- https://angriestscv.gumroad.com paywalled. (AudioLink driven shader Poiyomi shader also paywalled) Ugh.. you-
+- https://angriestscv.gumroad.com **PAID** paywalled. (AudioLink driven shader Poiyomi shader also paywalled) Ugh.. you-
 - Grevor Sritowi (Wakturia): Sir, can you please.. for one day not to uh.. idk.. I'm confused right now..
 - https://rosebur.gumroad.com paywalled.
 - https://polyottr.gumroad.com Only the Genderfluid symbol is free? ... Alright, alright. Where do we put this? YOu know Perkedel do not endorse neo-gender, just so you know. ... C.. Can we.. Argh damn it.. If I... only had this.. THere only be.. unrelated shame. NOt the neo-gender. **The paywallism**. We cannot put too much shame energy supposedly, right now. ... You know what? put this here. I'll think about this later.
@@ -4356,3 +4356,47 @@ New Sauce lists
 - https://kick.com/categories
 - https://bsky.app/
 - https://www.xbox.com/en-US/xbox-game-pass#join
+- https://booth.pm/en/items/5506663 new framedoll stuff
+- https://booth.pm/en/items/3492603 **PAID**
+- https://booth.pm/en/items/2676030
+- https://cluster.mu/w/aeac6d61-0de2-488f-862f-034acbb50318
+- https://booth.pm/en/items/2139379 **PAID**
+- https://booth.pm/en/items/2549720 **PAID**
+- https://booth.pm/en/items/1539338 **PAID**
+- https://armadillon.booth.pm/ 
+- https://booth.pm/en/items/1093023 **PAID**
+- https://booth.pm/en/items/5447425
+- https://booth.pm/en/items/5137494 **PAID**
+- https://booth.pm/en/items/4338284
+- https://booth.pm/en/items/5402363 **PAID**
+- https://discord.com/channels/410126604237406209/797279576459968555/1208971724104671252
+- https://docs.unity3d.com/Manual/SinglePassStereoRendering.html
+- https://docs.unity3d.com/Manual/SinglePassInstancing.html
+- https://docs.unity3d.com/Packages/com.unity.xr.mock-hmd@1.0/manual/index.html
+- https://docs.unity3d.com/Manual/SinglePassStereoRendering.html
+- https://booth.pm/en/items/1148311 Uniuni Crystal Shader
+- https://booth.pm/ja/items/1142851 **PAID**
+- https://discord.com/channels/410126604237406209/766086942005526579/1032051203548397668
+- https://discord.com/channels/410126604237406209/766086942005526579/1032336704843030618
+- https://files.tholin.dev/Public/DSSCompute.shader **GONE**
+- https://twitter.com/tholinvali/status/1582491178502860800
+- https://valuef.gumroad.com/l/goo **PAID**
+- https://www.youtube.com/watch?v=4plws4QlZ7g
+- https://twitter.com/Value_Factory/status/1556703535634550785
+- https://discord.com/channels/410126604237406209/588350685255565344/1011729629171699834
+- https://twitter.com/poiyomi/status/1127977105793462274?lang=en
+- https://discord.com/channels/410126604237406209/588350726841827358/1005194629932666941
+- https://booth.pm/en/items/4035411 **PAID**
+- Unfortunately, Poiyomi slime is only of FULL version. **PAID**
+- https://twitter.com/Value_Factory/status/1556703535634550785
+- https://www.youtube.com/watch?v=4plws4QlZ7g
+- https://lycon.gumroad.com/l/cuVwq **GONE**
+- https://lycon.gumroad.com/l/IqQfI **GONE**
+- https://lycon.gumroad.com/
+- https://cro.itch.io/slimes
+- https://github.com/lilxyzw/lilToon.git
+- https://github.com/lilxyzw/lilToon.git?path=Assets/lilToon
+- https://github.com/lilxyzw/lilToon/
+- https://discord.com/channels/410126604237406209/588350685255565344/1066123803199021167
+- Parameter stream has local player voice level
+- Khodrin

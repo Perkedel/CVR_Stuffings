@@ -137,6 +137,12 @@ float4 frag(v2f input LIL_VFACE(facing)) : SV_Target
     LIL_GET_LIGHTING_DATA(input,fd);
 
     //------------------------------------------------------------------------------------------------------------------------------
+    // UDIM Discard
+    #if defined(LIL_FEATURE_UDIMDISCARD)
+        OVERRIDE_UDIMDISCARD
+    #endif
+    
+    //------------------------------------------------------------------------------------------------------------------------------
     // View Direction
     #if defined(LIL_V2F_POSITION_WS)
         LIL_GET_POSITION_WS_DATA(input,fd);
@@ -440,6 +446,13 @@ float4 frag(v2f input LIL_VFACE(facing)) : SV_Target
             #if defined(LIL_FEATURE_MAIN3RD)
                 if(_UseMain3rdTex) fd.col.rgb = lerp(fd.col.rgb, 0, color3rd.a - color3rd.a * _Main3rdEnableLighting);
             #endif
+        #endif
+
+        //------------------------------------------------------------------------------------------------------------------------------
+        // Rim Shade
+        BEFORE_RIMSHADE
+        #if defined(LIL_FEATURE_RIMSHADE)
+            OVERRIDE_RIMSHADE
         #endif
 
         //------------------------------------------------------------------------------------------------------------------------------
