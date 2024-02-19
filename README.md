@@ -116,6 +116,8 @@ Joel: idk what am I thinking, We call these DMCAers Federals, that's what X0p1r4
 Please attach screenshots below for the assets we have paid to be used by Perkedel Cinematic Universe gamers.  
 For real life contributors, you must purchase the license of your own, not sparsdated you got out there 😉. For legal reasons. We do not want you get harrassed by your Federals because caught using sparsdated assets.
 
+- [Khodrin HUD Assets](https://khodrin.gumroad.com/l/hud_shader_3) ![Bought HUD Shader](/DiceGlow/Assets/JOELwindows7/_CORE/Sprites/Screenshots/ProvesOfPurchase/CVR bought khodrin hud shader.png), Costs **$3.99**, Paid **$5.00** (Voluntarily willingly, you're welcome)
+
 ## Quick Tutorials
 
 ### Assets
