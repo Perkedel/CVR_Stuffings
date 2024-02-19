@@ -4400,3 +4400,8 @@ New Sauce lists
 - https://discord.com/channels/410126604237406209/588350685255565344/1066123803199021167
 - Parameter stream has local player voice level
 - Khodrin
+- Bfacemod Vseeface
+- https://github.com/Khodrin?tab=repositories
+- https://www.poiyomi.com/general/textures-and-colors
+- https://khodrin.gumroad.com/l/hud_shader_3 **BOUGHT**
+- https://github.com/Khodrin?tab=repositories
