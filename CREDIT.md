@@ -4458,3 +4458,4 @@ New Sauce lists
 - https://discord.com/channels/410126604237406209/1004342533964439592/1209528539599212624
 - https://discord.com/channels/410126604237406209/1004342533964439592/1207053419442085918
 - https://discord.com/channels/410126604237406209/1004342533964439592/1207260978425896960
+- **Please begin renegotiate Perma-home status for CVR, reasons of unfair blocking**.
