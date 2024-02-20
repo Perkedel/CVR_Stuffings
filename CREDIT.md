@@ -4405,3 +4405,4 @@ New Sauce lists
 - https://www.poiyomi.com/general/textures-and-colors
 - https://khodrin.gumroad.com/l/hud_shader_3 **BOUGHT**
 - https://github.com/Khodrin?tab=repositories
+- https://github.com/Unity-Technologies/HLODSystem

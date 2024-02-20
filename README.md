@@ -86,6 +86,7 @@ Below are assets that are not included and **must be installed prior of usage an
 - [RED_SIM XMAS Lights](https://www.patreon.com/posts/xmas-lights-full-32033307). **Paywalled**. Instead, [this partialized free version](https://www.patreon.com/posts/xmas-lights-32030551) included.
 - [VRA-05 `Morph`](https://gh0stt.gumroad.com/l/morph). **Paywalled**. Instead, [this partialized free version](https://gh0stt.gumroad.com/l/morph) included.
 - [Hekky Shaders](https://www.patreon.com/hekky). **Paywalled**. Instead, [this partialized free version](https://github.com/hyblocker/hekky-shaders) included.
+- [Khodrin HUD Assets](https://khodrin.gumroad.com/l/hud_shader_3). **Paywalled**.
 
 <!-- Pls include all free but CCK, to backup! -->
 > ~~Some packages (e.g. `.unitypackage` extracted) are included for ***convenience***~~ All $0 & Redistribution allowed licensed `.unitypackage`s are included.  
