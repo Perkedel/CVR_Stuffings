@@ -4407,3 +4407,54 @@ New Sauce lists
 - https://github.com/Khodrin?tab=repositories
 - https://github.com/Unity-Technologies/HLODSystem
 - https://discord.com/channels/410126604237406209/588350726841827358/1209336999446585384
+- https://discord.com/channels/410126604237406209/588350726841827358/1209406226631233556
+- https://discord.com/channels/410126604237406209/588350726841827358/1209406226631233556
+- https://discord.com/channels/410126604237406209/766086942005526579/1005992885847601224
+- https://discord.com/channels/410126604237406209/766086942005526579/1084877833366683769 SPS-I fy your Shader Forge
+- https://discord.com/channels/410126604237406209/766086942005526579/1084922928568737812 **NOW**
+- SubsonicJackal154!
+- add `UNITY_VERTEX_OUTPUT_STEREO` to `struct VertexOutput` under declartion `UNITY_VERTEX_INPUT_INSTANCE_ID` line
+- add in the `VertexOutput vert (VertexInput v)`, functions under the `UNITY_SETUP_INSTANCE_ID( v );` and `UNITY_TRANSFER_INSTANCE_ID( v, o );` these calls:
+- `UNITY_INITIALIZE_OUTPUT(VertexOutput, o);`
+- `UNITY_INITIALIZE_VERTEX_OUTPUT_STEREO(o);`
+- Usually, you found above inside SubShader with a name `FORWARD`, at the topmost.
+- https://uniunishop.booth.pm/items/5230329 **PAID** Bubble
+- https://uniunishop.booth.pm/items/5213016 Fake inner light
+- https://uniunishop.booth.pm/items/4641365 Candy Paint
+- https://uniunishop.booth.pm/items/4638603 Planet Shader
+- https://uniunishop.booth.pm/items/4633595 UniStar
+- https://gitlab.com/towelfunnelvrc/towelcloud/-/wikis/TowelCloud
+- https://gitlab.com/towelfunnelvrc/towelcloud/-/releases
+- https://github.com/whiteflare/Unlit_WF_ShaderSuite UnlitWF!!
+- https://developer.oculus.com/resources/design-accessible-vr-controls
+- https://beckadam.gumroad.com/icybeckashaderpack
+- https://skfb.ly/or8Xs
+- `--no-mods` argument
+- ironwolf323 again Moonify Discord
+- https://steamcommunity.com/sharedfiles/filedetails/?id=3159981536 
+- https://steamcommunity.com/sharedfiles/filedetails/?id=3160607434
+- https://steamcommunity.com/sharedfiles/filedetails/?id=3155172275
+- https://mega.nz/file/m6I1FaqS#dWhCUa_uMQA4WGy1U-DNlYeL7WDovy86CN0Kha2wRXk cow marie bikini
+- https://mega.nz/file/miwnETJT#KoXBry8cDV81YWuVGOOnFMtg29-lxDooUWlRob-dBk4 & Blender
+- https://twitter.com/ironwolf_323 Oh no! where's the invite?!?!?!?
+- OK
+- https://discord.com/channels/734976349994876928/734978945858142373/1209538237140439080
+- https://twitter.com/LukaszBorges/status/1759976724316499986
+- https://twitter.com/LukaszBorges/status/1344319182863790082
+- https://twitter.com/bluegamer89/status/1758651819058769961?s=46&t=M4CU-bfuoXonMk7rPRr3kg
+- https://www.deviantart.com/flaze135/art/Springy-s-Pack-v5-Blender-2-8-2-9-3-0-Port-RELEASE-909502146
+- https://www.deviantart.com/fredboi997/art/Torres-Springtrap-V19-blender-4-0-Release-997307638
+- https://www.deviantart.com/fredboi997/art/Fredbear-V5-Fredtrap-Christmas-Release-1005102305
+- `C:\Users\Joel Robert Justiawa\AppData\LocalLow\Alpha Blend Interactive\ChilloutVR\Player-prev.log`
+- Sebastian Webster sketchfab pls
+- https://twitter.com/LukaszBorges/status/1759976724316499986
+- https://github.com/kafeijao/Kafe_CVR_Mods
+- looks like we missed kafeijao's NavMeshFollower mod!
+- https://github.com/kafeijao/Kafe_CVR_Mods/tree/master/NavMeshFollower damn!
+- https://github.com/NovaVoidHowl/NavMesh-Follower-Setup
+- https://github.com/kafeijao/Kafe_CVR_CCKs/tree/master/NavMeshFollower#readme
+- https://github.com/V-Sekai/v-sekai-game
+- https://github.com/kafeijao/Kafe_CVR_Mods?tab=readme-ov-file
+- https://discord.com/channels/410126604237406209/1004342533964439592/1209528539599212624
+- https://discord.com/channels/410126604237406209/1004342533964439592/1207053419442085918
+- https://discord.com/channels/410126604237406209/1004342533964439592/1207260978425896960

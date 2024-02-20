@@ -121,6 +121,52 @@ For real life contributors, you must purchase the license of your own, not spars
 
 ## Quick Tutorials
 
+### Gameplay
+
+#### Basics
+
+<!-- Pls confirm! I never had VR!!! -->
+
+- WASD / Port-Left Joystick = Move
+- Shift + Move = Run (VR by default always run)
+- Mouse / Starboard-Right Joystick = Camera / Head angle & turning around.
+- Space / Starboard-Right `A` = Jump
+- 2x Jump = Toggle Flying
+- X / ??? = Prone
+- V / ??? = Crouch
+- Right Click / `B` (Starboard-Right) / `Y` (Port-Left) = Grab with which hand (Starboard-Right Hand default on Desktop)
+- Left Click / Any Trigger = Interact action to a prop / object.
+- `ESC` / ??? = Open Big Menu
+- `Tab` / ??? = Open Quick Menu
+
+#### Advanced
+
+- Toprow Num (1-9) = Play expression animation. Move to cancel
+    1. Hello
+    2. ..
+    3. Die
+    4. Backflip
+    5. ...
+    6. ...
+    7. ...
+    8. 
+- Left Shift + Toprow Num (1-9) = Port-Left Hand gesture selections
+- Right Shift + Toprow Num (1-9) = Starboard-Right Hand gesture selections
+- Hand taking picture gesture (both hands with index & thumb in `L` shape, and cross them eachother) = Open Camera
+- Clap the camera = Close camera
+
+#### VoyVivika Tutorial Prop
+
+VoyVivika provided a tutorial prop to get you started.
+
+- Open Big Menu (`ESC` / ???)
+- `Search`
+- Type `Tutorial`
+- Look for `Tutorial Prop` by `VoyVivika`, and drop it to the world.
+- Interact with this prop by clicking the button on the tutorial panel. Read out how do you play this game.
+
+Did you know, Some worlds already pre-provided this prop thanks to such prefab being available in [VoyVivika's GitHub repo](https://github.com/VoyVivika/CVR-Tutorial-Prop).
+
 ### Assets
 
 <!-- PLS COMPLETE THIS! -->
@@ -180,6 +226,56 @@ Once you've configured your desired properties, **don't forget to attach methods
 - Trigger `onDrop` has method call to `CVRAttachment` on this prop of `attach()`. Once dropped, evaluate if it's on something can be attached to and attach to the valid part of the object.
 
 To disable attachment later, simply set `attachmentType` in `CVRAttachment` to `nothing`. The prop then no longer stick-able.
+
+#### To Pointer based Trigger (Realistic Interaction)
+
+Sometimes, interaction is desirable OR required using a way that feels about realistic like irl. This is done using **Pointer & Trigger** system.
+
+##### Pointer (`CVRPointer`) - Key
+
+This component is where this will trigger below Triggers, on what type OR on which pointer. Add GameObject with this component to your e.g. props or avatar, and a Collider (of which shape you'd like to define shape & area). As its collider hits the trigger area, the trigger will commence.
+
+You can define the type of this pointer in the field `...` with any string you'd like. e.g., `index` (typically Avatar index finger).
+
+Now, this pointer will only trigger that allows such type / have such type in the list, e.g. above, any trigger that includes `index`.
+
+##### Props (`CVRSpawnableTrigger`) - Hole 
+
+To make trigger for **props**, add a GameObject with **`CVRSpawnableTrigger`** added to it, OR add it to the prop itself (not recommmended). No need to add collider.
+
+You can adjust its area size, offset, and allowed types (You'll need to enable `Advanced mode` to unlock more options). You can also pick more than one which element will this trigger by, whether `Player Local` (you), `Player Network` (other players in instance), and/or `Particles`.
+
+BUG?: Not whitelisted in prop, only world?
+
+##### Avatar (`CVRAvatarTrigger`) - Hole
+
+<!-- Please revamp! -->
+
+To make trigger for **avatars**, add a GameObject with **`CVRAvatarTrigger`** added to it, or add it to the avatar itself (not recommended). No need to add collider.
+
+You can adjust its area size, offset, and allowed types (You'll need to enable `Advanced mode` to unlock more options). You can also pick more than one which element will this trigger by, whether `Player Local` (you), `Player Network` (other players in instance), and/or `Particles`.
+
+To enable `Advanced mode`, select `Advanced` in the topmost dropdown `Trigger Mode`.
+
+(Advanced mode) In Allowed Filter, you can choose whether to filter pointer by `Type` (any `CVRPointer` of which type in the list) OR `Reference` to specific `CVRPointer` GameObjects (regardless of its type). Then fill either the type name OR `CVRPointer` according to the mode you selected.
+
+(Advanced mode) In Trigger task, you can define what happen when the pointer Enters, Stayed, and/or Exited. It will do adjust your AAS parameter based on selected update. You can select what update method whether it's to `Set from Position` which is based on how deep the pointer is in the area from the top to the bottom, `Add` or `Substract` to increase or decrease which AAS value, or `Set from Distance` to ????????????????????.
+
+- 
+
+##### Testing Triggers
+
+To test your trigger whether it's working or not, you can search in-game `CVRPointer` and drop it into the world. Drag this floating bekel ball onto your trigger.
+
+Note, in order to ensure the trigger works, you will need to add to allow list (in your trigger) a usual type, like `index`, as most of the prop pointers maybe filled with type `index` since it's the most common type.
+
+You can also debug & view these pointers & triggers by opening big menu (`ESC` / starboard-right `B`), `Settings`, `Experimental`, scroll down to `Debug` and enable. The pointer & trigger debug shows their type names in blue pixel text. 
+
+##### NAK Avatar Pointer Generator Helpers
+
+NotAKidOnSteam has a helper system that helps you generate pointers for your avatar. Although incomplete at the moment, it should suffice for most task.
+
+To use it, simply download the release `.unitypackage` from this URL **https://github.com/NotAKidOnSteam/AvatarPointerGenerator**. Once you have installed it, you will see top menu `Tools/Avatar Pointer Generator`. Click it and drag your avatar to this window (or while selecting your Avatar, click `Use Selection`). Then `Generate Pointers`. You'll have your avatar equipped with typical set of pointers (pre-filled with according types as well) to get you started.
 
 ### Moar Tutorial
 
@@ -405,6 +501,7 @@ For employee: **DO NOT LOSE THE GUID!! MAKE SURE IT IS STILL ATTACHED, & IS SAME
 - Short Hair
 - Dome visor
 - Single Pair
+- Regular size (3%)
 
 ### Control Bola
 
