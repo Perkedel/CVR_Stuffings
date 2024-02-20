@@ -302,6 +302,10 @@ Shader "Shader Forge/Crystal Shader" {
                 float2 texcoord0 : TEXCOORD0;
                 float2 texcoord1 : TEXCOORD1;
                 float2 texcoord2 : TEXCOORD2;
+
+                // JOELwindows7: pls SPS-I
+                // https://docs.unity3d.com/2021.3/Documentation/Manual/SinglePassInstancing.html
+                UNITY_VERTEX_INPUT_INSTANCE_ID //Insert
             };
             struct VertexOutput {
                 float4 pos : SV_POSITION;
@@ -315,9 +319,18 @@ Shader "Shader Forge/Crystal Shader" {
                 float4 projPos : TEXCOORD7;
                 LIGHTING_COORDS(8,9)
                 UNITY_FOG_COORDS(10)
+
+                // JOELwindows7: yeah
+                UNITY_VERTEX_OUTPUT_STEREO //Insert
             };
             VertexOutput vert (VertexInput v) {
                 VertexOutput o = (VertexOutput)0;
+                
+                //JOELwindows7: execute
+                UNITY_SETUP_INSTANCE_ID(v); //Insert
+                UNITY_INITIALIZE_OUTPUT(VertexOutput, o); //Insert
+                UNITY_INITIALIZE_VERTEX_OUTPUT_STEREO(o); //Insert
+
                 o.uv0 = v.texcoord0;
                 o.uv1 = v.texcoord1;
                 o.uv2 = v.texcoord2;
@@ -333,7 +346,14 @@ Shader "Shader Forge/Crystal Shader" {
                 TRANSFER_VERTEX_TO_FRAGMENT(o)
                 return o;
             }
+
+            // JOELwindows7: declare
+            UNITY_DECLARE_SCREENSPACE_TEXTURE(_MainTex); //Insert
+
             float4 frag(VertexOutput i, float facing : VFACE) : COLOR {
+                //JOELwindows7: hey
+                UNITY_SETUP_STEREO_EYE_INDEX_POST_VERTEX(i); //Insert
+
                 float isFrontFace = ( facing >= 0 ? 1 : 0 );
                 float faceSign = ( facing >= 0 ? 1 : -1 );
                 i.normalDir = normalize(i.normalDir);
@@ -397,7 +417,14 @@ Shader "Shader Forge/Crystal Shader" {
                 float3 finalColor = diffuse + specular;
                 fixed4 finalRGBA = fixed4(finalColor * 1,0);
                 UNITY_APPLY_FOG(i.fogCoord, finalRGBA);
+
+                // JOELwindows7: Rather, apply all now
+                fixed4 col = UNITY_SAMPLE_SCREENSPACE_TEXTURE(finalRGBA, i.uv); //Insert
+                // invert the colors
+                col = 1 - col;
+
                 return finalRGBA;
+                // return col;
             }
             ENDCG
         }

@@ -4406,3 +4406,4 @@ New Sauce lists
 - https://khodrin.gumroad.com/l/hud_shader_3 **BOUGHT**
 - https://github.com/Khodrin?tab=repositories
 - https://github.com/Unity-Technologies/HLODSystem
+- https://discord.com/channels/410126604237406209/588350726841827358/1209336999446585384
