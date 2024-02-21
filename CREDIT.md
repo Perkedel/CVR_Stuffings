@@ -4507,3 +4507,57 @@ New Sauce lists
 - Jallopy: Right away (hop in the tram from the port-left side) sir (go sit to the starboard-right control board).
 - Assigned Room for DiceGlow
 - All crew has been sitting nicely & tidily on this meeting table. Serious mode.
+- Empty
+- Malore, table, Zuuljedus
+- Terrier Urla, table, Panfesir
+- Fendied, table, Zuug
+- Jallopy, table, Epto
+- Empty leader seat
+- Zuuljedus: .... Pan?
+- Panfesir: Yes?
+- Zuuljedus: .. I'm afraid. ... I think we did wrong here..
+- Panfesir: I'm pretty sure we're not. But... All we did is just that we bought... the.. Khodrin's HUD Shader.. for extra..
+- Malore: No.. I believe Kaorfa is fine with that, he did the example
+- Arn: (knock knock)! !, (open)..
+- Everyone tidy up & silence
+- Arn: (get in)..., (close door). . .
+- Everyone nervous.
+- Zuuljedus: (swallow spit)!!..
+- Arn: Well, I... (sit on the leader seat right in front of him)-wish this not you gotta be so nervous like a grumpy boss coming here right?... sss, uh... there's the grumpy guy.
+- Everyone starts listening carefully & worriedly
+- Arn: I have just recently received message from Kaorfa that... he did a mistake.
+- Malore: (thinking about horrible comment (something right doing actually) that accidentally offended people) Alright, here we go
+- Arn: No that's not it. Different. (but this reason of such trouble might be still because of the horrible offending comment, which was probably due *Not discouraging piracy explicitly despite tell you not implicitly*) But I'm not sure if it is, or.. still because of other of our things.
+- Everyone confuse a bit
+- Arn: Thing is......... ugh.. You know we are so lazy these day to tell you the word in objects. We gotta be quick, coz we still got **blocked**. Three!.. And ironically this one is a Community Guide. Again, no telling reason why.
+- Malore: ugh.. bastards..
+- Arn: So the mistake was we set this as **permanent home**. But the reality is, we should've **NOT**, set social media, as a permanent home.
+- Malore: So what do we do now? Dismiss this all?
+- Arn: I hate to say this to you... It's likely.
+- Malore: Fuuuck!... Well you have it. So much for the hobby we can have fun of, and go back to boring jobs again for nothing. ..., UGH...
+- Arn: We have tried our best to bring this to solve, but due to nature of free will, this abuse then cannot and in-fact, shall not be controlled.
+- Terrier Urla: 🙋‍♂️ But sir, we can still interact with props right?
+- Arn: Yes. Only effects is you can't see them, and no add friend.
+- Terrier: Well shouuld continue!
+- Arn: I'm sorry, in Perkedel this is not possible. We must also look at the psychological effects against the world that bring things to us. I wish we could ignore this, but apparently, There is always a reason, such incidents like this considered unfair, because we never know why. And if we know why, often it's egregious, and nepotistic.
+- Terrier: Oh, Joel, stay strong buddy, don't fall into the (psychological) hospital please.
+- Arn: I hope you understand. His mental recently has been decreasing everyday, look at those people that for no reason hated him, and would be us as well. (notice Panfesir guilt about buying shader) And you, buying it has nothing to do with it.
+- Panfesir: Oh really? thanks..
+- Arn: I'm sorry, gamers. At worst case scenario you shall be dismissed and all the downloading task will be re-assigned over for all researchers here including you, and no more work for this initiative may come ever again.
+- Malore: Well, what about Minecraft?
+- Arn: Good question. For this one, if you're banned on a server, you can just make another one, since unlike ChilloutVR, there is no unified servering. All it's own dedicated server. And beside, Realms is not that worth of a deal after all. Also, being already merged with Microsoft account we see no horrible significance at this time. So does with Palworld but we have yet tested it. So far, it has Single Player save file mode from the rumors, but the rest are yet to be confirmed. You got the idea.
+- Zuuljedus: Aaargh.... dang it... I didn't know...
+- Arn: It's none of your fault. We are facing strangers. And these days, societies are breaking down (i.e. more toxic every second). Remember, you were here to learn how to bring stuffs onto a game, heard about ones betrayal, and (joke) kick a dead horse (to Unity).
+- awkward silence ...........
+- Arn: ... (realize Joke clashes with the mood right now) Oh.. my bad. ... I just.. also desperate. I am at hard work keeping Kaorfa's mental stability. .. I did bad (for joking just now). It clashed (funny do not mix with depression for Joel). But.. there's no other way (to cheer all gamers here up / cope).
+- ...
+- ...
+- Arn: Any more questions? .............................. Well, anytime. I shall return. ................ (stardust and move back to core realm)...!!!!!......
+- ...
+- ...
+- ...
+- Zuuljedus: Mal
+- Malore: NO no, not your fault. The bastards. What did we even do wrong again? Dismissing forbidding anyone to sparsdat (pirate) stuffs? OHH.. So I gotta be like karen and **HEY!! YOU CANNOT PIRATE THIS, I WILL REPORT YOU TO MODERATION TEAM!!**, and then **HEY ABI, THIS PROP WAS MADE WITH PIRATED ASSETS BLA BLA BLA** FUCKING SHIT IN YOUR ASS... NOne of your business! ... Although.. Of course, We're not allowed to include paid stuffs here, we're still complying! (take out the git ignore document)!!.., (bang it to the table) [**look!!!**](/.gitignore)
+- Terrier: The Khodrin HUD Shader has been ignored, and there's none of them in the upload.
+- Malore: EXACT-FUCKINGLY!!
+- DONE
