@@ -18,6 +18,7 @@ GameObject:
   - component: {fileID: 782047449601009892}
   - component: {fileID: 257846584799329902}
   - component: {fileID: 7799435669866919410}
+  - component: {fileID: 6342585961019655493}
   m_Layer: 0
   m_Name: PontoonCircle
   m_TagString: Untagged
@@ -133,7 +134,7 @@ Rigidbody:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 4264657928174629125}
   serializedVersion: 2
-  m_Mass: 1999.9999
+  m_Mass: 200
   m_Drag: 0
   m_AngularDrag: 0.05
   m_UseGravity: 1
@@ -157,9 +158,9 @@ MonoBehaviour:
   changeCenterOfMass: 0
   centerOfMass: {fileID: 0}
   updateContinuously: 0
-  guiBuoyancyFoldout: 0
+  guiBuoyancyFoldout: 1
   enableBuoyancy: 1
-  density: 5.753
+  density: 0.57530004
   volume: 0.3476447
   airDrag: 0
   airAngularDrag: 0.05
@@ -219,6 +220,20 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   syncOwner: 
   guid: 
+--- !u!114 &6342585961019655493
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4264657928174629125}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4d5101e7f108ab74bb2f98b5203dfce3, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  orientationMode: 1
+  velocityInheritance: 1
 --- !u!1001 &2408742859937481923
 PrefabInstance:
   m_ObjectHideFlags: 0
