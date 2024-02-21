@@ -1113,6 +1113,7 @@ New Sauce lists
 - It's time.
 - https://vrmodels.store/avatars/9119-comfy-neko.html
 - https://docs.unity3d.com/Packages/com.unity.postprocessing@3.0/manual/Screen-Space-Reflections.html
+- Story time
 - Frustumer.
 - Table structure. face to face sofa
 - .
@@ -4459,3 +4460,50 @@ New Sauce lists
 - https://discord.com/channels/410126604237406209/1004342533964439592/1207053419442085918
 - https://discord.com/channels/410126604237406209/1004342533964439592/1207260978425896960
 - **Please begin renegotiate Perma-home status for CVR, reasons of unfair blocking**.
+- https://godotengine.org/code-of-conduct/
+- https://github.com/Speykious/cve-rs
+- https://github.com/Speykious/cve-rs/blob/main/LICENSE
+- Jkk says ideal buyoancy density is `.5`. higher it sinks, lower it bounces. Thancc, cool and good.
+- https://youtu.be/uHb5KomjQb4?si=yOrOAiVmeGFgEW7o film
+- https://youtu.be/nJ1jiK1gCXo?si=nJfpjAg7kH3Lg7fM
+- https://youtu.be/UXX0TRtg5Vk?si=gjjDfllT1H6RUtl5
+- https://youtu.be/Am8grbyTxTw?si=f_Z_SCnBy8qcaR-O
+- welcome to vrchat (parody)
+- Welcome to the internet
+- https://vrcmods.com/item/1105
+- https://zen0129zen.booth.pm
+- https://assetstore.unity.com/packages/vfx/shaders/glam-glitter-shaders-20921 **PAID**
+- https://gist.github.com/nicloay/86cc68c22323ffee8816
+- https://github.com/Nirv-git/VideoRemote
+- https://github.com/Nirv-git/CVRMods-Nirv
+- GhostRobot.
+- Oliver Simonnet
+- SkullCO
+- Senpaidll
+- Hoizen
+- .
+- .
+- File NES Zapper from Yogensia
+- https://skfb.ly/EFNB Violin Microsoft
+- https://darkpowers0819.gumroad.com
+- For your cooperation, please don't come in the public place and threw bunch of sexual stuffs outta nowhere. especially you are asdjflkasjdfklsj.
+- https://bitmidi.com/joan-osborne-what-if-god-was-one-of-us-mid
+- http://www.vanbasco.com/search.html.en?fileid=44761&q=one&lyrics=off&resultsperpage=50
+- https://github.com/Nirv-git/CVRMods-Nirv/tree/main
+- https://github.com/SDraw/ml_mods_cvr
+- https://past.furality.org/f5/aqua-shader-info
+- https://past.furality.org/f5/aqua-assets
+- https://past.furality.org/f4/legendaryshader
+- X0p1r4t3 Story Time again.
+- Unexpected Reevaluation
+- Arn the Saorfa stardust assembled to here X0p1r4t3 for an urgent matter. He has now arrived right at the Research Center giant vault door.
+- Arn enters. Arn opened the small door like he knew the password
+- Jallopy Ometamnasir: Hello? Welcome! Wait.. Arn??
+- Arn: Ahei. Sorry, for cracking the password, (close door)!. I come here for an urgent matter.
+- Jallopy: Oh, alright. On what matter is it if I may know?
+- Arn: The DiceGlow Initiative. This initiative was established with Kaorfa the leader. This is very important, (hop in the train tram on the right).
+- Jallopy: Sure. Do you want to
+- Arn: No. I just need to get to their room. Don't worry. They've been notified for my coming.
+- Jallopy: Right away (hop in the tram from the port-left side) sir (go sit to the starboard-right control board).
+- Assigned Room for DiceGlow
+- All crew has been sitting nicely & tidily on this meeting table. Serious mode.
