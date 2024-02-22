@@ -4564,3 +4564,10 @@ New Sauce lists
 - https://feedback.abinteractive.net/p/prop-pre-spawning
 - dua side. One eye renders boy theme, the other renders girl theme. using Multi-pass quirk in this CVR of the shadering.
 - https://youtu.be/39_HhRkXDpQ?si=jjwQW9Gurbq6RNML Jackaroo Very loud explosion
+- Windows 95 man finland
+- https://github.com/Nirv-git/CVRMods-Nirv/?tab=readme-ov-file
+- https://github.com/kafeijao/Kafe_CVR_Mods?tab=readme-ov-file
+- https://skfb.ly/6BtIq
+- eisregen talked about sport car but matic.
+- and that's just... pointless. I agree, yeah..
+- take this inspire for context of having bells and whistle but tarnished with one thing.
