@@ -4561,3 +4561,6 @@ New Sauce lists
 - Terrier: The Khodrin HUD Shader has been ignored, and there's none of them in the upload.
 - Malore: EXACT-FUCKINGLY!!
 - DONE
+- https://feedback.abinteractive.net/p/prop-pre-spawning
+- dua side. One eye renders boy theme, the other renders girl theme. using Multi-pass quirk in this CVR of the shadering.
+- https://youtu.be/39_HhRkXDpQ?si=jjwQW9Gurbq6RNML Jackaroo Very loud explosion
