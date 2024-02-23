@@ -4604,3 +4604,5 @@ New Sauce lists
 - .
 - .
 - .
+- Nimona came from inside the service room instead of supposed front door. Hi welcome.. wait, the front door is there!
+- Nimona downloads all 3D Model from first Hymatt Avatarer branch in Arenod realm. She did not used the machine and directly USB-C copy all of the file to her heart. She still pays all full total 500 Trillion Pts., with extra 500 Million Pts to each employee which data found in the computer. Now the branch can immediately start unattended beta test instead of waiting for supposed 2 months away.
