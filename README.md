@@ -468,7 +468,7 @@ Here are the UUIDs of all these assets we uploaded to CVR:
 | `d3317583-fc62-4422-861c-c94b24cbeee0` | Dippy Sauce | Dippy | (**NOT PERKEDEL**) |
 | `d1dac649-e96a-4f91-92f2-40a2214a33d4` | MollyTribute Interaction Layer | DomNomNomVR & MollyTribute (Momma Molly) | (**NOT PERKEDEL**) |
 | `d849a70d-adc0-4cea-a09b-84a9a0037e84` | Pen Props | SketchFoxsky | (**NOT PERKEDEL**) |
-| `ca0a909e-2371-4586-8836-993e77132727` | Evil Betty Keycard Demo | SketchFoxsky | (**NOT PERKEDEL**) |
+| `ca0a909e-2371-4586-8836-993e77132727` | Evil Betty Keycard Demo | Evil Betty & Momma Molly | (**NOT PERKEDEL**) |
 
 ### Assorted
 
