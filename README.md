@@ -441,7 +441,7 @@ Here are the UUIDs of all these assets we uploaded to CVR:
 | `345e2399-bacf-4ddf-ae8f-8df6e9445694` | (Image) World's Most Expensive Burger | JOELwindows7 | Post from [@HumansNoContext at X / Twitter](https://twitter.com/HumansNoContext/status/1756182462944661786) |
 | `17ec4133-0c63-44a7-8032-a218a91f9720` | Valentine Chocolate Box | JOELwindows7 | With each chocolate edible |
 | `cced1e10-7db5-44c9-a180-6cc99267f2cd` | Just a Hula Hoop | JOELwindows7 | Hula Hoop with complex colliders configurations working around Unity's limitation |
-| `7a75148c-cdbf-4585-a44a-c28904958ef8` | Hockey Puck | JOELwindows7 | The puck |
+| `7a75148c-cdbf-4585-a44a-c28904958ef8` | Hockey Puck | JOELwindows7 | The puck, hockey disk |
 | `75eb9b0f-474a-444d-a2d9-77946b994f13` | Botol Spin | JOELwindows7 | Bottle Spinner |
 | `e7490010-549c-4eb5-a220-eca276686249` | Virtual Prop Room | JOELwindows7 | Portable test room |
 | `b95873c0-f09d-4fc8-8dbe-be6f716dbc2c` | Bridge Carryover | JOELwindows7 | The broken bridge game |
