@@ -293,28 +293,7 @@ MonoBehaviour:
   tooltip: 
   actions:
   - delay: 0
-    operations:
-    - type: 22
-      targets:
-      - {fileID: 0}
-      floatVal: 1
-      stringVal: 
-      stringVal2: 
-      stringVal3: 
-      stringVal4: 
-      boolVal: 0
-      boolVal2: 0
-      gameObjectVal: {fileID: 0}
-      floatVal2: 1
-      floatVal3: 0
-      floatVal4: 0
-      varBufferVal: {fileID: 0}
-      varBufferVal2: {fileID: 0}
-      varBufferVal3: {fileID: 0}
-      animationVal: {fileID: 0}
-      customEvent:
-        m_PersistentCalls:
-          m_Calls: []
+    operations: []
     actionType: 5
     execType: 1
     layerMask:
@@ -376,6 +355,7 @@ MonoBehaviour:
     allowedPointerCollapse: 0
     allowedTypes:
     - chainReactBomb
+    - fire
     allowedTypesCollapse: 1
     specificParticleSystems: []
     specificParticleSystemsCollapse: 0
@@ -446,6 +426,7 @@ GameObject:
   - component: {fileID: 395505478408394305}
   - component: {fileID: 2832813364214496860}
   - component: {fileID: 1605306369551067085}
+  - component: {fileID: 397605122957921441}
   m_Layer: 0
   m_Name: ExplodeParticles
   m_TagString: Untagged
@@ -5307,6 +5288,19 @@ ParticleSystemRenderer:
   m_MeshWeighting2: 1
   m_MeshWeighting3: 1
   m_MaskInteraction: 0
+--- !u!114 &397605122957921441
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2096513107705507057}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 39d87b8783794dfd81ce396483019cbb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  type: fire
 --- !u!1 &2183577983593810149
 GameObject:
   m_ObjectHideFlags: 0
@@ -5862,6 +5856,7 @@ MonoBehaviour:
     allowedPointerCollapse: 0
     allowedTypes:
     - chainReactBomb
+    - fire
     allowedTypesCollapse: 1
     specificParticleSystems: []
     specificParticleSystemsCollapse: 0
@@ -5894,8 +5889,14 @@ MonoBehaviour:
   useAdvancedTrigger: 1
   allowedTypes:
   - chainReactBomb
+  - fire
   allowParticleInteraction: 1
-  enterTasks: []
+  enterTasks:
+  - settingIndex: 1
+    settingValue: 0
+    delay: 0
+    holdTime: 0
+    updateMethod: 1
   exitTasks: []
   stayTasks: []
   sampleDirection: 0
@@ -5910,7 +5911,7 @@ GameObject:
   - component: {fileID: 2031302137996969660}
   - component: {fileID: 6075474034361589749}
   - component: {fileID: 4388588507956748483}
-  m_Layer: 23
+  m_Layer: 0
   m_Name: Ragdoller
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -5978,7 +5979,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &8453878857483353196
 Transform:
   m_ObjectHideFlags: 0
@@ -11110,6 +11111,215 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!1 &4201423830011401265
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2997945286412632972}
+  - component: {fileID: 7281398570941540519}
+  - component: {fileID: 495062647515152750}
+  m_Layer: 0
+  m_Name: ExplodeSoundManual
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2997945286412632972
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4201423830011401265}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 9016464995767744302}
+  m_RootOrder: 3
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!82 &7281398570941540519
+AudioSource:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4201423830011401265}
+  m_Enabled: 1
+  serializedVersion: 4
+  OutputAudioMixerGroup: {fileID: 0}
+  m_audioClip: {fileID: 8300000, guid: a8dd4d63aacad8244a8548faf106eceb, type: 3}
+  m_PlayOnAwake: 1
+  m_Volume: 1
+  m_Pitch: 1
+  Loop: 0
+  Mute: 0
+  Spatialize: 1
+  SpatializePostEffects: 1
+  Priority: 128
+  DopplerLevel: 1
+  MinDistance: 1
+  MaxDistance: 500
+  Pan2D: 0
+  rolloffMode: 0
+  BypassEffects: 0
+  BypassListenerEffects: 0
+  BypassReverbZones: 0
+  rolloffCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 1
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  panLevelCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  spreadCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  reverbZoneMixCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+--- !u!114 &495062647515152750
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4201423830011401265}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 59c3684b22f00604a97bb68037fcf4cd, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  directBinaural: 1
+  interpolation: 0
+  distanceAttenuation: 1
+  distanceAttenuationInput: 0
+  distanceAttenuationValue: 1
+  airAbsorption: 0
+  airAbsorptionInput: 0
+  airAbsorptionLow: 1
+  airAbsorptionMid: 1
+  airAbsorptionHigh: 1
+  directivity: 1
+  directivityInput: 0
+  dipoleWeight: 0
+  dipolePower: 0
+  directivityValue: 1
+  occlusion: 1
+  occlusionInput: 0
+  occlusionType: 0
+  occlusionRadius: 1
+  occlusionSamples: 16
+  occlusionValue: 1
+  transmission: 0
+  transmissionType: 0
+  transmissionInput: 0
+  transmissionLow: 1
+  transmissionMid: 1
+  transmissionHigh: 1
+  directMixLevel: 1
+  reflections: 1
+  reflectionsType: 0
+  useDistanceCurveForReflections: 0
+  currentBakedSource: {fileID: 0}
+  reverbTimeLow: 0
+  reverbTimeMid: 0
+  reverbTimeHigh: 0
+  hybridReverbEQLow: 1
+  hybridReverbEQMid: 1
+  hybridReverbEQHigh: 1
+  hybridReverbDelay: 0
+  applyHRTFToReflections: 0
+  reflectionsMixLevel: 1
+  pathing: 0
+  pathingProbeBatch: {fileID: 0}
+  pathValidation: 1
+  findAlternatePaths: 1
+  pathingEQ:
+  - 1
+  - 1
+  - 1
+  pathingSH:
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  applyHRTFToPathing: 0
+  pathingMixLevel: 1
 --- !u!1 &4351163469846130123
 GameObject:
   m_ObjectHideFlags: 0
@@ -11174,6 +11384,7 @@ Transform:
   - {fileID: 395505478408394305}
   - {fileID: 8453878857483353196}
   - {fileID: 5120997285205599882}
+  - {fileID: 2997945286412632972}
   m_Father: {fileID: 3993638810615261317}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -16316,7 +16527,7 @@ GameObject:
   - component: {fileID: 238339668621827354}
   - component: {fileID: 7645554126574682011}
   - component: {fileID: 1495098945599248721}
-  m_Layer: 23
+  m_Layer: 0
   m_Name: ChainReactBomb
   m_TagString: Untagged
   m_Icon: {fileID: 0}
