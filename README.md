@@ -87,6 +87,7 @@ Below are assets that are not included and **must be installed prior of usage an
 - [VRA-05 `Morph`](https://gh0stt.gumroad.com/l/morph). **Paywalled**. Instead, [this partialized free version](https://gh0stt.gumroad.com/l/morph) included.
 - [Hekky Shaders](https://www.patreon.com/hekky). **Paywalled**. Instead, [this partialized free version](https://github.com/hyblocker/hekky-shaders) included.
 - [Khodrin HUD Assets](https://khodrin.gumroad.com/l/hud_shader_3). **Paywalled**.
+- [AllSky HDRI Skybox](https://assetstore.unity.com/packages/2d/textures-materials/sky/allsky-220-sky-skybox-set-10109). **Paywalled**. Instead, the [demo version](https://assetstore.unity.com/packages/2d/textures-materials/sky/allsky-free-10-sky-skybox-set-146014) is included
 
 <!-- Pls include all free but CCK, to backup! -->
 > ~~Some packages (e.g. `.unitypackage` extracted) are included for ***convenience***~~ All $0 & Redistribution allowed licensed `.unitypackage`s are included.  

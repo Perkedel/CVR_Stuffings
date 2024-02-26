@@ -4622,3 +4622,13 @@ New Sauce lists
 - `Disconnect Session`, rejoin.
 - if not working, restart.
 - thancc GhostRobot.
+- https://youtu.be/0sfZvjs5nNM?si=y1punwnM2ElhWBbA blender runs doom
+- https://sando21.gumroad.com/l/mitabf free
+- https://sando21.gumroad.com/
+- https://sando21.gumroad.com/l/klaef **paid**
+- https://x.com/KenneyNL/status/1762093963601678787?s=20 **PROMO**
+- https://assetstore.unity.com/packages/2d/textures-materials/sky/allsky-free-10-sky-skybox-set-146014 **demo**
+- https://github.com/rpgwhitelock/AllSkyFree_Godot HAa?
+- https://kaylousberg.itch.io/prototype-bits **PAID** with demo
+- https://www.patreon.com/kaylousberg/posts
+- https://vxtwitter.com/TikkaQrow/status/1757004335240921370?s=20
