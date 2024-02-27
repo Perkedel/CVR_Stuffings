@@ -355,6 +355,7 @@ Here are the UUIDs of all these assets we uploaded to CVR:
 | `dd4303c8-3f5c-4fed-9d37-21e8836310e3` | iPoly3D Low Poly Server Room | JOELwindows7 | . |
 | `d55da2f2-6349-4558-ad6e-f74ce92945af` | Minimum World | JOELwindows7 | . |
 | `56925a80-f3d7-40c3-ab06-3d2b299ab77b` | Zuuljedus' homeworld | JOELwindows7 | . |
+| `9d1b1385-6e80-4a2a-a2a4-7d081daef12b` | ClubDNB | JOELwindows7 | Gravity Zone Night club |
 | `3fe2b7c3-129a-418e-87ad-c3931657f843` | UCC Cinema | MilchZocker | (**NOT PERKEDEL**) |
 | `af0f00bc-0702-46ce-9441-bcce0ad6c813` | UCC Avatars | MilchZocker | (**NOT PERKEDEL**) |
 | `9d0677a5-b88f-4994-901b-7b91c99e8cd8` | UCC Bird Island | MilchZocker | (**NOT PERKEDEL**) |
