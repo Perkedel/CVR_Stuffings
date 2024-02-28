@@ -1,0 +1,4660 @@
+# Sauces
+
+> WARNING: Some Sauce URLs may contain NSFW. Viewer discretion is advised.
+
+New Sauce lists
+
+## Dump Links NSFW
+
+- https://youtu.be/tnPS_l-1N94?si=ZHS3yb_UwXq7o8Bd how to prop
+- https://youtu.be/a98qCeLAogw?si=y0Rjmnn5fB7sq6za how to convert from vrc to cvr
+- https://youtu.be/t1dp00Ot3N8?si=vGoCEuC83_OA7C2S how to video player
+- https://youtu.be/xsB__FC5Jf0?si=LKYKiIDIuRKj-wVk how to mod cvr
+- https://youtu.be/8qSok3zPhvU?si=6K9KiZb6rcTz6i4k how to magica cloth
+- https://youtu.be/7yAzUAkDdDI?si=z7hJQKj1KB0Y7x8n how to boop
+- https://youtu.be/q-Q5EUr_6Mo?si=0Vmb741o7hcvtjt6 how to upload avatar conver from vrc
+- https://youtu.be/xkRUD1Ox9rU?si=0ja5QvyXVT17Da6- chair prefab
+- https://youtu.be/qkmRsS9fB1A?si=zfptjnSc8P55x4id avatar basic
+- https://youtu.be/_i2GiYA1Fug?si=ymhNp4meG97M_s4q local test world
+- https://youtu.be/OatATrRSO2A?si=Ix0zOX2F8w2Qx0fU how to World
+- https://youtu.be/GOslhH_mlwg?si=B18KD2Tp4XA5sCfY how to upload
+- https://youtu.be/XMfqNyvXMfo?si=zs0C4IvfSoulH6H1 ANJAAAAAAAY...
+- https://www.nirsoft.net/ Nir Sofer's softwares full of utilities
+- https://launcher.nirsoft.net/ Nirsoft launcher. Password listed on that website `nirsoft9876$`. It's like that because agressive antivirus would sus it without it.
+- https://dippythefoxderg.gumroad.com/ Dippy's objects
+- Incoming Howard the Alien
+- https://vrcmods.com/item?id=3060
+- https://www.youtube.com/watch?v=3E56N7si8XQ This
+- https://mega.nz/file/sbB0BSpS#1uHZ-Y_5PN16RM6llg61THgkaSc-bEC8kKtZRUFOT28 was gone. That's the original 3D AL's Howard model.
+- https://skfb.ly/6BJGR This remake one is terrible! I'd be honest with you
+- https://skfb.ly/6Csn7 So we have to extract the file
+- https://web.archive.org/web/20231031134535/https://mega.nz/file/sbB0BSpS#1uHZ-Y_5PN16RM6llg61THgkaSc-bEC8kKtZRUFOT28 Archive hates MEGA
+- https://steamcommunity.com/sharedfiles/filedetails/?id=1622701252 and there is no time without contemplating that vast files have been gone, even beyond say, Heimdall's seeings
+- https://odysee.com/@X0P1R4T3-33NSVREENMNT-0FFICIAL:f/howard-the-alien-fbx:3 Here ungoned Howard the Alien
+- End Howard the Alien
+- https://fluffs.gumroad.com/l/sdk3-to-cck convert Avatar VRC to CVR
+- https://github.com/Narazaka/VRC2CVR Convert Avatar VRC to CVR YA!
+- https://fluffs.gumroad.com/l/VRCDynamicBoneToPhysicsBoneConverter Convert VRC PhysBones to & from
+- https://wetcat.gumroad.com/ oh man.. sss. Wrong dude, it's the paywall, what?! next. Wait, get all of $0 ones!
+- https://chilloutvr.eu/ Unofficial ChilloutVR community Discord
+- https://session.chilloutvr.eu/ Forum directory
+- https://session.chilloutvr.eu/ Open Group Room directory
+- https://github.com/ZettaiVR/VRC2CVR
+- https://github.com/imagitama/vrc3cvr
+- https://booth.pm/ja/items/4032295
+- https://github.com/Dreadrith/PhysBone-Converter
+- https://github.com/Markcreator/VRChat-Tools
+- https://github.com/Markcreator/Unity-Tools
+- https://youtu.be/hr7GyFM7pX4?si=4vFs6RgKwFHShIiC DairyOrange Fart Extra Reverb
+- https://github.com/MilchZocker?tab=repositories Source code of every MilchZocker
+- https://mikedabird.itch.io/avigen
+- https://docs.google.com/document/d/1diQRcDXPP_qaf0yT6INq4UhrhlawIQ_GLs2yjtUutAE/edit#heading=h.p9e4plmyq5cr
+- https://github.com/llealloo/vrc-udon-audio-link
+- https://github.com/DomNomNomVR/cvr-audio-link
+- https://askubuntu.com/questions/1381100/no-longer-able-to-download-youtube-using-youtube-dl-how-do-i-fix-this-problem
+- https://emojipedia.org/guy-fawkes?emoji=guy-fawkes
+- https://blog.emojipedia.org/samsung-one-ui-6-0-emoji-changelog/
+- https://blog.emojipedia.org/microsoft-windows-11-23h2-emoji-changelog/
+- https://sponsor.ajay.app/
+- https://dearrow.ajay.app/
+- https://wiki.sponsor.ajay.app/w/Guidelines
+- https://github.com/yt-dlp/yt-dlp#standalone-py2exe-builds-windows
+- https://docs.python.org/3/library/zipimport.html
+- https://en.wikipedia.org/wiki/Beerware
+- https://github.com/TayouVR/CVR-CCK
+- https://www.youtube.com/watch?v=bALvLFDcDvY
+- https://arkorenart.gumroad.com/l/spectrum
+- https://www.reddit.com/r/ChilloutVR/comments/17nvoe3/virtual_reality_mastodon_instance/?utm_source=share&utm_medium=web2x&context=3
+- https://www.reddit.com/r/ChilloutVR/comments/17nmrgo/friday_night_drinking_night/?utm_source=share&utm_medium=web2x&context=3
+- https://www.reddit.com/r/ChilloutVR/comments/wctfy4/finally_ported_all_my_public_avatars_over_to_cvr/?utm_source=share&utm_medium=web2x&context=3
+- https://twitter.com/Shelfen90/status/1505330028057403392
+- https://twitter.com/B33_Bratty/status/1505832109616742400
+- https://www.youtube.com/watch?v=SyLuutxY_mM
+- https://www.youtube.com/watch?v=SyLuutxY_mM
+- https://www.patreon.com/poiyomi/posts
+- https://sfbgames.itch.io/chiptone Generate SFX pls!!!!!
+- https://discord.gg/sHN9x2n2j8 STARCVR pls
+- https://drive.google.com/file/d/1P-Tds7rIppLZAZ2JG-6d7nv9rhS-caHl/view Disconeer Bean Staff
+- https://twitter.com/Khodrin3D/status/1474042570238042122
+- https://khodrin.com/christmas-scarf/ OOOOOO!!!
+- end STARCVR
+- https://docs.unity3d.com/ScriptReference/ParticleSystem.Clear.html
+- https://kenney.nl/assets/furniture-kit
+- https://www.reddit.com/r/gamedev/comments/7nvqwj/heres_120_furniture_models_including_isometric/
+- https://www.blender3darchitect.com/furniture-models/120-free-low-poly-furniture-models/
+- https://github.com/ValveSoftware/steam-audio Will you pls install Steam Audio pls?!??!?!?!??!
+- https://discord.com/invite/K6tsPtsgd7 Kjoy's Discord Server pls. We got it from Steam Audio sample world!
+- https://steamdb.info/app/661130/history/?changeid=20993745
+- https://youtu.be/srrW9TTKnlg?si=SrPXvKgcNjW_Yfba Tye. How am I supposed to avatar with fresh pure package?!?!?
+- https://youtu.be/I5dSZ3FZShM?si=qcAc8SPCfyFSS2m8 quick convert vrc to cvr avatar
+- https://freesound.org/people/loudernoises/sounds/332808/ Synthetic 100 BPM heartbeat sound iyey
+- https://dc.theworldcore.link Discord of NovaVoidHowl. Found at NVH's avatar world
+- https://www.tumblr.com/joelwindows7/733271993109069824/yess-i-did-it-kinda?source=share Official Heartbeat content CVR 1st time
+- https://assetstore.unity.com/packages/3d/characters/unity-chan-model-18705
+- https://vocaloid.fandom.com/wiki/Unity-chan!_(VOCALOID4)
+- https://assetstore.unity.com/publishers/7659
+- https://assetstore.unity.com/packages/3d/animations/haon-sd-series-bundle-84992
+- https://youtu.be/xkRUD1Ox9rU?si=2dDqXv4MtE8T16O1 how to sitt pt. 1
+- https://youtu.be/ZuyJTO1V5ls?si=9mevrOPiGK45dBuH how to sitt pt. 2
+- https://discussions.unity.com/t/how-to-add-rotation-to-current-rotation-over-time/182630
+- https://en.wikipedia.org/wiki/Cron
+- https://github.com/racushstrago/CVR-Props
+- https://www.youtube.com/watch?v=HmXU4dZbaMw
+- https://docs.unity3d.com/ScriptReference/Rigidbody-sleepVelocity.html
+- https://forum.unity.com/threads/how-to-reproduce-the-standard-input-getaxis-horizontal-in-the-new-input-system.706562/
+- https://skfb.ly/COBy PeteHawk. WhoopieCushion CC4.0-BY
+- https://skfb.ly/oFIup AndyBegg. WhoopieCushion CC4.0-BY
+- SITT GETOUT? Sit chair cheat tool. drag this exit position beyond wall. sit, then stand up to teleport to that exit location.
+- https://skfb.ly/ow6pS 6 twelve
+- https://thryeditor.thryrallo.de/#article-presets
+- https://github.com/Thryrallo/ThryEditor
+- https://github.com/poiyomi/PoiyomiToonShader
+- https://valvesoftware.github.io/steam-audio/doc/unity/reference.html
+- https://www.bhaptics.com/tactsuit/tactsuit-x40
+- https://feedback.abinteractive.net/p/world-scripting scripter pls add, ABI
+- https://feedback.abinteractive.net/p/ditch-using-play-mode-for-uploading-content-in-unity Play mode upload is performance bane
+- https://feedback.abinteractive.net/p/booth-gumroad-patreon-integration-specifically-for-content-creators-that-upload-stuff-to-the-game
+- https://github.com/akasaki1211/AkBoneDynamics
+- https://feedback.abinteractive.net/p/implementation-of-akbones
+- https://feedback.abinteractive.net/p/a-universal-scaling-system-for-props-avatars
+- https://github.com/NotAKidOnSteam/AvatarScaleTool
+- https://feedback.abinteractive.net/p/a-universal-scaling-system-for-props-avatars
+- https://feedback.abinteractive.net/p/growth-shrink-ray
+- https://twitter.com/XiexeVR/status/1601777707322601472
+- https://feedback.abinteractive.net/p/advanced-avatar-settings-sub-menus
+- Mass upload pls?
+- https://feedback.abinteractive.net/p/unlisted-avatars-props
+- https://feedback.abinteractive.net/p/prop-tag-for-advertisements-and-a-way-to-block-them-per-instance-world
+- https://feedback.abinteractive.net/p/instance-history
+- https://feedback.abinteractive.net/p/development-version-of-worlds
+- https://feedback.abinteractive.net/p/booth-gumroad-url-open-in-browser-component
+- https://feedback.abinteractive.net/p/qr-code-scanner-in-camera
+- https://feedback.abinteractive.net/p/booth-gumroad-url-open-in-browser-component
+- https://feedback.abinteractive.net/p/open-source-cck-via-version-control-e-g-git
+- https://feedback.abinteractive.net/p/posing-system
+- https://feedback.abinteractive.net/p/open-source-alternative-to-physbones
+- https://feedback.abinteractive.net/p/custom-tagging-search-tags
+- https://feedback.abinteractive.net/p/indicator-when-avatar-prop-world-download-failed-ingame-full-disk
+- https://feedback.abinteractive.net/p/cvr-video-player-option-to-grab-youtube-thumbnails
+- https://feedback.abinteractive.net/p/manual-portal-placement
+- https://assetstore.unity.com/packages/tools/game-toolkits/physics-tank-maker-50485
+- https://feedback.abinteractive.net/p/rcc-but-for-tracked-vehicles
+- https://feedback.abinteractive.net/p/adding-steering-wheel-support-for-rcc-cars-and-likewise-props
+- https://feedback.abinteractive.net/p/feature-request-wsm-train-script
+- broadcast world / prop / avatar from local?
+- https://youtu.be/zIRPkDwbfac?si=obrS_6BQuQGKqJg_
+- https://youtu.be/j4sFnJccOcM?si=MX8z0zH0Z3pHurWZ MrTactical. There you pecking are! the Interactable Script tutorial... I hope this works. pls work lah! **learning esolang is haaaaaaaaaaaaaaaaaaaaaaaard!!!**
+- wait, that's all? the programming I'm looking for!!!
+- https://youtu.be/qisJ76vk62w?si=vnnPea4JVLn0RX1l
+- https://youtube.com/playlist?list=PL-jAwYaAzuBsuyRLcXXrazP8nREIWWg7r&si=4h1Di4rhFvYf3SbP Playlist of it yey
+- https://lingojam.com/EOSL:Emoji-OrientedSignLanguage
+- https://id.pinterest.com/pin/848365648554263551/
+- https://emojipedia.org/deaf-person
+- https://www.unicode.org/L2/L2016/16071-three-fingers.pdf
+- https://thehungergames.fandom.com/f/p/3100000000000032123/r/3087807785174657258
+- https://github.com/PrismYoutube/Unity-Car-Controller
+- https://feedback.abinteractive.net/p/midi-support-for-playback-data-sending-network-streaming-and-controllers
+- https://feedback.abinteractive.net/p/movement-flight-prop-tag-for-non-fly-worlds
+- https://feedback.abinteractive.net/p/movement-flight-prop-tag-for-non-fly-worlds
+- https://feedback.abinteractive.net/p/fly-with-clipping
+- https://feedback.abinteractive.net/p/i-was-wondering-if-it-is-possible-to-limit-the-number-of-avatars-you-load-in
+- https://feedback.abinteractive.net/p/cvr-spawnable-local-synced-values
+- https://feedback.abinteractive.net/p/companion-app-for-cvr
+- https://feedback.abinteractive.net/p/marking-instances-as-mature
+- https://feedback.abinteractive.net/p/mature-dlc-only-instances-worlds
+- https://feedback.abinteractive.net/p/the-unity-layer-system-needs-help
+- https://feedback.abinteractive.net/p/still-seeing-props-from-blocked-users
+- https://feedback.abinteractive.net/p/per-user-audio-falloff
+- https://feedback.abinteractive.net/p/prop-zones
+- https://feedback.abinteractive.net/p/prop-whitelist-for-worlds
+- https://feedback.abinteractive.net/p/website-functionality
+- https://feedback.abinteractive.net/p/advanced-safety-settings-needs-an-indicator-for-when-an-avatar-is-affected
+- https://feedback.abinteractive.net/p/velocity-parameter-stream
+- https://feedback.abinteractive.net/p/de-listing-of-legacy-worlds-that-are-significantly-broken
+- https://feedback.abinteractive.net/p/pico-neo-support-specifically-3-and-4
+- https://feedback.abinteractive.net/p/object-sync-broken
+- https://store.steampowered.com/news/app/661130/view/3796032312660573554
+- fsd
+- https://assetstore.unity.com/publishers/1
+- https://github.com/handzlikchris/FastScriptReload
+- https://assetstore.unity.com/packages/tools/utilities/fast-script-reload-239351
+- https://assetstore.unity.com/packages/tools/gui/in-game-debug-console-68068
+- https://github.com/yasirkula/UnityIngameDebugConsole
+- https://www.bhaptics.com/tactsuit/tactsuit-x40
+- https://www.reddit.com/r/ChilloutVR/comments/yrx5pt/does_dps_work/
+- https://en.wikipedia.org/wiki/4K_resolution
+- https://internetcheckpoint.page/Q9XTqQbuavI
+- https://booth.pm/en/items/5231989
+- https://booth.pm/en/items/5155673
+- https://en.wikipedia.org/wiki/4K_resolution
+- https://github.com/Yusarina pls download all Jolia files!!!
+- https://github.com/Yusarina/Cats-Blender-Plugin-Unofficial- Hoo???
+- https://github.com/michaeldegroot/cats-blender-plugin/
+- https://github.com/Kyobinoyo/Pencil-Prop don't forget this one
+- https://github.com/VoyVivika?tab=repositories iyeayeeiy VoyVivika
+- https://assetstore.unity.com/packages/tools/utilities/live-script-reload-on-device-hot-reload-239380 YOu sone of a
+- https://assetstore.unity.com/publishers/46154
+- https://sherbertdragon.gumroad.com/ yoooooooooooooooooooooooooo
+- https://zueda.gumroad.com/ OAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAARGH
+- https://github.com/NovaVoidHowl/BlenderBits/blob/main/Moving-Bones-From-Armature-To-Armature.md
+- https://assetstore.unity.com/packages/tools/animation/final-ik-14290 maybe I should have commission more freer than ever, in which catch is to be there on my account.
+- https://assetstore.unity.com/packages/tools/physics/magica-cloth-160144
+- https://sketchfoxsky.gumroad.com/
+- https://docs.google.com/spreadsheets/d/e/2PACX-1vSlKw7F4duN6QvoZqP4gAGjy99k4Ngi5arvKe1r0VGeWg5dnqhWXP1r5YcFJ3-gkaOwQgdpt-XUnd8G/pubhtml#
+- https://mommamollycvr.gumroad.com/l/gxruw
+- https://sketchfoxsky.gumroad.com/l/CKeeN
+- https://github.com/NovaVoidHowl/CVR---Guides-Notes
+- https://github.com/NovaVoidHowl/CVR---Guides-Notes/blob/main/file-locations-and-info.md
+- https://github.com/cpenny42/juce-soundfonts/issues/2
+- https://github.com/cpenny42/juce-soundfonts/pull/3#issuecomment-1788963545
+- https://github.com/Perkedel/CVR_Stuffings/issues/1
+- https://feedback.abinteractive.net/p/material-swap-in-cck
+- https://github.com/unity3d-jp/UnityChanToonShaderVer2_Project/blob/release/legacy/2.0/UTS2_ShaderOnly_v2.0.9_Release.unitypackage
+- https://github.com/unity3d-jp/UnityChanToonShaderVer2_Project/
+- https://github.com/lilxyzw/lilToon/releases/download/1.3.7/lilToon_1.3.7.unitypackage
+- https://github.com/lilxyzw/lilToon/
+- https://github.com/whiteflare/Unlit_WF_ShaderSuite
+- https://github.com/OmochiNobiru/DPSShaderGenerator2
+- https://github.com/VoyVivika/CVR-Tutorial-Prop
+- https://github.com/VoyVivika/VivikaShader/releases
+- https://github.com/VoyVivika?tab=repositories
+- https://github.com/VoyVivika/shapeshift1
+- https://github.com/VoyVivika/shapeshift
+- https://github.com/VoyVivika/GodSpeakBot
+- https://github.com/Kavex/ChilloutVR_Prefabs/releases Pls install all these will ya?
+- https://www.youtube.com/watch?v=_1zzRLMHlDM
+- https://3dwarehouse.sketchup.com/model/4ee36dd6-7482-41a2-87ff-ceaefc83c4da/Rippchen
+- https://3dwarehouse.sketchup.com/model/4ee36dd6-7482-41a2-87ff-ceaefc83c4da/Rippchen
+- https://3dwarehouse.sketchup.com/model/4ee36dd6-7482-41a2-87ff-ceaefc83c4da/Rippchen
+- https://3dwarehouse.sketchup.com/model/4ee36dd6-7482-41a2-87ff-ceaefc83c4da/Rippchen
+- https://imgur.com/a/gKzuoze
+- https://imgur.com/a/HiQHKc6
+- https://imgur.com/a/HiQHKc6
+- https://imgur.com/a/HiQHKc6
+- https://imgur.com/a/iPeoQrR
+- https://imgur.com/a/8Wo6Ed5
+- https://imgur.com/a/XbczvRS
+- https://github.com/NovaVoidHowl/Mesh-Bone-Rebind.git
+- https://github.com/NovaVoidHowl/NavMesh-Follower-Setup
+- https://github.com/kafeijao/Kafe_CVR_CCKs/blob/master/NavMeshFollower/README.md
+- https://assetstore.unity.com/packages/tools/animation/final-ik-14290 BUSET IDR 3 JUTA!!!!
+- https://github.com/kafeijao/Kafe_CVR_CCKs/blob/master/NavMeshFollower/README.md
+- https://github.com/kafeijao/Kafe_CVR_CCKs
+- https://blog.unity.com/news/open-letter-on-runtime-fee
+- https://blog.unity.com/news/plan-pricing-and-packaging-updates
+- https://blog.unity.com/engine-platform/2023-3-coming-april-2024-with-updates
+- https://unity.com/releases/editor/qa/lts-releases
+- https://unity.com/releases/lts
+- https://unity.com/releases/editor/qa/lts-releases?version=2021.3 2021.3 is legacy LTS and gets last support in mid-2024
+- Welcome to another video, from [ExplainingComputers, dot com](https://explainingcomputers.com). This time..
+- .
+- https://past.furality.org/f4/legendaryshader iyey Furality shader
+- https://furality.org/ website furality
+- https://twitter.com/NaitoOokami who made this shader
+- https://www.twitch.tv/furality
+- https://github.com/Thorinair/LumaDriver-for-ChilloutVR You check this too!
+- https://past.furality.org/f3/lumaglow OH MOAR
+- https://past.furality.org/f5/aqua-assets YESS!!
+- https://furality.org/asset-license
+- https://github.com/Thorinair/Chryssy
+- https://github.com/Thorinair?tab=repositories
+- https://github.com/Ksisa/Avali-Continued-1.1
+- https://steamcommunity.com/sharedfiles/filedetails/?id=1732147907
+- https://github.com/Thorinair/Steam-The-Punks
+- https://avali.fandom.com/wiki/The_Official_Avali_Wiki
+- https://github.com/Thorinair/Avalon-Harmonics
+- https://avalon-harmonics.com/
+- https://github.com/Ksisa/Avali-Continued-1.1
+- https://github.com/Thorinair/AuraDriver
+- https://evilbetty.booth.pm/items/4059518
+- https://evilbetty.booth.pm/items/4053039
+- https://youtu.be/r_ErytGpScQ?si=qQIzmyQSxqPSShDA I wish, gamers.
+- https://youtu.be/IouiZ1J_AJo?si=HKZhE0efjfKpLJPA wai wait, This is the one!!!
+- https://youtu.be/GC-ZmlwBWKM?si=d1YAfkQwk1DHyKYq and this the music.
+- https://feedback.abinteractive.net/p/2023r173-amd-users-voice-system-issue-with-game-not-focused
+- https://feedback.abinteractive.net/p/dark-mode-option-for-the-hub-website
+- https://feedback.abinteractive.net/p/vr-login-screen
+- https://feedback.abinteractive.net/p/official-cvr-wiki
+- https://feedback.abinteractive.net/p/quest-version
+- https://twitter.com/Sakura_Rabbiter?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor
+- https://x.com/Sakura_Rabbiter/status/1717229001322959341?s=20
+- https://sakura-rabbit.fanbox.cc/
+- https://assetstore.unity.com/sakura-rabbit
+- https://sakura-rabbit.fanbox.cc/posts/6421683
+- https://sakura-rabbit.fanbox.cc/posts/4671237
+- https://sakura-rabbit.fanbox.cc/posts/4145183 nope, no project. uhh
+- https://sakura-rabbit.fanbox.cc/posts/6884244
+- https://sakura-rabbit.fanbox.cc/posts/6825017
+- oh noo
+- https://sakura-rabbit.fanbox.cc/posts/6966853
+- Great. Now how did they made dick wiggle & this breathing torso, all within built-in RP. I am supposed to Godot, why the heck we Unity here?!
+- https://sakura-rabbit.fanbox.cc/posts/4144873 fuck...
+- I am not sure if that person ever had Breathing project on sale. These for sale projects are spans around this year, 2023 of November today, to October. Oh this could be.. idk.
+- https://youtu.be/9tjYz6Ab0oc?si=FCrxEWx6F-jvnRAX
+- https://youtu.be/wNdszCgpzZQ?si=8RQmH3O8reVRVmHo
+- https://github.com/fholger/openvr_fsr
+- https://github.com/fholger/vrperfkit
+- https://archiveofourown.org/works/47561710
+- https://github.com/Kavex/GameDev-Resources
+- https://github.com/PWhiddy/PokemonRedExperiments
+- https://github.com/Kavex/UsefulSoftware4IT
+- https://github.com/Kavex/Various-Code
+- https://github.com/Guad/sm64o
+- https://github.com/Kavex/CCConline
+- https://github.com/bluenviron/mediamtx
+- https://github.com/Kavex/Desperate-Gods-Tabletop-Simulator-Edition
+- https://github.com/Kavex/GameSounds
+- https://www.nirsoft.net/utils/uninstall_view.html
+- https://www.nirsoft.net/utils/uninstall_view.html
+- https://github.com/ShareX/ShareX
+- https://github.com/ShareX/ShareX
+- https://sourceforge.net/projects/ditto-cp/
+- https://www.speedtest.net/apps/cli
+- https://geekuninstaller.com/download
+- https://github.com/NovaVoidHowl/VRC-MultiOSC
+- https://github.com/SutekhVRC/VOR
+- https://github.com/SutekhVRC/VOR
+- https://dev.abinteractive.net/official/legal/tos/
+- https://github.com/Kavex/GameSounds GNU GPL v3
+- https://assetstore.unity.com/packages/3d/props/3d-chest-object-50741 Layer Lab's 3D Chest Object! **The asset is free**, the [Sketchfab preview](https://skfb.ly/ILHv) **has no download button** & Sketchfab or themselves **removed the link back** to this asset store.
+- https://www.youtube.com/watch?v=_R5VAVgYo54
+- https://github.com/MistressPlague/ChilloutButtonAPI
+- https://booth.pm/en/items/2734506
+- https://booth.pm/en/items/2644492
+- https://booth.pm/en/items/2995458
+- https://booth.pm/en/items/3426597
+- https://booth.pm/en/items/2499651
+- https://github.com/madjin/awesome-vrchat
+- https://www.youtube.com/watch?v=ibDu0dCeUE8&t=0s
+- https://www.youtube.com/watch?v=ibDu0dCeUE8&t=0s
+- https://github.com/vrchat-community/UdonSharp
+- https://booth.pm/en/items/4039197
+- https://assetstore.unity.com/packages/tools/gui/simple-animated-functional-3d-buttons-mobile-ar-pc-ready-97333
+- https://github.com/madjin/awesome-vrchat
+- https://booth.pm/en/browse/3D%20Character%20Attachments
+- https://booth.pm/en/items/2700784
+- https://youtu.be/GSo_fU1JdfM?si=Slz1iVr1GYS1hXt3
+- https://youtu.be/n-o2e4KxbW4?si=WtpP3-bHTHUESxSP
+- https://assetstore.unity.com/packages/tools/modeling/splinemesh-104989 fuck it's only since 2022, use this instead
+- https://assetstore.unity.com/packages/tools/utilities/dreamteck-splines-61926 Don't get excited tho. Are any of these whitelisted?
+- https://twitter.com/triwavebz/status/1514302395836100609?s=20 Protogen free 3d model
+- https://drive.google.com/drive/folders/1JPh85gOn74EI8hujZB8KZcrOkNDQmolt download protogen free
+- https://creators.vrchat.com/releases/release-3-4-1
+- https://creators.vrchat.com/sdk/
+- https://vcc.docs.vrchat.com/guides/getting-started/
+- https://www.reddit.com/r/VRchat/comments/605c9j/cant_get_the_vrchat_sdk/
+- https://github.com/vrchat/packages/releases
+- https://github.com/vrchat/packages
+- https://vcc.docs.vrchat.com/guides/getting-started/
+- https://vcc.docs.vrchat.com/guides/getting-started/
+- https://github.com/vrchat/packages/releases
+- WHAT?! YOU (VRChat) STILL USES `2019.4.31F1` 🗿🚨🚨🚨🚨🚨🚨🚨🚨🗿🗿🗿🗿🗿🗿🗿🗿?!??!
+- https://x.com/discord/status/1138488312262381568?s=20
+- https://x.com/voicemod/status/1722690519912906952?s=20
+- https://twitter.com/nostalgen?lang=ca
+- https://www.tumblr.com/joelwindows7/720838722101313536/top-betrayal-of-websites-where-people-migrated?source=share
+- https://www.tumblr.com/alex-chaser/714288372219330560/oh-my-god-guys-how-could-you-plan-something-like?source=share
+- https://joelwindows7.tumblr.com/post/720553739135631360/the-grid-mode
+- https://hello.vrchat.com/vrchatplus You sonuva..
+- First Apple with Procreate, `Copy` button
+- Then you. Subscription symbol!!! WHAT?!?!?
+- RALLY?? Not subscribing limits your add avatar to favourite?!?!?! OH c'mon, in CVR, the not paid account only limits the avatar upload, **NOT THE FUCKING CONSUMPTION!!!**
+- https://hello.vrchat.com/vrchat-plus-faq#Trust
+- https://ltcgi.dev/Advanced/Udon_Sharp_API
+- https://unity.com/releases/editor/archive
+- https://vcc.docs.vrchat.com/guides/getting-started/
+- https://github.com/vrchat/packages/releases
+- https://web.archive.org/web/20220424175341/https://objects.githubusercontent.com/github-production-release-asset-2e65be/412817921/ea75cc97-f679-4430-9d4e-29145b0143e0?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIWNJYAX4CSVEH53A%2F20220424%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20220424T175342Z&X-Amz-Expires=300&X-Amz-Signature=236cf4abd2507acffbd37f35d1ee8515849d244c68ad71319c87174bc2dd84fe&X-Amz-SignedHeaders=host&actor_id=0&key_id=0&repo_id=412817921&response-content-disposition=attachment%3B%20filename%3DDynamic.Bone.Container.v1.3.0.unitypackage&response-content-type=application%2Foctet-stream
+- https://web.archive.org/web/20220417123027/https://github.com/Markcreator/VRChat-Tools/releases
+- https://markcreator.gumroad.com/
+- https://markcreator.net/
+- https://github.com/Markcreator/VRChat-Tools/releases/download/Dynamic.Bone.Container.v1.3.0/Dynamic.Bone.Container.v1.3.0.unitypackage goned
+- https://github.com/Markcreator/VRChat-Tools/commit/16b9639f8c9a4995d4c8dd8b9acbe76423f843f6
+- https://www.vrcarena.com/assets/1633249069939 does not help
+- https://cdn.discordapp.com/attachments/530360261635211274/1020360639316758589/Dynamic.Bone.Container.v1.3.0.unitypackage for fuck sake, Discord!!!
+- https://github.com/Markcreator/VRChat-Tools/releases/
+- https://github.com/Markcreator/VRCTextureCompressor/releases
+- https://github.com/Markcreator/Unity-Tools
+- https://www.reddit.com/r/VRchat/comments/yqs29n/is_markcreators_dynamic_bones_still_available/
+- https://web.archive.org/web/20221109221354/https://cdn.discordapp.com/attachments/530360261635211274/1020360639316758589/Dynamic.Bone.Container.v1.3.0.unitypackage
+- https://github.com/VRLabs/Dynamic-Bones-Stub
+- https://github.com/ttxhxz/UnityA_plan-stage2_getting_started
+- https://github.com/imagitama/vrc3cvr
+- https://assetstore.unity.com/packages/tools/animation/dynamic-bone-16743
+- https://youtu.be/dRy1cG9nCTo
+- https://booth.pm/en/items/2700784 paid
+- https://booth.pm/en/browse/3D%20Models?q=PRefab
+- https://github.com/H-uru
+- https://github.com/orgs/H-uru/repositories
+- https://github.com/H-uru/Plasma
+- https://github.com/H-uru/dirtsand
+- https://github.com/H-uru/moul-assets
+- https://github.com/H-uru/dirtsand
+- https://github.com/H-uru/dirtsand
+- https://github.com/H-uru/Plasma
+- https://github.com/H-uru/agedb
+- https://nardoiri.gumroad.com/l/Nardoragon
+- https://booth.pm/en/items/2911183
+- https://github.com/VRLabs/Ragdoll-System
+- https://vrlabs.gumroad.com/l/ragdoll-system
+- https://booth.pm/en/items/3462994
+- https://booth.pm/en/items/2906380 
+- https://feedback.abinteractive.net/p/adjusting-behaviour-cvr-interactable-input-horizontal-vertical
+- https://feedback.abinteractive.net/p/feature-request-wsm-train-script
+- https://feedback.abinteractive.net/p/nodegraph-block-coding-support
+- https://feedback.abinteractive.net/p/damage-and-object-heath-support-on-props-and-avatars
+- https://feedback.abinteractive.net/p/if-lua-is-chosen-as-the-scripting-language-consider-using-luau-instead
+- https://discord.com/invite/aNsMMhCTxM Can you please bring whatever this CVR Explore group has, thancc.
+- https://uv-license.com/en/license?utf8=%E2%9C%93&pcu=true&ccu=true&ddw=true&seu=true&veu=true
+- https://booth.pm/en/items/1969082
+- https://signyamo.blog/vrchat_switch_en/
+- https://vr-items.me/content/ui
+- https://assetstore.unity.com/packages/tools/particles-effects/azure-sky-dynamic-skybox-36050
+- https://github.com/wave-harmonic/crest
+- https://assetstore.unity.com/packages/tools/particles-effects/crest-water-system-ocean-rivers-lakes-252194?aid=1011lic2K
+- https://github.com/MilchZocker?tab=repositories Download everything except profile repo. little tokyo empty
+- https://vespei.gumroad.com/ Somehow the pen is not visible
+- https://vespei.gumroad.com/l/pens here thing
+- https://assetstore.unity.com/publishers/3727
+- https://github.com/devdogio/sci-fi-ui
+- https://vespei.gumroad.com/l/pin
+- https://assetstore.unity.com/top-assets/top-free
+- https://gitlab.com/sayiarin/sayiavatartools
+- https://sayiarin.booth.pm/items/4094022
+- https://sayiarin.booth.pm/
+- https://booth.pm/en/items/4102091
+- https://gitlab.com/users/sayiarin/projects
+- https://gitlab.com/sayiarin/sayifx
+- https://github.com/crosire/reshade
+- https://nova-works.booth.pm/
+- https://booth.pm/en/items?tags%5B%5D=android
+- https://booth.pm/en/items/3072368
+- https://booth.pm/ja/items/2630998
+- https://booth.pm/ja/items/2904811
+- https://github.com/Vianvolaeus/blender-matcap-generator
+- https://booth.pm/en/items/2831542
+- https://assetstore.unity.com/packages/vfx/shaders/free-matcap-shaders-8221 Can you pls have these matcap shaders pls?
+- https://assetstore.unity.com/packages/vfx/shaders/toony-colors-pro-2-8105
+- https://assetstore.unity.com/packages/vfx/shaders/toony-colors-pro-2-8105
+- https://github.com/inoook/UnityMatCapShader
+- https://www.poiyomi.com/#free I think we're done for here.
+- https://github.com/DomNomNomVR/cvr-audio-link/blob/master/LICENSE
+- https://github.com/Thorinair/LumaDriver-for-ChilloutVR Pls install this first
+- https://github.com/Thorinair?tab=repositories
+- https://github.com/MochiesCode/Mochies-Unity-Shaders Willfey yea
+- https://github.com/MochiesCode/Mochies-Unity-Shaders/releases/tag/v1.44 Yeah you.. wait.
+- https://github.com/MochiesCode/Mochies-Unity-Shaders/releases yeah you got it there.
+- https://www.patreon.com/mochieshaders
+- https://avislime.gumroad.com/l/obOgEK
+- https://avislime.gumroad.com/
+- https://hitl.washington/ what?? what did you say? it's cut off!
+- world `headroom` JillTheSomething
+- https://avislime.gumroad.com/
+- https://github.com/jll123567/VR-Content
+- https://github.com/jll123567?tab=repositories
+- https://github.com/Neradon/Dasui
+- https://github.com/topics/chilloutvr
+- https://github.com/topics/chilloutvr
+- https://github.com/topics/chilloutvr
+- https://github.com/EyeTrackVR/EyeTrackVR
+- https://vespei.gumroad.com/l/badge
+- https://github.com/NotAKidOnSteam/CCK.BaseAnimatorPatch
+- https://github.com/NotAKidOnSteam/
+- https://github.com/NotAKidOnSteam/AvatarScaleTool
+- https://github.com/NotAKidOnSteam/AASEmulator don't forget!
+- https://feedback.abinteractive.net/p/add-a-assembly-definition-to-the-cck
+- https://www.deviantart.com/quakethorn/gallery
+- https://steamcommunity.com/profiles/76561198390471057?utm_source=SteamLadder.com
+- https://steamcommunity.com/profiles/76561198390471057/myworkshopfiles/?section=items&appid=252490
+- https://youtu.be/6oe3kOz3j_w wtf boom highest quality clip Let'sch Player.
+- https://www.youtube.com/watch?v=CzORVWFvZ28
+- https://github.com/pema99/glsl2hlsl
+- https://smkplus.github.io/ShaderMan.io/
+- https://youtu.be/MCER5P8Xz3w?si=jq06UP3IA4i4zLmQ
+- https://github.com/smkplus/ShaderMan
+- https://www.shadertoy.com/view/4dl3zn
+- https://docs.microsoft.com/en-us/previous-versions/windows/apps/dn166865(v=win.10)
+- https://docs.unity3d.com/Manual/SL-PlatformDifferences.html
+- https://assetstore.unity.com/packages/tools/utilities/shader-converter-242525 YOU MOTHE--
+- https://forum.unity.com/threads/released-shader-converter.1400083/
+- https://stackoverflow.com/questions/35243265/problems-porting-a-glsl-shadertoy-shader-to-unity
+- https://pema.dev/glsl2hlsl/
+- https://www.shadertoy.com/view/XsXXDn
+- https://gamedev.stackexchange.com/questions/35030/can-i-use-an-animated-gif-as-a-texture
+- https://gamedev.stackexchange.com/questions/35030/can-i-use-an-animated-gif-as-a-texture
+- https://liindy.gumroad.com/
+- https://brehd.gumroad.com/
+- https://assetstore.unity.com/packages/vfx/shaders/amplify-shader-pack-202484
+- https://assetstore.unity.com/packages/tools/visual-scripting/amplify-shader-editor-68570
+- https://github.com/Vilar24/VilarVRC/issues/3
+- https://youtu.be/JL9G5nTfsAk?si=Cna_fyGQi3EXqsYH
+- https://phoenixacevfx.gumroad.com/l/MAX
+- https://phoenixacevfx.gumroad.com/
+- https://phoenixacevfx.gumroad.com/l/SweetDreams?layout=profile
+- https://github.com/Leviant/ScreenSpace_Ubershader
+- https://github.com/Leviant/ScreenSpace_Ubershader
+- https://vb-audio.com/Cable/index.htm
+- https://github.com/DomNomNomVR/cvr-audio-link
+- https://vipe.io/ Oh no, NFT 💩
+- https://www.100avatars.com/ Right click save as!
+- https://booth.pm/ja/items/3384598 argh man!! fuck!!! Audio Link Debug Tablet is not $0
+- https://booth.pm/ja/items/2141514
+- https://booth.pm/ja/items/1637978
+- https://booth.pm/ja/items/2310370
+- https://booth.pm/ja/items/1501675
+- https://jangxx.booth.pm/items/4813594
+- https://jangxx.booth.pm/
+- https://github.com/devdogio/general
+- https://github.com/devdogio/sci-fi-ui
+- https://assetstore.unity.com/packages/tools/gui/inventory-engine-pro-161513
+- https://assetstore.unity.com/packages/tools/utilities/rewired-21676
+- https://assetstore.unity.com/packages/tools/utilities/rewired-21676
+- https://github.com/devdogio/general
+- https://github.com/devdogio/sci-fi-ui
+- https://github.com/devdogio/Inventory-Pro
+- https://github.com/devdogio
+- https://github.com/devdogio/Rucksack
+- https://github.com/devdogio/Quest-System-Pro
+- https://github.com/orgs/devdogio/repositories
+- https://github.com/MerlinVR/UdonSharp
+- https://github.com/vrchat-community/UdonSharp
+- https://github.com/MistressPlague/ChilloutButtonAPI
+- https://github.com/MistressPlague/ChilloutButtonAPI/releases/tag/1.9
+- https://github.com/NovaVoidHowl/CVRSpawnMover/blob/main/SpawnMoveUnityProject/Assets/NovaVoidHowl/Spawn_Mover/README.md
+- https://bnuuy-dynamics.booth.pm/
+- https://gitlab.com/s-ilent/filamented
+- https://gitlab.com/s-ilent/fake-glass
+- https://bnuuy-dynamics.booth.pm/items/4954990
+- https://bnuuy-dynamics.booth.pm/items/4596365
+- https://bnuuy-dynamics.booth.pm/items/4456543
+- https://bnuuy-dynamics.booth.pm/items/4456543
+- https://bnuuy-dynamics.booth.pm/items/3559588
+- https://bnuuy-dynamics.booth.pm/items/3552312
+- https://bnuuy-dynamics.booth.pm/items/3376607
+- https://bnuuy-dynamics.booth.pm/items/3370599
+- https://bnuuy-dynamics.booth.pm/items/3355486
+- https://bnuuy-dynamics.booth.pm/items/3340675
+- https://bnuuy-dynamics.booth.pm/items/3177020
+- https://xelevia.booth.pm/items/3002686
+- https://bnuuy-dynamics.booth.pm/items/2837931
+- https://bnuuy-dynamics.booth.pm/items/2736589
+- https://github.com/lilxyzw/lilToon/releases/tag/1.4.1
+- https://bnuuy-dynamics.booth.pm/items/2837931
+- https://booth.pm/ja/items/4084010 Don't foget this pen!
+- https://github.com/PiMaker/VRChatUnityThings#aurora Pls Shaders heere
+- https://github.com/CyanLaser/CyanEmu
+- https://github.com/vrchat-community/ClientSim
+- https://github.com/89Mods/1802-Namebadge/
+- https://github.com/89Mods/1802-Namebadge/releases/ This too aswell will ya?
+- https://github.com/89Mods/AvalonPlanetPack
+- https://github.com/89Mods/Keppy-s-MIDI-Converter-Multiplatform whoa
+- http://www.un4seen.com/
+- http://jerome.jouvie.free.fr/nativebass/index.php
+- https://github.com/KeppySoftware/KMC
+- https://github.com/KeppySoftware
+- https://github.com/kode54/BASSMIDI-Driver
+- https://booth.pm/en/items/3104007 eggspensiv
+- https://booth.pm/en/items/3127194 too
+- https://tsunamoo.booth.pm/items/4014902
+- https://www.patreon.com/mochieshaders/posts
+- https://github.com/NovaVoidHowl/Common-Avatar-Settings-Configuration-Storage-System WIP
+- https://github.com/NovaVoidHowl/HRtoOSC **LOOK WHAT I FOUND!!! 🫀🫀🫀🫀🫀🫀🫀🫀🫀🫀🫀🫀🫀**
+- https://github.com/200Tigersbloxed/HRtoVRChat_OSC
+- wait.. Only VRChat?!
+- https://vimeo.com/678939624
+- https://github.com/NovaVoidHowl/VRC_prefabs_release
+- https://github.com/NovaVoidHowl/Neitri-Unity-Shaders
+- https://github.com/NovaVoidHowl/CRUMPET-Builder
+- https://github.com/netri/Neitri-Unity-Shaders
+- https://hoshinolabs.booth.pm/items/2666275
+- https://lura.booth.pm/items/1969082 Don't forget credit
+- https://signyamo.blog/vrchat_switch_en/
+- https://www.artstation.com/laluk
+- https://assetstore.unity.com/packages/2d/textures-materials/sky/fantasy-skybox-free-18353
+- https://assetstore.unity.com/packages/2d/textures-materials/nature/realistic-grass-flowers-pack-191866
+- https://assetstore.unity.com/packages/2d/textures-materials/nature/grass-flowers-pack-free-138810
+- https://assetstore.unity.com/packages/2d/textures-materials/floors/hand-painted-grass-texture-78552
+- https://assetstore.unity.com/packages/2d/textures-materials/nature/handpainted-grass-ground-textures-187634
+- https://assetstore.unity.com/packages/2d/textures-materials/floors/hand-painted-seamless-grass-texture-vol-3-159522
+- https://assetstore.unity.com/packages/2d/textures-materials/floors/hand-painted-seamless-ground-texture-155088
+- https://assetstore.unity.com/packages/3d/environments/landscapes/lowpoly-environment-pack-99479
+- https://assetstore.unity.com/packages/3d/environments/lowpoly-environment-nature-free-medieval-fantasy-series-187052
+- https://youtu.be/2PBgCl-zIZQ?si=RBtN35fp1VoQDLM0
+- pls note, `fearless7` Discord was the one that told us about `LURA Lightswitches`. pls tell me their CVR username!
+- pls crute series will ya????????
+- https://github.com/Slime-Senpai/cvshare
+- https://github.com/orels1/orels1-AudioLink-Shader
+- https://github.com/llealloo/vrc-udon-audio-link/releases
+- https://assetstore.unity.com/packages/tools/input-management/sketchfab-for-unity-14302
+- https://skfb.ly/6S9CM
+- https://sketchfab.com/hippostance
+- https://github.com/sketchfab/unity-plugin
+- https://skfb.ly/6RWYR
+- https://sketchfab.com/Urpo
+- https://skfb.ly/6RKRU
+- https://sketchfab.com/motaman
+- https://skfb.ly/6uFxX
+- https://sketchfab.com/Xill
+- https://github.com/sketchfab/unity-plugin/releases/tag/1.2.1
+- https://github.com/sketchfab/unity-plugin
+- https://assetstore.unity.com/packages/vfx/particles/3d-games-effects-pack-free-42285
+- https://assetstore.unity.com/packages/tools/input-management/sketchfab-for-unity-14302 old
+- https://kenney.itch.io/kenney-game-assets Pls keep an eye of an update of this prepacked! Yes, it's paid, but all assets are free to download manually. Full disclosure, because he provided about generously, I paid $12. He deserved it.
+- http://blitz3dfr.free.fr/
+- https://assetstore.unity.com/packages/vfx/particles/3d-games-effects-pack-free-42285
+- https://assetstore.unity.com/packages/3d/props/weapons/3d-items-free-wand-pack-46225
+- https://freesound.org/people/InspectorJ/packs/22864/
+- https://gitlab.com/towelfunnelvrc/towel-license
+- https://freesound.org/people/InspectorJ/packs/22864/
+- https://freesound.org/people/InspectorJ/sounds/404329/
+- https://en.wikipedia.org/wiki/480p
+- from ArcherPupper's port of XOXO world, we got..
+- https://github.com/VRCBilliards/vcc-repo
+- https://github.com/VRCBilliards/vrcbce2
+- https://github.com/VRCBilliards
+- https://github.com/VRCBilliards/vrcbce
+- https://3dtextures.me
+- https://seamless-pixels.blogspot.com
+- https://wiki.tockdom.com/wiki/lunar_biodomes
+- https://hub.abinteractive.net/worlds/detail?id=9cb2b515-eee3-4258-8c3d-108ccfc5d299
+- https://feedback.abinteractive.net/p/final-ik-doesn-t-properly-track-legs-of-spider-creatures
+- https://feedback.abinteractive.net/p/advance-setting-profile-sorting
+- https://feedback.abinteractive.net/p/steam-audio-for-players
+- https://feedback.abinteractive.net/p/steam-audio-for-players
+- https://rantisvr.gumroad.com
+- https://youtu.be/5dvst-lbx1Y?si=ThC6a3P1MfEnN7No
+- https://youtu.be/hCn0ZZbQAUs?si=ER6aPAYW4RbMhTD6
+- https://youtu.be/bo8HwoFIBUQ?si=RC631Pjd8C3Ii6gZ
+- https://pammematth.gumroad.com/ argh, mother..
+- https://trashtanuki.gumroad.com/ Welp. This is not gonna work alone. This one's $0, all 2, ... but not the shader above these uses. Pammemathh, wtf bro?! 💀
+- https://beats2.net/
+- https://discord.gg/zmQsjqr maebbie will ya?
+- https://github.com/kafeijao/Kafe_CVR_CCKs/blob/master/NavMeshFollower/README.md how to navmesh follower. install & making
+- https://github.com/PlagueVRC/AntiRip ... Right. I'm gonna pretend to be so friendly & star this shit.
+- https://github.com/rygo6/GTAvaCrypt and move on.
+- https://seblagarde.wordpress.com/2014/12/01/inverse-trigonometric-functions-gpu-optimization-for-amd-gcn-architecture/
+- https://github.com/synqark?tab=repositories YOu gone it!!
+- https://github.com/synqark/Arktoon-Shaders where did you gone it?!?!??!
+- https://lilxyzw.github.io/lilToon/#/?id=overview
+- https://coposuke.hateblo.jp/entry/2019/01/20/043042
+- https://booth.pm/en/items/3087170 the liltoon is already on GitHub. This is support donate button, I hope
+- https://booth.pm/ja/items/2836532
+- https://kyubihome.booth.pm/items/2554585 argh
+- https://github.com/CMoyuer/ChilloutVR-LocalTest I don't think this work anymore. It's been long time ago, and it's just fast it pass.
+- https://www.patreon.com/posts/xmas-lights-32030551
+- https://www.patreon.com/posts/xmas-lights-full-32033307
+- https://www.patreon.com/red_sim
+- https://www.patreon.com/posts/sucrose-genshin-52393195?utm_medium=clipboard_copy&utm_source=copyLink&utm_campaign=postshare_fan&utm_content=join_link
+- https://docs.google.com/spreadsheets/d/e/2PACX-1vSlKw7F4duN6QvoZqP4gAGjy99k4Ngi5arvKe1r0VGeWg5dnqhWXP1r5YcFJ3-gkaOwQgdpt-XUnd8G/pubhtml#
+- https://www.patreon.com/posts/32252234
+- https://www.patreon.com/posts/32252234
+- https://www.patreon.com/posts/32255294/
+- https://www.patreon.com/posts/32255294/
+- https://www.patreon.com/posts/your-own-shader-30978519?utm_medium=clipboard_copy&utm_source=copyLink&utm_campaign=postshare_fan&utm_content=join_link
+- https://www.patreon.com/posts/simple-progress-30958470?utm_medium=clipboard_copy&utm_source=copyLink&utm_campaign=postshare_fan&utm_content=join_link
+- https://www.patreon.com/posts/making-shaders-30956373?utm_medium=clipboard_copy&utm_source=copyLink&utm_campaign=postshare_fan&utm_content=join_link
+- https://github.com/KeppySoftware/OmniMIDI
+- https://www.patreon.com/mochieshaders There hasn't been alot. go back to that github.
+- https://feedback.abinteractive.net/p/specific-putting-fluxv2-in-projector-game-component-tends-to-crash-the-game
+- Make no mistake the paid libraries are not code. 3D Models. But you got the idea.
+- https://github.com/VRLabs/World-Constraint
+- https://assetstore.unity.com/packages/3d/primitives-3197
+- https://assetstore.unity.com/packages/3d/towers-and-cars-62749
+- https://docs.unity3d.com/510/Documentation/Manual/PrimitiveObjects.html
+- https://github.com/keijiro/Metamesh Hello, here's procedural mesh generator yey
+- https://docs.unity3d.com/Manual/upm-scoped.html
+- https://github.com/keijiro/Metatex
+- https://github.com/V-Sekai/v-sekai-game oh hey look, VR social for Godot. They've experimenting.
+- https://github.com/TotallyWholesome/TotallyWholesomeMod
+- https://twitter.com/B33_Bratty/status/1616781294331105280?s=20
+- https://tailslol.gumroad.com/ uhhh some models gone here. where's the avali?
+- https://github.com/llealloo/vrc-udon-audio-link/tree/master/Docs
+- https://sketchfab.com/Teiozemo
+- https://sketchfab.com/3d-models/cotton-fox-billiards-vrchat-338cc8d2912d416ca364f102f2d7def8
+- https://skfb.ly/6DqZE
+- https://github.com/cnlohr/colorchord
+- https://fashionablebloodfall.gumroad.com
+- https://vrcmods.com/item/10151
+- https://assetstore.unity.com/publishers/6000 Lumo-art 3D cuy!
+- https://github.com/jll123567?tab=repositories
+- https://voxie3d.com
+- https://youtu.be/JVFg9g4f-ME?si=FzPSst3TCCRJrzZT
+- https://feedback.abinteractive.net/p/prefix-all-components-in-the-cck-with-cvr
+- https://feedback.abinteractive.net/p/advanced-avatar-trigger-breaks-world-triggers-playerlocal
+- https://docs.unity3d.com/2021.3/Documentation/Manual/ParallelImport.html
+- https://orangenova.booth.pm
+- https://assetstore.unity.com/packages/2d/gui/ultimate-clean-gui-pack-154574
+- https://assetstore.unity.com/packages/tools/gui/clean-settings-ui-65588 YO!!! THANCC KJOY FOR REFERENCE!!
+- https://assetstore.unity.com/packages/audio/sound-fx/minimal-ui-sounds-78266
+- https://steamcommunity.com/sharedfiles/filedetails/?id=2685053029
+- https://steamcommunity.com/sharedfiles/filedetails/?id=2716898492
+- https://assetstore.unity.com/packages/vfx/particles/action-rpg-fx-38222
+- https://assetstore.unity.com/packages/3d/characters/amane-kisora-chan-free-ver-70581
+- https://assetstore.unity.com/packages/vfx/shaders/fullscreen-camera-effects/amplify-color-1894
+- https://assetstore.unity.com/packages/3d/vehicles/land/arcade-free-racing-car-161085
+- https://assetstore.unity.com/packages/3d/characters/humanoids/humans/asobi-chan-free-116360
+- https://assetstore.unity.com/packages/tools/integration/asset-swap-tool-151202 gone
+- https://assetstore.unity.com/packages/tools/utilities/asset-usage-detector-112837
+- https://assetstore.unity.com/packages/3d/characters/humanoids/humans/asobi-chan-free-116360
+- https://assetstore.unity.com/packages/templates/automotive-hmi-template-201095
+- https://assetstore.unity.com/packages/3d/characters/toonmaid-coolgirl-28832 gone. **FUCK YOU MOTHERFUCKER WHY DELETE IT?!?!? FUCKING HELL PIECE OF SHIT!! WHY?!?!?** (Asset is $0, if I remember correctly)
+- https://assetstore.unity.com/packages/3d/characters/query-chan-model-20031
+- https://assetstore.unity.com/packages/3d/characters/query-chan-model-sd-35616
+- https://assetstore.unity.com/packages/3d/characters/query-chan-model-20031
+- https://assetstore.unity.com/packages/tools/utilities/fbasic-assets-121782
+- https://assetstore.unity.com/packages/tools/audio/maestro-midi-player-tool-kit-pro-115331
+- https://assetstore.unity.com/packages/3d/props/high-poly-gas-cylinders-131593
+- https://assetstore.unity.com/packages/3d/props/exterior/us-road-signs-free-164941
+- https://assetstore.unity.com/packages/2d/gui/icons/multicolored-icons-set-128419
+- https://assetstore.unity.com/packages/tools/input-management/simple-input-system-113033
+- https://assetstore.unity.com/packages/3d/props/console-items-39225
+- https://assetstore.unity.com/packages/3d/props/technology-components-143637
+- https://assetstore.unity.com/packages/3d/props/nervous-system-140515
+- https://assetstore.unity.com/packages/3d/props/electronics/jukebox-tabletop-108269
+- https://assetstore.unity.com/packages/3d/human-kidneys-75923
+- https://assetstore.unity.com/packages/3d/environments/historic/logic-blox-mainframe-models-136006
+- https://assetstore.unity.com/packages/3d/props/exterior/us-road-signs-free-164941
+- https://assetstore.unity.com/packages/3d/props/weapons/weapon-pack-ppsh-41-free-soviet-smg-131767
+- https://assetstore.unity.com/packages/3d/environments/historic/logic-blox-mainframe-models-136006
+- https://assetstore.unity.com/packages/3d/props/logic-blox-models-130956
+- https://assetstore.unity.com/packages/3d/props/weapons/weapon-pack-ppsh-41-free-soviet-smg-131767
+- https://sketchfab.com/19vladis97/collections/weapon-pack-smgs
+- https://assetstore.unity.com/packages/3d/vehicles/land/stylized-vehicles-169168/
+- https://assetstore.unity.com/packages/tools/physics/realistic-car-controller-16296 stuccc!!!
+- https://assetstore.unity.com/packages/3d/props/floatingplantpots-141013
+- https://youtu.be/ly9mK0TGJJo?si=S0_A8lUr-sDeni25
+- https://assetstore.unity.com/packages/tools/gui/modern-procedural-ui-kit-163041
+- https://assetstore.unity.com/packages/tools/terrain/gaia-2021-terrain-scene-generator-193509
+- https://assetstore.unity.com/packages/tools/terrain/r-a-m-river-auto-material-101205
+- https://assetstore.unity.com/packages/vfx/shaders/fullscreen-camera-effects/beautify-3-advanced-post-processing-233073
+- https://assetstore.unity.com/packages/vfx/shaders/fullscreen-camera-effects/beautify-2-advanced-post-processing-163949 wait. which one replace with?
+- https://cleanerwolf.gumroad.com/l/cleanerwolfavatar
+- https://cleanerwolf.gumroad.com/
+- https://patreon.com/foxkintechnologies
+- https://discord.gg/wVGDb8Jr46 Succubuny pls
+- https://booth.pm/en/items/3995617 I have seen free models has second paid tier just to donate same file. You? you requires it, did the the same same file. ugh, next!
+- https://github.com/z3y/shaders
+- https://booth.pm/en/items/4278221 Seriously?! only this one $0?!
+- https://booth.pm/en/items/4805378 ayyy
+- https://junotanuki.booth.pm/
+- https://pammematth.booth.pm/items/3557346 **YOU!!!** YOU AGAIN!!!
+- https://booth.pm/en/items/3637883 This the one? welp, some worlds had it. dang! I wish I can steal more money from parents' retirement zones. You know, it's unethical.
+- https://booth.pm/en/items/4453164 You gotta stop this bullshit, gamers. Coz I've already spent entire parents' money on Steam & itch games I never gonna play. To this day, I could be keep doing so with parents' retirement zones. Stop this me being unethical by
+- https://booth.pm/en/items/2024216 Okay sparsdat is way too far. https://drive.google.com/file/d/1hkyMpIOBaOL4S2TqNBk7kdz5JeNSESmf/view read license of that abo
+- https://booth.pm/en/items/4653553 You know, my Surreal Blender Meme main realm NPCs are all primitives, because to send a message that so many amazing models are paid, so too much, I can't do it no more. Screw this, use the placeholders, fuck you all gamers. You know what, decorate these placeholders to be as handsome & beatiful it can be. Forgot what franchise was it, but I remember, first time in college I did Geogon Polymetry.
+- https://booth.pm/en/items/2892007 Mask only
+- https://skfb.ly/oFBZP **WHERE'S THE BOOTH?!**
+- https://sketchfab.com/___so___u___
+- https://sou-works.booth.pm/ **WHAT?!**
+- https://sou-works.booth.pm/items/4646236 **YOU MOTHER-**
+- https://www.reddit.com/r/VRchat/comments/shk2km/i_dj_in_vrchat_and_just_started_making_content/
+- https://skfb.ly/oNKCX MaxTht Pioneer DJ. Iyey!!!
+- https://skfb.ly/o7rVZ **WAAAAAAAAAAAAAAW**
+- https://hub.vroid.com/en/characters/6927728671257225235/models/2271715335038118927
+- https://hub.vroid.com/en/characters/8637121705183951802/models/380482134555023892
+- https://booth.pm/ja/items/3892201
+- https://booth.pm/ja/items/2844217
+- https://booth.pm/ja/items/4511536
+- https://booth.pm/ja/items/3755026
+- https://booth.pm/ja/items/1629490 argh
+- https://booth.pm/ja/items/3135842
+- https://booth.pm/ja/items/1226205 wait.. *usage for R18 prohibited*?! **YOU-**
+- https://skfb.ly/ovLsr Google, can you see downloadability correctly pls?! Destroy the SEO for those who are not! I don't need to ask!!
+- https://skfb.ly/m5kig0ba
+- https://free3d.com/nl/3d-model/dj-booth-7531.html Ugh, I cannot trust you anymore. your website while had it, slips lots of paid models in between. You could've used the algorithm for the better instead.
+- https://aminoapps.com/c/fnaf/page/blog/deg-fluffy-spider-boy-dj-mm-deg/5rrj_4GUVua65RYkGb7ppGR7eEZbRRnZG0
+- https://www.deviantart.com/dizzysweaterkitty/art/MMD-DJ-Sona-DJ-Table-DOWNLOAD-521122111 **ARGH YOU MO-**
+- https://learn.microsoft.com/en-us/windows/win32/direct3dhlsl/dx-graphics-hlsl-variable-syntax
+- https://skfb.ly/oMGQQ ZIRODESIGN's Technical Difficulties TV pls!!!!!
+- https://skfb.ly/6YGNK Oh hey look, I found it. thancc gamers!
+- https://sketchfab.com/gamayunovantonsakh that's all.
+- https://skfb.ly/oLNwQ Can you pls download entire Turbo Topology files pls? We got treasures. I know, not NSFW at all, but it's there.
+- https://skfb.ly/oLBwP
+- https://skfb.ly/oLKnE HAAAAAAAH?! NEWS STUDIO?!?!? NO PECKING WAY!!!
+- https://assetstore.unity.com/packages/tools/easy-qr-code-generator-encoder-37821 WHY? HAS TO BE THIS. Godot's sort of be better, coz that's the only one place. For now. Will we ignore Asset Store one day? absolutely, you need to have the free version and we'll never stop call the paywallism out.
+- https://assetstore.unity.com/packages/tools/integration/azure-kinect-for-unity3d-camera-api-body-tracking-api-157915
+- https://github.com/nenuadrian/qr-code-unity-3d-read-generate Why only give the dll?? no raw CS code? **LIKELY NO LONGER WORK, OLD VERSION**
+- https://feedback.abinteractive.net/p/vivox-disconnects-randomly
+- https://feedback.abinteractive.net/p/grab-and-mouth-pointer-and-spawnables
+- https://feedback.abinteractive.net/p/auto-select-newly-created-instances
+- https://feedback.abinteractive.net/p/auto-rejoin
+- https://feedback.abinteractive.net/p/prop-limits
+- https://feedback.abinteractive.net/p/mature-dlc-only-instances-worlds
+- https://feedback.abinteractive.net/p/18-public-instances
+- https://feedback.abinteractive.net/p/more-tag-ideas-whitelists-blacklists-editability-and-more
+- https://feedback.abinteractive.net/p/world-scripting
+- https://github.com/marketplace/actions/unity-builder
+- https://github.com/marketplace/actions/create-unitypackage
+- https://github.com/marketplace/actions/unity-test-runner
+- https://github.com/marketplace/actions/export-unitypackage-from-unity-project
+- https://github.com/game-ci/unity-actions
+- https://github.com/Lachee/Unity-Package-Exporter
+- https://github.com/Lachee/Unity-Package-Exporter
+- https://github.com/marketplace/actions/create-unitypackage
+- https://shadethebat.gumroad.com/l/awtter
+- https://shadethebat.gumroad.com/
+- https://shadethebat.gumroad.com/l/awtteruwu ... Uhh I mean, what? uh.. you must buy to have NSFW? SO NSFW is Pay to win??
+- Official DLC.
+- .. 😠 ..
+- Fuxk this. next!
+- Hey listen. If you paywall NSFW.. damn. that was derogatory. I just wanna say.. We & ABI are better. Yes, DLC NSFW, but $0.
+- Why you ask alot for more you EA!!
+- https://discord.gg/Zz4shhwFtm Oceano discord
+- Dude. If you close the world behind pin despite public, that's not that different anyways. Just saying. Nobody can then have their own, and nobody will hold event all the time either!
+- https://malganis-lefay.booth.pm/ pls download do not forget
+- https://coldghost.gumroad.com/ nothing to see here! ...
+- https://rezilloryker.gumroad.com/
+- https://kaitosai.booth.pm/ don't forget these too!
+- https://irongut.gumroad.com/ Oh yeah forgor these jackpots! get those too!
+- https://gumroad.com/alber wait, where is ColdHeartedYeen?
+- https://tailslol.gumroad.com
+- https://github.com/FrostBanditTeam/extract-unity-package-action Okay. First we have this pre-packed exporter.
+- https://github.com/marketplace/actions/export-unitypackage-from-unity-project
+- https://github.com/FrostBanditTeam/extract-unity-package-action it uses this.
+- https://github.com/Lachee/Unity-Package-Exporter I said, **this**.
+- https://docs.unity3d.com/Manual/RenderTech-ForwardRendering.html
+- https://github.com/actions/runner-images
+- https://github.com/marketplace/actions/create-unitypackage we found a fork by VRLabs
+- https://github.com/VRLabs/extract-unity-package-action try this?
+- https://github.com/marketplace/actions/create-unitypackage or go somewhere else?
+- https://github.com/marketplace/actions/setup-unity-editor-for-use-with-actions
+- ugh! this is useless, VRLabs also had same **unable to download error!!!!!!!!!!**
+- .
+- localhost servered requires others to localhostered with exact same structure and same file on their own disk
+- https://assetstore.unity.com/packages/3d/vehicles/land/low-poly-cars-101798
+- https://assetstore.unity.com/packages/3d/vehicles/cartoon-vehicles-low-poly-cars-free-138160
+- https://assetstore.unity.com/packages/3d/vehicles/land/drive-low-poly-cars-204830
+- https://github.com/PrismYoutube/Unity-Car-Controller alas, script forbidden by default
+- https://assetstore.unity.com/packages/2d/textures-materials/gridbox-prototype-materials-129127 Don't forget this!
+- https://sketchfab.com/Teiozemo/models
+- https://sketchfab.com/SM0L
+- https://sm0l.gumroad.com/
+- https://sm0l404.carrd.co/
+- .
+- https://ghosti.gumroad.com/
+- https://discord.gg/c9F9dhenx2 I must join your discord just to password?!?!?!? 💀 Bruh, gamers already had 100 server without nitro!
+- Listen up. Why the hell that `unitypackage` is half GB?! I'm suspicious. DId you pack entire Avatar Project unselectively!?!?!??!?!?!?!?
+- .
+- Pls, don't give me your paid stuff for free. No, no thancc. **I want all gamers too had those for $0**. It is useless if you do that. I had it, and they'll be disappointed, the sauce is not $0.
+- (all Perkedel endeavor will be $0) Okay, stop. no.. all companies, all platform no exception must benefit your items for $0.
+- (all endeavor that involved JOELwindows7 in any form gets privilege) Hey, HEY!!, I said stop. We don't want that. Don't become half hearted, just give all of them for $0. I promise, if you are the most wholesome person I never met, I'll donate you, when I have at least 1 revenue streams, each atleast exceeds over IDR 12 Jt per month. You more wholesome than never, got it now even I'm poor, who knows!
+- https://gh0stt.gumroad.com/
+- https://assetstore.unity.com/packages/2d/textures-materials/gridbox-prototype-materials-129127
+- https://www.procamera2d.com/
+- regular 4K non-DCI = `3840` x `2160`
+- https://github.com/marketplace/actions/create-unitypackage works
+- https://github.com/Kyobinoyo/Pencil-Prop
+- https://github.com/OpenShock/Wiki
+- https://github.com/Kyobinoyo/CVRExamples/
+- https://youtu.be/tzNAyWCNdJA?si=70sSuP-5K5n2Pu3L Unity Camera render to texture pls!!!!
+- https://youtu.be/x9BwUJbXnDY?si=R35Yfz1bBgMkYHWw
+- https://youtu.be/lN9mHYJtc5M?si=Tn0OCWSj4CT8U9Yt
+- https://sketchfoxsky.gumroad.com/l/SketchyBarPack aw, shuck!!
+- https://sketchfoxsky.gumroad.com/ wait, we've been there before!
+- https://www.solarsystemscope.com/
+- https://github.com/TatumKirchner/Unity-Car-Controller
+- https://www.reddit.com/r/Unity3D/comments/p4u3l7/for_people_who_want_a_car_controller_script/
+- https://github.com/Coder-Boiiiiiii/Unity-Car-Controller/
+- https://assetstore.unity.com/packages/templates/packs/car-controller-202269 idk if this work, coz I don't think ABI trusted this one!
+- https://thorium.rocks/
+- https://thorium.rocks/dev
+- https://github.com/armooey/Car-Controller
+- https://assetstore.unity.com/packages/2d/textures-materials/abstract/10-1-standard-materials-12349
+- https://assetstore.unity.com/packages/2d/gui/icons/controller-icon-pack-128505 idk man, let's have these anyways. they're free, so, whatever, get 'em here.
+- https://assetstore.unity.com/packages/tools/gui/lean-gui-72138
+- https://assetstore.unity.com/packages/tools/gui/lean-gui-shapes-69366 sike there's ware
+- https://assetstore.unity.com/packages/tools/gui/runtime-file-browser-113006
+- https://github.com/yasirkula/UnitySimpleFileBrowser
+- https://assetstore.unity.com/publishers/22792 he got all stuffs for $0... I hope all and on.
+- https://assetstore.unity.com/packages/essentials/ui-samples-25468#description
+- https://assetstore.unity.com/packages/2d/textures-materials/the-best-flag-and-war-banner-system-124022 wihhhhhh
+- https://assetstore.unity.com/packages/2d/textures-materials/the-best-flag-and-war-banner-system-124022 whoa wait a second **that's not free**, close the import! ... Damn, that was promo!
+- https://assetstore.unity.com/packages/2d/textures-materials/sky/allsky-free-10-sky-skybox-set-146014 my computer going to explodos
+- https://assetstore.unity.com/packages/tools/physics/arcade-car-physics-119484 That's all I can do
+- https://assetstore.unity.com/packages/templates/systems/arcade-car-controller-lite-version-145489 I can't do no more. For of of God, pls! buy me harddisk!
+- https://docs.unity3d.com/Packages/com.unity.postprocessing@3.0/manual/Quick-start.html
+- https://assetstore.unity.com/packages/3d/props/industrial/workplace-tools-86242 uwaw
+- https://www.reddit.com/r/Unity2D/comments/u1nna1/how_could_you_create_an_unmoving_plaid_effect/
+- https://assetstore.unity.com/packages/tools/physics/sci-fi-ship-controller-134914
+- https://github.com/MangoButtermilch/Unity-Hover-Ship-Controller
+- https://github.com/yboumaiza7/Boat-Controller
+- https://assetstore.unity.com/packages/3d/vehicles/land/low-poly-cars-101798
+- https://assetstore.unity.com/packages/3d/vehicles/land/low-poly-civilian-vehicle-5-124987 how the fuck Unity even let this happened? not even whose already claimed it!?
+- https://www.facebook.com/pro3dmodels
+- https://ua.3dexport.com/surdov eh, they're not free anyways. I got them during $0 promo. There's free 2 files tho, demo said.
+- https://ua.3dexport.com/free-3dmodel-civilian-vehicle-demo-447457.htm
+- https://assetstore.unity.com/packages/3d/vehicles/land/low-poly-cars-101798
+- https://assetstore.unity.com/packages/tools/physics/arcade-car-physics-119484 wait..
+- https://assetstore.unity.com/packages/tools/physics/arcade-car-physics-extended-142918 no, we know there is partialism.. but..
+- https://saarg.me
+- https://github.com/Saarg/Arcade_Car_Physics this fucking shit, is MIT licensed too. Do you see that?! When there is no restriction against paywallism & partialisms, we have all it.
+- https://github.com/Saarg/AutoTober
+- https://github.com/Saarg/AutoTober
+- https://github.com/Nanousis/MobileUIButtons
+- https://youtube.com/playlist?list=PL2bjJcrwBAVivg9-SN8MjkUB4g05syvtW&si=zG2n2Qo-VaMkGsYs
+- https://www.gnu.org/licenses/gpl-3.0.html
+- https://creativecommons.org/licenses/by-sa/4.0/?ref=chooser-v1
+- https://creativecommons.org/publicdomain/list.en
+- https://creativecommons.org/publicdomain/zero/1.0/deed.en
+- https://chooser-beta.creativecommons.org/
+- https://creativecommons.org/share-your-work/cclicenses/
+- https://tomori-hikage.booth.pm/items/945256
+- https://melonwiki.xyz/#/?id=requirements
+- https://gitlab.com/lox9973/ShaderMotion you pls
+- https://www.reddit.com/r/ChilloutVRERP/ This Subreddit, had discord
+- https://discord.gg/gWKu6gNtYP but to get started, **you must selfie with your SSN / ID**, YAIKES!!! In Germany & many European countries would instantly be blammed for it. I mean, it's not even bank or whatever money related!
+- Hey, maybe I should design quickly clip to cover private info, except birthdate coz that's what they want. Only spyful government allowed to see our own SSN / ID.
+- https://www.reddit.com/r/ChilloutVRERP/comments/17euzfp/wheres_the_discord_link/
+- https://www.reddit.com/r/ChilloutVRERP/comments/w9vnzy/rchilloutvrerp_lounge/
+- https://assetstore.unity.com/packages/3d/props/electronics/web-camera-164934 eyho webcam
+- https://assetstore.unity.com/packages/3d/props/electronics/hq-laptop-computer-42030 aha HQ Laptop
+- https://assetstore.unity.com/packages/3d/props/tools/office-knife-89088
+- https://assetstore.unity.com/packages/audio/music/electronic/enormous-8bit-sounds-pack-174689
+- https://assetstore.unity.com/packages/3d/props/electronics/hq-laptop-computer-42030
+- https://assetstore.unity.com/packages/3d/environments/historic/logic-blox-mainframe-models-136006
+- https://assetstore.unity.com/packages/3d/environments/lowpoly-server-room-props-197268
+- https://assetstore.unity.com/packages/3d/props/electronics/retro-big-computer-6174
+- https://assetstore.unity.com/publishers/2427 whoah!!! Zoologo Zololgo got it all?!?!?
+- https://assetstore.unity.com/packages/3d/environments/sci-fi/sci-fi-tablet-computer-33216
+- https://assetstore.unity.com/packages/3d/environments/sci-fi/sci-fi-tablet-computer-33216
+- https://assetstore.unity.com/packages/3d/props/furniture/table-angular-164855
+- https://feedback.abinteractive.net/p/toggle-swimming-in-fbt
+- https://feedback.abinteractive.net/p/world-auto-closes-after-so-many-days
+- https://feedback.abinteractive.net/p/parameter-stream-not-working-correctly
+- https://feedback.abinteractive.net/p/parameter-stream-not-working-correctly
+- https://discord.com/invite/tWBEpmBnED Pls Hobkin!!! thancc, Dragon.
+- https://discord.gg/EuSnqKGtRv pls Goofy OwO
+- https://payhip.com/GoofyAvatars .....
+- https://discord.gg/XnjmSer expired. Perhaps, this is Avali old invite
+- https://discord.gg/avali argh pls...
+- https://discord.gg/kitavali don't forget this one too!
+- https://twitter.com/PolarisVr/status/1198775982519398400 WHERE THE FUCK IS THE TEMPORAL SPIRIT MODEL?!?!?
+- https://vrcmods.com/item?id=6150 We got only this remake. How others had it?!
+- https://www.deviantart.com/neonminun/art/Time-spirit-Blue-757010636 Oh man.. Find until found!!
+- https://www.reddit.com/r/VRchat/comments/iwup6l/i_have_been_seeing_this_avatar_alot_recently_two/
+- https://discord.gg/dXP7Tn C'mon... SHIT FUCK HELL!! THIS GONE!!
+- https://skfb.ly/oOpzA
+- https://sketchfab.com/NegaTheImpmon9508
+- https://sketchfab.com/tags/vrchat-vrchat_avatar
+- https://www.instagram.com/p/C0AZCnxoq8n/?utm_source=ig_web_copy_link
+- https://www.instagram.com/_polaris_art_/
+- https://vrchat-legends.fandom.com/wiki/Polaris_VR
+- https://officialtimespirits.tumblr.com/
+- https://discord.gg/4E52SKh **FINALLY!!!** Wait..
+- FUcking hell. you have terrible SEO here. I shall have you SEO. but how.. hmmm.. uh... Can I just DeviantArt here?
+- No wait a century! The franchise owner is... rather.. propritarist or.. I can't politely describe this behaviour. Maybe.. keep it this way for this case. You do you.
+- https://sketchfab.com/Sidega ..
+- https://sketchfab.com/Sidega
+- I hate when somebody plays high class - trash class okay? high class gets exclusive no others get, trash gets nothing and stuck to default. fucking shit. no gamers should live in that. As always
+- okay that's enough. keep the bashing up to NFT bullshits instead, for now. there, right click there.
+- https://booth.pm/ja/items/2820532
+- imagine one day, you paid full, you never sparsdat, you obey the law, all laws imposed by the government you live at. One day, the company defunct, and order you to stop and uninstall everything you bought with your own modal like it never exist. violation is sparsdat. WOW what a time we live in. That's not funny, it happened in real life, [Mike told us](https://youtube.com/@gamefromscratch?si=u_ylUwYO2coN6neB). Forgot the company name who did that tho. We'll bring the sauce when we found it.
+- https://www.reddit.com/r/VRchat/comments/iwup6l/i_have_been_seeing_this_avatar_alot_recently_two/
+- https://booth.pm/ja/items/2324819
+- https://tkykt.booth.pm/
+- https://battlebunnymods.booth.pm/items/2820442
+- https://battlebunnymods.booth.pm/items/2820480
+- https://psychpsyo.booth.pm/ jackpot!!
+- https://booth.pm/ja/items/2796953 back to losses.
+- man what a good day gambling, but not losing money instead! lose only if you gone reckless!
+- https://booth.pm/ja/items/2753966
+- https://booth.pm/ja/items/1148311 WOOO YESS!!
+- https://booth.pm/ja/items/1267741 TAKE EVERYTHING!!
+- https://officialtimespirits.tumblr.com/
+- https://linthm.tumblr.com/tagged/thm
+- https://www.tumblr.com/joelwindows7/735353892846632960/quick-how-to-download-time-spirit-vrchat-base-3d?source=share
+- https://github.com/SDraw/roc_engine
+- https://github.com/SDraw/CVRLua
+- https://github.com/fholger/openvr_fsr
+- https://github.com/LavaGang/ML_OpenVR_FSR
+- https://sugary-boutique.booth.pm/
+- https://komado.booth.pm/
+- https://booth.pm/en/items/3470989
+- https://booth.pm/en/items/1093504
+- https://github.com/LavaGang/ML_OpenVR_FSR
+- https://github.com/SDraw/CVRLua/releases
+- https://github.com/SDraw/ml_mods_cvr
+- https://github.com/knah/CVRMelonAssistant
+- https://docs.abinteractive.net/official/legal/tos/#7-modding-our-games
+- https://github.com/cellomonster/vrcfox JACKPOT ULIMATE
+- https://sketchfab.com/3d-models/vrchat-fox-9ed90de72e9c437b8820cbf0eeb32a50
+- https://discord.com/channels/1001388809184870441/1002841950577242152/1157441733068595310
+- https://www.vrcarena.com/species/168YiKm3SCMmkOwFddKv/avatar
+- https://www.vrcarena.com/assets/098cf-delyth---sps-modular-goloco
+- https://krenki.gumroad.com/l/delyth
+- https://krenki.gumroad.com/
+- https://www.vrcarena.com/assets/1e389-amaterasu
+- https://therpgslayer.gumroad.com/l/Amaterasu
+- https://therpgslayer.gumroad.com/
+- https://www.vrcarena.com/assets/31df3-mommyfox
+- https://booth.pm/en/items/5247549
+- https://www.vrcarena.com/assets/nja7M-amaterasu
+- https://vrcmods.com/item/6741
+- https://github.com/cellomonster?tab=repositories
+- https://stackoverflow.com/questions/66025220/paired-values-in-github-actions-matrix
+- https://docs.github.com/en/actions/using-jobs/using-a-matrix-for-your-jobs
+- https://youtu.be/a6zKohQnFJk?si=T0wygbLa88Osnztb
+- https://youtu.be/EzWNBmjyv7Y?t=6
+- https://www.youtube.com/watch?v=uooNWuF0tqY
+- https://www.youtube.com/watch?v=gkook0l_gsM
+- https://www.youtube.com/watch?v=tDacjrSCeq4&t=27s
+- https://github.com/SDraw/CVRLua
+- https://github.com/rms-support-letter/rms-support-letter.github.io
+- https://rms-support-letter.github.io/
+- https://github.com/rms-support-letter/revoke-open-letter-signature
+- https://github.com/SDraw/ml_mods_vsf
+- https://www.vseeface.icu/
+- https://80.lv/articles/a-new-hair-braids-generator-for-blender-3-1/
+- https://carls3d.gumroad.com/l/braids
+- https://carls3d.gumroad.com/
+- https://twitter.com/80Level/status/1560197309412978689
+- https://skymy.booth.pm/
+- https://sisters.booth.pm/
+- https://shatteredfur.gumroad.com/l/bone
+- https://youtu.be/dRy1cG9nCTo
+- https://hfcred.gumroad.com/l/Among-Us-Follower
+- https://forum.unity.com/threads/dynamic-bone-realistic-swaying-ponytail-and-bouncing-boobs.245418/
+- https://assetstore.unity.com/packages/tools/animation/dynamic-bone-16743
+- Todo: change protogen thumb, install UUID to your world.
+- https://github.com/Dreadrith?tab=repositories
+- https://github.com/Dreadrith/DreadScripts
+- https://gumroad.com/dreadrith
+- https://github.com/SleightlyDreadful/Carbon-Copy
+- https://www.dreadrith.com/
+- Oh, what a hyp-
+- https://github.com/Dreadrith/DreadScripts/blob/main/LICENSE -
+- Balhed: Sir, Ayu reminds you to not go overboard with your bashing. She exclaim that you have to moderate your Terry Davisness. DO NOT go full!, Sir!
+- Joel: (relieve anger)...... Thank you. 
+- Ayu is Zumi's Girlfriend.
+- Zumi: Tell me. I have already handled 2 projects both have restrictions! I don't like this.
+- Gyouter: Tell you what, buddy. We've been since 30 years having facing giga whole ass amount of restriction in each and every contract. You tell me, they make sense, usually..
+- Zumi: Really? You gamers had to be suffering!
+- Gyouter: Yes. But we used to it. And so this your training. You just have 2, and same reason. C'mon, Just two, and you're tired? No I mean.. not to brag, it's.. dark to brag.
+- Zumi: Ugh.... say that again.
+- Gyouter: For [Friday Night Funkin'](https://gamebanana.com/mods/293257), you cannot include downloaded mods & NSFWs because of GameBanana. And *Federals* in it basically. This one, you cannot include sparsdated Unity Assets because... of *Federals*. Also.
+- Zumi: Yeah yeah, remember again. Federals. I cannot sparsdat. rE-got it. (felt suffer again, look in confuse upon Gyouter) huh..
+- Gyouter: Remember buddy. This universe now also depends your hands too. One infraction could cost us everything.
+- Zumi: Again, remind you again. I hate that I am forbidden to have it. We're just about the same, aren't we?
+- Gyouter: Well, can be said, only.. polarly, between us & Federals. You know.. We files, they money.
+- Zumi: Wars that never ends. Until Jesus come back.
+- https://docs.unity3d.com/2019.4/Documentation/ScriptReference/Component.GetComponent.html
+- https://github.com/SDraw/CVRLua/wiki pls document complete lah, will you share the sample assets too!???!? plssssssssssssssssss????????????????
+- https://github.com/SDraw/CVRLua
+- https://cappyadams.booth.pm/ pls do not forget cappy adams
+- https://cappyadams.carrd.co/ yes.
+- https://gamebanana.com/members/2172988
+- https://www.deviantart.com/neomifloof/art/Commission-Shiloh-Fristen-831053548
+- https://www.deviantart.com/cappyadams/art/Oh-No-996912498
+- https://www.deviantart.com/shadowleswolf/art/MMD-Blender-DTSS-Model-Robo-Kitty-Catlyke-ver0-3-975348892
+- https://github.com/edcasillas/unity-missing-references-finder Hey, what's missing here. **YEAH WHAT MISSING!! WHAT'S SCRIPT NAME!? VRCHAT??**
+- https://acchosen.gumroad.com/
+- https://github.com/AcChosen/VR-Stage-Lighting
+- https://www.youtube.com/watch?v=b6SjQHFF6Qo
+- https://github.com/AcChosen/VR-Stage-Lighting
+- https://vpm.vrsl.dev/
+- wow VR Stage Lights!!
+- https://github.com/Unity-Technologies/FPSSample/blob/master/Packages/com.unity.postprocessing/PostProcessing/Shaders/Builtins/Uber.shader
+- https://github.com/Leviant/ScreenSpace_Ubershader
+- https://github.com/devdogio/sci-fi-ui
+- https://assetstore.unity.com/packages/2d/gui/shift-complete-sci-fi-ui-157943 this is what MilchZocker used!
+- https://michsky.com/
+- https://github.com/AcChosen/VR-Stage-Lighting/wiki/Getting-Started:-Project-Setup
+- Argh, shit. the model does not match!!! find again!!
+- https://booth.pm/en/items/5203784
+- https://booth.pm/en/items/5307468 paid too
+- https://hanaechu.booth.pm/items/4795520 paid
+- https://booth.pm/ja/items/5058077 (many favs) too few of us I assume. ... uhh. few of.. mm.. we. many them who much less.. ah shit, I.. sor..I........ whatever.
+- https://hanaechu.booth.pm/items/5273345 paaaaaaaaaaaaaaaaaaid
+- https://booth.pm/en/items/5282192 ayyyyyyyyy!!!
+- https://booth.pm/en/items/4837189
+- https://booth.pm/en/items/1637978 not matching. also too expensive. shut the fuck up. focus.
+- https://booth.pm/en/items/2141514 neeeext!!
+- https://booth.pm/en/items/1494518
+- https://booth.pm/en/items/4879725
+- https://booth.pm/en/items/4882405
+- https://booth.pm/en/items/5200106
+- https://booth.pm/en/items/3104007
+- https://skfb.ly/6YK7P Argh you kidding me?
+- https://skfb.ly/6Zn9S hurnn..
+- https://assetstore.unity.com/publishers/22792 You know what? download everything. I guess.. Guess we'll never know.
+- https://discord.com/channels/410126604237406209/766086942005526579/1075090431760674869 bluethefox
+- 2021 shader fix tutorial. add in `struct appdata` `UNITY_VERTEX_INPUT_INSTANCE_ID`
+- add to `struct v2f` `UNITY_VERTEX_OUTPUT_STEREO`
+- add to `v2f vert under v2f o;` `UNITY_SETUP_INSTANCE_ID(v);` *ENTER* `UNITY_INITIALIZE_VERTEX_OUTPUT_STEREO(o);  ` 
+- https://www.etsy.com/listing/1467609501/vtuber-witch-vroid-advance-rigging-w
+- https://vrm.dev/en/index.html
+- https://github.com/vrm-c/UniVRM
+- https://vrm.dev/en/licenses/1.0/
+- .
+- .
+- https://vrm.dev/en/vrm/vrm_applications.html
+- https://vrm.dev/en/univrm1/index.html
+- https://youtu.be/lhELeLnynI8?si=IAUtF2IAu_IPKG2Y
+- https://assetstore.unity.com/packages/vfx/shaders/fullscreen-camera-effects/screen-space-reflections-ssr-for-mobile-80272
+- https://youtu.be/m0P1b3TNZZE?si=yUgG4kOSiIV0Eqz_
+- https://github.com/hecomi/UnityScreenSpaceReflection
+- https://codepen.io/akai_inu/pen/zQXyxL?editors=1010
+- https://github.com/nagatsuki/VirtualMotionPuppet/blob/master/AliciaSolid.vrm
+- https://3d.nicovideo.jp/works/td32797
+- https://github.com/madjin/vrm-samples
+- https://codesandbox.io/examples/package/@pixiv/three-vrm
+- https://www.tumblr.com/freethegens
+- ...
+- .
+- .
+- .
+- .
+- https://x.com/askl1285/status/1256080405343531008?s=20
+- .
+- .
+- .
+- https://sanctuary.moe/assets/08d9a441-c159-43a9-8747-4d3475d062ea/Comfy-Neko
+- https://subcom.booth.pm/ orghlkjsdahfjk shit!! It's private.
+- It's time.
+- https://vrmodels.store/avatars/9119-comfy-neko.html
+- https://docs.unity3d.com/Packages/com.unity.postprocessing@3.0/manual/Screen-Space-Reflections.html
+- Story time
+- Frustumer.
+- Table structure. face to face sofa
+- .
+- empty (sofa)
+- marble table
+- Zuuljedus (sofa)
+- **bridging partition wall**
+- Malore (sofa)
+- Gyouter (external chair), marble table
+- Grevor (sofa) 
+- .
+- Malore & Grevor is discussing. them both just finish lunch. Malore was just been coronated as a vice in archiving part of X0p1r4t3, & whole Perkedel Archive. yeh.
+- Malore Konufir (X0p1r4t3, was Wakturia): (wipe mouth)...
+- Grevor Sritowi (Wakturia, looking for division transition): (wiped mouth) Mmmh! Well, what do you say buddy? Congratulations, for becoming the Vice of Archive division. 2 jobs, one mission.
+- Malore: Wow. I'd say I like it here. I can watch all the files that goes in and out, engage on a file missions, foster & preserve treasures (booties).
+- Grevor: Well, got to tell you once again. I guess you all already know. (right hand pat Malore's left shoulder) Be careful.
+- Malore: ...
+- Grevor: Be careful out there. We are still facing a grave danger. (release pat) Whatever you do, you will not expose once again towards the reckless strikes (refering to Joel's comment against a paywallist long ago, 2 of them). Never again.
+- Malore: Yeah. That one. Remind myself. Do not be *karen and ask for manager*. And then what? I can just do the ***old days silently***.
+- Grevor: (stare, say **do not sparsdat**)....
+- Malore: And that's where I met it this boulder. ... **I cannot sparsdat**. Are you serious. Again? What am I supposed to do?!
+- Grevor: Uhhh Look. I..
+- Gyouter Embinosa (Wakturia, Leader): (open portal)!! (Enter to this Restaurant scene) Ay what's up!
+- Grevor: Uh..
+- Gyouter: (deploy portable chair)! (sitt).
+- Malore: You're late! Where have you been?
+- Gyouter: Argh sorry, gamers. I got sudden calling. SO I just.. take away it. It's done.
+- Malore: (Gyouter's mouth is still dirty of sushi soy) (give napkin tissue) Wipe your mouth man!
+- Gyouter: Thanks, (wipe).... mm, ah. Man. I had to eat while working everyday. You know, some mission forbids it, but luckily this today just normal allowed.
+- Malore: Hurgh! What a horrible day..
+- Gyouter: Okay.., Tell me.
+- Grevor: We are not allowed to sparsdat. X0p1r4t3 now holds 2 active dominant projects here, neither allows sparsdat
+- Gyouter: Oowh yeah. You know. You never risk it. Just 1 lawsuit, we're done. All of us, and your future wife dead. Game over.
+- Malore: Yes. I know. Universe destroyed. I have already heard this so many times in my previous job.
+- Gyouter: Yeah.. I'm sorry, this is so unfortunate it propagates to everything that involves.. Earth and its jurisdictions. All projects would also involves Earths, and it's impossible to disallow Earth gets along, it's forbidden to region lock anymore in Sloantim.
+- Malore: .. (sigh) HHHHHHHHHhhhh.... Now if you... uh.. anybody wants to hold it? I think you want it?? huh?
+- Gyouter: Whoah, calm down.
+- Grevor: Okay.. who wants this? Don't forget, we already had risked our lives during Friday Night Funkin' modding here, that's why we gave it to you, coz X0p1r4t3 had defense up in your sleeves against Federals. But still.
+- Gyouter: Yeah I'm sorry. We do not want to guard new adaptation anymore. Just small tasks that's it. No. Uh.. adaptations that had less toxicity from now on. It's hard. But if we get it, that's the grateful-worthy.
+- Malore: (disappointed, CVR Stuffing give back rejected) Huh. Well..
+- Grevor: It's only you. I guarantee. Just be cool, and pay the full price. This time. I know there's already abundant of assholes (paywallists) here, but we better be cool.
+- Gyouter: Because you know the last time we attempted to apologize but then it's horrible in the end. We can't. SO please, for the safety of this universe. ... Ignore your buys (gitignore). Don't even think to sparsdat, to just in case, pay it full.
+- Malore: (overwhelmed with the same stipulation like FNF modding days)..... Hooooorgh.. ... mchk... eough... May I know, I mean do you have any idea who requested this of the person behind this idea. I know embarrassing to ask not one who's in charge, but Admiral (Zumi) and friends are busy right now. I don't like to bother, coz hours ago I saw they are in a huge business for this mall. Do you know?
+- Info: Zumi & his girlfriend Ayu is strategizing pruning and refunding unused trade cells right now.
+- Grevor: Wait, you can just Roig
+- Malore: He's busy too. Balancing files.
+- Info: Joel's harddisk & SSD are full and his PC is unstable because of it. Right this moment you viewed this TSCN, Joel is desperately moving his collections back and forth. immediately Gyouter & Grevor start pitiful again having to see Joel suffering everyday. https://perkedel.netlify.app/@JOELwindows7
+- Gyouter: Okay. I'm sorry this gonna make me bad, assure you I never meant to if considered to be, it was.. (saw Zuuljedus right behind Malore) There. (confirming scan of green body color) Uhhh.. (correct) Yes.
+- Malore: (look back)?..., (stand up and approach her)
+- change structure
+- .
+- empty (sofa)
+- marble table
+- Malore (off table), Zuuljedus (sofa edge out)
+- .
+- Malore: Excuse me, sorry for interuption.
+- Zuuljedus: (look Malore)... (it's Malore) Eh, Sir? (greet)
+- Malore: (accept greet) May I ask you a question for a minute?
+- Zuuljedus: Sure! What is it?
+- Malore: Are you the one behind the project called `CVR Stuffings`?
+- Zuuljedus: Yes! I am.
+- Malore: Oh!. I see. Well then technically by X0p1r4t3 culture, you are the leader for this project.
+- Zuuljedus: Betul!
+- Malore: Cool. I'm the vice of Archive & X0p1r4t3 filings, just to remind you.
+- Zuuljedus: Okay..!
+- Malore: One more thing.
+- Info: Download [Zuuljedus](https://github.com/Perkedel/After-Church/blob/master/RAW%20files/VRoid/Zuuljedus.vroid) Vroid. (c) Perkedel, CC4.0-BY-SA. Also, sampling note & prompt purpose, inspire her voice style from SodaFunkin Ch.
+- Zuuljedus: Yes? 
+- Malore: Why?
+- Zuuljedus: Oh.. coz I like... I like VR!
+- Malore: I see. I VR too. ... .. But why here though?
+- Zuuljedus: Huh?
+- Malore: I'm sorry. We're not supposed to judge, it's rude I know, I'm sorry. However. You know you're working with Unity? We all know Unity is already the worst idea of ever making contents here?
+- Gyouter: Whoa sir, watch your mouth.
+- Zuuljedus: I mean...
+- Malore: I hate to say this... But is there nothing we do here? Do we have mission, supposedly? uh.. I cannot say **Waste of time** that harsh here.
+- Gyouter: Okay, okay, listen. I know we've wasted our time. Especially we worked with Unity again, when we were supposed to go away with it.
+- Malore: Have you also convinced all of us?
+- Gyouter: Aargh.. well.. we tried. But Joel says proceed.
+- Malore: .... Ugh, Kaorfa, why the hell-
+- Gyouter: Yes yes, we're taking breaks right now. We promise, we'll later go back to [Hexagon Engine](https://github.com/Perkedel/HexagonEngine). ... Overseer (renamed to this), I mean. yeah.
+- Malore: (analyze if taking break from Godot is worthy despite ends to prickly Unity again) .. Okay, I understand. But only for that.
+- Zuuljedus: Of course. I promise, it shall only be for ChilloutVR, nothing more. I hate Unity, tbh.
+- Malore: Good. I was afraid we're going to be idiots again due to `Made with Unity` & no perma-buy.
+- Gyouter: Right, right. But first.. we must help Pinball Agung beforehand. Well.. they just called us, but feel free to help if you want.
+- Malore: What favor?
+- Gyouter: (it's that thing) Oh no..
+- Grevor: uuuh.. Do we say d'it?
+- Gyouter: (blow nose)...., Ugh man.. (wrap together along).. (cancel, handle the crowd first!) Wait. No. (analyzing way to handle crowd so no bad secret shared).... Ugh.. Well, follow me. (open portal to another scene)! (pull towards here over)!!, (close).
+- Info: X0p1r4t3 Research Facility. bring everyone including Zuuljedus. we are in position of front door. enter inside. now inside. talk while walking along the main hallway
+- Door closed!
+- Gyouter: Okay so.. This is kinda horrible to tell you. Because,.. Pinball Agung needs us to guard their process. It's baad, this time. To umm.. **Subscription**.
+- Malore: (surprised) Wait, What? Hold on. What the Fuck? Slow down!.
+- Gyouter: No it just.. Remove Ad Subcription. that's why we're asked to guard it, in case there is a wild gamer saw us doing that, we're doomed, be hated forever.
+- Malore: Alright what the hell is this? Subcription?? in apps to be submited to Joel, and published under his Play Console Account?!??!?!?
+- Gyouter: Uuh hold on, lemme give you context (right hand hold head & install telepathically the context)....
+- Info: It's about [Tebenge](https://play.google.com/store/apps/details?id=com.Perkedel.tebenge).
+- Malore: (got the context. The Ad is integrated part of the game)...
+- Gyouter: Yeah it's uh.. the game. That we're working on to recoup some money. I know it's failed, so let's ground research that instead. Apparently, Pinball Agung got message from Google, they need to update the app again because they intentionally block installation by Android 13 since that was last ago updated.
+- Malore: Ugh, what an Asshole. ... But still why Remove Ad subcription? I mean I've seen all games do infact permanent remove ad. Why us this one? Weird. Are we betraying ourselves?
+- Gyouter: hhmmmff, Kaorfa is very desperate right now. He's... no donation. If people permanently take off the ad, that's it. it's over. You got once, but that's it. And considering there'll be no clout somehow without buying & hiring some cheats.
+- Malore: Okay. Can't you just keep the ad? afaik, `hideAd()` function I think still keeps the ad runnning, right?
+- Gyouter: eeeh yeah. But it's forbidden by Sloantim. You're not allowed to ad in background, invisible ad is criminal offense. When customer buy remove ad, you must ensure that at least by startup that Advertisement Java code never run as it's set on Setting.
+- Malore: Huh damn it... and?
+- Gyouter: But no regulation if Remove Ad must be permanent or not.. soo... Go Website! (be like Website where ad remove is part of premium subscription), and *shit yourself*!
+- Malore: Oh cool. Fascinating.
+- Gyouter: Win win. no.. Win lose. But atleast it should keep that running. Customer forget, charge always! ... Wait If I think About it, that's asshole, but we're researching, no stop unless said so.
+- Malore: That (Customer forget kept charged no refund) also had no regulation?
+- Gyouter: Yess. .. I wish there is. but uh.. we'll see.
+- Malore: Yeah, just give me the result. I bet people will hate us all after this. Does clout matter here?
+- Gyouter: uuuh.. it's complicated. There are multiple dimension of matterness in clout. Idk which one that I must atleast keep from being down. Not even Kaorfa could figure out.
+- Malore: Okaey.....
+- Zuuljedus: Eh, guys. Aku pergi dulu guys! dadaa
+- *everyone*: dadaaa..
+- Zuuljedus: (proceed went early ahead to her house)...
+- Gyouter: Great luck, God Bless you! She's a fascinating girl I tell you. Man, like to come back home now and see my wife.
+- Malore: Did you know, her boyfriend, [Panfesir](https://github.com/Perkedel/After-Church/blob/master/RAW%20files/VRoid/Panfesir.vroid), works with the mall. He's logistic guy. that Shipment ports at the edge of trading lobes.
+- Gyouter: oooh!
+- Grevor: Wow!..
+- Malore: Chief of Logistic. You know, outgoing deliveries when say people buy online, or maybe too big to carry? That's where it goes. pack it here, bring it there to ships, and sail it goes! or run it goes, since some vehicles are wheels. Over thousands of trucks, spaceships, & saucers here back and forth 24/7. We're the busiest trade center in Dasandim. maybe also whole Sloantim (cluster).
+- Info: Think it like Tanah Abang or Roxy or whatever ITC to be, but extraterrestrial.
+- Grevor: Impressive. I shall one day revisit but to logistic.
+- Malore: Go ahead. Observe, just don't disturb, easy. All parts of the operation are smoke & vape free. It's criminal offense to do that. So you can fall asleep and wake up there. Na na, just kidding. Don't. not safe. It also sometimes had containers.
+- Grevor: Wait. **Whole sized shipping containers?**
+- Malore: Yess..
+- Grevor: Oh my God!
+- Malore: A special vehicle sometimes used to bring it in. after done, back it again to its truck outside.
+- Grevor: Wow, is this efficient?
+- Malore: We're trying to find ways. It'll be journey.
+- Grevor: Okay..
+- Malore: You know, you buy alot of stuffs from us. stores you buy from, happens many of them to be here.
+- Grevor: Wait. most here?
+- Malore: Yes! Your name's known far and wide. You wanna visit our tenants, go ahead show yourself next time you be here. You're the hero, out of thousands of 'em.
+- Grevor: Wow. .. I am famous haha..! 🤣
+- Malore: Yep.
+- .
+- .
+- don't foget Nubir Fongyeul! assistant during Wakturia days, before.
+- https://github.com/emilianavt/OpenSeeFace
+- https://github.com/emilianavt/VSeeFaceReleases no source code
+- https://www.vseeface.icu/#about
+- https://github.com/emilianavt
+- https://github.com/emilianavt/OpenSeeFaceSample
+- https://github.com/emilianavt/OpenSeeFaceSample
+- https://youtu.be/jhQ8DF87I5I
+- https://github.com/EtiTheSpirit/CVRLocalTools
+- https://github.com/kafeijao/Kafe_CVR_Mods/tree/master/TheClapper
+- https://github.com/SDraw/ml_mods_cvr
+- https://github.com/SDraw/ml_mods_cvr/blob/master/ml_prm/README.md
+- https://assetstore.unity.com/packages/tools/physics/puppetmaster-48977
+- https://renderheads.com/products/avpro-video/ CVR uses this
+- https://github.com/RenderHeads/UnityPlugin-AVProVideo/releases triale
+- https://assetstore.unity.com/packages/tools/video/avpro-video-core-edition-181844?aid=1101lcNgx FOUR FUCKING HUNDRED FUCKING BUCKS!??!?!??!?!? YOU FUCKING RICH MAN! I'M FUCKING PITIFUL TO YOU, YOU PAY THIS?!
+- Could've been better alternative huh?
+- https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp
+- https://github.com/SDraw
+- https://docs.unity3d.com/Manual/class-VideoPlayer.html Unity has its own? wait. this is from 2022!
+- https://assetstore.unity.com/tools/video yikes, bro! they are very expensive!! you might wanna try optimize away from it those, I think.. or not, if that works well, idk..
+- https://github.com/BTK-Development/BTKUILib/wiki/Page
+- https://assetstore.unity.com/packages/tools/physics/puppetmaster-48977
+- https://github.com/SDraw/ml_mods_cvr/blob/master/ml_prm/README.md
+- https://github.com/BTK-Development/BTKUILib/wiki/Help-and-Hints
+- https://www.lipsum.com/ generate the lorem ipsum
+- https://loremipsum.io/
+- https://github.com/eliemichel/LilySurfaceScraper
+- https://github.com/netri/Neitri-Unity-Shaders Pls install these
+- https://github.com/BlackStartx/VRC-Gesture-Manager
+- https://discord.com/channels/762908352493256714/852255396994744320/1160371522754588682
+- https://rollthered.booth.pm/ jackpot
+- https://booth.pm/en/items/3932436
+- https://discord.com/channels/762908352493256714/852255396994744320/1160685753035149394 Lunar Void SPS-I shader for RollTheRed's PinArt 
+- https://discord.com/channels/762908352493256714/852255396994744320/1162832196512518214
+- `fixed2 ScrollingUV = i.uv;`
+- `ScrollingUV.x += ((_Time.y * 2.0) % 1.0);`
+- `return tex2D(_MainTex, ScrollingUV);`
+- https://github.com/moonvrc/MoonGestureHUD
+- https://github.com/moonvrc/MoonGestureHUD
+- https://juzovr.gumroad.com/l/PMD
+- https://github.com/Lachee/Unity-Package-Exporter
+- https://tori-nyan.booth.pm/
+- https://rollthered.booth.pm/ remember install!
+- https://github.com/CyanLaser/CyanTrigger/
+- https://cyanlaser.booth.pm/
+- https://crontab.guru/every-minute
+- https://meyavapor.gumroad.com/l/rbcnl?ref=jinxxy GONE. ugh, motherfucker!
+- https://discord.com/invite/Fatf35UjNu wait.. that's gone too.
+- where should I vent?
+- https://gh0stt.gumroad.com/ Morph has heartbeat cardiophilia, pls install cardiophilia!
+- we have to research first!
+- https://www.tumblr.com/joelwindows7/735892205592526848/boy-would-you-look-at-that
+- pls Haggets Slugcats
+- https://www.reddit.com/r/rainworld/comments/14r4zi6/slugcat_rigs/
+- https://haggets.gumroad.com/l/slugcat
+- `\u2022`
+- steam://openurl_external/https://steamcommunity.com/linkfilter/?u=https%3A%2F%2Fvroid.com%2Fstudio
+- https://vroid.com
+- .
+- Drink Dice!
+- 1 = `Tidak minum` `No drink`
+- 2 = `Seteguk` `Sipp`
+- 3 = `Sepuasnya` `At will`
+- 4 = `Setengah` `Half cup`
+- 5 = `Habiskan` `Bottoms up`
+- 6 = `2 gelas` `2 cups`
+- .
+- Sex Dice! Body parts
+- 1 = `Mulut` `Mouth`
+- 2 = `Dada` `Chest`
+- 3 = `Perut` `Belly`
+- 4 = `Paha` `Thigh`
+- 5 = `Selangkang` `Crotch`
+- 6 = `Leher` `Neck`
+- .
+- Sex Dice! Actions
+- 1 = `Sentuh` `Touch`
+- 2 = `Jilat` `Lick`
+- 3 = `Gosok` `Rub`
+- 4 = `Hisap` `Blow`
+- 5 = `Sedot` `Suck`
+- 6 = `Crot` `Cum`
+- .
+- https://github.com/jll123567/VR-Content Do not forget check update. I'm sorry did not respond to DM because I've been used to receive alot of spam scammers.
+- https://github.com/VRLabs/Avatars-3.0-Manager
+- https://github.com/NotAKidOnSteam/SimpleAAS
+- http://hitl.washington.edu/vrml/archive
+- https://web.archive.org/web/20230914064411/https://www.hitl.washington.edu/vrml/archive/
+- https://web.archive.org/web/20230914064424/https://www.hitl.washington.edu/vrml/
+- https://web.archive.org/web/20100706184349/http://www.hitl.washington.edu/vrml/gallery/
+- https://web.archive.org/web/20100707181237/http://www.hitl.washington.edu/vrml/
+- https://web.archive.org/web/20100709122028/http://www.hitl.washington.edu/vrml/notebook/index.html
+- https://web.archive.org/web/20100709115625/http://www.hitl.washington.edu/vrml/polyshop/
+- https://web.archive.org/web/20100706101231/http://www.hitl.washington.edu/vrml/greenspace/
+- https://web.archive.org/web/20230914064424/https://www.hitl.washington.edu/vrml/
+- http://hitl.washington.edu/
+- https://web.archive.org/web/20100709132608/http://www.hitl.washington.edu/vrml/cedes/
+- https://web.archive.org/web/20100713205700/http://www.hitl.washington.edu/vrml/caup
+- https://web.archive.org/web/20100709122505/http://www.hitl.washington.edu/vrml/notebook/
+- https://web.archive.org/web/20100707170611/http://www.hitl.washington.edu/projects/knowledge_base/vrm.html
+- https://github.com/jll123567/VR-Content/tree/main/CVRAnimatorTemplates
+- https://github.com/natemoo-re/astro-icon#readme
+- https://jillthesomething.tumblr.com/ Jill's tumblr confirmed
+- https://joelwindows7.tumblr.com/
+- https://hrtovrchat.fortnite.lol/setup/neos
+- neosrec:///U-200Tigersbloxed/R-a0b4c47e-5048-4cfc-a0be-f520c5d55b59
+- https://github.com/200Tigersbloxed/HRtoVRChat_OSC/blob/main/AvatarSetup.md
+- https://vimeo.com/697202508
+- https://github.com/200Tigersbloxed/HRtoVRChat_OSC
+- https://vimeo.com/678939624
+- https://gist.github.com/200Tigersbloxed/6c5798cb959b8073deaf5d6a3c17454f
+- https://booth.pm/en/items/3087170
+- https://booth.pm/en/items/3206716
+- https://booth.pm/en/items/3206716
+- https://github.com/whiteflare/Unlit_WF_ShaderSuite
+- https://tips.hecomi.com/entry/2021/07/24/121420
+- https://booth.pm/en/items/1026956
+- https://booth.pm/en/items/1489411
+- https://booth.pm/en/items/1484117
+- https://gend-vrchat.booth.pm/ has sleep idle animation sleeping idle animation
+- https://booth.pm/en/items/2645962 PAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAID
+- https://peachyboba.gumroad.com/
+- you gamers shut up with KYC!! ... Oh.. not just you. companies too under.., `Guest list`.. SHU-
+- https://littlesaku.gumroad.com/l/wzigdd?layout=profile **NO PUBLIC ALLOWED?!**, YO-
+- https://littlesaku.gumroad.com/
+- https://jinxxy.com/Little_Saku_/listings
+- https://payhip.com/b/hvLZM SERIOUSLY?!??!? NSFW PART PAYWALLED!??!?!?
+- https://cupkakestore.gumroad.com/ IMPOSING LIMITED MODELS?!??!
+- .
+- .
+- .
+- Hey, they've told they gotta move right? why stay? who threw the blame to the owners? oh. oh shit. oh no. They're being presurred by their own filings.
+- Hey can you bring them here for a while until we found a new planet for them? thancc.
+- .
+- .
+- .
+- Sir, X0p1r4t3 is very strict in housing rules. you from Wakturia better be quick find them place.
+- .
+- .
+- .
+- create a small pray rooms. Designed for use either Christian or Islam sessions. in it there is 2 types of seating you can switch: Carpet & Chairs. There is also Qibla arrow for those religion that prays pointing it. The Qibla will points to Mekka virtually, from Germany at CVR dimension. There is a mimbar for the priest or ustad to put Bible, or Al-Quran, & other presentation materials during sermon. This room **may only be allowed to be placed if the world is SFW**.
+- .
+- .
+- .
+- .
+- https://cupkake.store/pages/terms-of-server-terms-of-use dah lah, capek gue.
+- https://cupkakestore.gumroad.com/
+- https://0ctal.gumroad.com/
+- https://sfmlab.com/project/29591/
+- https://sfmlab.com/user/144352/
+- https://s1nnerf0x.gumroad.com/l/raventeamleader
+- https://s1nnerf0x.gumroad.com/
+- https://zoidberg656.gumroad.com/
+- https://milanaroseta.gumroad.com/
+- https://skfb.ly/ovUrC paid tau
+- https://github.com/VoyVivika/VivikaShader NEW UPDATE!!!
+- https://skullyhellfire.gumroad.com/l/skullysmurdoc
+- https://skullyhellfire.gumroad.com/
+- From 7.1ch World test by Towneh, we had
+- https://vrcdn.video/towneh/8525f9c706d438055cd985d56369b952.mp4
+- https://vrcdn.video/towneh/a6ee609b58816d4eb6d455fef6fe2499.mp4
+- https://cdn.discordapp.com/attachments/992448795109511188/1010740459410300988/7.1Setup.wav
+- https://cdn.discordapp.com/attachments/992448795109511188/1010738209900199946/310_To_Yuma_Clip_1080p23.976_PCM_7.1.mov
+- https://bestbois.com/
+- https://bestboivrc.gumroad.com/
+- https://drive.google.com/file/d/1ASrGbmoDRS9ytjUfwJ1ITh1uarOCgLWB/view
+- https://drive.google.com/file/d/1TrDyhuaMvsCiKnW2J9PsMrFOnzWUhT0R/view
+- https://bestbois.com/BestboiLore.html
+- https://drive.google.com/file/d/1oFVNDfN_xXJ-H6FMCd4Z44wHSVMs-sAc/view
+- https://drive.google.com/file/d/14WlxAvNVUwXTnsAejVCDurXucHV5nMfr/view gone, winter, go to seedsy
+- https://drive.google.com/file/d/147qqogK0XzR-q7EgZ5yzJXAOVoKCF8KQ/view
+- https://drive.google.com/file/d/1MAtdtUZxvqyL5svw6SMDMj17qzNwTaf-/view
+- https://drive.google.com/file/d/1w6dY5TatGdu3c9pTaqDBHYjnc5plC9jz/view
+- https://drive.google.com/file/d/14g0bEK91rBxRmHQ4KQq_hPNqJWaAZe-D/view
+- https://drive.google.com/file/d/1GAnhgW6YPJOrFWcQmlSccO12ZU6NTw_p/view
+- https://seedsy.gumroad.com/
+- https://rantisvr.gumroad.com/
+- https://octohedgie.gumroad.com/l/Kerians
+- https://nuclear57.gumroad.com/
+- https://bestbois.com/BestboiLore.html
+- https://seedsy.gumroad.com/l/bestboiclothes
+- https://malganis-lefay.booth.pm/items/4307576
+- https://malganis-lefay.booth.pm/items/4018692
+- https://malganis-lefay.booth.pm/
+- https://gotm.io/red-mage-games/pichon
+- https://www.markdownguide.org/cheat-sheet/
+- https://github.com/200Tigersbloxed/HRtoVRChat_OSC
+- https://x.com/nintles/status/1317669850207191046?s=20
+- https://www.deviantart.com/dizzysweaterkitty/art/MMD-DJ-Sona-DJ-Table-DOWNLOAD-521122111
+- https://www.deviantart.com/dizzysweaterkitty/art/MMD-Sweater-Meulin-DOWNLOAD-DOWN-355143286 this also also fucking delete other homestuck models too. what an -
+- https://imgur.com/4Pyxm5p update to Mochie shaders!
+- https://github.com/MochiesCode/Mochies-Unity-Shaders/releases/tag/v1.45 yea
+- https://media.giphy.com/media/xT4uQjdzhGxPSTmUk8/giphy.gif
+- https://media.giphy.com/media/xT4uQjdzhGxPSTmUk8/giphy.mp4
+- yoghurt bunny bot
+- jackheartbeat
+- https://twitter.com/cap_yogurt/status/1254187450223652864?s=20
+- https://twitter.com/SarmaTeppou
+- https://twitter.com/SarmaTeppou/status/1373329043551043585
+- https://twitter.com/KindredSpirit92/status/1302047341218652160
+- https://twitter.com/SarmaTeppou/status/1302144554020278272
+- https://twitter.com/cap_yogurt/status/1502466409053376514
+- https://twitter.com/cap_yogurt/status/1248354565189070849
+- https://www.deviantart.com/shadowolfz/art/Yogurt-cap-854865914
+- https://www.kibrispdr.org/detail-5/yogurt-cap-robot-model.html wrong
+- https://www.youtube.com/watch?app=desktop&v=gYHhjh7jw1g
+- https://vrchat.com/home/world/wrld_668e4ac7-5e84-45fa-b71a-1db937a23f94
+- https://twitter.com/Xenosnake003/status/1618744895497437184 IT'S FUCKING FRAMEDOLL!!!! OH MY GOD!!! I HATE WHEN GAMERS DID NOT CREDIT!!!!!
+- **WOI, YANG LAIN TOLONGLAH KERJASAMANYA, DIKREDIT URL SIAPA YG BIKIN NIH AVATAR, ANJIIIIIIIIING, ANJING!!!**
+- https://arca.live/b/monmusu/8144825
+- https://www.reddit.com/r/VRchat/comments/gy0ahi/how_go_check_you_yogurt_cap_on_youtube_heshe/?rdt=57699
+- https://steamcommunity.com/sharedfiles/filedetails/?id=2159249987
+- https://framedoll.booth.pm/ **HERE, FRAMEDOLL**!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+- https://twitter.com/Xenosnake003/status/1618744895497437184
+- I hope them blocking me is not the cause of their demise. Let's declare it this time, it's not funny if it does. So many gamers have warned them, that the.. needling heart is not a good idea. I have spread the warn too, and I said it multiple times! 
+- But still.., not blocking me, helps you better get the warning.
+- so fuck them all for blocking me... okay okay okay.. I just... want the file. I hate any of them gone. I want to collect.. pls don't block me, what did I do??! Fucking tell me, is my aura of will bad?
+- moving on.
+- .
+- https://framedoll.booth.pm/items/1375873
+- https://framedoll.booth.pm/items/1371949
+- https://framedoll.booth.pm/items/1373257
+- https://framedoll.booth.pm/items/1371728
+- https://framedoll.booth.pm/items/1374938
+- https://framedoll.booth.pm/items/1371618
+- https://framedoll.booth.pm/items/1391507 **PAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAID**
+- https://framedoll.booth.pm/items
+- https://framedoll.booth.pm/items/1412429
+- https://framedoll.booth.pm/items/1430077 **Yoghurt Cap original wiggle bot**
+- https://framedoll.booth.pm/items/1445203 **PAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAID**
+- https://framedoll.booth.pm/items/1536074
+- https://framedoll.booth.pm/items/1906433
+- https://framedoll.booth.pm/items/2200121
+- https://framedoll.booth.pm/items/2920859
+- https://framedoll.booth.pm/items/3874247
+- https://framedoll.booth.pm/items/3922893
+- https://framedoll.booth.pm/items/3957264
+- https://framedoll.booth.pm/items/3984290
+- https://booth.pm/en/items/3072368 wait.. what is .. oh. **PPAAAAID**
+- https://booth.pm/en/items/5314122
+- https://booth.pm/en/items/3134364
+- https://lamiho.booth.pm/
+- https://c0deless.booth.pm/
+- https://framedoll.booth.pm/items/3998318
+- https://framedoll.booth.pm/items/4134199
+- https://framedoll.booth.pm/items/4209957
+- https://framedoll.booth.pm/items/4229352
+- https://skfb.ly/6x8SH arcghfasdjklh
+- https://framedoll.booth.pm/items/4349921
+- https://framedoll.booth.pm/items/4510074
+- https://framedoll.booth.pm/items/4682928
+- https://khodrin.com/christmas-scarf/
+- https://khodrin.com/christmas-hat/
+- https://gum.co/nkOP
+- https://khodrin.gumroad.com/
+- https://khodrin.com/category/asset-pack-free/
+- https://github.com/Khodrin/DynamicBoneTools/releases
+- https://github.com/Khodrin/DynamicBoneTools
+- https://github.com/Khodrin?tab=repositories
+- https://github.com/NicoKuroKusagi/localization-abi-hub
+- https://github.com/Khodrin/lowpolyassets
+- https://github.com/Khodrin/ProjectT
+- https://khodrin.gumroad.com/l/nkOP
+- https://khodrin.com/christmas-hat/
+- https://skfb.ly/6WZK9
+- https://sketchfab.com/Khodrin
+- https://khodrin.com/dynamicbone-tools/
+- go.
+- .
+- What's the advantage? you can use mask image to select which area it will activate
+- What's the catch? you have to use the mask image to select which area it will activate
+- https://docs.unity3d.com/Packages/com.unity.textmeshpro@4.0/manual/ColorEmojis.html
+- https://docs.unity3d.com/Manual/com.unity.textmeshpro.html
+- https://forum.godotengine.org/t/get-audio-input-using-windows-wasapi/36940/2
+- If you put any outrageous stipulation, X0p1r4t3 will judge your file (which is not X0p1r4t3 nor Archive things. Archivers do not judge!), and compare you to better and similar file of the same patent. You wouldn't want Archivers to start judging. **I'm serious**.
+- SO FUCKING, GIVE ME THE FILE. Stop asking my Discord (nor email, nor DA Notes, nor PM DM, nor whatever). Just... share it. idk. pls.
+- I promise you, & I always did. Your name is carved alongside the installation. i.e., credited down to the Sauce URL.
+- https://hanaechu.booth.pm/items/4001133
+- https://booth.pm/en/items/3496911
+- https://booth.pm/en/items/2178937
+- https://puetsua.booth.pm/items/4667956
+- https://puetsua.booth.pm/items/4953697
+- https://puetsua.booth.pm/
+- https://booth.pm/ja/items/4701501
+- https://youtu.be/U8W1SWWAZ6E?si=B4ilbmsadzdbmoZE how to play never have I ever
+- https://www.patreon.com/AlphaBlendInteractive
+- https://github.com/z3y/shaders don't forget to install these!!!!
+- https://github.com/PiMaker/VRChatUnityThings I think these one shows under `_pi_`???
+- https://marketplace.secondlife.com/p/The-complete-Tokushi-collection/12567748 wait, what?! Racush been SecondLife before?! (PAID)
+- https://www.tumblr.com/tokushiavatars here's old tumblr of it
+- https://secondlife.com/ well how itself been now?
+- https://secondlife.com/support/downloads/ idkman
+- https://tokushi.gumroad.com/ and we're stuck.
+- Racush been together with Tokushi.
+- https://sm0l.gumroad.com/ meet smol again!!
+- https://discord.gg/Zu4nhqhu5R and discord of it.
+- https://sm0l.gumroad.com/l/ixxpv?layout=profile Hey did you know **you can't over 250 MB if you $0 it?** So one trick is.. is to um... Paywall it, **BUUUT,** put a **100% discount code right next to it!** WIN WIN!!!
+- https://github.com/z3y/ install these all!!!
+- https://github.com/z3y/ShaderGraph
+- https://github.com/z3y/shaders
+- https://github.com/CianNoonan/SmartTexture
+- https://github.com/phi-lira/SmartTexture
+- https://github.com/Kink3d/kPackageTemplate ooooooooooo! package template!!!
+- https://github.com/Thryrallo/ThryEditor
+- https://discord.thryrallo.de/ and discord
+- https://thryeditor.thryrallo.de/
+- https://github.com/TheRensei/GrandGeoGrass-Public Grass shader!!! `GGG_Package`, fell to `Plugins` folder
+- https://github.com/chikacc/Smart-Hierarchy
+- https://github.com/neon-age/Smart-Hierarchy archived old
+- https://github.com/chikacc/Smart-Hierarchy So, here are packages under `com.av` Scoped registry.
+- https://openupm.com/packages/com.av.smart-hierarchy/
+- https://openupm.com/packages/com.av.smart-hierarchy/#modal-packageinstaller
+- argh shit, `Smart Hierarchy` did not work!!!
+- well `Smart Inspector` works. great!
+- okay, maybe `Tags`, don't. It says replace built-in assets!
+- https://github.com/z3y/BakeryModeUtility This is Bakery Mode Utility.
+- https://github.com/PiMaker/ltcgi.git another from Pi, the LTCGI!
+- https://github.com/PiMaker/ltcgi/releases/tag/v1.2.4 Okay, if you want the VRChat adapters, you got it here. This was the last version ever had it. ... btw, why you gamers still in VRChat, then what're you doing here?
+- https://architechvr.gumroad.com/l/protv VRChat complete video player. Note that the difference, as ChilloutVR had it built-in. **But is CVR compares higher than ProTV in VRC?**
+- https://github.com/MerlinVR/USharpVideo Or maybe this?
+- https://github.com/z3y/XatlasLightmap.git iyey lightmapeh
+- the Sponza pls
+- https://github.com/z3y/ClusteredBIRP lamp maps
+- [How to use z3y Birp](https://github.com/z3y/ClusteredBIRP?tab=readme-ov-file#how-to-use):
+  - Swap shaders to a supported shader (a standard shader example included CBRIP/Standard - Mono SH enabled by default)
+  - Drag in the manager prefab in the scene
+  - Drag in lights and reflection probe prefabs
+  - Press bake and pack reflection probes
+- https://github.com/z3y?tab=repositories
+- https://github.com/z3y/UdonBakeryAdapter
+- https://github.com/phi-lira/SmartTexture Smart Texture packing!!!
+- https://docs.unity3d.com/Manual/upm-ui-giturl.html
+- https://github.com/z3y/ClusteredBIRP.git Hello, this guy requires VRChat SDK.. you forgot to take it off.
+- Argh man, I gotta uninstall ClusteredBIRP for now. You gotta wrap all VRChat dependency under some... `#if UDONSHARP` & `#endif`s.
+- https://shaders.orels.sh/ Take a look at this orels1 shader!
+- https://github.com/orels1/orels-Unity-Shaders
+- https://shaders.orels.sh/docs/installation
+- https://assetstore.unity.com/packages/tools/level-design/bakery-gpu-lightmapper-122218
+- https://github.com/PiMaker/ltcgi
+- attribution: `This project/world uses LTCGI by _pi_, see 'github.com/pimaker/ltcgi'.`
+- https://github.com/orels1/orels-Unity-Shaders/releases if the Package Manager way does not work, take it off & use `.unitypackage` instead.
+- https://shaders.orels.sh/docs/shaders-list the shader folder is `orels1` in Shader type of a Material.
+- https://www.patreon.com/posts/fake-parallax-77385180?utm_medium=clipboard_copy&utm_source=copyLink&utm_campaign=postshare_fan&utm_content=join_link fake parallax window pls. Oh, it's already included with main shader pack.
+- https://www.patreon.com/hekky/posts
+- https://uniunishop.booth.pm/ hey
+- https://booth.pm/en/items/1148311 do not forget this!
+- https://booth.pm/ja/items/1142851 OH SHIT! (PAID)
+- https://uniunishop.booth.pm/items/1277266
+- https://uniunishop.booth.pm/items/1416512
+- https://uniunishop.booth.pm/items/1454216
+- https://uniunishop.booth.pm/items/1572261
+- https://uniunishop.booth.pm/items/1572277
+- https://uniunishop.booth.pm/items/1572285
+- https://uniunishop.booth.pm/items/1587117
+- https://uniunishop.booth.pm/items/1635280 iyey
+- https://uniunishop.booth.pm/items/1735249
+- https://uniunishop.booth.pm/items/1764618
+- https://uniunishop.booth.pm/items/2147846
+- https://uniunishop.booth.pm/items/3692917
+- https://uniunishop.booth.pm/items/4633595 iyey??
+- https://uniunishop.booth.pm/items/4638603 iyey??
+- https://uniunishop.booth.pm/items/4641365 iyey??
+- https://vrun.booth.pm/
+- https://kouboutokiya.booth.pm/
+- https://booth.pm/en/items/2278448
+- https://booth.pm/en/items/1564788
+- https://booth.pm/en/items/3681787
+- https://booth.pm/en/items/4511536
+- https://youtu.be/17p4SnL1kus
+- https://booth.pm/en/items/4511536 even the boob is not free.............................................. wait. uh.. I was movie-ing. nvm, move on.
+- https://booth.pm/en/items/4108136 I said move on!
+- https://tani-hara.booth.pm/
+- https://mirrornoa.booth.pm/
+- https://mirrornoa.booth.pm/
+- https://vlran.booth.pm/ hmm
+- https://vlran.booth.pm/items/5327999 This is for VRChat. in ChilloutVR, there is AdultToyAPI mod. Check [Knah's MelonAssistant](https://github.com/knah/CVRMelonAssistant)!
+- https://uniunishop.booth.pm/items/5213016 iyey
+- https://uniunishop.booth.pm/items/5230329 **PAID**
+- https://uniunishop.booth.pm/items/1168687 **PAID**
+- uniuni was the one behind: Crystal Shader, Candy Paint shader, uh what again?, Fake inner light, Planet shader?, Uni Star, Custom Camera.
+- PiMaker / `_pi_` was the one behind LTCGI
+- https://uniunishop.booth.pm/items?page=2
+- https://khodrin.com/hud-shader-3-0/
+- **Occcassional reminder**, please do not harrass paywallists. ***There is always a better way 😉***.
+- Keep the such files to yourself, family, & organizations only.
+- https://www.youtube.com/watch?v=2NdPHW4_SOg
+- https://youtu.be/Ar9eIn4z6XE?si=xmnFBk0nYKk7waVK WE HAVE `Shader Graph` IN UNITY PACKAGE MANAGER
+- https://github.com/Perkedel/HRtoVRChat_OSC forked just in case
+- https://github.com/NovaVoidHowl/CVR---Guides-Notes/blob/main/local-only-anims.md
+- https://github.com/NovaVoidHowl/CVR---Guides-Notes/blob/main/Avatar%20Creation%20info.md
+- https://github.com/kafeijao/Kafe_CVR_CCKs/ make sure all them installed!
+- Mario64 errors missing water caustic
+- https://github.com/BepInEx/NStrip
+- https://github.com/aniruddhahar/URP-WaterShaders
+- https://github.com/NotAKidOnSteam/SimpleAAS
+- https://github.com/VRLabs/Avatars-3.0-Manager
+- https://github.com/NotAKidOnSteam/NAK_CVR_Mods
+- https://github.com/TanukiPenny/CVRMods
+- https://github.com/AstroDogeDX/Astro_CVR_Mods
+- https://github.com/dakyneko/DakyModsCVR
+- https://github.com/Slaynash/CVRModUpdater
+- https://github.com/ZettaiVR/CVR-Mods
+- https://github.com/libsm64/libsm64
+- https://github.com/EtiTheSpirit/CVRLocalTools
+- https://github.com/ValdemarOrn/SharpOSC
+- https://github.com/VRCClones/UnmuteSound
+- https://github.com/NovaVoidHowl/CVR---Guides-Notes
+- https://sketchfoxsky.gumroad.com/ This is SketchFoxy
+- https://drive.google.com/file/d/1yEwO0irNOUJo_9DwW8Im7yBc8YeEC-2m/view he has this Pen Prop
+- the Pen Prop has involvement with folder `PEN_SET_WORLD`
+- https://docs.google.com/spreadsheets/d/e/2PACX-1vSlKw7F4duN6QvoZqP4gAGjy99k4Ngi5arvKe1r0VGeWg5dnqhWXP1r5YcFJ3-gkaOwQgdpt-XUnd8G/pubhtml# link's collected here.
+- https://mommamollycvr.gumroad.com/ this
+- https://mommamollycvr.gumroad.com/l/imrfi?layout=profile This is MollyTribute's interaction layer
+- Smart Inspector errors `UIElemements` not found in namespace `UnityEditor`
+- removed Smart Inspector yahhhhhhhhhhhhhhhhh
+- Incoming Godette things unsorted
+- https://www.blendswap.com/
+- https://web.archive.org/web/20201112003813/https://www.blendswap.com/blend/22276
+- https://blendswap.com/blends/view/19845
+- https://blendswap.com/
+- https://twitter.com/01lifeleft/status/1046434416073957376
+- https://danbooru.donmai.us/posts/6644811?q=godette
+- https://danbooru.donmai.us/posts/6644826?q=godette
+- https://danbooru.donmai.us/posts/6731018?q=godette
+- https://danbooru.donmai.us/posts/6833511?q=godette
+- https://danbooru.donmai.us/posts?tags=godette&z=1
+- https://danbooru.donmai.us/posts/6833536
+- https://mastodon.gamedev.place/@akien/99446171762346677
+- https://danbooru.donmai.us/posts/6730908
+- https://countouf.itch.io/godette-asset
+- https://www.reddit.com/r/godot/comments/xhbh53/i_made_free_animated_asset_pack_featuring_godette/
+- https://www.reddit.com/r/godot/comments/mtny4k/godette_the_game_maker/
+- https://twitter.com/TysonTanX/status/1506226919733403652
+- https://x.com/TysonTanX/status/1506295529839505411?s=20
+- https://www.artstation.com/artwork/RydXzO
+- https://www.artstation.com/artwork/OGlg36
+- https://www.artstation.com/artwork/klPJ9l
+- https://sourceforge.net/p/supertuxkart/code/HEAD/tree/media/trunk/karts/godette/
+- https://twitter.com/TysonTanX/status/1506226919733403652?t=lB01Zq24KrXCguEr-xaIrg
+- https://x.com/TysonTanX/status/1506226919733403652?s=20
+- https://twistedtwigleg.itch.io/twistedik2
+- https://twitter.com/zahlenmaler
+- https://sketchfab.com/zahlenmaler
+- https://skfb.ly/oxZY8
+- https://twitter.com/zahlenmaler
+- https://www.youtube.com/watch?v=w9m2JDj6teY
+- https://github.com/AniMesuro/posepal?tab=readme-ov-file
+- https://github.com/AniMesuro/rhubarb-lipsync-tp-integration-godot
+- https://github.com/AniMesuro/Animation-Frame-Picker-for-Godot
+- https://github.com/AniMesuro?tab=repositories
+- https://www.youtube.com/watch?app=desktop&v=dwGIoGmWkNA
+- https://www.youtube.com/watch?app=desktop&v=dwGIoGmWkNA
+- https://godotengine.org/asset-library/asset/240
+- https://github.com/samsface/godot-tutorials/tree/master/midi
+- https://github.com/samsface/godot-tutorials/tree/master/midi
+- https://www.youtube.com/watch?v=owbRRxrIp14
+- https://www.youtube.com/watch?app=desktop&v=U6zHnNffnGE
+- https://www.deviantart.com/viabyte/art/Godette-904905100
+- https://www.moddb.com/games/riven-tails/images/nelly-and-godette-fanart
+- https://store.steampowered.com/app/1435470/Space_Bandit/
+- https://twitter.com/01lifeleft/status/959761839897767936
+- https://imgur.com/t/godotengine/xkrd2IO
+- https://imgur.com/t/godotengine/xkrd2IO
+- https://twitter.com/01lifeleft/status/959761839897767936
+- https://imgur.com/t/godotengine/Mgyf2
+- https://twitter.com/01lifeleft/status/959761839897767936
+- https://twitter.com/01lifeleft/status/962938253706805248
+- https://www.reddit.com/r/godot/comments/raj2nn/godette_godot_kart_racing/
+- https://www.fiverr.com/rafaelbrum/create-a-3d-model-rigged-with-animations-for-your-game?source=order_page_summary_gig_link_title&funnel=1aab4daff01cdc8f42cc2ae15723a824
+- https://www.reddit.com/r/godot/comments/raj2nn/godette_godot_kart_racing/
+- https://www.reddit.com/r/godot/comments/epvj7l/friend_asked_me_to_make_my_own_version_of_godette/
+- https://duckduckgo.com/?q=krita+mascot&t=ffab&atb=v102-1&iar=images&iax=images&ia=images
+- https://tqqq.itch.io/godette-3-animations-with-psd-files
+- https://twitter.com/NathanGDQuest/status/1511962438526189569
+- https://www.youtube.com/watch?v=XPkQ1Q7a3Co
+- https://www.artstation.com/artwork/Oowq66
+- https://www.artstation.com/artwork/Oowq66
+- https://github.com/Abdera7mane/cordot
+- https://github.com/Abdera7mane/godette-bot
+- https://goalou.itch.io/godette
+- https://www.cgtrader.com/3d-models/character/man/male-and-female-cartoon-characters-base-mesh-f65df889-b4f4-402b-bc54-843f829a8c5a
+- https://www.cgtrader.com/3d-models/character/fantasy-character/kyoko-game-ready-character
+- https://www.cgtrader.com/3d-models/character/fantasy-character/uzaki-chan-vrchat
+- https://www.cgtrader.com/3d-models/character/woman/godotte **WHAT THEFFFF-**
+- https://www.deviantart.com/13character5/art/Godette-Violet-952439564
+- https://github.com/branegames/godot_3d_outline
+- https://www.deviantart.com/avalonmelody/art/FNAF-2-Human-Meme-Sherry-the-Sheep-518545555
+- https://www.deviantart.com/avalonmelody/art/Elomimi-MYO-Design-Orion-732978205
+- https://croben.itch.io/chibi-godette-cutout
+- https://twitter.com/madodev18/status/1723050410535989531
+- https://twitter.com/pablodp606/status/1357808850083209227
+- https://x.com/pablodp606/status/1735029958613803488?s=20
+- https://dfmarin.artstation.com/projects/Oowq66
+- https://www.newgrounds.com/art/view/h3xagon3st/godette-godot-engine-anime-mascot
+- https://godotcommunity.itch.io/app
+- https://x.com/candrazdestroy/status/1486345199316086787?s=20
+- https://godotengine.org/asset-library/asset/1687
+- https://www.reddit.com/r/godot/comments/ufowtf/my_own_fork_of_godette_3/
+- https://x.com/bruno_arabica/status/959764473073602560?s=20
+- https://www.deviantart.com/bihpeixinho/art/Godette-797136963
+- https://www.deviantart.com/bihpeixinho/art/Godette-On-computer-799098281
+- https://twitter.com/01lifeleft/status/962938253706805248
+- https://x.com/01lifeleft/status/962938253706805248?s=20
+- https://x.com/01lifeleft/status/978971979406393344?s=20
+- https://www.reddit.com/r/godot/comments/mukpw6/godot_meme/
+- https://knowyourmeme.com/memes/this-generation-was-the-first-to-be-raised-online/photos/trending/page/2
+- https://knowyourmeme.com/photos/1988542-gaming
+- https://knowyourmeme.com/photos/2700879-gaming
+- https://knowyourmeme.com/memes/andrew-and-ashley-graves-redraws/photos/trending
+- https://knowyourmeme.com/photos/2715079-andrew-and-ashley-graves-redraws
+- https://knowyourmeme.com/photos/1930480-gaming
+- https://knowyourmeme.com/photos/2418354-gaming
+- https://x.com/reduzio/status/958305883976536064?s=20
+- https://www.pixiv.net/en/artworks/111908080
+- https://www.pixiv.net/en/artworks/111773446
+- https://www.facebook.com/animador3dconblender/photos/godotengine-blender3d-gimp-godot-gochi-o-godot-chan-como-muchos-les-dicen-es-la-/988000231383727/
+- https://www.facebook.com/animador3dconblender/photos/godotengine-blender3d-modelando-a-la-mascota-de-godot-engine-en-blender3dvi-que-/891540947696323/
+- https://godotengine.org/article/godot-has-been-renamed-godette-engine/
+- https://www.reddit.com/r/godot/comments/midw7m/the_very_kind_people_at_godette_gave_me_an_early/
+- https://github.blog/2023-07-25-game-bytes-july-2023/
+- https://github.com/tmewett/BrogueCE
+- https://twitter.com/TweetFurcifer/status/1475854845328437254 ulala
+- https://github.com/godotengine/godot-design/tree/master/godette
+- https://github.com/bitbrain?tab=repositories&q=&type=&language=&sort=
+- https://knowyourmeme.com/photos/2275830-gaming
+- https://www.newgrounds.com/art/view/just-a-ng-dummy/godette
+- https://www.reddit.com/r/godot/comments/mju6rc/my_godette_fanart/
+- https://twitter.com/TweetFurcifer/status/1475854845328437254
+- https://www.pinterest.com.au/pin/700802391988915249/
+- https://www.pinterest.com.au/pin/603552787588157962/
+- https://www.pinterest.com.au/pin/613052568035586375/
+- https://www.pinterest.com.au/pin/603552787574907250/
+- https://www.pinterest.com.au/pin/pin-en-0000--595249275762092707/
+- https://i.pinimg.com/originals/20/ca/87/20ca87f941b6e0e8fbd3c1ae13e56d0b.jpg
+- https://www.pinterest.com.au/pin/609252655858260828/
+- https://www.pinterest.com.au/pin/454230312433316091/
+- https://www.facebook.com/watch/?v=1445472388908300
+- https://www.deviantart.com/judkauwe/art/Godette-Godot-Mascot-Human-design-878523374
+- https://www.deviantart.com/judkauwe/art/Darklord-Ixchel-Colored-2-855477981
+- https://www.deviantart.com/judkauwe/art/Groovy-876336171
+- https://skfb.ly/oonuA MOTHER-
+- https://skfb.ly/oA8Rt
+- https://www.redbubble.com/i/t-shirt/Godot-Nodes-by-RafaLagoon/119962561.UIIS2
+- https://www.planetminecraft.com/skin/godette/
+- https://www.planetminecraft.com/skin/godette-5042342/
+- https://www.deviantart.com/tag/godette
+- https://www.deviantart.com/squidboimusic/art/Godette-Topless-930578669 🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵
+- https://www.deviantart.com/foxiemoose/art/Journey-3-Corporate-Singed-Concept-686884199
+- https://www.deviantart.com/lulutyler/art/Unity-0-20-per-download-983035300
+- https://godotforums.org/d/34706-godette-rendered-in-blender
+- https://skfb.ly/oxZY8 Zahlenmahler is the best Godette model could be!
+- https://www.youtube.com/watch?app=desktop&v=dwGIoGmWkNA PostuRecord Addon Godot
+- https://mastodon.gamedev.place/@bitbraindev
+- https://mastodon.gamedev.place/@bitbraindev/111363621817584566
+- https://mastodon.gamedev.place/@Emilly
+- End. back to normal
+- https://www.furaffinity.net/view/40327492/#cid:176545509
+- https://rezilloryker.gumroad.com/l/MYutV This is Rexouium. **WHAT THE HELL?!??!** No NSFW even!
+- https://rezilloryker.gumroad.com/
+- https://www.vrcarena.com/assets/t9t33LFHlzzMeBHFbIVF
+- https://web.archive.org/web/20201012053436/https://twitter.com/SilverEagleDev/status/1315319340380680192 What are you doing.. argh whatever. Stay here. This is the comment from VRC area above. [and uh](https://web.archive.org/web/20201012053455/https://twitter.com/Ms_Kappy/status/1315374141646811137). Argh c'mon, we can't talk this right now, there's alot of files we haven't handled
+- https://xtosca.gumroad.com/l/ToscaRex *ask to be respe*
+- oi oi shut up shut up, moving on!! NO, keep going! Find more files!
+- Hey, also.. I am that, but.. I do not want to offend anyone. Anyone with these sets of neo-genders are welcome. It's up to you, and God. Idk. Get back to work! Shit.
+- BlendSwap. What the fuck man? Last archive just couple days ago.
+- ultrakill
+- https://furhubcvr.com/
+- https://feedback.abinteractive.net/p/first-person-renderer-on-bones-and-or-changing-functionality-to-a-component
+- https://github.com/stevemao/github-issue-templates
+- https://docs.github.com/en/communities/using-templates-to-encourage-useful-issues-and-pull-requests/configuring-issue-templates-for-your-repository
+- https://docs.github.com/en/communities/using-templates-to-encourage-useful-issues-and-pull-requests/syntax-for-githubs-form-schema uyaiouy yeah
+- https://github.com/libsm64/libsm64-unity-dev
+- https://github.com/kafeijao/Kafe_CVR_Mods/tree/master/CVRSuperMario64
+- https://github.com/kafeijao/Kafe_CVR_Mods/tree/master/CVRSuperMario64
+- https://github.com/I5UCC/MelonAutoLaunch
+- https://github.com/Nirv-git/CVRMods-Nirv/tree/main/SitLaydown
+- https://github.com/kafeijao/Kafe_CVR_Mods/tree/master/PickupOverrides
+- https://feedback.vrchat.com/open-beta/p/eac-in-a-social-vr-game-creates-more-problems-than-it-solves
+- https://vrchat.com/home/world/wrld_d9c8c442-f69f-4b14-bf76-b9369853f702 what?!??! Louis Rossman VRChat world?!?!??!?
+- https://github.com/Dervali-git/VRC-Tips/blob/main/LaySittingPrefab.md
+- https://github.com/Dervali-git/VRC-Tips
+- https://github.com/kafeijao/Kafe_CVR_Mods/tree/master/TheClapper
+- https://github.com/Nirv-git/CVRMods-Nirv
+- https://github.com/EtiTheSpirit/CVRLocalTools
+- https://github.com/kafeijao/Kafe_CVR_Mods/tree/master/PickupOverrides
+- https://skfb.ly/XXTN (No download, Sketchfab official) Argh, fuck. I can't believe you've done this. 
+- https://www.reddit.com/r/Vive/comments/4onpx6/looking_for_3d_models_of_vive_and_controllers/
+- https://www.reddit.com/r/Vive/comments/70crph/cad_3d_model_files_for_vive_and_accessories/
+- https://developer.vive.com/us/
+- https://www.viveport.com/
+- https://www.vive.com/us/setup/
+- https://www.vive.com/us/support/
+- https://www.vive.com/us/setup/
+- https://skfb.ly/RTIM I'm just gonna download here okay?. JER3D.
+- https://developer.vive.com/resources/
+- https://sketchfab.com/blogs/community/tutorial-build-virtual-reality-game-sketchfab/ how to VR Game in Sketchfab
+- https://skfb.ly/6ZXYJ First, obtain a wheelchair. imnuts000
+- https://skfb.ly/MCA8 Then this HTC Vive kit alban (Sketchfab Co-founder) had scanned. ... nvm.
+- uhhhh
+- https://skfb.ly/6vU6x try this.. Vive Pro that Eternal Realm uploaded?
+- https://github.com/Unity-Technologies/usd-unity-sdk okay pls wait. uhh, technical difficulties. Unity only works well if it's Blend or FBX.
+- https://docs.unity3d.com/2020.1/Documentation/Manual/com.unity.formats.usd.html
+- Okay, I did it. First, download convert GLB max res. Put in Blender, select just the headset, not floor. Export again GLB. Make sure only that selected, material exported.
+- https://forum.htc.com/topic/6069-cosmos-controller-models/ why?!
+- https://forum.htc.com/topic/7379-vive-cosmos-controllers-official-3d-model/
+- https://skfb.ly/67pqB wait hold this one. Marco_Romero
+- https://skfb.ly/6vYMA Okay, here we go. iShoNz. Vive 1 controller.
+- https://github.com/Unity-Technologies/usd-unity-sdk/blob/dev/package/com.unity.formats.usd/Documentation~/index.md
+- C'mon, left the trackers here..
+- https://skfb.ly/6UWHQ ugh.. the qtit's is the least we can use right now. This Vive Tracker, has umm metal material on the metal ports at least.
+- Of how fucking protective HTC are!! You got better brand than HTC?
+- ,.
+- .
+- .
+- Issue contains complain. It was one of the Federal agent / Paywallist who got offended.
+- Malore Konufir (X0p1r4t3, prev. Wakturia): Huh. Another Federal agent I see. (type) Fuck y-
+- Gyouter Embinosa (Wakturia, captain): (snatch laptop, normal bit escalate talk) What are you doing, Malore?
+- Malore: (anger increasing)?!?!?!?!?.... (soft internal angry talk) What you doing? Why did you do that? You forgot who I am?
+- Gyouter: Listen. I'm sorry. I don't talk that in X0p1r4t3 there is no tier who's highest order or what. It's Federals.
+- Malore: Then? Attack. Simple.
+- Gyouter: (soft swing head left & right)...., We don't have power anywhere. Not even here in Dasandim. Nothing. (edit writing) Until we do..., We obey (give back).
+- `Thank you for your feedback. We have removed said offending part of this article.` (offending part has been commented)
+- Malore: (it's just commented tho).... 
+- Gyouter: (portal back to his station)!, (enter), (close portal)!
+- Malore: (look Gyouter)?? (oh he left)...., (sigh) Ugh... What the hell (a.k.a. `whatever`), (submit)!
+- .
+- .
+- don't worry dummy test. your creation of this system help relieve maidenlesses much further & reduced numbers of unexpected demises. Don't feel bad. Don't feel guilty you had wife, they're not. Noone shall be jealous, finding maiden is insane these days.
+- Incoming, `VanillaLog`
+- https://youtu.be/eFkwu7p1LhU?si=Bk43kUM2sJnuNyHY has dl
+- https://docs.google.com/document/d/1GIfrXKHr2ndUh10DVIoS4lRw99misyzHZfo0fnwK8uk/edit here
+- https://hub.vroid.com/en/characters/5898640051940108534/models/1526936883753586544
+- ueayh
+- https://github.com/gwaredd/UnityMarkdownViewer Look what we found here! Markdown reader!!!!! yey!!
+- https://github.com/kafeijao/Kafe_CVR_Mods/tree/master/ProfilesExtended
+- `C:\Program Files (x86)\Steam\steamapps\common\ChilloutVR\UserData\MelonPreferences.cfg`
+- in `[ProfilesExtended]` category, set `OnlyLoadAASParams = false`. make sure all params loads
+- https://youtu.be/ZV_CsjoQRp4?si=i2a4C3pGtzzazVfF Merry XMAS
+- VoyVivika Props credits incoming
+- https://sherbertdragon.gumroad.com
+- https://skfb.ly/owoKW ukulele
+- https://skfb.ly/VYys Pancake
+- aa.
+- https://blankinternational.com
+- Update on Racush's port of Ghostt's VRA-05 Morph avatar. There is heartbeat & visible heartbeat. But no sound. also cannot take clothing off. Oviously, there is no also heartbeat react on running due to lack scripting in this CVR.
+- Wait.. I must've missed it. no.. Yep.. Ughhhhhhhhhhhhhh, well uh.. still my assignment.
+- user https://github.com/zLucPlayZ gone
+- https://github.com/zLucPlayZ/audio-link-for-cvr gone.
+- https://github.com/LucHeart/audio-link-for-cvr nvm, it's here!
+- Thancc, Kjoy. found in Lakeside Studio.
+- https://www.reddit.com/r/VRchat/comments/165uuhs/is_there_any_vrchat_world_that_enables_us_to_use/
+- https://github.com/PaciStardust/CoreOSC-UTF8
+- https://github.com/ValdemarOrn/SharpOSC
+- https://github.com/Dalesjo/CoreOSC
+- https://github.com/LucHeart/UnityShaders has UnityShader!
+- LucHeart according to GitHub profile is ABI employee.
+- https://github.com/LucHeart/CoreOSC-UTF8-ASYNC
+- https://github.com/LucHeart?tab=repositories
+- https://github.com/LucHeart/HeartSoos-WearOs
+- https://github.com/LucHeart/HeartSoos-Server
+- https://booth.pm/en/items/3075449
+- https://wispywoo.booth.pm/
+- https://wispywoo.booth.pm/items/4601215
+- The TV (WWTV), heater, Speaker, are part of those world. (PAID)
+- Lakeside Studio also from wispywoo.
+- The Billiard table on that WispyWoo is original WispyWoo's skin of it, not included in VRCBilliard. Look at 7 dots logo in big square bracket!
+- https://wispywoo.booth.pm/items/4601215
+- https://moderatewinguy.gumroad.com/
+- https://www.patreon.com/posts/flexicurve-fairy-94014721?utm_medium=clipboard_copy&utm_source=copyLink&utm_campaign=postshare_fan&utm_content=join_link New things from RED_SIM. FREE. FlexyCurve
+- https://www.patreon.com/posts/94014721/ how to flexicurve
+- https://youtu.be/Fiy1kxU3ymo?si=nMROLTtMN6Hx9QBb YouTube tutorial Flexicurve
+- https://www.patreon.com/posts/65636888 PAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAID
+- https://www.patreon.com/posts/31602949 Fireplace shader paid
+- https://www.patreon.com/posts/41035102 Universal Eye shader paid
+- Keep the assets you've sparsdated yourself! DO not harass anyone! There is always a better way.
+- https://github.com/EtiTheSpirit/CVRLocalTools
+- https://github.com/kafeijao/Kafe_CVR_Mods/tree/master/ProfilesExtended
+- https://youtu.be/zumZ2Y9mPNQ?si=N5An9tLb_nTuYrIo bonus Godot. Await.
+- https://www.youtube.com/watch?v=QIGsBh0XQWg
+- https://web.archive.org/web/20231204130825/https://blendswap.com/contact Blendswap is on again.
+- But include this and all file I mean by all mean, every files uploaded to Blendswap in our proposed protocol `PreserveZero`.
+- https://blendswap.com/ Yes?
+- Yes. All of them. Don't care anymore. It will gone, and always gone. It will be blocked, and always blocked.
+- https://web.archive.org/web/20231204130635/https://blendswap.com/
+- https://www.blendswap.com/blend/22276
+- https://www.blendswap.com/profile/1074223
+- https://sopra21.booth.pm/ This only had one here.. okay, let's take it.
+- https://sopra21.booth.pm/items/3475980
+- https://booth.pm/en/items/3735509
+- https://booth.pm/en/items/4072429
+- https://github.com/rygo6/GTAvaCrypt?tab=readme-ov-file clearing up
+- https://github.com/PlagueVRC/AntiRip clearing up
+- https://coposuke.hateblo.jp/entry/2019/01/20/043042
+- tbh, I would.... you got the idea, but what do you know? CVR also in itself, already had.. encrypted system since scratch.
+- Which is why... This [Overseer](https://github.com/Perkedel/HexagonEngine) here... is not meant.. for proprietarists. It meant to torture them. To not feel torture, cease being one. Be archiveful. Be acknowledgeful. Who did this. Shall spread name.
+- That's for another day. moving on!
+- https://github.com/mitis1233/arktoonShadersBackup
+- https://github.com/mitis1233/arktoonShadersBackup
+- https://github.com/mitis1233/arktoonShadersBackup
+- https://github.com/mitis1233/arktoonShadersBackup
+- https://github.com/CuteWaterBeary/shaders.sqnquark.arktoon Pick from the last!
+- https://github.com/lilxyzw/lilToon/releases new version of Liltoon
+- https://booth.pm/en/items/3087170 pls update!
+- https://kyubihome.booth.pm/items/2554585 paid
+- https://booth.pm/ja/items/2836532
+- https://polyhaven.com/ check pls
+- https://3dtextures.me
+- https://booth.pm/en/items/5323956 pls dl
+- https://booth.pm/en/items/5321656 paid
+- https://booth.pm/en/items/5320824 paid
+- https://booth.pm/en/items/5330672 LIMITED?!??! you m-
+- As always, right click, save as folks
+- https://booth.pm/en/items/5333008
+- https://booth.pm/en/items/5334724
+- https://booth.pm/en/items/5339268
+- https://booth.pm/en/items/5307468
+- https://booth.pm/en/items/5315859
+- https://hanaechu.booth.pm/items/4795520
+- https://booth.pm/en/items/5314122
+- https://gitlab.com/sayiarin
+- https://gitlab.com/users/sayiarin/projects
+- https://gitlab.com/sayiarin/awoo
+- https://awoo.hainsate.com/
+- https://gitlab.com/sayiarin/sayifx
+- https://booth.pm/en/items/2831542 The camera has been found.
+- https://booth.pm/en/items/4054622 paid
+- https://lilpinkdevil.booth.pm/ pls check the entirity
+- https://booth.pm/en/items/4049817 **OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO!!!** CONTAINERS!!!
+- https://github.com/CMoyuer/VRChatAvatarSDK3Container oH SHIT. Welp. We messed up. All VRC Udon files.. gone. We have to reinstall each and everyone of them. We had broke it so that it not error here. Prompty, you gotta put this so next time no more messups.
+- https://github.com/CMoyuer/VRChatAvatarSDK3Container/
+- https://moyuer.booth.pm/
+- Don't get excited tho, you sure this work? Why there's only,.. dlls??
+- Clean up paid assets now
+- https://booth.pm/en/items/4028065 
+- https://booth.pm/en/items/4264831
+- https://booth.pm/en/items/4204738
+- https://booth.pm/en/items/3370660 good
+- https://booth.pm/en/items/4090910
+- https://booth.pm/en/items/4205304 good
+- https://booth.pm/en/items/2609345
+- shit. swap ate disk. close browser!
+- Hey idea. If I had to VRChat for a while, I'd like to... make Udon things, that detect if a player avatar contains.. KannaProtect. If it is, hide it. censor it to everyone. idk. Fuck you, proprietarists. This is .. long research.
+- And for ChilloutVR, there is database. If this avatar in database says Paid or No DL, censor it to everyone. ... 1 research map. it'll be somewhere. Originally from Godot we have Overseer, Surreal Blender Meme.
+- sugu.
+- .
+- .
+- Morning briefings Monday 18 Dec 2023
+- Pelvog (X0p1r4t3): We, have been BLOCked!
+- ..
+- ..
+- Pelvog: What do we do?
+- ..
+- Sdorg (Crossban University, Student of Pure System Information): **DOX!!**
+- Deuxro (X0p1r4t3): (async) (press `wrong` buzzer twice in bip bip)! !.
+- Pelvog: (async) (swing head left & right index swing `No` gesture).... We'll be doing this., (gesture `offer` palm give something).... (& lift that palm up)!!....!
+- *audicence*: (interpreted as `reupload` as if 404 already gone) WOOOOO 🙌🙌🙌🙌🙌👏👏👏👏👏👏👏!!!
+- Bakk (Crossban University, Student of Pure System Information): (disagree, reuploading someone post is illegal) What?! (angerily step forward to stage)!!...
+- Pelvog: (notice a student going to snap a protest, sharply point index finger up and look sharply to that student) WIith!!!....
+- Bakk: (stop & kept upset face)??....
+- Pelvog: **CREDT!.** ... YesMyFriend., Craedit.
+- Bakk: .... (Thought that could lead to harassment towards the blocker because they told, this person blocked, continue step forward)
+- Pelvog: (interupt again, iconic right index up gesture) ENSURING!!... TO not.... not... (change that right hand gesture to palm sideways point to that protestful student Bakk) harrass. That's not our goal. ... (the task therefore -) This is our task. .. The only task. ... No else but. (right index partial up) NO INTERACT!.. ... .., `yt-dl`. Sorry, **`yt-dlp`**.
+- ...
+- ...
+- *audience*: ... (understood & applause) Yes!! WOW, 🙌🙌🙌🙌🙌👏👏👏👏👏👏👏!!!..... (keep going)
+- Pelvog: Good morning, gamers!.., Great-luck God-Bless-you. Let's begin to work. (about to throw handle-stick mic towards that big door) Look out!
+- *middle audiences*: (move away)!!....
+- Pelvog: (wait).... (clear, throw now) HEUGH!!!, (take brand new improved head mic, present it) NEW MIC! ....
+- Info: add applause
+- Pevlog: (wear)!... HAAAh!
+- Roig Hermalansa (X0p1r4t3, Vice President): Pelvog!
+- Pevlog: HEUGH?!
+- Roig: You think alt account is good idea?
+- Pevlog: Don't do it now. Just propose. Let Joel decide.
+- Roig: Okay, so. Here we have last night found more stuffs you gonna check out.
+- Pevlog: (left hand lift goodbye leave stage & then down again) Heuoi, (leave with Roig)..
+- Roig: So.., we found serveral newfound Booth files our Enthusiasts had craved midnight.......
+- *audience*: (stop applause)., (leaving).., (go to work stations)..
+- .
+- .
+- .
+- https://www.tumblr.com/freethegens pls obtain every documentation from here for the future project with Homestuck. ... Or maybe after we handled the Queen first, which stranglehold the actual patent of it. Yeah, the Primagen. No.., Protogen while yes public patent, has rules. Mostly outrageous ones. It's.., it's a long story. No.. This person is not the Queen. It's.. different. Not that Mercury. OTHER Queen, OTHER OTHER OTHER AND OTHER QUEEN. I cannot say the name today, safety reason. 
+- .
+- https://hobbert.gumroad.com/l/qxodn paid
+- https://hobbert.gumroad.com/ still wanna check all?
+- https://github.com/lilxyzw/lilAvatarUtils.git hey, liltoon had more packages here.
+- https://github.com/lilxyzw/lilMaterialConverter
+- https://github.com/lilxyzw/OpenLit
+- https://github.com/lilxyzw/lilFurGenerator
+- https://github.com/lilxyzw/Shader-MEMO Oh no... this is unsorted to user sorted folder!
+- https://github.com/lilxyzw/lilSceneViewExtensions oOo.
+- Incoming Avali Model Comparison world. Dervali
+- https://raikitamatsu.gumroad.com/l/JerryAvali gone
+- **the rai gumroad itself also gone**. Yes, Rai Kita'vali
+- https://bluegua.gumroad.com all paid as of 2023-12-18
+- https://discord.gg/Cq8NacV Natvali. Lords of Floof
+- https://rosebur.gumroad.com/ all paid as of 2023-12-18
+- https://mikedabird.itch.io Only games are $0, All games says `Play in Browser`
+- https://lorcanvr.gumroad.com
+- https://starmax.gumroad.com/ paid
+- https://voidangeldesigns.gumroad.com FREE as of 2023-12-18. Nexavali
+- https://patreon.com/AngelBoy Substance Painter file paid
+- https://discord.gg/XNfdDHg Void Angel discord
+- https://tinyurl.com/NexaVRC unofficial VRChat package of Nexavali.
+- https://javenchiart.gumroad.com all paid as of 2023-12-18
+- https://javenchiart.gumroad.com/ paid all as of 2023-12-18
+- I said Paywalled. DId not bought any these yet. ... None are here.
+- Flutevali is complicated reach out! ask on X, cost USD 60 **NOT GOOD**! here https://tinyurl.com/FluteAvatar
+- https://twitter.com/FluteBirdie/status/1458308021650481153 shit. it's gone.
+- https://twitter.com/FluteBirdie/ entire account gone.
+- https://toastySheeb.gumroad.com paywalled. (alas, the rubber related (pooltoy) are also paywalled, I like latex) Shit fuckin' hell, I wish!, man.
+- https://modernballoonie.gumroad.com paywalled.
+- https://modernballoonie.gumroad.com/l/PooltoyAvali zikeseren.
+- https://discord.gg/JE9CGyr
+- https://angriestscv.gumroad.com **PAID** paywalled. (AudioLink driven shader Poiyomi shader also paywalled) Ugh.. you-
+- Grevor Sritowi (Wakturia): Sir, can you please.. for one day not to uh.. idk.. I'm confused right now..
+- https://rosebur.gumroad.com paywalled.
+- https://polyottr.gumroad.com Only the Genderfluid symbol is free? ... Alright, alright. Where do we put this? YOu know Perkedel do not endorse neo-gender, just so you know. ... C.. Can we.. Argh damn it.. If I... only had this.. THere only be.. unrelated shame. NOt the neo-gender. **The paywallism**. We cannot put too much shame energy supposedly, right now. ... You know what? put this here. I'll think about this later.
+- Oh, remember, keep the sparsdat to yourself. Don't put paid nor sparsdated asset here, you had it, **all must be gitignored**. If we accidentally uploaded, we're done. There will be massive history purge need to do. Just telling.
+- Later. There will be time. I promise. I may not see the day, it'd be my far descendants one day.
+- Now, survey all above. What do we got?
+- Oh wait
+- https://tinyurl.com/AvaliLinks & also..
+- https://discord.gg/XnjmSer (joined) Avali Army. We need a bigger boat. Man, WHERE THE FUCK IS MY MONEY!!!? I NEED ALL THE NAS!! WHATEVER BIG STORAGE I HOLD!! FUCK!!!
+- https://tinyurl.com/DervaliWorlds now, is Dervali actively seeing Forms?
+- https://web.archive.org/web/20230724143515/https://raikitamatsu.gumroad.com/ Oh my God... no.. there's more.
+- on Kolmorotzzet folder `Rai Kitavali`, we only got Kitavali files. That's all. Textures, aan that's it.
+- What do you know btw, in regards of this.. let's not. let's move on.
+- Hey, keep the quick link open. We got to bring to the direct link to that Avali Army Discord. the Forum thread.
+- https://discord.com/channels/530351426833088512/1060234969517129778 Uhh yeah, this. Everything. Damn **FUCKING UNTIL WHEN WILL WE CAN?!** Who say... My mom refuse to understand, if things can gone one day. No realize which had been since. Did I told? ugh, why would again?
+- https://nukude.gumroad.com/l/pyhkyk Oh shit I forgot. eh, here whatever. ... Yeah, (paywall) the one did Protogen I mad about.
+- https://www.artstation.com/marketplace/p/AYe9l/avali-rigged-model-blend-file (paywalled) Argh.... r.
+- https://vrcmods.com/item/6550 Oh hey Optimized Avali 1.3
+- https://kotyor.gumroad.com/l/softwaiterdavali
+- https://kotyor.gumroad.com/
+- Okay.. uh.. in Avali Army, Rai made room `#da'vali-avatar-rules`. Same rule. Same restricted. Same agree button.
+- Now, if anybody had to Avali... Which one to pick then? coz.. You know something is up with Rai. ... I'll put up this later. A guy.. yes, paywallist, wanted to.. make.. inspired from her Kita. Robot Kitavali. Rejected. Yeah, that one won vote, but rejected, say... uh.. *backseat commercialisation*. ... Yeah you got the idea. Well, we got.. other Avali. Luckily it's just with Kita & Da'vali patents. Not like... mine (Protogen & Primagen patents). ... the Queen... I'm ashamed.
+- https://ko-fi.com/avaliarmy/shop here accessories shop.. ugh.. and uh..
+- wait.. where'd the..
+- https://ko-fi.com/i/IZ8Z324YM2 hah wait. cool art from miss.meylin. Pumpkin Girl
+- the second link is gone. no, not that cool art, that exists. I wanted to visit the other link.
+- .
+- Ugh.. the Jerry gone. and has no `Public Okay` sticker. ... Let's forget clout. There's something up with everyone who uh... so fuckin' exclusive!! not just this, fuckin' everyone who had such behaviour.
+- https://kotyor.gumroad.com/ paywalled. hey you put this already? don't forget. accessories.
+- **WAIT!! THIS TIME DO NOT IMPORT ALL RAI PACKAGE**. Something wrong! Not technical. Bad behaviours.
+- Okay.. huuu, I mean Protogen too bad behaviours, but the Queen is 2D drawing only. Rai's 3D, and it's these `.unitypackage`s!
+- idk.. 3D speakingly, because Nukude's protogen is paid, then I am lucky I had TriwaveBZ.
+- So does with Avali. Rai's problematic & lost paid file, back to Avali vanilla. ... I wish that it's former good. argh...
+- https://archive.org/details/minecraft-avali-model-yosh here Minecraft Avali.
+- I'M SIGNED OUT AGAIN?!?! GITLAB, I SAID `REMEMBER ME`!!! Ugh..
+- https://gitlab.com/farfelu/vrchat-reverse-avali-avatar/ It's a whole Unity project. but wait. there's only `ReverseAvali` folder. Just take that bring to here.
+- Don't worry, ... who's again? We got the container. ... let's try? Okay, who's that guy again?
+- https://github.com/CMoyuer/VRChatAvatarSDK3Container/ Oh, Moyuer. okayh.
+- Hey, can you pls.. start from Vanilla first? that's the most important.
+- Okay, I've covered most MEGA & Discord Attachments. the mediafire & Dropbox not yet.
+- Oh yeah I forgot https://twitter.com/FluteBirdie/status/1458308021650481153 this gone too. report again!
+- argh I already left.
+- Ay look, the shadergraph works. I mean.. it's (the `.shader` file) already generated, yeah. Auto render thingy.., yess.
+- ***Never have I ever pirated, sparsdated, or download film torrent from torrent site***. Right, who's finger eliminated / closed? Me.. and....... okay, thancc.
+- https://youtu.be/U8W1SWWAZ6E?si=y3R4BqkRDsTgKdz7 how to never have I ever
+- https://gitlab.com/farfelu/vrchat-reverse-avali-avatar/
+- https://sfbgames.itch.io/chiptone we use this to generate sound
+- https://sfbgames.itch.io/ hawat
+- https://sfbgames.itch.io/tangle-tower
+- Hey! Do not corrupt the Federals before Admiral Zumi & Roig escape! If you do that, Zumi will instead join Crackers group. You already know that this is nasty game. NO, not the cracking itself, **it's the competition!!** Who got cracked first, is the honor. Doesn't matter money (given or not). And the late.. **dishonored / nuked**. That's why I hate Cracker Contest Game. Basically let it go. Do not meddle with time! This planet Zumi & Roig came from is... horrible since scratch, you do it, had to be.. alot. Say you did, and then bad again, just... can't be done, it's canon.
+- How could that be? Well, The Federal is corrupted say. There is this cracker group, amongst many. Since Federals supposedly scronched bunch of them including this one, this Cracker group got to Zumi.
+- *Hello. Why just consuming pirated content, when you can be the pirate itself?* And so there it is. Zumi helped this Cracker group reach the peak honor of all time. Being the 1st and again to crack video games & software tools!
+- What's the catch? **Of course you fucking already know it!** Zumi becomes arrogant! 180 degrees way over than this Perkedel canon (humble & likes to share). Zumi then.. will *die for* the secret. Keep the secret out of any gamers but the Cracker group he's in. Noone shall know how did they do that.
+- Oh and also, on related topic, the Cracker group here happens to be... racist. Discriminative. Likes to harrass.. those skin who aren't them. Ah, correct! you know that lady. Good. She's very proficient. Alas tho, that's her behaviour. I... can't understand what's her implication. What if this.. argh.. wha yeah.
+- And then... If Zumi instead becomes anti-villain, then.. who's going to archive these files? ... Let me tell you: .................. **null**. That's right. Nobody. Zumi was the only & 1st and most 1st. **FUCKING 1st since scratch**. very 1st, most 1st, to act upon files. in Perkedel canon, there was a guy. Once upon a time, in early day (while research basement is WIP), a guy portaled to his temp office space. FIle gone! here tablet to show it. Heh really? check, type website, gone. Archive? nada. But lucky, Zumi downloaded that file way before. COnfused, of course. Give file or not. Is it illegal? But the guy insist: *if you don't act, when? all will gone, no gold survives*. You know, Zumi's mend is still pure, so.. of course, he copy to USB, and give the USB. the guy glad, like he can die in peace. No, he not die, just.. HDR increase glow, and then remove from the scene. Yeah. The rest is history. 
+- No Zumi... file all gone, by the time 100 years before Jesus comes back. Peace both islands, Armageddon, scrolls & trumpets, spiritual physical wars & yadi yada. All those time, file gone. Well actually, there's remake, but.. too paltry. Everyone is focusing war on suddenly fucking shit after these 2 peace. What a horrible era to be in appocalypse eh? Wish Jesus took you to Heaven right away but oh no, you gotta pass these tribulations first.
+- So yeah. Just.. let it go. Just saying. NO.. I mean, serious. It's better this way. No more sparsdat video game, or some software tools. **Except Adobe**. We will make the knock off like bad really. We will have the alternate of those software tools.
+- Oh also... don't look too much porn. Not good. Just keep the file. And you, in very future, you too. Don't watch porn too much. Look outside, I know it'll be hell day of yours, but it's better this way. Watch out for.... those who offer uh.. the chip, that'll injected to your hand, **reject at all cost**! If you chose devil, game over. OH and.. you also if by no consent you wake up with it, pray to God that it got removed, and follow instruction. If you die with that, pray God again, I hope He'll tolerate it, as long.. it's not your consent. Damn, that part I have no full Revelation I understand. I ask question to pastors of the world, If I ... no I mean, my descendants far in the future, woke up with the chip suddenly in hand, they don't consent at all, will still they Heaven eligible? One few says still no. That's not alright, So.. I'm asking for different opinion. Really? that timeout the mercy would be? Then asshole He is?! NO.. that's incorrect, He owns the Real Life, How the hell could unluck constitute you to eternal doom? How the hell would He let tiny ants like us.. squashed useless? I mean, we being are.. yeah, but He is God, He made all matters! So no.. He cannot be that, despite the day later. We fucking unconsent!! We know who they are!
+- I'm serious!! I need full insight!! I don't want my descendants far in the future stress only to think, and disable sleep for good, only then die of lack sleeping!
+- .
+- .
+- https://resonite.com/ Here's resonite. Very new. **already has scripting**, but **no permanent buy**.
+- https://github.com/Yellow-Dog-Man/Resonite-Issues same, not open source either.
+- https://github.com/lilxyzw/lilFurGenerator/ Okay this is done now
+- https://github.com/lilxyzw/lilMaterialConverter and this too.
+- okay, get ready! and..
+- https://github.com/lilxyzw/lilSceneViewExtensions this done..
+- https://github.com/lilxyzw/lilOutlineUtil this...
+- https://github.com/lilxyzw/lilMatCapGenerator.git?path=Assets/lilMatCapGenerator#main UPM now..
+- wait.. Oh yeah, there's `package.json`.
+- https://github.com/lilxyzw/lilMatCapGenerator/blob/main/Assets/lilMatCapGenerator/package.json wait.. version is `0.0.0`?? argh, whatever.
+- https://github.com/lilxyzw/Material-Separator don't forget this one
+- https://github.com/lilxyzw/EXShaders hold on. I think I can do this..
+- https://github.com/lilxyzw/EXShaders.git?path=Assets/EXShaders#main okay, let's see.. **ALRIGHT!!, HERE WE GO.**
+- https://github.com/lilxyzw/OpenLit wait, this guy had no proper package json?
+- https://vrcmods.com/item/3457 hey,.. there is repackage here. Funny story, the original Avali package was not foldered to its dedicated folder, basically, should be own project. NOw this, is.. repackaged to be.. sorted out. Nvm, this is not up to date. Ugh.. let me sort the latest one later.
+- https://coposuke.hateblo.jp/entry/2019/01/20/043042
+- https://github.com/Santarh/MToon
+- https://www.slideshare.net/VirtualCast/vrm-mtoon
+- https://github.com/Santarh/MToon This whole repo is the folder itself, put here!
+- VRMC shader already has it! Package `com.vrmc.vrmshaders`. the VRM package!
+- https://hbaddict.itch.io/heart-clinic please not, this is not my game. I have no involvement. caheartman made mistake, idk how did he confused.
+- https://www.tumblr.com/joelwindows7/717681080846663680/caheartman-here-is-a-video-from-the-heart
+- https://feedback.abinteractive.net/p/sphere-triggers
+- https://feedback.abinteractive.net/p/cck-scripts-don-t-get-marked-dirty-serialize-on-change-properly
+- https://feedback.abinteractive.net/p/aas-decides-the-animation-override-is-missing-randomly
+- https://github.com/whiteflare/Unlit_WF_ShaderSuite **NEW UPDATE!!!**
+- https://booth.pm/ja/items/1197108 Also has this example. This is 2A-7, from hiroiheya
+- https://booth.pm/en/items/3835599
+- https://booth.pm/en/items/3202177
+- https://booth.pm/en/items/1992750
+- https://booth.pm/en/items/4358143
+- https://booth.pm/en/items/4499397
+- https://booth.pm/en/items/5199910
+- https://booth.pm/en/items/3809077
+- https://booth.pm/en/items/5335264
+- https://booth.pm/en/items/4207881 
+- https://github.com/AcChosen/VR-Stage-Lighting/tree/main/Packages/com.acchosen.vr-stage-lighting Pls convert to UPM path
+- https://github.com/AcChosen/VR-Stage-Lighting/tree/main/Packages/com.vrchat.core.vpm-resolver and this
+- https://github.com/AcChosen/VR-Stage-Lighting.git?path=Packages/com.acchosen.vr-stage-lighting#main
+- https://github.com/AcChosen/VR-Stage-Lighting.git?path=Packages/com.vrchat.core.vpm-resolver#main
+- https://twitter.com/sunekosurisuri_
+- https://youtu.be/GXmDRRabHRY?si=TiYnzv-K-e_HzdHL from here, we got
+- https://3d.nicovideo.jp/users/130536457/works
+- https://x.com/sunekosurisuri_/status/1725162301794230291?s=20
+- https://twitter.com/suyakouta
+- https://x.com/WholesomeDoujin/status/1736775004296298682?s=20 what are you doing here? moving on.
+- https://x.com/miwa_koku/status/1736778354127200597?s=20 c'mon, where's the model?
+- https://fantia.jp/fanclubs/474192
+- https://suyasuyasuya.booth.pm/
+- https://fantia.jp/fanclubs/474192/posts the models on suyakouta are all paid! including
+- https://fantia.jp/fanclubs/474192/posts Fuwawa. and
+- https://fantia.jp/posts/2331101 Mococo.
+- also,
+- https://fantia.jp/posts/2331101 there's outrageous rules! it says..
+- `For works other than still images and videos, please confirm the use with me.`
+- `Completely prohibiting the use of derivative models in VR・MR・AR apps and demo videos (including still images) (please contact us separately for originals).` This one..
+- `Violent expressions (including R18G) are prohibited (gags are okay).` This one, fucking hell..
+- `Prohibition of use of political expressions.` This one..
+- `Use of derivative models on VRSNS is prohibited.` This one, shit!
+- `Any other content that I deem inappropriate.` 💀, because
+- there was... `Recently, the Ina-chan model was used in a VR app demo, and the content was not a derivative work with recognized character characteristics, and the image was a bit shocking, with the arms bent in strange directions, so the release was stopped. As luck would have it.`
+- The Ina-chan model deleted. .. Ugh.. another day.
+- https://fantia.jp/posts/2286153 what?
+- https://fantia.jp/posts/1861050 Wait, Ina's still here? Also Paid. Damn! can you pls hire some translator or born bilingual JP & EN?! Don't confuse me, will ya?
+- https://suyasuyasuya.booth.pm/ one last check..
+- We're done. that latter paid. Beyond recovery.
+- Keep assets to yourself. git ignore them.
+- https://spotlight.fantia.jp/news/20211014_verification
+- https://x.com/suyakouta/status/1730237323776860437?s=20
+- https://x.com/amedamahitotubu/status/1736687396065034294?s=20
+- https://x.com/fuwamoco_en/status/1736796677502382099?s=20
+- https://www.foriio.com/suya
+- https://github.com/vrchat-community/UdonSharp
+- https://github.com/AcChosen/VR-Stage-Lighting/tree/main/Packages/com.vrchat.core.vpm-resolver/Editor
+- Okay
+- https://sarasarenge.booth.pm/ here we have sarasarenge.
+- https://booth.pm/ja/items/2836532 begin from Anting-anting. file name `Acce`.
+- https://sarasarenge.booth.pm/items/3123829 argh shit!! paid!!
+- https://sarasarenge.booth.pm/items/4312949 `DecoDecoGoodsB` Dakimakura, Cutouts, and.. whatever. etc.
+- https://sarasarenge.booth.pm/items/4312877 `DecoDecoGoodsA` Mugs, coaster, and acrylic cutoutss
+- https://sarasarenge.booth.pm/items/2833456 Anting-anting Plumbob `Acce 01`
+- https://sarasarenge.booth.pm/items/2841030 Flame Grenade . **PAID!!!**
+- https://note.com/sarasa_renge/n/nd87b71b81462
+- https://sarasarenge.booth.pm/items/2846460 Flower decoration
+- https://unity-chan.com/download/releaseNote.php?id=UTS2_0
+- https://unity-chan.com/download/
+- https://sarasarenge.booth.pm/items/2879571 top hat **PAID**
+- https://sarasarenge.booth.pm/items/3123529 Cotton Candy machine **PAID**
+- https://sarasarenge.booth.pm/items/3123829 Lollipop **PAID**
+- https://sarasarenge.booth.pm/items/3194998 Cat Tower **PAID**
+- https://sarasarenge.booth.pm/items/3123529 Cotton Candy machine **PAID**
+- https://sarasarenge.booth.pm/items/3195276 Apple Stick **PAID**
+- https://sarasarenge.booth.pm/items/3211078 Ice cream cone holder **PAID**
+- https://sarasarenge.booth.pm/items/3628896 Corkboard **PAID**
+- https://sarasarenge.booth.pm/items/3889526 Japanese world map quiz scale model **PAID**
+- https://sarasarenge.booth.pm/items/3110056 Balance Stick `Acce`
+- https://sarasarenge.booth.pm/items/2919018 Bell ears **PAID**
+- https://sarasarenge.booth.pm/items/2894487 Camp Survival Kit. **PAID**. Stove, mug, etc.
+- Okay, I think that's all. https://sarasarenge.booth.pm/
+- https://booth.pm/ja/items/3087170
+- https://booth.pm/ja/items/3087170
+- https://booth.pm/ja/items/2874219
+- https://booth.pm/ja/items/2836532
+- https://lua8556.booth.pm/ Now. Take a look at this. `SHOP TSUKIMORI`.
+- https://booth.pm/ja/items/4082095 Pleochroic Acrylic
+- https://lua8556.booth.pm/items/4844913 Lamellar
+- https://lua8556.booth.pm/items/4814777 Spectra
+- https://lua8556.booth.pm/items/3661886 SD-VLCD **PAID**
+- https://lua8556.booth.pm/items/2595505 Floating Lantern
+- tips. first prefab SFW. then put SFW in a new Empty GameObject Prefab. beside in this new prefab add your NSFW things.
+- Please find where's Sunao Shader this Floating Lantern used!
+- https://github.com/FrenkelS/Doom8088/releases
+- https://mononobe-monoko.booth.pm/ Okay, mononobe! モノ子のおみせ.
+- https://booth.pm/en/items/2831542 here's camera last time. `PropCamera`
+- https://mononobe-monoko.booth.pm/items/4264924 merch
+- https://mononobe-monoko.booth.pm/items/3786444 **PAID**
+- https://mononobe-monoko.booth.pm/items/3468381 or [old version](https://www.dropbox.com/sh/itus9y3dm0wsp6i/AADyujFEf5h8okOssouCWfBoa?dl=0)
+- https://mononobe-monoko.booth.pm/items/3437882 merch
+- https://mononobe-monoko.booth.pm/items/3018105
+- https://mononobe-monoko.booth.pm/items/2611235 or https://www.v-market.work/ec/items/4583/detail/ **PAID**
+- https://mononobe-monoko.booth.pm/items/2243625
+- https://mononobe-monoko.booth.pm/items/1799190 merch
+- done
+- https://moyuer.booth.pm/ clean up
+- https://moyuer.booth.pm/
+- https://github.com/CMoyuer?tab=repositories
+- https://github.com/CMoyuer/ChilloutVR-LocalTest
+- https://github.com/CMoyuer/BlitzRhythm-Editor-Mod-Loader
+- https://aliced.booth.pm/ pls don't forget
+- https://booth.pm/en/items/1637978 **PAID**
+- https://noriben.booth.pm/
+- https://nanaworks.booth.pm/
+- https://nanaworks.booth.pm/items/2720197 free. NanaTab, VRChat only
+- https://junotanuki.booth.pm/ We already have these
+- b
+- .
+- I wish I downloaded it all. Now that's gone.
+- But are we gonna mourn everyday for that?
+- How about we make it again, since we know how the pattern looks like?
+- Brush your teeth mascots
+- cardiophilia pig girl
+- It's a long journey.
+- .
+- .
+- .
+- .
+- .
+- .
+- .
+- .
+- .
+- .
+- .
+- .
+- .
+- .
+- .
+- .
+- .
+- .
+- .
+- .
+- .
+- .
+- .
+- Please begin importing main Avali & repack it properly. bring result to here.
+- https://www.pixiv.net/en/artworks/114115283 Cardiac Extract. `it.`. Please don't just say the name, Sauce URL too pls.
+- https://github.com/TumblThreeApp/TumblThree
+- https://stevivor.com/guides/download-entire-tumblr-blog/
+- Sarasarenge had file names too long! these are:
+  - `{{{{{masterpiece}}}}},{highly detailed}, blonde hair, forehead, small breasts, blue eyes, long hair, full body, black micro bikini, sleeping,  s-1695196687-upscale-4x.png` 👉 `AI_1`
+  - `{{{{{masterpiece}}}}},{highly detailed}, blonde hair, forehead, small breasts, blue eyes, long hair, full body, school uniform, sleeping, bed sheet,  s-1918269853-upscale-4x.png` 👉 `AI_2`
+  - `{{{{{masterpiece}}}}},{highly detailed}, blonde hair, forehead, small breasts, blue eyes, long hair, full body, black micro bikini, sleeping,  s-1695196687-upscale-4x.mat` 👉 `AI_Pillow`
+- https://github.com/jll123567?tab=repositories pls check again. ... nothing new yet.
+- https://furhubcvr.com
+- https://discord.com/invite/zpWrNRxBEN and Discord.
+- https://cron.help/every-minute
+- https://archive3d.net/?a=download&id=3c98c78f POS Terminal. Emel. filename `40de62d8b87623cd3e0af39e7cb75540.zip`
+- > Ketololan Gamer-gamer di metaverse adalah avatar2nya. Gile tuh avatar pada sexy, cuman harganya buset day IDR 800K-an!
+- > Janganlah, jadi penyepong!
+- *note, this is not real word. These are made up word with inspired man-sampled wording.
+- https://youtube.com/@GTID
+- So we have heard that GT.ID had spread their rant towards Keyboard now. I have open another eyes, that uh.. there is just this whole another rabbit hole of keyboard, like
+- https://youtu.be/BcqerXtCPks?si=to8160cM0xpMQ9M3
+- A custom keyboard, you know. That.., It's a dedicated design, hence.. not for sale for long. You contact the designer, pay huge price, and huge shipping cost. I saw there's a people like him, who do everything in order to be... *cool*, GTID said. Can't say why, just... addicted.
+- Now now, how about we bring it here?.
+- There is people like that, who had huge pride upon.. exclusive avatar, to get it, not that easy. Had rules to obey, etc. etc. These dwellers. Moronically, let themselve's be consumed by pride of exclusivity.
+- .
+- Yeah you got the idea. I'm still training how to be derogatory, **just enough & at the right spot of course**. It's just to target... no, **only the designers**. That's what we are. I hate paywall.
+- https://booth.pm/en/items/4957483 merch
+- https://booth.pm/en/items/3293366 **PAID**
+- https://github.com/RetroGEO/reroStandard
+- https://elixa.booth.pm/
+- https://releed.booth.pm/
+- https://jared64.booth.pm/ **PAID**
+- https://sidega.booth.pm/ **PAID**
+- https://sidega.booth.pm/items/3274788 **PAID**
+- https://booth.pm/en/items/4054952 Mynx **PAID**
+- https://marivr.gumroad.com/l/Deira **PAID**
+- https://marivr.gumroad.com/
+- https://github.com/Dervali-git/VRC-Tips/blob/main/LaySittingPrefab.md Laydown sitting animation VRChat
+- https://arkorenart.gumroad.com/ **PAID**
+- https://booth.pm/en/items/3675344 Neobit **PAID**
+- https://booth.pm/en/items/1851806 HORiZONDOLL **PAID**
+- https://booth.pm/en/items/3927902 GrayDOS **PAID**
+- https://booth.pm/en/items/3483143 Oniyuri **PAID**, only License free provided
+- https://pocho.booth.pm/items/4424448 Custom animation controller VRChat
+- https://marivr.gumroad.com/l/Zywie?layout=profile&recommended_by=library Zywie
+- https://booth.pm/en/items/4979460 merch
+- https://booth.pm/en/items/4774121 UDJ-1000
+- https://github.com/laserimouto/UDJ-1000
+- https://booth.pm/en/items/3669512 Laser-multi Shader **PAID**. argh shit
+- https://booth.pm/en/items/2141514 LaserLight Shader **PAID**
+- https://booth.pm/en/items/4493526 **paid**
+- https://booth.pm/en/items/2582305 laser riffle
+- https://twitter.com/KamikazE_Chan/status/1350140870213984256?s=20
+- https://booth.pm/en/items/2679082 BUNNY Anthro **Paid**
+- https://booth.pm/en/items/4230120 CLARA
+- https://booth.pm/en/items/1944618 M1N1 **PAID**
+- https://steamcommunity.com/sharedfiles/filedetails/?id=105150660 SW Gokart
+- https://steamcommunity.com/workshop/filedetails/?id=116572450 SW addons
+- https://kazunavali.gumroad.com
+- https://booth.pm/en/items/4017284 Legacy Lava lamp **Paid**
+- https://booth.pm/en/items/4260173 Lava Lamp **PAid**
+- https://youtu.be/CQGr75XiKuw?si=4LVDN-MY3R0dw930
+- https://www.youtube.com/watch?v=cd6EYHDqlmw
+- https://www.youtube.com/watch?v=NN1YxYSyDHQ
+- https://depressed.gumroad.com/l/base **PAID**
+- https://ivyvr.gumroad.com/
+- https://sanislovart.gumroad.com/l/gOEV **FREE**
+- https://seedsy.gumroad.com/l/Seedbeast **PAID**
+- https://seedsy.gumroad.com/
+- https://seedsy.gumroad.com/l/strapsforRantichi **PAID**
+- https://rantisvr.gumroad.com/
+- https://twitter.com/newyearsevecvr
+- https://github.com/ShiinaManatsu/MMD4UnityTools
+- https://github.com/madjin/vrm-samples
+- https://stackoverflow.com/questions/35534766/how-to-create-submodule-in-existing-repo
+- https://git-scm.com/book/en/v2/Git-Tools-Submodules
+- https://git-scm.com/book/en/v2/Git-Tools-Submodules
+- Incoming Maya Putri file
+- https://www.deviantart.com/joelwindows7/journal/Maya-Putri-MMD-3D-Model-situation-Bantu-cariin-928109950
+- https://www.deviantart.com/aziib/art/Maya-Putri-ver1-01-MMD-Download-1004214586
+- https://odysee.com/@X0P1R4T3-33NSVREENMNT-0FFICIAL:f/Maya_Putri_official_mmd:4
+- https://www.facebook.com/groups/MMDIndo/?ref=share&mibextid=NSMWBT
+- https://youtube.com/@MayaPutri?si=mfpRnIiod-TBFf9Q
+- done
+- https://www.deviantart.com/ds-dna/art/MMD-to-Unity-Quick-import-tutorial-432421331
+- https://www.deviantart.com/unitygamedevs
+- https://www.deviantart.com/mmd-videos
+- https://www.deviantart.com/unitygamedevs
+- https://youtu.be/zSC2hKaG5AA?si=pX7EDoIm0HOP7fG3
+- https://mmd-for-unity-proj.github.io/mmd-for-unity/
+- https://github.com/mmd-for-unity-proj/mmd-for-unity
+- https://www.youtube.com/watch?v=Ms9hDt5cPGQ
+- https://mmd-for-unity-proj.github.io/mmd-for-unity/
+- https://www.youtube.com/watch?v=eHddD5OfuwI
+- https://vertexarcade.gumroad.com/l/adjustable-mannequin **PAID**
+- https://www.youtube.com/watch?v=eHddD5OfuwI
+- https://id.pinterest.com/pin/556968678902903535/
+- https://www.youtube.com/watch?v=BzcTn2x_8Dw&t=1s
+- https://github.com/x3bits/libmmd-for-unity
+- https://steamcommunity.com/app/438100/discussions/1/1635237606654475389/
+- https://www.youtube.com/watch?v=UiwEuR_qXt8
+- https://www.deviantart.com/saryta-chan/art/I-Stop-the-Models-Series-Please-Read-812899523
+- https://www.youtube.com/watch?v=QvrTb-epsug
+- https://www.youtube.com/watch?v=G2XHn38YWvk
+- https://www.youtube.com/watch?v=G2XHn38YWvk
+- https://github.com/absolute-quantum/cats-blender-plugin
+- https://www.youtube.com/watch?v=G2XHn38YWvk
+- https://acegikmo.com/shaderforge/
+- https://github.com/FreyaHolmer/ShaderForge
+- https://github.com/UuuNyaa/blender_mmd_tools
+- https://vrcat.club/threads/cats-blender-plugin-0-4-1.6/
+- https://github.com/FreyaHolmer/ShaderForge
+- https://github.com/cubedparadox/Cubeds-Unity-Shaders SHADER!!!!
+- https://www.atlassian.com/git/tutorials/git-submodule
+- https://github.blog/2016-02-01-working-with-submodules/
+- https://git-scm.com/docs/git-submodule
+- https://git-scm.com/book/en/v2/Git-Tools-Submodules
+- Thorium Lewd files!
+- https://github.com/Alex313031/thorium/blob/ddd0396ddfa427be0de53989e2dd855063d5b2e6/src/chrome/app/theme/default_100_percent/chromium/yiff.png
+- https://github.com/Alex313031/thorium/pull/469/commits/e29bec62414dd5ac1be7a96b6bcd9004813a3a8c
+- https://github.com/Alex313031/thorium/pull/469
+- https://github.com/Alex313031/quark-player/blob/9c631812c47f7b372e7d712e27c0979e6723342a/src/ui/imgs/catgirl_fridge.png
+- https://github.com/Alex313031/quark-player/commit/867017884d0ee40399922955ee41dee8195f33c0
+- https://github.com/Alex313031/atom-ng/blob/db318f9eefd9458b1121dd895f6c95eeb3a4355a/packages/yiff/assets/Ass_Shaking.gif
+- https://github.com/Alex313031/atom-ng/blob/db318f9eefd9458b1121dd895f6c95eeb3a4355a/packages/yiff/assets/Roxy_Upskirt.jpg
+- https://github.com/Alex313031/atom-ng/blob/db318f9eefd9458b1121dd895f6c95eeb3a4355a/packages/yiff/assets/Maid_Bend_Over.png
+- https://github.com/Alex313031/atom-ng/blob/db318f9eefd9458b1121dd895f6c95eeb3a4355a/packages/yiff/assets/Kody_Inspection.png
+- https://github.com/Alex313031/atom-ng/blob/db318f9eefd9458b1121dd895f6c95eeb3a4355a/packages/yiff/assets/Girls_Just_Wanna_Have_Fun.png
+- https://github.com/Alex313031/atom-ng/blob/db318f9eefd9458b1121dd895f6c95eeb3a4355a/packages/yiff/assets/Bunny_Butt.jpg
+- https://github.com/Alex313031/atom-ng/commit/e428018f8077bdc7cfe71808e5e5cae047b59832#diff-e32fecf2f0f2c8b8cf1be71e09042dac7d1bf2cf2f985a00aa084d264ef0d106
+- https://github.com/Alex313031/thorium/issues/470
+- https://github.com/Alex313031/thorium/issues/474
+- https://github.com/Alex313031/thorium/issues/479
+- https://github.com/NekoNyanners/thorium/issues/1
+- https://github.com/Alex313031/thorium/blob/3759529384a18ae7c1d59155e1fef48573e5834c/src/chrome/app/theme/default_100_percent/chromium/yiff.png
+- https://github.com/Alex313031/thorium/issues/479
+- done. wait, more Thorium file!
+- https://github.com/Alex313031/Thorium
+- https://www.chromium.org/chromium-os/
+- https://support.google.com/chromeosflex/answer/11542901
+- https://support.google.com/chromeosflex/answer/11552529
+- https://chromewebstore.google.com/detail/utilitas-pemulihan-chrome/pocpnlppkickgojjlmhdmidojbmbodfm
+- https://support.google.com/chromeosflex/answer/11552352?sjid=1143323221805349169-AP
+- https://chromeenterprise.google/
+- https://chromeenterprise.google/os/chromeosflex
+- https://chromium.arnoldthebat.co.uk/index.php?dir=special
+- https://arnoldthebat.co.uk/wordpress/chromiumos-special-builds/
+- https://github.com/Alex313031/TrImLy
+- https://thorium.rocks/
+- https://github.com/Alex313031/ThoriumOS/
+- https://thorium.rocks/thoriumos
+- done final.
+- https://partedmagic.com/store/?ref=8 **PAID** was free 💀.
+- https://www.system-rescue.org/ **FREE**
+- https://antixlinux.com/
+- https://mxlinux.org/
+- https://distrowatch.com/table.php?distribution=mx
+- https://distrowatch.com/dwres.php?resource=popularity WHAT?! MX LINUX IS THE MOST POPULAR FOR THE LAST COUPLE MONTHS?!??!?!?!
+- https://maid.binbash.rocks/
+- https://forums.ventoy.net/showthread.php?tid=1982&highlight=chromeos
+- https://nayuos.nexedi.com/
+- https://github.com/arnoldthebat/chromiumos
+- https://mxlinux.org/download-links/
+- https://forums.ventoy.net/showthread.php?tid=1982&highlight=chromeos
+- https://www.balena.io/etcher-pro
+- https://www.balena.io/etcher-pro
+- https://etcher.balena.io/
+- https://www.balena.io/
+- https://www.balena.io/pricing
+- https://github.com/Alex313031/ThoriumOS/
+- https://www.centbrowser.com/features.html#basics
+- https://github.com/dhowe/AdNauseam/wiki/Install-AdNauseam-in-Chrome-on-Windows
+- https://github.com/dhowe/AdNauseam/wiki/Install-AdNauseam-on-Chromium-based-browsers
+- https://github.com/dhowe/AdNauseam/wiki/FAQ#can-i-combine-adnauseam-with-another-blocker
+- https://feeder.co/installed/pin
+- https://github.com/lemnos/chrome-session-dump
+- https://feeder.co/installed/pin
+- https://alex313031.blogspot.com/2024/01/the-good-bad-and-ugly.html
+- https://thorium.rocks/CoC
+- https://alex313031.blogspot.com/2024/01/the-good-bad-and-ugly.html
+- https://github.com/Alex313031/thorium/blob/main/src/chrome/app/theme/default_100_percent/chromium/technical_error.png
+- https://github.com/win32ss/supermium/issues/150
+- https://chromewebstore.google.com/detail/go-back-with-backspace/pgmlidkcpfcjeeenlbkfmagkeclinnkh
+- https://chromewebstore.google.com/detail/clearurls/lckanjgmijmafbedllaakclkaicjfmnk uhhh
+- https://chromewebstore.google.com/detail/neat-url/jchobbjgibcahbheicfocecmhocglkco yess
+- https://github.com/Smile4ever/Neat-URL
+- https://chromewebstore.google.com/detail/google-link-fixer/pcpdkhaeeohmogfgcheopfcigcfdaioj
+- https://github.com/LittleLightLittleFire/link-fixer
+- https://chromewebstore.google.com/detail/no-opener-no-phishers/hieejlcohhkjbpiihgphcnaaiehphike
+- https://chromewebstore.google.com/detail/no-opener-no-phishers/hieejlcohhkjbpiihgphcnaaiehphike
+- https://chromewebstore.google.com/detail/add-jxl-support/khacgjhalljalcbfehknlagpjgjcgoej
+- https://github.com/niutech/jxl.js
+- https://bit.ly/jxl-as-Chrome-extension
+- https://github.com/zamfofex/jxl-crx
+- https://chromewebstore.google.com/detail/jpeg-xl-viewer/bkhdlfmkaenamnlbpdfplekldlnghchp
+- https://chromewebstore.google.com/detail/site-bleacher/mlcfcepfmnjphcdkfbfgokkjodlkmemo
+- https://github.com/wooque/site-bleacher
+- https://www.daniel.priv.no/web-extensions/amp2html.html
+- Enough browsering! back to 3D Models!
+- https://shinon51788.booth.pm/
+- https://shinon51788.booth.pm/items/3381066 **PAID**
+- https://shinon51788.booth.pm/items/575557 **PAID**
+- https://www.reddit.com/r/VRoid/comments/ytp6um/would_someone_be_willing_to_convert_a_pmx_to_a/
+- https://github.com/absolute-quantum/cats-blender-plugin
+- Vtuber Shop pls!
+- https://vtuber.itch.io/dssconverter converter
+- https://vtuber.itch.io/
+- https://vtubershop.booth.pm/items/3581243
+- https://vtuber.itch.io/chatgpt-for-kids
+- https://vtuber.itch.io/
+- https://vtuber.itch.io/sugar **NO DOWNLOAD**
+- https://m.imdb.com/title/tt1798709/
+- https://lightship.dev/products/vps
+- SugAR applet
+- https://www.youtube.com/watch?v=IMk2wyCeQYc
+- https://www.youtube.com/watch?v=M6zXipEzNSg&t=6s
+- https://vtuber.itch.io/zoo-studio-avatar-maker **PAID**, lite version (reduced avatar) available. pls reclarify if unlockable with grind!
+- https://vtuber.itch.io/game-3-vision
+- https://vtuber.itch.io/game-4-vision
+- https://vtuber.itch.io/game2-vision
+- https://vtuber.itch.io/game1
+- https://vtuber.itch.io/vroid-vtuber-broadcast-tool
+- https://store.steampowered.com/app/1455360/Vtuber_Broadcast_Tool_Mac_supported/
+- https://store.steampowered.com/app/1688750/Photographer_Cinematography_for_Vroid_VRM_and_MMD/ **PAID**
+- https://vtuber.itch.io/dansingsing This is the lite watermarked version
+- https://stormlab.itch.io/dvvr **PAID** US$24
+- https://vtuber.itch.io/dansingsing **DEMO WATERMARK**
+- https://vtuber.itch.io/covie20 **MOBILE APK ONLY**
+- https://covie20.softmind.tech/
+- https://vtubershop.booth.pm/items/3581243 This app is the best to convert PMX to VRM these days!
+- done
+- https://guribo.itch.io/suva
+- https://www.tumblr.com/joelwindows7/738979343070593024/in-case-anyone-is-having-a-bad-night
+- https://booth.pm/en/items/2842969 **PAID**
+- https://github.com/ShiinaManatsu/MMD4UnityTools/blob/master/Images/Menu1.png
+- https://github.com/madjin/vrm-samples
+- https://remasuri3.itch.io/tits **PAID** Bully throw object
+- https://arzolath.itch.io/vtuber-plus **PAID**
+- https://dreamtoaster.itch.io/honk **PAID**
+- https://twitter.com/RuneBellArt/status/1744745091183571008?t=gaYpEqnX_B1ReqREnufmKg&s=19
+- https://twitter.com/jinsang_3d/status/1744518886240694551?t=gaYpEqnX_B1ReqREnufmKg&s=19
+- https://twitter.com/MMdrawstuff/status/1743687673452122209?t=gaYpEqnX_B1ReqREnufmKg&s=19
+- https://www.patreon.com/MMAD311 **PAID**
+- https://grimofdoom.itch.io/vtubd
+- https://garage-heathen.itch.io/tgotchi **PAID** game
+- https://twitter.com/reveusearts
+- https://poipiku.com/1423658/6767644.html
+- https://x.com/eskabeche_/status/1743854712460570834?s=20
+- https://x.com/kato_anatomy/status/1743788097815695607?s=20 nipple guy correct way
+- https://x.com/ankek00/status/1743671979021066678?s=20
+- https://x.com/ankek00/status/1743666967243035047?s=20
+- https://x.com/KM_ke7/status/1738351235059810626?s=20
+- https://x.com/joohphobia/status/1743585882123522238?s=20
+- https://x.com/wearewatcher/status/1743395457856856343?s=20
+- https://melindaozel.com/viseme-cheat-sheet/
+- https://developer.oculus.com/documentation/unity/audio-ovrlipsync-viseme-reference/
+- https://www.deviantart.com/xoriu/art/MMD-Facial-Expressions-Chart-341504917 **PLEASE VISEME PMX MMD PLS**
+- https://ask.vrchat.com/t/need-help-with-something/2248
+- https://blog.colind.me/adding-japanese-visemes-to-avatars-for-vrchat/
+- CVR pls
+- https://booth.pm/en/items/3259425
+- https://assetstore.unity.com/packages/vfx/shaders/urp-stylized-water-shader-proto-series-187485
+- https://fxtwitter.com/orzeeee/status/1738655606079214018?s=20
+- https://github.com/akasaki1211/AkBoneDynamics
+- https://github.com/naelstrof/UnityJigglePhysics
+- https://gist.github.com/EtiTheSpirit/78b7f57da19323f9f9d8a392369b37f0
+- https://catlikecoding.com/unity/tutorials/rendering/part-19/
+- https://github.com/CuteWaterBeary/ShaderForge
+- done
+- https://youtu.be/TNHAZxwB-9o?si=A5P88rxQs3bimrbR
+- https://youtu.be/hmt45va--nA?si=yoi19j1EqtvOXPo3
+- https://youtu.be/fq_Yu9s66mQ?si=wDKiZM9VNvcrhfS4
+- https://youtube.com/shorts/voxVcQKR7q0?si=I8ef2dF1BpBkQmHa
+- https://youtube.com/shorts/gcIM9bY-2tQ?si=WIQbx7xKSD2CygUv
+- https://youtube.com/shorts/MKdo_75gqZk?si=fY-Ods63Yrp9jjAb
+- https://youtube.com/shorts/NDW4pINv73A?si=er1HBHgWw7h9qmLU
+- https://youtube.com/shorts/IcaeZveviOw?si=b2KPoTxY4JNoKo07
+- https://youtube.com/shorts/jansEze3wMg?si=P0cWyWBBimkL0Ecp
+- https://youtu.be/kHz_ynU48rw?si=qtHqW52Cs6Hdet0d
+- https://youtu.be/kHz_ynU48rw?si=qtHqW52Cs6Hdet0d
+- https://youtube.com/shorts/W99STgFvwHw?si=yWYRQotloqJKGfw_
+- https://youtu.be/siPpOwrorm4?si=0IOJ7kWW3heuQqcF
+- https://youtu.be/7pwUUp6O238?si=tuPsUEg2ssBd_VUw
+- https://youtu.be/-kn1lttsRR8?si=ciQJWs17k1jxkvlb
+- https://youtu.be/BX723T8nqAs?si=6eJbiSOj169eZ3RM
+- https://youtu.be/wPSWsz2R6Xc?si=tWoMyHQxRbvqxbia
+- https://youtu.be/QwFm5A0anhY?si=yRcLOqf_cNTqOa0P
+- https://youtu.be/iKAe4bPR110?si=EQsYFzc6RH0kEDi2
+- https://www.michaelaamandalaws.com/
+- https://youtu.be/SvFgvu3J_wo?si=y3Nr0TlH_KH5Yud5
+- https://youtu.be/VZWVIgocxIU?si=XjWdP6e_8RFCb-yH
+- https://youtu.be/Y80gvcdHs2k?si=gjWOcNlGr-hDL3_j
+- https://youtu.be/GkSMJvrZPEE?si=mp0To13ERk0VTfQc
+- https://youtu.be/yny4UwGYa60?si=otJN8yYvjXmOPvFf
+- https://youtu.be/7Wdv4x0cm5k?si=NNhiPYkjmfvhv8TV
+- https://youtu.be/DneKfCVq2xI?si=Mq-fCbKTEtdCqDRO
+- https://youtu.be/JeuOCV74u2M?si=zg0xbDlUNJd6jcil
+- https://youtu.be/f53_3ol_QMY?si=Bw1JqnWG0JuxJ8Te spacetoon kami akan kembali
+- https://youtu.be/kAnIPYagAFE?si=ZdMiDQjfurpf42ad
+- https://youtu.be/ZTdK2Vv2QzE?si=cEBWkQuDmyHN9koE
+- https://youtu.be/rYeo17nxRGs?si=T3KED9QmjlEkK1us
+- https://youtu.be/c30AAvpS6do?si=4OwzKaTy-2TXmKDQ
+- https://youtu.be/ml9Zr_Ac0wg?si=ThygLBIBk6zIooOO
+- https://play.date/games/catalog/
+- https://play.date/games/catalog/
+- https://play.date/games/tinytester-sp/
+- https://play.date/games/root-bear/
+- https://play.date/games/pulp-hits/
+- https://play.date/games/resonant-tale/
+- https://play.date/games/fire-soundtracks/
+- https://play.date/games/direct-drive/
+- https://play.date/games/swap-machina/
+- https://youtu.be/2rctk5kTgnQ?si=Pz64oxFDPmkrI8bS
+- https://youtu.be/NQDO5dbiYo8?si=DtF9kBXgbynMXoq6
+- https://youtu.be/WBjBkmHzNSA?si=LgZOfvTBnO9DIz0h
+- https://youtu.be/G4EwJwGa9Qs?si=Du9CPGHMgtuzb-ie
+- https://youtube.com/shorts/aJ2SJ42qHYk?si=WYM4qSlZmePDrquJ
+- https://youtube.com/shorts/zQUp3hcPpDM?si=O76qqwI_eCjdAUUa
+- https://youtu.be/0JmPttuP7Bw?si=BFfWjcRqJQLMNh1B
+- https://play.date/mirror/
+- https://youtu.be/z8zBaAKS2fE?si=H1LzlZsHY3vCnEao
+- https://youtube.com/shorts/hKPF6__bvmc?si=y902urKkBCfacdhg
+- https://youtu.be/oCTx8fJJ0Yg?si=F_DTMMbKbRX60h3M
+- https://youtu.be/Zjxr5Q6eLIE?si=vnf3jVQxsMXNZ17F
+- https://youtu.be/eD4Hvqz7NIg?si=w-qqlgCkd2_u571l
+- https://youtu.be/cSPhDg8eOGQ?si=7srcUUHVhLBhN3po
+- https://youtu.be/Pdsi1aSW9SA?si=CHwXI0L89lRlX-cj
+- https://youtu.be/nd-VvQZaB78?si=8wKNBje7px8I0yTD
+- https://nova.app
+- https://nova.app/buy/
+- https://youtu.be/6A7mFXigMjY?si=HYPBBorYvOkIEuuK
+- https://youtu.be/zWLxSqcW-zE?si=L8LbRUKb2nlHheyN
+- https://youtu.be/-O315OLmrtM
+- wii
+- https://youtu.be/VUIRQwDPG04?si=ApcK_nGrMhUELh0V
+- https://www.mediafire.com/folder/ecxko2m49jav9/Mii_Channel_Sheet_Music_and_Midi
+- https://youtube.com/@piggemz?si=XTAPn_mApKTIiVX2
+- done
+- https://youtu.be/RxcSGDjDDRk?si=5oj53hv3yCccE3K8
+- https://youtu.be/xgvUwvjaKM8?si=DMA_-Al9cBbKfFO9
+- https://youtu.be/j-iflBVOQ78?si=c7He_T2dpmICfulW
+- https://youtu.be/IkXrxR2HssY?si=ltLFp8kgiisvMM5k
+- https://youtu.be/wpMWypuPuv0?si=eKU_jfWTSgvGBz3D
+- https://youtu.be/spCoE4H7WPQ?si=0CFjWt-MM0YZ9Osj
+- https://youtu.be/T0djivQw9iY?si=7R1ap827sRBrISFs
+- https://youtu.be/a9q6uSxhRxA?si=-F4fCWLDOa15QfR0
+- https://kiloohm.info
+- https://youtu.be/tWpunHEROvY?si=vIVWTte07iSkMXXr
+- https://youtu.be/4rU2McIzS_U?si=EcOhWPlb-lQ9roh9
+- https://youtu.be/tb3iN4m9Bik?si=Bew0wmngV4bNHl3C
+- https://youtu.be/k4JajqJxxIc?si=0WOPmL0jfCT4XIVI
+- https://youtu.be/o9nurap1AWo?si=b5a3spRbyXMdtJxV
+- https://youtube.com/shorts/TmZ-YOjzKMI?si=Kb5afO5W4tYpbJyq
+- https://youtube.com/shorts/-lcApbJWITE?si=1pZhQPJgZQHBLmyu
+- https://youtu.be/eLUYbKehpIE?si=5_XkjBc2Q2LIfImO
+- https://youtu.be/v7X0B-EGdpk?si=g-eyeSk8EHp2o2Xg
+- https://youtu.be/15-0d4Z2ypQ?si=IdAcdldGh0SFmKzZ
+- https://youtube.com/shorts/j-jMiTchthw?si=pjLnkcQIbvoAy1ve
+- https://youtube.com/shorts/mzfpG3GqDoc?si=V3NK5gSDAvg7fxrN
+- https://youtu.be/v8Thvzk1dhI?si=woevB_FqoRSVvNBg
+- https://youtu.be/h_mqwDo-bsM?si=3LBXWe5gF8S92cH_
+- https://youtube.com/shorts/HwTdzfy3d4A?si=KKBOCX3aK7xs0Tql
+- https://youtube.com/shorts/eeXn_f9sm7Y?si=_9uyzgt_ToSdKWG0
+- https://youtube.com/shorts/Jb8eVHYxUSs?si=kLqmwtcyB1oZ1Oyj
+- https://youtu.be/2d3_6loZkCo?si=QdaaQC6ih0mU-0qk
+- https://youtu.be/13eq2rqp7ig?si=0dSj1froNWdgS35b
+- https://youtube.com/shorts/q-Wd2BZvlzo?si=-DN6ydpmX1S_WNjZ
+- https://youtube.com/shorts/U4o8EmgVD-Y?si=70actDtVnoS_0bQt
+- https://youtube.com/shorts/Q5NTwyERMRI?si=rhDkdBvb59pLLKlb
+- https://youtu.be/HMj0xWsf1Io?si=rt-jY1yWpvopQYLo
+- https://youtu.be/J9SkB-kZQj4?si=4NDqhu1pYZa9lT7z
+- https://youtu.be/wYnwPqarBNw?si=b7HxgYv2IzteBPQf
+- https://youtu.be/ht2S-WXDSeE?si=-4mM4Ry-vAdLdZO9
+- https://youtube.com/shorts/-vERF5PCHzo?si=uDAWrtQ0rfS3ulGZ
+- https://youtu.be/VrjsXBcF700?si=fbATGhoa8eQ5CSa5
+- https://youtu.be/lrnUnGmc-Nw?si=ipTMi53M510VkJXp
+- https://youtu.be/ygraCMK-QAs?si=VKmWArXUHiWE2xku
+- https://youtu.be/VCKGCwAf3o0?si=AFLfgWv8DpE9kwN8
+- https://youtu.be/N_76umcmexg?si=vCHYQ9LN9R8OS3bC
+- https://youtu.be/X-iNnknEYAU?si=Qd4XuTM8W25YKjKd
+- https://youtu.be/9pmCz4KJqac?si=6Cs-eZKxuCbRG-K-
+- https://sam-yam.itch.io/samyam-full-source-code-to-all-videos paid
+- https://youtu.be/uL7nc1byrIk?si=ZBZ_0PT_FO8v5owa
+- https://youtu.be/uL7nc1byrIk?si=TunSsPAiTSAGKG7E
+- https://youtu.be/RbTxLPKDJro?si=AA62R6AzKS1-DRM0
+- https://youtu.be/8KzfRA0diAQ?si=JrvHrChfeX4yObOJ
+- https://youtu.be/SLTd3cW-4f0?si=hu7FTRP3dLZ5AxCs
+- https://youtu.be/N7MbXUMYFec?si=Na6P6mzwCNgwmqUO
+- https://youtube.com/shorts/TpmqfSuvR8k?si=RttXrAunQcOmizkf
+- https://youtu.be/TaB_Zmyh4DE?si=FBgJt1vmCxCKWM5t
+- https://youtu.be/WObwrxBskOk?si=zANfjj5IxP1WqZVd
+- https://youtu.be/dSmrjXftJYI?si=ffk8f0JdIbq-Hd-7
+- https://youtube.com/shorts/n4DfEKKOqOs?si=9MFsuhaUDKz3KIE2
+- https://youtube.com/shorts/mI11LQyCF0M?si=1tHEfSZYaEqiWEop
+- https://youtu.be/SLTd3cW-4f0?si=Loi_Mht-M_gYF3cO
+- https://youtu.be/vqFYOXaaNHY?si=jirIMFmWsvZ44OAl
+- https://youtu.be/SLBchTeJu1U?si=cM-PjL-bh6YQuanS
+- https://youtu.be/6nWiTA-tOOk?si=qoLtvld7R-YogRTb
+- https://youtu.be/tQgGTI8wfqw?si=cscEvexaXUOBCMoB
+- https://youtu.be/mjfaC2fcP7g?si=nHiSG19MIkXud_O7
+- https://youtu.be/b391bhVBZZg?si=NXekAX81S-F38e3m
+- https://youtu.be/0kRo_t1TXC4?si=P3GIklazsF6jG7MQ
+- https://youtu.be/A6vcTIzp_Ww?si=Xr-lLrZgaqozNqwL
+- https://homarr.dev/
+- https://github.com/ajnart/homarr
+- https://youtu.be/TBQOiyVYfWE?si=Cll2S3oQD8yM4Rzf haram alert haram alarm
+- https://youtu.be/w7aH23Jyg58?si=9w5R02uBetJYvkf8
+- https://github.com/usememos/memos
+- https://youtu.be/kagJRJOqBxM?si=cnSJd6pDlQM87Wyg
+- https://youtu.be/SRMX_TbqAMg?si=jkuc0Hx7e_y_oeo_
+- https://youtu.be/9VpTu5c8I_w?si=8RN837Q6jD-3O1Bc
+- https://youtu.be/Sj064D9ZUl8?si=fWML71bwVwbyHzDV
+- https://youtu.be/cyjLqeI2A2M?si=Odrq1One1ZllVrZ-
+- https://youtu.be/jRuFja3_m48?si=XBUSW6KeO8NzegoS
+- https://youtu.be/Xh9Ft5YdpB4?si=oFlFWLeBGs_4m56r
+- https://youtube.com/shorts/VcbzoOjMLHM?si=Re29dm0bXHrqs1vn
+- https://youtube.com/shorts/6mEqVnZd7do?si=eMmSmZ7aotqpo_KS
+- And..
+- bottle spun cvr
+- https://youtu.be/bukZlq1tkdg?si=CRB_MWbsFuw0AHcG
+- https://youtu.be/DGnAtDKOcx8?si=ombj7mp6ya76BFhh
+- https://discord.com/channels/410126604237406209/588350770777161748/1159664275741220935
+- https://discord.com/channels/410126604237406209/588350770777161748/1003440157820735509
+- https://discord.com/channels/410126604237406209/588350770777161748/1003373088609669273
+- https://discord.com/channels/410126604237406209/588350770777161748/864658082863775824
+- https://discord.com/channels/410126604237406209/588350770777161748/1159668428769075250
+- https://discord.com/channels/410126604237406209/588350770777161748/1159664275741220935
+- https://feedback.abinteractive.net/p/extended-camera-view-distance
+- https://discord.com/channels/410126604237406209/588350770777161748/1110335729889988709
+- https://discord.com/channels/410126604237406209/588350770777161748/1187838621227696158
+- https://discord.com/channels/410126604237406209/588350770777161748/1189799149294588014
+- https://youtu.be/cbyCSvu1B9c?si=Xyv-XWHEnqoRXemz
+- https://youtu.be/9JCqTh3QFBY?si=r573rLun2R_ESqpI
+- https://youtube.com/shorts/87rZ7GEq-FQ?si=HppOVcwTeYUPlqSm
+- https://youtu.be/F8XzPJUPAkQ?si=Oyg-UM8vROSnmQVD
+- https://youtu.be/371a62Svbvs?si=n0EKnB79Udlzw11p
+- https://youtu.be/LcpWDTtQa_E?si=laVBwEEg5TLXeurF
+- https://youtu.be/sU8mj9lid0s?si=HzcfDtIbUD25hb-1
+- https://youtu.be/kEdYeQ3NJyQ?si=GrTYKdZ8RNI2aENA
+- https://www.thingiverse.com/thing:6395406
+- https://www.thingiverse.com/thing:6352206
+- https://www.thingiverse.com/thing:6359548
+- https://www.thingiverse.com/thing:6386630
+- https://www.thingiverse.com/thing:6371997
+- https://www.thingiverse.com/thing:6355752
+- https://www.thingiverse.com/thing:6357608
+- https://www.thingiverse.com/thing:6371997
+- https://youtu.be/7qNV3CN8fFE?si=FonnGNUJvW1aGNzU
+- https://youtu.be/2Q-WA4vxPEk?si=h99uJqxnhCZL0OGe
+- https://youtube.com/shorts/fuXMInseOD8?si=A6bRxlWrEZiJnUV4
+- https://youtube.com/shorts/8HqZz1YVsjs?si=7BS0Ynvidn3ClkER
+- https://youtube.com/shorts/qO8rz0_dxlE?si=oYVtvLFRCAqxUX1u
+- https://youtu.be/ar3gEAT2h28?si=oM22wVr0-twUehiX
+- https://youtu.be/gIjJTEJ7soQ?si=dIsfu0_aEMTNCwA0
+- https://youtu.be/9o__c8wNd3I?si=lAfT4gu78UbBqLoV
+- https://youtu.be/OPoqBIEvoj0?si=9JBmiOvyxocW7qxz
+- https://youtube.com/shorts/IeBzNzzFMLI?si=KIuaC7ZSso0M4cDa
+- https://youtube.com/shorts/rx9JELYVR2M?si=nnhTWh5AKC-9Vt-Z
+- https://youtube.com/shorts/utPN36QqUDk?si=W7nRITE-RsRHHXJB
+- https://youtube.com/shorts/49X1SiV0i60?si=i6-p1hnM9a_AD331
+- https://youtu.be/CjAC6gzrpOY?si=9qhWpJlTIut3Elkz
+- https://www.tiktok.com/@thewrapshackwc/video/7281330084785540395?is_from_webapp=1&sender_device=mobile&sender_web_id=6916407706849871362
+- https://youtu.be/IAov3P_3b6o?si=BzwwProonDX8gQwI
+- https://ark.media/record/12352
+- https://youtu.be/hTqw_CGCmNs?si=HZ0Qpw6p-iyidnFx
+- https://youtube.com/shorts/e8uuYda5wY4?si=Qx00KBGykFCbwBbR
+- https://youtu.be/a4wjM1TtbQs?si=yrpmjXw2GCdeJGPF
+- https://youtu.be/9_WZM5CuHpI?si=_CySHYkK10jV9kbd
+- https://youtu.be/BSE2RcVmw1w?si=4h0LsH3BThSIvgWB
+- https://youtu.be/EwX_wBj2f30?si=kv4g8TpZCehSKi-A pls inspire prop autospawn
+- https://youtu.be/ypXMnqYnzQk?si=Kjk6kj4wsOSSXykL pls 
+- https://youtu.be/sZQs02wRac0?si=mbaJ7e__QBf1zzsV
+- https://youtu.be/P8q9yB68PpA?si=zWDtipsNQA1w7BcY dreamcast tribute
+- cvr
+- https://youtu.be/fFfeKnPCgDE?si=J77GVVKcQ2pOWuj- spray accident
+- https://youtu.be/pdHD8UEsRec?si=elRSIPjil-EGObDG
+- https://booth.pm/ja/items/1648875 paid
+- https://booth.pm/ja/items/1791571 paid
+- https://hehzs.booth.pm/items/5170131 paid
+- ok
+- medical game steam pls
+- https://youtu.be/2f97mYFLsNk?si=fL3aMnesSDWk26Nd
+- https://youtu.be/OtbbLiudBkA?si=AGFXilkDNRFOs-2J
+- https://x.com/hua934779460/status/1416059205740417034?s=20
+- https://x.com/yami_paimon/status/1416419674070323203?s=20
+- https://youtu.be/YbUjY1bsoE8?si=vp23QujDrE2W6eOp
+- https://youtube.com/shorts/aluw8SWLUCQ?si=vphf6s6EA2fsnlVU
+- https://youtu.be/eLL2LoBR-xc?si=nFRNKKFKc29TVBtA
+- https://youtu.be/eLL2LoBR-xc?si=nFRNKKFKc29TVBtA
+- https://youtu.be/yeHwfC-c-GE?si=aBczsqzVbA3S9xJC
+- https://youtu.be/B_DvUY9DeEo?si=UII_iL35ak_uYPtT lemmino melancholy
+- https://www.lemmi.no/music license all are CC4.0-BY-SA
+- https://www.soundcloud.com/lemmino
+- https://youtu.be/ulfoU2MziOc?si=MWzE34pOdbS4mvA1
+- https://youtu.be/5u7euN1HTuU?si=-Euk_qy-XauXopf1
+- https://youtu.be/nx4V9Uh_FW0?si=vDguOkAS1l5rWsIo
+- https://youtu.be/zy4ay9xfKpQ?si=lzIE4_dVBGuzlSSW
+- https://youtu.be/PRKPFD15l_k?si=elXlOUw4wHU_S7Py
+- https://youtu.be/UGivBhw6C2A?si=qOWjVc603smevYD7
+- https://youtu.be/AA4axv0LZjA?si=kwx1keap4Eau4e2p
+- https://youtu.be/o-EUq2O5x2g?si=AdOtMbXJsMA-ljcy
+- https://youtu.be/wqGbq9A_fcw?si=ilkhq68ag0UtZfbS
+- https://youtu.be/ER-tyk8mh40?si=Yv99O8JmUv6XnP5F
+- https://youtu.be/BAJ8UdnrTW8?si=q_Yp1ZbYZwQA2KqU
+- https://www.youtube.com/live/yZ9TTSn0lhQ?si=VYnaaixtQKkywfta
+- https://youtube.com/shorts/e2QuICnO4R4?si=QPTvCrK1iMm8aGdZ
+- https://youtube.com/shorts/WrUEK7sxu9E?si=yJItlt0heyPXBw6r
+- https://youtube.com/shorts/WrUEK7sxu9E?si=yJItlt0heyPXBw6r
+- https://youtu.be/jdbAWAkfkFw?si=919Gc_EEDbbBxJD2
+- https://youtube.com/playlist?list=PLu7cY2CPiRjXasFhJrMnjLNJl0PeNSvPU&si=N-V3aa1c75lVpUvc
+- https://youtu.be/4rTv9wvvat8?si=WEFQiMplUy71Z3dj
+- https://youtu.be/2AFFEH0C0tU?si=B72o_nfxygN1veAG
+- https://youtu.be/5msBjnc0U-0?si=3SU-kMmn8WYk7itA
+- https://youtube.com/playlist?list=PLowKtXNTBypFbtuVMUVXNR0z1mu7dp7eH&si=gkGK_3cwQe7zwvod
+- https://youtu.be/LnzuMJLZRdU?si=hjNtK_Ll6KwA2LM4
+- https://youtu.be/t0r3FAJKU8s?si=y1Bbc3ycxQ2IGToL
+- https://youtube.com/shorts/KigpsaMbsoI?si=1BwLdxzDMDPxf-QU
+- https://youtube.com/shorts/DWvr7yZ_UVo?si=ITaCMkedfhfzRaeT
+- low caliber
+- https://youtube.com/shorts/rVfSb_TApzA?si=EsPthEQfm2Y_Brr9
+- https://youtube.com/shorts/hpiI7ufVbhw?si=soM79HdUWN2AEamg
+- https://youtube.com/shorts/Oz4Dq61KdKQ?si=CJGoCqzFdGnmg181
+- https://youtube.com/shorts/OCKqZ8hB6gI?si=lNDJxCweL503n-OB
+- https://youtube.com/shorts/Csk5U4e-UZk?si=G-_N_PnPH_96KFly
+- https://youtube.com/shorts/RF3DQS8LHD4?si=SSzAc1f4MBmuu05Z
+- https://youtube.com/shorts/FmuIo8dlIQU?si=qngG8k85rk7e--dF
+- https://youtube.com/shorts/ORQtpkFb7RQ?si=Rb9oU-naFZn1mIFo
+- https://youtube.com/shorts/Qxmpodj-HeM?si=o3qBkVZzJgGJjFHo
+- https://youtu.be/GFrZeLNchww?si=YqxanPNM_gK1j_nP
+- https://youtube.com/shorts/vgIDKeqZav0?si=yxBOpcqSpU9AOjaM
+- https://youtu.be/5ehmdV80IiE?si=k7zNCrxE76h6aSs-
+- https://youtu.be/vdOUFg0EECQ?si=i0UCmjrQ20XSjgLO
+- https://youtu.be/pm8B36Uc2Rs?si=H4sjKJF7PT065btB
+- https://youtu.be/MO4gr4eXHGQ?si=1ah_YERlMEZQPP1Y
+- https://youtu.be/7EELSOiQxB4?si=zxacJrbID_Mvxw3Q
+- https://youtu.be/VKH7W0-543Q?si=JpB32KE5Ek9VluiW
+- https://youtu.be/g0M4sbVpkDk?si=pfdenYVTqiCz7sPp
+- https://youtu.be/qiCEXpgmW_s?si=5Za3fr5QeN-UZF1t
+- https://youtube.com/shorts/T10yJv3P_-A?si=DJXB3M0PQqqWj9zg
+- https://youtu.be/7ld-3daLL9Q?si=3xP47YPIRvyvSYb6
+- https://youtu.be/IJbnEVGBOGs?si=jIZJRQauWg4oaodo
+- https://youtu.be/xvhihpMwt00?si=UEuCMhZ3buPzOqAm
+- https://youtu.be/qQ1GaqK-7bw?si=BWxvwnbME2N1iZjX
+- https://youtu.be/J9S1Xxv5Two?si=wx5HaO6B90Z7mQXo
+- https://youtube.com/shorts/Ajr5y9xl4fI?si=rS1eZvbvvUC12xqy
+- https://youtube.com/shorts/DitAOvfIdwo?si=UvYPxeBEj5VEqJvi
+- https://youtu.be/cx1oyyKvnBE?si=GeL7E__0acP7QQxq
+- https://youtu.be/P_sdWjPwA8M?si=QzOFPK1USoCBxQuc
+- https://youtu.be/hoAJOsdqbus?si=ZBrgy_HHL7eZH-F9 machine gun man
+- https://youtu.be/F5HqUV2AJuI?si=7JeQtBgGcEc_8eu9 sequel
+- https://youtu.be/k1y5-AwG4sw?si=v43B4LFZBt5mf0WQ
+- https://youtu.be/VASwKZAUVSo?si=aRoewmBiFgVbfOO2
+- https://youtube.com/shorts/fFAJ7X2ZMvk?si=i3wN1xVoYe_sKAk3
+- https://youtu.be/NMWzgy8FsKs?si=Kh6qBfkJ1VpfIti8
+- https://youtube.com/shorts/MLd-rz1goXw?si=tB5Lp26GgdYo4hv2
+- https://youtu.be/Ct91ayL6ENY?si=_hJaCU4snC9Quzn7
+- https://youtu.be/h7gf5M04hdg?si=6VykxMFhDVsn1lqc
+- https://youtu.be/EvvG2TurH1E?si=pBxtMqdhfCc0DX79
+- https://youtube.com/shorts/VK8zEtBqSN0?si=1sFg5RtsgOU3sxKL
+- https://youtube.com/shorts/u65mmXnAAyU?si=qhPtqwdjg6xukCMD
+- https://youtube.com/shorts/nI_RBp_QQM0?si=_SG4pWEzNzQmSYZJ
+- https://youtube.com/shorts/gXqlZ4Izj7s?si=T0umNCqk4jJ47Zqw
+- https://youtube.com/shorts/u2ujBACmF7k?si=exYQX-yDSXa0CXoc
+- https://youtu.be/YCTEa-tAI6A?si=-PRx3xipenLe2DxH
+- https://youtube.com/shorts/8sBcHPXJDJI?si=3isBOzmj6ygrhz-B
+- https://youtu.be/MQ7v4im6h1c?si=yN9KxB-UBOwz9dYb
+- https://youtu.be/lVAQm8lpLJk?si=5gC3ixH_bWytGxwP
+- https://youtube.com/shorts/gpIYKejDTvo?si=GDey0isSsRbL38y3
+- https://youtu.be/VCDZLM59G08?si=86gt1nAwfJnxvyE7
+- https://youtu.be/oBAaCXeLAs0?si=XAxg9L-3M0npjdnd
+- https://youtube.com/shorts/ENTrMN6amb8?si=hoPW4pCGNCnlqFmQ
+- https://youtube.com/shorts/Iu6o9NY56SY?si=lvMF8YelPOOj3tvp
+- https://youtube.com/shorts/Xw62-uKLTpQ?si=ljzDvepJNoRu7v-E
+- https://youtu.be/riwUjlg-Fe0?si=7MVyimVuACOmtmeP
+- https://youtu.be/nkNfh0FUHgE?si=LlLR-iLAjq_Z2gyF
+- https://youtu.be/l-IO6_cU5jM?si=yRfDnmsPxzMnC91C
+- https://youtu.be/QNFQvX-MQgI?si=uGwrimd1_89Jh6N3
+- https://youtu.be/xiIDzCdOhmw?si=rw_xT1wV7DY-A5FN
+- https://youtu.be/DWoJZs6TuVs?si=5OH3Vzilc7W2xRHr
+- https://www.dropbox.com/s/bdknm5be78k9lfi/shitty%20instructions.pdf?dl=0&copy_to_dropbox=true
+- https://www.thingiverse.com/thing:3756834
+- https://youtu.be/wuSR5PyrJE0
+- https://twitter.com/VoicesByZane/status/1740755688589250687?t=UoIHTDBmAlGurpPb-u0U8w&s=19
+- https://youtu.be/GIFMOgp2rQs?si=HD6N1HNX4a9RKqlq
+- https://youtu.be/bhBxBRjwo8Q?si=F8padcoYkkeGVCPR
+- https://youtube.com/shorts/EMGTM6gAaO4?si=7HKixEk5pihuPesV
+- https://youtube.com/shorts/p3hyP1uMdoE?si=s8j-PwC1fGpBYURA
+- https://youtube.com/shorts/lltKWyxV9jQ?si=A0h0LxGb2wvWuP8Y
+- https://youtube.com/shorts/TRbhSWlB6aU?si=l1ToQrk1xU5CHIFl
+- https://youtube.com/shorts/0N-P2Lhq0y0?si=3oPOBT36_E36VKqX
+- https://youtu.be/28xQTaL-M4k?si=wRoHAPfQDIDTovhO
+- https://youtu.be/9FeaQiqdMpU?si=wua-8RDbQZlgSlDh
+- https://youtu.be/afsRCBhLVZc?si=YSEFI6wUJ2WeZewh
+- https://youtu.be/lvYSwyMMXW4?si=dQMA1KK5MDIgBPmq
+- https://youtu.be/WeztopG57lc?si=4RVbdgu_HSvviAjw
+- https://youtu.be/OqEE_A93LmI?si=2Qyb7G0NgsD3WcD0
+- https://youtu.be/SBCpcntoqjM?si=FA6klibKVmMqxXv8
+- https://youtu.be/UOielb7YW5o?si=n0_U47RHJRQMxsnJ
+- https://youtu.be/xQO0HS7MU6I?si=AdoR6XApZWJSZRCA
+- https://youtu.be/5A4Z0ynzb7o?si=cUJNaw6ZUCTwK413
+- https://youtu.be/kfAkwseBFao?si=B8Lwf4KfQa9bpGQ5
+- https://youtube.com/shorts/Ow4s_aa5ITE?si=bJzghDEF-DQD4pXn
+- https://youtube.com/shorts/ejuw__poiFY?si=1fhsK1DhjBK24H_b
+- https://youtube.com/shorts/KcgotkqEfNs?si=KChNToJh3aaw7hBy
+- https://youtu.be/LZsVk-ab0AA?si=vZJi03CX2ewxxNUQ lizard dance sync
+- https://youtu.be/m-wkqdduokE?si=5TqAMKOJUN_9YBR1 how to train your dragon dance compilation cas van de pol
+- https://youtu.be/z6u0LAIJe1o?si=ajZuy1AyG-7J3YY0
+- https://youtube.com/shorts/AeYaFHwyFSE?si=k0Q8l77RisQSIeEe
+- https://youtube.com/shorts/ja3N0J9Q-eE?si=ZdkXDAW1cRRugfdN
+- https://youtube.com/shorts/1wUIb2MzcQA?si=b-tCsyTjJydFiesU
+- https://youtube.com/shorts/M2nqOa2PMAw?si=PV706LqUWGfwwuiX
+- https://youtube.com/shorts/kWgzzlz7t-k?si=qUfgMEw13UdwXXZ3
+- https://youtube.com/shorts/vhmjEGT7kBg?si=yqBXEnai75NGdAuj
+- https://youtube.com/shorts/D-8EeylYd4I?si=2z84KbT5k2O-JwR8
+- https://youtube.com/shorts/L-QELXGDLhU?si=dFD1XBdJZA8BWvuQ
+- https://youtube.com/shorts/uV1xNfCD1D8?si=qC6eetRwy4nnab-Q
+- https://youtube.com/shorts/G-ekJStgMmY?si=30bLl_WFQ7DihfMq
+- https://youtube.com/shorts/b6EIQUr8iK8?si=qB9THJwNTT2NhoZI
+- https://youtube.com/shorts/JwHgbZn2X1Q?si=N3dKtjO53qBn2jWD
+- https://youtube.com/shorts/T9dMdVKTWds?si=dOd8RLASy0Ao3ORj
+- https://youtu.be/JKykZJxwvGE?si=od8cYOYtTjBanTLl
+- https://youtu.be/4Yhaz6Yqg5Y?si=s9_dPLLFgOr7Xwdm
+- https://youtu.be/BBQ---L4hBM?si=7VyD-_J3XmiK2O8v
+- https://youtube.com/shorts/AJb7SFzlm0U?si=JCu5uxX71JeWlbiz
+- https://youtube.com/shorts/oIYcB9faxvU?si=kh4kh2s1Lq7f0034
+- cvr pls
+- https://warrenwolfy.gumroad.com/
+- https://vinuzhka.gumroad.com/
+- https://wetcat.gumroad.com/
+- https://sanyacosmos.gumroad.com/l/VenusBodyVR
+- https://sanyacosmos.gumroad.com/
+- https://peeeep.gumroad.com/
+- https://gireison.gumroad.com/
+- https://alctrap.gumroad.com/
+- https://alctrap.gumroad.com/l/38b?layout=profile wtf
+- https://cicieaaavr.gumroad.com/
+- https://depressed.gumroad.com/
+- https://moonmango.gumroad.com/
+- https://23mink.gumroad.com/
+- https://sunnybunnie.gumroad.com
+- https://bunnybubble212.gumroad.com/
+- https://ultim8nik.gumroad.com/l/fafcj pomni
+- https://discord.com/channels/410126604237406209/797279576459968555/1189972363924733993
+- https://discord.com/channels/410126604237406209/797279576459968555/1019708265975783424
+- https://discord.com/channels/410126604237406209/797279576459968555/1019709401902366811
+- https://discord.com/channels/410126604237406209/797279576459968555/1019709581968035860
+- https://discord.com/channels/410126604237406209/797279576459968555/1019709854992044164
+- https://discord.com/channels/410126604237406209/797279576459968555/880253373662781450
+- https://discord.com/channels/410126604237406209/797279576459968555/1019707740521771058
+- https://discord.com/channels/410126604237406209/588350770777161748/1183196903761002537
+- https://discord.com/channels/410126604237406209/588350770777161748/773149374477762623
+- https://discord.com/channels/410126604237406209/588350770777161748/802167260076179477
+- PolyCount unity assets
+- https://discord.com/channels/410126604237406209/588350770777161748/802169542586662934
+- https://discord.com/channels/410126604237406209/588350770777161748/1002061861220528178
+- https://discord.com/channels/410126604237406209/588350726841827358/1189296880895668225
+- https://github.com/akasaki1211/AkBoneDynamics
+- https://discord.com/channels/410126604237406209/588350726841827358/1011305801467580476
+- tex
+- rex
+- https://gillscreations.gumroad.com/l/merinian
+- https://gillscreations.gumroad.com/
+- https://discord.com/channels/410126604237406209/588350726841827358/1150126067521159302
+- https://discord.com/channels/410126604237406209/588350726841827358/1001982894912319540
+- https://discord.com/channels/410126604237406209/588350726841827358/1011302687293317202
+- https://discord.com/channels/410126604237406209/588350726841827358/1011302763851940003
+- https://discord.com/channels/410126604237406209/588350726841827358/1011302614098526258
+- https://discord.com/channels/410126604237406209/588350726841827358/1011302532213116988
+- https://discord.com/channels/410126604237406209/588350726841827358/1011302494435029022
+- https://discord.com/channels/410126604237406209/588350726841827358/1011302246287417464
+- https://discord.com/channels/410126604237406209/588350726841827358/1011302382807822396
+- https://discord.com/channels/410126604237406209/588350726841827358/1011303106576924713
+- https://discord.com/channels/410126604237406209/588350726841827358/1011302987114758226
+- https://discord.com/channels/410126604237406209/588350726841827358/1011303727371649074
+- https://discord.com/channels/410126604237406209/588350726841827358/1011304133392879646
+- https://discord.com/channels/410126604237406209/588350726841827358/1011304422858575983
+- https://discord.com/channels/410126604237406209/588350726841827358/1011304632594731069
+- https://discord.com/channels/410126604237406209/588350726841827358/1011304786055942256
+- https://discord.com/channels/410126604237406209/588350726841827358/1011304833271214223
+- ok listen fuckheads. No no no, not any of you. You're cool. The fuckheads you gamers talking about. Yes. *Heavy Christian* & LGBT Phobic
+- fuckheads. I am Christian too, and I extremely hates LGBT wholeheartedly. But this does not constitute or is not ethical to restrict who customers shall use the assets.
+- I got fewer than you guys alone. But I always allow anyone use it. One day if I able to somehow make bunch of goth titty furries, I'll let all gamers use it. Guess what? My friend's right! You have no idea what do they use it for. Although, it's still ethical to prevent hate speech, but you got the point!
+- that's right, whoever straight, gay, lesbian, bi, whatever neogenders, atheists, islam, confucian, all and all, even the most juvenile uses, gore and shits (scat), **I shall not care**, and you should too.
+- https://discord.com/channels/410126604237406209/588350726841827358/1011304968084541520
+- https://discord.com/channels/410126604237406209/588350726841827358/1011304955929448458
+- https://discord.com/channels/410126604237406209/588350726841827358/1011305612958760970
+- https://discord.com/channels/410126604237406209/588350726841827358/1011305703836749915
+- ok to be fair tho, I also have an asshole move but it's still proposal. Is to no longer CC4.0-BY-SA and instead prevent Paywallism, Proprietarism, and Partialism. Because neither GNU, nor CC prevent any of these fucking shit from happening. Still in a thinking tho, not real yet. Be cool, I guess, so I don't be.... Evil, more like anti-hero.
+- I want to download but it's paid. We family already paid so much these days. Foods costs 1 digital files these days. Okay exageration, but remember inflations!
+- we then have to sort to sparsdat. But thankfully, because now I have trusted system and trusted payment method, I can buy legit. Look, we are not so poor. Only.... Parents paranoid what if got hacked only because of insertinf credit card info to a computer, I think that's it.
+- help others too will ya? If you got the money from this card, that same card who knows accidentally inserted to a sketchy ass store, whose developer did not carefully store their private keys safely. Just saying. Doesn't matter if Parrents stupid, IT experts who has been Doctor ranked (S3 Doktor) too! It's oblivious! Best trusted and popular store even the payment broker the store relied on can get hacked!
+- ok
+- family these days are insane.
+- everyday we see they are too restrictive and enforces too much.
+- causing religion to be more like, .... Faction.
+- (metal suspense)
+- if faction becomes too harsh and inappropriate, you will get out and in the end...
+- (metal suspense, show sample ID card parameter `religion` shows `null` meaning Atheist)
+- So, are you one of them?
+- one of the victims?
+- we can help.
+- .
+- .
+- 758
+- 758
+- 758
+- 758
+- 758
+- 758
+- 758
+- 758
+- 758
+- 758
+- https://vxtwitter.com/RubberAnimation/status/1740414202110423417
+- https://youtu.be/JtFbDDb6Dv8?si=7VMYL_ErwOS2_5-w
+- https://vxtwitter.com/Tranquillity650/status/1738841379336540457
+- https://vxtwitter.com/HChirmiaB/status/1739292010216095995
+- https://www.pixiv.net/en/artworks/109270067
+- https://youtu.be/wBCA4n9mExE?si=5Ec5BFG29OXVdCt6
+- https://www.tumblr.com/joelwindows7/738031539333545984/chisatos-artificial-heart
+- https://youtu.be/a6EWIh2D1NQ?si=w18xeQ4UfH0YaomV
+- https://youtube.com/shorts/Euru5x06Zbs?si=iFiGSBNyxyxYvjnV
+- https://www.tumblr.com/joelwindows7/738044647318945792
+- https://www.tumblr.com/joelwindows7/738044647386005505/resuscitatemeplease-maybe-you-should-fill-my
+- https://www.tumblr.com/littlestrangefeeling/736307640999788544
+- https://www.tumblr.com/littlestrangefeeling/736306841354633216/perfect
+- https://www.tumblr.com/littlestrangefeeling/736306841354633216/perfect
+- https://www.tumblr.com/littlestrangefeeling/736307640999788544
+- https://www.tumblr.com/littlestrangefeeling/737011304563359744
+- https://www.tumblr.com/bri911/734483989822308352/did-someone-call-for-a-chest-to-work-on bri911 blocked me
+- https://www.tumblr.com/bri911/737004535128702976/female-mid-thirties-found-unconscious-in-her
+- https://www.tumblr.com/bri911/737110396923707392/mans-lips-tightly-sealed-over-mine-still
+- https://www.tumblr.com/heartbeatbpm/736313582955921408
+- https://www.tumblr.com/standclear360/736164529940103168 standclear360 blocked me
+- https://www.tumblr.com/luvnurses62/736080629010235392 luvnurses62 blocked me
+- https://www.tumblr.com/steth-sins/733915707143798785/sweet-spot
+- https://www.tumblr.com/anonymousnovelist66/734570907367047168/someone-give-me-a-non-sexual-cardiophile-writing
+- climb mountain?
+- https://www.tumblr.com/cardio-b/734623473229512704
+- https://www.tumblr.com/eroticheartfetish/734554767106457600 eroticheartfetish blocked me
+- https://www.tumblr.com/female-heart-stuff/724925835559190528 no reblog
+- https://www.tumblr.com/kardiakrazy/734017853452369920 kardiakrazy blocked me
+- https://twitter.com/ReenubAD/status/1740800691365683571?t=mkzMRJ1DU6RL9Hllwu_MEA&s=19
+- https://x.com/ReenubAD?t=w89Nr667fTURkJGBMqzbPg&s=09
+- https://twitter.com/ReenubAD/status/1740545616823095511?t=w89Nr667fTURkJGBMqzbPg&s=19
+- https://twitter.com/ReenubAD/status/1740435696962490831?t=w89Nr667fTURkJGBMqzbPg&s=19
+- https://twitter.com/ReenubAD/status/1738226775505940738?t=w89Nr667fTURkJGBMqzbPg&s=19
+- https://youtu.be/ibQpM_gNlQc?si=pmfn1Nd1jkawNonb
+- https://youtube.com/shorts/Eyz0FL2OqTE?si=GlWoGrru-vilfkS6
+- https://youtu.be/Cfu5_e4fayA?si=cIe7UAbXlTNCDJ9p ambatukam
+- https://youtu.be/pyip7BkeAXE?si=fXoI3Mgzw5JkgFKh
+- https://youtu.be/1xhanywrbOw?si=pUs5FzWu0R8XD6CS
+- https://youtu.be/KF4Qgh17hrI?si=84wtALoQBndVIE6r
+- https://youtu.be/VKgHJAsX2m8?si=SMBirnuwgcCUZSJU
+- https://youtu.be/JAPbQXo84XY?si=jc2dS5yIaJu_5gSQ
+- https://youtu.be/iZLQ5TxaMXs?si=ygeUGdKSKXbR5vj5
+- https://youtu.be/KmV6B6wBm04?si=8vDVKd825dbl-47U
+- https://youtu.be/oBAaCXeLAs0?si=XAxg9L-3M0npjdnd
+- https://youtu.be/p24sEazOTrU?si=MPlCi7lF3p5Rwd0a
+- https://youtu.be/gyasdmtHPRo?si=ZMd9MiyT-jtBH5qo
+- https://twitter.com/MrBrauza23
+- https://x.com/MrBrauza23/status/1727999749788426440?s=20
+- https://x.com/MrBrauza23/status/1727269395641328076?s=20
+- https://x.com/MrBrauza23/status/1724779413508899254?s=20
+- https://x.com/MrBrauza23/status/1722537944630857783?s=20
+- https://x.com/MrBrauza23/status/1721519849224970728?s=20
+- https://x.com/memesoldier115/status/1721522135179366724?s=20
+- https://x.com/MrBrauza23/status/1720019569803403544?s=20
+- https://x.com/MrBrauza23/status/1719434206139568229?s=20
+- https://x.com/MrBrauza23/status/1719071489256046605?s=20
+- https://youtu.be/PyXJ42NtKp4?si=GcSES8OZNw17xe9q
+- https://youtu.be/QTnkpAW5j0E?si=pksw-RrVV5JUIDzR
+- https://youtu.be/cBgdUKOfTUo?si=HQOSKuEaWWTqG-F4
+- https://youtu.be/dW1QR14n_DE?si=U8b6aeurGky61Oey
+- https://youtu.be/i8vBOzADVe0?si=NF_oAf8gd4rrc0xw
+- https://youtu.be/Ybogc4Cn38A?si=E4tWNgeq85kofYW0
+- https://twitter.com/Parsley_F/status/1740994991458271261?t=jqT21I15o7XaPlnfR7h84w&s=19
+- - https://sketchfab.com/foxyl/models pls track all stolen (reupload no sauce URL) files as all as we can
+- we found...
+- Cally3D / Vibapop. Notorious for paywallisms except Deltarune, FNF mods, and.. I forgot what else.
+- Smutbase like COEL3D, LazZa, .. Damn who else?
+- Possible many original sauce URL are gone by the time we're here.
+- all files are **glb only**.
+- https://www.pixiv.net/en/artworks/114460637
+- https://www.deviantart.com/dannimondesigns/art/Stacie-and-Miki-Frog-Suits-977295166
+- https://www.tumblr.com/cardiomason1/735752897037565952/miss-varn-the-school-human-biology-teacher-has no reblog
+- https://www.tumblr.com/cardiomason1/726823403241324544/heres-the-comic-adaptation-originally-uploaded-to
+- https://www.tumblr.com/cardiomason1/726823256882053120/a-comic-im-adapting-need-voice-actors-though
+- https://www.tumblr.com/prismgenixz70/737714993495261184 dyingheartbeats blocked me
+- https://youtube.com/shorts/QbeqW1NVr2g?si=LJXzLr0FZFeSeWLd
+- https://youtu.be/OzBlU-DCltY?si=Tcmudg9W-cfm0EFx goat story katy
+- https://youtu.be/2hdu0YXOh9s?si=CF_zWHYXvUC4B8Dl
+- https://youtu.be/Vu32LvvTY94?si=ky2rwEzOG3-qAPU9
+- https://youtu.be/mpDtLp4aLZc?si=cXgZJi6MlZt-mCwW
+- https://twitter.com/Shiben_c16e4/status/1738123784648036452?t=HovXqlJHa0D8B4lTi_WaTw&s=19
+- https://twitter.com/Parsley_F/status/1740994991458271261?t=PKlRjbBoE4ZDr9ywsSqY2w&s=19
+- https://youtu.be/Q1lXCDCb1NM?si=9Mt3XYzC-4jyJTWR
+- https://youtu.be/eDmYbBKuqyE?si=5bWiZfJ8fE2Yizh-
+- https://youtu.be/eDmYbBKuqyE?si=5JOnI7CfygS3ial5 Zurikishi comic pls
+- https://youtu.be/JicQBDYrL5w?si=HYZS8zi1xzpgxWbz oh no..
+- https://youtube.com/shorts/KiZDjLbGyYg?si=f1F-w01enndb5KhD
+- https://twitter.com/ReenubAD/status/1741277034935181733?t=T5dJ_dX0QhwoAmlrVRXXiA&s=19
+- https://www.furaffinity.net/view/54965180/
+- https://www.weasyl.com/view/2337850/
+- https://e621.net/posts/4500640
+- https://vxtwitter.com/5ildo/status/1740561382272348494
+- https://vxtwitter.com/RubberAnimation/status/1741447606880928205
+- https://twitter.com/yonedatomomizu/status/1739616690101702968?t=qHFdTFtid3VTjAOm7WbPqA&s=19
+- https://twitter.com/myuto12345/status/1741016020742230148?t=qHFdTFtid3VTjAOm7WbPqA&s=19
+- https://twitter.com/Kyutai_X/status/1740669691650302160?t=qHFdTFtid3VTjAOm7WbPqA&s=19
+- https://twitter.com/peepo_rose/status/1741258131051892883?t=qHFdTFtid3VTjAOm7WbPqA&s=19
+- https://twitter.com/kusakari27/status/1740012548144144571?t=qHFdTFtid3VTjAOm7WbPqA&s=19
+- https://www.tumblr.com/squeakitties/733435501279887361
+- https://www.tumblr.com/squeakitties/731388102840664064
+- https://www.tumblr.com/squeakitties/730902338121973760/yeah-its-actually-twofold-autism-and-the-suit
+- https://www.tumblr.com/squeakitties/730159111606566912/decided-to-put-all-3-dreamatduskk-miaous-into-one
+- https://www.tumblr.com/squeakitties/729026093012729856
+- https://www.tumblr.com/squeakitties/728355788520816640
+- https://twitter.com/blush_brush_art/status/1728111128805302640?s=46&t=oiMR7GysTIBsVSlqK01YEQ
+- https://vxtwitter.com/HChirmiaB/status/1740636805446443072
+- https://vxtwitter.com/gashihi_mc/status/1472879767447687168
+- https://vxtwitter.com/HChirmiaB/status/1741458892906017109
+- https://vxtwitter.com/wxtwWr6t0K45QjC/status/1741112043460313448
+- https://www.dlsite.com/maniax-touch/work/=/product_id/RJ01082852.html/?utm_medium=affiliate&utm_campaign=sns_link&utm_content=RJ01082852&utm_source=t.co%2F
+- わらしべおま〇こ!ヤれる子つなぎの性生活2 akamotoakamoto https://www.dlsite.com/maniax-touch/work/=/product_id/RJ01082852.html
+- https://twitter.com/misyune12/status/1741366075969916965?t=bezxEz-NHolwLRN4JqWWQA&s=19
+- https://twitter.com/ignesous/status/1667484503445479426?t=LWVZrvF2aMDGbJ0xz_eNaw&s=19
+- https://discord.com/channels/960824606346838056/1124103406076829817/1124103722004398140
+- https://discord.com/channels/960824606346838056/1117922511011717262/1120290898501177434
+- tag cvr
+- .
+- .
+- https://youtube.com/shorts/Wu5QhaX_3HM?si=Z4mJuONSXnaU0Fyt
+- 📸 Lihat postingan ini di Facebook https://www.facebook.com/100064697106148/posts/755870973246133/?mibextid=NOb6eG
+- a
+- https://docs.google.com/spreadsheets/d/1lrE5EGtuDsrwRJNSHIEN9hsGggxzLHmDV5rwuHkmndQ/htmlview#gid=0 this
+- https://www.facebook.com/groups/MMDIndo/?ref=share&mibextid=NSMWBT from here
+- 📸 Lihat postingan ini di Facebook https://www.facebook.com/100078753532167/posts/348746671093781/?mibextid=NSMWBT
+- https://www.deviantart.com/aziib/art/Maya-Putri-3d-Model-ver1-01-MMD-Download-1004214586
+- https://x.com/Wake_Up_Deadman/status/1739788709715984493?s=20
+- https://x.com/eldoradoed_art/status/1739667137986433498?s=20
+- https://youtu.be/okFxRNBvZQ8?si=weMhD7Zl5hrgOQ9n
+- https://youtu.be/Z-MeAPXdKEY?si=ZNDYjVyxyNKVV5eo
+- https://onlyfans.com/markiplier
+- cvr
+- https://youtu.be/jwMO-ulKo2I?si=ZdaM3QX7UOueykzB
+- https://www.youtube.com/watch?v=HU2bwrVLkEU
+- https://youtu.be/MAsAYnBzudE?si=knpdwRSR7YsZMchC
+- https://youtu.be/haO_2r7kzLE?si=yamKBzQrqUiqM510
+- https://youtu.be/fYTOK89w8h0?si=LSZ6Ygh6CxxtLiaU
+- https://youtube.com/playlist?list=PLZ93iR4vt7mq_ahJiSQnR2YyhhtsX4RaK&si=Fpn4gxZ9db2ykhaL
+- https://youtu.be/jwMO-ulKo2I?si=ZdaM3QX7UOueykzB
+- https://tinny.gumroad.com/
+- https://creators.vrchat.com/avatars/creating-your-first-avatar/ in vrc sdk, there is sample Avatar dynamic bot girl
+- https://youtu.be/OFoYoErRa_o?si=mD1_zvmM52KHhLFc
+- https://youtube.com/playlist?list=PLZ93iR4vt7mrqWZT-mUTgB_RJyNjAMxRx&si=pmrgSQJ5zm2DirwH
+- done
+- Tirta the slime girl
+- https://twitter.com/eiden_2016/status/1743846974749888979?s=19
+- https://twitter.com/forever_gf618/status/1743746020746424570?s=19
+- https://www.tumblr.com/squeakitties/657263697427906560/i-got-a-really-really-big-commission-from
+- https://www.tumblr.com/squeakitties/671392246338371584/the-crew-found-themselves-on-hoxxes-iv-deep-rock
+- https://youtu.be/QRpK-UnpCT8?si=2YkjnfeC5wKb2Nq7
+- https://youtu.be/bDEtdwdHuo8?si=wfuJv-G76ITAmHRe
+- https://youtu.be/uXIgwpjcNa4?si=hvwn-22qV1naQyRt
+- https://youtu.be/pV0PMgp38gI?si=kYXSniNNOclxO19x
+- https://youtu.be/y-apZFPLSc4?si=SXZPqdtN2Enwh46q
+- https://youtu.be/vIaZhebkOJc?si=-HjOr7lXMeQRsVJn
+- https://youtu.be/bJyoqHnmoxc?si=ADA2I3f-PnSO3WqP
+- https://youtu.be/kCe9rumD1V4?si=6Yzc9bZQpyUk56Z0
+- https://youtu.be/e130xAPbGjw?si=pnNyLoJVK41qzmVN
+- https://youtu.be/O5QBETtyXZw?si=yIjAvbckrJCrXQBV
+- https://youtu.be/G-qTcZtQwGE?si=xnBLkkpgm6ApmS4_
+- https://twitter.com/OsoFurry/status/1686500501330821121
+- https://youtu.be/-1HXNxFkKwI?si=7GwXEuATDs87iu7t
+- mckamey
+- https://www.youtube.com/watch?v=f9mjwoLYGr0
+- https://www.youtube.com/watch?v=1cZGaoF4JN4
+- https://www.youtube.com/watch?v=uco9QbrDg7E
+- https://www.youtube.com/watch?v=g1Po07KkH98 sue
+- https://www.youtube.com/watch?v=Ck9Pc4aPjRc footage
+- https://www.youtube.com/watch?v=ckX-RuoEles shutdown
+- from ai sponge
+- https://discord.com/channels/990390355247644672/990390508264239155/1193664091932328036
+- done
+- https://youtu.be/oDhkj1FB32U?si=NGTcc5c1JYHhvcTv
+- https://vxtwitter.com/TeHappyHeartMan/status/1743831449277530129
+- https://www.tumblr.com/joelwindows7/738805813564571648
+- https://www.tumblr.com/joelwindows7/738893885555802112
+- https://www.tumblr.com/joelwindows7/738880920042520576
+- https://www.tumblr.com/joelwindows7/738872859474247680
+- spicyf4u
+- spicy4u
+- https://youtu.be/lvlOBN-eQVA?si=TZNejazC_Kwbnvzv
+- https://youtu.be/ag3L1fBPo54?si=yJFfGgPGdxlXa8jy
+- https://perkedeltechnologies.wordpress.com/2020/11/24/ugh-fine-i-guess-you-are-my-little-pogchamp-come-here/
+- https://developer.wordpress.org/rest-api/extending-the-rest-api/adding-rest-api-support-for-custom-content-types/
+- https://docs.astro.build/en/guides/cms/wordpress/
+- https://www.tumblr.com/notaspecialname/728937918533599232
+- arbok
+- https://www.tumblr.com/naycelium/738629634620637184/an-arbok-mom
+- https://www.tumblr.com/garrett-06/737139427106783232/cuddleking01-thumpingdemon-my-heart-fighting
+- a
+- VERY DONE
+- https://git-scm.com/docs/gitignore
+- https://blog.colind.me/adding-japanese-visemes-to-avatars-for-vrchat/
+- https://github.com/ShyWolf42/Copy-to-MMD-Visemes
+- https://www.reddit.com/r/VRchat/comments/d53geq/help_cats_plugging_wont_translate_mmd_avatar_so/
+- https://booth.pm/en/items/5403906 **PAID**
+- https://booth.pm/en/items/3543652 **PAID**
+- https://booth.pm/en/items/5155699 **PAID**
+- https://assetstore.unity.com/packages/vfx/particles/fire-explosions/fireworks-collection-6037 **PAID**
+- https://youtu.be/h902r73QtGQ?si=9D8DAE4rM_nfOgGu
+- cvr world
+- https://www.youtube.com/watch?v=aNcZqriWgTE
+- https://www.youtube.com/watch?v=aNcZqriWgTE
+- https://www.youtube.com/watch?v=AqieYVRPWr4
+- https://www.youtube.com/watch?v=yQEqejsWt4M
+- ok done
+- Pls note pos. `25.25`, `-3.5`, `-39.25`
+- https://openupm.com/
+- https://openupm.com/packages/de.thryrallo.vrc.avatar-performance-tools/#close
+- https://github.com/Perkedel/After-Church/blob/master/RAW%20files/Blender/ChristmasTreeButTheLeavesAreFurs.blend
+- https://assetstore.unity.com/packages/3d/props/exterior/fairground-rides-4205 **PAID**. Dippy already ported most of these probably! Check `Dippy FunFair` world!
+- https://patreon.com/DiaDaDaNe
+- https://diadadane.gumroad.com **GONE** ARGH, mother-
+- https://discord.gg/n5vTED8 DiaDaDane discord
+- pls
+- https://discord.gg/aisponge pls check again
+- https://en.wikipedia.org/wiki/Ai_sponge
+- https://psychpsyo.booth.pm/ **ALL FREE** as of now
+- https://psychpsyo.booth.pm/items/4870447
+- https://psychpsyo.booth.pm/items/4327740
+- https://psychpsyo.booth.pm/items/3469736
+- https://psychpsyo.booth.pm/items/2721663
+- https://www.vseeface.icu/#virtual-camera-issues
+- http://deatrathias.net/TW/
+- https://vrm.dev/en/gltf/index.html **GONE**, now JP only
+- https://vrm-c.github.io/vrm.dev.en/index **NEW** for EN.
+- https://avatar.viverse.com/avatar/what-is-vrm
+- https://github.com/Thryrallo/VRC-Avatar-Performance-Tools
+- https://github.com/benaclejames/VRCFaceTracking
+- https://docs.vrcft.io/docs/intro/getting-started
+- https://3d.nicovideo.jp/alicia/ **PLEASE DOWNLOAD!!!**
+- https://benchmark.unigine.com/
+- https://porkisg00d.itch.io/ai-sponge-rebooted
+- Pls just repack everything we can.
+- https://github.com/PorkDevMode/
+- heartbeat sound pack pls
+- https://freesound.org/people/loudernoises/packs/18767/
+- https://freesound.org/people/.name/
+- https://freesound.org/people/.name/sounds/641231/
+- https://freesound.org/people/.name/packs/23663/
+- https://freesound.myspreadshop.com/
+- https://dippythefoxderg.gumroad.com/l/DipBestLoreBook BestBoy lore book!!!!!!!! Dippy got new file ported to CVR now!!!
+- https://dippythefoxderg.gumroad.com/l/DippyPushButt Pls credit this again for ParticleDrop stupid heart, because we took AudioSource setup from this Button.
+- https://skfb.ly/oFrJF Oh also, this my stupid heart
+- https://samvrc.gumroad.com **PAID**
+- https://skfb.ly/oNuWB
+- https://skfb.ly/oJBQU
+- https://dippythefoxderg.gumroad.com/
+- https://github.com/AcChosen/VR-Stage-Lighting/tree/e67854ff4d7c2ba9ad1c63083d3ab2ce74f6f459/Packages/com.acchosen.vr-stage-lighting/Runtime/Meshes Before Blender file removal
+- https://github.com/AcChosen/VR-Stage-Lighting/blob/e67854ff4d7c2ba9ad1c63083d3ab2ce74f6f459/Packages/com.acchosen.vr-stage-lighting/Runtime/Meshes/Backups/MoverLight--RTP-SplitMesh-DMX-Backups.blend
+- https://github.com/AcChosen/VR-Stage-Lighting/blob/e67854ff4d7c2ba9ad1c63083d3ab2ce74f6f459/Packages/com.acchosen.vr-stage-lighting/Runtime/Meshes/Backups/MoverLight--RTP-SplitMesh-Backups.blend
+- https://github.com/AcChosen/VR-Stage-Lighting/blob/e67854ff4d7c2ba9ad1c63083d3ab2ce74f6f459/Packages/com.acchosen.vr-stage-lighting/Runtime/Meshes/Other/testscreenshottesterrrr.blend
+- https://github.com/AcChosen/VR-Stage-Lighting/blob/e67854ff4d7c2ba9ad1c63083d3ab2ce74f6f459/Packages/com.acchosen.vr-stage-lighting/Runtime/Meshes/HQ%20Meshes/MoverLight-Bar-Mesh/MoverLightBar-Mesh.blend
+- https://github.com/AcChosen/VR-Stage-Lighting/blob/e67854ff4d7c2ba9ad1c63083d3ab2ce74f6f459/Packages/com.acchosen.vr-stage-lighting/Runtime/Meshes/HQ%20Meshes/MoverLight-WashLight-HQMesh.blend
+- https://github.com/AcChosen/VR-Stage-Lighting/blob/e67854ff4d7c2ba9ad1c63083d3ab2ce74f6f459/Packages/com.acchosen.vr-stage-lighting/Runtime/Meshes/HQ%20Meshes/MoverLight-Spotlight-HQMesh.blend
+- https://github.com/AcChosen/VR-Stage-Lighting/blob/e67854ff4d7c2ba9ad1c63083d3ab2ce74f6f459/Packages/com.acchosen.vr-stage-lighting/Runtime/Meshes/VRSL-LaserCone.blend
+- https://github.com/AcChosen/VR-Stage-Lighting/blob/e67854ff4d7c2ba9ad1c63083d3ab2ce74f6f459/Packages/com.acchosen.vr-stage-lighting/Runtime/Meshes/VRSL-AdvancedLaserConeWithShapes.blend
+- https://github.com/AcChosen/VR-Stage-Lighting/blob/e67854ff4d7c2ba9ad1c63083d3ab2ce74f6f459/Packages/com.acchosen.vr-stage-lighting/Runtime/Meshes/VRSL-AdvancedLaserCone.blend
+- https://github.com/AcChosen/VR-Stage-Lighting/blob/e67854ff4d7c2ba9ad1c63083d3ab2ce74f6f459/Packages/com.acchosen.vr-stage-lighting/Runtime/Meshes/StrobeLight-Non-Volumetric.blend
+- https://github.com/AcChosen/VR-Stage-Lighting/blob/e67854ff4d7c2ba9ad1c63083d3ab2ce74f6f459/Packages/com.acchosen.vr-stage-lighting/Runtime/Meshes/ParLight--RTP-SplitMesh.blend
+- https://github.com/AcChosen/VR-Stage-Lighting/blob/e67854ff4d7c2ba9ad1c63083d3ab2ce74f6f459/Packages/com.acchosen.vr-stage-lighting/Runtime/Meshes/MoverLight--RTP-SplitMesh.blend
+- https://github.com/AcChosen/VR-Stage-Lighting/tree/e67854ff4d7c2ba9ad1c63083d3ab2ce74f6f459/Packages/com.acchosen.vr-stage-lighting/Runtime/Textures
+- https://booth.pm/en/items/5271315 **PAID**
+- https://booth.pm/en/items/3669512 **PAID**
+- https://booth.pm/en/items/4757744 **PAID**
+- https://booth.pm/en/items/2756412 **VRChat Only**
+- https://booth.pm/en/items/4889902
+- https://llaser-warehouse.booth.pm/
+- https://booth.pm/en/items/3403933 **PAID**
+- https://booth.pm/en/items/5054709
+- https://blackpitvrc.booth.pm/
+- a
+- https://booth.pm/en/items/4054952 **PAID**
+- https://booth.pm/en/items/5314122 **PAID**
+- https://booth.pm/en/items/4782715 **PAID**
+- https://booth.pm/en/items/4766226 **PAID**
+- https://honokakaori.booth.pm/items/2336137 **PAID** is this one?
+- Think Defender 3D models pls?
+- https://www.deviantart.com/princessdevin302/art/Mini-Mega-Milk-735090611
+- https://www.deviantart.com/timeblitz/art/mega-milk-650365688
+- https://www.deviantart.com/jendratherabbit/art/M-E-G-A-M-I-L-K-721261544
+- https://www.deviantart.com/pit-of-darkness/art/MiasmA-Mega-Milk-256981605
+- https://www.deviantart.com/mijumarunr1/art/MMD-Milk-download-792008005
+- https://www.deviantart.com/nekomusic/art/Mega-Milk-and-Mega-Butt-505283925
+- https://github.com/Frostation/KK-Plugins-Compendium/blob/master/Plugins%20Compendium.md
+- https://github.com/Frostation/KK-Plugins-Compendium Koikatsu plugins
+- https://sketchfab.com/3d-models/jerma-3d-56237336b7914fccb26aa4ce9885cd5c **NO DOWNLOAD**
+- https://sketchfab.com/3d-models/mega-milk-shake-b97fc1ad8db34171b495d97175258b4b **NO DOWNLOAD**
+- https://www.deviantart.com/jinsters
+- https://jinsters.gumroad.com/l/padoru?layout=profile
+- https://jinsters.gumroad.com/ only one
+- https://www.deviantart.com/jinsters/art/PADORU-3D-Model-776247283
+- https://jinsters.booth.pm/
+- https://sketchfab.com/3d-models/padoru-vrchat-avatar-9b43a4de6cd54722bfce699f46933f83
+- https://www.deviantart.com/jinsters/art/Chibi-Nezuko-Demon-Slayer-3D-Model-815555362 **PAID**
+- https://www.deviantart.com/jinsters/art/Male-Aigis-Guygis-Persona-3-754486257
+- https://booth.pm/en/items/4610332
+- https://takehkun.booth.pm/
+- https://takehkun.booth.pm/items/4225277
+- pls make psa mod your cvr
+- https://feedback.abinteractive.net/p/can-t-log-into-the-forums
+- https://store.steampowered.com/app/1070910/Are_you_ready_for_Valve_Index/
+- https://blendermarket.com/products/candy-character-pack **PAID**
+- https://navillusstudio.gumroad.com/ ALL FREE for now
+- **The power of the sun, in the palm of my hand**
+- https://skfb.ly/oP7uS
+- https://sketchfab.com/ayushcodemate
+- OK
+- https://forum.unity.com/threads/released-unity-package-uninstaller-2-0.1036372/
+- https://assetstore.unity.com/packages/tools/utilities/package-uninstaller-2-35439 **GONE** I used this long ago!
+- https://github.com/mvnrc/Unity-Package-Uninstaller-1.3-legacy Wait no, what are you doing?
+- https://movinarc.com/unity-package-uninstaller **TRAIT**.. gone.
+- https://discussions.unity.com/t/how-to-completely-remove-an-asset-package/135297 let's not force install that coz that may cause trouble today.
+- https://docs.unity3d.com/Manual/upm-ui-remove-asset.html
+- https://razedrake.gumroad.com **JACKPOT**
+- Thancc, Dervali (Avali Showcase world)!!
+- https://cvr.lonewolfawoo.com
+- https://skfb.ly/ouAro
+- https://pm85122.onamae.jp FONT
+- https://pm85122.onamae.jp/85122font.html
+- https://pm85122.onamae.jp/851mkpop.html
+- https://booth.pm/en/items/3458481
+- https://github.com/Neradon/DisconnectSound
+- https://github.com/NotAKidOnSteam/SimpleAAS
+- https://github.com/NotAKidOnSteam/AASEmulator
+- https://github.com/AutumnFS/CVRMods
+- https://github.com/kawashirov/vrc2webp
+- https://github.com/kafeijao/cvr_osc_lib_py
+- https://github.com/NotAKidOnSteam/AvatarPointerGenerator
+- https://github.com/aniiiiiimal/obscontrol
+- https://github.com/WTFBlaze/Aristois-CVR
+- https://github.com/NotAKidOnSteam/PickupPushPull
+- https://github.com/NotAKidOnSteam/PickupPushPull
+- https://github.com/NotAKidOnSteam/PickupPushPull
+- https://github.com/NotAKidOnSteam/PortableCameraAdditions
+- https://github.com/NotAKidOnSteam/PathCamDisabler
+- https://github.com/Umbra999/CVR-HexBOT
+- https://github.com/CrispyPin/CVR-ConfigHack
+- https://github.com/NotAKidOnSteam/BadAnimatorFix
+- https://github.com/onlivfe/core
+- https://github.com/MintLily/NoVRCJustOtherGame
+- https://github.com/Umbra999/CVR-HexBOT
+- https://github.com/CrispyPin/CVR-ConfigHack
+- https://github.com/MistressPlague/ChilloutButtonAPI
+- https://github.com/NotAKidOnSteam/AASBufferFix
+- https://github.com/NotAKidOnSteam/NAK_CVR_Mods
+- https://github.com/onlivfe/chilloutvr_rs
+- https://github.com/Umbra999/CVR-HexClient
+- https://github.com/NotAKidOnSteam/PropUndoButton
+- https://booth.pm/en/items/4906392 **PAID**
+- https://booth.pm/en/items/4052918 **PAID**
+- https://booth.pm/en/items/4468861 **PAID**
+- https://booth.pm/en/items/4025480 **PAID**
+- https://github.com/bbible3/UnityLavaLamps FREE
+- https://booth.pm/en/items/4260173 **PAID**
+- https://github.com/bbible3/UnityLavaLamps yey!
+- https://twitter.com/antro3dcg/status/1717877495117275275
+- https://ko-fi.com/antro
+- https://github.com/NotAKidOnSteam/PropUndoButton
+- https://github.com/NotAKidOnSteam/AvatarScaleTool
+- https://github.com/NotAKidOnSteam/AvatarPointerGenerator/
+- https://github.com/NotAKidOnSteam/AASEmulator/ **HOW**: `Tools` top menu, `Enable AAS Emulator` option.
+- https://github.com/lyuma/Av3Emulator
+- https://twitter.com/KirbyDX55
+- https://sketchfab.com/kirbydx pls download
+- https://skfb.ly/6Y7tB the Spotlight!!!
+- https://sketchfab.com/DanartriDonuth
+- https://twitter.com/sasaminvrc/status/1271675744549142529 Niko Oneshot pls!!!!
+- https://skfb.ly/6BtIq
+- https://gumroad.com/kristifr **PAID**
+- https://www.turbosquid.com/FullPreview/2021011 FREE **FOR PERSONAL USE ONLY**
+- https://github.com/Brendan-Kirtlan/Minecraft-file-encoder encode files to Minecraft
+- https://youtu.be/z16rzIF5J40?si=oytbKcCMD5HaT-ri it's Bukkit plugin???
+- https://docs.unity3d.com/ScriptReference/HumanBodyBones.html
+- https://github.com/NotAKidOnSteam/AvatarPointerGenerator/ **Pls generate pointers!!!**
+- https://feedback.abinteractive.net/p/add-standard-pointer-name-references
+- https://feedback.abinteractive.net/p/add-standard-pointer-name-references
+- https://discord.com/channels/1001388809184870441/1001388935819309126/1168723262931480636
+- https://discord.com/channels/1001388809184870441/1001388935819309126/1168852114458562570
+- `GameObject.Instantiate` use `.` for accessing static methods
+- https://discord.com/channels/856570745726566411/856794862497693737/1199033001762377728
+- https://skfb.ly/6oKIn
+- https://booth.pm/en/items/2700477 **PAID**
+- https://darkpowers0819.gumroad.com **PAID**
+- https://discord.com/channels/410126604237406209/588350770777161748/1198865836455247983
+- https://discord.com/channels/410126604237406209/1004342533964439592/1198738654273753169
+- https://fxtwitter.com/EtiTheSpirit/status/1748399671054159968
+- https://github.com/keijiro/StandardTriplanar
+- https://discord.com/channels/410126604237406209/766086942005526579/1198375151843151983
+- cvr
+- https://discord.com/channels/410126604237406209/766086942005526579/1187151182683197531
+- https://discord.com/channels/410126604237406209/766086942005526579/1186297950050209813
+- https://interplayoflight.wordpress.com/2022/12/30/experimenting-with-fp16-in-shaders/
+- https://developer.nvidia.com/blog/advanced-api-performance-shaders/
+- https://gist.github.com/EtiTheSpirit/78b7f57da19323f9f9d8a392369b37f0 Xan
+- https://catlikecoding.com/unity/tutorials/rendering/part-19/
+- https://github.com/CuteWaterBeary/ShaderForge 2021 compatible
+- https://discord.com/channels/410126604237406209/766086942005526579/1179954506545496156
+- https://learn.microsoft.com/en-us/windows/win32/direct3dhlsl/dx-graphics-hlsl-variable-syntax
+- https://discord.com/channels/410126604237406209/766086942005526579/1176656970493739050
+- https://gist.github.com/EtiTheSpirit/3dce03d381396f390f8a073d0276d7c0
+- https://discord.com/channels/410126604237406209/766086942005526579/1176634995616514048
+- https://store.steampowered.com/news/app/661130/view/3796032312660573554
+- https://discord.com/channels/410126604237406209/766086942005526579/1176149412985184346
+- https://github.com/cnlohr/shadertrixx#detecting-if-you-are-on-desktop-vr-camera-etc
+- https://gist.github.com/EtiTheSpirit/78b7f57da19323f9f9d8a392369b37f0
+- https://github.com/CuteWaterBeary/ShaderForge **NEW 2021 COMPATIBLE** thancc SnekMach!
+- https://gist.github.com/EtiTheSpirit/3dce03d381396f390f8a073d0276d7c0
+- https://github.com/cnlohr/shadertrixx
+- ok
+- CVR pls
+- https://booth.pm/en/items/3259425
+- https://assetstore.unity.com/packages/vfx/shaders/urp-stylized-water-shader-proto-series-187485
+- https://fxtwitter.com/orzeeee/status/1738655606079214018?s=20
+- https://github.com/akasaki1211/AkBoneDynamics
+- https://github.com/naelstrof/UnityJigglePhysics
+- https://gist.github.com/EtiTheSpirit/78b7f57da19323f9f9d8a392369b37f0
+- https://catlikecoding.com/unity/tutorials/rendering/part-19/
+- https://github.com/CuteWaterBeary/ShaderForge
+- done
+- bottle spun cvr
+- https://youtu.be/bukZlq1tkdg?si=CRB_MWbsFuw0AHcG
+- https://youtu.be/DGnAtDKOcx8?si=ombj7mp6ya76BFhh
+- https://discord.com/channels/410126604237406209/588350770777161748/1159664275741220935
+- https://discord.com/channels/410126604237406209/588350770777161748/1003440157820735509
+- https://discord.com/channels/410126604237406209/588350770777161748/1003373088609669273
+- https://discord.com/channels/410126604237406209/588350770777161748/864658082863775824
+- https://discord.com/channels/410126604237406209/588350770777161748/1159668428769075250
+- https://discord.com/channels/410126604237406209/588350770777161748/1159664275741220935
+- https://feedback.abinteractive.net/p/extended-camera-view-distance
+- https://discord.com/channels/410126604237406209/588350770777161748/1110335729889988709
+- https://discord.com/channels/410126604237406209/588350770777161748/1187838621227696158
+- https://discord.com/channels/410126604237406209/588350770777161748/1189799149294588014
+- https://youtu.be/cbyCSvu1B9c?si=Xyv-XWHEnqoRXemz
+- https://youtu.be/9JCqTh3QFBY?si=r573rLun2R_ESqpI
+- https://youtube.com/shorts/87rZ7GEq-FQ?si=HppOVcwTeYUPlqSm
+- https://youtu.be/F8XzPJUPAkQ?si=Oyg-UM8vROSnmQVD
+- https://youtu.be/371a62Svbvs?si=n0EKnB79Udlzw11p
+- https://youtu.be/LcpWDTtQa_E?si=laVBwEEg5TLXeurF
+- https://youtu.be/sU8mj9lid0s?si=HzcfDtIbUD25hb-1
+- https://youtu.be/kEdYeQ3NJyQ?si=GrTYKdZ8RNI2aENA
+- https://www.thingiverse.com/thing:6395406
+- https://www.thingiverse.com/thing:6352206
+- https://www.thingiverse.com/thing:6359548
+- https://www.thingiverse.com/thing:6386630
+- https://www.thingiverse.com/thing:6371997
+- https://www.thingiverse.com/thing:6355752
+- https://www.thingiverse.com/thing:6357608
+- https://www.thingiverse.com/thing:6371997
+- https://youtu.be/7qNV3CN8fFE?si=FonnGNUJvW1aGNzU
+- https://youtu.be/2Q-WA4vxPEk?si=h99uJqxnhCZL0OGe
+- https://youtube.com/shorts/fuXMInseOD8?si=A6bRxlWrEZiJnUV4
+- https://youtube.com/shorts/8HqZz1YVsjs?si=7BS0Ynvidn3ClkER
+- https://youtube.com/shorts/qO8rz0_dxlE?si=oYVtvLFRCAqxUX1u
+- https://youtu.be/ar3gEAT2h28?si=oM22wVr0-twUehiX
+- https://youtu.be/gIjJTEJ7soQ?si=dIsfu0_aEMTNCwA0
+- https://youtu.be/9o__c8wNd3I?si=lAfT4gu78UbBqLoV
+- https://youtu.be/OPoqBIEvoj0?si=9JBmiOvyxocW7qxz
+- https://youtube.com/shorts/IeBzNzzFMLI?si=KIuaC7ZSso0M4cDa
+- https://youtube.com/shorts/rx9JELYVR2M?si=nnhTWh5AKC-9Vt-Z
+- https://youtube.com/shorts/utPN36QqUDk?si=W7nRITE-RsRHHXJB
+- https://youtube.com/shorts/49X1SiV0i60?si=i6-p1hnM9a_AD331
+- https://youtu.be/CjAC6gzrpOY?si=9qhWpJlTIut3Elkz
+- https://www.tiktok.com/@thewrapshackwc/video/7281330084785540395?is_from_webapp=1&sender_device=mobile&sender_web_id=6916407706849871362
+- https://youtu.be/IAov3P_3b6o?si=BzwwProonDX8gQwI
+- https://ark.media/record/12352
+- https://youtu.be/hTqw_CGCmNs?si=HZ0Qpw6p-iyidnFx
+- https://youtube.com/shorts/e8uuYda5wY4?si=Qx00KBGykFCbwBbR
+- https://youtu.be/a4wjM1TtbQs?si=yrpmjXw2GCdeJGPF
+- https://youtu.be/9_WZM5CuHpI?si=_CySHYkK10jV9kbd
+- https://youtu.be/BSE2RcVmw1w?si=4h0LsH3BThSIvgWB
+- https://youtu.be/EwX_wBj2f30?si=kv4g8TpZCehSKi-A pls inspire prop autospawn
+- https://youtu.be/ypXMnqYnzQk?si=Kjk6kj4wsOSSXykL pls 
+- https://youtu.be/sZQs02wRac0?si=mbaJ7e__QBf1zzsV
+- https://youtu.be/P8q9yB68PpA?si=zWDtipsNQA1w7BcY dreamcast tribute
+- https://youtu.be/X952GPffvFI?si=Ka8wmKuOqhoqKqv4 long
+- https://youtu.be/IuAKN-cuABk?si=NHGTM1vknPEh-3sh
+- https://youtu.be/VclMXzgkuGo?si=o-ozvUtVpTtN4rC9
+- https://youtu.be/EBZFlJDqnWY?si=eiWLzgg-O_fdRpuL
+- https://youtu.be/DyPW02nxSk4?si=hvlVPfI5jxfjOLOp
+- https://youtu.be/Om2JXAV4ZGQ?si=drCka-_95W2SNN92
+- https://youtu.be/z0uZ5xbrcp8?si=ywG2TINCBjcNhMIp
+- https://youtu.be/0F1RkebcoEI?si=NqEweRdT883usXu3
+- https://youtu.be/Oyq8Di01nN8?si=9hIPxdNQiT-da_fq
+- https://youtu.be/8c4-SmuvndQ?si=0zG-gRW0_B6t2joG
+- https://youtu.be/NtNrO5Cjwns?si=7q1yjTmEK6rnQBRt
+- https://youtu.be/HfeMfdCe9Tg?si=k4GvUlii3Yv-d-2k
+- https://youtu.be/FylHnsus4MQ?si=1-EwgUj4dyBK4kHT
+- https://youtu.be/CVDDtbiGDxA?si=tIlau5SDMMP89wwG
+- https://youtube.com/shorts/w2vKjnCFuK0?si=JKA2QxiX0NAQgmwd
+- https://youtube.com/shorts/RJTibrtEYW8?si=oe8RVQXVMBSAwrDW
+- https://youtube.com/shorts/1M19wiMQnSM?si=IJcbUmoLwKqX1-ny
+- deltarune
+- https://youtu.be/KTQyelrNqak?si=fsIJ7YjyR4m3c77_
+- https://youtu.be/oZy6eZVAB_I?si=ZUxMwOEwqbZ7f5NI
+- https://youtu.be/q1v98XAZaCQ?si=YbNnWVRVvqqe1Pll
+- https://youtu.be/SDROIPqPRKQ?si=iphkG4BzLaeLs2uu
+- https://youtu.be/RtpYObV4c1Y?si=zI5gsUGDoNkXMQOB
+- https://youtu.be/LXMNMbOJ9S8?si=tP8yzqTX7hmxwzwJ
+- https://youtu.be/lx4CQ-4hEVM?si=yUN4a28LNb91yjmd
+- https://youtu.be/UKOSnxWUOd0?si=Cv56KMny1Hgiiimt
+- https://youtu.be/E9BwxsHL4cE?si=Stm861Y1ogFezbGt
+- https://youtu.be/H1uOvpUdmkg?si=A5HGD3NJ26Gxa4Rr
+- https://youtu.be/vl0wRkiq8vg?si=EKDnFJwJYQyqMhXo
+- https://youtu.be/1kFTYw-dJeA?si=gaxOWtGoS54HMuQ3
+- https://youtu.be/rsBtS8nQkjw?si=P76HSCto6KgJhR60
+- https://youtu.be/LEgKjXZI4Mk?si=jGdCg_M4Ub8qPm6s
+- https://youtu.be/deHXOVySBCY?si=sKZzd9zlBpurZj-j
+- https://youtu.be/GmfM8VCAu-I?si=r5wwKL-eR7XneH45
+- https://github.com/termux/termux-packages/issues/6726
+- https://github.com/termux/termux-packages/issues/6726
+- https://www.dropbox.com/scl/fi/irpaebjwlu5v1c3mt4hzi/Android-Kali-NetHunter-Install-2.pdf?rlkey=65gpc275fy6sbkz0i19wlcj06&dl=0 david bombal instruction kali nethunter
+- https://youtube.com/shorts/A-iJcdtwW-k?si=CWytb4HHyZQuKJ89
+- https://youtube.com/shorts/nQPcNlwHZa4?si=cdrPafjVpR2nnpUw
+- https://youtu.be/6D4PAKuLE1A?si=Tr1CH6C9oEYmx6ho
+- https://youtu.be/lOKASgtr6kU?si=4yOW-NyuKka4EA13
+- https://youtu.be/9RhWXPcKBI8?si=jliCx17lvlvK-mPm
+- https://youtu.be/5YYxC1ZcgZU?si=B22cFIl8NExSNBCz
+- https://youtube.com/shorts/9ckkfCVMqH8?si=-1p25qxWkirE3rE8
+- https://youtube.com/shorts/fLHVzs0G8LA?si=popO9CaFe4RH40Jg
+- https://youtube.com/shorts/9PccvE7dzKU?si=Gt7RF0ZigW7NhQGt
+- https://youtube.com/shorts/Hbgb0sy9cLU?si=8HCvyYfeK2yMROBs
+- https://youtube.com/shorts/0GNwX8UOy4I?si=bvZ8pZz_N-jTxAq7
+- https://youtube.com/shorts/vOM9SBMs6wY?si=db4OsCKBowuDArDI
+- https://youtube.com/shorts/lVaDUNRK13Q?si=4_aA4TdTrN8MT2qx
+- https://youtube.com/shorts/ESctXHptQ04?si=IoMiufNx8v7jnSZZ
+- https://youtube.com/shorts/sZEw9pryOB0?si=PuWP-7tqcUs4Nmsn
+- https://youtube.com/shorts/Q5MghExNXyA?si=Er11RsExesZ7DhHB
+- https://youtube.com/shorts/6XwAfhsL4S8?si=YQHtIhlfNrqh0hay
+- https://youtube.com/shorts/_0Y7yVPaqC0?si=qSWjYVWdz3fkB5CH
+- https://youtube.com/shorts/3RGhlDJ6QRk?si=b6pbbhJ-3mVVIPH5
+- https://youtu.be/j9DSeBCplOc?si=F8hqgIZiPjKyCAxM
+- https://youtu.be/_P4VhmdLi4I?si=TrAyMSP9qJ93iErq
+- https://youtube.com/shorts/vJDupoAtd9k?si=M__yB4nqPmF0yRG3
+- https://youtu.be/lfN5qVoQtsI?si=tdCo_sCwqTFq7VAO
+- https://youtu.be/SIwjoAlej7o?si=GaS4tBoC6SrnqCaL
+- https://youtube.com/shorts/WsuJAuuD_rw?si=FINo5GMJYirLJcUe
+- https://youtube.com/shorts/Zo2NlBCtJpU?si=YUGxTgrVbUbk2TK3
+- https://youtube.com/shorts/2Ax2i_sQ6zk?si=V58bUsZAznM9lgvY
+- https://youtube.com/shorts/3kR-KBKqKW0?si=PlPe3DPiXk5vL3OX
+- https://youtube.com/shorts/4wj8-ksJzUo?si=DLNO6gFDstJtIsef
+- https://youtube.com/shorts/fg-TJYLRMOs?si=SHlzi9yqwtq_lAMU
+- https://youtu.be/dwWBfrMnYM0?si=3HsRwGZ7_06KU4ov
+- https://youtu.be/2wIwCLdKIvc?si=JrVzZk71VT06yi5d
+- https://youtu.be/oNT-9RBxN8s?si=fSFRACC81R61lOed
+- https://youtu.be/tYrLZGJjauU?si=pSfOKo_jIQyiWEGt
+- https://youtu.be/wQf6sDtmPVo?si=mkp9zoq9Nn4zw38j mio mao lalalalala
+- https://youtu.be/N8nX0SV_p7c?si=o_mUZBaKJdYRq7Fo
+- https://youtu.be/R9_uRLlnXSY?si=mARJVzgBwlK6os3x
+- https://youtu.be/wUw2fpJmY8I?si=oa5OSfFNb1mTKLFX
+- https://youtube.com/shorts/MqXAkCebTgM?si=z1C_2oWFgnbTJn_n
+- https://youtube.com/shorts/kJ-SJeVpwvg?si=ueM4OzW-bOAewmFp
+- https://youtube.com/shorts/TEQBUI4cpHI?si=M8nJPWyt5EHC8Sim
+- https://youtube.com/shorts/5wPJzdcVmUI?si=XNH-ySo6yGcDL3P4
+- https://youtube.com/shorts/TqPpHxxJWWA?si=cxKUBg9H5hPeM_i6
+- https://youtu.be/soxcRYUqD4Q?si=iwx2gjKmlbdoqSa1
+- https://youtu.be/3XXzNe5eWUA?si=g0ilXFD_dVrx0sef
+- https://youtu.be/COaKia8-oI4?si=QtBwUwbvwUe8nIXS
+- https://youtu.be/d4wLcI24eCg?si=y4ymMdw2ISOr7Agy
+- https://youtu.be/Db6ux01T83Q?si=K7F7Ox4u84AJxKGL
+- https://youtu.be/8e0DVPD-Aog?si=5Bphl4Ph30pZyARU
+- https://youtu.be/dlSWBGVwqKs?si=jT6tWHzWVrWZ8M7-
+- https://youtu.be/VhvlPJcS7e0?si=dMDKNhppcYxcXNf1
+- https://youtube.com/shorts/IR-GWM6M-7E?si=ir56ozm0JYAcp55J 
+- cvr
+- https://youtu.be/jwMO-ulKo2I?si=ZdaM3QX7UOueykzB
+- https://www.youtube.com/watch?v=HU2bwrVLkEU
+- https://youtu.be/MAsAYnBzudE?si=knpdwRSR7YsZMchC
+- https://youtu.be/haO_2r7kzLE?si=yamKBzQrqUiqM510
+- https://youtu.be/fYTOK89w8h0?si=LSZ6Ygh6CxxtLiaU
+- https://youtube.com/playlist?list=PLZ93iR4vt7mq_ahJiSQnR2YyhhtsX4RaK&si=Fpn4gxZ9db2ykhaL
+- https://youtu.be/jwMO-ulKo2I?si=ZdaM3QX7UOueykzB
+- https://tinny.gumroad.com/
+- https://creators.vrchat.com/avatars/creating-your-first-avatar/ in vrc sdk, there is sample Avatar dynamic bot girl
+- https://youtu.be/OFoYoErRa_o?si=mD1_zvmM52KHhLFc
+- https://youtube.com/playlist?list=PLZ93iR4vt7mrqWZT-mUTgB_RJyNjAMxRx&si=pmrgSQJ5zm2DirwH
+- done
+- Tirta the slime girl
+- https://twitter.com/eiden_2016/status/1743846974749888979?s=19
+- https://twitter.com/forever_gf618/status/1743746020746424570?s=19
+- https://www.tumblr.com/squeakitties/657263697427906560/i-got-a-really-really-big-commission-from
+- https://www.tumblr.com/squeakitties/671392246338371584/the-crew-found-themselves-on-hoxxes-iv-deep-rock
+- https://youtu.be/QRpK-UnpCT8?si=2YkjnfeC5wKb2Nq7
+- https://youtu.be/bDEtdwdHuo8?si=wfuJv-G76ITAmHRe
+- https://youtu.be/uXIgwpjcNa4?si=hvwn-22qV1naQyRt
+- https://youtu.be/pV0PMgp38gI?si=kYXSniNNOclxO19x
+- https://youtu.be/y-apZFPLSc4?si=SXZPqdtN2Enwh46q
+- https://youtu.be/vIaZhebkOJc?si=-HjOr7lXMeQRsVJn
+- https://youtu.be/bJyoqHnmoxc?si=ADA2I3f-PnSO3WqP
+- https://youtu.be/kCe9rumD1V4?si=6Yzc9bZQpyUk56Z0
+- https://youtu.be/e130xAPbGjw?si=pnNyLoJVK41qzmVN
+- https://youtu.be/O5QBETtyXZw?si=yIjAvbckrJCrXQBV
+- https://youtu.be/G-qTcZtQwGE?si=xnBLkkpgm6ApmS4_
+- https://twitter.com/OsoFurry/status/1686500501330821121
+- https://youtu.be/-1HXNxFkKwI?si=7GwXEuATDs87iu7t
+- mckamey
+- https://www.youtube.com/watch?v=f9mjwoLYGr0
+- https://www.youtube.com/watch?v=1cZGaoF4JN4
+- https://www.youtube.com/watch?v=uco9QbrDg7E
+- https://www.youtube.com/watch?v=g1Po07KkH98 sue
+- https://www.youtube.com/watch?v=Ck9Pc4aPjRc footage
+- https://www.youtube.com/watch?v=ckX-RuoEles shutdown
+- from ai sponge
+- https://discord.com/channels/990390355247644672/990390508264239155/1193664091932328036
+- done
+- https://youtu.be/oDhkj1FB32U?si=NGTcc5c1JYHhvcTv
+- https://vxtwitter.com/TeHappyHeartMan/status/1743831449277530129
+- https://www.tumblr.com/joelwindows7/738805813564571648
+- https://www.tumblr.com/joelwindows7/738893885555802112
+- https://www.tumblr.com/joelwindows7/738880920042520576
+- https://www.tumblr.com/joelwindows7/738872859474247680
+- spicyf4u
+- spicy4u
+- https://youtu.be/lvlOBN-eQVA?si=TZNejazC_Kwbnvzv
+- https://youtu.be/ag3L1fBPo54?si=yJFfGgPGdxlXa8jy
+- https://perkedeltechnologies.wordpress.com/2020/11/24/ugh-fine-i-guess-you-are-my-little-pogchamp-come-here/
+- https://developer.wordpress.org/rest-api/extending-the-rest-api/adding-rest-api-support-for-custom-content-types/
+- https://docs.astro.build/en/guides/cms/wordpress/
+- cvr pls
+- https://warrenwolfy.gumroad.com/
+- https://vinuzhka.gumroad.com/
+- https://wetcat.gumroad.com/
+- https://sanyacosmos.gumroad.com/l/VenusBodyVR
+- https://sanyacosmos.gumroad.com/
+- https://peeeep.gumroad.com/
+- https://gireison.gumroad.com/
+- https://alctrap.gumroad.com/
+- https://alctrap.gumroad.com/l/38b?layout=profile wtf
+- https://cicieaaavr.gumroad.com/
+- https://depressed.gumroad.com/
+- https://moonmango.gumroad.com/
+- https://23mink.gumroad.com/
+- https://sunnybunnie.gumroad.com
+- https://bunnybubble212.gumroad.com/
+- https://ultim8nik.gumroad.com/l/fafcj pomni
+- https://discord.com/channels/410126604237406209/797279576459968555/1189972363924733993
+- https://discord.com/channels/410126604237406209/797279576459968555/1019708265975783424
+- https://discord.com/channels/410126604237406209/797279576459968555/1019709401902366811
+- https://discord.com/channels/410126604237406209/797279576459968555/1019709581968035860
+- https://discord.com/channels/410126604237406209/797279576459968555/1019709854992044164
+- https://discord.com/channels/410126604237406209/797279576459968555/880253373662781450
+- https://discord.com/channels/410126604237406209/797279576459968555/1019707740521771058
+- https://discord.com/channels/410126604237406209/588350770777161748/1183196903761002537
+- https://discord.com/channels/410126604237406209/588350770777161748/773149374477762623
+- https://discord.com/channels/410126604237406209/588350770777161748/802167260076179477
+- PolyCount unity assets
+- https://discord.com/channels/410126604237406209/588350770777161748/802169542586662934
+- https://discord.com/channels/410126604237406209/588350770777161748/1002061861220528178
+- https://discord.com/channels/410126604237406209/588350726841827358/1189296880895668225
+- https://github.com/akasaki1211/AkBoneDynamics
+- https://discord.com/channels/410126604237406209/588350726841827358/1011305801467580476
+- tex
+- rex
+- https://gillscreations.gumroad.com/l/merinian
+- https://gillscreations.gumroad.com/
+- https://discord.com/channels/410126604237406209/588350726841827358/1150126067521159302
+- https://discord.com/channels/410126604237406209/588350726841827358/1001982894912319540
+- https://discord.com/channels/410126604237406209/588350726841827358/1011302687293317202
+- https://discord.com/channels/410126604237406209/588350726841827358/1011302763851940003
+- https://discord.com/channels/410126604237406209/588350726841827358/1011302614098526258
+- https://discord.com/channels/410126604237406209/588350726841827358/1011302532213116988
+- https://discord.com/channels/410126604237406209/588350726841827358/1011302494435029022
+- https://discord.com/channels/410126604237406209/588350726841827358/1011302246287417464
+- https://discord.com/channels/410126604237406209/588350726841827358/1011302382807822396
+- https://discord.com/channels/410126604237406209/588350726841827358/1011303106576924713
+- https://discord.com/channels/410126604237406209/588350726841827358/1011302987114758226
+- https://discord.com/channels/410126604237406209/588350726841827358/1011303727371649074
+- https://discord.com/channels/410126604237406209/588350726841827358/1011304133392879646
+- https://discord.com/channels/410126604237406209/588350726841827358/1011304422858575983
+- https://discord.com/channels/410126604237406209/588350726841827358/1011304632594731069
+- https://discord.com/channels/410126604237406209/588350726841827358/1011304786055942256
+- https://discord.com/channels/410126604237406209/588350726841827358/1011304833271214223
+- ok listen fuckheads. No no no, not any of you. You're cool. The fuckheads you gamers talking about. Yes. *Heavy Christian* & LGBT Phobic
+- fuckheads. I am Christian too, and I extremely hates LGBT wholeheartedly. But this does not constitute or is not ethical to restrict who customers shall use the assets.
+- I got fewer than you guys alone. But I always allow anyone use it. One day if I able to somehow make bunch of goth titty furries, I'll let all gamers use it. Guess what? My friend's right! You have no idea what do they use it for. Although, it's still ethical to prevent hate speech, but you got the point!
+- that's right, whoever straight, gay, lesbian, bi, whatever neogenders, atheists, islam, confucian, all and all, even the most juvenile uses, gore and shits (scat), **I shall not care**, and you should too.
+- https://discord.com/channels/410126604237406209/588350726841827358/1011304968084541520
+- https://discord.com/channels/410126604237406209/588350726841827358/1011304955929448458
+- https://discord.com/channels/410126604237406209/588350726841827358/1011305612958760970
+- https://discord.com/channels/410126604237406209/588350726841827358/1011305703836749915
+- ok to be fair tho, I also have an asshole move but it's still proposal. Is to no longer CC4.0-BY-SA and instead prevent Paywallism, Proprietarism, and Partialism. Because neither GNU, nor CC prevent any of these fucking shit from happening. Still in a thinking tho, not real yet. Be cool, I guess, so I don't be.... Evil, more like anti-hero.
+- I want to download but it's paid. We family already paid so much these days. Foods costs 1 digital files these days. Okay exageration, but remember inflations!
+- we then have to sort to sparsdat. But thankfully, because now I have trusted system and trusted payment method, I can buy legit. Look, we are not so poor. Only.... Parents paranoid what if got hacked only because of insertinf credit card info to a computer, I think that's it.
+- help others too will ya? If you got the money from this card, that same card who knows accidentally inserted to a sketchy ass store, whose developer did not carefully store their private keys safely. Just saying. Doesn't matter if Parrents stupid, IT experts who has been Doctor ranked (S3 Doktor) too! It's oblivious! Best trusted and popular store even the payment broker the store relied on can get hacked!
+- ok
+- family these days are insane.
+- everyday we see they are too restrictive and enforces too much.
+- causing religion to be more like, .... Faction.
+- (metal suspense)
+- if faction becomes too harsh and inappropriate, you will get out and in the end...
+- (metal suspense, show sample ID card parameter `religion` shows `null` meaning Atheist)
+- So, are you one of them?
+- one of the victims?
+- we can help.
+- tag cvr
+- .
+- .
+- https://youtube.com/shorts/Wu5QhaX_3HM?si=Z4mJuONSXnaU0Fyt
+- 📸 Lihat postingan ini di Facebook https://www.facebook.com/100064697106148/posts/755870973246133/?mibextid=NOb6eG
+- a
+- https://docs.google.com/spreadsheets/d/1lrE5EGtuDsrwRJNSHIEN9hsGggxzLHmDV5rwuHkmndQ/htmlview#gid=0 this
+- https://www.facebook.com/groups/MMDIndo/?ref=share&mibextid=NSMWBT from here
+- 📸 Lihat postingan ini di Facebook https://www.facebook.com/100078753532167/posts/348746671093781/?mibextid=NSMWBT
+- https://www.deviantart.com/aziib/art/Maya-Putri-3d-Model-ver1-01-MMD-Download-1004214586
+- https://x.com/Wake_Up_Deadman/status/1739788709715984493?s=20
+- https://x.com/eldoradoed_art/status/1739667137986433498?s=20
+- https://youtu.be/okFxRNBvZQ8?si=weMhD7Zl5hrgOQ9n
+- https://youtu.be/Z-MeAPXdKEY?si=ZNDYjVyxyNKVV5eo
+- cvr world
+- https://www.youtube.com/watch?v=aNcZqriWgTE
+- https://www.youtube.com/watch?v=aNcZqriWgTE
+- https://www.youtube.com/watch?v=AqieYVRPWr4
+- https://www.youtube.com/watch?v=yQEqejsWt4M
+- ok done
+- https://discord.gg/7rBmy6y ItzNatsuki Discord
+- https://skfb.ly/oPG6o
+- Dotflare pls
+- https://emperorofmars.gumroad.com
+- https://emperorofmars.itch.io
+- https://github.com/emperorofmars/stf-unity
+- https://github.com/emperorofmars/ava-unity
+- https://tips.orels.sh/ies-profile-generator
+- https://tips.orels.sh/
+- https://cndl.io/
+- https://teodutra.com/unity/shaders/urp/graphics/2020/05/18/From-Built-in-to-URP/
+- https://github.com/pema99/shader-knowledge
+- https://github.com/Unity-Technologies/com.unity.gis.high-precision-framework Please try Double Precission Float?
+- https://github.com/sldsmkd/vector3d
+- https://dev.to/tandrieu/how-to-handle-double-precision-coordinates-in-unity--1j40
+- https://www.shadertoy.com/view/Xd2BWm Balloon flight
+- https://github.com/AcChosen/VR-Stage-Lighting/tree/e67854ff4d7c2ba9ad1c63083d3ab2ce74f6f459/Packages/com.acchosen.vr-stage-lighting/Runtime/Meshes/HQ%20Meshes **Redownload Blend file pls**
+- https://ko-fi.com/s/88d2812887
+- https://www.tumblr.com/joelwindows7/740299257700040704?source=share
+- https://glaze.cs.uchicago.edu/downloads.html **Anti-AI**
+- https://glaze.cs.uchicago.edu/index.html
+- https://nightshade.cs.uchicago.edu/ Nightshade too pls!
+- https://glaze.cs.uchicago.edu/software/Glaze-LICENSE.pdf
+- https://glaze.cs.uchicago.edu/webglaze.html
+- https://glaze.cs.uchicago.edu/webglaze.html
+- https://revit.gumroad.com
+- https://revit.gumroad.com/l/QHWXq **PAID**
+- https://file-converter.org pls check. ChrisTitus again.
+- https://youtu.be/5OJPXX2jv6M?si=1VqeFZ_8rFKJ6ODX
+- Pls thancc SketchFoxky for inspiring us to make configurable dice!
+- https://gum.co/mantlenicojedi
+- https://gum.co/batdal **PAID**
+- https://gum.co/kobodal **PAID**
+- https://x.com/nicoreda FREE
+- https://linktr.ee/nicoreda **FILES**
+- https://gum.com/protodal **PAID**
+- https://nicoreda.gumroad.com/l/Kobodal **PAID**
+- https://nicoreda.gumroad.com/
+- https://nicoreda.gumroad.com/l/batdal **PAID**
+- https://nicoreda.gumroad.com/l/sergodal **PAID**
+- https://nicoreda.gumroad.com/l/protodal **PAID**
+- https://nicoreda.gumroad.com/l/felidal **PAID**
+- https://nicoreda.gumroad.com/l/mantlednicojedi **PAID**
+- https://socel.net/@Nicoreda is on socel's Mastodon!
+- https://bsky.app/profile/nicoreda.bsky.social Nicoreda's Bluesky
+- http://twitch.tv/nicoredatv Twitch
+- http://discord.gg/nicoreda Nicoreda Discord
+- https://discord.gg/b3dQ4QHh FoxHole. the description of `FoxHole` World from FoxSerito
+- https://mondocat.tv MondoCat's Karaoke. `Mondo's Karaoke Boba Bar`
+- `On The Edge` on Sketchfab??? Fenrir port
+- awsd
+- Silent Shader
+- https://gitlab.com/s-ilent/SCSS/-/releases
+- https://gitlab.com/s-ilent/fake-glass
+- https://gitlab.com/s-ilent/fake-smoothness
+- https://gitlab.com/s-ilent/HologramShader
+- https://gitlab.com/s-ilent/filamented
+- https://gitlab.com/s-ilent/clear-water
+- a
+- https://gitlab.com/s-ilent/standard-subsurface-scattering
+- https://gitlab.com/s-ilent/sunshine-flare
+- https://gitlab.com/users/s-ilent/projects
+- OK
+- a
+- a
+- https://youtu.be/yFvSDMsSWUQ?si=bHaibgLkWXiMXLGn
+- https://github.com/chrislo27/RhythmHeavenRemixEditor/ Rhythm Heaven Remix Editor!!!
+- https://youtu.be/yGhcy0zx-B8?si=9bFFlvgE9_hvzfGz hyvat dreamcast
+- https://alex-free.github.io/video2dreamcastdisc/ convert video to dreamcast
+- `bluethefox` & `KANNA KOBAYASHI` Banned.
+- cvr
+- https://github.com/TwoTailsGames/Unity-Built-in-Shaders/blob/master/DefaultResourcesExtra/Skybox.shader
+- https://discord.com/channels/410126604237406209/588350726841827358/1199777318537793587
+- https://discord.com/channels/410126604237406209/766086942005526579/1075090431760674869
+- https://discord.com/channels/410126604237406209/766086942005526579/1075090431760674869 bluethefox
+- ok
+- pls find smug jar tumblr
+- a
+- a
+- https://skfb.ly/XYLZ
+- https://sketchfab.com/kurofeadra Wendy Yang. **only that mobius dice downloadable** as of today
+- https://skfb.ly/6WQuP
+- https://sketchfab.com/smithb6
+- https://skfb.ly/6oFLq
+- https://sketchfab.com/JayDesigns
+- https://booth.pm/en/items/5236104 **PAID** found in Hanz's port of this
+- https://booth.pm/en/items/3818504 FREE. found in Hanz's port of this
+- maysplash
+- https://www.furaffinity.net/view/51219514/ mayosplash
+- https://www.furaffinity.net/gallery/mayosplash/
+- https://www.buymeacoffee.com/mayosplash/extras **PAID**
+- https://mayosplash34.gumroad.com/l/dilce?layout=profile **PAID**
+- https://mayosplash34.gumroad.com/ **PAID**
+- https://inkbunny.net/gallery/zebjo/1/39574abbb7 Zebjo has been banned on smutbase!
+- https://smutba.se/user/8174/ Zebjo gone
+- False alarm, still exist
+- https://smutba.se/project/36334/ wait what?
+- https://smutba.se/project/36334/ no it...
+- damn it. I swear, it was 404!!!
+- https://twitter.com/zebjzz/status/1750703860086157710
+- fucking hell. next!
+- https://skfb.ly/oJSFy rat low poly
+- https://skfb.ly/6UWoN
+- https://sisters.booth.pm
+- https://sketchfab.com/c3posw01 pls download Maksim Batyrev. Chen has tanks ported here
+- https://assetstore.unity.com/packages/3d/environments/sci-fi/polygon-sci-fi-worlds-low-poly-3d-art-by-synty-206299 **PAID**
+- https://skfb.ly/onnNN
+- `CVRprog/`
+- https://skfb.ly/oEKvr gun
+- https://skfb.ly/oJDSw
+- https://www.notebookcheck.net/Digital-master-tapes-of-the-3D-series-Reboot-found-but-a-playback-device-is-lacking.788415.0.html
+- https://skfb.ly/oIG8B pls select Titan
+- Eliza waaaa
+- cvr
+- https://discord.com/channels/410126604237406209/588350726841827358/1201844857002262588
+- ok
+- cvr
+- https://youtu.be/k74qhtLJKCc
+- https://youtu.be/1u82E9o2qRk?si=IWPMd0-VnaZ96qea
+- https://youtube.com/@MysticWorldsStudios?si=WwOKBpVwXrUh5uxF
+- ok
+- https://github.com/michael-bill/perfect-circle
+- https://github.com/open-simh/simh SIMH pls
+- Pls Cinematography Hub world by StoneForged
+- https://skfb.ly/ooDCo
+- https://skfb.ly/oFSJL
+- https://skfb.ly/ozOIv
+- https://speed.booth.pm
+- https://assetstore.unity.com/publishers/28391
+- https://assetstore.unity.com/packages/vfx/particles/fire-explosions/fireworks-pack-with-sounds-3d-2d-123720 **PAID** it's this one?
+- https://github.com/Perkedel/After-Church/blob/master/RAW%20files/Inkscape/Perkedel_Desktop_Wallpaper_padded.png
+- https://github.com/Perkedel/After-Church/blob/master/RAW%20files/Inkscape/Perkedel_Desktop_Wallpaper.svg
+- https://github.com/Perkedel/After-Church/blob/master/RAW%20files/Inkscape/Perkedel_Desktop_Wallpaper.png
+- https://github.com/Perkedel/After-Church/blob/master/RAW%20files/Inkscape/Perkedel_Desktop_Wallpaper_decay.png
+- https://github.com/Perkedel/After-Church/blob/master/RAW%20files/Inkscape/Perkedel_Desktop_Wallpaper_decay_dried.png
+- https://github.com/Perkedel/After-Church/blob/master/RAW%20files/Inkscape/Perkedel_Desktop_Wallpaper_decay_dried_padded.png
+- https://github.com/Perkedel/After-Church/blob/master/RAW%20files/Inkscape/Perkedel_Desktop_Wallpaper_decay_padded.png
+- https://github.com/Perkedel/After-Church/blob/master/RAW%20files/Inkscape/Perkedel_Desktop_Wallpaper_dried.png
+- https://github.com/Perkedel/After-Church/blob/master/RAW%20files/Inkscape/Perkedel_Desktop_Wallpaper_dried_padded.png
+- https://github.com/Perkedel/After-Church/blob/master/RAW%20files/Inkscape/Perkedel_Desktop_Wallpaper_padded.png
+- https://gitlab.com/s-ilent/filamented
+- https://gitlab.com/s-ilent/fake-glass
+- https://gitlab.com/s-ilent/SCSS/-/wikis/Other/Reflection-Probes
+- Gurumi's GIF port pls
+- https://tenor.com/users/riri-zpt
+- https://youtu.be/Tmmh0K23W4s
+- https://discord.com/channels/410126604237406209/766087403609391165/1197269001882054726
+- https://docs.gimp.org/en/gimp-tool-hue-saturation.html
+- photon audio aaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+- https://skfb.ly/UpNK
+- https://booth.pm/en/items/3564947 **PAID**
+- https://nagatorokoyori.booth.pm/
+- https://studio.blender.org/blog/cartoon-character-shading-with-geometry-nodes/?utm_medium=homepage
+- https://studio.blender.org/blog/introducing-bbatch/?utm_medium=homepage
+- https://mastodon.social/tags/geometrynodes
+- https://mastodon.social/tags/geometrynodes
+- https://mastodon.social/@cmzw/111868333833490952
+- https://ko-fi.com/cmzw_/shop
+- https://youtu.be/TGpxr52jYHk?si=aJBoRSKZRiJUZG12 how to heart Blender
+- https://youtube.com/shorts/nSKiieDLO4E?si=u0CxTGKb8R322gOA how to star
+- https://flycatfly.gumroad.com/ **PAID**
+- https://youtu.be/3SWzQ-e2k3Y?si=C2m27evDSjfGG2vw
+- http://www.lua.org/images/
+- https://en.m.wikipedia.org/wiki/File:Lua-Logo.svg
+- https://en.m.wikipedia.org/wiki/File:Lua-Logo.svg
+- https://prod.support.services.microsoft.com/en-us/windows/support-for-fbx-files-has-been-turned-off-in-3d-viewer-b7483e83-422c-4d65-b94d-853eb65cb134
+- https://tavii.gumroad.com
+- https://tavii.gumroad.com/l/LegacyMouse **PAID**
+- https://lolpoly.gumroad.com/
+- https://skfb.ly/6QVtM
+- https://vmwaros.blogspot.com/p/download.html
+- https://sites.google.com/view/arosone
+- https://youtu.be/PtDiXhjSIfs?si=WNfr65sh1xXzdxV6
+- https://youtu.be/-OA28r8Up5U?si=LiZQMTuNu_JvQ1xh
+- https://aros.org
+- https://trivaliyis.gumroad.com/l/ctfdh **PAID**
+- https://www.furaffinity.net/view/51947342/
+- https://www.deviantart.com/anasjifjdjf/art/Kandy-The-Kangaroo-Kandyland-Proyect-934031806
+- https://www.deviantart.com/deviantartuser3214am/art/Suzy-Snacktime-Blender-Release-950906216 do not forget kandyland blender suzy snacktime
+- https://trivaliyis.gumroad.com/l/wkbifc **PAID**
+- https://www.deviantart.com/titi770/art/Kandy-Kangaroo-Model-By-Titi-Me-Release-955818148 and kangaroo
+- https://skfb.ly/oOyXv pls download machinery
+- https://vertexarcade.gumroad.com/l/adjustable-mannequin **PAID**
+- https://vertexarcade.gumroad.com/
+- https://www.vertexarcade.com/store/p/adjustable-mannequin **PAID**
+- https://youtu.be/B2xJCZHdae4?si=4BZhc-5DWIkAIhhE
+- https://youtu.be/gLdZzjxGCS0?si=UEqL0fKTDCPjeWfG Ducky3D Blender LED screen
+- https://github.com/ChristinaRika/EasyHDRI
+- https://youtu.be/oP66AHZwzWY?si=84ibKDE3OfeUX_5-
+- https://youtu.be/oP66AHZwzWY?si=84ibKDE3OfeUX_5-
+- https://youtu.be/oP66AHZwzWY?si=84ibKDE3OfeUX_5-
+- https://youtu.be/oP66AHZwzWY?si=84ibKDE3OfeUX_5-
+- https://github.com/mohsenph69/Godot-MTerrain-plugin Godot Mterrain compress heightmap terrain
+- https://graymoreplus.booth.pm/items/4913158
+- https://sketchfab.com/Idiotic_genius
+- https://www.reddit.com/r/signalis/comments/ykfp2t/spoilers_datamined_sprites_textures_models/
+- https://rose-engine.org/
+- https://rose-engine.org/signalis/
+- https://rose-engine.org/press/sheet.php?p=signalis
+- https://www.deviantart.com/thesilverbluemoon/art/SIGNALIS-MMD-ELSTER-Model-DL-939447015
+- https://trivaliyis.gumroad.com/l/ctfdh **PAID**
+- https://trivaliyis.gumroad.com/
+- https://youtube.com/shorts/kiaK0rAtlD0?si=IcCb40V_zxJoo7pO softy heart SouthernShotty
+- https://youtu.be/qNba2oEij2c?si=F4Hgk7t_wGiPU1yr IanHubert appocalyptic scene
+- https://youtu.be/4EqLyGsu3AA?si=uB0ElUfgi6pSkO9q CG Geek rock 1 minute
+- https://pathtrace.gumroad.com/
+- https://assetstore.unity.com/packages/tools/level-design/non-convex-mesh-collider-automatic-generator-117273 **PAID**
+- https://stackoverflow.com/questions/64089586/how-to-handle-non-convex-meshcollider-with-non-kinematic-rigidbody-is-no-longer
+- https://stackoverflow.com/a/64116273/9079640
+- https://youtu.be/SckcB099zrg?si=hxBaq3jKA4v73C4f doorbell fell
+- https://youtu.be/eev9tyePDnc?si=CQQkOTuD8ngtABFQ doorbell fell origin
+- https://assetstore.unity.com/packages/3d/environments/landscapes/low-poly-simple-nature-pack-162153
+- https://stackoverflow.com/questions/64089586/how-to-handle-non-convex-meshcollider-with-non-kinematic-rigidbody-is-no-longer
+- https://assetstore.unity.com/packages/3d/3d-game-kit-props-pack-135218
+- https://assetstore.unity.com/packages/3d/3d-game-kit-props-pack-135218
+- https://assetstore.unity.com/packages/3d/props/weapons/free-magic-swords-97694
+- https://assetstore.unity.com/packages/3d/props/weapons/fantasy-moon-sword-155333
+- https://assetstore.unity.com/packages/3d/props/aaa-quality-road-barricades-142191
+- https://assetstore.unity.com/packages/3d/props/industrial/dirty-wooden-crate-111956
+- https://assetstore.unity.com/packages/3d/environments/historic/medieval-tent-big-19023
+- https://assetstore.unity.com/packages/3d/environments/fantasy/medieval-tent-small-18736
+- https://assetstore.unity.com/packages/3d/prototyping-pack-free-94277
+- https://assetstore.unity.com/packages/3d/characters/humanoids/sci-fi/free-test-character-asuna-205897
+- https://assetstore.unity.com/packages/p/free-sound-effects-pack-155776
+- https://assetstore.unity.com/packages/p/3d-free-modular-kit-85732
+- https://assetstore.unity.com/packages/3d/environments/planets-of-the-solar-system-3d-90219
+- https://assetstore.unity.com/packages/3d/props/guns/sci-fi-gun-light-87916
+- https://assetstore.unity.com/packages/3d/environments/low-poly-rock-pack-57874
+- https://assetstore.unity.com/packages/3d/environments/planets-of-the-solar-system-3d-90219
+- https://assetstore.unity.com/packages/3d/environments/landscapes/flatpoly-winter-village-51544
+- https://assetstore.unity.com/packages/tools/particles-effects/breakable-windows-110383
+- https://assetstore.unity.com/packages/vfx/particles/action-rpg-fx-38222 **PAID**
+- https://assetstore.unity.com/packages/p/3d-props-adorable-foods-31249
+- https://assetstore.unity.com/packages/3d/props/food/3d-props-bakery-object-17167
+- https://assetstore.unity.com/packages/3d/environments/dungeons/3d-props-cartoon-box-map-50743
+- https://assetstore.unity.com/packages/3d/environments/fantasy/3d-the-blacksmith-s-house-252972
+- https://assetstore.unity.com/packages/3d/characters/humanoids/fantasy/3-free-characters-18098
+- https://assetstore.unity.com/packages/3d/characters/animals/animals-free-260727
+- https://assetstore.unity.com/packages/3d/characters/animals/animated-goat-and-sheep-3d-low-poly-free-251910 **GONE**
+- https://skfb.ly/6YqOQ Wall-E
+- https://youtu.be/w3KLS9-zR3Y?si=d0OtSWnlQFnqF7UW EVE pls download
+- https://youtu.be/b_tAbc4FmXk?feature=shared
+- https://youtu.be/mVpxvYrEMHI?si=u2gRL9NEl30bJOUp
+- https://ko-fi.com/s/036480150d SONIC
+- https://youtube.com/shorts/SZjp3AGn-_E?si=euXc3bT-RgzCkKEt
+- https://gumroad.com/jordanbeatty **JACKPOT toon boom 2d**
+- https://www.pixiv.net/en/artworks/115790351
+- https://www.deviantart.com/titi770/art/Two-glamrock-on-cave-4-978914774
+- https://www.deviantart.com/titi770/art/Kandy-Kangaroo-Model-By-Titi-Me-Release-955818148
+- https://www.deviantart.com/titi770/gallery/87045459/release-3d-model
+- https://steamcommunity.com/sharedfiles/filedetails/?id=2973158825
+- https://www.deviantart.com/titi770/art/Minireena-SFM-Release-960234839
+- https://www.deviantart.com/titi770/art/Ballora-Model-Prisma-3D-943703753
+- https://steamcommunity.com/sharedfiles/filedetails/?id=2968769814
+- https://www.deviantart.com/deviantartuser3214am/art/SuzySnacktime-Release-1008207381
+- https://www.deviantart.com/deviantartuser3214am/art/Suzy-Snacktime-Blender-Release-950906216
+- https://www.deviantart.com/deviantartuser3214am/gallery/87199480/released-models
+- https://www.deviantart.com/deviantartuser3214am/art/Mr-Smiles-Release-1008209480
+- https://www.deviantart.com/deviantartuser3214am/art/Stylized-Suzy-Snacktime-Release-970045754
+- https://www.deviantart.com/deviantartuser3214am/art/Stylized-Ballora-Release-957518441
+- https://www.deviantart.com/deviantartuser3214am/art/Glamrock-Ballora-Release-957333952
+- https://www.deviantart.com/deviantartuser3214am/art/Kandy-Kangaroo-Blender-Release-957036191
+- https://www.deviantart.com/deviantartuser3214am/art/GlamRock-Circus-Baby-Blender-Release-956966091
+- https://discord.com/channels/410126604237406209/797279576459968555/1067915169579147385
+- https://discord.com/channels/410126604237406209/797279576459968555/1014402137381425213
+- https://assetstore.unity.com/packages/tools/physics/concave-collider-4596 **GONE**
+- https://docs.google.com/document/d/1-Ligv580j0qncl-03Pq_SWJhioYAbvr33DVzLX9BKY0/edit
+- https://discord.com/channels/410126604237406209/797279576459968555/1067890757026979921
+- https://discord.com/channels/410126604237406209/588350726841827358/1067453705831583835
+- https://docs.google.com/document/d/1vWB3VN98i7erA8anywUxxGoT39hrh8oHMmU6uaAnGu0/edit?usp=sharing
+- https://discord.com/channels/410126604237406209/797279576459968555/1179090007236026418
+- https://discord.com/channels/410126604237406209/797279576459968555/1116628650176020520
+- https://discord.com/channels/410126604237406209/797279576459968555/1116813889611505737
+- https://discord.com/channels/410126604237406209/797279576459968555/1116814455746080899 Racush. use custom trigger. from animation, trigger event, and then catch it to here this prop that will launch other method.
+- https://3d.nicovideo.jp/works/td85893 Bocchi pls
+- https://sp.seiga.nicovideo.jp/seiga/#!/im3206150 chair
+- https://discord.com/channels/410126604237406209/797279576459968555/1205566494076047410
+- https://lucasroedel.gumroad.com/l/psx_snapping
+- https://forum.unity.com/threads/free-open-source-shell-based-fur-shader-for-urp.1295112/
+- https://github.com/jiaozi158/ShellFurURP
+- https://github.com/hecomi/UnityFurURP
+- https://warrenwolfy.gumroad.com/l/atntv
+- https://github.com/Sorumi/UnityFurShader
+- https://bom39.gumroad.com
+- https://discord.com/channels/410126604237406209/588350726841827358/1162243310077882450
+- VoyVivika's club world got these!
+- https://skfb.ly/osxsY
+- AmbientCG textures
+- https://github.com/Nirv-git/CVRPlayersOnlyMirror
+- https://booth.pm/en/items/4494082
+- https://skfb.ly/oGyFo **GONE** Cartoon Balloon
+- https://skfb.ly/6tLIx
+- https://skfb.ly/6DCRI
+- OK
+- https://skfb.ly/oGYFo **PAID**. wrong file!
+- https://assetstore.unity.com/packages/vfx/shaders/parallax-shader-76273 **PAID**
+- https://gist.github.com/enghqii/f9c62749e9589cc28925125e6aff9676
+- https://gist.github.com/Saduras/f0464266a2d217e3ee31649fce635a03
+- https://valuef.gumroad.com/l/goo **PAID**
+- https://assetstore.unity.com/packages/vfx/easy-slime-243835 **PAID**
+- https://github.com/blewert/funky-unity-shaders
+- https://www.renderosity.com/forums/threads/2864993
+- https://www.reddit.com/r/Unity3D/comments/9j3kqc/slime_shader_in_unity/
+- https://www.shadertoy.com/view/4tVyWt
+- https://www.shadertoy.com/view/lllBDM
+- https://github.com/smkplus/ShaderMan
+- https://youtube.com/shorts/Jh8ezn2Lxyw?si=efAu7msppMxrBke5 blender model beaker
+- https://renderawoo.gumroad.com/l/renpen
+- https://discord.com/channels/410126604237406209/588350770777161748/1012922926653259866
+- https://renderawoo.gumroad.com/l/wyren **PAID**
+- https://discord.com/channels/410126604237406209/588350770777161748/1009197015370055831
+- https://discord.com/channels/410126604237406209/588350770777161748/1138936140636893345
+- https://discord.com/channels/410126604237406209/797279576459968555/1011760378646118461
+- https://discord.com/channels/410126604237406209/1004342104383815681/1009160385900855346
+- https://discord.com/channels/410126604237406209/797279576459968555/912897308297920552
+- https://discord.com/channels/410126604237406209/797279576459968555/912491615979986944
+- https://discord.com/channels/410126604237406209/797279576459968555/1111675628769525793
+- https://discord.com/channels/410126604237406209/797279576459968555/1111678536105869382
+- https://discord.com/channels/410126604237406209/797279576459968555/1111679294612185128
+- https://discord.com/channels/410126604237406209/797279576459968555/1112024276585939069
+- https://discord.com/channels/410126604237406209/797279576459968555/1111674531774484500
+- https://discord.com/channels/410126604237406209/797279576459968555/1110936417716150384
+- https://discord.com/channels/410126604237406209/588350726841827358/1094791541446418532
+- blend tree???
+- MrTactical excercise
+- one knee kneel, stretch the other, and body pulls
+- neck go down, chin to chest pin it, and swing stretch left right.
+- eye close, move eye maximum rotate, then relax
+- OK
+- https://emperorofmars.itch.io
+- Communism vs. Capitalism film?!??!?!?!?!??!
+- https://archive.org/details/Win95-audio-media/Windows+95+audio+media
+- https://github.com/GorujoCY/Youtube-Video-Summarizer
+- https://github.com/TwoTailsGames/Unity-Built-in-Shaders/blob/master/DefaultResourcesExtra/Skybox.shader
+- https://github.com/TwoTailsGames/Unity-Built-in-Shaders/
+- https://discord.com/channels/410126604237406209/766086942005526579/1199918988319281435
+- https://discord.com/channels/410126604237406209/412210535443202049/1203764354026053703
+- https://discord.com/channels/410126604237406209/588350685255565344/1198126631508783234
+- https://discord.com/channels/410126604237406209/412210535443202049/1193702801868591185
+- https://github.com/renzenicolai/openbmc-x570d4u-old
+- https://github.com/renzenicolai/openbmc-x570d4u
+- https://discord.com/channels/410126604237406209/588350726841827358/1189315424517636136
+- https://github.com/akasaki1211/AkBoneDynamics
+- https://discord.com/channels/410126604237406209/588350726841827358/1189287103981436978
+- https://github.com/naelstrof/UnityJigglePhysics
+- https://discord.com/channels/410126604237406209/588350685255565344/1188117178210332742
+- https://github.com/timvisee/send-instances/
+- https://discord.com/channels/410126604237406209/588350685255565344/1187877561863262249
+- https://github.com/knah/CVRMelonAssistant
+- https://discord.com/channels/410126604237406209/1001657345522282657/1185710526244859934
+- https://discord.com/channels/410126604237406209/689949650614091827/1183635831940984872
+- https://github.com/Genymobile/gnirehtet/
+- https://github.com/c-devhax/SQLite3-Shell
+- https://github.com/GorujoCY/SQLite3-Shell
+- https://discord.com/channels/410126604237406209/1004342104383815681/1180982739365806191
+- https://github.com/MachMX/Advanced-Laydown-System
+- https://github.com/MachMX
+- https://github.com/MachMX/CCK.BaseAnimatorPatch
+- https://github.com/NotAKidOnSteam/CCK.BaseAnimatorPatch
+- https://discord.com/channels/410126604237406209/766086942005526579/1179954506545496156
+- https://github.com/CuteWaterBeary/ShaderForge
+- https://discord.com/channels/410126604237406209/689949650614091827/1179877960598159421
+- https://github.com/GPUOpen-LibrariesAndSDKs/Radeon-ReLive-VR
+- https://discord.com/channels/410126604237406209/588350726841827358/1177360897283469333
+- https://discord.com/channels/410126604237406209/588350726841827358/1177360897283469333
+- https://github.com/imagitama/vrc3cvr
+- https://discord.com/channels/410126604237406209/588350726841827358/1174602512792289300
+- https://github.com/hai-vr/combo-gesture-expressions-av3
+- https://booth.pm/en/items/5121665
+- https://discord.com/channels/410126604237406209/689949650614091827/1165406459648032889
+- https://github.com/BunniKaitlyn/OculusKiller
+- https://discord.com/channels/410126604237406209/766086942005526579/1159132848872231032
+- https://github.com/unity3d-jp/UnityChanToonShaderVer2_Project/blob/release/legacy/2.0/Manual/UTS2_Manual_en.md
+- https://discord.com/channels/410126604237406209/766086942005526579/1154157790366023811
+- a
+- a
+- https://github.com/AkaiMage/VRC-Cancerspace/commit/7ae023518cbbaacaa3de879259548b2bdcf53bba
+- https://github.com/AkaiMage/VRC-Cancerspace
+- https://discord.com/channels/410126604237406209/412210535443202049/1152610992044392589
+- https://discord.com/channels/410126604237406209/412210535443202049/1152301124104224839
+- https://discord.com/channels/410126604237406209/696083224648220762/1148429137690755182
+- https://github.com/benaclejames/VRCFaceTracking
+- https://discord.com/channels/410126604237406209/689949650614091827/1146910894262067270
+- https://discord.com/channels/410126604237406209/689949650614091827/1146910894262067270
+- https://github.com/intel/media-driver#decodingencoding-features
+- https://discord.com/channels/410126604237406209/588350726841827358/1143686110007021669
+- https://discord.com/channels/410126604237406209/696083224648220762/1140030596136063066
+- https://gist.github.com/fang64/d8072ac3db89aadada5d64c59968bcb1
+- https://discord.com/channels/410126604237406209/588350726841827358/1138427475941134346
+- https://github.com/CMoyuer/VRChatAvatarSDK3Container
+- https://discord.com/channels/410126604237406209/689949650614091827/1135961956516364308
+- https://github.com/HoloISO/holoiso/releases?q=3.3&expanded=true
+- https://discord.com/channels/410126604237406209/689949650614091827/1135211875089526794
+- OBS https://obsproject.com/
+- Voicemeeter https://vb-audio.com/Voicemeeter/
+- Steam https://store.steampowered.com/
+- SingalRGB https://signalrgb.com/
+- Fan Control https://github.com/Rem0o/FanControl.Releases
+- https://discord.com/channels/410126604237406209/689949650614091827/1131697605794091050
+- https://github.com/fholger/openvr_foveated
+- https://discord.com/channels/410126604237406209/766086942005526579/1123303801152086056
+- https://github.com/dsoft20/psx_retroshader
+- https://discord.com/channels/410126604237406209/795882566968279091/1122322147096936478
+- https://github.com/Yersi88/WMR-and-Vive-Tracker
+- https://github.com/rrazgriz/RATS
+- https://discord.com/channels/410126604237406209/588350726841827358/1120862331761594438
+- https://github.com/rrazgriz/harmony-vpm
+- https://discord.com/channels/410126604237406209/588350770777161748/1119856707733028885
+- https://github.com/DomNomNomVR/cvr-audio-link
+- https://discord.com/channels/410126604237406209/588350726841827358/1118624447155404840
+- https://github.com/maxartz15/MA_TextureAtlasser
+- https://discord.com/channels/410126604237406209/588350726841827358/1100538447598473246
+- https://github.com/OneYoungMean/Automatic-DynamicBone/wiki/Automatic-Dynamic-Bone-Tutorial
+- https://github.com/OneYoungMean/Automatic-DynamicBone
+- https://youtube.com/shorts/Om5-17CxpjE?si=rat9UD4fRzxisqOj BlenderArt, model a condenser mic
+- ucupaint!!!
+- https://youtu.be/oW7zKbylReI?si=NUUisOtQ_vyfVRCd
+- https://github.com/ucupumar/ucupaint/releases
+- https://krita.org/en/download/krita-desktop/
+- a
+- a
+- cvr now
+- https://youtu.be/FfUn7UUvqQU?si=FcrHA-BT_rKe7vhf
+- https://levimagony.gumroad.com/
+- https://www.blenderkit.com/
+- https://assetstore.unity.com/packages/tools/game-toolkits/easy-mesh-combiner-mt-scene-mesh-merge-atlasing-support-more-138805 **paid**
+- https://youtu.be/2gZPr4sQoZ0?si=TQwQY8d4IKnzPpUu
+- ok now
+- https://youtu.be/0zZkE4S06HE?si=OfyNfdqHbeoUzS4d
+- https://www.nvidia.com/en-us/omniverse/download/?ncid=ref-inpa-767415
+- https://github.com/Nirv-git/CVRPlayersOnlyMirror
+- https://github.com/Nirv-git?tab=repositories
+- https://discord.gg/dndGPM3bxu CVR Modding Group
+- https://discord.com/channels/410126604237406209/682645682968199168/1206390773482922054
+- https://discord.com/channels/410126604237406209/588350726841827358/1101851117408764014
+- https://vxtwitter.com/orzeeee/status/1756755534353424386?s=20
+- https://discord.com/channels/410126604237406209/1004342533964439592/1206314503378305024
+- https://discord.com/channels/410126604237406209/1004342533964439592/1206086443223617557
+- https://discord.com/channels/410126604237406209/588350685255565344/1206398851607433246
+- https://archive.org/details/Win95-audio-media
+- https://cults3d.com/en/3d-model/naughties/renamon-fan-art-nsfw **paid**
+- https://cults3d.com/en/3d-model/naughties/nala-fan-art-nsfw **paid**
+- https://cults3d.com/en/3d-model/naughties/judy-hopps-shibari-stand-frame-chitu-supports **PAID**
+- https://cults3d.com/en/users/gibly/3d-models **PAID**
+- https://kyubumlee.gumroad.com/ FREE
+- https://kyubumlee.gumroad.com/l/pNnKe?layout=profile **PAID**. Except this one. animation homerun samp;e
+- https://www.deviantart.com/moonsler/art/BonBon-and-ChuChu-BLENDER-MODEL-RELEASE-923681514 **PAID** Mime & Dash. Bon Bon & Chu CHu
+- https://www.deviantart.com/blackterio/art/Blender-Lovetaste-Toy-Chica-2-884298470
+- https://www.deviantart.com/blackterio/art/RELEASE-Jailbait-s-C-Baby-and-Ft-Foxy-by-Blazave-1008268517
+- https://www.patreon.com/posts/free-access-nsfw-95907556 I thought it's paid. NOpe, it's **FREE** but don't get excited.
+- https://www.patreon.com/collection/304945?view=expanded MOAR
+- https://www.patreon.com/collection/268239?view=expanded **PAID**
+- https://www.deviantart.com/blackterio
+- https://www.deviantart.com/blackterio/art/Blender-FNAF-RELEA-FNaF-SB-neon-signs-PRE-SB-869978003
+- https://twitter.com/Blackterio/status/1359732230248136706
+- https://www.deviantart.com/blackterio/gallery/77079834/model-releases
+- https://www.patreon.com/Blackterio
+- https://www.deviantart.com/blackterio/art/Blender-FNAF-NSFW-Circus-Mommy-is-here-for-you-1006240203
+- https://skfb.ly/oPWHo **FREE** Bon bon chu chu
+- https://sfmlab.com/project/35825/ **PORT SFM** free
+- https://www.deviantart.com/coolioart/gallery/59791682/old-models
+- https://steamcommunity.com/sharedfiles/filedetails/?id=937589235
+- https://steamcommunity.com/workshop/filedetails/?id=1083394990
+- https://steamcommunity.com/workshop/filedetails/?id=1083430377
+- https://twitter.com/Coolio_Art
+- https://www.artstation.com/coolioart
+- low poly island salim balcik
+- https:/skfb.ly/6VsKR baby bottle
+- https://skfb.ly/oAQNq
+- https://speed.booth.pm
+- https://skfb.ly/oOvUT
+- Jane.F Sketchfab????????
+- https://youtu.be/Vz_GxPMActM?si=SNGVXMNEGYmAfcIK 
+- https://youtu.be/Vz_GxPMActM?si=SNGVXMNEGYmAfcIK
+- https://twitter.com/HumansNoContext/status/1756182462944661786?t=2mse0QW__30Zr7trTcA_ww&s=19 World's most expensive burger
+- https://youtu.be/7HlF2rAwlW8?si=5B8VmTcKKabkQsnR pls download red bull sample
+- https://youtu.be/DDeB4tDVCGY?si=4PTmSqpYbgBfWv1B rigging impatient
+- https://youtu.be/lgzHKw1GYZk?si=GJyM0k5p1Dkfko_2
+- https://www.deviantart.com/kefast/art/MMD-Motion-Pack-DL-911159922
+- https://youtu.be/mt66paJOkQc?si=xy-dfdtnE63zz_MB
+- https://kakaiya.gumroad.com/l/Lucky8 **paid**
+- https://youtu.be/vudH05nQMAU?si=_ySItz1oGK56zAwv pls download
+- https://www.deviantart.com/mmd-downloads-galore/gallery/39472353/models pls check
+- https://www.deviantart.com/ureshiiiiii/art/MMD-DL-20K-Motion-Pack-DL-IN-THE-DESCRIPTION-727902995
+- https://aminoapps.com/c/creepypasta-tm/page/blog/mmd-mega-model-pack-august-2018-download/MNkR_4JFku5lKBo3vmq8ZeQ63DW63rr41
+- https://www.youtube.com/watch?v=r52iIMddS68
+- https://www.deviantart.com/lostwight/art/Creepypasta-MMD-Mega-Model-Pack-2018-DL-761166498 **GONE**
+- https://www.reddit.com/r/Sizebox/comments/7h3uft/mmd_pack_please_sharedownload/
+- https://www.deviantart.com/kacbwords/art/MMD-PACK-PLEASE-SHARE-DOWNLOAD-659450684 **GONE?**
+- https://www.deviantart.com/anonimatespectre/art/MMD-50-Motions-Data-DL-Pack-371610211
+- https://mmd-downloads.deviantart.com/art/A-GOD-DAMN-RUN-WALK-AND-SKIP-MOTION-PACK-305706777?q=gallery%3Ammd-downloads%2F29583738&qo=46 **GONE**
+- https://www.deviantart.com/mmd-tda-market/gallery/58900406/Model-DL
+- https://www.youtube.com/watch?v=KTqRqywB3Y8
+- https://www.deviantart.com/masterchief2021/art/MMD-250-Subscribers-Motion-Pack-DL-633313381 **EXIST**
+- https://www.deviantart.com/kira-kira-sky/art/Aphmau-Model-Pack-DL-MMD-685834289 
+- https://discord.com/channels/410126604237406209/797279576459968555/1206874809674367016 chess
+- https://skfb.ly/oArXH
+- skybaca1985 sketchfab!
+- free bird mayor
+- https://skfb.ly/o7D99
+- https://discord.com/channels/410126604237406209/797279576459968555/1207167061051314238
+- CVR movement parent asik gk sih?. Add this component to physics collider gameobject
+- monobehaviour forbidden. However, only few select are whitelisted. QR each world prop avatar here. To program, use animator or RamenLua. No lua yet
+- copy GUID in prop page CVR pls
+- .
+- Vape prop message!
+- Remember, God gives you air for free?
+- and for you, eventually, you can cut cost by stopping it altogether 
+- Dippy button secret pls check. Just revealed when I had been in somewhere, push button partially, then lift off it instead.
+- https://www.tumblr.com/a-dauntless-daffodil/742297740889014272?source=share
+- https://youtu.be/tcnFMrIYIM0?si=EEWpzL_Gh66JEcP7 hey what is up it's scarce here.
+- MyFurry Protogen
+- https://discord.com/channels/410126604237406209/588350685255565344/1206915979557474306
+- https://battlebunnymods.booth.pm
+- https://battlebunnymods.booth.pm/items/5321656
+- https://www.tumblr.com/i-feel-odd/742349878982819840/im-doing-some-art-for-the-new-freaks-in?source=share
+- https://theoriginalcockatrice.itch.io/my-apartment-2
+- https://theoriginalcockatrice.itch.io/
+- https://www.jagatreview.com/2024/02/plugin-ai-audacity-gratis/
+- https://github.com/intel/openvino-plugins-ai-audacity/releases
+- haox buttoneiz
+- cvr go
+- https://youtu.be/OpIu9myNjm4?si=kAsyG_SRJ5zSLUbJ
+- https://temaroots.gumroad.com/l/jerry free
+- https://temaroots.gumroad.com/l/Amanda_rig?layout=profile **paid**
+- https://temaroots.gumroad.com/?_gl=1*1dz03oj*_ga*MTIyMzE5ODc0NC4xNjEzMTQyMzMy*_ga_6LJN6D94N6*MTcwNzk1NTk3Ni4zMjUuMS4xNzA3OTU1OTkwLjAuMC4w
+- ok go
+- CVR gory
+- https://glenskunk.gumroad.com/l/realisticgoreheart **paid**
+- https://glenskunk.gumroad.com/
+- ok gory
+- copy GUID in prop page CVR pls
+- .
+- Vape prop message!
+- Remember, God gives you air for free?
+- and for you, eventually, you can cut cost by stopping it altogether 
+- Dippy button secret pls check. Just revealed when I had been in somewhere, push button partially, then lift off it instead. haodoifox
+- Bajaj Bajuri laugh?!
+- https://youtu.be/na6Aei6S08c?si=RB3SyuKeMowlGgHt
+- https://youtu.be/ObQ8Y2AEuXQ?si=t5FBccr3DktDkbMj best available
+- https://youtu.be/30rBEQUm700?si=amBWiJK0xoUS_NsJ mergeding
+- https://youtu.be/g-2bYxhYNJA?si=zyf0DqjkzaHmGDhZ
+- https://youtu.be/qazjDsGDaRE?si=EuiJa7KBBso1gmlQ
+- https://youtu.be/lyTdPcK5D8Q?si=Z4nsyjZVaNwYoCKS surprised
+- https://youtu.be/Yn8w3k1lDX8?si=pxJnodldWs0I7W50
+- https://youtu.be/dk-WG_5OoHc?si=AvbfMblq6xq46VCA
+- https://youtu.be/6iYq7J8AHaM?si=AlOSEtzaASDgJSmw
+- OK bajaj bajuri
+- https://youtube.com/shorts/4KjwM4d_bKw?si=bAyJOFmCGL32NDss laugh cindy
+- invaderIka deviantart pls
+- https://skfb.ly/oAO69
+- `56784930234014` Recovery virtual prop
+- https://discord.com/channels/410126604237406209/766086942005526579/1206703665096687748
+- https://www.imdb.com/title/tt0129167/ vin diesel voices iron giant
+- https://www.imdb.com/title/tt2015381/characters/nm0004874 the groot guardian of galaxy
+- Fashionable avatar
+- pls Toastdor
+- https://wiki.chilloutvr.eu/en/community/Events
+- https://wiki.chilloutvr.eu/
+- https://wiki.chilloutvr.eu/en/avatar/magica-cloth-2
+- https://youtu.be/sp_54V3TcF4?si=r0kMHDBhkiomVnF9 pls download
+- https://youtu.be/TeUhFSXFmsA?si=nl9w5-HNKzhAUb76
+- https://youtube.com/playlist?list=PLlVaZNX-iBmsZ4Y1H2O029sy5MSdca0Fl&si=y8fie2xSQkjRz82e
+- https://lura.booth.pm/items/3075449 **PAID**
+- https://lura.booth.pm/items/1534495 **PAID**
+- https://cults3d.com/en/3d-model/game/flexible-squeeze-fidget-toy
+- https://cults3d.com/en/3d-model/tool/cool-squeeze-grip-fan
+- https://www.thingiverse.com/thing:4901910
+- https://skfb.ly/otJ8S
+- https://discord.gg/viviklub VoyVivika Viviklub
+- https://discord.gg/zWMXxZYMMJ The Cavern
+- https://discord.gg/e9Hx8qsAdM Oceano
+- https://discord.gg/wVGDb8Jr46 Nowhere Bar **(NSFW, ID Verification Required, Unintuitive system atm)**
+- https://discord.gg/g37gHB3Mfj Purple Fox
+- https://lenserror.gumroad.com/ **JACKPOT**
+- https://discord.gg/n99YW7Vpc8 Garrin's hideout
+- https://discord.com/invite/4rSbBpAn9m Cat Tree Cuties
+- https://github.com/CuteWaterBeary/ShaderMotion
+- https://discord.com/channels/867567549858971669/1044122333696249928/1044242095273164880 **CVR Tools finder**
+- https://docs.google.com/spreadsheets/d/1DyQKiXrIWWWaIJ9LH9bfMrvGZFQsF1nceXVCQnCPPHI/edit#gid=0 found in this Viviklub
+- https://discord.gg/Ncx6t6gy8a CVR Explore
+- https://discord.gg/6xznEX3N9f Creator Showcase VR
+- https://discord.com/channels/1092233134566801478/1092233135925760013/1105794089305243688 Color Picker Prop DomNomVR, found in creator showcase
+- https://29a.ch/photo-forensics/#luminance-gradient
+- https://discord.com/channels/1092233134566801478/1092233135925760013/1098141642868924436
+- https://discord.com/channels/1092233134566801478/1092233135925760013/1096498197213491231 Kavex collections of NotAKid files. Creator Showcase. Has: Roblox Path Giver, Quick Material Swap, Gesture to Int, Base Animator patch, Avatar Pointer Generator
+- https://github.com/KyogenScientia/CVR-Prefabs WOW
+- https://discord.com/channels/1092233134566801478/1092233135925760013/1096490573076119612 Momma Molly's assets, Creator Showcase. Has: Color Mixer from Chen, Cube Puzzle from Chen, Interaction Layer, Keypad, Keycard
+- https://discord.com/channels/752509297837211731/808058590526439424 here are free dl from LensError in Purple Fox
+- https://booth.pm/en/items/4123049 Pls robo hoverkitty **PAID**
+- https://sdkwireframe.booth.pm/ **PAID**
+- https://estefanoida.booth.pm/ **PAID**
+- https://docs.google.com/document/d/1vWB3VN98i7erA8anywUxxGoT39hrh8oHMmU6uaAnGu0/edit Kro's guide VRC to CVR
+- https://emmster.booth.pm/items/4116550 bat **PAID**
+- https://emmster.booth.pm/items/4116586 Business card **PAID**
+- https://bnuuy-dynamics.booth.pm/items/2736589 Cigarette **PAID**
+- https://lilpinkdevil.booth.pm/
+- https://cdn.discordapp.com/attachments/1015347320784683108/1029100896522600479/CVR_GPU_Pointer_Trigger_For_Props.unitypackage from CVR Finder tool, we have this litterallyjustsmith's GPU Pointer trigger system. Folder will be `Smithure`.
+- https://cdn.discordapp.com/attachments/1003268203536994386/1003268263347769344/CVR_World_Spawn.prefab also this too.
+- https://alexviktor.booth.pm/items/2151029 Shader Deltagem **PAID. Demo version available
+- https://github.com/XomiVR/Jolia-s-ChilloutVR-Prop-Pen
+- https://bnuuy-dynamics.booth.pm/items/3355486 **PAID** Marshmallow on a stick
+- https://booth.pm/en/items/4004447 Bowling VRC
+- https://discord.com/channels/963254775321862264/964352949633552404/1093224967702860008 Pls Succubuny consent card from Nowhere bar.
+- https://discord.com/channels/1092233134566801478/1092233135925760013/1156278444842307715 in Creator showcase, Momofier has CoHTML theme file!
+- https://assetstore.unity.com/packages/tools/physics/zibra-liquid-266451 **PAID**
+- https://sketchfoxsky.gumroad.com/l/SketchysLifeSim life sim VRC **PAID**
+- pls suggest. Prop Pre-spawn. insert GUID of the prop. when the new instance created, these props spawns as if you had the prefab, **but actually not**. No Ripping! and no need to ask download link to prefab. Not pirating! Just need to know GUID!
+- The component should also draw boxes to illustrate approximate size it would when the instance created.
+- bridge
+- playlist odysee
+- https://skfb.ly/oJFSy rat
+- https://skfb.ly/EFNB
+- mt103 gumroad
+- N3X15 avatar is PolygonCherub Twitter
+- bom39 3d model
+- a
+- a
+- pls use sub syncer! bridge game
+- s
+- Pls suggest Asset explorer in the CCK rather than website.
+- Pls suggest Prop Prespawn. above. also the reason is to reduce World Size significantly! Yes, your own usefulness.
+- https://feedback.abinteractive.net/p/companion-app-for-cvr
+- https://youtu.be/bN4HrbK8MaY?si=ziStLxAX7L6oPa_E
+- https://github.com/ivarovin/Rope-with-line-renderer
+- https://github.com/Perkedel/After-Church/tree/master/RAW%20files/ChipTone%20SFBGames
+- https://github.com/MilchZocker/UCC-PixelPacket
+- https://github.com/MilchZocker/UCC-DreamPacket
+- a
+- lighters
+- https://skfb.ly/6ZEvG
+- https://skfb.ly/o8s9D
+- yeah
+- pls check possibility of Material roughness AAS
+- https://printables.com/148367
+- https://github.com/MilchZocker/UCC-PixelPacket
+- https://kick.com/categories
+- https://bsky.app/
+- https://www.xbox.com/en-US/xbox-game-pass#join
+- https://booth.pm/en/items/5506663 new framedoll stuff
+- https://booth.pm/en/items/3492603 **PAID**
+- https://booth.pm/en/items/2676030
+- https://cluster.mu/w/aeac6d61-0de2-488f-862f-034acbb50318
+- https://booth.pm/en/items/2139379 **PAID**
+- https://booth.pm/en/items/2549720 **PAID**
+- https://booth.pm/en/items/1539338 **PAID**
+- https://armadillon.booth.pm/ 
+- https://booth.pm/en/items/1093023 **PAID**
+- https://booth.pm/en/items/5447425
+- https://booth.pm/en/items/5137494 **PAID**
+- https://booth.pm/en/items/4338284
+- https://booth.pm/en/items/5402363 **PAID**
+- https://discord.com/channels/410126604237406209/797279576459968555/1208971724104671252
+- https://docs.unity3d.com/Manual/SinglePassStereoRendering.html
+- https://docs.unity3d.com/Manual/SinglePassInstancing.html
+- https://docs.unity3d.com/Packages/com.unity.xr.mock-hmd@1.0/manual/index.html
+- https://docs.unity3d.com/Manual/SinglePassStereoRendering.html
+- https://booth.pm/en/items/1148311 Uniuni Crystal Shader
+- https://booth.pm/ja/items/1142851 **PAID**
+- https://discord.com/channels/410126604237406209/766086942005526579/1032051203548397668
+- https://discord.com/channels/410126604237406209/766086942005526579/1032336704843030618
+- https://files.tholin.dev/Public/DSSCompute.shader **GONE**
+- https://twitter.com/tholinvali/status/1582491178502860800
+- https://valuef.gumroad.com/l/goo **PAID**
+- https://www.youtube.com/watch?v=4plws4QlZ7g
+- https://twitter.com/Value_Factory/status/1556703535634550785
+- https://discord.com/channels/410126604237406209/588350685255565344/1011729629171699834
+- https://twitter.com/poiyomi/status/1127977105793462274?lang=en
+- https://discord.com/channels/410126604237406209/588350726841827358/1005194629932666941
+- https://booth.pm/en/items/4035411 **PAID**
+- Unfortunately, Poiyomi slime is only of FULL version. **PAID**
+- https://twitter.com/Value_Factory/status/1556703535634550785
+- https://www.youtube.com/watch?v=4plws4QlZ7g
+- https://lycon.gumroad.com/l/cuVwq **GONE**
+- https://lycon.gumroad.com/l/IqQfI **GONE**
+- https://lycon.gumroad.com/
+- https://cro.itch.io/slimes
+- https://github.com/lilxyzw/lilToon.git
+- https://github.com/lilxyzw/lilToon.git?path=Assets/lilToon
+- https://github.com/lilxyzw/lilToon/
+- https://discord.com/channels/410126604237406209/588350685255565344/1066123803199021167
+- Parameter stream has local player voice level
+- Khodrin
+- Bfacemod Vseeface
+- https://github.com/Khodrin?tab=repositories
+- https://www.poiyomi.com/general/textures-and-colors
+- https://khodrin.gumroad.com/l/hud_shader_3 **BOUGHT**
+- https://github.com/Khodrin?tab=repositories
+- https://github.com/Unity-Technologies/HLODSystem
+- https://discord.com/channels/410126604237406209/588350726841827358/1209336999446585384
+- https://discord.com/channels/410126604237406209/588350726841827358/1209406226631233556
+- https://discord.com/channels/410126604237406209/588350726841827358/1209406226631233556
+- https://discord.com/channels/410126604237406209/766086942005526579/1005992885847601224
+- https://discord.com/channels/410126604237406209/766086942005526579/1084877833366683769 SPS-I fy your Shader Forge
+- https://discord.com/channels/410126604237406209/766086942005526579/1084922928568737812 **NOW**
+- SubsonicJackal154!
+- add `UNITY_VERTEX_OUTPUT_STEREO` to `struct VertexOutput` under declartion `UNITY_VERTEX_INPUT_INSTANCE_ID` line
+- add in the `VertexOutput vert (VertexInput v)`, functions under the `UNITY_SETUP_INSTANCE_ID( v );` and `UNITY_TRANSFER_INSTANCE_ID( v, o );` these calls:
+- `UNITY_INITIALIZE_OUTPUT(VertexOutput, o);`
+- `UNITY_INITIALIZE_VERTEX_OUTPUT_STEREO(o);`
+- Usually, you found above inside SubShader with a name `FORWARD`, at the topmost.
+- https://uniunishop.booth.pm/items/5230329 **PAID** Bubble
+- https://uniunishop.booth.pm/items/5213016 Fake inner light
+- https://uniunishop.booth.pm/items/4641365 Candy Paint
+- https://uniunishop.booth.pm/items/4638603 Planet Shader
+- https://uniunishop.booth.pm/items/4633595 UniStar
+- https://gitlab.com/towelfunnelvrc/towelcloud/-/wikis/TowelCloud
+- https://gitlab.com/towelfunnelvrc/towelcloud/-/releases
+- https://github.com/whiteflare/Unlit_WF_ShaderSuite UnlitWF!!
+- https://developer.oculus.com/resources/design-accessible-vr-controls
+- https://beckadam.gumroad.com/icybeckashaderpack
+- https://skfb.ly/or8Xs
+- `--no-mods` argument
+- ironwolf323 again Moonify Discord
+- https://steamcommunity.com/sharedfiles/filedetails/?id=3159981536 
+- https://steamcommunity.com/sharedfiles/filedetails/?id=3160607434
+- https://steamcommunity.com/sharedfiles/filedetails/?id=3155172275
+- https://mega.nz/file/m6I1FaqS#dWhCUa_uMQA4WGy1U-DNlYeL7WDovy86CN0Kha2wRXk cow marie bikini
+- https://mega.nz/file/miwnETJT#KoXBry8cDV81YWuVGOOnFMtg29-lxDooUWlRob-dBk4 & Blender
+- https://twitter.com/ironwolf_323 Oh no! where's the invite?!?!?!?
+- OK
+- https://discord.com/channels/734976349994876928/734978945858142373/1209538237140439080
+- https://twitter.com/LukaszBorges/status/1759976724316499986
+- https://twitter.com/LukaszBorges/status/1344319182863790082
+- https://twitter.com/bluegamer89/status/1758651819058769961?s=46&t=M4CU-bfuoXonMk7rPRr3kg
+- https://www.deviantart.com/flaze135/art/Springy-s-Pack-v5-Blender-2-8-2-9-3-0-Port-RELEASE-909502146
+- https://www.deviantart.com/fredboi997/art/Torres-Springtrap-V19-blender-4-0-Release-997307638
+- https://www.deviantart.com/fredboi997/art/Fredbear-V5-Fredtrap-Christmas-Release-1005102305
+- `C:\Users\Joel Robert Justiawa\AppData\LocalLow\Alpha Blend Interactive\ChilloutVR\Player-prev.log`
+- Sebastian Webster sketchfab pls
+- https://twitter.com/LukaszBorges/status/1759976724316499986
+- https://github.com/kafeijao/Kafe_CVR_Mods
+- looks like we missed kafeijao's NavMeshFollower mod!
+- https://github.com/kafeijao/Kafe_CVR_Mods/tree/master/NavMeshFollower damn!
+- https://github.com/NovaVoidHowl/NavMesh-Follower-Setup
+- https://github.com/kafeijao/Kafe_CVR_CCKs/tree/master/NavMeshFollower#readme
+- https://github.com/V-Sekai/v-sekai-game
+- https://github.com/kafeijao/Kafe_CVR_Mods?tab=readme-ov-file
+- https://discord.com/channels/410126604237406209/1004342533964439592/1209528539599212624
+- https://discord.com/channels/410126604237406209/1004342533964439592/1207053419442085918
+- https://discord.com/channels/410126604237406209/1004342533964439592/1207260978425896960
+- **Please begin renegotiate Perma-home status for CVR, reasons of unfair blocking**.
+- https://godotengine.org/code-of-conduct/
+- https://github.com/Speykious/cve-rs
+- https://github.com/Speykious/cve-rs/blob/main/LICENSE
+- Jkk says ideal buyoancy density is `.5`. higher it sinks, lower it bounces. Thancc, cool and good.
+- https://youtu.be/uHb5KomjQb4?si=yOrOAiVmeGFgEW7o film
+- https://youtu.be/nJ1jiK1gCXo?si=nJfpjAg7kH3Lg7fM
+- https://youtu.be/UXX0TRtg5Vk?si=gjjDfllT1H6RUtl5
+- https://youtu.be/Am8grbyTxTw?si=f_Z_SCnBy8qcaR-O
+- welcome to vrchat (parody)
+- Welcome to the internet
+- https://vrcmods.com/item/1105
+- https://zen0129zen.booth.pm
+- https://assetstore.unity.com/packages/vfx/shaders/glam-glitter-shaders-20921 **PAID**
+- https://gist.github.com/nicloay/86cc68c22323ffee8816
+- https://github.com/Nirv-git/VideoRemote
+- https://github.com/Nirv-git/CVRMods-Nirv
+- GhostRobot.
+- Oliver Simonnet
+- SkullCO
+- Senpaidll
+- Hoizen
+- .
+- .
+- File NES Zapper from Yogensia
+- https://skfb.ly/EFNB Violin Microsoft
+- https://darkpowers0819.gumroad.com
+- For your cooperation, please don't come in the public place and threw bunch of sexual stuffs outta nowhere. especially you are asdjflkasjdfklsj.
+- https://bitmidi.com/joan-osborne-what-if-god-was-one-of-us-mid
+- http://www.vanbasco.com/search.html.en?fileid=44761&q=one&lyrics=off&resultsperpage=50
+- https://github.com/Nirv-git/CVRMods-Nirv/tree/main
+- https://github.com/SDraw/ml_mods_cvr
+- https://past.furality.org/f5/aqua-shader-info
+- https://past.furality.org/f5/aqua-assets
+- https://past.furality.org/f4/legendaryshader
+- X0p1r4t3 Story Time again.
+- Unexpected Reevaluation
+- Arn the Saorfa stardust assembled to here X0p1r4t3 for an urgent matter. He has now arrived right at the Research Center giant vault door.
+- Arn enters. Arn opened the small door like he knew the password
+- Jallopy Ometamnasir: Hello? Welcome! Wait.. Arn??
+- Arn: Ahei. Sorry, for cracking the password, (close door)!. I come here for an urgent matter.
+- Jallopy: Oh, alright. On what matter is it if I may know?
+- Arn: The DiceGlow Initiative. This initiative was established with Kaorfa the leader. This is very important, (hop in the train tram on the right).
+- Jallopy: Sure. Do you want to
+- Arn: No. I just need to get to their room. Don't worry. They've been notified for my coming.
+- Jallopy: Right away (hop in the tram from the port-left side) sir (go sit to the starboard-right control board).
+- Assigned Room for DiceGlow
+- All crew has been sitting nicely & tidily on this meeting table. Serious mode.
+- Empty
+- Malore, table, Zuuljedus
+- Terrier Urla, table, Panfesir
+- Fendied, table, Zuug
+- Jallopy, table, Epto
+- Empty leader seat
+- Zuuljedus: .... Pan?
+- Panfesir: Yes?
+- Zuuljedus: .. I'm afraid. ... I think we did wrong here..
+- Panfesir: I'm pretty sure we're not. But... All we did is just that we bought... the.. Khodrin's HUD Shader.. for extra..
+- Malore: No.. I believe Kaorfa is fine with that, he did the example
+- Arn: (knock knock)! !, (open)..
+- Everyone tidy up & silence
+- Arn: (get in)..., (close door). . .
+- Everyone nervous.
+- Zuuljedus: (swallow spit)!!..
+- Arn: Well, I... (sit on the leader seat right in front of him)-wish this not you gotta be so nervous like a grumpy boss coming here right?... sss, uh... there's the grumpy guy.
+- Everyone starts listening carefully & worriedly
+- Arn: I have just recently received message from Kaorfa that... he did a mistake.
+- Malore: (thinking about horrible comment (something right doing actually) that accidentally offended people) Alright, here we go
+- Arn: No that's not it. Different. (but this reason of such trouble might be still because of the horrible offending comment, which was probably due *Not discouraging piracy explicitly despite tell you not implicitly*) But I'm not sure if it is, or.. still because of other of our things.
+- Everyone confuse a bit
+- Arn: Thing is......... ugh.. You know we are so lazy these day to tell you the word in objects. We gotta be quick, coz we still got **blocked**. Three!.. And ironically this one is a Community Guide. Again, no telling reason why.
+- Malore: ugh.. bastards..
+- Arn: So the mistake was we set this as **permanent home**. But the reality is, we should've **NOT**, set social media, as a permanent home.
+- Malore: So what do we do now? Dismiss this all?
+- Arn: I hate to say this to you... It's likely.
+- Malore: Fuuuck!... Well you have it. So much for the hobby we can have fun of, and go back to boring jobs again for nothing. ..., UGH...
+- Arn: We have tried our best to bring this to solve, but due to nature of free will, this abuse then cannot and in-fact, shall not be controlled.
+- Terrier Urla: 🙋‍♂️ But sir, we can still interact with props right?
+- Arn: Yes. Only effects is you can't see them, and no add friend.
+- Terrier: Well shouuld continue!
+- Arn: I'm sorry, in Perkedel this is not possible. We must also look at the psychological effects against the world that bring things to us. I wish we could ignore this, but apparently, There is always a reason, such incidents like this considered unfair, because we never know why. And if we know why, often it's egregious, and nepotistic.
+- Terrier: Oh, Joel, stay strong buddy, don't fall into the (psychological) hospital please.
+- Arn: I hope you understand. His mental recently has been decreasing everyday, look at those people that for no reason hated him, and would be us as well. (notice Panfesir guilt about buying shader) And you, buying it has nothing to do with it.
+- Panfesir: Oh really? thanks..
+- Arn: I'm sorry, gamers. At worst case scenario you shall be dismissed and all the downloading task will be re-assigned over for all researchers here including you, and no more work for this initiative may come ever again.
+- Malore: Well, what about Minecraft?
+- Arn: Good question. For this one, if you're banned on a server, you can just make another one, since unlike ChilloutVR, there is no unified servering. All it's own dedicated server. And beside, Realms is not that worth of a deal after all. Also, being already merged with Microsoft account we see no horrible significance at this time. So does with Palworld but we have yet tested it. So far, it has Single Player save file mode from the rumors, but the rest are yet to be confirmed. You got the idea.
+- Zuuljedus: Aaargh.... dang it... I didn't know...
+- Arn: It's none of your fault. We are facing strangers. And these days, societies are breaking down (i.e. more toxic every second). Remember, you were here to learn how to bring stuffs onto a game, heard about ones betrayal, and (joke) kick a dead horse (to Unity).
+- awkward silence ...........
+- Arn: ... (realize Joke clashes with the mood right now) Oh.. my bad. ... I just.. also desperate. I am at hard work keeping Kaorfa's mental stability. .. I did bad (for joking just now). It clashed (funny do not mix with depression for Joel). But.. there's no other way (to cheer all gamers here up / cope).
+- ...
+- ...
+- Arn: Any more questions? .............................. Well, anytime. I shall return. ................ (stardust and move back to core realm)...!!!!!......
+- ...
+- ...
+- ...
+- Zuuljedus: Mal
+- Malore: NO no, not your fault. The bastards. What did we even do wrong again? Dismissing forbidding anyone to sparsdat (pirate) stuffs? OHH.. So I gotta be like karen and **HEY!! YOU CANNOT PIRATE THIS, I WILL REPORT YOU TO MODERATION TEAM!!**, and then **HEY ABI, THIS PROP WAS MADE WITH PIRATED ASSETS BLA BLA BLA** FUCKING SHIT IN YOUR ASS... NOne of your business! ... Although.. Of course, We're not allowed to include paid stuffs here, we're still complying! (take out the git ignore document)!!.., (bang it to the table) [**look!!!**](/.gitignore)
+- Terrier: The Khodrin HUD Shader has been ignored, and there's none of them in the upload.
+- Malore: EXACT-FUCKINGLY!!
+- DONE
+- https://feedback.abinteractive.net/p/prop-pre-spawning
+- dua side. One eye renders boy theme, the other renders girl theme. using Multi-pass quirk in this CVR of the shadering.
+- https://youtu.be/39_HhRkXDpQ?si=jjwQW9Gurbq6RNML Jackaroo Very loud explosion
+- Windows 95 man finland
+- https://github.com/Nirv-git/CVRMods-Nirv/?tab=readme-ov-file
+- https://github.com/kafeijao/Kafe_CVR_Mods?tab=readme-ov-file
+- https://skfb.ly/6BtIq
+- eisregen talked about sport car but matic.
+- and that's just... pointless. I agree, yeah..
+- take this inspire for context of having bells and whistle but tarnished with one thing.
+- https://terraxy.gumroad.com/l/Sonic **PAID**
+- https://terraxy.gumroad.com/
+- https://avislime.party/
+- https://avislime.party/p/all-previous-models-before-the-kyliin-redux-are-now-free All models before Kyliin redux are now $0
+- Ayo, WTF?!?!??!...
+- https://youtu.be/i4CFWTYFRlw?si=9JP0jGOWfU5Dvya6 Nimona full film Official Netflix. What?!?!, Netflix, is this real?!?!?!? 
+- Yo, serious!! for $0!!! you gotta open it up on one instance!!
+- https://www.tumblr.com/joelwindows7/743104759577395200/nimona-official-netflix-full-film-for-free?source=share
+- wait 26 feb max????? oh..
+- but still.. use this promo the max!
+- .
+- .
+- .
+- Recycle meme. Mask filter renaissance. use TheFatRat - Xenogenesis instead.
+- .
+- .
+- .
+- .
+- Yesus, aku percaya (song)
+- .
+- .
+- .
+- **please design resignation plan!!**
+- tiktok piano song of thril-sad pls croissant
+- .
+- .
+- .
+- Family guy moment. I am of course not loved, all you say are lies.
+- fell from height (NO! you are loved!) (lies! fall anyways), already trampolined but went through instead, drill the ground, touch and detonate the core. planet explodes. Him and all people died, zero survivor.
+- a kid was forced to go home because went naughty and feral. Dad dragged him forcefully onto a space bus taxi that goes to their home. already in space. I should've bought you the mental package (Crossban Naughty & Feral Kid School from Crossban Mental Research University). passengers noticed sudden bright light emanating from the planet they just left. yes, the planet explode. dad surprised, grateful his son naughty and feral. Son, for real, we cannot go back. son hit dad, your fault! And you're welcome, bitch! Okay. leave son crying out loud, sit contemplating. Other passengers scream crying, their families died. One guy who just left to go in the job immediately call mom and dad. but 30 second later, their house got hit, and instantly both parents died too. abrupt silence, call ended. phone drop shockedly. NOOOOOO!!! (cry shocked). The pilot can only gesture cross (Catholic), as he also lost entire family therefore, still continue flying to the destination.
+- .
+- .
+- .
+- Nimona came from inside the service room instead of supposed front door. Hi welcome.. wait, the front door is there!
+- Nimona downloads all 3D Model from first Hymatt Avatarer branch in Arenod realm. She did not used the machine and directly USB-C copy all of the file to her heart. She still pays all full total 500 Trillion Pts., with extra 500 Million Pts to each employee which data found in the computer. Now the branch can immediately start unattended beta test instead of waiting for supposed 2 months away.
+- https://skfb.ly/oR8Gp **PAID UNINTUITIVE**
+- fd
+- Legend rank means significant contribution rewards
+- https://discord.com/channels/410126604237406209/797279576459968555/1210710186780790815
+- https://discord.com/channels/410126604237406209/588350726841827358/1210838439277232158
+- https://discord.com/channels/410126604237406209/588350726841827358/1210838439277232158 size of the bHaptic chest should be this.
+- https://wannatalkaboutit.org
+- https://skfb.ly/6VsKR
+- disconnective authoships
+- one project texture render upload YouTube prop
+- another made again same name, only screen.
+- do they connect?
+- Voice broke?
+- `Disconnect Session`, rejoin.
+- if not working, restart.
+- thancc GhostRobot.
+- https://youtu.be/0sfZvjs5nNM?si=y1punwnM2ElhWBbA blender runs doom
+- https://sando21.gumroad.com/l/mitabf free
+- https://sando21.gumroad.com/
+- https://sando21.gumroad.com/l/klaef **paid**
+- https://x.com/KenneyNL/status/1762093963601678787?s=20 **PROMO**
+- https://assetstore.unity.com/packages/2d/textures-materials/sky/allsky-free-10-sky-skybox-set-146014 **demo**
+- https://github.com/rpgwhitelock/AllSkyFree_Godot HAa?
+- https://kaylousberg.itch.io/prototype-bits **PAID** with demo
+- https://www.patreon.com/kaylousberg/posts
+- https://vxtwitter.com/TikkaQrow/status/1757004335240921370?s=20
+- https://discord.com/channels/410126604237406209/795882566968279091/1211369324510711908 disconnect session & rejoin. DragonSkyRunner.
+- Friend of Friends is still public 
+- https://documentation.abinteractive.net/official/legal/tos/
+- pls carl gustav meme
+- https://youtu.be/9A9yj8KnM8c?si=qvg_e7m8wxDvNHu6
+- https://youtu.be/ar_wY_ezL-8?si=t-MYwOBN3QjZ7LHM
+- https://youtu.be/arfegaE43Mk?si=01JLqkmgeLZbJHn6
+- CGINC
+- https://bsky.app/profile/joelwindows7.bsky.social/post/3kmgdrkn6tw2x
+- https://sidega.gumroad.com
+- https://skfb.ly/oAYLK banana buggy
+- blue java banana
+- https://x.com/Happy19001/status/1637160123238871042?s=20
+- https://x.com/Beta_Protogen/status/1635853580765650946?s=20
+- https://x.com/KisekiLynx/status/1640935692845948928?s=20
+- https://web.archive.org/web/2/https://twitter.com/triwavebz/status/1514302395836100609?s=20
+- https://twitter.com/triwavebz/status/1514302395836100609?s=20
+- https://web.archive.org/web/20230801131950/https://twitter.com/triwavebz/status/1514302395836100609?s=20
+- https://twitter.com/search?q=triwavebz&src=typed_query
+- https://x.com/Beta_Protogen/status/1635853580765650946?s=20
+- https://twitter.com/WW92030/status/1746979132125192346
+- https://drive.google.com/drive/folders/1JPh85gOn74EI8hujZB8KZcrOkNDQmolt
+- https://x.com/JOELwindows7/status/1762595671818072523?s=20
+- `--no-mods --enable-libvlc`
+- https://krenki.gumroad.com/l/vocalenhancer
+- https://www.printables.com/model/768471-waterproof-3d-printing-tests-oceangate-titan OceanGate titan model STL
