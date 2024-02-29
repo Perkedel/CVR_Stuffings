@@ -472,7 +472,6 @@ GameObject:
   - component: {fileID: 395505478408394305}
   - component: {fileID: 2832813364214496860}
   - component: {fileID: 1605306369551067085}
-  - component: {fileID: 397605122957921441}
   m_Layer: 0
   m_Name: ExplodeParticles
   m_TagString: Untagged
@@ -4697,7 +4696,7 @@ ParticleSystem:
         m_NumAlphaKeys: 2
   CustomDataModule:
     enabled: 0
-    mode0: 2
+    mode0: 1
     vectorComponentCount0: 4
     color0:
       serializedVersion: 2
@@ -5334,19 +5333,6 @@ ParticleSystemRenderer:
   m_MeshWeighting2: 1
   m_MeshWeighting3: 1
   m_MaskInteraction: 0
---- !u!114 &397605122957921441
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2096513107705507057}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 39d87b8783794dfd81ce396483019cbb, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  type: fire
 --- !u!1 &2183577983593810149
 GameObject:
   m_ObjectHideFlags: 0
@@ -5666,7 +5652,7 @@ Transform:
   m_GameObject: {fileID: 2888457884924648873}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 50, y: 50, z: 50}
+  m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 1
   m_Children: []
   m_Father: {fileID: 7444495324035019622}
@@ -5683,7 +5669,7 @@ SphereCollider:
   m_IsTrigger: 1
   m_Enabled: 1
   serializedVersion: 2
-  m_Radius: 0.5
+  m_Radius: 50
   m_Center: {x: 0, y: 0, z: 0}
 --- !u!114 &2184558526412521357
 MonoBehaviour:
@@ -6078,7 +6064,7 @@ Transform:
   m_GameObject: {fileID: 3825146248509172449}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 50, y: 50, z: 50}
+  m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 1
   m_Children: []
   m_Father: {fileID: 7444495324035019622}
@@ -6095,7 +6081,7 @@ SphereCollider:
   m_IsTrigger: 1
   m_Enabled: 1
   serializedVersion: 2
-  m_Radius: 0.5
+  m_Radius: 50
   m_Center: {x: 0, y: 0, z: 0}
 --- !u!114 &4388588507956748483
 MonoBehaviour:
@@ -11505,6 +11491,65 @@ Transform:
   m_Father: {fileID: 3993638810615261317}
   m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &5032024256470446692
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5654273339602796625}
+  - component: {fileID: 7133007946672559110}
+  - component: {fileID: 7430824651787889948}
+  m_Layer: 0
+  m_Name: FireBlaze
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 0
+--- !u!4 &5654273339602796625
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5032024256470446692}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 1
+  m_Children: []
+  m_Father: {fileID: 9016464995767744302}
+  m_RootOrder: 4
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!135 &7133007946672559110
+SphereCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5032024256470446692}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 1
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Radius: 50
+  m_Center: {x: 0, y: 0, z: 0}
+--- !u!114 &7430824651787889948
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5032024256470446692}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 39d87b8783794dfd81ce396483019cbb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  type: fire
 --- !u!1 &5077774845088197003
 GameObject:
   m_ObjectHideFlags: 0
@@ -11537,6 +11582,7 @@ Transform:
   - {fileID: 8453878857483353196}
   - {fileID: 5120997285205599882}
   - {fileID: 2997945286412632972}
+  - {fileID: 5654273339602796625}
   m_Father: {fileID: 3993638810615261317}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -16696,7 +16742,7 @@ Transform:
   m_GameObject: {fileID: 7813269916214441140}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 50, y: 50, z: 50}
+  m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 1
   m_Children: []
   m_Father: {fileID: 7444495324035019622}
@@ -16713,7 +16759,7 @@ SphereCollider:
   m_IsTrigger: 1
   m_Enabled: 1
   serializedVersion: 2
-  m_Radius: 0.5
+  m_Radius: 50
   m_Center: {x: 0, y: 0, z: 0}
 --- !u!114 &1495098945599248721
 MonoBehaviour:

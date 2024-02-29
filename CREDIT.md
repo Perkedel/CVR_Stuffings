@@ -4658,3 +4658,13 @@ New Sauce lists
 - `--no-mods --enable-libvlc`
 - https://krenki.gumroad.com/l/vocalenhancer
 - https://www.printables.com/model/768471-waterproof-3d-printing-tests-oceangate-titan OceanGate titan model STL
+- https://zy0n7.gumroad.com/l/duauq **PAID**
+- https://gamefromscratch.com/codeium-free-ai-code-assistant/
+- https://codeium.com/
+- https://discord.com/channels/410126604237406209/588350726841827358/1212820542151860244 Hanz joint code
+- https://skfb.ly/ozsAT
+- https://github.com/sinai-dev/UnityExplorer
+- https://github.com/sinai-dev/UnityExplorer.git?path=UnityEditorPackage
+- https://discord.gg/w9WJ83Nn9z CVR Mugshot
+- https://booth.pm/en/items/3767101 **PAID**
+- https://wolfsden3d.gumroad.com
