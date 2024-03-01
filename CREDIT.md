@@ -4001,7 +4001,7 @@ New Sauce lists
 - https://github.com/hecomi/UnityFurURP
 - https://warrenwolfy.gumroad.com/l/atntv
 - https://github.com/Sorumi/UnityFurShader
-- https://bom39.gumroad.com
+- https://bom39.gumroad.com **mostly paid**
 - https://discord.com/channels/410126604237406209/588350726841827358/1162243310077882450
 - VoyVivika's club world got these!
 - https://skfb.ly/osxsY
@@ -4668,3 +4668,11 @@ New Sauce lists
 - https://discord.gg/w9WJ83Nn9z CVR Mugshot
 - https://booth.pm/en/items/3767101 **PAID**
 - https://wolfsden3d.gumroad.com
+- https://twitter.com/RolltheredDev/status/1763622712184877307 like & re~~tweet~~post for giveaway
+- https://osimonnet.gumroad.com/l/zvlZV Ghost Robot MT-103
+- https://discord.com/channels/410126604237406209/797279576459968555/1213201918252425257
+- https://discord.com/channels/410126604237406209/797279576459968555/1213199992567631953
+- https://discord.com/channels/410126604237406209/797279576459968555/1213205611525967912
+- https://www.poiyomi.com/special-fx/flipbook
+- https://twitter.com/RolltheredDev/status/1763622712184877307
+- https://github.com/Dervali-git/VRC-Tips/blob/main/LaySittingPrefab.md
