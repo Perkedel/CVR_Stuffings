@@ -4676,3 +4676,7 @@ New Sauce lists
 - https://www.poiyomi.com/special-fx/flipbook
 - https://twitter.com/RolltheredDev/status/1763622712184877307
 - https://github.com/Dervali-git/VRC-Tips/blob/main/LaySittingPrefab.md
+- https://youtu.be/Z--dnYonag0?si=XmeeMeC_DD60_dY0
+- https://smutba.se/project/34390/ **gone**, but ironwolf is now
+- https://sketchfab.com/3d-models/jenny-belle-v2-01d24db8049346e1bd35db98f51dcc74 here.
+- https://sketchfab.com/ironw699 Download all now!

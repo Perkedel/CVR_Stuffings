@@ -118,7 +118,7 @@ Joel: idk what am I thinking, We call these DMCAers Federals, that's what X0p1r4
 Please attach screenshots below for the assets we have paid to be used by Perkedel Cinematic Universe gamers.  
 For real life contributors, you must purchase the license of your own, not sparsdated you got out there 😉. For legal reasons. We do not want you get harrassed by your Federals because caught using sparsdated assets.
 
-- [Khodrin HUD Assets](https://khodrin.gumroad.com/l/hud_shader_3) ![Bought HUD Shader](/DiceGlow/Assets/JOELwindows7/_CORE/Sprites/Screenshots/ProvesOfPurchase/CVR_bought_Khodrin_hud_shader.png), Costs **$3.99**, Paid **$5.00** (Voluntarily willingly, you're welcome)
+- [Khodrin HUD Assets](https://khodrin.gumroad.com/l/hud_shader_3). ![Bought HUD Shader](/DiceGlow/Assets/JOELwindows7/_CORE/Sprites/Screenshots/ProvesOfPurchase/CVR_bought_Khodrin_hud_shader.png), Costs **$3.99**, Paid **$5.00** (Voluntarily willingly, you're welcome)
 
 ## Quick Tutorials
 
@@ -134,7 +134,8 @@ For real life contributors, you must purchase the license of your own, not spars
 - Space / Starboard-Right `A` = Jump
 - 2x Jump = Toggle Flying
 - X / ??? = Prone
-- V / ??? = Crouch
+- C / ??? = Crouch
+- V / ??? = Toggle Mic Mute/Unmute
 - Right Click / `B` (Starboard-Right) / `Y` (Port-Left) = Grab with which hand (Starboard-Right Hand default on Desktop)
 - Left Click / Any Trigger = Interact action to a prop / object.
 - `ESC` / ??? = Open Big Menu
@@ -144,7 +145,7 @@ For real life contributors, you must purchase the license of your own, not spars
 
 - Toprow Num (1-9) = Play expression animation. Move to cancel
     1. Hello
-    2. ..
+    2. Bow
     3. Die
     4. Backflip
     5. ...
@@ -240,13 +241,24 @@ You can define the type of this pointer in the field `...` with any string you'd
 
 Now, this pointer will only trigger that allows such type / have such type in the list, e.g. above, any trigger that includes `index`.
 
+> BUG: (Pls reconfirm) To ensure any pointer could trigger any Pointer Trigger & `CVRInteractable` (?), **you must hold that GameObject** (not drop or let go), otherwise, the trigger will ignore it.
+> - Pulled pin bomb dropped + other fresh bomb = FAIL
+> - Pulled pin bomb dropped **held** + other fresh bomb = WORK
+> - Lighter kept on dropped + drag fresh bomb to its flame = WORK
+
 ##### Props (`CVRSpawnableTrigger`) - Hole 
 
 To make trigger for **props**, add a GameObject with **`CVRSpawnableTrigger`** added to it, OR add it to the prop itself (not recommmended). No need to add collider.
 
 You can adjust its area size, offset, and allowed types (You'll need to enable `Advanced mode` to unlock more options). You can also pick more than one which element will this trigger by, whether `Player Local` (you), `Player Network` (other players in instance), and/or `Particles`.
 
-BUG?: Not whitelisted in prop, only world?
+BUG?: ~~Not whitelisted in prop, only world?~~??
+
+#### Interactible (`CVRInteractable`) (World only)
+
+You can setup simple pointer based detection in a GameObject with `Collider`.
+
+use trigger `OnPointerEnter` & `OnPointerExit` accordingly, set which pointer types allowed and which object specifically, and define those callback actions in each.
 
 ##### Avatar (`CVRAvatarTrigger`) - Hole
 
@@ -333,11 +345,12 @@ Here are the UUIDs of all these assets we uploaded to CVR:
 
 <!-- TODO: Table pls -->
 
-> Commissioned assets still private? We apologize, those are the commissions customer haven't yet paid to this day, and therefore long procrastinations to press `Submit to Public`.  
+> Commissioned assets still private? We apologize, those are the commissions customer haven't yet paid to this day, and therefore long procrastinations to press `Submit to Public`. OR, the Admin to this day have yet to approve our Publish request for some reason.  
 > Desperate of trying one? Contact us, JOELwindows7 at Discord under DM prefix `PLS_SHARE_ASSETS` and then the UUID(s) & your ABI account username. We will share that/those to you. Absolutely $0  
 > As always, source code making these asset **are always open source** & you can implement to your world!  
 > Please note, to avoid confusion it is advised to reupload the assets. Just let me do it. To break procrastinations, Simply pay full or part by part in crowd until full to which UUID, to [Joel's Ko-fi](https://ko-fi.com/joelwindows7)  
-> by putting donation pay & message like e.g.: $?? `UNPROCRASTINATE 92f6e5f4-e860-42fd-8154-81d69f605099`. Any added amount will slowly reduce procrastinations. If the payment pool reaches `FULL` for this UUID commission, the procrastination will be removed immediately. Extra accidental extras will not be refunded and will be considered donation tip, thank you so much.  
+> by putting donation pay & message like e.g.: $?? `UNPROCRASTINATE 92f6e5f4-e860-42fd-8154-81d69f605099`. Any added amount will slowly reduce procrastinations. If the payment pool reaches `FULL` for this UUID commission, the procrastination will be removed immediately. Extra accidental extras will not be refunded and will be considered donation tip, thank you so much. Additionally, it is required that you ensured you have added friend `JOELwindows7`.  
+> The same command can also be used for props Admin have yet to approve our publish request, at no extra charge.
 > C'mon, I need money & my parents will retire soon. But I'm not an asshole, just.. I'll long it (and times later to be public), because you don't pay. I can't work without money, I'm bio being!
 >
 > PS: If you did not handover the GUID or selected wrong GUID (i.e. already published GUIDs), we will pick random GUID.
@@ -473,6 +486,7 @@ Here are the UUIDs of all these assets we uploaded to CVR:
 | `7298ba18-cf8d-4478-b6d5-035c6e59f861` | Pontoon Circle | JOELwindows7 | For Bridge Carryover game |
 | `89a7a56a-f391-4e5b-90f9-240ef72cd4d5` | Duarsplode | JOELwindows7 | Lagsplode Grenade with particle & ragdoller |
 | `f7b036a6-4356-4c80-a247-3f49d96424d7` | Krappet | JOELwindows7 | Another car |
+| `dc317a48-39d2-40da-a3e3-27168334d43f` | Orange Fragrance | JOELwindows7 | Stella Jeruk |
 | `140ca808-7a9a-49c3-9296-3f49127f04ea` | Sex Dice Tutorial card | JOELwindows7 | **NSFW** How to DIY Lewd dice. |
 | `6d74cc05-a541-493b-9c5d-2fd377f9e4bc` | Click to Poof | JOELwindows7 | **Experimental** |
 | `382db2db-2101-4308-9a8a-5bcb263880a7` | Reflection Probe Helm Spawner | JOELwindows7 | **Experimental** |
@@ -515,6 +529,7 @@ For employee: **DO NOT LOSE THE GUID!! MAKE SURE IT IS STILL ATTACHED, & IS SAME
 |-|-|-|
 <!-- | `` | `` | `` | a | tags | -->
 | `978bc94d-5a8b-4199-8352-b51c985dfa24` | `FAIL` | `FAIL-FA24` | Failed Research Car No. 1. Non-RCC variant | `⚡ EV`, `🏭 Commercial` |
+| `2f8ba87c-398f-4fd8-9fe6-db74234988d6` | `KARP` | `KARP-88D6` | Krappet bobsled car | `⚡ EV`, `🏭 Commercial` |
 | `6ac4ea02-0194-45e4-a1cf-a636af63ab98` | `ISKY` | `ISKY-AB98` | Sky's Hyundai IONIQ 5 (Indonesia Cikarang Version) Signature Long Range (Modded-frankensteined, fulfill all misses) | `⚡ EV`, `🏚️ Personal` |
 | `4dd6fa8f-bd5d-4c64-a5b0-b1e6a4edae56` | `LUCY` | `LUCY-AE56` | Latsufir's Prototype Dasandim Military Tough Saucer Mk. 2019 | `☢️ Mini Reactor`, `🏚️ Personal`, `🌌 Space` |
 
@@ -830,13 +845,14 @@ hmm it appears a customization script gone, so does in the game!
 
 Escalation into a contract is being discussed. When Wakturia deems it viable, it would be then escalated.
 
-Reason = Unity next gen betrayals series 2023.
+Reason = Unity next gen betrayals series 2023.; Toxic social condition surprisingly present here as well.
 
 Observing:
 
 - Unity Engine. Could be mass abandoned, in which usage population observably reduced down to less than 100K gamers
 - ChilloutVR. **Could be ceased**, due to that Unity's ever growing tactic of genocide. Could be a statement regarding inviability handling Unity's bad behaviours, even working around around older the latest Runtime-fee-free version ever activatable by creators & themselves, where it no longer works and must upgrade to Runtime Fee agenda enabled versions. In event of critical situation (which hopefully does not reach), ABI is suggested to restart everything from scratch with Godot (Neos Unreal & VRChat Unity & others already exists, but not Godot). Also, ABI is suggested not to abandon critical support due to a particular competitor whose used same Unity Engine, and ensured to add all suggested & requested last feature sets before going into apocalypse mode.
 - This. Following fate of ChilloutVR for its supporting status, and observing populations of userbase in common setting (normal & modded), not including post-apocalypse userbase (i.e. Overmodded Frankensteined already abandoned CVR).
+- Society. Social condition pertaining to the organic beings, excluding inorganic beings (such as sentient AI lifeform).
 
 > It has been rumored that extra factor of death are believed to be paid & private (proprietary, exclusive to certain people) assets. Each Assets you need to buy & never accessble are each nail in these coffins, one to Unity, twice to CVR. Perkedel states that these are our employees' opinion and we will observe whether or not that this opinion is convertible into facts, by opening opportunities such as Free just for Perkedel atleast (Give assets to Joel for $0 willingly), and evaluate if such encouragement would remove enough amount of nails in the coffin.
 
