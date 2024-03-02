@@ -118,7 +118,7 @@ Joel: idk what am I thinking, We call these DMCAers Federals, that's what X0p1r4
 Please attach screenshots below for the assets we have paid to be used by Perkedel Cinematic Universe gamers.  
 For real life contributors, you must purchase the license of your own, not sparsdated you got out there 😉. For legal reasons. We do not want you get harrassed by your Federals because caught using sparsdated assets.
 
-- [Khodrin HUD Assets](https://khodrin.gumroad.com/l/hud_shader_3) ![Bought HUD Shader](/DiceGlow/Assets/JOELwindows7/_CORE/Sprites/Screenshots/ProvesOfPurchase/CVR bought khodrin hud shader.png), Costs **$3.99**, Paid **$5.00** (Voluntarily willingly, you're welcome)
+- [Khodrin HUD Assets](https://khodrin.gumroad.com/l/hud_shader_3) ![Bought HUD Shader](/DiceGlow/Assets/JOELwindows7/_CORE/Sprites/Screenshots/ProvesOfPurchase/CVR_bought_Khodrin_hud_shader.png), Costs **$3.99**, Paid **$5.00** (Voluntarily willingly, you're welcome)
 
 ## Quick Tutorials
 
@@ -277,6 +277,27 @@ You can also debug & view these pointers & triggers by opening big menu (`ESC` /
 NotAKidOnSteam has a helper system that helps you generate pointers for your avatar. Although incomplete at the moment, it should suffice for most task.
 
 To use it, simply download the release `.unitypackage` from this URL **https://github.com/NotAKidOnSteam/AvatarPointerGenerator**. Once you have installed it, you will see top menu `Tools/Avatar Pointer Generator`. Click it and drag your avatar to this window (or while selecting your Avatar, click `Use Selection`). Then `Generate Pointers`. You'll have your avatar equipped with typical set of pointers (pre-filled with according types as well) to get you started.
+
+- Install NAK Avatar Pointer Generator Helper.
+- Open up its tab window from top menu `Tools/Avatar Pointer Generator`
+- Drag your prepared `CVRAvatar` prefab OR GameObject into its only input field. OR, you can select your avatar in the scene, then click `Use Selection`.
+- click `Generate Pointers`.
+- Enjoy! You can make further adjustment if you'd like to. Ensure all pointers sized & placed symetrically at the end.
+
+#### How to GIF Texture
+
+*GIF texture* is possible here in CVR thanks to a shader provided by [Poiyomi](https://github.com/poiyomi/PoiyomiToonShader). with `PoiyomiToon`, you have a `SpecialFX` category effect called **`Flipbook`**. Due to Unity limitation, GIF files must first be converted with the included tool provided when you installed PoiyomiToon. This feature is available for $0 as of v8 series.
+
+- Ensure PoiyomiToon (either demo or [paid](https://www.patreon.com/poiyomi/posts)) has been installed. You should have this shader & Thry included when you have installed it.
+- Insert GIF file into your project. Assuming the filename goes like `myGifFile.gif`.
+- Right click GIF file, select `Thry`, `Flipbook`, `Gif 2 TextureArray`. You will receive the `TextureArray` of `myGifFile.asset`.
+- Create new Material (Right click somewhere in `Project` tab file area OR `+` icon in the `Project` tab, `Create`, `Material`)
+- Choose the topmost shader selection dropdown just underneath its material filename, to be `.poiyomi/PoiyomiToon`. Or search so that you pick `PoiyomiToon`.
+- insert that converted file into the field `Texture Array`. You can either drag the file into a tiny little box by the `Texture Array`, OR click the circle with dot, search & pick your file.
+- We are done. Insert this material into which `MeshRenderer` GameObject you want to bear this animated *texture*.
+- Enjoy! The GIF should play in that GameObject when you `Play` or loaded into CVR. You can also make further adjustments as you like.
+
+> BEWARE: (Patchuri) This feature may bloat your VRAM & others. Consider using this sparsely, so you can help prevent yourself & other players from lagging & crash. (Perkedel) You also would like to ensure to place safety tags `FlashingColor` & `FlashingLight`, since the albedo now is in motion & changes colors, and hence **may triggers epilepsy seizure on some cases**.
 
 ### Moar Tutorial
 
