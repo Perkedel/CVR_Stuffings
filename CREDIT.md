@@ -4715,3 +4715,5 @@ New Sauce lists
 - https://free3d.com/3d-models/glasses
 - https://kadissk3dworksph.gumroad.com/l/twzhjy
 - https://kadissk3dworksph.gumroad.com/
+- https://booth.pm/en/items/3757084 **PAID**
+- https://booth.pm/en/items/4695807 **PAID**
