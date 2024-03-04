@@ -4706,3 +4706,12 @@ New Sauce lists
 - https://smutba.se/user/6587/ Deagamble pls
 - https://twitter.com/Cyanu_Cyanide/status/1744738727078051878
 - I'm @JOELwindows7@mastodon.social on #Mastodon! Come follow me at https://mastodon.social/@JOELwindows7
+- VR Therapy
+- https://skfb.ly/oPG6o
+- JC had fluency in geography.
+- Either me looking too much internet or what, so many people otherwise lacked and crumbles on this subject.
+- Dippy ask max salt to Alexa. 6 grams a day
+- https://assetstore.unity.com/packages/3d/props/clothing/accessories/glasses-55693 **PAID**
+- https://free3d.com/3d-models/glasses
+- https://kadissk3dworksph.gumroad.com/l/twzhjy
+- https://kadissk3dworksph.gumroad.com/
