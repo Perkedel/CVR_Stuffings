@@ -4766,3 +4766,4 @@ New Sauce lists
 - https://discord.com/channels/410126604237406209/795882566968279091/1214586565754495027
 - https://discord.com/channels/410126604237406209/766087403609391165/1214625716998512660
 - Poiyomi edited shader CVR Globals
+- https://skfb.ly/ozqDZ IONIQ 5 Lowpoly. Andika Pratamaw andikapratamaw
