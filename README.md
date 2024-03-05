@@ -120,7 +120,7 @@ Please attach screenshots below for the assets we have paid to be used by Perked
 For real life contributors, you must purchase the license of your own, not sparsdated you got out there 😉. For legal reasons. We do not want you get harrassed by your Federals because caught using sparsdated assets.
 
 - [Khodrin HUD Assets](https://khodrin.gumroad.com/l/hud_shader_3). ![Bought HUD Shader](/DiceGlow/Assets/JOELwindows7/_CORE/Sprites/Screenshots/ProvesOfPurchase/CVR_bought_Khodrin_hud_shader.png), Costs **$3.99**, Paid **$5.00** (Voluntarily willingly, you're welcome)
-- [4 items from obi1](https://obis-stuff.booth.pm/): Rezz Glasses, Hypno glasses, Cage, DEFCON pin. ![Bought Obi1 stuffs](/DiceGlow/Assets/JOELwindows7/_CORE/Sprites/Screenshots/ProvesOfPurchase/bought_all_ob1_stuffs.png), Costs **¥2300** total, Paid **$2700** (since added ¥100 tips to each of the items, ¥100 \* 4 = **+¥400**) (Voluntarily willingly, you're welcome)
+- [4 items from obi1](https://obis-stuff.booth.pm/): Rezz Glasses, Hypno glasses, Cage, DEFCON pin. ![Bought Obi1 stuffs](/DiceGlow/Assets/JOELwindows7/_CORE/Sprites/Screenshots/ProvesOfPurchase/bought_all_ob1_stuffs.png), Costs **¥2300** total, Paid **¥2700** (since added ¥100 tips to each of the items, ¥100 \* 4 = **+¥400**) (Voluntarily willingly, you're welcome)
 
 ## Quick Tutorials
 
