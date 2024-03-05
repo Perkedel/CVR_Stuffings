@@ -4717,3 +4717,34 @@ New Sauce lists
 - https://kadissk3dworksph.gumroad.com/
 - https://booth.pm/en/items/3757084 **PAID**
 - https://booth.pm/en/items/4695807 **PAID**
+- https://takoyaki-mokei.booth.pm/
+- https://windagodofoxx.booth.pm/
+- https://mai-lofi.booth.pm/
+- https://shape.booth.pm/
+- https://booth.pm/en/items/3969849 **PAID**
+- https://booth.pm/en/items/5447156 **PAID**
+- arcturus
+- https://discord.com/channels/410126604237406209/588350726841827358/1214502270876655697
+- https://discord.com/channels/410126604237406209/588350726841827358/1214334222291046400
+- https://obis-stuff.booth.pm/items/5113617 **PAID** obi1
+- https://booth.pm/en/items/3976379 **PAID** 
+- https://booth.pm/en/items/3996403 **PAID**
+- https://booth.pm/en/items/4890737 **PAID**
+- https://booth.pm/en/items/5021976 **PAID**
+- https://booth.pm/en/items/5021976 **PAID**
+- https://booth.pm/en/items/4506821 **PAID**
+- https://blackpitvrc.booth.pm/
+- https://rinsuna.booth.pm/
+- https://takehkun.booth.pm/
+- https://booth.pm/ja/items/3278954 **PAID**
+- https://booth.pm/ja/items/998352
+- https://booth.pm/ja/items/5540657
+- https://booth.pm/ja/items/5355752
+- https://booth.pm/ja/items/3767770
+- https://booth.pm/ja/items/1999536
+- https://booth.pm/ja/items/3628707
+- https://booth.pm/ja/items/4294780
+- https://booth.pm/ja/items/4512438
+- https://booth.pm/ja/items/2841138
+- https://booth.pm/ja/items/3808485
+- https://obis-stuff.booth.pm/
