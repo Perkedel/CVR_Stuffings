@@ -4748,3 +4748,21 @@ New Sauce lists
 - https://booth.pm/ja/items/2841138
 - https://booth.pm/ja/items/3808485
 - https://obis-stuff.booth.pm/
+- https://discord.com/channels/410126604237406209/412210535443202049/1214179121719021688
+- https://discord.com/channels/410126604237406209/588350685255565344/1214419772809154560
+- https://discord.com/channels/410126604237406209/682645682968199168/1214327220135395358
+- https://youtu.be/pTKsQ-vuck8?si=nC2xF2qLtCL-r5_o
+- https://discord.com/channels/471446618156040210/471485271179919360/1209502770072133753
+- https://www.youtube.com/watch?v=5YdAguZCz48
+- https://skfb.ly/o8o8A **PAID**
+- https://sketchfab.com/3d-models/hyundai-ioniq-5-n-c34ac3ac044c4fe3955dc425f9a47424 **PAID**
+- **LIMITED TIME PROMO FOR THESE ASSETS!! CLAIM $0 FOR LIMITED TIME WITH CODE `ALLSTAR2024`!!!**
+- https://assetstore.unity.com/packages/3d/characters/humanoids/humans/masa-124326 **PAID** claim discount
+- https://assetstore.unity.com/packages/3d/environments/fantasy/the-ancient-set-temples-161795 **PAID** claim discount
+- https://assetstore.unity.com/packages/3d/characters/animals/undead-horse-knight-169073 **PAID** claim discount
+- https://assetstore.unity.com/packages/3d/characters/modular-fantasy-stylized-human-female-178653 **PAID** claim discount
+- https://assetstore.unity.com/packages/3d/characters/animals/insects/dragonfly-arrow-cute-series-215297 **PAID** claim discount
+- a TEAH
+- https://discord.com/channels/410126604237406209/795882566968279091/1214586565754495027
+- https://discord.com/channels/410126604237406209/766087403609391165/1214625716998512660
+- Poiyomi edited shader CVR Globals
