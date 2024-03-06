@@ -21,7 +21,7 @@
 #endif
 
 #if LTCGI_ENABLED
-	#include "Packages/at.pimaker.ltcgi/Shaders/LTCGI.cginc"
+	#include "/Packages/at.pimaker.ltcgi/Shaders/LTCGI.cginc"
 #endif
 
 //---------------------------------------
@@ -207,6 +207,7 @@ int _UVAlphaMaskSwizzle;
 int _UVRainMaskSwizzle;
 int _UVRimMaskSwizzle;
 int _UVDetailMaskSwizzle;
+int _MirrorNormalOffsetSwizzle;
 
 float3 shadowedReflections;
 

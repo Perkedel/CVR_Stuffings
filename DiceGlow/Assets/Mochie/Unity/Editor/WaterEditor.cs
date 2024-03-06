@@ -51,7 +51,7 @@ public class WaterEditor : ShaderGUI {
 	}, 0);
 
     string header = "WaterHeader_Pro";
-	string versionLabel = "v1.17";
+	string versionLabel = "v1.19";
 
 	MaterialProperty _Color = null;
 	MaterialProperty _NonGrabColor = null;
@@ -244,7 +244,13 @@ public class WaterEditor : ShaderGUI {
 	MaterialProperty _TexCoordSpaceSwizzle = null;
 	MaterialProperty _GlobalTexCoordScaleUV = null;
 	MaterialProperty _GlobalTexCoordScaleWorld = null;
-
+	MaterialProperty _BicubicLightmapping = null;
+	MaterialProperty _MirrorNormalOffsetSwizzle = null;
+	MaterialProperty _InvertNormals = null;
+	MaterialProperty _VisualizeFlowmap = null;
+	MaterialProperty _AudioLink = null;
+	MaterialProperty _AudioLinkStrength = null;
+	MaterialProperty _AudioLinkBand = null;
 	// MaterialProperty _FogTint2 = null;
 	// MaterialProperty _FogPower2 = null;
 	// MaterialProperty _FogBrightness2 = null;
@@ -299,7 +305,7 @@ public class WaterEditor : ShaderGUI {
 			Action surfaceTabAction = ()=>{
 				MGUI.PropertyGroup(()=>{
 					me.TexturePropertySingleLine(texLabel, _MainTex, _BaseColorStochasticToggle);
-					MGUI.TexPropLabel(Tips.stochasticLabel, 117);
+					MGUI.TexPropLabel(Tips.stochasticLabel, 117, false);
 					if (_MainTex.textureValue){
 						MGUI.TextureSOScroll(me, _MainTex, _MainTexScroll);
 						// me.ShaderProperty(_BaseColorOffset, Tips.parallaxOffsetLabel);
@@ -342,12 +348,13 @@ public class WaterEditor : ShaderGUI {
 				MGUI.Space4();
 				me.ShaderProperty(_NormalMapMode, "Mode");
 				me.ShaderProperty(_DistortionStrength, "Refraction Strength");
+				me.ShaderProperty(_InvertNormals, "Invert");
 				MGUI.Space4();
 				if (_NormalMapMode.floatValue == 0){
 					MGUI.BoldLabel("Primary");
 					MGUI.PropertyGroup(() => {
 						me.TexturePropertySingleLine(Tips.waterNormalMap, _NormalMap0, _Normal0StochasticToggle);
-						MGUI.TexPropLabel(Tips.stochasticLabel, 117);
+						MGUI.TexPropLabel(Tips.stochasticLabel, 117, false);
 						me.ShaderProperty(_NormalStr0, "Strength");
 						MGUI.Vector2Field(_NormalMapScale0, "Scale");
 						MGUI.Vector2Field(_NormalMapScroll0, "Scrolling");
@@ -359,7 +366,7 @@ public class WaterEditor : ShaderGUI {
 					MGUI.PropertyGroup(() => {
 						MGUI.ToggleGroup(_Normal1Toggle.floatValue == 0);
 						me.TexturePropertySingleLine(Tips.waterNormalMap, _NormalMap1, _Normal1StochasticToggle);
-						MGUI.TexPropLabel(Tips.stochasticLabel, 117);
+						MGUI.TexPropLabel(Tips.stochasticLabel, 117, false);
 						me.ShaderProperty(_NormalStr1, "Strength");
 						MGUI.Vector2Field(_NormalMapScale1, "Scale");
 						MGUI.Vector2Field(_NormalMapScroll1, "Scrolling");
@@ -378,7 +385,7 @@ public class WaterEditor : ShaderGUI {
 			};
 			Foldouts.Foldout("NORMAL MAPS", foldouts, norm0TabButtons, mat, me, norm0TabAction);
 
-			// Reflections & Specular Highlights
+			// Specularity
 			reflSpecTabButtons.Add(()=>{ResetReflSpec();}, MGUI.resetLabel);
 			Action reflSpecTabAction = ()=>{
 				MGUI.Space4();
@@ -389,9 +396,6 @@ public class WaterEditor : ShaderGUI {
 				me.ShaderProperty(_DetailTextureMode, Tips.detailMode);
 				MGUI.Space8();
 				me.ShaderProperty(_Reflections, "Reflections");
-				if (_Reflections.floatValue == 3){
-					MGUI.DisplayWarning("Mirror mode requires a VRChat mirror component with this shader selected in the custom shader field. It also requires the mesh be facing forwards on the local Z axis (see default unity quad for example). Lastly, this incurs the same performance cost as any other VRChat mirror, use it very sparingly.");
-				}
 				MGUI.PropertyGroup(()=>{
 					MGUI.ToggleGroup(_Reflections.floatValue == 0);
 					if (_Reflections.floatValue == 2){
@@ -399,6 +403,8 @@ public class WaterEditor : ShaderGUI {
 						MGUI.Vector3Field(_ReflCubeRotation, "Rotation", false);
 					}
 					else {
+						if (_Reflections.floatValue == 3)
+						 	me.ShaderProperty(_MirrorNormalOffsetSwizzle, Tips.mirrorNormalSwizzleText);
 						me.ShaderProperty(_ReflTint, "Tint");
 					}
 					me.ShaderProperty(_ReflStrength, "Strength");
@@ -412,6 +418,9 @@ public class WaterEditor : ShaderGUI {
 					me.ShaderProperty(_BackfaceReflections, "Apply to Backfaces");
 					MGUI.ToggleGroupEnd();
 				});
+				if (_Reflections.floatValue == 3){
+					MGUI.DisplayWarning("Mirror mode requires a VRChat mirror component with this shader selected in the custom shader field. It also requires the mesh be facing forwards on the local Z axis (see default unity quad for example). Lastly, this incurs the same performance cost as any other VRChat mirror, use it very sparingly.");
+				}
 				MGUI.Space8();
 				me.ShaderProperty(_Specular, "Specular Highlights");
 				MGUI.PropertyGroup( ()=>{
@@ -435,12 +444,22 @@ public class WaterEditor : ShaderGUI {
 				MGUI.PropertyGroup(()=>{
 					MGUI.ToggleGroup(_EmissionToggle.floatValue == 0);
 					me.TexturePropertySingleLine(emissLabel, _EmissionMap, _EmissionMapStochasticToggle);
-					MGUI.TexPropLabel(Tips.stochasticLabel, 117);
+					MGUI.TexPropLabel(Tips.stochasticLabel, 117, false);
 					me.ShaderProperty(_EmissionColor, "Tint");
 					MGUI.TextureSOScroll(me, _EmissionMap, _EmissionMapScroll);
 					me.ShaderProperty(_EmissionDistortionStrength, "Distortion Strength");
+					me.ShaderProperty(_AudioLink, "Audio Link");
+					if (_AudioLink.floatValue == 1){
+						MGUI.PropertyGroupLayer(()=>{
+							MGUI.SpaceN1();
+							me.ShaderProperty(_AudioLinkBand, "Band");
+							me.ShaderProperty(_AudioLinkStrength, "Strength");
+							MGUI.SpaceN1();
+						});
+					}
 					MGUI.ToggleGroupEnd();
 				});
+
 			};
 			Foldouts.Foldout("EMISSION", foldouts, emissTabButtons, mat, me, emissTabAction);
 
@@ -452,7 +471,6 @@ public class WaterEditor : ShaderGUI {
 				MGUI.PropertyGroup(()=>{
 					MGUI.ToggleGroup(_FlowToggle.floatValue == 0);
 					me.TexturePropertySingleLine(flowLabel, _FlowMap, _FlowMapUV);
-					MGUI.TexPropLabel("UV Set", 95);
 					if (_BlendNoiseSource.floatValue == 1)
 						me.TexturePropertySingleLine(Tips.blendNoise, _BlendNoise);
 					MGUI.Vector2Field(_FlowMapScale, "Flow Map Scale");
@@ -461,6 +479,7 @@ public class WaterEditor : ShaderGUI {
 					me.ShaderProperty(_FlowSpeed, "Speed");
 					me.ShaderProperty(_FlowStrength, "Strength");
 					me.ShaderProperty(_BlendNoiseSource, "Blend Noise Source");
+					me.ShaderProperty(_VisualizeFlowmap, "Visualize");
 					MGUI.ToggleGroupEnd();
 				});
 			};
@@ -612,7 +631,7 @@ public class WaterEditor : ShaderGUI {
 				MGUI.ToggleGroup(_FoamToggle.floatValue == 0);
 				MGUI.PropertyGroup(()=>{
 					me.TexturePropertySingleLine(foamLabel, _FoamTex, _FoamColor, _FoamStochasticToggle);
-					MGUI.TexPropLabel(Tips.stochasticLabel, 117);
+					MGUI.TexPropLabel(Tips.stochasticLabel, 117, true);
 					MGUI.Space2();
 					MGUI.Vector2Field(_FoamTexScale, "Scale");
 					MGUI.Vector2Field(_FoamTexScroll, "Scrolling");
@@ -777,6 +796,7 @@ public class WaterEditor : ShaderGUI {
 					if (transMode == 2){
 						me.ShaderProperty(_DepthEffects, "Depth Effects");
 					}
+					me.ShaderProperty(_BicubicLightmapping, Tips.bicubicLightmap);
 				});
 				MGUI.PropertyGroup(()=>{
 					me.ShaderProperty(_TexCoordSpace, "Texture Coordinate Space");
@@ -859,6 +879,7 @@ public class WaterEditor : ShaderGUI {
 		int specMode = mat.GetInt("_Specular");
 		int causticsMode = mat.GetInt("_CausticsToggle");
 		int normalMapMode = mat.GetInt("_NormalMapMode");
+		int bicubic = mat.GetInt("_BicubicLightmapping");
 		int ssrToggle = mat.GetInt("_SSR");
 		bool ssrEnabled = ssrToggle == 1 && depthFXToggle == 1 && transMode == 2 && (reflMode == 1 || reflMode == 2);
 
@@ -878,6 +899,7 @@ public class WaterEditor : ShaderGUI {
 		MGUI.SetKeyword(mat, "_CAUSTICS_FLIPBOOK_ON", causticsMode == 3 && depthFXToggle == 1);
 		MGUI.SetKeyword(mat, "_NORMALMAP_FLIPBOOK_ON", normalMapMode == 1);
 		MGUI.SetKeyword(mat, "_SCREENSPACE_REFLECTIONS_ON", ssrEnabled);
+		MGUI.SetKeyword(mat, "_BICUBIC_LIGHTMAPPING_ON", bicubic == 1);
 	}
 
 	void CheckTrilinear(Texture tex) {
@@ -1051,6 +1073,7 @@ public class WaterEditor : ShaderGUI {
 		_ReflCubeRotation.vectorValue = Vector4.zero;
 		_DetailTextureMode.floatValue = 0f;
 		_SSRHeight.floatValue = 0.2f;
+		_MirrorNormalOffsetSwizzle.floatValue = 1f;
 	}
 
 	void ResetRain(){
@@ -1077,6 +1100,9 @@ public class WaterEditor : ShaderGUI {
 		_EmissionColor.colorValue = Color.white;
 		_EmissionMapScroll.vectorValue = Vector4.zero;
 		_EmissionDistortionStrength.floatValue = 0f;
+		_AudioLink.floatValue = 0f;
+		_AudioLinkBand.floatValue = 0f;
+		_AudioLinkStrength.floatValue = 1f;
 	}
 
 	void ResetAreaLit(){
