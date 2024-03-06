@@ -33,8 +33,18 @@ float4 frag(v2f i, bool isFrontFace: SV_IsFrontFace) : SV_Target {
 			_NormalStr1 = -_NormalStr1;
 			_DetailNormalStrength = -_DetailNormalStrength;
 			_FoamNormalStrength = -_FoamNormalStrength;
+			_NormalMapFlipbookStrength = -_NormalMapFlipbookStrength;
 		}
 	#endif
+
+	if (_InvertNormals == 1){
+		_NormalStr0 = -_NormalStr0;
+		_NormalStr1 = -_NormalStr1;
+		_DetailNormalStrength = -_DetailNormalStrength;
+		_FoamNormalStrength = -_FoamNormalStrength;
+		_NormalMapFlipbookStrength = -_NormalMapFlipbookStrength;
+	}
+
 	#if VERT_OFFSET_ENABLED
 		i.wave.y = saturate(i.wave.y);
 	#endif
@@ -399,8 +409,10 @@ float4 frag(v2f i, bool isFrontFace: SV_IsFrontFace) : SV_Target {
 		col = lerp(col, detailBC, detailBC.a);
 	#endif
 
+	float3 normalDir = i.normal;
+
 	#if PBR_ENABLED
-		float3 normalDir = normalize(normalMap.x * i.tangent + normalMap.y * i.binormal + normalMap.z * i.normal);
+		normalDir = normalize(normalMap.x * i.tangent + normalMap.y * i.binormal + normalMap.z * i.normal);
 		if (!isFrontFace)
 			normalDir = -normalDir;
 		float NdotV = abs(dot(normalDir, viewDir));
@@ -581,8 +593,20 @@ float4 frag(v2f i, bool isFrontFace: SV_IsFrontFace) : SV_Target {
 				float3 emissCol = MOCHIE_SAMPLE_TEX2D_SAMPLER(_EmissionMap, sampler_FlowMap, emissionUV);
 			#endif
 		#endif
+		emissCol *= _EmissionColor;
+		#if AUDIOLINK_ENABLED
+			audioLinkData al = (audioLinkData)0;
+			InitializeAudioLink(al);
+			float audiolink = GetAudioLinkBand(al, _AudioLinkBand);
+			emissCol *= audiolink;
+		#endif
 		col.rgb += (emissCol * _EmissionColor);
 	#endif
+
+	ApplyIndirectLighting(i.lightmapUV, i.normal, normalDir, col.rgb);
+
+	if (_VisualizeFlowmap)
+		col = flowMap;
 
 	flowMap = lerp(0, flowMap, _ZeroProp);
 

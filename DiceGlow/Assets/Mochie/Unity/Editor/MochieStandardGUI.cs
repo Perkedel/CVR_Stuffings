@@ -23,7 +23,7 @@ internal class MochieStandardGUI : ShaderGUI {
 		"LTCGI"
 	}, 1);
 
-	string versionLabel = "v1.26";
+	string versionLabel = "v1.28";
 	public static string receiverText = "AreaLit Maps";
 	public static string emitterText = "AreaLit Light";
 	public static string projectorText = "AreaLit Projector";
@@ -242,6 +242,7 @@ internal class MochieStandardGUI : ShaderGUI {
 	MaterialProperty uvRainMaskSwizzle = null;
 	MaterialProperty uvRimMaskSwizzle = null;
 	MaterialProperty uvDetailMaskSwizzle = null;
+	MaterialProperty mirrorNormalOffsetSwizzle = null;
 
 	MaterialEditor me;
 
@@ -442,6 +443,7 @@ internal class MochieStandardGUI : ShaderGUI {
 		uvRainMaskSwizzle = FindProperty("_UVRainMaskSwizzle", props);
 		uvRimMaskSwizzle = FindProperty("_UVRimMaskSwizzle", props);
 		uvDetailMaskSwizzle = FindProperty("_UVDetailMaskSwizzle", props);
+		mirrorNormalOffsetSwizzle = FindProperty("_MirrorNormalOffsetSwizzle", props);
 	}
 
 	public override void OnGUI(MaterialEditor materialEditor, MaterialProperty[] props){
@@ -775,7 +777,6 @@ internal class MochieStandardGUI : ShaderGUI {
 				
 				me.TexturePropertySingleLine(Tips.emissionText, emissionMap, emissionColorForRendering, emissIntensity);
 				// me.TexturePropertyWithHDRColor(Tips.emissionText, emissionMap, emissionColorForRendering, false);
-				MGUI.TexPropLabel("Intensity", 105);
 				MGUI.SpaceN2();
 				me.TexturePropertySingleLine(Tips.maskText, emissionMask);
 				MGUI.SpaceN4();
@@ -827,6 +828,9 @@ internal class MochieStandardGUI : ShaderGUI {
 					MGUI.SpaceN4();
 				});
 			}
+			if (ssr.floatValue == 1 && !isLite){
+				MGUI.DisplayWarning("Screenspace reflections in VRChat require the \"Depth Light\" prefab found in: Assets/Mochie/Unity/Prefabs\n\nThey are also VERY expensive, please use them sparingly!");
+			}
 		});
 	}
 
@@ -854,9 +858,7 @@ internal class MochieStandardGUI : ShaderGUI {
 			MGUI.ToggleGroup(subsurface.floatValue == 0);
 			MGUI.PropertyGroupLayer(() => {
 				MGUI.SpaceN1();
-				me.TexturePropertySingleLine(Tips.thicknessMapText, thicknessMap, thicknessMap.textureValue ? thicknessMapPower : null);
-				if (thicknessMap.textureValue)
-					MGUI.TexPropLabel("Power", 94);
+				me.TexturePropertySingleLine(Tips.thicknessMapText, thicknessMap, thicknessMapPower);
 				me.ShaderProperty(scatterCol, Tips.scatterCol);
 				me.ShaderProperty(scatterAlbedoTint, Tips.scatterAlbedoTint);
 				MGUI.SpaceN2();
@@ -1041,16 +1043,17 @@ internal class MochieStandardGUI : ShaderGUI {
 				me.ShaderProperty(bicubicLightmap, Tips.bicubicLightmap);
 				me.ShaderProperty(unityFogToggle, Tips.unityFogToggleText);
 				me.ShaderProperty(vertexBaseColor, Tips.vertexBaseColorText);
-				if (!isLite)
-					me.ShaderProperty(mirrorToggle, Tips.mirrorMode);
+				me.ShaderProperty(mirrorToggle, Tips.mirrorMode);
+				if (mirrorToggle.floatValue == 1){
+					me.ShaderProperty(mirrorNormalOffsetSwizzle, Tips.mirrorNormalSwizzleText);
+				}
 				me.EnableInstancingField();
 				MGUI.SpaceN2();
 				me.DoubleSidedGIField();
 				MGUI.SpaceN3();
 			});
-
-			if (ssr.floatValue == 1 && !isLite){
-				MGUI.DisplayInfo("\nScreenspace reflections in VRChat requires the \"Depth Light\" prefab found in: Assets/Mochie/Unity/Prefabs\n\nIt is also is VERY expensive, please use it sparingly!\n");
+			if (mirrorToggle.floatValue == 1){
+				MGUI.DisplayWarning("Mirror mode requires a VRChat mirror component with this shader selected in the custom shader field. It also requires the mesh be facing forwards on the local Z axis (see default unity quad for example). Lastly, this incurs the same performance cost as any other VRChat mirror, use it very sparingly.");
 			}
 			MGUI.Space1();
 			// me.TexturePropertySingleLine(new GUIContent("RNM0"), _RNM0);

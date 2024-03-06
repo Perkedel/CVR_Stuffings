@@ -8,13 +8,15 @@ Material:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: VRSL-AudioLink_Separaton
-  m_Shader: {fileID: 4800000, guid: f58e8d9b2a97f1847928753f7382bfb3, type: 3}
+  m_Shader: {fileID: 4800000, guid: e923d97391d92af458ef6f59e8f0963b, type: 3}
   m_ValidKeywords: []
   m_InvalidKeywords:
   - _2D_NOISE_ON_ON
   - _ENABLECOMPATIBILITYMODE_ON
+  - _ENABLESTROBE_ON
   - _MAGIC_NOISE_ON_HIGH_ON
   - _MAGIC_NOISE_ON_MED_ON
+  - _SHOULDDOFLICKER_ON
   - _USEDEPTHLIGHT_ON
   - _USERAWGRID_ON
   m_LightmapFlags: 4
@@ -26,6 +28,10 @@ Material:
   m_SavedProperties:
     serializedVersion: 3
     m_TexEnvs:
+    - _ALDelayMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
     - _AL_Mask:
         m_Texture: {fileID: 2800000, guid: 9bc82e44687e9f742a9cecbd0a89f70e, type: 3}
         m_Scale: {x: 1, y: 1}
@@ -35,6 +41,10 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _AudioFallbackTexture:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _AudioSpectrum:
         m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
@@ -94,6 +104,10 @@ Material:
         m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
+    - _MetallicSmoothness:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
     - _MultiMap:
         m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
@@ -130,6 +144,10 @@ Material:
         m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
+    - _ProjectionMainTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
     - _RimTex:
         m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
@@ -154,7 +172,15 @@ Material:
         m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
+    - _texcoord2:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
     - _texcoord3:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _texcoord4:
         m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
@@ -162,6 +188,7 @@ Material:
     m_Floats:
     - _2D_NOISE_ON: 1
     - _ALDelayUPosition: 0.5
+    - _ALDelayUVMap: 2
     - _ALDelayVPosition: 0.83
     - _ALEmitifInactive: 1
     - _ALTimeScale: 0
@@ -169,6 +196,7 @@ Material:
     - _ALUVToggle: 0
     - _AdvToggle: 0
     - _AlphaMode: 0
+    - _AlphaProjectionIntensity: 0.5
     - _AlphaToCoverage: 0
     - _BPM: 128
     - _Band: 1
@@ -182,18 +210,26 @@ Material:
     - _BlendModeIndex: 0
     - _BlendOffset: 0.25
     - _BlendOp: 0
+    - _BlendSrc: 2
     - _BlindingAngleMod: 1
     - _BlindingStrength: 1
+    - _BlueMultiplier: 1
     - _BumpScale: 1
+    - _ChannelMode: 2
+    - _ClippingThreshold: 0.5
+    - _ColorSat: 1
     - _ConeLength: 1
     - _ConeSync: 0.2
     - _ConeWidth: 0
     - _CullMode: 2
     - _Culling: 2
+    - _CurveMod: 5
     - _Cutoff: 0.5
     - _DMXChannel: 0
     - _DebugMode: 0
+    - _DepthOcclusionTestZBias: -0.001
     - _DetailNormalMapScale: 1
+    - _DiscardUVMap: 1
     - _DiscardUVTile00: 0
     - _DiscardUVTile01: 0
     - _DiscardUVTile02: 0
@@ -218,8 +254,10 @@ Material:
     - _EmissionStrength: 0
     - _EmissionZone: 0
     - _EnableAudioLink: 1
+    - _EnableAudioReact: 0
     - _EnableCompatibilityMode: 1
     - _EnableDMX: 0
+    - _EnableDecal: 0
     - _EnableEmissionGlow: 0
     - _EnableExtraChannels: 0
     - _EnableFallback: 0
@@ -228,16 +266,23 @@ Material:
     - _EnableGlowMaskR: 0
     - _EnableRimLighting: 1
     - _EnableSpin: 0
-    - _EnableStrobe: 0
+    - _EnableStaticEmissionColor: 0
+    - _EnableStrobe: 1
     - _EnableVerticalMode: 0
     - _EnableVideoPlayerDecal: 0
     - _EndFade: 2.2
+    - _EndFadeinDistanceWorldUnit: 0.5
+    - _Fade: 1
     - _FadeAmt: 0.1
     - _FadeStrength: 0
+    - _FeatherOffset: 1
     - _FinalIntensity: 1
     - _FixtureBaseRotationY: 0
-    - _FixtureMaxIntensity: 1
+    - _FixtureMaxIntensity: 1.5
     - _FixtureRotationX: 0
+    - _FixutreIntensityMultiplier: 1
+    - _FlickResultIntensityLowestPoint: 0.5
+    - _FlickerAnimSpeed: 5
     - _GiEqualization: 0.9
     - _GlobalIntensity: 1
     - _GlobalIntensityBlend: 1
@@ -252,6 +297,7 @@ Material:
     - _GradientDirection: 0
     - _GradientMod: 2.25
     - _GradientModGOBO: 2.25
+    - _GreenMultiplier: 1
     - _HQMode: 0
     - _HaltoneRotation: 45
     - _HaltoneScale: 100
@@ -259,6 +305,9 @@ Material:
     - _HueAudioStrength: 0
     - _HueShift: 0
     - _HueSpeed: 0.185
+    - _IndirLightUseMinforMax: 1
+    - _IndirectDiffuseOffset: 0
+    - _IndirectDiffuseOffsetMax: 0
     - _InnerFadeStrength: 0
     - _InnerIntensityCurve: 1
     - _InternalShine: 1
@@ -269,6 +318,7 @@ Material:
     - _LegacyGoboRange: 0
     - _LensMaxBrightness: 5
     - _LightColorChordSmoothenss: 1
+    - _LightSourceViewSpaceRadius: 0.05
     - _LightingType: 0
     - _LowsPulseDirection: 180
     - _MAGIC_NOISE_ON_HIGH: 1
@@ -288,9 +338,13 @@ Material:
     - _Metallic: 0
     - _MetallicVal: 0
     - _Metalness: 0
+    - _MinBrightness: 0
     - _MinEmission: 0
     - _MinimumBeamRadius: 1
+    - _ModX: 1
+    - _ModY: 1
     - _Mode: 0
+    - _MultiSampleDepth: 1
     - _NineUniverseMode: 0
     - _Noise2Power: 1
     - _Noise2PowerDefault: 1
@@ -325,11 +379,32 @@ Material:
     - _PanInvert: 0
     - _Parallax: 0.02
     - _PotatoMode: 0
+    - _ProjectionCutoff: 0.25
+    - _ProjectionDistanceFallOff: 1
+    - _ProjectionFade: 0
+    - _ProjectionFadeCurve: 1
+    - _ProjectionIntensity: 0
+    - _ProjectionMaxIntensity: 1
+    - _ProjectionOriginCutoff: 0.25
+    - _ProjectionRange: 0
+    - _ProjectionRotation: 0
     - _ProjectionSelection: 0
+    - _ProjectionShadowHarshness: 0
+    - _ProjectionUVMod: 0
+    - _ProjectionUVMod2: 0
+    - _ProjectionUVMod3: 0
+    - _ProjectionUVMod4: 0
+    - _ProjectionUVMod5: 0
+    - _ProjectionUVMod6: 0
+    - _ProjectionUVMod7: 0
+    - _ProjectionUVMod8: 0
     - _PulseSpeed: 0
     - _ReacitvityB: 0
     - _ReacitvityG: 0
     - _ReacitvityR: 0
+    - _RedMultiplier: 1
+    - _ReferenceDistance: 2
+    - _RemoveTextureArtifact: 0
     - _RenderMode: 1
     - _RenderQueueOffset: 0
     - _RimBaseColorStrength: 0.974
@@ -345,9 +420,10 @@ Material:
     - _RimlightOffset: 1
     - _RimlightRotationAngle: 0
     - _RimlightStyleIndex: 0
-    - _Saturation: 0.439
+    - _Saturation: 0.408
     - _SaturationAudioStrength: 0.446
     - _SaturationLength: 9
+    - _ScaleFactor: 1
     - _Scroll: 1
     - _ScrollOffset: 0.00001
     - _SettingsMode: 0
@@ -358,6 +434,7 @@ Material:
     - _ShadowLength: 2
     - _ShadowOffset: 0
     - _ShadowStyleIndex: 0
+    - _ShouldDoFlicker: 1
     - _ShowVideoPreview: 0
     - _Smoothness: 0
     - _SmoothnessTextureChannel: 0
@@ -369,6 +446,7 @@ Material:
     - _SpecularStyleIndex: 0
     - _SpinSpeed: 0
     - _SrcBlend: 1
+    - _StartFadeinDistanceWorldUnit: 0.05
     - _StripeSplit: 0
     - _StripeSplit2: 0
     - _StripeSplit3: 0
@@ -386,23 +464,29 @@ Material:
     - _StrobeFreq: 1
     - _TiltInvert: 0
     - _TransparentWithZWrite: 0
+    - _UVScale: 1
     - _UVSec: 0
     - _UniversalIntensity: 1
     - _UseDepthLight: 1
+    - _UsePreMultiplyAlpha: 0
     - _UseRawGrid: 1
     - _UseUnityMetalicMap: 0
+    - _UseWorldNorm: 0
     - _UvAnimRotationSpeed: 0
     - _UvAnimScrollXSpeed: 0
     - _UvAnimScrollYSpeed: 0
     - _VertexConeLength: 0
     - _VertexConeWidth: 0
     - _VideoDecalRotation: -0.15
+    - _VideoPlayerDecalUV: 0
     - _Width: 1
     - _Workflow: 0
     - _WrapIndirScale: 3
     - _WrapMetallicFesnelScale: 1
     - _WrappedShadingValue: 1
+    - _XOffset: 0
     - _XRotation: 0
+    - _YOffset: 0
     - _YRotation: 0
     - _ZConeFlatness: 0
     - _ZRotation: 0
@@ -424,6 +508,7 @@ Material:
     - _MatcapColor: {r: 0, g: 0, b: 0, a: 1}
     - _NormalTiling: {r: 1, g: 1, b: 0, a: 0}
     - _OutlineColor: {r: 0, g: 0, b: 0, a: 1}
+    - _ProjectionRangeOrigin: {r: 0, g: -0.07535, b: 0.12387, a: 0}
     - _RimColor: {r: 0, g: 0, b: 0, a: 1}
     - _RimEdge: {r: 1, g: 1, b: 1, a: 1}
     - _RimlightRotationAxis: {r: 0, g: 1, b: 0, a: 0}

@@ -33,7 +33,7 @@ namespace Mochie {
 		public static GUIContent reflOverrideText = new GUIContent("Reflection Override", "Override the primary reflection probe sample with this cubemap");
 		public static GUIContent ssrText = new GUIContent("Screen Space Reflections", "Screen Space Reflections create reflections on surfaces based on what's visible on screen.");
 		public static GUIContent edgeFadeText = new GUIContent("Edge Fade", "Fades SSR around the edges of the screen to avoid a hard cutoff visual.");
-		public static GUIContent stepsText = new GUIContent("Parallax Steps", "Number of steps/samples used to calculate parallax height. More samples is more expensive, but looks smoother.");
+		public static GUIContent stepsText = new GUIContent("Parallax Samples", "Number of steps/samples used to calculate parallax height. More samples is more expensive, but looks smoother.");
 		public static GUIContent maskText = new GUIContent("Mask");
 		public static GUIContent heightMaskText = new GUIContent("Height Mask");
 		public static GUIContent parallaxOfsText = new GUIContent("Parallax Offset", "Offsets the parallax height value up or down to hide artifacts.");
@@ -80,6 +80,7 @@ namespace Mochie {
 		public static GUIContent occlusionUVSetText = new GUIContent("UV Set");
 		public static GUIContent vertexBaseColorText = new GUIContent("Vertex Base Color", "Multiplies base color with vertex color.");
 		public static GUIContent unityFogToggleText = new GUIContent("Unity Scene Fog", "Enables or disables unity scene fog on this material.");
+		public static GUIContent mirrorNormalSwizzleText = new GUIContent("Normal Swizzle", "Determines the axis of offset when applying the normal maps to mirror based reflections. If reflections look broken or incorrect, try each of these options to see which matches the orientation of your surface.");
 
 		// Uber
 		public static GUIContent renderModeLabel = new GUIContent("Shading", "Enables or disables shading. If you aren't using any shading features, disabling this can provide a huge performance boost");

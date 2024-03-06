@@ -162,6 +162,9 @@ v2f vert (
 	o.worldPos = mul(unity_ObjectToWorld, v.vertex);
 	o.uvGrab = ComputeGrabScreenPos(o.pos);
 	o.reflUV = ComputeNonStereoScreenPos(o.pos);
+	#if defined(LIGHTMAP_ON)
+		o.lightmapUV = v.uv1 * unity_LightmapST.xy + unity_LightmapST.zw;
+	#endif
 	o.localPos = v.vertex;
 
 	o.isInVRMirror = _VRChatMirrorMode == 1;

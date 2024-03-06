@@ -472,6 +472,7 @@ Here are the UUIDs of all these assets we uploaded to CVR:
 | `19687a1c-c451-40d1-9031-ab714de3a96e` | Have you tried leave and join | JOELwindows7 | . |
 | `effa41a5-6a46-4119-a21b-8f40369fa8e8` | No it doesn't work | JOELwindows7 | . |
 | `7cd0db37-36b2-4848-874f-5aab7a1b4c5e` | I have to leave | JOELwindows7 | I must sleep tonight now. |
+| `959f019a-3c8f-4e5e-9a54-7870ffea3750` | Discord say Hi accident | JOELwindows7 | I'm very sorry. |
 | `2d106677-d4d3-4671-b960-fa0c6dda30a1` | A Failed Car | JOELwindows7 | **RCC is not $0!!!** How do we supposed to car?! |
 | `3f562c88-e8d6-4b39-827c-a910588bc4e6` | DynBonen | JOELwindows7 | . |
 | `ddb5a8b0-758e-4469-a181-5c5e959bab07` | Le Among Us | JOELwindows7 | hfcRed's among us follower demo |
