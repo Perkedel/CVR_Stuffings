@@ -37,7 +37,7 @@ Shader "Mochie/Water" {
 		_EmissionDistortionStrength("Emission Distortion Strength", Float) = 0
 		
 		[Enum(Texture,0, Flipbook,1)]_NormalMapMode("Normal Map Mode", Int) = 0
-
+		[ToggleUI]_InvertNormals("Invert", Int) = 0
 		[NoScaleOffset]_NormalMap0 ("", 2D) = "bump" {}
 		_NormalStr0("Strength", Float) = 0.3
 		_NormalMapScale0("Scale", Vector) = (3,3,0,0)
@@ -45,7 +45,6 @@ Shader "Mochie/Water" {
 		_NormalMapScroll0("Scrolling", Vector) = (0.1,0.1,0,0)
 		_NormalMapOffset0("Parallax Offset", Float) = 0
 		[Toggle(_NORMALMAP_0_STOCHASTIC_ON)]_Normal0StochasticToggle("Stochastic Sampling", Int) = 0
-
 		[Toggle(_NORMALMAP_1_ON)]_Normal1Toggle("Enable", Int) = 1
 		[NoScaleOffset]_NormalMap1("", 2D) = "bump" {}
 		_NormalStr1("Strength", Float) = 0.3
@@ -54,7 +53,6 @@ Shader "Mochie/Water" {
 		_NormalMapScroll1("Scrolling", Vector) = (-0.1,0.1,0,0)
 		_NormalMapOffset1("Parallax Offset", Float) = 0
 		[Toggle(_NORMALMAP_1_STOCHASTIC_ON)]_Normal1StochasticToggle("Stochastic Sampling", Int) = 0
-
 		_NormalMapFlipbook("Normal Map Flipbook", 2DArray) = "black" {}
 		_NormalMapFlipbookSpeed("Normal Map Flipbook Speed", Float) = 8
 		_NormalMapFlipbookStrength("Normal Map Flipbook Strength", Float) = 0.2
@@ -74,7 +72,8 @@ Shader "Mochie/Water" {
 		_SpecStrength("Specular Strength", Float) = 1
 		_SpecTint("Specular Tint", Color) = (1,1,1,1)
 		_LightDir("LightDir", Vector) = (0,0.75,1,0)
-
+		[Enum(XY,0, XZ,1, YZ,2)]_MirrorNormalOffsetSwizzle("Swizzle", Int) = 1
+		
 		[Toggle(_FLOW_ON)]_FlowToggle("Enable", Int) = 1
 		[NoScaleOffset]_FlowMap("Flow Map", 2D) = "black" {}
 		[Enum(UV0,0, UV1,1, UV2,2, UV3,3)]_FlowMapUV("Flow Map UV Set", Int) = 0
@@ -84,6 +83,7 @@ Shader "Mochie/Water" {
 		_BlendNoise("Blend Noise", 2D) = "white" {}
 		_BlendNoiseScale("Blend Noise Scale", Vector) = (2,2,0,0)
 		[Enum(Flowmap Alpha,0, Separate Texture,1)]_BlendNoiseSource("Blend Noise Source", Int) = 0
+		[ToggleUI]_VisualizeFlowmap("Visualize Flowmap", Int) = 0
 		
 		[Enum(Off,0, Noise Texture,1, Gerstner Waves,2, Voronoi,3, Flipbook,4)]_VertOffsetMode("Mode", Int) = 0
 		[NoScaleOffset]_NoiseTex("Noise Texture", 2D) = "black" {}
@@ -206,6 +206,10 @@ Shader "Mochie/Water" {
 		_TessDistMin("Min Tessellation Distance", Float) = 25
 		_TessDistMax("Max Tessellation Distance", Float) = 50
 
+		[Toggle(_AUDIOLINK_ON)]_AudioLink("Audio Link", Int) = 0
+		[Enum(Bass,0, Low Mids,1, Upper Mids,2, Highs,3)]_AudioLinkBand("Audio Link Band", Int) = 0
+		_AudioLinkStrength("Audio Link Strength", Float) = 1
+
 		[IntRange]_StencilRef("Stencil Reference", Range(1,255)) = 65
 		[Enum(Opaque,0, Premultiplied,1, Grabpass,2)]_TransparencyMode("Transparency Mode", Int) = 2
 		[Enum(UnityEngine.Rendering.CullMode)]_CullMode("Cull", Int) = 2
@@ -215,6 +219,7 @@ Shader "Mochie/Water" {
 		[Enum(XY,0, XZ,1, YZ,2)]_TexCoordSpaceSwizzle("Swizzle", Int) = 1
 		_GlobalTexCoordScaleUV("Global Scale", Float) = 1
 		_GlobalTexCoordScaleWorld("Global Scale", Float) = 0.1
+		[Enum(Off,0, On,1)]_BicubicLightmapping("Bicubic Lightmap Sampling", Int) = 1
 
         [HideInInspector]_SrcBlend("__src", Float) = 1.0
         [HideInInspector]_DstBlend("__dst", Float) = 0.0
@@ -281,6 +286,8 @@ Shader "Mochie/Water" {
 			#pragma shader_feature_local _AREALIT_ON
 			#pragma shader_feature_local _ _OPAQUE_MODE_ON _PREMUL_MODE_ON
 			#pragma shader_feature_local _NORMALMAP_FLIPBOOK_ON
+			#pragma shader_feature_local _BICUBIC_LIGHTMAPPING_ON
+			#pragma shader_feature_local _AUDIOLINK_ON
 			#pragma multi_compile_instancing
             #pragma target 5.0
 
@@ -316,6 +323,7 @@ Shader "Mochie/Water" {
 			#pragma shader_feature_local _FOAM_NORMALS_ON
 			#pragma shader_feature_local _DEPTH_EFFECTS_ON
 			#pragma shader_feature_local _EMISSION_ON
+			#pragma shader_feature_local _AUDIOLINK_ON
 			#pragma shader_feature_local _ _OPAQUE_MODE_ON _PREMUL_MODE_ON
 			#pragma shader_feature_local _NORMALMAP_FLIPBOOK_ON
 			#pragma multi_compile_instancing

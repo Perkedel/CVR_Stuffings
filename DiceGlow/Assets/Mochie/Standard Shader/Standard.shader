@@ -240,6 +240,7 @@ Shader "Mochie/Standard" {
 		[HideInInspector]_NaNLmao("lol", Float) = 0
 
 		[ToggleUI]_MirrorToggle("Mirror Mode", Int) = 0
+		[Enum(XY,0, XZ,1, YZ,2)]_MirrorNormalOffsetSwizzle("Swizzle", Int) = 0
 		[ToggleUI]_UnityFogToggle("Unity Fog", Int) = 1
 		[HideInInspector] _ReflectionTex0("", 2D) = "white" {}
         [HideInInspector] _ReflectionTex1("", 2D) = "white" {}

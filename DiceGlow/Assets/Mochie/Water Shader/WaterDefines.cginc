@@ -54,6 +54,8 @@ float4 _CameraDepthTexture_TexelSize;
 #define CAUSTICS_ENABLED				defined(_CAUSTICS_VORONOI_ON) || defined(_CAUSTICS_TEXTURE_ON) || defined(_CAUSTICS_FLIPBOOK_ON)
 #define NORMALMAP_FLIPBOOK_MODE			defined(_NORMALMAP_FLIPBOOK_ON)
 #define NORMALMAP_FLIPBOOK_STOCH		defined(_NORMALMAP_FLIPBOOK_STOCHASTIC_ON)
+#define BICUBIC_LIGHTMAPPING_ENABLED	defined(_BICUBIC_LIGHTMAPPING_ON)
+#define AUDIOLINK_ENABLED				defined(_AUDIOLINK_ON)
 
 MOCHIE_DECLARE_TEX2D_SCREENSPACE(_MWGrab);
 MOCHIE_DECLARE_TEX2D(_FlowMap);
@@ -208,8 +210,14 @@ int _RecalculateNormals;
 int _TransparencyMode;
 int _TexCoordSpace;
 int _TexCoordSpaceSwizzle;
+int _MirrorNormalOffsetSwizzle;
+int _InvertNormals;
 float _GlobalTexCoordScaleUV;
 float _GlobalTexCoordScaleWorld;
+int _VisualizeFlowmap;
+int _AudioLink;
+int _AudioLinkBand;
+float _AudioLinkStrength;
 
 float _Test;
 float _ZeroProp;
@@ -255,18 +263,19 @@ struct v2f {
 	bool isInVRMirror : TEXCOORD12;
 	float2 uvFlow : TEXCOORD13;
 	float4 reflUV : TEXCOORD14;
+	float2 lightmapUV : TEXCOORD15;
 	#ifdef TESSELLATION_VARIANT
-		float offsetMask : TEXCOORD15;
+		float offsetMask : TEXCOORD16;
 	#endif
-	UNITY_FOG_COORDS(15)
-	UNITY_SHADOW_COORDS(16)
+	UNITY_FOG_COORDS(17)
+	UNITY_SHADOW_COORDS(18)
 	UNITY_VERTEX_INPUT_INSTANCE_ID 
 	UNITY_VERTEX_OUTPUT_STEREO
 };
 
 #include "WaterSSR.cginc"
 #include "WaterFunctions.cginc"
-
+#include "WaterAudioLink.cginc"
 #if AREALIT_ENABLED
 	#include "../../AreaLit/Shader/Lighting.hlsl"
 #endif

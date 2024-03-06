@@ -4767,3 +4767,49 @@ New Sauce lists
 - https://discord.com/channels/410126604237406209/766087403609391165/1214625716998512660
 - Poiyomi edited shader CVR Globals
 - https://skfb.ly/ozqDZ IONIQ 5 Lowpoly. Andika Pratamaw andikapratamaw
+- https://shorturl.at/cHLT1 litterallyjustsmith RaidShadowLily prop event submission
+- https://x.com/_saaanic_/status/1748457805848121656?s=20
+- https://x.com/GarfieldFan692/status/1745619903841812980?s=20
+- https://x.com/CASSY_OS_2002/status/1760889760699052449?s=20
+- https://x.com/CASSY_OS_2002/status/1763460679057461663?s=20
+- https://twitter.com/CASSY_OS_2002 WHat?? Mochi why?
+- https://x.com/GarfieldFan692/status/1745619903841812980?s=20
+- https://smutba.se/project/38633/
+- https://steamcommunity.com/profiles/76561198141287708/myworkshopfiles/
+- https://twitter.com/ironwolf_323/status/1663102027554074625?s=20
+- https://steamcommunity.com/sharedfiles/filedetails/?id=3170676349
+- https://steamcommunity.com/sharedfiles/filedetails/?id=3170728430
+- https://steamcommunity.com/sharedfiles/filedetails/?id=3170728430
+- https://steamcommunity.com/sharedfiles/filedetails/?id=2981368820 **gone**
+- I hate when people `NSFW DNI`. added with other ironic DNIs as well just to *stay away from grave trouble* shits idk.
+- https://skfb.ly/oHCUp PLS DOWNLOAD ALL IRONWOLF FILES!!
+- you Mochi. not you, Mochi shader (MochiesCode). this Mochi. I have been blocked by many people I done absolutely zero thing. **ZERO!!!**, and they fucking hate me anyways. No fucking idea why, what did I do, I know some, but yeah. If I had the reason, it often times egregious and nonsense. Why?! Why won't you help either?!??! Okay, Ironwolf is kinda a weird guy. BUT WHY?!?!? WHY OUT OF NOWHERE OF SUDDEN YOU BETRAYED THEM?! Yes, he deserved what he did whatever it is, **BUT REALLY, you had to end it all like that?** You... fuck it. nvm.
+- If I was you, I let it go, let the asshole do whatever they want as long no harm to my family, no cyberbullying otherwise, no nothing. I don't want my reputation destroyed. Being known as traitor, trace-worthy, stamped as an asshole for even *defending myself mentally*.
+- I told you. Blocking not spam scammer, makes you donkey. NO... damn it. Not Shrek!!... ... you know!
+- https://x.com/WBOYBuckwheat/status/1763036697715933539?s=20
+- https://x.com/ironwolf_323/status/1763351959350706281?s=20
+- https://x.com/ironwolf_323/status/1761895542781612056?s=20
+- https://twitter.com/CryptiaCurves
+- https://x.com/CryptiaCurves/status/1765213765090296114?s=20
+- https://cryptiacurves.gumroad.com/ **PAID, except Karelia** PLS BUY ALL!!!
+- https://zy0n7.gumroad.com/ **PAID, except NewChan** ALSO THESE!!
+- https://github.com/MochiesCode/Mochies-Unity-Shaders new update!
+- .
+- .
+- .
+- .
+- .
+- .
+- .
+- .
+- Waste your money online. before they gone.
+- Remember the Alexandria library incident.
+- https://bsky.app/profile/xkcd.com
+- https://bsky.app/profile/xkcd.com/post/3kmvydkvx772t
+- https://bsky.app/profile/xkcd.com/post/3kmoebuazdf2x
+- https://discord.com/channels/410126604237406209/689949650614091827/1214388091272568932
+- https://lese.io/plugin/codec/
+- https://lese.io/plugin/sweep/
+- https://youtu.be/r8ejF4asVjw?si=akoGo89hgBr5VuxE
+- https://discord.com/channels/1013145647731449888/1015347320784683108/1136462684011909260 DomNomNom has this fix shader! cures right eye not rendering. found in The Cavern, `#cvr-tools-and-guides`
+- https://polyhaven.com/textures
