@@ -121,6 +121,7 @@ For real life contributors, you must purchase the license of your own, not spars
 
 - [Khodrin HUD Assets](https://khodrin.gumroad.com/l/hud_shader_3). ![Bought HUD Shader](/DiceGlow/Assets/JOELwindows7/_CORE/Sprites/Screenshots/ProvesOfPurchase/CVR_bought_Khodrin_hud_shader.png), Costs **$3.99**, Paid **$5.00** (Voluntarily willingly, you're welcome)
 - [4 items from obi1](https://obis-stuff.booth.pm/): Rezz Glasses, Hypno glasses, Cage, DEFCON pin. ![Bought Obi1 stuffs](/DiceGlow/Assets/JOELwindows7/_CORE/Sprites/Screenshots/ProvesOfPurchase/bought_all_ob1_stuffs.png), Costs **¥2300** total, Paid **¥2700** (since added ¥100 tips to each of the items, ¥100 \* 4 = **+¥400**) (Voluntarily willingly, you're welcome)
+- [Bar pack & Theater Curtain from SketchFoxSky](sketchfoxsky.gumroad.com). ![Bought SketchFoxSky stuffs](/DiceGlow/Assets/JOELwindows7/_CORE/Sprites/Screenshots/ProvesOfPurchase/bought_sketchfoxsky.png), Costs **$20** total, Paid **$22** (since added $2 tips to theatre curtain) (Voluntarily willingly, you're welcome)
 
 ## Quick Tutorials
 
