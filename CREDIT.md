@@ -4814,3 +4814,7 @@ New Sauce lists
 - https://discord.com/channels/1013145647731449888/1015347320784683108/1136462684011909260 DomNomNom has this fix shader! cures right eye not rendering. found in The Cavern, `#cvr-tools-and-guides`
 - https://polyhaven.com/textures
 - https://kick.com/quakethorn
+- https://discussions.unity.com/t/how-to-get-rid-of-unity-lockfile/182374
+- https://sketchfoxsky.gumroad.com/
+- https://blackjackgofish.gumroad.com
+- https://www.twitch.tv/smileznwigglez
