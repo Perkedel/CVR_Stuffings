@@ -4860,3 +4860,11 @@ New Sauce lists
 - pixelorama
 - winscp
 - midieditor
+- https://skfb.ly/otJ8S
+- palcraft
+- https://discord.com/channels/410126604237406209/795882566968279091/1215396732469514290
+- **New CVR Update**
+- https://bom39.gumroad.com/ 
+- https://www.deviantart.com/bom39
+- https://www.deviantart.com/bom39/art/Renabom-Bom39-VRChat-Avatar-3D-Model-948651020 **PAID**
+- https://www.deviantart.com/ludeproductions/art/Maid-Milford-1028715937 **huh?? adoptable?**
