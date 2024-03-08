@@ -4868,3 +4868,11 @@ New Sauce lists
 - https://www.deviantart.com/bom39
 - https://www.deviantart.com/bom39/art/Renabom-Bom39-VRChat-Avatar-3D-Model-948651020 **PAID**
 - https://www.deviantart.com/ludeproductions/art/Maid-Milford-1028715937 **huh?? adoptable?**
+- https://discord.com/channels/734976349994876928/734978945858142373/1215433925833400370 
+- https://ko-fi.com/s/d28542b5f3 **PAID** $150. Yes, Lukasz Borges.
+- Pls Video material of `cutout` with certain tolerance. e.g. rgb 0 0 0 is alpha zero.
+- https://booth.pm/en/items/1268463 scope!
+- https://twitter.com/Value_Factory/status/1583481569779777536 **PAID**
+- https://valuef.gumroad.com/l/goo **PAID** YIKES!!! YOU ARTIFICIALLY LIMIT STOCK OF DIGITAL FILE FOR THE 2.0?!??!?
+- https://migero.booth.pm/ PLS DOWNLOAD ALL!
+- https://booth.pm/en/items/1148311 UNIUNISHOP CRYSTAL
