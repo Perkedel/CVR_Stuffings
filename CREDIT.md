@@ -4912,3 +4912,4 @@ New Sauce lists
 - One contractor instruct to not slide over the wall-slash symbol of DNB.
 - Then a customer complain! says it's ironic that brand's purpose is to protest of abusive blocking. Why am I blocked from having fun? If you are serious of by-I mean.. yeah.., you should say it real!
 - Admiral Zumi responded with make the logo slidable why not, problem solved! add invisible collider in its slash cutout! and padding at the bottom, also the ladder from front.
+- https://discord.com/channels/1053364052488888351/1053413656106369054/1207398137912631366 kjoy got boat example
