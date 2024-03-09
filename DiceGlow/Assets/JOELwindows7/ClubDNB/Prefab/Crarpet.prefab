@@ -13,6 +13,7 @@ GameObject:
   - component: {fileID: 3090959289004575181}
   - component: {fileID: 3514293276895109654}
   - component: {fileID: 8964005843235960347}
+  - component: {fileID: 226929843225685011}
   m_Layer: 0
   m_Name: Crarpet
   m_TagString: Untagged
@@ -113,3 +114,51 @@ MonoBehaviour:
   material: {fileID: 11400000, guid: 4ef433d5b2fa5ad4a9e19a415c6ab619, type: 2}
   exportAllChildren: 0
   terrainSimplificationLevel: 0
+--- !u!114 &226929843225685011
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1095290536018081697}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2e5dd14312614cdb815c6c1e216cf10c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  zoneShape: 1
+  customZoneShapeMesh: {fileID: 0}
+  center: {x: 0, y: 50, z: 0}
+  size: {x: 1, y: 100, z: 1}
+  gravityDirection: 2
+  gravityMix: 1
+  priority: 0
+  gravityType: 1
+  strength: 9.81
+  gravityEffect: 3
+  gravityFalloff:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - serializedVersion: 3
+      time: 1
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  playerGravityAlignmentMode: 0
+  playerGravityCustomAlignmentValue: 0
