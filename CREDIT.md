@@ -4876,3 +4876,14 @@ New Sauce lists
 - https://valuef.gumroad.com/l/goo **PAID** YIKES!!! YOU ARTIFICIALLY LIMIT STOCK OF DIGITAL FILE FOR THE 2.0?!??!?
 - https://migero.booth.pm/ PLS DOWNLOAD ALL!
 - https://booth.pm/en/items/1148311 UNIUNISHOP CRYSTAL
+- https://discord.com/channels/410126604237406209/689949650614091827/1215535050788044821
+- https://www.roadtovr.com/meta-oculus-account-deletion/
+- https://www.venetianlasvegas.com/casino/table-games/how-to-play-blackjack.html#:~:text=In%20Blackjack%2C%20everyone%20plays%20against,and%20the%20wager%20is%20lost.
+- https://vinepair.com/articles/5-best-drinking-card-games/
+- https://discord.com/channels/410126604237406209/795882566968279091/1215774762253684816
+- https://discord.com/channels/410126604237406209/588350685255565344/1215799200806080512
+- https://discord.com/channels/410126604237406209/588350685255565344/1215606098611015702
+- https://discord.com/channels/410126604237406209/588350685255565344/1215603958333055006
+- https://discord.com/channels/410126604237406209/588350685255565344/1215523674258407504
+- https://skfb.ly/EpL7
+- https://www.deviantart.com/moonsler/art/BonBon-and-ChuChu-BLENDER-MODEL-RELEASE-923681514 **PAID**
