@@ -181,6 +181,7 @@ GameObject:
   - component: {fileID: 1939492502637899595}
   - component: {fileID: 1939492502637899592}
   - component: {fileID: 3131356661060115750}
+  - component: {fileID: 6564095001858334897}
   m_Layer: 0
   m_Name: DJFloorSlim
   m_TagString: Untagged
@@ -281,6 +282,54 @@ MonoBehaviour:
   material: {fileID: 11400000, guid: 5272c55b882edd34a9d80b11bd6f240c, type: 2}
   exportAllChildren: 0
   terrainSimplificationLevel: 0
+--- !u!114 &6564095001858334897
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1939492502637899590}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2e5dd14312614cdb815c6c1e216cf10c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  zoneShape: 1
+  customZoneShapeMesh: {fileID: 0}
+  center: {x: 0, y: 10, z: 0}
+  size: {x: 1, y: 20, z: 1}
+  gravityDirection: 2
+  gravityMix: 1
+  priority: 0
+  gravityType: 1
+  strength: 9.81
+  gravityEffect: 3
+  gravityFalloff:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - serializedVersion: 3
+      time: 1
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  playerGravityAlignmentMode: 0
+  playerGravityCustomAlignmentValue: 0
 --- !u!1 &1973325955155632490
 GameObject:
   m_ObjectHideFlags: 0
@@ -1908,11 +1957,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 721078327907481023, guid: 385ac04e8d2b6f84ea93cb8392fad970, type: 3}
       propertyPath: actions.Array.data[0].guid
-      value: a97143ee-dc9c-4183-ba6d-c8a9f85cd347
+      value: d9e8eb0c-7589-4eea-b0d6-596a1a23f52d
       objectReference: {fileID: 0}
     - target: {fileID: 1249117147349780746, guid: 385ac04e8d2b6f84ea93cb8392fad970, type: 3}
       propertyPath: actions.Array.data[0].guid
-      value: 601540eb-4dbc-407a-97b1-ace2416741b7
+      value: 7305b1d7-9050-49dd-8ec7-54b2fb0114ac
       objectReference: {fileID: 0}
     - target: {fileID: 1783614673697414255, guid: 385ac04e8d2b6f84ea93cb8392fad970, type: 3}
       propertyPath: m_AnchorMax.x
@@ -2104,39 +2153,39 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2030914825119465935, guid: 385ac04e8d2b6f84ea93cb8392fad970, type: 3}
       propertyPath: actions.Array.data[0].guid
-      value: 8ba68d62-7f5e-41f9-a2cd-0f59b2ce8b49
+      value: 238c19cc-951c-479b-8c3d-e8d969dfdf13
       objectReference: {fileID: 0}
     - target: {fileID: 3052155968953076070, guid: 385ac04e8d2b6f84ea93cb8392fad970, type: 3}
       propertyPath: actions.Array.data[0].guid
-      value: cc250ba5-c54d-4ec9-8206-4fd1be314a53
+      value: 0888335f-8c7b-4e81-873e-6b0fd7047d0d
       objectReference: {fileID: 0}
     - target: {fileID: 3392703350763018088, guid: 385ac04e8d2b6f84ea93cb8392fad970, type: 3}
       propertyPath: actions.Array.data[0].guid
-      value: 631637c8-2e6b-414e-8aeb-aa86f74a11d3
+      value: cc67c715-3a9c-4a5e-b2be-77ee14d3c935
       objectReference: {fileID: 0}
     - target: {fileID: 3421592603002456676, guid: 385ac04e8d2b6f84ea93cb8392fad970, type: 3}
       propertyPath: guid
-      value: dde4edc1-4c82-4564-b47e-6ab78af0912c
+      value: fc57c5bd-2ef9-4155-91c3-3ab9ecae628e
       objectReference: {fileID: 0}
     - target: {fileID: 3689356035904663727, guid: 385ac04e8d2b6f84ea93cb8392fad970, type: 3}
       propertyPath: actions.Array.data[0].guid
-      value: 10f0bbb8-132a-48fb-9a09-c3695f19b308
+      value: 36573d70-437a-492e-9347-1b749e99fee4
       objectReference: {fileID: 0}
     - target: {fileID: 4471204850941388983, guid: 385ac04e8d2b6f84ea93cb8392fad970, type: 3}
       propertyPath: actions.Array.data[0].guid
-      value: 4f6382cb-675c-4211-bbfa-8a1b19e6041a
+      value: c0e9d746-b7a7-4f8b-8d54-33ecd8baa07d
       objectReference: {fileID: 0}
     - target: {fileID: 4501169280782448519, guid: 385ac04e8d2b6f84ea93cb8392fad970, type: 3}
       propertyPath: actions.Array.data[0].guid
-      value: c0d83ece-87a9-4dc1-838b-eb49c81e06bf
+      value: e4ba2fcb-5812-42e7-8a7c-b0cb0e2e7626
       objectReference: {fileID: 0}
     - target: {fileID: 5257180505472238534, guid: 385ac04e8d2b6f84ea93cb8392fad970, type: 3}
       propertyPath: actions.Array.data[0].guid
-      value: 31195ab2-4d1d-4854-911d-269c71eaf89e
+      value: acdf688f-3375-4648-89c8-6a27987f5d58
       objectReference: {fileID: 0}
     - target: {fileID: 5261097507655868357, guid: 385ac04e8d2b6f84ea93cb8392fad970, type: 3}
       propertyPath: actions.Array.data[0].guid
-      value: 6d7bc98c-2584-4d58-8eae-87d26f2c914f
+      value: dc956dcb-ccae-4aae-a00d-5b43029cc1d6
       objectReference: {fileID: 0}
     - target: {fileID: 5386364711013207602, guid: 385ac04e8d2b6f84ea93cb8392fad970, type: 3}
       propertyPath: m_AnchorMax.y
@@ -2156,15 +2205,15 @@ PrefabInstance:
       objectReference: {fileID: 4238628922699249855}
     - target: {fileID: 6840365964784977068, guid: 385ac04e8d2b6f84ea93cb8392fad970, type: 3}
       propertyPath: actions.Array.data[0].guid
-      value: fd2f5754-293b-4ae1-aab0-7d7aeae6fbcf
+      value: d0a57df5-d72e-440d-84e2-263c3cf4bef7
       objectReference: {fileID: 0}
     - target: {fileID: 6892969271231531078, guid: 385ac04e8d2b6f84ea93cb8392fad970, type: 3}
       propertyPath: actions.Array.data[0].guid
-      value: 8c541c94-6a71-4993-984c-26248b890422
+      value: 60867137-3178-45c0-87a0-e64d1ac1d018
       objectReference: {fileID: 0}
     - target: {fileID: 8565513420811327445, guid: 385ac04e8d2b6f84ea93cb8392fad970, type: 3}
       propertyPath: actions.Array.data[0].guid
-      value: 50ddabe7-a236-4c97-9a2b-6001cf8ef2a8
+      value: 93b7bcf0-d03c-4705-92d6-39a158e73089
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 385ac04e8d2b6f84ea93cb8392fad970, type: 3}

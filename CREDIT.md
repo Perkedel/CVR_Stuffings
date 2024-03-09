@@ -4871,7 +4871,7 @@ New Sauce lists
 - https://discord.com/channels/734976349994876928/734978945858142373/1215433925833400370 
 - https://ko-fi.com/s/d28542b5f3 **PAID** $150. Yes, Lukasz Borges.
 - Pls Video material of `cutout` with certain tolerance. e.g. rgb 0 0 0 is alpha zero.
-- https://booth.pm/en/items/1268463 scope!
+- https://booth.pm/en/items/1268463 scope! Migero!
 - https://twitter.com/Value_Factory/status/1583481569779777536 **PAID**
 - https://valuef.gumroad.com/l/goo **PAID** YIKES!!! YOU ARTIFICIALLY LIMIT STOCK OF DIGITAL FILE FOR THE 2.0?!??!?
 - https://migero.booth.pm/ PLS DOWNLOAD ALL!
@@ -4887,3 +4887,28 @@ New Sauce lists
 - https://discord.com/channels/410126604237406209/588350685255565344/1215523674258407504
 - https://skfb.ly/EpL7
 - https://www.deviantart.com/moonsler/art/BonBon-and-ChuChu-BLENDER-MODEL-RELEASE-923681514 **PAID**
+- https://store.steampowered.com/app/418650/Space_Pirate_Trainer/ **PAID** Classic HTC Vive game.
+- https://store.steampowered.com/bundle/9184/VR_Essentials/ **PLS BUY EVERYTHING**
+- https://itch.io/games/genre-shooter/input-htc-vive
+- https://storage-type-j.booth.pm/
+- https://klotho.booth.pm/
+- https://developer.gimp.org/core/roadmap/
+- https://www.gimp.org/
+- asdf
+- note history. Jonathan Cenamon recited one word: `Bagus` (`Good` in Bahasa Indonesia) during a game in Purple Fox social spot event. I was playing beer pong toss with him.
+- Note that again, JC seems to be excel in geography, and the knowledge he collects includes Indonesia, my IRL birthplace & my live place. Heck days before he even collected an info from Wikipedia about Indonesia, that my country is moving capital to Borneo under brand new name IKN (Ibu Kota Nusantara)!
+- tbh, I'm suprised. So many people out there crumbles with geography.
+- **CCK3.8 released**
+- https://docs.unity3d.com/Manual/StateMachineBasics.html
+- https://discord.com/channels/410126604237406209/412210535443202049/1215882602066481242
+- https://discord.com/channels/410126604237406209/412210535443202049/1215974046651519096
+- https://github.com/NotAKidOnSteam/AvatarScaleTool
+- https://discord.com/channels/410126604237406209/795882566968279091/1216099996525662410 6502 caught this meme `DVD Rewinder`
+- https://assetstore.unity.com/packages/templates/systems/platformer-project-206584 **PAID**
+- https://assetstore.unity.com/packages/tools/animation/timeflow-animation-system-247895 **PAID**
+- https://assetstore.unity.com/packages/3d/environments/lowpoly-server-room-props-197268 iPoly server room
+- https://freesound.org/people/InspectorJ/packs/22864/ Toilet Flush sounds InspectorJ CC4.0-BY
+- https://skfb.ly/6RWYR Urpo Typical Toilet model CC4.0-BY
+- One contractor instruct to not slide over the wall-slash symbol of DNB.
+- Then a customer complain! says it's ironic that brand's purpose is to protest of abusive blocking. Why am I blocked from having fun? If you are serious of by-I mean.. yeah.., you should say it real!
+- Admiral Zumi responded with make the logo slidable why not, problem solved! add invisible collider in its slash cutout! and padding at the bottom, also the ladder from front.

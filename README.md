@@ -88,7 +88,9 @@ Below are assets that are not included and **must be installed prior of usage an
 - [Hekky Shaders](https://www.patreon.com/hekky). **Paywalled**. Instead, [this partialized free version](https://github.com/hyblocker/hekky-shaders) included.
 - [Khodrin HUD Assets](https://khodrin.gumroad.com/l/hud_shader_3). **Paywalled**.
 - [AllSky HDRI Skybox](https://assetstore.unity.com/packages/2d/textures-materials/sky/allsky-220-sky-skybox-set-10109). **Paywalled**. Instead, the [demo version](https://assetstore.unity.com/packages/2d/textures-materials/sky/allsky-free-10-sky-skybox-set-146014) is included
-- [4 items from obi1](https://obis-stuff.booth.pm/): Rezz Glasses, Hypno glasses, Cage, DEFCON pin. **Paywalled**. Similar knock-offs shall be made eventually by our initiative members.
+- [4 items from obi1](https://obis-stuff.booth.pm/): Rezz Glasses, Hypno glasses, Cage, DEFCON pin. **Paywalled**. ~~Similar knock-offs shall be made eventually by our initiative members~~.
+- [Bar pack & Theater Curtain from SketchFoxSky](sketchfoxsky.gumroad.com)
+- [Derpixon's BonBon & ChuChu (Mime & Dash) 3D Model from Monsler](https://www.deviantart.com/moonsler/art/BonBon-and-ChuChu-BLENDER-MODEL-RELEASE-923681514)
 
 <!-- Pls include all free but CCK, to backup! -->
 > ~~Some packages (e.g. `.unitypackage` extracted) are included for ***convenience***~~ All $0 & Redistribution allowed licensed `.unitypackage`s are included.  
