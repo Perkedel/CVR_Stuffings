@@ -112,6 +112,7 @@ Joel: idk what am I thinking, We call these DMCAers Federals, that's what X0p1r4
 .......
 
 ⚠️ Turned to list of shame! Pls reconfigure promptly
+no don't. change of plan!
  -->
 
 ### Proves of purchases
@@ -122,6 +123,7 @@ For real life contributors, you must purchase the license of your own, not spars
 - [Khodrin HUD Assets](https://khodrin.gumroad.com/l/hud_shader_3). ![Bought HUD Shader](/DiceGlow/Assets/JOELwindows7/_CORE/Sprites/Screenshots/ProvesOfPurchase/CVR_bought_Khodrin_hud_shader.png), Costs **$3.99**, Paid **$5.00** (Voluntarily willingly, you're welcome)
 - [4 items from obi1](https://obis-stuff.booth.pm/): Rezz Glasses, Hypno glasses, Cage, DEFCON pin. ![Bought Obi1 stuffs](/DiceGlow/Assets/JOELwindows7/_CORE/Sprites/Screenshots/ProvesOfPurchase/bought_all_ob1_stuffs.png), Costs **¥2300** total, Paid **¥2700** (since added ¥100 tips to each of the items, ¥100 \* 4 = **+¥400**) (Voluntarily willingly, you're welcome)
 - [Bar pack & Theater Curtain from SketchFoxSky](sketchfoxsky.gumroad.com). ![Bought SketchFoxSky stuffs](/DiceGlow/Assets/JOELwindows7/_CORE/Sprites/Screenshots/ProvesOfPurchase/bought_sketchfoxsky.png), Costs **$20** total, Paid **$22** (since added $2 tips to theatre curtain) (Voluntarily willingly, you're welcome)
+- [Derpixon's BonBon & ChuChu (Mime & Dash) 3D Model from Monsler](https://www.deviantart.com/moonsler/art/BonBon-and-ChuChu-BLENDER-MODEL-RELEASE-923681514). ![Bought Monsler BonBon & ChuChu](/DiceGlow/Assets/JOELwindows7/_CORE/Sprites/Screenshots/ProvesOfPurchase/Buy_Monsler_BonBon_ChuChu_Derpixon.png), Costs **$15** total, Paid **$15** (No tip feature available).
 
 ## Quick Tutorials
 
