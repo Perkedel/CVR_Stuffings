@@ -397,6 +397,7 @@ Here are the UUIDs of all these assets we uploaded to CVR:
 | `d55da2f2-6349-4558-ad6e-f74ce92945af` | Minimum World | JOELwindows7 | . |
 | `56925a80-f3d7-40c3-ab06-3d2b299ab77b` | Zuuljedus' homeworld | JOELwindows7 | . |
 | `9d1b1385-6e80-4a2a-a2a4-7d081daef12b` | ClubDNB | JOELwindows7 | Gravity Zone Night club |
+| `60c50664-1c58-4a8f-8e82-b4242b29f8bc` | Planet Sample | JOELwindows7 | How to Gravity Zone?! |
 | `3fe2b7c3-129a-418e-87ad-c3931657f843` | UCC Cinema | MilchZocker | (**NOT PERKEDEL**) |
 | `af0f00bc-0702-46ce-9441-bcce0ad6c813` | UCC Avatars | MilchZocker | (**NOT PERKEDEL**) |
 | `9d0677a5-b88f-4994-901b-7b91c99e8cd8` | UCC Bird Island | MilchZocker | (**NOT PERKEDEL**) |
@@ -495,6 +496,7 @@ Here are the UUIDs of all these assets we uploaded to CVR:
 | `89a7a56a-f391-4e5b-90f9-240ef72cd4d5` | Duarsplode | JOELwindows7 | Lagsplode Grenade with particle & ragdoller |
 | `f7b036a6-4356-4c80-a247-3f49d96424d7` | Krappet | JOELwindows7 | Another car |
 | `dc317a48-39d2-40da-a3e3-27168334d43f` | Orange Fragrance | JOELwindows7 | Stella Jeruk |
+| `d2498a2c-dad3-4fa0-8761-3f6712f28e6f` | The Power of the Sun | JOELwindows7 | In the palm of my hand |
 | `140ca808-7a9a-49c3-9296-3f49127f04ea` | Sex Dice Tutorial card | JOELwindows7 | **NSFW** How to DIY Lewd dice. |
 | `6d74cc05-a541-493b-9c5d-2fd377f9e4bc` | Click to Poof | JOELwindows7 | **Experimental** |
 | `382db2db-2101-4308-9a8a-5bcb263880a7` | Reflection Probe Helm Spawner | JOELwindows7 | **Experimental** |
