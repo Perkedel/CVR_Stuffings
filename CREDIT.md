@@ -4913,3 +4913,14 @@ New Sauce lists
 - Then a customer complain! says it's ironic that brand's purpose is to protest of abusive blocking. Why am I blocked from having fun? If you are serious of by-I mean.. yeah.., you should say it real!
 - Admiral Zumi responded with make the logo slidable why not, problem solved! add invisible collider in its slash cutout! and padding at the bottom, also the ladder from front.
 - https://discord.com/channels/1053364052488888351/1053413656106369054/1207398137912631366 kjoy got boat example
+- https://www.reddit.com/r/blender/comments/17dbfy2/making_an_original_character_any_feedback_on_the/
+- https://www.reddit.com/r/blender/comments/eririp/where_is_uv_squares_addon_for_281a/
+- https://github.com/Radivarig/UvSquares
+- https://www.quora.com/What-is-the-value-of-g-on-sun
+- https://www.quora.com/What-is-the-value-of-g-on-sun
+- https://discord.com/channels/410126604237406209/588350770777161748/1216436735483969587
+- https://github.com/CyanLaser/CyanEmu
+- https://github.com/vrchat-community/ClientSim
+- https://howthingsfly.si.edu/flight-dynamics/roll-pitch-and-yaw
+- https://howthingsfly.si.edu/flight-dynamics/roll-pitch-and-yaw
+- https://github.com/PiMaker/VRChatUnityThings?tab=readme-ov-file#procedural-night-skybox
