@@ -945,6 +945,7 @@ New Sauce lists
 - No wait a century! The franchise owner is... rather.. propritarist or.. I can't politely describe this behaviour. Maybe.. keep it this way for this case. You do you.
 - https://sketchfab.com/Sidega ..
 - https://sketchfab.com/Sidega
+- https://sidega.gumroad.com
 - I hate when somebody plays high class - trash class okay? high class gets exclusive no others get, trash gets nothing and stuck to default. fucking shit. no gamers should live in that. As always
 - okay that's enough. keep the bashing up to NFT bullshits instead, for now. there, right click there.
 - https://booth.pm/ja/items/2820532
@@ -4924,3 +4925,9 @@ New Sauce lists
 - https://howthingsfly.si.edu/flight-dynamics/roll-pitch-and-yaw
 - https://howthingsfly.si.edu/flight-dynamics/roll-pitch-and-yaw
 - https://github.com/PiMaker/VRChatUnityThings?tab=readme-ov-file#procedural-night-skybox
+- https://github.com/mbucchia/VirtualDesktop-OpenXR
+- https://www.vrdesktop.net/ HUH??
+- https://mbucchia.github.io/OpenXR-Toolkit/
+- https://github.com/mbucchia/VirtualDesktop-OpenXR/wiki
+- https://www.meta.com/experiences/2017050365004772/ **PAID**
+- https://en.dragon-ball-official.com/news/01_2499.html This is the official news of Akira's passing.
