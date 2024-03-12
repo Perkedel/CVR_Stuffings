@@ -36,7 +36,16 @@ body:
         ## (EN) Event Reservation Submission
         - Explain your event as detail as possible
         - Decide on how long would you want to held the event for. Ensure others can join next in time
-        - For which world you'd like to hold this event.
+        - For which world you'd like to hold this event?
+        - Please attach camera photograph / screenshot of you doing event once your hour is in. Or wait until Kaorfa (Joel) took a picture of you doing the event & submit it in reply.
+  - type: input
+    id: username
+    attributes:
+      label: ChilloutVR Username
+      description: What's your username in ChilloutVR?
+      placeholder: ex. JOELwindows7
+    validations:
+      required: false
   - type: textarea
     id: eventDesc
     attributes:
@@ -58,6 +67,18 @@ body:
         - DiceGlow Part 1 (NOT RECOMMENDED, LAGGY)
         - DiceGlow Part 2
         - CornSyrup Part 1 (NSFW, REQUIRES KTP VERIFICATION) 
+      default: 0
+    validations:
+      required: true
+  - type: dropdown
+    id: timeLength
+    attributes:
+      label: How long is your event?
+      description: Select which time length your event will be held for.
+      options:
+        - 60 Minutes
+        - 90 Minutes
+        - 120 Minutes
       default: 0
     validations:
       required: true
