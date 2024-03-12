@@ -4931,3 +4931,25 @@ New Sauce lists
 - https://github.com/mbucchia/VirtualDesktop-OpenXR/wiki
 - https://www.meta.com/experiences/2017050365004772/ **PAID**
 - https://en.dragon-ball-official.com/news/01_2499.html This is the official news of Akira's passing.
+- https://discord.com/channels/716536783621587004/716543739387969547/1216410454079967412
+- https://hai-vr.booth.pm/items/3532857
+- https://github.com/hai-vr/av3-constraint-track-animation-creator
+- https://discord.com/channels/716536783621587004/1020820802452586567/1200128244905677002
+- https://github.com/OscToys/OscGoesBrrr
+- https://discord.com/channels/716536783621587004/991436021805875220/991498035269992549
+- https://discord.com/channels/716536783621587004/716543739387969547/1216721165423345726
+- https://discord.com/channels/716536783621587004/716543739387969547/1216732209772236820
+- https://store.steampowered.com/bundle/10586/HENTAI_GAMES/
+- https://discord.com/channels/410126604237406209/797279576459968555/1216939464568344576
+- https://www.kenney.nl/assets/particle-pack Please particle pack will ya?
+- https://assetstore.unity.com/packages/vfx/particles/particle-pack-127325 Also Unity's own ones.
+- https://assetstore.unity.com/packages/vfx/particles/starter-particle-pack-83179 and this too. from Full Tilt Boogie.
+- https://youtube.com/playlist?list=PLrnLkBMB2q325LmhzxJtCD6B8QOH90USj&si=xRmSztLojIqLh5Fs
+- https://youtu.be/VYOgWJFiifo?si=HaLdo_7Bve4A6nJw
+- https://assetstore.unity.com/packages/vfx/particles/ultimate-vfx-26701?_aid=1100l3rZp **PAID**
+- CVR Fan boost with gravity?
+- https://benchmark.unigine.com/superposition
+- https://youtu.be/lIEUyg7d7uQ?si=0AAIglLVgtBsOQW1
+- https://youtu.be/7cpyh6K2XTc?si=F33F4n0_NBoWGACH
+- https://sketchfab.com/karlaaldana
+- https://www.patreon.com/K_INK_INK/posts
