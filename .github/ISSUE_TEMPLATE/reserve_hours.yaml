@@ -1,0 +1,71 @@
+# https://docs.github.com/en/communities/using-templates-to-encourage-useful-issues-and-pull-requests/configuring-issue-templates-for-your-repository
+
+name: Reserve DJ Hours
+description: Reserve slots for DJ
+title: "[Wants to DJ] "
+labels: ["dj"]
+# projects: ["octo-org/1", "octo-org/44"]
+assignees:
+  - JOELwindows7
+body:
+  - type: markdown
+    attributes:
+      value: |
+        # Reserve DJ Hours
+        Thanks for taking the time to reserve DJ Hours in our worlds!
+  # - type: input
+  #   id: contact
+  #   attributes:
+  #     label: Contact Details
+  #     description: How can we get in touch with you if we need more info?
+  #     placeholder: ex. email@example.com
+  #   validations:
+  #     required: false
+  # - type: textarea
+  #   id: what-happened
+  #   attributes:
+  #     label: What happened?
+  #     description: Also tell us, what did you expect to happen?
+  #     placeholder: Tell us what you see!
+  #     value: "A bug happened!"
+  #   validations:
+  #     required: true
+  - type: markdown
+    attributes:
+      value: |
+        ## (EN) Event Reservation Submission
+        - Explain your event as detail as possible
+        - Decide on how long would you want to held the event for. Ensure others can join next in time
+        - For which world you'd like to hold this event.
+  - type: textarea
+    id: eventDesc
+    attributes:
+      label: Event Description
+      description: Please describe the event you would like to reserve. Explain what event you are proposing to be held in one or more of our world.
+      value: |
+        ## I would like to DJ
+        to share my remixing skills to all gamers
+      render: markdown
+    validations:
+      required: true
+  - type: dropdown
+    id: world
+    attributes:
+      label: Which World?
+      description: Select which world you'd like to hold this event on, MAX 1 due absence of multi-join
+      options:
+        - ClubDNB (BEST & MOST AVAILABLE)
+        - DiceGlow Part 1 (NOT RECOMMENDED, LAGGY)
+        - DiceGlow Part 2
+        - CornSyrup Part 1 (NSFW, REQUIRES KTP VERIFICATION) 
+      default: 0
+    validations:
+      required: true
+  - type: checkboxes
+    id: terms
+    attributes:
+      label: Code of Conduct
+      description: By submitting this issue, you agree to follow our [Code of Conduct](https://perkedel.netlify.app/terms_of_service)
+      options:
+        - label: I agree to follow this project's Code of Conduct
+          required: true

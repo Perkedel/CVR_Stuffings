@@ -518,6 +518,7 @@ Here are the UUIDs of all these assets we uploaded to CVR:
 | `d1dac649-e96a-4f91-92f2-40a2214a33d4` | MollyTribute Interaction Layer | DomNomNomVR & MollyTribute (Momma Molly) | (**NOT PERKEDEL**) |
 | `d849a70d-adc0-4cea-a09b-84a9a0037e84` | Pen Props | SketchFoxsky | (**NOT PERKEDEL**) |
 | `ca0a909e-2371-4586-8836-993e77132727` | Evil Betty Keycard Demo | Evil Betty & Momma Molly | (**NOT PERKEDEL**) |
+| `49314ddc-bb7e-4c16-9d72-52bd24755efa` | Boat example | kjoy | (**NOT PERKEDEL**) |
 
 ### Assorted
 
