@@ -4953,3 +4953,5 @@ New Sauce lists
 - https://youtu.be/7cpyh6K2XTc?si=F33F4n0_NBoWGACH
 - https://sketchfab.com/karlaaldana
 - https://www.patreon.com/K_INK_INK/posts
+- https://docs.github.com/en/communities/using-templates-to-encourage-useful-issues-and-pull-requests/configuring-issue-templates-for-your-repository
+- https://fonts.google.com/specimen/Orbitron/about
