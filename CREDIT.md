@@ -1414,6 +1414,7 @@ New Sauce lists
 - From 7.1ch World test by Towneh, we had
 - https://vrcdn.video/towneh/8525f9c706d438055cd985d56369b952.mp4
 - https://vrcdn.video/towneh/a6ee609b58816d4eb6d455fef6fe2499.mp4
+- https://vrcdn.video
 - https://cdn.discordapp.com/attachments/992448795109511188/1010740459410300988/7.1Setup.wav
 - https://cdn.discordapp.com/attachments/992448795109511188/1010738209900199946/310_To_Yuma_Clip_1080p23.976_PCM_7.1.mov
 - https://bestbois.com/
@@ -4955,3 +4956,23 @@ New Sauce lists
 - https://www.patreon.com/K_INK_INK/posts
 - https://docs.github.com/en/communities/using-templates-to-encourage-useful-issues-and-pull-requests/configuring-issue-templates-for-your-repository
 - https://fonts.google.com/specimen/Orbitron/about
+- https://dippysocial.carrd.co/
+- VirtualDJ
+- ProjectM
+- Kick: dippythefoxderg
+- kakalim yamboya
+- https://maartenhof.gumroad.com
+- https://gum.com/nardoragon
+- https://github.com/n1ccel
+- https://github.com/n1ccel/Better-Interact-Desktop
+- absolver gun
+- install credit
+- remove cooldown
+- separate decor from layer main. make decor transition layer
+- https://youtu.be/0dph43fjV0Q?si=ecWynbUnqxSI-qMS I absolve you of your sins. You have been forgiven
+- https://ignesous.gumroad.com/l/nardoragonPants **PAID**
+- e mak e tole
+- https://moonmango.gumroad.com/l/dqpszh **PAID**
+- https://discord.com/channels/410126604237406209/588350726841827358/1216444115550470326
+- https://web.archive.org/web/20230322235855/https://forums.abinteractive.net/d/817-cvr-parameter-stream-reference
+- https://web.archive.org/web/20230322235855/https://forums.abinteractive.net/d/816-avatar-animator-parameters-reference
