@@ -15,6 +15,7 @@ GameObject:
   - component: {fileID: 2263620133977841427}
   - component: {fileID: 7274442673421275191}
   - component: {fileID: 7595485904614669}
+  - component: {fileID: 4132545871974015785}
   m_Layer: 0
   m_Name: BeepStick
   m_TagString: Untagged
@@ -52,8 +53,20 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   spawnHeight: 1
-  useAdditionalValues: 0
-  syncValues: []
+  useAdditionalValues: 1
+  syncValues:
+  - name: Beeped
+    startValue: 0
+    updatedBy: 0
+    updateMethod: 1
+    animator: {fileID: 4132545871974015785}
+    animatorParameterName: Beeped
+  - name: Semaphore
+    startValue: 0
+    updatedBy: 0
+    updateMethod: 1
+    animator: {fileID: 4132545871974015785}
+    animatorParameterName: Semaphore
   propPrivacy: 1
   subSyncs: []
   spawnableType: 0
@@ -73,6 +86,8 @@ MonoBehaviour:
   type: 3
   objectId: 5c394959-b82f-45d9-a924-576d80878404
   randomNum: 
+  unityVersion: 2021.3.23f1
+  cckVersion: 3.8:104
 --- !u!114 &9000117048024550174
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -176,12 +191,57 @@ MonoBehaviour:
               m_StringArgument: 
               m_BoolArgument: 0
             m_CallState: 2
-    actionType: 3
+    actionType: 18
     execType: 1
     layerMask:
       serializedVersion: 2
       m_Bits: 0
     floatVal: 10
+    floatVal2: 0
+    floatVal3: 0
+    boolVal: 0
+    varBufferVal: {fileID: 0}
+    varBufferVal2: {fileID: 0}
+    stringVal: 
+    allowedPointer: []
+    allowedPointerCollapse: 0
+    allowedTypes: []
+    allowedTypesCollapse: 0
+    specificParticleSystems: []
+    specificParticleSystemsCollapse: 0
+    interactionFilter: 0
+    interactionInput: 48
+    interactionInputModifier: 0
+    guid: 
+  - delay: 0
+    operations:
+    - type: 22
+      targets:
+      - {fileID: 0}
+      floatVal: 1
+      stringVal: 
+      stringVal2: 
+      stringVal3: 
+      stringVal4: 
+      boolVal: 0
+      boolVal2: 0
+      gameObjectVal: {fileID: 0}
+      floatVal2: 0
+      floatVal3: 0
+      floatVal4: 0
+      varBufferVal: {fileID: 0}
+      varBufferVal2: {fileID: 0}
+      varBufferVal3: {fileID: 0}
+      animationVal: {fileID: 0}
+      customEvent:
+        m_PersistentCalls:
+          m_Calls: []
+    actionType: 3
+    execType: 1
+    layerMask:
+      serializedVersion: 2
+      m_Bits: 0
+    floatVal: 0
     floatVal2: 0
     floatVal3: 0
     boolVal: 0
@@ -204,6 +264,27 @@ MonoBehaviour:
   onExitSeat:
     m_PersistentCalls:
       m_Calls: []
+--- !u!95 &4132545871974015785
+Animator:
+  serializedVersion: 5
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1038226960193164665}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: cfdeca24bcd611249b9954cb4137f583, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_StabilizeFeet: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorStateOnDisable: 0
+  m_WriteDefaultValuesOnDisable: 0
 --- !u!1 &1758358695471009933
 GameObject:
   m_ObjectHideFlags: 0

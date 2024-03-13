@@ -497,6 +497,7 @@ Here are the UUIDs of all these assets we uploaded to CVR:
 | `f7b036a6-4356-4c80-a247-3f49d96424d7` | Krappet | JOELwindows7 | Another car |
 | `dc317a48-39d2-40da-a3e3-27168334d43f` | Orange Fragrance | JOELwindows7 | Stella Jeruk |
 | `d2498a2c-dad3-4fa0-8761-3f6712f28e6f` | The Power of the Sun | JOELwindows7 | In the palm of my hand |
+| `07799d34-1333-4d9e-ab99-557faa694e47` | The Absolver | JOELwindows7 | In the palm of my hand |
 | `140ca808-7a9a-49c3-9296-3f49127f04ea` | Sex Dice Tutorial card | JOELwindows7 | **NSFW** How to DIY Lewd dice. |
 | `6d74cc05-a541-493b-9c5d-2fd377f9e4bc` | Click to Poof | JOELwindows7 | **Experimental** |
 | `382db2db-2101-4308-9a8a-5bcb263880a7` | Reflection Probe Helm Spawner | JOELwindows7 | **Experimental** |
