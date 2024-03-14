@@ -9,7 +9,7 @@ on: [push, pull_request]
 
 # https://github.com/marketplace/actions/create-unitypackage
 jobs:
-    echo:
+    bungkus:
         runs-on: ubuntu-latest
         steps:
             - uses: actions/checkout@v2
@@ -20,6 +20,8 @@ jobs:
                 ls
                 echo "Assets/JOELwindows7.meta" > ../metaList
                 find Assets/JOELwindows7/ -name \*.meta >> ../metaList
+                echo "Now, let's see what do we have here."
+                cat ../metalist
 
             - name: create output directory here
               run: mkdir a
