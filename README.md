@@ -370,7 +370,7 @@ Here are the UUIDs of all these assets we uploaded to CVR:
 | `1fe3eebd-7671-4392-9e3c-87f269ebe69e` | **BZ Protogen ++** | JOELwindows7 | https://twitter.com/triwavebz/status/1514302395836100609?s=20 Protogen free 3d model |
 | `b8e26010-8b21-4e97-b38b-5ec9cc8d9502` | Maya Putri | JOELwindows7 | https://odysee.com/@X0P1R4T3-33NSVREENMNT-0FFICIAL:f/Maya_Putri_official_mmd:4 |
 | `11f91306-49c6-4d8b-b075-461e24d4f6ed` | Abstract | JillTheSomething | (**NOT PERKEDEL**) |
-| `fdbc8414-06a8-482f-9062-ebf394c09d06` | Chitio Avislime | JillTheSomething | (**NOT PERKEDEL**) **(DEV DEPENDENCY PAYWALLED!!!) CHITIO NOT INCLUDED IN THIS SOURCE CODE, PAYWALLED!** |
+| `fdbc8414-06a8-482f-9062-ebf394c09d06` | Chitio Avislime | JillTheSomething | (**NOT PERKEDEL**) ~~**(DEV DEPENDENCY PAYWALLED!!!) CHITIO NOT INCLUDED IN THIS SOURCE CODE, PAYWALLED!**~~ UNPAYWALLED |
 | `244d5daf-35bd-4752-b286-e9c0a6057548` | MothBoi 2 | JillTheSomething | (**NOT PERKEDEL**) |
 | `71f810ba-2def-4d28-9ed0-833d6e427de3` | Rosy Buggie | JillTheSomething | (**NOT PERKEDEL**) |
 | `03191378-dd84-481b-84ad-2cedaaed7592` | Waddle Abomination | JillTheSomething | (**NOT PERKEDEL**) |
@@ -403,7 +403,7 @@ Here are the UUIDs of all these assets we uploaded to CVR:
 | `9d0677a5-b88f-4994-901b-7b91c99e8cd8` | UCC Bird Island | MilchZocker | (**NOT PERKEDEL**) |
 | `bc8f15fa-8f6b-42b5-8096-8b3058345e98` | UCC Hub | MilchZocker | (**NOT PERKEDEL**) |
 | ~~`9a7d706f-a70e-4e7f-a301-406f25e509b3`~~ | ~~DomNomNomVR's AudioLink Samples~~ | DomNomNomVR | (**NOT PERKEDEL**) **NOTE: WRONG AL WORLD!!! UUID mismatch into `TEST Audio Link`! World is not same as seemingly identical `AudioLink Example`!!** |
-| `b98f304c-e1e0-410d-a6c3-cfcb15c7c087` | DomNomNomVR's AudioLink Samples | DomNomNomVR | (**NOT PERKEDEL**) **NOTE: This is the correct UUID** |
+| `b98f304c-e1e0-410d-a6c3-cfcb15c7c087` | DomNomNomVR's AudioLink Samples | DomNomNomVR | (**NOT PERKEDEL**) **NOTE: This is the correct UUID**, PS: Not to be confused with extra added version from SnekMach |
 | `9cb2b515-eee3-4258-8c3d-108ccfc5d299` | Madvicius' Old Anime world | Madvicius | (**NOT PERKEDEL**) |
 | `2f14fd53-2850-43b9-91f0-132d3f2db2bc` | Writhe | JillTheSomething | (**NOT PERKEDEL**) |
 | `11a92064-d9d1-4f6b-91a0-845c78952659` | Pool House | JillTheSomething | (**NOT PERKEDEL**) |
@@ -499,6 +499,7 @@ Here are the UUIDs of all these assets we uploaded to CVR:
 | `d2498a2c-dad3-4fa0-8761-3f6712f28e6f` | The Power of the Sun | JOELwindows7 | In the palm of my hand |
 | `07799d34-1333-4d9e-ab99-557faa694e47` | The Absolver | JOELwindows7 | In the palm of my hand |
 | `140ca808-7a9a-49c3-9296-3f49127f04ea` | Sex Dice Tutorial card | JOELwindows7 | **NSFW** How to DIY Lewd dice. |
+| `04176881-b662-4299-a238-260a4f975d01` | Kipas Naik | JOELwindows7 | **Experimental** Lift-up fan using Gravity zone |
 | `6d74cc05-a541-493b-9c5d-2fd377f9e4bc` | Click to Poof | JOELwindows7 | **Experimental** |
 | `382db2db-2101-4308-9a8a-5bcb263880a7` | Reflection Probe Helm Spawner | JOELwindows7 | **Experimental** |
 | `48c2addd-f480-4146-af62-0a2ee047f157` | Cube Scaler | JOELwindows7 | **Experimental** |
@@ -538,12 +539,12 @@ For employee: **DO NOT LOSE THE GUID!! MAKE SURE IT IS STILL ATTACHED, & IS SAME
 ### Car Vehicle License Plates
 
 | UUID | Nick ID | Total Plate | Description | Tags |
-|-|-|-|
-<!-- | `` | `` | `` | a | tags | -->
+| --- | --- | --- |
 | `978bc94d-5a8b-4199-8352-b51c985dfa24` | `FAIL` | `FAIL-FA24` | Failed Research Car No. 1. Non-RCC variant | `⚡ EV`, `🏭 Commercial` |
 | `2f8ba87c-398f-4fd8-9fe6-db74234988d6` | `KARP` | `KARP-88D6` | Krappet bobsled car | `⚡ EV`, `🏭 Commercial` |
 | `6ac4ea02-0194-45e4-a1cf-a636af63ab98` | `ISKY` | `ISKY-AB98` | Sky's Hyundai IONIQ 5 (Indonesia Cikarang Version) Signature Long Range (Modded-frankensteined, fulfill all misses) | `⚡ EV`, `🏚️ Personal` |
 | `4dd6fa8f-bd5d-4c64-a5b0-b1e6a4edae56` | `LUCY` | `LUCY-AE56` | Latsufir's Prototype Dasandim Military Tough Saucer Mk. 2019 | `☢️ Mini Reactor`, `🏚️ Personal`, `🌌 Space` |
+<!-- | `` | `` | `` | a | tags | -->
 
 ### Protogen Parameter
 

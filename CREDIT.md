@@ -4976,3 +4976,14 @@ New Sauce lists
 - https://discord.com/channels/410126604237406209/588350726841827358/1216444115550470326
 - https://web.archive.org/web/20230322235855/https://forums.abinteractive.net/d/817-cvr-parameter-stream-reference
 - https://web.archive.org/web/20230322235855/https://forums.abinteractive.net/d/816-avatar-animator-parameters-reference
+- https://github.com/provideyourown/CodeBlocks-Arduino/issues/1
+- https://help.steampowered.com/id/faqs/view/71EA-CDCE-FB5C-82B3
+- https://partner.steamgames.com/pccafe#explore_steamworks
+- https://partner.steamgames.com/doc/sitelicense/licensees
+- https://partner.steamgames.com/
+- https://partner.steamgames.com/doc/sitelicense/licensees/faq
+- https://partner.steamgames.com/doc/sitelicense/publisher
+- https://discord.com/channels/410126604237406209/797279576459968555/1184298713884151828
+- https://skfb.ly/oRQrF fan
+- https://sketchfab.com/azimuthsdigitalart
+- https://discord.com/channels/410126604237406209/1004342533964439592/1217664197387751464
