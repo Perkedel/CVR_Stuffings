@@ -4987,3 +4987,15 @@ New Sauce lists
 - https://skfb.ly/oRQrF fan
 - https://sketchfab.com/azimuthsdigitalart
 - https://discord.com/channels/410126604237406209/1004342533964439592/1217664197387751464
+- https://therpgslayer.gumroad.com
+- https://razedrake.gumroad.com
+- https://fluffrali.gumroad.com
+- https://questingcrusader.gumroad.com
+- https://jinxyuwu.gumroad.com
+- https://jinxyuwu.gumroad.com/l/fdwqx
+- https://jupiturn.gumroad.com
+- https://cryptiacurves.gumroad.com/ Cally3d cryptia curves vibapop
+- https://youtube.com/shorts/3fJ4CLqvO4Y?si=GloeFhv-sZ9U0Isb
+- https://youtu.be/J4T256mVkS0?si=479n_dr6LZF5B3Z6
+- https://vrclibrary.com/wiki/books/post-processing-and-you
+- https://discord.com/channels/410126604237406209/588350770777161748/1217913635125592215
