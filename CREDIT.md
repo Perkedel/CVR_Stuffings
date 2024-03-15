@@ -4999,3 +4999,7 @@ New Sauce lists
 - https://youtu.be/J4T256mVkS0?si=479n_dr6LZF5B3Z6
 - https://vrclibrary.com/wiki/books/post-processing-and-you
 - https://discord.com/channels/410126604237406209/588350770777161748/1217913635125592215
+- https://thangs.com/designer/joelwindows7
+- https://discord.gg/TygDWS5Vp3  kjoy discord server
+- https://sayiarin.booth.pm/items/4102091 pens
+- https://bnuuy-dynamics.booth.pm/items/4084010 Bnuuy pens
