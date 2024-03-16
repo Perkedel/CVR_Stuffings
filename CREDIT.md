@@ -825,7 +825,7 @@ New Sauce lists
 - https://assetstore.unity.com/packages/3d/vehicles/cartoon-vehicles-low-poly-cars-free-138160
 - https://assetstore.unity.com/packages/3d/vehicles/land/drive-low-poly-cars-204830
 - https://github.com/PrismYoutube/Unity-Car-Controller alas, script forbidden by default
-- https://assetstore.unity.com/packages/2d/textures-materials/gridbox-prototype-materials-129127 Don't forget this!
+- https://assetstore.unity.com/packages/2d/textures-materials/gridbox-prototype-materials-129127 Don't forget this! Ciathyza
 - https://sketchfab.com/Teiozemo/models
 - https://sketchfab.com/SM0L
 - https://sm0l.gumroad.com/
@@ -5003,3 +5003,19 @@ New Sauce lists
 - https://discord.gg/TygDWS5Vp3  kjoy discord server
 - https://sayiarin.booth.pm/items/4102091 pens
 - https://bnuuy-dynamics.booth.pm/items/4084010 Bnuuy pens
+- https://potatovali.gumroad.com/l/qdklsi **PAID**, **NO PUBLIC**
+- https://potatovali.gumroad.com/
+- https://wispweaver.gumroad.com/l/JerryAvali **PAID**
+- https://irongut.gumroad.com/
+- https://sketchfab.com/irongut1
+- https://zueda.gumroad.com/
+- https://terraxy.gumroad.com/
+- https://aston3003.gumroad.com/
+- https://xeofrios.gumroad.com/
+- https://razedrake.gumroad.com/
+- https://cryptiacurves.gumroad.com/
+- https://hfcred.gumroad.com/
+- https://sm0l.gumroad.com/ **watch promo code in description**
+- https://marivr.gumroad.com/
+- https://docs.unity3d.com/Manual/class-ConfigurableJoint.html
+- https://docs.unity3d.com/Manual/class-ConfigurableJoint.html
