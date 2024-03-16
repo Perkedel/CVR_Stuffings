@@ -132,6 +132,18 @@ MonoBehaviour:
     staticValue: 0
     target: {fileID: 2176834629492456542}
     parameterName: Steer
+  - type: 600
+    targetType: 0
+    applicationType: 0
+    staticValue: 0
+    target: {fileID: 2176834629492456542}
+    parameterName: Submerged
+  - type: 1003
+    targetType: 0
+    applicationType: 0
+    staticValue: 0
+    target: {fileID: 2176834629492456542}
+    parameterName: Handbrake
   onlyUpdateWhenHeld: 0
   onlyUpdateWhenAttached: 0
   onlyUpdateWhenControlled: 1
@@ -686,6 +698,54 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!1 &5928981008494094766
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6936738061312272018}
+  - component: {fileID: 2683833968593182421}
+  m_Layer: 0
+  m_Name: Forc
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6936738061312272018
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5928981008494094766}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: -0.5, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 7401150920836572780}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &2683833968593182421
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5928981008494094766}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cfa2d3fd5b564c4f923e1963652b46a3, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  target: {fileID: 6287233173518564832}
+  forceVector: {x: 0, y: 0, z: -1}
+  strength: 0
+  onlyWhenSubmerged: 1
 --- !u!1 &6567124776198431572
 GameObject:
   m_ObjectHideFlags: 0
@@ -740,6 +800,7 @@ Transform:
   - {fileID: 1200727699430180182}
   - {fileID: 574161120769067307}
   - {fileID: 5041934009227233128}
+  - {fileID: 7401150920836572780}
   m_Father: {fileID: 1147146980674052520}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -969,6 +1030,38 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   orientationMode: 1
   velocityInheritance: 2
+--- !u!1 &8335015186415613593
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7401150920836572780}
+  m_Layer: 0
+  m_Name: ExtraForcer
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7401150920836572780
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8335015186415613593}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 1, z: -2.5}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 6936738061312272018}
+  m_Father: {fileID: 8885178254729846267}
+  m_RootOrder: 22
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &8401207869031080434
 GameObject:
   m_ObjectHideFlags: 0
@@ -1325,6 +1418,18 @@ PrefabInstance:
       propertyPath: m_ConnectedBody
       value: 
       objectReference: {fileID: 6287233173518564832}
+    - target: {fileID: 6490971171006376072, guid: 09d8040c073ebcf4f886353cdb7c28d1, type: 3}
+      propertyPath: m_ConnectedBody
+      value: 
+      objectReference: {fileID: 6287233173518564832}
+    - target: {fileID: 6490971171006376072, guid: 09d8040c073ebcf4f886353cdb7c28d1, type: 3}
+      propertyPath: m_ConnectedAnchor.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6490971171006376072, guid: 09d8040c073ebcf4f886353cdb7c28d1, type: 3}
+      propertyPath: m_ConnectedAnchor.z
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 6606812068301435619, guid: 09d8040c073ebcf4f886353cdb7c28d1, type: 3}
       propertyPath: m_Name
       value: ShaftEhBL
@@ -1431,6 +1536,18 @@ PrefabInstance:
       propertyPath: m_ConnectedBody
       value: 
       objectReference: {fileID: 6287233173518564832}
+    - target: {fileID: 6490971171006376072, guid: 09d8040c073ebcf4f886353cdb7c28d1, type: 3}
+      propertyPath: m_ConnectedBody
+      value: 
+      objectReference: {fileID: 6287233173518564832}
+    - target: {fileID: 6490971171006376072, guid: 09d8040c073ebcf4f886353cdb7c28d1, type: 3}
+      propertyPath: m_ConnectedAnchor.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6490971171006376072, guid: 09d8040c073ebcf4f886353cdb7c28d1, type: 3}
+      propertyPath: m_ConnectedAnchor.z
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 6606812068301435619, guid: 09d8040c073ebcf4f886353cdb7c28d1, type: 3}
       propertyPath: m_Name
       value: ShaftEhFR
@@ -1669,6 +1786,18 @@ PrefabInstance:
       propertyPath: m_ConnectedBody
       value: 
       objectReference: {fileID: 6287233173518564832}
+    - target: {fileID: 6490971171006376072, guid: 09d8040c073ebcf4f886353cdb7c28d1, type: 3}
+      propertyPath: m_ConnectedBody
+      value: 
+      objectReference: {fileID: 6287233173518564832}
+    - target: {fileID: 6490971171006376072, guid: 09d8040c073ebcf4f886353cdb7c28d1, type: 3}
+      propertyPath: m_ConnectedAnchor.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6490971171006376072, guid: 09d8040c073ebcf4f886353cdb7c28d1, type: 3}
+      propertyPath: m_ConnectedAnchor.z
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 6606812068301435619, guid: 09d8040c073ebcf4f886353cdb7c28d1, type: 3}
       propertyPath: m_Name
       value: ShaftEhBR
@@ -2385,6 +2514,18 @@ PrefabInstance:
       propertyPath: m_ConnectedBody
       value: 
       objectReference: {fileID: 6287233173518564832}
+    - target: {fileID: 6490971171006376072, guid: 09d8040c073ebcf4f886353cdb7c28d1, type: 3}
+      propertyPath: m_ConnectedBody
+      value: 
+      objectReference: {fileID: 6287233173518564832}
+    - target: {fileID: 6490971171006376072, guid: 09d8040c073ebcf4f886353cdb7c28d1, type: 3}
+      propertyPath: m_ConnectedAnchor.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6490971171006376072, guid: 09d8040c073ebcf4f886353cdb7c28d1, type: 3}
+      propertyPath: m_ConnectedAnchor.z
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 6606812068301435619, guid: 09d8040c073ebcf4f886353cdb7c28d1, type: 3}
       propertyPath: m_Name
       value: ShaftEhFL

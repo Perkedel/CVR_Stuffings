@@ -56,7 +56,7 @@ Below are assets that are not included and **must be installed prior of usage an
 - PolyBrush. Space saving, **CORE MODULE**.
   - Install this in `Assets`, `View in Package Manager`.
 - [Magica Cloth 1](https://assetstore.unity.com/packages/tools/physics/magica-cloth-160144) & [2 the sequel](https://assetstore.unity.com/packages/tools/physics/magica-cloth-2-242307). Paywalled
-- Glenskunk's [Cartoon Heart](https://glenskunk.gumroad.com/l/toonheartforVR?layout=profile) & [rest of them](https://glenskunk.gumroad.com/) ([alt](https://jinxxy.com/GlenSkunk?jc=c52ec67a13d09e3c89aaddcb76f108d62e2d254afe4fa1477865)). **Paywalled**
+- Glenskunk's [Cartoon Heart](https://glenskunk.gumroad.com/l/toonheartforVR?layout=profile) & [rest of them](https://glenskunk.gumroad.com/) ([alt](https://jinxxy.com/GlenSkunk?jc=c52ec67a13d09e3c89aaddcb76f108d62e2d254afe4fa1477865)) ([**NEW**](https://glenskunk.itch.io/)). **Paywalled**
 - [Gan Servo's Heartbeat connector for VRChat](https://garnservo.gumroad.com/l/Heartbeat?layout=profile). **Paywalled**, **INCOMPATIBLE PLS PORT**. using [HR2VRC](https://hrtovrchat.fortnite.lol/setup) ([HR2VRC DISCONTINUED 2024-01-01](https://hrtovrchat.fortnite.lol/discontinuation))
 - [Realistic Car Controller](https://assetstore.unity.com/packages/tools/physics/realistic-car-controller-16296). **Paywalled**
 - [Fluff's VRC Avatar Toolbox](https://fluffs.gumroad.com/l/flufftoolbox). **Paywalled**
