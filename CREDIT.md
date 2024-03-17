@@ -5027,3 +5027,65 @@ New Sauce lists
 - watch boundary
 - https://glenskunk.itch.io/ Glennskunk new storefront pls update. Gumroad, **🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕!!!**
 - https://tavii.gumroad.com
+- https://wiki.chilloutvr.eu
+- toastador
+- https://mega.nz/folder/pg4ByYAB#2xLPzh2_6FkAwx3Gf9q44A CumminHam files
+- https://cumminham.newgrounds.com/
+- https://cumminham.newgrounds.com/news/post/1050835
+- https://kinkyfridays.itch.io/sapphire-safari
+- https://www.newgrounds.com/portal/view/845993
+- https://steamcommunity.com/app/1526900
+- https://store.steampowered.com/app/1526900/Sapphire_Safari/
+- https://store.steampowered.com/app/1226640/Pieces_of_my_Heart/
+- https://aesthetics.fandom.com/wiki/Cybercore
+- https://dateful.com/time-zone-converter?t=10.29&tz2=Berlin-Germany
+- https://wiki.chilloutvr.eu/en/community/Events
+- https://liindy.gumroad.com/ Their suresight e.g., fell under `Nebula Animation` folder here in the `Assets`.
+- https://gh0stt.gumroad.com/
+- https://gh0stt.gumroad.com/l/morph VRA-05 grab his/her/their heart. slime
+- https://github.com/PiMaker/VRChatUnityThings
+- https://drive.google.com/file/d/1XQBybXg2D87AueLI87UuujA3jDN4fU33/view  lox9973's VideoRT
+- https://github.com/z3y/ShaderGraphZ.git **NEW!!!**
+- https://github.com/z3y/shaders update!
+- https://booth.pm/en/items/3661829 **PAID, DEMO AVAILABLE** AreaLit found! from Lox
+- https://lox9973.booth.pm/ Lox
+- https://booth.pm/en/items/3462994 **PAID** Dance floor used in Purple Fox found! Milk Deluxe
+- https://tsunamoo.booth.pm/ Milk Deluxe
+- https://pyralix.booth.pm/
+- https://pyralix.booth.pm/items/3480169
+- https://rusk1221.booth.pm/
+- https://booth.pm/en/items/2749132 **PAID** Spookyghostboo
+- https://booth.pm/en/items/1782044 **PAID**
+- https://booth.pm/en/items/2501847 **PAID**
+- https://reimajo.booth.pm/
+- https://booth.pm/en/items/2766178 **PAID**
+- https://booth.pm/en/items/2766178 **PAID** dart vrc aoinu
+- https://aoinu607.booth.pm/
+- https://booth.pm/en/items/1361646
+- https://ddsotl.booth.pm/
+- https://booth.pm/en/items/1501508
+- https://booth.pm/en/items/1501675
+- https://kzk.booth.pm/
+- https://booth.pm/en/items/945519
+- https://tsugu-3d.booth.pm/
+- https://yamabukiyao.booth.pm/
+- https://booth.pm/en/items/3470989 **PAID**
+- https://booth.pm/en/items/2559783 **PAID**
+- https://sugary-boutique.booth.pm/
+- https://sugary-boutique.booth.pm/
+- https://komado.booth.pm/
+- https://booth.pm/en/items/2244714
+- https://vowgan.booth.pm/
+- https://github.com/VirtualVisions/VowganPrefabs/
+- https://booth.pm/en/items/2157742 **PAID** fake caustic
+- https://rakuraiworks.booth.pm/
+- https://booth.pm/en/items/2802412 **PAID** Noriben also has Aquarium shader, remember that!
+- https://booth.pm/en/items/1327310 **MERCH**
+- https://yamabukiyao.booth.pm/
+- https://tsugu-3d.booth.pm/
+- https://65536.booth.pm/items/1555789
+- https://65536.booth.pm/ aivrc
+- https://booth.pm/en/items/4004447
+- https://booth.pm/en/items/1943320
+- https://booth.pm/en/items/2859345
+- https://booth.pm/en/items/3093354
