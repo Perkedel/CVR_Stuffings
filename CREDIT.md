@@ -5089,3 +5089,36 @@ New Sauce lists
 - https://booth.pm/en/items/1943320
 - https://booth.pm/en/items/2859345
 - https://booth.pm/en/items/3093354
+- https://www.reddit.com/r/PngTuber/comments/xaoz2b/pngtube_a_lightweight_png_animator_for_obs/
+- https://github.com/sugoidogo/pngtube2
+- https://grifnmore.com/sound-reactive-talksprite/
+- https://zexc.gumroad.com/ new bestboi shop
+- https://github.com/dungodoot/obs-pngtuber
+- https://www.reddit.com/r/PngTuber/comments/xaoz2b/pngtube_a_lightweight_png_animator_for_obs/
+- https://jeremyyysan.gumroad.com/l/abvbr
+- https://github.com/sugoidogo/pngtube2
+- https://live3d.io/blog/how-to-use-pngtuber-with-obs
+- https://vrcfury.com/
+- https://github.com/VRCFury/VRCFury
+- https://github.com/z3y/shaders
+- https://github.com/z3y/ShaderGraphZ trouble, requires new version of core renderpipeline which 2021 don't have
+- https://jeremyyysan.gumroad.com/l/abvb pls PNGTUber OBS
+- https://jeremyyysan.gumroad.com/ Jackpot!! 3D Models
+- guardian tales
+- gumroad: elvira by void
+- https://github.com/DjShinter/NiceHotkeys
+- https://github.com/kafeijao/Kafe_CVR_Mods
+- https://github.com/ljoonal/CVR-Plugins
+- https://github.com/NotAKidOnSteam/NAK_CVR_Mods?tab=readme-ov-file
+- https://github.com/WTFBlaze/Aristois-CVR
+- https://github.com/NotAKidOnSteam/StateBehaviours
+- https://github.com/MilchZocker/ChilloutVR-addons
+- https://github.com/ballfn/ChilloutMod
+- https://github.com/kafeijao/Kafe_CVR_CCKs
+- https://github.com/kafeijao/GinnFix
+- https://github.com/DragonPlayerX/CustomTriggerThreshold
+- https://github.com/DragonPlayerX/CacheManager
+- https://github.com/emperorofmars/Mars-Avatar-Guide
+- PONPON miku pls
+- Viva project formerly shinobi project
+- https://skfb.ly/oxpzQ
