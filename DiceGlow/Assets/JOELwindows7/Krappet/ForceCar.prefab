@@ -59,7 +59,11 @@ MonoBehaviour:
     animator: {fileID: 8348176361544799075}
     animatorParameterName: Steer
   propPrivacy: 1
-  subSyncs: []
+  subSyncs:
+  - transform: {fileID: 8885178254729846267}
+    syncedValues: 126
+    precision: 4
+    syncBoundary: 0.5
   spawnableType: 0
   preGeneratedInstanceId: 
 --- !u!114 &6193424839728148960
@@ -759,6 +763,7 @@ GameObject:
   - component: {fileID: 6181420844689937230}
   - component: {fileID: 3443656870629219985}
   - component: {fileID: 7936048659282696555}
+  - component: {fileID: 7414562951269816227}
   m_Layer: 0
   m_Name: ForceCarItself
   m_TagString: Untagged
@@ -883,6 +888,20 @@ MonoBehaviour:
   autoHold: 0
   updateWithPhysics: 1
   ikReference: {fileID: 0}
+--- !u!114 &7414562951269816227
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6567124776198431572}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5e64e73267099d84684eed99ad7d145f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  syncOwner: 
+  guid: 
 --- !u!1 &6778709100280689738
 GameObject:
   m_ObjectHideFlags: 0
