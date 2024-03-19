@@ -5122,3 +5122,12 @@ New Sauce lists
 - PONPON miku pls
 - Viva project formerly shinobi project
 - https://skfb.ly/oxpzQ
+- https://www.ronja-tutorials.com/post/039-screenspace-texture/
+- https://github.com/bodhid/UnityScreenSpaceReflections
+- https://pin.it/5tfgna6xO
+- https://youtu.be/mghEj2HBt4Q?si=bKB_2e0rBrd7Y3CM
+- https://github.com/kode80/kode80SSR
+- https://docs.unity3d.com/ScriptReference/Renderer.html
+- https://discord.com/channels/410126604237406209/689949650614091827/1219699268818964572
+- avi from booth
+- **Standbyducks is gone**
