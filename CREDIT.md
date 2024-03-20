@@ -393,7 +393,7 @@ New Sauce lists
 - https://github.com/H-uru/dirtsand
 - https://github.com/H-uru/Plasma
 - https://github.com/H-uru/agedb
-- https://nardoiri.gumroad.com/l/Nardoragon
+- https://nardoiri.gumroad.com/l/Nardoragon **PAID**
 - https://booth.pm/en/items/2911183
 - https://github.com/VRLabs/Ragdoll-System
 - https://vrlabs.gumroad.com/l/ragdoll-system
@@ -4962,7 +4962,7 @@ New Sauce lists
 - Kick: dippythefoxderg
 - kakalim yamboya
 - https://maartenhof.gumroad.com
-- https://gum.com/nardoragon
+- https://gum.co/nardoragon
 - https://github.com/n1ccel
 - https://github.com/n1ccel/Better-Interact-Desktop
 - absolver gun
@@ -5131,3 +5131,11 @@ New Sauce lists
 - https://discord.com/channels/410126604237406209/689949650614091827/1219699268818964572
 - avi from booth
 - **Standbyducks is gone**
+- https://skfb.ly/oM7r9
+- https://skfb.ly/oIG8B
+- video player prop exclusively stream my Odysee
+- Pacman World
+- IBM AS/400
+- https://skfb.ly/oJFSy
+- Over The Hedge game
+- https://discord.com/channels/969594520901664779/1115140592868007986/1119744517915021403
