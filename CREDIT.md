@@ -5139,3 +5139,9 @@ New Sauce lists
 - https://skfb.ly/oJFSy
 - Over The Hedge game
 - https://discord.com/channels/969594520901664779/1115140592868007986/1119744517915021403
+- https://skfb.ly/6xBAB Pls TV Flatscreen Wakarma
+- https://github.com/Kavex/ChilloutVR_Prefabs That's featured in Kavex
+- https://github.com/blender/blender-addons
+- https://blenderzen.com/2020/10/19/how-to-use-the-measureit-add-on-in-blender/
+- https://makertales.gumroad.com/ Pls Blender CAD addons
+- archii sketchfab?
