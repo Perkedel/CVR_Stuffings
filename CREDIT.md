@@ -5145,3 +5145,5 @@ New Sauce lists
 - https://blenderzen.com/2020/10/19/how-to-use-the-measureit-add-on-in-blender/
 - https://makertales.gumroad.com/ Pls Blender CAD addons
 - archii sketchfab?
+- pls find miku v3
+- 
