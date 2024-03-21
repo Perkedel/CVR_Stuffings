@@ -5146,4 +5146,10 @@ New Sauce lists
 - https://makertales.gumroad.com/ Pls Blender CAD addons
 - archii sketchfab?
 - pls find miku v3
-- 
+- https://github.com/Kavex/GlueIT
+- `Nobahaz | Other Platform streaming is currently disabled & only available in Odysee right now. We are apologize for your inconveniences. We are working on finding better solution. |`
+- https://github.com/actions/checkout/releases
+- Protogen pls update
+- More AFK: Toilet
+- Shaders again animation states
+- spawn sounds
