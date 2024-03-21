@@ -5153,3 +5153,4 @@ New Sauce lists
 - More AFK: Toilet
 - Shaders again animation states
 - spawn sounds
+- retune heartbeat speaker. increase range bit by bit so it's easier to earsteth by the view position dot. dang wish there the listener dot is separate
