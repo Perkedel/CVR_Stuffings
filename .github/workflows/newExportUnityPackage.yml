@@ -12,7 +12,7 @@ jobs:
     bungkus:
         runs-on: ubuntu-latest
         steps:
-            - uses: actions/checkout@v2
+            - uses: actions/checkout@v4.1.1
             - name: Include which files you wanted to the list file
               run: |
                 cd DiceGlow
@@ -48,8 +48,12 @@ jobs:
                 package-path: 'a/WholeJOELwindows7CVRSets.unitypackage'
                 include-files: metaList
                 project-folder: 'DiceGlow'
-            - name: Here's your morbin sir!
+            - name: Here's your morbin sir! Will there be anything else?
               uses: actions/upload-artifact@master
               with:
                 path: a
                 name: Whole_JOELwindows7_CVR-Sets
+            - name: HEEEH?!?!?
+              run: |
+                echo 'hehe 😏';
+                echo 'SNAP BACK TO REALITY';
