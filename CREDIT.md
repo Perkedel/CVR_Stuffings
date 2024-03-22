@@ -5150,7 +5150,17 @@ New Sauce lists
 - `Nobahaz | Other Platform streaming is currently disabled & only available in Odysee right now. We are apologize for your inconveniences. We are working on finding better solution. |`
 - https://github.com/actions/checkout/releases
 - Protogen pls update
-- More AFK: Toilet
-- Shaders again animation states
-- spawn sounds
-- retune heartbeat speaker. increase range bit by bit so it's easier to earsteth by the view position dot. dang wish there the listener dot is separate
+- [x] More AFK: Toilet
+- [ ] Shaders again animation states
+- [x] spawn sounds
+- [x] retune heartbeat speaker. increase range bit by bit so it's easier to earsteth by the view position dot. dang wish there the listener dot is separate
+- https://superuser.com/questions/1121334/how-to-use-ffmpeg-to-encode-ogg-audio-files
+- https://apple.stackexchange.com/questions/347032/is-there-any-way-to-convert-a-bunch-of-ogg-files-in-a-folder-to-mp3-using-ffmp
+- https://askubuntu.com/questions/147944/bulk-batch-convert-mp3-files-to-ogg-via-command-line
+- https://bluejuicyjuice.itch.io/ New store
+- https://tail-blazer.itch.io/ new
+- https://discord.com/channels/410126604237406209/1004342533964439592/1220578037523943517
+- https://github.com/jorio/Bugdom
+- Glypha steam
+- https://odysee.com/@JulianC:9/justwantedtoletyouknow:8
+- https://discord.com/channels/410126604237406209/588350685255565344/1220817951691767929
