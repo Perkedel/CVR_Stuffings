@@ -3136,6 +3136,7 @@ Transform:
   - {fileID: 3156264889998467631}
   - {fileID: 642243742558498815}
   - {fileID: 298490612586737679}
+  - {fileID: 4957744548662816158}
   m_Father: {fileID: 4492195127356171611}
   m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -4962,7 +4963,7 @@ MonoBehaviour:
   viewPosition: {x: 0, y: 1.4351826, z: 0.12464428}
   voicePosition: {x: 0, y: 1.3551183, z: 0.13415146}
   voiceParent: 0
-  overrides: {fileID: 0}
+  overrides: {fileID: 22100000, guid: 45c40d2de98cb2e4d83fcde2f70c202f, type: 2}
   bodyMesh: {fileID: 4492195126408120721}
   useEyeMovement: 1
   eyeLookMode: 0
@@ -5002,7 +5003,7 @@ MonoBehaviour:
     initialized: 1
     baseController: {fileID: 9100000, guid: ff926e022d914b84e8975ba6188a26f0, type: 2}
     baseOverrideController: {fileID: 0}
-    animator: {fileID: 9100000, guid: 02df266634986404a8b8d515b562ae54, type: 2}
+    animator: {fileID: 9100000, guid: fc040b9e93a7b6343b85911ca31ef4f0, type: 2}
     overrides: {fileID: 22100000, guid: 45c40d2de98cb2e4d83fcde2f70c202f, type: 2}
     settings:
     - type: 2
@@ -5147,6 +5148,26 @@ MonoBehaviour:
           treePath: Armature/hip/spine/spine.001/upperchest/neck/head/CheekMark/ZoomChecks/NotConsent/ZoomNotConsentIcon
           propertyTypeIdentifier: MSR
           propertyName: _EmissionColor
+        - isCollapsed: 1
+          gameObject: {fileID: 121003255450962550}
+          treePath: Armature/hip/spine/spine.001/upperchest/neck/head/CheekMark/AFKIcons/FallAsleepIcon
+          propertyTypeIdentifier: MSR
+          propertyName: _EmissionColor
+        - isCollapsed: 1
+          gameObject: {fileID: 1382650749460012507}
+          treePath: Armature/hip/spine/spine.001/upperchest/neck/head/CheekMark/AFKIcons/AltTabIcon
+          propertyTypeIdentifier: MSR
+          propertyName: _EmissionColor
+        - isCollapsed: 1
+          gameObject: {fileID: 5333126081288054886}
+          treePath: Armature/hip/spine/spine.001/upperchest/neck/head/CheekMark/AFKIcons/LiveStreamingIcon
+          propertyTypeIdentifier: MSR
+          propertyName: _EmissionColor
+        - isCollapsed: 1
+          gameObject: {fileID: 3407587294648236696}
+          treePath: Armature/hip/spine/spine.001/upperchest/neck/head/CheekMark/AFKIcons/ToiletIcon
+          propertyTypeIdentifier: MSR
+          propertyName: _EmissionColor
       dropDownSettings:
         usedType: 1
         isCollapsed: 1
@@ -5245,6 +5266,16 @@ MonoBehaviour:
           useAnimationClip: 1
           animationClip: {fileID: 7400000, guid: 0b7fa848a70a7c34ab10f0e9fdae80ae, type: 2}
           gameObjectTargets: []
+        - name: Unlit
+          isCollapsed: 1
+          useAnimationClip: 1
+          animationClip: {fileID: 0}
+          gameObjectTargets: []
+        - name: MToon10
+          isCollapsed: 1
+          useAnimationClip: 1
+          animationClip: {fileID: 0}
+          gameObjectTargets: []
       sliderSettings:
         usedType: 1
         isCollapsed: 1
@@ -5299,7 +5330,7 @@ MonoBehaviour:
         materialColorTargets: []
       dropDownSettings:
         usedType: 1
-        isCollapsed: 1
+        isCollapsed: 0
         defaultValue: 0
         options:
         - name: Neutral
@@ -5402,7 +5433,7 @@ MonoBehaviour:
         materialColorTargets: []
       dropDownSettings:
         usedType: 2
-        isCollapsed: 1
+        isCollapsed: 0
         defaultValue: 0
         options:
         - name: None
@@ -6485,6 +6516,160 @@ MonoBehaviour:
         defaultValue: {x: 0, y: 0, z: 0}
       name: Let Others Know Zooming
       machineName: LetOthersKnowZooming
+    - type: 1
+      toggleSettings:
+        usedType: 1
+        isCollapsed: 1
+        defaultValue: 0
+        useAnimationClip: 0
+        animationClip: {fileID: 0}
+        offAnimationClip: {fileID: 0}
+        gameObjectTargets:
+        - isCollapsed: 0
+          gameObject: {fileID: 0}
+          treePath: 
+          onState: 1
+      materialColorSettings:
+        usedType: 1
+        isCollapsed: 1
+        defaultValue: {r: 1, g: 1, b: 1, a: 1}
+        materialColorTargets: []
+      dropDownSettings:
+        usedType: 2
+        isCollapsed: 1
+        defaultValue: 0
+        options:
+        - name: OFF
+          isCollapsed: 1
+          useAnimationClip: 0
+          animationClip: {fileID: 0}
+          gameObjectTargets:
+          - isCollapsed: 0
+            gameObject: {fileID: 7247642817928146129}
+            treePath: Armature/hip/spine/spine.001/upperchest/neck/head/SpawnSounds/NullStartup
+            onState: 1
+        - name: Yaru (Ubuntu new)
+          isCollapsed: 1
+          useAnimationClip: 0
+          animationClip: {fileID: 0}
+          gameObjectTargets:
+          - isCollapsed: 1
+            gameObject: {fileID: 4591764131202032873}
+            treePath: Armature/hip/spine/spine.001/upperchest/neck/head/SpawnSounds/YaruStartup
+            onState: 1
+        - name: Ubuntu (Pre-Yaru)
+          isCollapsed: 1
+          useAnimationClip: 0
+          animationClip: {fileID: 0}
+          gameObjectTargets:
+          - isCollapsed: 0
+            gameObject: {fileID: 6902489672693988264}
+            treePath: Armature/hip/spine/spine.001/upperchest/neck/head/SpawnSounds/UbuntuStartup
+            onState: 1
+        - name: Windows Vista-7-8-10
+          isCollapsed: 1
+          useAnimationClip: 0
+          animationClip: {fileID: 0}
+          gameObjectTargets: []
+        - name: Windows 11
+          isCollapsed: 0
+          useAnimationClip: 0
+          animationClip: {fileID: 0}
+          gameObjectTargets: []
+        - name: Windows CE
+          isCollapsed: 0
+          useAnimationClip: 0
+          animationClip: {fileID: 0}
+          gameObjectTargets: []
+        - name: Windows Mobile
+          isCollapsed: 0
+          useAnimationClip: 0
+          animationClip: {fileID: 0}
+          gameObjectTargets: []
+        - name: KDE
+          isCollapsed: 0
+          useAnimationClip: 0
+          animationClip: {fileID: 0}
+          gameObjectTargets: []
+        - name: Windows XP
+          isCollapsed: 0
+          useAnimationClip: 0
+          animationClip: {fileID: 0}
+          gameObjectTargets: []
+        - name: Windows 2000-ME
+          isCollapsed: 0
+          useAnimationClip: 0
+          animationClip: {fileID: 0}
+          gameObjectTargets: []
+        - name: Windows 98
+          isCollapsed: 0
+          useAnimationClip: 0
+          animationClip: {fileID: 0}
+          gameObjectTargets: []
+        - name: Windows 95
+          isCollapsed: 0
+          useAnimationClip: 0
+          animationClip: {fileID: 0}
+          gameObjectTargets: []
+        - name: Windows NT 4
+          isCollapsed: 0
+          useAnimationClip: 0
+          animationClip: {fileID: 0}
+          gameObjectTargets: []
+        - name: Windows 3
+          isCollapsed: 0
+          useAnimationClip: 0
+          animationClip: {fileID: 0}
+          gameObjectTargets: []
+        - name: Samsung PC Theme (Longhorn)
+          isCollapsed: 0
+          useAnimationClip: 0
+          animationClip: {fileID: 0}
+          gameObjectTargets: []
+        - name: Haiku-BeOS
+          isCollapsed: 0
+          useAnimationClip: 0
+          animationClip: {fileID: 0}
+          gameObjectTargets: []
+        - name: Samsung Galaxy S
+          isCollapsed: 0
+          useAnimationClip: 0
+          animationClip: {fileID: 0}
+          gameObjectTargets: []
+      sliderSettings:
+        usedType: 1
+        isCollapsed: 1
+        defaultValue: 0
+        materialPropertyTargets: []
+        useAnimationClip: 0
+        minAnimationClip: {fileID: 0}
+        maxAnimationClip: {fileID: 0}
+      joystick2DSetting:
+        usedType: 1
+        isCollapsed: 1
+        defaultValue: {x: 0, y: 0}
+        rangeMin: {x: 0, y: 0}
+        rangeMax: {x: 1, y: 1}
+      joystick3DSetting:
+        usedType: 1
+        isCollapsed: 1
+        defaultValue: {x: 0, y: 0, z: 0}
+        rangeMin: {x: 0, y: 0, z: 0}
+        rangeMax: {x: 1, y: 1, z: 1}
+      inputSingleSettings:
+        usedType: 1
+        isCollapsed: 1
+        defaultValue: 0
+      inputVector2Settings:
+        usedType: 1
+        isCollapsed: 1
+        defaultValue: {x: 0, y: 0}
+      inputVector3Settings:
+        usedType: 1
+        isCollapsed: 1
+        defaultValue: {x: 0, y: 0, z: 0}
+      name: Spawn Sounds
+      machineName: SpawnSounds
     - type: 0
       toggleSettings:
         usedType: 3
@@ -6596,6 +6781,15 @@ MonoBehaviour:
           - isCollapsed: 0
             gameObject: {fileID: 5333126081288054886}
             treePath: Armature/hip/spine/spine.001/upperchest/neck/head/CheekMark/AFKIcons/LiveStreamingIcon
+            onState: 1
+        - name: Toilet
+          isCollapsed: 1
+          useAnimationClip: 0
+          animationClip: {fileID: 0}
+          gameObjectTargets:
+          - isCollapsed: 0
+            gameObject: {fileID: 3407587294648236696}
+            treePath: Armature/hip/spine/spine.001/upperchest/neck/head/CheekMark/AFKIcons/ToiletIcon
             onState: 1
       sliderSettings:
         usedType: 1
@@ -10043,6 +10237,37 @@ MonoBehaviour:
     maxValue: 1
     updateMethod: 1
   sampleDirection: 3
+--- !u!1 &7247642817928146129
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6517226361549693734}
+  m_Layer: 0
+  m_Name: NullStartup
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6517226361549693734
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7247642817928146129}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 4957744548662816158}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &7392688548512035708
 GameObject:
   m_ObjectHideFlags: 0
@@ -10450,6 +10675,40 @@ Transform:
   m_Father: {fileID: 849440626112929534}
   m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &8775173525498459690
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4957744548662816158}
+  m_Layer: 0
+  m_Name: SpawnSounds
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4957744548662816158
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8775173525498459690}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0.0638, z: 0.2518}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 6517226361549693734}
+  - {fileID: 2352956880163325540}
+  - {fileID: 4671579988190107941}
+  m_Father: {fileID: 4492195126397628578}
+  m_RootOrder: 20
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &9143250160076747193
 GameObject:
   m_ObjectHideFlags: 0
@@ -10830,6 +11089,77 @@ GameObject:
   m_CorrespondingSourceObject: {fileID: 835584161445167723, guid: 8ee6c46d075aed14583acd5e3624e558, type: 3}
   m_PrefabInstance: {fileID: 3464150215795060857}
   m_PrefabAsset: {fileID: 0}
+--- !u!1001 &3706987310028217483
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 4957744548662816158}
+    m_Modifications:
+    - target: {fileID: 921237324718782562, guid: 2e610f5606d82774aabc41a95f14a770, type: 3}
+      propertyPath: m_Name
+      value: YaruStartup
+      objectReference: {fileID: 0}
+    - target: {fileID: 921237324718782562, guid: 2e610f5606d82774aabc41a95f14a770, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1429537196337961711, guid: 2e610f5606d82774aabc41a95f14a770, type: 3}
+      propertyPath: m_RootOrder
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1429537196337961711, guid: 2e610f5606d82774aabc41a95f14a770, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1429537196337961711, guid: 2e610f5606d82774aabc41a95f14a770, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1429537196337961711, guid: 2e610f5606d82774aabc41a95f14a770, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1429537196337961711, guid: 2e610f5606d82774aabc41a95f14a770, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1429537196337961711, guid: 2e610f5606d82774aabc41a95f14a770, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1429537196337961711, guid: 2e610f5606d82774aabc41a95f14a770, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1429537196337961711, guid: 2e610f5606d82774aabc41a95f14a770, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1429537196337961711, guid: 2e610f5606d82774aabc41a95f14a770, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1429537196337961711, guid: 2e610f5606d82774aabc41a95f14a770, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1429537196337961711, guid: 2e610f5606d82774aabc41a95f14a770, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 2e610f5606d82774aabc41a95f14a770, type: 3}
+--- !u!4 &2352956880163325540 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 1429537196337961711, guid: 2e610f5606d82774aabc41a95f14a770, type: 3}
+  m_PrefabInstance: {fileID: 3706987310028217483}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &4591764131202032873 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 921237324718782562, guid: 2e610f5606d82774aabc41a95f14a770, type: 3}
+  m_PrefabInstance: {fileID: 3706987310028217483}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &4582269818524332333
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -11025,6 +11355,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 0cd4624f77ef63a40a91a21313160ab4, type: 3}
+--- !u!1 &3407587294648236696 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 7066730747230683622, guid: 0cd4624f77ef63a40a91a21313160ab4, type: 3}
+  m_PrefabInstance: {fileID: 5573271314717768574}
+  m_PrefabAsset: {fileID: 0}
 --- !u!4 &4183558443173617820 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 8599272221893155810, guid: 0cd4624f77ef63a40a91a21313160ab4, type: 3}
@@ -11542,6 +11877,73 @@ Transform:
 GameObject:
   m_CorrespondingSourceObject: {fileID: 4401781244377894669, guid: 9cea45f947f90564399dddc3f849d4f3, type: 3}
   m_PrefabInstance: {fileID: 7934348517114104613}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &8204176575531487794
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 4957744548662816158}
+    m_Modifications:
+    - target: {fileID: 3319582739754690970, guid: 92083e040ba6176418724e8ae2882701, type: 3}
+      propertyPath: m_Name
+      value: UbuntuStartup
+      objectReference: {fileID: 0}
+    - target: {fileID: 3535288458254191383, guid: 92083e040ba6176418724e8ae2882701, type: 3}
+      propertyPath: m_RootOrder
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 3535288458254191383, guid: 92083e040ba6176418724e8ae2882701, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3535288458254191383, guid: 92083e040ba6176418724e8ae2882701, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3535288458254191383, guid: 92083e040ba6176418724e8ae2882701, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3535288458254191383, guid: 92083e040ba6176418724e8ae2882701, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3535288458254191383, guid: 92083e040ba6176418724e8ae2882701, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3535288458254191383, guid: 92083e040ba6176418724e8ae2882701, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3535288458254191383, guid: 92083e040ba6176418724e8ae2882701, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3535288458254191383, guid: 92083e040ba6176418724e8ae2882701, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3535288458254191383, guid: 92083e040ba6176418724e8ae2882701, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3535288458254191383, guid: 92083e040ba6176418724e8ae2882701, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 92083e040ba6176418724e8ae2882701, type: 3}
+--- !u!4 &4671579988190107941 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 3535288458254191383, guid: 92083e040ba6176418724e8ae2882701, type: 3}
+  m_PrefabInstance: {fileID: 8204176575531487794}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &6902489672693988264 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 3319582739754690970, guid: 92083e040ba6176418724e8ae2882701, type: 3}
+  m_PrefabInstance: {fileID: 8204176575531487794}
   m_PrefabAsset: {fileID: 0}
 --- !u!1001 &8358884463555748120
 PrefabInstance:
