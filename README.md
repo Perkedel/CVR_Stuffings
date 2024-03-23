@@ -24,6 +24,14 @@ In event of any presence of sponsorship in any form, no works & creations includ
 
 > Profanity is allowed in this premise. Ensure to use this permission **only** to strengthen your quotes, and **avoid unecessary & irrelevant overboard derogatory attacks** against another parties.
 
+## Announcements
+
+### CVR Unofficial Community Schedules
+
+> Image from CVR Community Leader. ... pls invite me, we yoinked it from VoyVivika's Discord (I think).. yeah syndicated.
+
+![CVR Unofficial Community Schedules March 2024](/Assets/JOELwindows7/_CORE/Sprites/Memes/ThirdParty/CVR Community Leaders/march12024_stay.png)
+
 ## Instructions
 
 ### Installation Setup

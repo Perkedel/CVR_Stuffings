@@ -5170,3 +5170,17 @@ New Sauce lists
 - https://youtu.be/-ZwEwKJOKR0?si=_rCa96EmlHrU82xU
 - https://youtu.be/P8MfgV9us4o?si=VUYoLgC_Lnfct_U6
 - ydkj drink meter. wrong answer get drink
+- lens error made yes or no prop. pls remake but with gravity throw to sky punishment.
+- https://assetstore.unity.com/publishers/7625 Kawetofe assets yess
+- https://kawetofe-assets.itch.io/rim-highlighting-system-for-unity **PAID** HUH?!
+- https://kawetofe-assets.itch.io/ Yeah also on itch. only 1?
+- From Pi's shaders, they uses:
+- https://gist.github.com/mattatz/86fff4b32d198d0928d0fa4ff32cf6fa
+- https://gist.github.com/mattatz/40a91588d5fb38240403f198a938a593
+- OK
+- https://freesound.org/people/TheScarlettWitch89/sounds/417941/
+- https://youtu.be/veFlfYjRo1Y?si=j8J1HIzoXrObp4EZ
+- https://www.wonsulting.ai/resumai?utm_source=Jerry%27s+YouTube+Content&utm_medium=Social&utm_campaign=Jerry%27s+YouTube+ResumAI
+- https://www.msi.com/Landing/afterburner/graphics-cards
+- https://odysee.com/@JOELwindows7:a/cvr-2024-03-22:4
+- https://odysee.com/@JOELwindows7:a/cvr-2024-03-23:e
