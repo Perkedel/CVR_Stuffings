@@ -43,7 +43,8 @@ Shader "_pi_/Fishy"
             #define SEED 5764
             // CONFIG END
 
-            #include "Packages/com.llealloo.audiolink/Runtime/Shaders/AudioLink.cginc"
+            // #include "Packages/com.llealloo.audiolink/Runtime/Shaders/AudioLink.cginc"
+            #include "Assets/AudioLink/Shaders/AudioLink.cginc" // JOELwindows7: Sorry, our fork still Assets directly.
 
             /*
              * STRUCTS
