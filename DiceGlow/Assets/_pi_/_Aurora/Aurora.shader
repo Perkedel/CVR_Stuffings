@@ -46,7 +46,8 @@ Shader "_pi_/Aurora"
             #define AUDIOLINK
             #endif
             #ifdef AUDIOLINK
-            #include "Packages/com.llealloo.audiolink/Runtime/Shaders/AudioLink.cginc"
+            // #include "Packages/com.llealloo.audiolink/Runtime/Shaders/AudioLink.cginc"
+            #include "Assets/AudioLink/Shaders/AudioLink.cginc" // JOELwindows7: Sorry, our fork still Assets directly.
             #endif
 
             float _Speed, _ColSpeed, _ScaleDown, _OpacityMod, _Reactive, _Height;

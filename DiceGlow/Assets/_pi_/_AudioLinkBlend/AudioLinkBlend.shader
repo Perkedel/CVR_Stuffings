@@ -22,7 +22,8 @@ Shader "_pi_/AudioLinkBlend"
         #pragma surface surf Standard addshadow fullforwardshadows vertex:vert
         #pragma target 3.0
 
-        #include "Packages/com.llealloo.audiolink/Runtime/Shaders/AudioLink.cginc"
+        // #include "Packages/com.llealloo.audiolink/Runtime/Shaders/AudioLink.cginc"
+        #include "Assets/AudioLink/Shaders/AudioLink.cginc" // JOELwindows7: Sorry, our fork still Assets directly.
 
         sampler2D _MainTex;
 
