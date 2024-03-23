@@ -5164,3 +5164,9 @@ New Sauce lists
 - Glypha steam
 - https://odysee.com/@JulianC:9/justwantedtoletyouknow:8
 - https://discord.com/channels/410126604237406209/588350685255565344/1220817951691767929
+- https://web.archive.org/web/20230322235855/https://forums.abinteractive.net/d/817-cvr-parameter-stream-reference
+- https://web.archive.org/web/20230322235855/https://forums.abinteractive.net/d/816-avatar-animator-parameters-reference
+- https://help.kick.com/en/articles/7066931-how-to-stream-on-kick-com
+- https://youtu.be/-ZwEwKJOKR0?si=_rCa96EmlHrU82xU
+- https://youtu.be/P8MfgV9us4o?si=VUYoLgC_Lnfct_U6
+- ydkj drink meter. wrong answer get drink
