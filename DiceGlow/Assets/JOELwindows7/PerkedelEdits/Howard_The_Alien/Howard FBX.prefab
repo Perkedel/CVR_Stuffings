@@ -369,7 +369,75 @@ SkinnedMeshRenderer:
   - {fileID: 200822922730681640}
   - {fileID: 200822922730681534}
   - {fileID: 200822922730681474}
-  m_BlendShapeWeights: []
+  m_BlendShapeWeights:
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
   m_RootBone: {fileID: 200822922730681786}
   m_AABB:
     m_Center: {x: 0.000014603138, y: -0.25072184, z: 0.17310634}
@@ -696,6 +764,7 @@ Transform:
   - {fileID: 200822922730681504}
   - {fileID: 200822922730681506}
   - {fileID: 200822922730681516}
+  - {fileID: 6407233031690246321}
   m_Father: {fileID: 0}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -748,7 +817,7 @@ MonoBehaviour:
   blinkDuration: 0.4
   blinkGapRange: {x: 0.4, y: 8}
   useVisemeLipsync: 1
-  visemeMode: 0
+  visemeMode: 2
   visemeSmoothing: 50
   visemeBlendshapes:
   - -none-
@@ -766,6 +835,8 @@ MonoBehaviour:
   - -none-
   - -none-
   - -none-
+  enableCustomFPR: 0
+  fprSettingsList: []
   enableAdvancedTagging: 0
   advancedTaggingList: []
   avatarUsesAdvancedSettings: 1
@@ -773,9 +844,62 @@ MonoBehaviour:
     initialized: 1
     baseController: {fileID: 9100000, guid: ff926e022d914b84e8975ba6188a26f0, type: 2}
     baseOverrideController: {fileID: 0}
-    animator: {fileID: 0}
-    overrides: {fileID: 0}
+    animator: {fileID: 9100000, guid: 1780024e57e75fa47bb4c853b5890410, type: 2}
+    overrides: {fileID: 22100000, guid: 0d3564934dd4d8b48aa2d680efbb0b4d, type: 2}
     settings:
+    - type: 3
+      toggleSettings:
+        usedType: 1
+        isCollapsed: 1
+        defaultValue: 0
+        useAnimationClip: 0
+        animationClip: {fileID: 0}
+        offAnimationClip: {fileID: 0}
+        gameObjectTargets: []
+      materialColorSettings:
+        usedType: 1
+        isCollapsed: 1
+        defaultValue: {r: 1, g: 1, b: 1, a: 1}
+        materialColorTargets: []
+      dropDownSettings:
+        usedType: 1
+        isCollapsed: 1
+        defaultValue: 0
+        options: []
+      sliderSettings:
+        usedType: 1
+        isCollapsed: 1
+        defaultValue: 0.04
+        materialPropertyTargets: []
+        useAnimationClip: 1
+        minAnimationClip: {fileID: 7400000, guid: adea5a49a3755654a9176b1c75d7f611, type: 2}
+        maxAnimationClip: {fileID: 7400000, guid: c6a950fa5d7d67245b9ba5ff4a98ecf9, type: 2}
+      joystick2DSetting:
+        usedType: 1
+        isCollapsed: 1
+        defaultValue: {x: 0, y: 0}
+        rangeMin: {x: 0, y: 0}
+        rangeMax: {x: 1, y: 1}
+      joystick3DSetting:
+        usedType: 1
+        isCollapsed: 1
+        defaultValue: {x: 0, y: 0, z: 0}
+        rangeMin: {x: 0, y: 0, z: 0}
+        rangeMax: {x: 1, y: 1, z: 1}
+      inputSingleSettings:
+        usedType: 1
+        isCollapsed: 1
+        defaultValue: 0
+      inputVector2Settings:
+        usedType: 1
+        isCollapsed: 1
+        defaultValue: {x: 0, y: 0}
+      inputVector3Settings:
+        usedType: 1
+        isCollapsed: 1
+        defaultValue: {x: 0, y: 0, z: 0}
+      name: AvatarScale
+      machineName: AvatarScale
     - type: 2
       toggleSettings:
         usedType: 1
@@ -1362,6 +1486,8 @@ MonoBehaviour:
   type: 1
   objectId: 92f6e5f4-e860-42fd-8154-81d69f605099
   randomNum: 
+  unityVersion: 2021.3.23f1
+  cckVersion: 3.8:104
 --- !u!1 &200822922730383512
 GameObject:
   m_ObjectHideFlags: 0
@@ -5579,4 +5705,35 @@ Transform:
   - {fileID: 200822922730681688}
   m_Father: {fileID: 200822922730681766}
   m_RootOrder: 3
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &5364828330076044364
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6407233031690246321}
+  m_Layer: 0
+  m_Name: Savon
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6407233031690246321
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5364828330076044364}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 200822922730681526}
+  m_RootOrder: 5
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
