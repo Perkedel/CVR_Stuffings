@@ -5184,3 +5184,5 @@ New Sauce lists
 - https://www.msi.com/Landing/afterburner/graphics-cards
 - https://odysee.com/@JOELwindows7:a/cvr-2024-03-22:4
 - https://odysee.com/@JOELwindows7:a/cvr-2024-03-23:e
+- https://booth.pm/en/items/3178886 Bunny suit HULAFT
+- https://vroid.pixiv.help/hc/en-us/articles/4405438979225-I-want-to-know-more-about-Color-Calibration
