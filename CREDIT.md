@@ -5187,3 +5187,8 @@ New Sauce lists
 - https://booth.pm/en/items/3178886 Bunny suit HULAFT
 - https://vroid.pixiv.help/hc/en-us/articles/4405438979225-I-want-to-know-more-about-Color-Calibration
 - GhostRobot says ideal spawn sound max distance is 8, same as default voice distance.
+- https://x.com/RolltheredDev/status/1772052920441143621?s=20
+- https://discord.com/channels/410126604237406209/588350726841827358/1221612696588390400 Bounding box. Avatar disappear when close issue.
+- https://findtreatment.gov/
+- https://www.samhsa.gov/find-help/national-helpline
+- https://findahelpline.com/

@@ -463,10 +463,10 @@ SkinnedMeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 4db09241df7426f4eb277c13fd2fb0bc, type: 2}
-  - {fileID: 2100000, guid: e3d1a95a6df25024fac104d348653d03, type: 2}
-  - {fileID: 2100000, guid: 955fbd72899010344a5c605b417de909, type: 2}
-  - {fileID: 2100000, guid: daaacaca442e74843b60fc9a9557e8a2, type: 2}
+  - {fileID: 2100000, guid: 5f3b2ce815b5d7f4ca29ab1e1c609780, type: 2}
+  - {fileID: 2100000, guid: 9023240f49a80224daad55509a40c627, type: 2}
+  - {fileID: 2100000, guid: 304cd5e711ac7b14b93ef49cdeb14ba8, type: 2}
+  - {fileID: 2100000, guid: 6b74afc4bc8d1dd4a833fe29b8d818bd, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -666,8 +666,8 @@ SkinnedMeshRenderer:
   - 0
   m_RootBone: {fileID: 4492195126878257847}
   m_AABB:
-    m_Center: {x: 0.000541389, y: 0.09640807, z: -0.7144637}
-    m_Extent: {x: 1.0068834, y: 1.238616, z: 1.0276043}
+    m_Center: {x: 0, y: 0, z: 0}
+    m_Extent: {x: 2, y: 2, z: 2}
   m_DirtyAABB: 0
 --- !u!1 &4492195125605653280
 GameObject:
@@ -3255,8 +3255,8 @@ SkinnedMeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: e3d1a95a6df25024fac104d348653d03, type: 2}
-  - {fileID: 2100000, guid: 955fbd72899010344a5c605b417de909, type: 2}
+  - {fileID: 2100000, guid: 9023240f49a80224daad55509a40c627, type: 2}
+  - {fileID: 2100000, guid: 304cd5e711ac7b14b93ef49cdeb14ba8, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -3488,8 +3488,8 @@ SkinnedMeshRenderer:
   - 0
   m_RootBone: {fileID: 4492195126878257847}
   m_AABB:
-    m_Center: {x: -0.000040262938, y: 0.8891807, z: 0.065291956}
-    m_Extent: {x: 0.17664179, y: 0.20972615, z: 0.2249798}
+    m_Center: {x: 0, y: 0, z: 0}
+    m_Extent: {x: 2, y: 2, z: 2}
   m_DirtyAABB: 0
 --- !u!1 &4492195126426815230
 GameObject:
@@ -5003,7 +5003,7 @@ MonoBehaviour:
     initialized: 1
     baseController: {fileID: 9100000, guid: ff926e022d914b84e8975ba6188a26f0, type: 2}
     baseOverrideController: {fileID: 0}
-    animator: {fileID: 9100000, guid: fc040b9e93a7b6343b85911ca31ef4f0, type: 2}
+    animator: {fileID: 9100000, guid: a7be5457b28718d4991fbbc91206ca58, type: 2}
     overrides: {fileID: 22100000, guid: 45c40d2de98cb2e4d83fcde2f70c202f, type: 2}
     settings:
     - type: 2
@@ -5207,6 +5207,158 @@ MonoBehaviour:
         defaultValue: {x: 0, y: 0, z: 0}
       name: EmissionColor
       machineName: EmissionColor
+    - type: 3
+      toggleSettings:
+        usedType: 1
+        isCollapsed: 1
+        defaultValue: 0
+        useAnimationClip: 0
+        animationClip: {fileID: 0}
+        offAnimationClip: {fileID: 0}
+        gameObjectTargets:
+        - isCollapsed: 0
+          gameObject: {fileID: 0}
+          treePath: 
+          onState: 1
+      materialColorSettings:
+        usedType: 1
+        isCollapsed: 1
+        defaultValue: {r: 1, g: 1, b: 1, a: 1}
+        materialColorTargets: []
+      dropDownSettings:
+        usedType: 1
+        isCollapsed: 1
+        defaultValue: 0
+        options: []
+      sliderSettings:
+        usedType: 1
+        isCollapsed: 1
+        defaultValue: 0.1
+        materialPropertyTargets:
+        - isCollapsed: 1
+          gameObject: {fileID: 4492195125588346749}
+          treePath: Model
+          propertyTypeIdentifier: SMR
+          propertyName: _Metallic
+          minValue: 0
+          maxValue: 10
+        - isCollapsed: 1
+          gameObject: {fileID: 4492195126408120726}
+          treePath: Body
+          propertyTypeIdentifier: SMR
+          propertyName: _Metallic
+          minValue: 0
+          maxValue: 10
+        - isCollapsed: 1
+          gameObject: {fileID: 4492195127353953345}
+          treePath: Extras
+          propertyTypeIdentifier: SMR
+          propertyName: _Metallic
+          minValue: 0
+          maxValue: 10
+        useAnimationClip: 0
+        minAnimationClip: {fileID: 0}
+        maxAnimationClip: {fileID: 0}
+      joystick2DSetting:
+        usedType: 1
+        isCollapsed: 1
+        defaultValue: {x: 0, y: 0}
+        rangeMin: {x: 0, y: 0}
+        rangeMax: {x: 1, y: 1}
+      joystick3DSetting:
+        usedType: 1
+        isCollapsed: 1
+        defaultValue: {x: 0, y: 0, z: 0}
+        rangeMin: {x: 0, y: 0, z: 0}
+        rangeMax: {x: 1, y: 1, z: 1}
+      inputSingleSettings:
+        usedType: 1
+        isCollapsed: 1
+        defaultValue: 0
+      inputVector2Settings:
+        usedType: 1
+        isCollapsed: 1
+        defaultValue: {x: 0, y: 0}
+      inputVector3Settings:
+        usedType: 1
+        isCollapsed: 1
+        defaultValue: {x: 0, y: 0, z: 0}
+      name: Metalicness
+      machineName: Metalicness
+    - type: 3
+      toggleSettings:
+        usedType: 1
+        isCollapsed: 1
+        defaultValue: 0
+        useAnimationClip: 0
+        animationClip: {fileID: 0}
+        offAnimationClip: {fileID: 0}
+        gameObjectTargets: []
+      materialColorSettings:
+        usedType: 1
+        isCollapsed: 1
+        defaultValue: {r: 1, g: 1, b: 1, a: 1}
+        materialColorTargets: []
+      dropDownSettings:
+        usedType: 1
+        isCollapsed: 1
+        defaultValue: 0
+        options: []
+      sliderSettings:
+        usedType: 1
+        isCollapsed: 1
+        defaultValue: 0.1
+        materialPropertyTargets:
+        - isCollapsed: 1
+          gameObject: {fileID: 4492195126408120726}
+          treePath: Body
+          propertyTypeIdentifier: SMR
+          propertyName: _Glossiness
+          minValue: 0
+          maxValue: 10
+        - isCollapsed: 1
+          gameObject: {fileID: 4492195127353953345}
+          treePath: Extras
+          propertyTypeIdentifier: SMR
+          propertyName: _Glossiness
+          minValue: 0
+          maxValue: 10
+        - isCollapsed: 1
+          gameObject: {fileID: 4492195125588346749}
+          treePath: Model
+          propertyTypeIdentifier: SMR
+          propertyName: _Glossiness
+          minValue: 0
+          maxValue: 10
+        useAnimationClip: 0
+        minAnimationClip: {fileID: 0}
+        maxAnimationClip: {fileID: 0}
+      joystick2DSetting:
+        usedType: 1
+        isCollapsed: 1
+        defaultValue: {x: 0, y: 0}
+        rangeMin: {x: 0, y: 0}
+        rangeMax: {x: 1, y: 1}
+      joystick3DSetting:
+        usedType: 1
+        isCollapsed: 1
+        defaultValue: {x: 0, y: 0, z: 0}
+        rangeMin: {x: 0, y: 0, z: 0}
+        rangeMax: {x: 1, y: 1, z: 1}
+      inputSingleSettings:
+        usedType: 1
+        isCollapsed: 1
+        defaultValue: 0
+      inputVector2Settings:
+        usedType: 1
+        isCollapsed: 1
+        defaultValue: {x: 0, y: 0}
+      inputVector3Settings:
+        usedType: 1
+        isCollapsed: 1
+        defaultValue: {x: 0, y: 0, z: 0}
+      name: Smoothness
+      machineName: Smoothness
     - type: 1
       toggleSettings:
         usedType: 1
@@ -7289,70 +7441,6 @@ MonoBehaviour:
         defaultValue: {x: 0, y: 0, z: 0}
       name: beingSussedBB
       machineName: beingSussedBB
-    - type: 3
-      toggleSettings:
-        usedType: 1
-        isCollapsed: 1
-        defaultValue: 0
-        useAnimationClip: 0
-        animationClip: {fileID: 0}
-        offAnimationClip: {fileID: 0}
-        gameObjectTargets:
-        - isCollapsed: 0
-          gameObject: {fileID: 0}
-          treePath: 
-          onState: 1
-      materialColorSettings:
-        usedType: 1
-        isCollapsed: 1
-        defaultValue: {r: 1, g: 1, b: 1, a: 1}
-        materialColorTargets: []
-      dropDownSettings:
-        usedType: 1
-        isCollapsed: 1
-        defaultValue: 0
-        options: []
-      sliderSettings:
-        usedType: 1
-        isCollapsed: 1
-        defaultValue: 0.7
-        materialPropertyTargets:
-        - isCollapsed: 1
-          gameObject: {fileID: 4492195125588346749}
-          treePath: Model
-          propertyTypeIdentifier: SMR
-          propertyName: _Metallic
-          minValue: 0
-          maxValue: 0
-        useAnimationClip: 0
-        minAnimationClip: {fileID: 0}
-        maxAnimationClip: {fileID: 0}
-      joystick2DSetting:
-        usedType: 1
-        isCollapsed: 1
-        defaultValue: {x: 0, y: 0}
-        rangeMin: {x: 0, y: 0}
-        rangeMax: {x: 1, y: 1}
-      joystick3DSetting:
-        usedType: 1
-        isCollapsed: 1
-        defaultValue: {x: 0, y: 0, z: 0}
-        rangeMin: {x: 0, y: 0, z: 0}
-        rangeMax: {x: 1, y: 1, z: 1}
-      inputSingleSettings:
-        usedType: 1
-        isCollapsed: 1
-        defaultValue: 0
-      inputVector2Settings:
-        usedType: 1
-        isCollapsed: 1
-        defaultValue: {x: 0, y: 0}
-      inputVector3Settings:
-        usedType: 1
-        isCollapsed: 1
-        defaultValue: {x: 0, y: 0, z: 0}
-      name: Metalicness
-      machineName: Metalicness
 --- !u!114 &4492195126902220775
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -8774,8 +8862,8 @@ SkinnedMeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 955fbd72899010344a5c605b417de909, type: 2}
-  - {fileID: 2100000, guid: 4db09241df7426f4eb277c13fd2fb0bc, type: 2}
+  - {fileID: 2100000, guid: 304cd5e711ac7b14b93ef49cdeb14ba8, type: 2}
+  - {fileID: 2100000, guid: 5f3b2ce815b5d7f4ca29ab1e1c609780, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -8966,8 +9054,8 @@ SkinnedMeshRenderer:
   - 0
   m_RootBone: {fileID: 4492195126878257847}
   m_AABB:
-    m_Center: {x: 0.020684287, y: 1.0901327, z: -0.29894468}
-    m_Extent: {x: 0.31314558, y: 0.34862256, z: 0.5108528}
+    m_Center: {x: 0, y: 0, z: 0}
+    m_Extent: {x: 2, y: 2, z: 2}
   m_DirtyAABB: 0
 --- !u!1 &4492195127356171608
 GameObject:

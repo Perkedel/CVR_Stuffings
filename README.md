@@ -377,6 +377,7 @@ Here are the UUIDs of all these assets we uploaded to CVR:
 | `92f6e5f4-e860-42fd-8154-81d69f605099` | Howard the Alien | JOELwindows7 | https://odysee.com/@X0P1R4T3-33NSVREENMNT-0FFICIAL:f/howard-the-alien-fbx:3 |
 | `1fe3eebd-7671-4392-9e3c-87f269ebe69e` | **BZ Protogen ++** | JOELwindows7 | https://twitter.com/triwavebz/status/1514302395836100609?s=20 Protogen free 3d model |
 | `b8e26010-8b21-4e97-b38b-5ec9cc8d9502` | Maya Putri | JOELwindows7 | https://odysee.com/@X0P1R4T3-33NSVREENMNT-0FFICIAL:f/Maya_Putri_official_mmd:4 |
+| `7eed2e87-2c79-465d-955c-bb729e2af4a2` | Zuuljedus | JOELwindows7 | **NSFW** That famous girl in X0p1r4t3. Head in DiceGlow |
 | `11f91306-49c6-4d8b-b075-461e24d4f6ed` | Abstract | JillTheSomething | (**NOT PERKEDEL**) |
 | `fdbc8414-06a8-482f-9062-ebf394c09d06` | Chitio Avislime | JillTheSomething | (**NOT PERKEDEL**) ~~**(DEV DEPENDENCY PAYWALLED!!!) CHITIO NOT INCLUDED IN THIS SOURCE CODE, PAYWALLED!**~~ UNPAYWALLED |
 | `244d5daf-35bd-4752-b286-e9c0a6057548` | MothBoi 2 | JillTheSomething | (**NOT PERKEDEL**) |
