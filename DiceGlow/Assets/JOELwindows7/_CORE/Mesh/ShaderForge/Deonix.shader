@@ -72,9 +72,11 @@ Shader "Shader Forge/Deonix" {
                 #if defined(LIGHTMAP_ON) || defined(UNITY_SHOULD_SAMPLE_SH)
                     float4 ambientOrLightmapUV : TEXCOORD10;
                 #endif
+                UNITY_VERTEX_OUTPUT_STEREO  // inserted by FixShadersRightEye.cs
             };
             VertexOutput vert (VertexInput v) {
                 VertexOutput o = (VertexOutput)0;
+                UNITY_INITIALIZE_VERTEX_OUTPUT_STEREO(o);  // inserted by FixShadersRightEye.cs
                 UNITY_SETUP_INSTANCE_ID( v );
                 UNITY_TRANSFER_INSTANCE_ID( v, o );
                 o.uv0 = v.texcoord0;
@@ -273,9 +275,11 @@ Shader "Shader Forge/Deonix" {
                 float3 bitangentDir : TEXCOORD6;
                 LIGHTING_COORDS(7,8)
                 UNITY_FOG_COORDS(9)
+                UNITY_VERTEX_OUTPUT_STEREO  // inserted by FixShadersRightEye.cs
             };
             VertexOutput vert (VertexInput v) {
                 VertexOutput o = (VertexOutput)0;
+                UNITY_INITIALIZE_VERTEX_OUTPUT_STEREO(o);  // inserted by FixShadersRightEye.cs
                 UNITY_SETUP_INSTANCE_ID( v );
                 UNITY_TRANSFER_INSTANCE_ID( v, o );
                 o.uv0 = v.texcoord0;
@@ -403,9 +407,11 @@ Shader "Shader Forge/Deonix" {
                 float2 uv1 : TEXCOORD1;
                 float2 uv2 : TEXCOORD2;
                 float4 posWorld : TEXCOORD3;
+                UNITY_VERTEX_OUTPUT_STEREO  // inserted by FixShadersRightEye.cs
             };
             VertexOutput vert (VertexInput v) {
                 VertexOutput o = (VertexOutput)0;
+                UNITY_INITIALIZE_VERTEX_OUTPUT_STEREO(o);  // inserted by FixShadersRightEye.cs
                 UNITY_SETUP_INSTANCE_ID( v );
                 UNITY_TRANSFER_INSTANCE_ID( v, o );
                 o.uv0 = v.texcoord0;

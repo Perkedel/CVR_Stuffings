@@ -5192,3 +5192,17 @@ New Sauce lists
 - https://findtreatment.gov/
 - https://www.samhsa.gov/find-help/national-helpline
 - https://findahelpline.com/
+- https://web.archive.org/web/20230322235855/https://forums.abinteractive.net/d/816-avatar-animator-parameters-reference
+- https://skfb.ly/oGRvV MyVisoin Barbeque Grill pls!
+- https://youtu.be/B7mi3pXl0GM?si=HV0kZGmjQkVosVW_
+- https://youtu.be/Y_MgY7wgII8?si=9oMII733gLhGcpYi
+- https://learn.unity.com/tutorial/editor-scripting
+- https://youtu.be/GDSw2CB2Zk0
+- https://docs.unity3d.com/ScriptReference/EditorWindow.html
+- https://learn.unity.com/tutorial/editor-scripting
+- https://docs.unity3d.com/ScriptReference/Editor.html
+- https://docs.unity3d.com/ScriptReference/UIElements.Label.html
+- https://docs.unity3d.com/ScriptReference/EditorWindow.OnGUI.html
+- https://docs.unity3d.com/ScriptReference/EditorGUILayout.html
+- https://docs.unity3d.com/ScriptReference/EditorGUILayout.TextField.html
+- https://docs.unity3d.com/ScriptReference/EditorWindow.OnGUI.html
