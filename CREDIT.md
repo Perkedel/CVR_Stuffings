@@ -5206,3 +5206,13 @@ New Sauce lists
 - https://docs.unity3d.com/ScriptReference/EditorGUILayout.html
 - https://docs.unity3d.com/ScriptReference/EditorGUILayout.TextField.html
 - https://docs.unity3d.com/ScriptReference/EditorWindow.OnGUI.html
+- https://discord.com/channels/410126604237406209/588350726841827358/1189741312338038824
+- https://discord.com/channels/410126604237406209/588350726841827358/1189816878399488010
+- https://discord.com/channels/410126604237406209/588350726841827358/1189816878399488010
+- https://www.patreon.com/posts/warfaremachines-86555470
+- https://docs.google.com/document/d/1ycnZyNyitzX0E4Dmw3MYqNB_m8Dj0b7LnTC5k9L6t_I/edit#heading=h.q15ayw5h1odd
+- https://discord.com/channels/410126604237406209/588350685255565344/1003104080228528228
+- https://discord.com/channels/410126604237406209/588350726841827358/1189756183611977780
+- spawn sound how to fixo
+- https://docs.google.com/document/d/1ycnZyNyitzX0E4Dmw3MYqNB_m8Dj0b7LnTC5k9L6t_I
+- https://discord.com/channels/410126604237406209/588350726841827358/1189942960385703976
