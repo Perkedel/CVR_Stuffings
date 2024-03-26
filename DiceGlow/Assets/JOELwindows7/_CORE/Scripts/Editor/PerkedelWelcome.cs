@@ -15,6 +15,7 @@ namespace com.perkedel.DiceGlow{
         // First, Yoink basic CCK window elements. sorry marm. No mean.. idk, basically not any of it.
         private int _tab;
         private Vector2 _scroll;
+        private Vector2 _tabScroll;
 
         public VisualElement root;
         public Texture2D perkedelLogo;
@@ -71,7 +72,9 @@ namespace com.perkedel.DiceGlow{
             EditorGUILayout.BeginVertical();
 
             // Apply CCK yoinks to here, add our twists!
+            // _tabScroll = EditorGUILayout.BeginScrollView(_tabScroll);
             _tab = GUILayout.Toolbar(_tab, new string []{"Home", "Dependency"});
+            // EditorGUILayout.EndScrollView();
             _scroll = EditorGUILayout.BeginScrollView(_scroll);
 
             switch(_tab){
@@ -79,6 +82,7 @@ namespace com.perkedel.DiceGlow{
                     Tab_Home();
                     break;
                 default:
+                    Tab_Dependency();
                     break;
             }
 
@@ -91,6 +95,52 @@ namespace com.perkedel.DiceGlow{
 
             EditorGUILayout.LabelField("Haha: ", "hihi");
             EditorGUILayout.LabelField("Hehe: ", "hoho");
+
+            Buttons_Home();
+        }
+
+        private void Tab_Dependency(){
+            EditorGUILayout.LabelField("Please ensure these are installed to work on this project",EditorStyles.boldLabel);
+        }
+
+        private void Buttons_Home(){
+            EditorGUILayout.BeginHorizontal();
+            if(GUILayout.Button("View Source Code")){
+                Application.OpenURL("https://github.com/Perkedel/CVR_Stuffings");
+            }
+            if(GUILayout.Button("Download & Update CCK")){
+                Application.OpenURL("https://documentation.abinteractive.net/cck/setup/");
+            }
+            EditorGUILayout.EndHorizontal();
+
+            EditorGUILayout.BeginHorizontal();
+            if(GUILayout.Button("Official Documentation")){
+                Application.OpenURL("https://documentation.abinteractive.net/");
+            }
+            if(GUILayout.Button("Unofficial CVR Community Docs")){
+                Application.OpenURL("https://wiki.chilloutvr.eu/");
+            }
+            EditorGUILayout.EndHorizontal();
+
+            EditorGUILayout.BeginHorizontal();
+            if(GUILayout.Button("Unity Official Documentations")){
+                Application.OpenURL("https://docs.unity3d.com/");
+            }
+            if(GUILayout.Button("Download & Update Unity")){
+                Application.OpenURL("https://unity.com/download");
+            }
+            EditorGUILayout.EndHorizontal();
+
+            EditorGUILayout.BeginHorizontal();
+            if(GUILayout.Button("Report CVR Bugs & Feature Requests")){
+                Application.OpenURL("https://feedback.abinteractive.net/");
+            }
+            if(GUILayout.Button("CVR Terms of Service")){
+                Application.OpenURL("https://documentation.abinteractive.net/official/legal/tos");
+            }
+            EditorGUILayout.EndHorizontal();
+
+            
         }
 
         void Update()
