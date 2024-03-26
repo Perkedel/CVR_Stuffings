@@ -24,23 +24,23 @@ In order to upload your own avatar, you will need:
 
 ## Quick Start
 
-- Open up empty scene, & add your 3D Model to the scene.
+1. Open up empty scene, & add your 3D Model to the scene.
     - PROTIPS: It is recommended to create prefab (or variant of this 3D Model file package), then edit all things from there.
-- In the Root of this 3D Model, add new component `CVRAvatar`
-- In this newly added CVRAvatar, insert field `Face Mesh` with the `SkinnedMeshRenderer` that represents your 3D Model's face.
+1. In the Root of this 3D Model, add new component `CVRAvatar`
+1. In this newly added CVRAvatar, insert field `Face Mesh` with the `SkinnedMeshRenderer` that represents your 3D Model's face.
     - Usually a GameObject named `Face` & it's that face
     - Or if it's just 1 single SkinnedMeshRenderer named `Body` / `Root`, you can just insert it there.
     - Most importantly any SkinnedMeshRenderer that contains **Eyes & Mouth**.
-- Adjust its `View Position` & `Voice Position` accordingly.
+1. Adjust its `View Position` & `Voice Position` accordingly.
     - Ideally, `View Position` could be between eyes, either just behind or a bit protrudes off the nose bridge.
     - Ideally, `Voice Position` could be just between the front teeths top & bottom, or behind between the lips.
-- Keep the `Voice Parent` in `Head`, unless your avatar is novelty shape. There are serveral parent types this dot will stick to in the game:
+1. Keep the `Voice Parent` in `Head`, unless your avatar is novelty shape. There are serveral parent types this dot will stick to in the game:
     - `Head`, to head **(RECOMMENDED)**
     - `Left Hand`, to port hand
     - `Right Hand`, to starboard hand
     - `Hips`, to hip
-- (Optional) If your Avatar has movable eyes, in category `Eye Look Settings`, check `Use Eye Movement`
-- (Optional) If your Avatar has movable mouth of any kind, do the following in the `Lip Sync Settings`. Read below section for advanced
+1. (Optional) If your Avatar has movable eyes, in category `Eye Look Settings`, check `Use Eye Movement`
+1. (Optional) If your Avatar has movable mouth of any kind, do the following in the `Lip Sync Settings`. Read below section for advanced
     - Check `Use Lip Sync` if you'd like your avatar to speak as you speak.
     - 3 types of lip movements:
         - Visemes. Using serveral standard defined syllables that relates to each of those onto the Blendshapes in your 3D model. The Game will use voice scan algorithm AI to define which mouth movement pose / viseme accodingly
@@ -52,7 +52,7 @@ In order to upload your own avatar, you will need:
     - (Jawbone) Transform selection cannot be changed. To change which Jaw rig bone, please reconfigure this 3D Model Humanoid avatar file.
         - Open up the `.avatar` file of this 3D Model, and pay attention to category `Head`, an optional field `Jaw`. Insert this with Jaw rig bone if it exist in your `Avatar Configuration` Hierarchy.
         - Once you're done, press `Apply` in Inspector, and return configuring your avatar.
-- Advanced Tagging, Advanced Settings, & more in below advanced sections.
+1. Advanced Tagging, Advanced Settings, & more in below advanced sections.
     - If you made your AAS / Advanced Avatar Settings controller, **always pay attention these steps!!!**, because there is a bug with CCK here.
     - Create an empty GameObject in the Root of this 3D Model. Everytime you added &/or edited the AAS cells, **Toggle the `Enabled` top left of the Inspector ON/OFF to trigger Prefab saving**. If you forgot, your AAS in the inspector may corrupt (missing cell, value, etc.) when you get out of prefab editing, but not the created controller.
     - `Create Controller`
@@ -61,15 +61,15 @@ In order to upload your own avatar, you will need:
         - Click the field. Unity should point to the Animation Overide file at the Project sub-window.
         - If you are unsure / did not went pointing to the file, click the Circle with dot on that `Animation Overides` field. Pick the correct overides. e.g. your Avatar name is `Zuuljedus`, then it's `Zuuljedus_aas_overides`.
     - **DO NOT FORGET BEFORE GOING OFF THE PREFAB!!!**, Always retoggle your dummy GameObject or whatever around or anything that triggers Prefab saving.
-- Open up your CCK Control panel through:
+1. Open up your CCK Control panel through:
     - Top menu bar `Alpha Blend Interactive`
     - `Control Panel`
     - You should see your avatar listed. You may also be offered some buttons and informations regarding this Avatar.
         - Material Slot count info, warns, & errors. Appears when your 3D Model utilized more than numbers of threshold. Only Info & Warn does not prevent uploading. And if your 3D models had too many slots exceeding beyond info & warn substantially, you will get error & unable to upload.
         - Import Fix. It is highly recommended to press this button, to fix certain things when e.g. exported the 3D Model from Blender to FBX.
     - Simply Click `Upload Avatar`
-- Please wait while the CCK is packing everything to be uploaded.
-- You will be presented with the Upload menu in Play mode.
+1. Please wait while the CCK is packing everything to be uploaded.
+1. You will be presented with the Upload menu in Play mode.
     - Tag your avatar properly for safety
     - Name & write description.
     - Optionally, write what have you changed
@@ -112,12 +112,14 @@ And even in the CCK, **it does not provide any option whatsoever to download wha
 
 Since ripping is technically impossible, there are serveral ways to get over this:
 
-- Note its SauceURL / Source in the Avatar description & hunt down the file.
+1. Note its SauceURL / Source in the Avatar description & hunt down the file.
     - You can visit what avatar the player is wearing by opening up their user page in the game. On bottom left is the avatar being worn.
     - Once you've noted it, use Search to query where's that avatar or open up its URL if available. There you can Download / Buy, and make one your own upload.
     - Ensure to follow its license.
-- **(EXTREMELY DANGEROUS, HIGHLY NOT RECOMMENDED)** Ask the player whether or not they could provide the `.unitypackage` or the project of this Avatar they are wearing. Results may varies, **including permanent hatred / blocked**.
+2. __(EXTREMELY DANGEROUS, HIGHLY NOT RECOMMENDED)__ Ask the player whether or not they could provide the `.unitypackage` or the project of this Avatar they are wearing. Results may varies, **including permanent hatred / blocked**.
     - For Perkedel affiliated members however, you should be brought to our entire project files, all the sources involved, including the 3D model as well (if it's gratis, free to use of course). Please report to Joel immediately if you got hated / blocked for this and they are our affiliated members.
+3. a
+1. a
 
 ## End
 

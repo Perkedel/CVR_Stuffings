@@ -5250,3 +5250,21 @@ New Sauce lists
 - https://docs.unity3d.com/ScriptReference/Application.html
 - https://docs.unity3d.com/ScriptReference/EditorUtility.OpenFilePanel.html
 - https://docs.unity3d.com/ScriptReference/Application-dataPath.html
+- https://discord.com/channels/410126604237406209/766086942005526579/1218609492439203891 beckadam found shader
+- `float4 CVRTime;`
+- `float4 CVRGlobalParams1;`
+- `float4 CVRGlobalParams2;`
+- `#define display(f, a, b) c.rgb *= f((a), (b))`
+- `#define S float2(1.0f/IDIGITS, 1.0f)`
+- `display(INTEGER, 100.0f*CVRGlobalParams1.z, uv*_BatteryPos.zw-_BatteryPos.xy+float2(-1.0f, 0.0f)*S);`
+- https://docs.unity3d.com/ScriptReference/GUIContent-ctor.html
+- https://docs.unity3d.com/ScriptReference/GUIStyle.html
+- https://stackoverflow.com/a/5142378/9079640 How to C# array const! use `static readonly string[]` & whatever!
+- `public static readonly string[] Titles = { "German", "Spanish", "Corrects", "Wrongs" };`
+- https://docs.unity3d.com/ScriptReference/MessageType.html
+- https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/builtin-types/enum
+- https://www.w3schools.com/cs/cs_enums.php
+- https://docs.unity3d.com/ScriptReference/PlayerSettings.html
+- https://www.c-sharpcorner.com/UploadFile/75a48f/list-collection-class-in-C-Sharp/
+- https://www.geeksforgeeks.org/c-sharp-list-class/
+- https://learn.microsoft.com/en-us/dotnet/api/system.collections.generic.list-1?view=net-8.0
