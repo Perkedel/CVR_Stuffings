@@ -5231,3 +5231,22 @@ New Sauce lists
 - https://github.com/rygo6/GTAvaToon
 - https://github.com/rygo6/GTAvaToon.git yey
 - https://booth.pm/en/items/4340548 **PAID** matches with NotAKid's usings
+- https://github.com/Xiexe/Xiexes-Unity-Shaders/ NEW AAAAAAAAYES SHADER
+- https://booth.pm/en/items/1268047 **PAID** UE4
+- https://booth.pm/en/items/3019600 **PAID** URP
+- Liska files
+- https://skfb.ly/ozDRG Liska Thicc Kerfus
+- https://skfb.ly/ozPwY edit Patrick Biani Liska Kerfus
+- https://skfb.ly/oJnnA Liska Boykisser (download in desc)
+- https://skfb.ly/oyBRL Cult of the lamb Aym (download in desc)
+- https://skfb.ly/oz9YY Cult of the lamb Baal (download in desc)
+- https://skfb.ly/oyOL6 Pokemon Lucario (download in desc)
+- https://skfb.ly/ow67R Nimbus2K
+- https://skfb.ly/owttN Fox in washtub
+- https://skfb.ly/owttU Smehuyarik the fox
+- OK
+- https://skfb.ly/oRx7G Omega Kerfus Stepanaan
+- https://sketchfab.com/Stepanaan
+- https://docs.unity3d.com/ScriptReference/Application.html
+- https://docs.unity3d.com/ScriptReference/EditorUtility.OpenFilePanel.html
+- https://docs.unity3d.com/ScriptReference/Application-dataPath.html
