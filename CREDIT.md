@@ -5216,3 +5216,18 @@ New Sauce lists
 - spawn sound how to fixo
 - https://docs.google.com/document/d/1ycnZyNyitzX0E4Dmw3MYqNB_m8Dj0b7LnTC5k9L6t_I
 - https://discord.com/channels/410126604237406209/588350726841827358/1189942960385703976
+- https://mayosplash34.gumroad.com/ **PAID**
+- https://boosty.to/mayosplash/posts/6544e150-bcf8-4208-aecb-ca40896b5747
+- https://boosty.to/mayosplash/posts/d66a67a8-2712-4e17-973c-ca5cc7ca16fc **PAID**
+- https://github.com/PlagueVRC/AntiRip
+- https://kannavr.gumroad.com/l/Donate **DONATE**
+- https://booth.pm/en/items/3087170
+- https://booth.pm/en/items/3087170 LilToon lilxyzw
+- https://booth.pm/en/items/1026956 **PAID**
+- https://booth.pm/en/items/1256087 **PAID**
+- https://booth.pm/en/items/2074819 **PAID** demo version available
+- https://github.com/Santarh/MToon/tree/master/MToon
+- https://github.com/lilxyzw/lilToon
+- https://github.com/rygo6/GTAvaToon
+- https://github.com/rygo6/GTAvaToon.git yey
+- https://booth.pm/en/items/4340548 **PAID** matches with NotAKid's usings
