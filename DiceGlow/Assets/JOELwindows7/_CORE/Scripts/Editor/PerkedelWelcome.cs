@@ -105,42 +105,37 @@ namespace com.perkedel.DiceGlow{
 
         private void Buttons_Home(){
             EditorGUILayout.BeginHorizontal();
+            //Vert Left
+            EditorGUILayout.BeginVertical();
             if(GUILayout.Button("View Source Code")){
                 Application.OpenURL("https://github.com/Perkedel/CVR_Stuffings");
             }
-            if(GUILayout.Button("Download & Update CCK")){
-                Application.OpenURL("https://documentation.abinteractive.net/cck/setup/");
-            }
-            EditorGUILayout.EndHorizontal();
-
-            EditorGUILayout.BeginHorizontal();
             if(GUILayout.Button("Official Documentation")){
                 Application.OpenURL("https://documentation.abinteractive.net/");
+            }
+            if(GUILayout.Button("Unity Official Documentations")){
+                Application.OpenURL("https://docs.unity3d.com/");
+            }
+            if(GUILayout.Button("Report CVR Bugs & Feature Requests")){
+                Application.OpenURL("https://feedback.abinteractive.net/");
+            }
+            EditorGUILayout.EndVertical();
+            //Vert Right
+            EditorGUILayout.BeginVertical();
+            if(GUILayout.Button("Download & Update CCK")){
+                Application.OpenURL("https://documentation.abinteractive.net/cck/setup/");
             }
             if(GUILayout.Button("Unofficial CVR Community Docs")){
                 Application.OpenURL("https://wiki.chilloutvr.eu/");
             }
-            EditorGUILayout.EndHorizontal();
-
-            EditorGUILayout.BeginHorizontal();
-            if(GUILayout.Button("Unity Official Documentations")){
-                Application.OpenURL("https://docs.unity3d.com/");
-            }
             if(GUILayout.Button("Download & Update Unity")){
                 Application.OpenURL("https://unity.com/download");
-            }
-            EditorGUILayout.EndHorizontal();
-
-            EditorGUILayout.BeginHorizontal();
-            if(GUILayout.Button("Report CVR Bugs & Feature Requests")){
-                Application.OpenURL("https://feedback.abinteractive.net/");
             }
             if(GUILayout.Button("CVR Terms of Service")){
                 Application.OpenURL("https://documentation.abinteractive.net/official/legal/tos");
             }
+            EditorGUILayout.EndVertical();
             EditorGUILayout.EndHorizontal();
-
-            
         }
 
         void Update()
