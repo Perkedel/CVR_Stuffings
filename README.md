@@ -30,7 +30,7 @@ In event of any presence of sponsorship in any form, no works & creations includ
 
 > Image from CVR Community Leader. ... pls invite me, we yoinked it from VoyVivika's Discord (I think).. yeah syndicated.
 
-![CVR Unofficial Community Schedules March 2024](/Assets/JOELwindows7/_CORE/Sprites/Memes/ThirdParty/CVR Community Leaders/march12024_stay.png)
+![CVR Unofficial Community Schedules March 2024](https://raw.githubusercontent.com/Perkedel/CVR_Stuffings/main/DiceGlow/Assets/JOELwindows7/_CORE/Sprites/Memes/ThirdParty/CVR%20Community%20Leaders/march12024_stay.png)
 
 ## Instructions
 
