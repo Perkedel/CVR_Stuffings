@@ -130,10 +130,10 @@ no don't. change of plan!
 Please attach screenshots below for the assets we have paid to be used by Perkedel Cinematic Universe gamers.  
 For real life contributors, you must purchase the license of your own, not sparsdated you got out there 😉. For legal reasons. We do not want you get harrassed by your Federals because caught using sparsdated assets.
 
-- [Khodrin HUD Assets](https://khodrin.gumroad.com/l/hud_shader_3). ![Bought HUD Shader](/DiceGlow/Assets/JOELwindows7/_CORE/Sprites/Screenshots/ProvesOfPurchase/CVR_bought_Khodrin_hud_shader.png), Costs **$3.99**, Paid **$5.00** (Voluntarily willingly, you're welcome)
-- [4 items from obi1](https://obis-stuff.booth.pm/): Rezz Glasses, Hypno glasses, Cage, DEFCON pin. ![Bought Obi1 stuffs](/DiceGlow/Assets/JOELwindows7/_CORE/Sprites/Screenshots/ProvesOfPurchase/bought_all_ob1_stuffs.png), Costs **¥2300** total, Paid **¥2700** (since added ¥100 tips to each of the items, ¥100 \* 4 = **+¥400**) (Voluntarily willingly, you're welcome)
-- [Bar pack & Theater Curtain from SketchFoxSky](sketchfoxsky.gumroad.com). ![Bought SketchFoxSky stuffs](/DiceGlow/Assets/JOELwindows7/_CORE/Sprites/Screenshots/ProvesOfPurchase/bought_sketchfoxsky.png), Costs **$20** total, Paid **$22** (since added $2 tips to theatre curtain) (Voluntarily willingly, you're welcome)
-- [Derpixon's BonBon & ChuChu (Mime & Dash) 3D Model from Monsler](https://www.deviantart.com/moonsler/art/BonBon-and-ChuChu-BLENDER-MODEL-RELEASE-923681514). ![Bought Monsler BonBon & ChuChu](/DiceGlow/Assets/JOELwindows7/_CORE/Sprites/Screenshots/ProvesOfPurchase/Buy_Monsler_BonBon_ChuChu_Derpixon.png), Costs **$15** total, Paid **$15** (No tip feature available).
+- [Khodrin HUD Assets](https://khodrin.gumroad.com/l/hud_shader_3). ![Bought HUD Shader](https://raw.githubusercontent.com/Perkedel/CVR_Stuffings/main/DiceGlow/Assets/JOELwindows7/_CORE/Sprites/Screenshots/ProvesOfPurchase/CVR_bought_Khodrin_hud_shader.png), Costs **$3.99**, Paid **$5.00** (Voluntarily willingly, you're welcome)
+- [4 items from obi1](https://obis-stuff.booth.pm/): Rezz Glasses, Hypno glasses, Cage, DEFCON pin. ![Bought Obi1 stuffs](https://raw.githubusercontent.com/Perkedel/CVR_Stuffings/main/DiceGlow/Assets/JOELwindows7/_CORE/Sprites/Screenshots/ProvesOfPurchase/bought_all_ob1_stuffs.png), Costs **¥2300** total, Paid **¥2700** (since added ¥100 tips to each of the items, ¥100 \* 4 = **+¥400**) (Voluntarily willingly, you're welcome)
+- [Bar pack & Theater Curtain from SketchFoxSky](sketchfoxsky.gumroad.com). ![Bought SketchFoxSky stuffs](https://raw.githubusercontent.com/Perkedel/CVR_Stuffings/main/DiceGlow/Assets/JOELwindows7/_CORE/Sprites/Screenshots/ProvesOfPurchase/bought_sketchfoxsky.png), Costs **$20** total, Paid **$22** (since added $2 tips to theatre curtain) (Voluntarily willingly, you're welcome)
+- [Derpixon's BonBon & ChuChu (Mime & Dash) 3D Model from Monsler](https://www.deviantart.com/moonsler/art/BonBon-and-ChuChu-BLENDER-MODEL-RELEASE-923681514). ![Bought Monsler BonBon & ChuChu](https://raw.githubusercontent.com/Perkedel/CVR_Stuffings/main/DiceGlow/Assets/JOELwindows7/_CORE/Sprites/Screenshots/ProvesOfPurchase/Buy_Monsler_BonBon_ChuChu_Derpixon.png), Costs **$15** total, Paid **$15** (No tip feature available).
 
 ## Quick Tutorials
 
@@ -606,7 +606,7 @@ Alternatively for now, have a script that control this `AudioLinkController`, to
 
 BUG REPORT: https://feedback.abinteractive.net/p/youtube-dl-sometimes-did-not-ship-with-it-video-player-does-not-work-on-some-people
 
-![Log found using Mod: MelonLoader, CVRLogger++. ChilloutVR is unable to find the software needed to download the video, which is `youtube-dl`.](/DiceGlow/Assets/JOELwindows7/_CORE/Sprites/Screenshots/cvr_uses_youtube-dl.png)
+![Log found using Mod: MelonLoader, CVRLogger++. ChilloutVR is unable to find the software needed to download the video, which is `youtube-dl`.](https://raw.githubusercontent.com/Perkedel/CVR_Stuffings/main/DiceGlow/Assets/JOELwindows7/_CORE/Sprites/Screenshots/cvr_uses_youtube-dl.png)
 
 ChilloutVR uses [`youtube-dl`](https://github.com/ytdl-org/youtube-dl) to download the video, and then either with Network Sync to broadcast the playback, or locally play depending on that GameObject video player component setting right now. The part that plays the video is powered by AVPro. Somehow, the `youtube-dl` either **did not shipped with**, OR had obvious permission trouble (i.e. `Program Files` folders have strict permissions).
 
@@ -616,7 +616,7 @@ Pick just the regular [`yt-dlp.exe`](https://github.com/yt-dlp/yt-dlp#release-fi
 
 Now, try again. If your log says `killing youtube-dl timeout`, try re-pasting the URL again to try load again. It should work now. When it successful, the log should say something about **AVPro playback broadcasting**.
 
-![IT WORKS!!! The video now plays TheFatRat Hunger!!!](/DiceGlow/Assets/JOELwindows7/_CORE/Sprites/Screenshots/cvr_youtube_works.png)
+![IT WORKS!!! The video now plays TheFatRat Hunger!!!](https://raw.githubusercontent.com/Perkedel/CVR_Stuffings/main/DiceGlow/Assets/JOELwindows7/_CORE/Sprites/Screenshots/cvr_youtube_works.png)
 
 - https://github.com/ytdl-org/youtube-dl
 - https://www.reddit.com/r/archlinux/comments/119hsoj/stop_using_youtubedl_and_use_ytdlp_instead/
