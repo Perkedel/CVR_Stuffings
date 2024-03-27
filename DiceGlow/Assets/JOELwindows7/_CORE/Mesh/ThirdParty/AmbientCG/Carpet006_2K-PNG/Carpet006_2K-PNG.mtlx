@@ -1,0 +1,42 @@
+<?xml version="1.0"?>
+<materialx version="1.38" fileprefix="./">
+  <standard_surface xpos="6.159420" name="Carpet006_2K_PNG_StandardSurface" ypos="-1.879310" type="surfaceshader">
+    <input value="0" name="specular" type="float" />
+    <input value="1" name="coat" type="float" />
+    <input value="1, 1, 1" name="coat_color" type="color3" />
+    <input value="1" name="base" type="float" />
+    <input name="base_color" nodename="Carpet006_2K_PNG_Color" type="color3" />
+    <input name="normal" nodename="normalmap" type="vector3" />
+    <input name="coat_normal" nodename="normalmap" type="vector3" />
+    <input name="specular_roughness" nodename="Carpet006_2K_PNG_Roughness" type="float" />
+    <input name="coat_roughness" nodename="Carpet006_2K_PNG_Roughness" type="float" />
+  </standard_surface>
+  <surfacematerial xpos="8.695652" name="Carpet006_2K_PNG" ypos="0.000000" type="material">
+    <input name="surfaceshader" nodename="Carpet006_2K_PNG_StandardSurface" type="surfaceshader" />
+    <input name="displacementshader" nodename="displacement" type="displacementshader" />
+  </surfacematerial>
+  <tiledimage xpos="3.623188" name="Carpet006_2K_PNG_Color" ypos="-3.103448" type="color3">
+    <input colorspace="srgb_texture" value="Carpet006_2K-PNG_Color.png" name="file" type="filename" />
+    <input value="1.0, 1.0" name="uvtiling" type="vector2" />
+  </tiledimage>
+  <tiledimage xpos="3.623188" name="Carpet006_2K_PNG_Displacement" ypos="5.163793" type="float">
+    <input value="Carpet006_2K-PNG_Displacement.png" name="file" type="filename" />
+    <input value="1.0, 1.0" name="uvtiling" type="vector2" />
+  </tiledimage>
+  <displacement xpos="6.159420" name="displacement" ypos="1.879310" type="displacementshader">
+    <input name="displacement" nodename="Carpet006_2K_PNG_Displacement" type="float" />
+    <input value="1.0" name="scale" type="float" />
+  </displacement>
+  <tiledimage xpos="1.086957" name="Carpet006_2K_PNG_NormalGL" ypos="0.879310" type="vector3">
+    <input value="Carpet006_2K-PNG_NormalGL.png" name="file" type="filename" />
+    <input value="1.0, 1.0" name="uvtiling" type="vector2" />
+  </tiledimage>
+  <normalmap xpos="3.623188" name="normalmap" ypos="3.586207" type="vector3">
+    <input name="in" nodename="Carpet006_2K_PNG_NormalGL" type="vector3" />
+    <input value="1.0" name="scale" type="float" />
+  </normalmap>
+  <tiledimage xpos="3.623188" name="Carpet006_2K_PNG_Roughness" ypos="-0.413793" type="float">
+    <input value="Carpet006_2K-PNG_Roughness.png" name="file" type="filename" />
+    <input value="1.0, 1.0" name="uvtiling" type="vector2" />
+  </tiledimage>
+</materialx>

@@ -5268,3 +5268,75 @@ New Sauce lists
 - https://www.c-sharpcorner.com/UploadFile/75a48f/list-collection-class-in-C-Sharp/
 - https://www.geeksforgeeks.org/c-sharp-list-class/
 - https://learn.microsoft.com/en-us/dotnet/api/system.collections.generic.list-1?view=net-8.0
+- https://www.linkedin.com/pulse/make-money-streaming-kick-2023-step-tutorial-akelatunessa-flora-1e/
+- ambientcg
+- https://ambientcg.com
+- pls rampify all stairs next time. CafeDNB especially.
+- pls fill textures with ambientcg
+- https://twitch.tv/65o2
+- https://skfb.ly/oqLrN
+- https://dragonskyrunner.gumroad.com
+- https://ambientcg.com/ thancc Jkk for the info about this.
+- https://ambientcg.com/view?id=Wood092
+- https://ambientcg.com/view?id=DayEnvironmentHDRI043
+- https://ambientcg.com/view?id=RoofingTiles013A
+- https://ambientcg.com/view?id=RoofingTilesSubstance003
+- https://ambientcg.com/view?id=RoofingTiles012A
+- https://ambientcg.com/view?id=Metal046B
+- https://ambientCG.com/a/Metal046A
+- https://ambientcg.com/view?id=Metal046A
+- https://ambientcg.com/view?id=3DMango001
+- https://ambientcg.com/view?id=Tiles107
+- https://docs.ambientcg.com/license/ AmbientCG files are CC0
+- https://ambientcg.com/view?id=Rubber004
+- https://ambientcg.com/view?id=Travertine005
+- https://ambientcg.com/view?id=Ground068
+- https://ambientcg.com/view?id=Wicker013
+- https://ambientcg.com/view?id=Bricks085
+- https://ambientcg.com/view?id=Ground054
+- https://ambientcg.com/view?id=Marble006
+- https://ambientcg.com/view?id=Rubber002
+- https://ambientcg.com/view?id=Plastic013A
+- https://ambientcg.com/view?id=PlasticSubstance003
+- https://ambientcg.com/view?id=Plastic015B
+- https://ambientcg.com/view?id=Plastic015A
+- https://ambientcg.com/view?id=Plastic012A
+- https://ambientcg.com/view?id=Plastic017A
+- https://ambientcg.com/view?id=Plastic014A
+- https://ambientcg.com/view?id=Plastic018A
+- https://ambientcg.com/view?id=Plastic016A
+- https://ambientcg.com/view?id=Road007
+- https://ambientcg.com/view?id=RoadSubstance001
+- https://ambientcg.com/view?id=Net002A
+- https://ambientcg.com/view?id=Leather037
+- https://ambientcg.com/view?id=Metal034
+- https://ambientcg.com/view?id=Net004A
+- https://ambientcg.com/view?id=Tiles129B
+- https://ambientcg.com/view?id=MetalPlates006
+- https://ambientcg.com/view?id=Metal027
+- https://ambientcg.com/view?id=Metal030
+- https://ambientcg.com/view?id=PavingStones130
+- https://ambientcg.com/view?id=Plastic008
+- https://ambientcg.com/view?id=LeafSet029
+- https://ambientcg.com/view?id=Asphalt029B
+- https://ambientcg.com/view?id=Fabric026
+- https://ambientcg.com/view?id=Leather034C
+- https://ambientcg.com/view?id=Foliage001
+- https://ambientcg.com/view?id=Metal012
+- https://ambientcg.com/view?id=ChristmasTreeOrnament013
+- https://ambientcg.com/view?id=ChristmasTreeOrnament014
+- https://ambientcg.com/view?id=ChristmasTreeOrnament015
+- https://ambientcg.com/view?id=AcousticFoam001
+- https://ambientcg.com/view?id=AcousticFoam002
+- https://ambientcg.com/view?id=AcousticFoam003
+- https://ambientcg.com/view?id=DayEnvironmentHDRI033
+- https://www.instagram.com/p/CdNSoihqTHU/
+- https://www.instagram.com/p/C4gVRqVK99Z/
+- https://www.artstation.com/artwork/NGEE91
+- https://docs.ambientcg.com/creation-methods/
+- https://skfb.ly/6UsHo Urinal sensor businessyuen
+- a
+- https://sketchfab.com/search?features=downloadable&licenses=322a749bcfa841b29dff1e8a1bb74b0b&licenses=b9ddc40b93e34cdca1fc152f39b9f375&licenses=72360ff1740d419791934298b8b6d270&licenses=bbfe3f7dbcdd4122b966b85b9786a989&licenses=2628dbe5140a4e9592126c8df566c0b7&licenses=34b725081a6a4184957efaec2cb84ed3&licenses=7c23a1ba438d4306920229c12afcb5f9&licenses=72eb2b1960364637901eacce19283624&q=urinal&type=models thancc Jill yey
+- https://polyhaven.com/ also don't forget these too.
+- ![March 2024 CVR Community Events](https://raw.githubusercontent.com/Perkedel/CVR_Stuffings/main/DiceGlow/Assets/JOELwindows7/_CORE/Sprites/Memes/ThirdParty/CVR%20Community%20Leaders/march12024_stay.png)
+- https://superuser.com/a/1690277/1036816
