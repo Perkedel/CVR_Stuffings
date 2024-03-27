@@ -551,7 +551,7 @@ For employee: **DO NOT LOSE THE GUID!! MAKE SURE IT IS STILL ATTACHED, & IS SAME
 ### Car Vehicle License Plates
 
 | UUID | Nick ID | Total Plate | Description | Tags |
-| --- | --- | --- |
+| --- | --- | --- | --- | --- |
 | `978bc94d-5a8b-4199-8352-b51c985dfa24` | `FAIL` | `FAIL-FA24` | Failed Research Car No. 1. Non-RCC variant | `⚡ EV`, `🏭 Commercial` |
 | `2f8ba87c-398f-4fd8-9fe6-db74234988d6` | `KARP` | `KARP-88D6` | Krappet bobsled car | `⚡ EV`, `🏭 Commercial` |
 | `6ac4ea02-0194-45e4-a1cf-a636af63ab98` | `ISKY` | `ISKY-AB98` | Sky's Hyundai IONIQ 5 (Indonesia Cikarang Version) Signature Long Range (Modded-frankensteined, fulfill all misses) | `⚡ EV`, `🏚️ Personal` |
