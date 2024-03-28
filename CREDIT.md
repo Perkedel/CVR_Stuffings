@@ -5340,3 +5340,50 @@ New Sauce lists
 - https://polyhaven.com/ also don't forget these too.
 - ![March 2024 CVR Community Events](https://raw.githubusercontent.com/Perkedel/CVR_Stuffings/main/DiceGlow/Assets/JOELwindows7/_CORE/Sprites/Memes/ThirdParty/CVR%20Community%20Leaders/march12024_stay.png)
 - https://superuser.com/a/1690277/1036816
+- https://stackoverflow.com/questions/32211612/how-to-import-3d-scene-obj-file-with-mtl-file
+- https://www.reddit.com/r/Unity3D/comments/14g3imo/how_do_i_put_a_mtl_file_into_unity/
+- https://forum.unity.com/threads/how-to-import-a-mtl-file-in-unity.102364/
+- https://ambientcg.com/view?id=Fabric002
+- https://ambientcg.com/view?id=Fabric001
+- https://docs.unity3d.com/Packages/com.unity.shadergraph@6.9/manual/PBR-Master-Node.html
+- https://forum.unity.com/threads/cant-use-create-pbr-shader-graph-at-all.1029979/
+- `FF7100`
+- `00C6FF`
+- `7F129C`
+- https://discord.gg/aW3s2YVmKU Smilezwiggles discord
+- https://drive.google.com/drive/folders/1rFl0pIQ_GYrRDjReu_5oayy2JgeNBkY8 thancc JKK. Lethal Company animation dance. Zoidrawzaton
+- & Jill the something too as well!
+- https://vrcmods.com/search?sort=bestmatch&cid=6&q=dance
+- https://vrcmods.com/search?sort=bestmatch&cid=6&q=dance
+- https://www.vrcarena.com/assets/lJMEH-vrchat-sdk3---brain-power-animation
+- https://demirramon.gumroad.com/
+- https://www.vrcarena.com/assets/Tgy1P-converted-mmd-dance---insanity-frost-mix
+- https://www.vrcarena.com/assets/hz9go-converted-mmd-dance---bloody-mary
+- OK
+- https://gitlab.com/perkedel/Personal_MIDI-Collection pls public this?
+- TehSquishyRay FurAffinity pls
+- https://discord.gg/HV5c4W9YhX
+- styro sketchfab
+- https://www.deviantart.com/sojdkc/art/The-Home-Voyage-pt-1-1029722150
+- https://www.deviantart.com/sojdkc/art/The-Home-Voyage-pt-3-1030799932
+- https://skfb.ly/osAnP Pls pls Heart organ beating KhalifaHawill
+- https://sketchfab.com/khalifahawill
+- https://skfb.ly/oynvR Solis Chest Freezer
+- https://sketchfab.com/dana.digital Solis
+- https://skfb.ly/oHrqY POS Machine Cashier machine digital JustFaith
+- https://sketchfab.com/charljustine JustFaith
+- https://forum.unity.com/threads/cant-use-create-pbr-shader-graph-at-all.1029979/
+- https://next.gitlab.com/
+- https://skfb.ly/oLYWn Fridge commercial showcase Sean Thomas
+- https://sketchfab.com/foon. Sean Thomas
+- https://skfb.ly/oCECs Vitrinenschrank JOCKBUSTER
+- https://sketchfab.com/JOCKBUSTER
+- https://skfb.ly/ozwOo Botol AQUA bintangnurpradana
+- https://sketchfab.com/bintangnurpradana
+- https://skfb.ly/oHWHX Soju Elizabeth Cahya
+- https://sketchfab.com/ElizabethCahya
+- https://skfb.ly/owwZE leather couch bretzel44
+- https://sketchfab.com/bretzel44
+- https://skfb.ly/ovzKF **NO DOWNLOAD** AQUA Gallon 
+- https://forum.unity.com/threads/cant-use-create-pbr-shader-graph-at-all.1029979/
+- https://help.kick.com/en/articles/7066931-how-to-stream-on-kick-com
