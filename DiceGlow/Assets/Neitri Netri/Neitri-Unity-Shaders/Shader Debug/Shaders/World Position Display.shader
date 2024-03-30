@@ -27,6 +27,7 @@ Shader "Neitri/Debug/World Position Display"
 				float4 vertex : POSITION;
 				float2 uv : TEXCOORD0;
 				float4 color : COLOR;
+				UNITY_VERTEX_INPUT_INSTANCE_ID  // inserted by FixShadersRightEye.cs
 			};
 
 			struct v2f
@@ -35,6 +36,7 @@ Shader "Neitri/Debug/World Position Display"
 				float2 uv : TEXCOORD0;
 				float4 color : TEXCOORD1;
 				float4 worldPos : TEXCOORD2;
+				UNITY_VERTEX_OUTPUT_STEREO  // inserted by FixShadersRightEye.cs
 			};
 			
 			sampler2D _MainTex;
@@ -44,6 +46,8 @@ Shader "Neitri/Debug/World Position Display"
 			v2f vert (appdata v)
 			{
 				v2f o;
+				UNITY_SETUP_INSTANCE_ID(v);  // inserted by FixShadersRightEye.cs
+				UNITY_INITIALIZE_VERTEX_OUTPUT_STEREO(o);  // inserted by FixShadersRightEye.cs
 				o.vertex = UnityObjectToClipPos(v.vertex);
 				o.uv = v.uv;
 				o.color = v.color;

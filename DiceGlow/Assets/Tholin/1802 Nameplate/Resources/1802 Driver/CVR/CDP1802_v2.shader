@@ -1,4 +1,4 @@
-﻿Shader "Tholin/CDP1802_v2_cached_CVR"
+Shader "Tholin/CDP1802_v2_cached_CVR"
 {
 	Properties
 	{
@@ -67,12 +67,14 @@
 			{
 				float4 vertex : POSITION;
 				float2 uv : TEXCOORD0;
+				UNITY_VERTEX_INPUT_INSTANCE_ID  // inserted by FixShadersRightEye.cs
 			};
 
 			struct v2f
 			{
 				float2 uv : TEXCOORD0;
 				float4 vertex : SV_POSITION;
+				UNITY_VERTEX_OUTPUT_STEREO  // inserted by FixShadersRightEye.cs
 			};
 
 			Texture2D<uint4> _MainTex;
@@ -94,6 +96,8 @@
 			v2f vert (appdata v)
 			{
 					v2f o;
+					UNITY_SETUP_INSTANCE_ID(v);  // inserted by FixShadersRightEye.cs
+					UNITY_INITIALIZE_VERTEX_OUTPUT_STEREO(o);  // inserted by FixShadersRightEye.cs
 					o.vertex = UnityObjectToClipPos(v.vertex);
 					o.uv = v.uv;
 					return o;

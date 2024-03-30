@@ -1,4 +1,4 @@
-﻿// Created by Neitri, free of charge, free to redistribute
+// Created by Neitri, free of charge, free to redistribute
 
 Shader "Neitri/Clock V4 B"
 {
@@ -36,6 +36,7 @@ Shader "Neitri/Clock V4 B"
 				float4 vertex : POSITION;
 				float2 uv : TEXCOORD0;
 				float4 color : COLOR;
+				UNITY_VERTEX_INPUT_INSTANCE_ID  // inserted by FixShadersRightEye.cs
 			};
 
 			struct v2f
@@ -44,6 +45,7 @@ Shader "Neitri/Clock V4 B"
 				float3 uv : TEXCOORD0;
 				float4 color : COLOR;
 				UNITY_FOG_COORDS(1)
+				UNITY_VERTEX_OUTPUT_STEREO  // inserted by FixShadersRightEye.cs
 			};
 
 			sampler2D _MainTex;
@@ -56,6 +58,8 @@ Shader "Neitri/Clock V4 B"
 			v2f vert (appdata v)
 			{
 				v2f o;
+				UNITY_SETUP_INSTANCE_ID(v);  // inserted by FixShadersRightEye.cs
+				UNITY_INITIALIZE_VERTEX_OUTPUT_STEREO(o);  // inserted by FixShadersRightEye.cs
 				o.uv.xy = TRANSFORM_TEX(v.uv, _MainTex);
 				o.uv.z = 0;
 				o.color = _Color;

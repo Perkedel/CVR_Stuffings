@@ -1,4 +1,4 @@
-﻿// created by Neitri, free of charge, free to redistribute
+// created by Neitri, free of charge, free to redistribute
 // downloaded from https://github.com/netri/Neitri-Unity-Shaders
 
 Shader "Neitri/GPU Particles/Render"
@@ -34,6 +34,8 @@ Shader "Neitri/GPU Particles/Render"
 
 			struct appdata
 			{
+			UNITY_VERTEX_OUTPUT_STEREO  // inserted by FixShadersRightEye.cs
+			UNITY_VERTEX_INPUT_INSTANCE_ID  // inserted by FixShadersRightEye.cs
 			};
 
 			struct fragIn
@@ -44,6 +46,8 @@ Shader "Neitri/GPU Particles/Render"
 
 
 			appdata vert (appdata v)
+			UNITY_SETUP_INSTANCE_ID(v);  // inserted by FixShadersRightEye.cs
+			UNITY_INITIALIZE_VERTEX_OUTPUT_STEREO(v);  // inserted by FixShadersRightEye.cs
 			{
 				return v;
 			}

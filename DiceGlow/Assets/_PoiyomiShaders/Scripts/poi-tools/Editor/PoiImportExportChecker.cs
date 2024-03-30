@@ -65,7 +65,7 @@ namespace Poi.Tools
             PackageExport_ExportMethod = PackageExport_Type.GetMethod("Export", BindingFlags.NonPublic | BindingFlags.Instance);
 
             CustomExport_Method = typeof(PoiImportExportChecker).GetMethod(nameof(CustomExport));
-            DetourExportMethod();
+            //DetourExportMethod();
         }
         public static void CustomExport()
         {
@@ -79,15 +79,18 @@ namespace Poi.Tools
                     var assetPath = PackageExport_AssetPathField.GetValue(m_ExportPackageItemsArray[i]) as string;
                     if (assetPath.Contains("_PoiyomiShaders")) continue;
                     var obj = AssetDatabase.LoadAssetAtPath<UnityEngine.Object>(assetPath);
-                    if (obj.GetType() == typeof(Shader))
+                    if (obj != null)
                     {
-                        var shader = obj as Shader;
-                        int index = shader.FindPropertyIndex(Thry.ShaderEditor.PROPERTY_NAME_EDITOR_DETECT);
-                        if (index != -1)
+                        if (obj.GetType() == typeof(Shader))
                         {
-                            if (shader.name.ToLowerInvariant().Contains("pro"))
+                            var shader = obj as Shader;
+                            int index = shader.FindPropertyIndex(Thry.ShaderEditor.PROPERTY_NAME_EDITOR_DETECT);
+                            if (index != -1)
                             {
-                                continue;
+                                if (shader.name.ToLowerInvariant().Contains("poiyomi pro"))
+                                {
+                                    continue;
+                                }
                             }
                         }
                     }

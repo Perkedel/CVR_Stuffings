@@ -3774,9 +3774,6 @@ Shader ".poiyomi/Old Versions/8.1/Poiyomi Grab Pass"
 			[HideInInspector][ThryWideEnum(UV0, 0, UV1, 1, UV2, 2, UV3, 3, Panosphere, 4, World Pos XZ, 5, Polar UV, 6, Distorted UV, 7 )]
 			*/
 			
-			#define POI_DECLARETEX_ST_UV(tex) float4 tex##_ST; float tex##UV;
-			#define POI_DECLARETEX_ST_UV_PAN(tex) float4 tex##_ST; float2 tex##Pan; float tex##UV;
-			#define POI_DECLARETEX_ST_UV_PAN_STOCHASTIC(tex) float4 tex##_ST; float2 tex##Pan; float tex##UV; float tex##Stochastic;
 			//ifex _EnableAudioLink==0
 			// Map of where features in AudioLink are.
 			#define ALPASS_DFT                      uint2(0,4)   //Size: 128, 2
@@ -6546,7 +6543,7 @@ Shader ".poiyomi/Old Versions/8.1/Poiyomi Grab Pass"
 			Texture2D _MochieMetallicMaps;
 			float _PBRMapsStochastic;
 			#endif
-			POI_DECLARETEX_ST_UV_PAN_STOCHASTIC(_MochieMetallicMaps);
+			float4 _MochieMetallicMaps_ST; float2 _MochieMetallicMapsPan; float _MochieMetallicMapsUV; float _MochieMetallicMapsStochastic;
 			float _MochieMetallicMapInvert;
 			float _MochieRoughnessMapInvert;
 			float _MochieReflectionMaskInvert;
@@ -17604,9 +17601,6 @@ Shader ".poiyomi/Old Versions/8.1/Poiyomi Grab Pass"
 			[HideInInspector][ThryWideEnum(UV0, 0, UV1, 1, UV2, 2, UV3, 3, Panosphere, 4, World Pos XZ, 5, Polar UV, 6, Distorted UV, 7 )]
 			*/
 			
-			#define POI_DECLARETEX_ST_UV(tex) float4 tex##_ST; float tex##UV;
-			#define POI_DECLARETEX_ST_UV_PAN(tex) float4 tex##_ST; float2 tex##Pan; float tex##UV;
-			#define POI_DECLARETEX_ST_UV_PAN_STOCHASTIC(tex) float4 tex##_ST; float2 tex##Pan; float tex##UV; float tex##Stochastic;
 			//ifex _EnableAudioLink==0
 			// Map of where features in AudioLink are.
 			#define ALPASS_DFT                      uint2(0,4)   //Size: 128, 2
@@ -20108,7 +20102,7 @@ Shader ".poiyomi/Old Versions/8.1/Poiyomi Grab Pass"
 			Texture2D _MochieMetallicMaps;
 			float _PBRMapsStochastic;
 			#endif
-			POI_DECLARETEX_ST_UV_PAN_STOCHASTIC(_MochieMetallicMaps);
+			float4 _MochieMetallicMaps_ST; float2 _MochieMetallicMapsPan; float _MochieMetallicMapsUV; float _MochieMetallicMapsStochastic;
 			float _MochieMetallicMapInvert;
 			float _MochieRoughnessMapInvert;
 			float _MochieReflectionMaskInvert;
@@ -30542,9 +30536,6 @@ Shader ".poiyomi/Old Versions/8.1/Poiyomi Grab Pass"
 			[HideInInspector][ThryWideEnum(UV0, 0, UV1, 1, UV2, 2, UV3, 3, Panosphere, 4, World Pos XZ, 5, Polar UV, 6, Distorted UV, 7 )]
 			*/
 			
-			#define POI_DECLARETEX_ST_UV(tex) float4 tex##_ST; float tex##UV;
-			#define POI_DECLARETEX_ST_UV_PAN(tex) float4 tex##_ST; float2 tex##Pan; float tex##UV;
-			#define POI_DECLARETEX_ST_UV_PAN_STOCHASTIC(tex) float4 tex##_ST; float2 tex##Pan; float tex##UV; float tex##Stochastic;
 			//ifex _EnableAudioLink==0
 			// Map of where features in AudioLink are.
 			#define ALPASS_DFT                      uint2(0,4)   //Size: 128, 2

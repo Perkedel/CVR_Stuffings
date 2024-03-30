@@ -38,6 +38,7 @@ Shader "Neitri/Ported Shadertoy/Candy core 2"
 				float2 uv:TEXCOORD0;
 				float4 tangent : TANGENT;
 				float3 normal : NORMAL;
+				UNITY_VERTEX_INPUT_INSTANCE_ID  // inserted by FixShadersRightEye.cs
 			};
 
 
@@ -45,6 +46,7 @@ Shader "Neitri/Ported Shadertoy/Candy core 2"
 				float4 pos : SV_POSITION;
 				float2 uv: TEXCOORD0;
 				float4 worldPos : TEXCOORD1;
+				UNITY_VERTEX_OUTPUT_STEREO  // inserted by FixShadersRightEye.cs
 			};
 
 
@@ -417,6 +419,8 @@ Shader "Neitri/Ported Shadertoy/Candy core 2"
 			VertexOutput vert (VertexInput v)
 			{
 				VertexOutput o;
+				UNITY_SETUP_INSTANCE_ID(v);  // inserted by FixShadersRightEye.cs
+				UNITY_INITIALIZE_VERTEX_OUTPUT_STEREO(o);  // inserted by FixShadersRightEye.cs
 				o.pos = UnityObjectToClipPos (v.vertex);
 				o.uv = v.uv;
 				o.worldPos = mul(UNITY_MATRIX_M, v.vertex);

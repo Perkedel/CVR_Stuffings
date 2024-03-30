@@ -1,4 +1,4 @@
-﻿Shader "Neitri/Discard"
+Shader "Neitri/Discard"
 {
 	Properties
 	{
@@ -16,15 +16,19 @@
 			
 			struct appdata
 			{
+			UNITY_VERTEX_INPUT_INSTANCE_ID  // inserted by FixShadersRightEye.cs
 			};
 
 			struct v2f
 			{
+			UNITY_VERTEX_OUTPUT_STEREO  // inserted by FixShadersRightEye.cs
 			};
 
 			v2f vert (appdata v)
 			{
 				v2f o;
+				UNITY_SETUP_INSTANCE_ID(v);  // inserted by FixShadersRightEye.cs
+				UNITY_INITIALIZE_VERTEX_OUTPUT_STEREO(o);  // inserted by FixShadersRightEye.cs
 				return o;
 			}
 			

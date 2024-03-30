@@ -43,6 +43,7 @@ Shader "Shader Forge/Examples/Refraction" {
                 float3 normal : NORMAL;
                 float4 tangent : TANGENT;
                 float2 texcoord0 : TEXCOORD0;
+                UNITY_VERTEX_INPUT_INSTANCE_ID  // inserted by FixShadersRightEye.cs
             };
             struct VertexOutput {
                 float4 pos : SV_POSITION;
@@ -53,9 +54,12 @@ Shader "Shader Forge/Examples/Refraction" {
                 float3 bitangentDir : TEXCOORD4;
                 float4 projPos : TEXCOORD5;
                 LIGHTING_COORDS(6,7)
+                UNITY_VERTEX_OUTPUT_STEREO  // inserted by FixShadersRightEye.cs
             };
             VertexOutput vert (VertexInput v) {
                 VertexOutput o = (VertexOutput)0;
+                UNITY_SETUP_INSTANCE_ID(v);  // inserted by FixShadersRightEye.cs
+                UNITY_INITIALIZE_VERTEX_OUTPUT_STEREO(o);  // inserted by FixShadersRightEye.cs
                 o.uv0 = v.texcoord0;
                 o.normalDir = UnityObjectToWorldNormal(v.normal);
                 o.tangentDir = normalize( mul( unity_ObjectToWorld, float4( v.tangent.xyz, 0.0 ) ).xyz );
@@ -209,6 +213,7 @@ Shader "Shader Forge/Examples/Refraction" {
                 float3 normal : NORMAL;
                 float4 tangent : TANGENT;
                 float2 texcoord0 : TEXCOORD0;
+                UNITY_VERTEX_INPUT_INSTANCE_ID  // inserted by FixShadersRightEye.cs
             };
             struct VertexOutput {
                 float4 pos : SV_POSITION;
@@ -219,9 +224,12 @@ Shader "Shader Forge/Examples/Refraction" {
                 float3 bitangentDir : TEXCOORD4;
                 float4 projPos : TEXCOORD5;
                 LIGHTING_COORDS(6,7)
+                UNITY_VERTEX_OUTPUT_STEREO  // inserted by FixShadersRightEye.cs
             };
             VertexOutput vert (VertexInput v) {
                 VertexOutput o = (VertexOutput)0;
+                UNITY_SETUP_INSTANCE_ID(v);  // inserted by FixShadersRightEye.cs
+                UNITY_INITIALIZE_VERTEX_OUTPUT_STEREO(o);  // inserted by FixShadersRightEye.cs
                 o.uv0 = v.texcoord0;
                 o.normalDir = UnityObjectToWorldNormal(v.normal);
                 o.tangentDir = normalize( mul( unity_ObjectToWorld, float4( v.tangent.xyz, 0.0 ) ).xyz );
@@ -324,12 +332,16 @@ Shader "Shader Forge/Examples/Refraction" {
             #pragma target 3.0
             struct VertexInput {
                 float4 vertex : POSITION;
+                UNITY_VERTEX_INPUT_INSTANCE_ID  // inserted by FixShadersRightEye.cs
             };
             struct VertexOutput {
                 V2F_SHADOW_CASTER;
+                UNITY_VERTEX_OUTPUT_STEREO  // inserted by FixShadersRightEye.cs
             };
             VertexOutput vert (VertexInput v) {
                 VertexOutput o = (VertexOutput)0;
+                UNITY_SETUP_INSTANCE_ID(v);  // inserted by FixShadersRightEye.cs
+                UNITY_INITIALIZE_VERTEX_OUTPUT_STEREO(o);  // inserted by FixShadersRightEye.cs
                 o.pos = UnityObjectToClipPos( v.vertex );
                 TRANSFER_SHADOW_CASTER(o)
                 return o;

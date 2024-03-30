@@ -38,11 +38,13 @@ Shader "Neitri/Wireframe Fade"
 			struct appdata
 			{
 				float4 vertex :POSITION;
+				UNITY_VERTEX_INPUT_INSTANCE_ID  // inserted by FixShadersRightEye.cs
 			};
 			struct v2f
 			{
 				float4 clipPos : SV_POSITION;
 				float4 modelPos : TEXCOORD0;
+				UNITY_VERTEX_OUTPUT_STEREO  // inserted by FixShadersRightEye.cs
 			};
 
 			sampler2D _CameraDepthTexture;
@@ -51,6 +53,8 @@ Shader "Neitri/Wireframe Fade"
 			v2f vert (appdata v)
 			{
 				v2f o;
+				UNITY_SETUP_INSTANCE_ID(v);  // inserted by FixShadersRightEye.cs
+				UNITY_INITIALIZE_VERTEX_OUTPUT_STEREO(o);  // inserted by FixShadersRightEye.cs
 				o.clipPos = UnityObjectToClipPos(v.vertex);
 				o.modelPos = v.vertex;
 				return o;
@@ -148,11 +152,14 @@ Shader "Neitri/Wireframe Fade"
 			{
 				float4 grabPos : TEXCOORD0;
 				float4 pos : SV_POSITION;
+				UNITY_VERTEX_OUTPUT_STEREO  // inserted by FixShadersRightEye.cs
 			};
 
 			v2f vert(appdata_base v) 
 			{
 				v2f o;
+				UNITY_SETUP_INSTANCE_ID(v);  // inserted by FixShadersRightEye.cs
+				UNITY_INITIALIZE_VERTEX_OUTPUT_STEREO(o);  // inserted by FixShadersRightEye.cs
 				o.pos = UnityObjectToClipPos(v.vertex);
 				o.grabPos = ComputeGrabScreenPos(o.pos);
 				return o;

@@ -21,13 +21,17 @@ Shader "Hidden/Shader Forge/SFN_LightAttenuation" {
 
             struct VertexInput {
                 float4 vertex : POSITION;
+                UNITY_VERTEX_INPUT_INSTANCE_ID  // inserted by FixShadersRightEye.cs
             };
             struct VertexOutput {
                 float4 pos : SV_POSITION;
                 LIGHTING_COORDS(0,1)
+                UNITY_VERTEX_OUTPUT_STEREO  // inserted by FixShadersRightEye.cs
             };
             VertexOutput vert (VertexInput v) {
                 VertexOutput o = (VertexOutput)0;
+                UNITY_SETUP_INSTANCE_ID(v);  // inserted by FixShadersRightEye.cs
+                UNITY_INITIALIZE_VERTEX_OUTPUT_STEREO(o);  // inserted by FixShadersRightEye.cs
                 o.pos = UnityObjectToClipPos(v.vertex );
                 TRANSFER_VERTEX_TO_FRAGMENT(o)
                 return o;

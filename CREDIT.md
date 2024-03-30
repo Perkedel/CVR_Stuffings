@@ -5387,3 +5387,87 @@ New Sauce lists
 - https://skfb.ly/ovzKF **NO DOWNLOAD** AQUA Gallon 
 - https://forum.unity.com/threads/cant-use-create-pbr-shader-graph-at-all.1029979/
 - https://help.kick.com/en/articles/7066931-how-to-stream-on-kick-com
+- pi maker ltcgi watermark pls!
+- https://skfb.ly/oPtQK **PAID**
+- https://store.steampowered.com/app/2864660/CoreVR/
+- https://store.steampowered.com/app/2234300/GTVR/
+- https://enclicainteractive.com/
+- https://vr.gama.tech/landing & it has Discord
+- https://discord.gg/svvTYt7u38 or
+- https://discord.com/invite/zpYwgdy2X8
+- https://twitter.com/VRChatPartyHub/status/1773123240975650926 HAAH?
+- https://store.steampowered.com/app/1009850/OVR_Advanced_Settings/ 🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕
+- https://store.steampowered.com/news/app/1009850/view/4186732260747183901 🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕🖕
+- https://github.com/OpenVR-Advanced-Settings/OpenVR-AdvancedSettings
+- https://github.com/OpenVR-Advanced-Settings/OpenVR-AdvancedSettings/releases Okay. let's see if the release stopped from this one here.
+- Look, this is not a game. In my opinion, .. you know.
+- I had IAP in Tebenge, and that's normal in my opinion, **coz it's fucking video game**.
+- Tool softwares? different story. & you're not even something cloud storage or what, idk.
+- Okay. let's just see. if the source gone closed like it was with.. Aseprite, you know. NO, the license. license becomes proprietary.
+- https://store.steampowered.com/app/2181930/DR_LIVESEY_ROM_AND_DEATH_EDITION/ **PAID GAME** HAAH???
+- https://store.steampowered.com/app/2532550/LIZARDS_MUST_DIE/ **PAID GAME**
+- https://steamcommunity.com/app/1009850/eventcomments/4358994946496203430?snr=1_5_9_&ctp=2
+- https://steamcommunity.com/app/1009850/eventcomments/4358994946496203430?snr=1_5_9_&ctp=3 the project still will be open source.
+- Gamers, let's get off, looks like everyone understand it. we're few!
+- pls buy donation to blend in!
+- NOOO!! I SAID SCHEDULE UPDATE!!! FUCK!!! MISCLICK!
+- DAMN, NO MORE LOGIN BANK FROM WEBSITE, coz it's insecure.
+- Okay done. check my money! I think I got it for this Royce
+- Yep, I'm good. let's go.
+- https://x.com/GamaTech_VR/status/1597869332243288064?s=20
+- https://x.com/GamaTech_VR/status/1624421374423969792?s=20
+- https://x.com/GamaTech_VR/status/1600200642764496896?s=20
+- https://twitter.com/GamaTech_VR
+- https://vr.gama.tech/docs/legal/privacy-policy
+- https://vr.gama.tech/docs/legal/content-policy
+- https://vr.gama.tech/plus wai wai wai wha??
+- No.. uh.. in CVR, yes there will also be subscription. But I heard that's only for renting server (always on instance)...
+- These could be $0! custom portal color?? aiyy....
+- fuck... fuck fuck fuc fuc fuc... no.. that's.... ugh...
+- https://ko-fi.com/gamatech/tiers argh.. shit... no perma buy??
+- Dude.. in CVR the perma buy covers over 10 private avatar uploads... costs... IDR 74K. This?.. ugh.. approx. 150K, & it's per month... but.. regional... huh?
+- BUt you got all whitelisted!!... ahnan!!
+- the... CVR... has infinity props private. okay, to be fair that's heavy. St.. no, not still.
+- .
+- .
+- GT:VR is from UK, CVR is from Germany.
+- https://skfb.ly/o6GUX **NO DOWNLOAD**
+- C'mon, man. I have been hated by 3 users here in CVR. I thought there is few toxicity.
+- be GTID?? while GTID bashes monitors (Xiaomi Indo badut 🤡), we.. bashes paywallisms.
+- and of course, appeals only to Indonesia.. even more. unlike monitor price to feature spec comparisons.
+- https://github.com/mbucchia/OpenXR-Toolkit
+- https://mbucchia.github.io/OpenXR-Toolkit/
+- `This project/world uses LTCGI by _pi_, see 'github.com/pimaker/ltcgi'.`
+- https://ltcgi.dev/Getting%20Started/Installation/Attribution
+- https://store.steampowered.com/app/661130/ChilloutVR/ download CVR!
+- https://www.tumblr.com/joelwindows7/746298965346156544/jantung-virtual?source=share
+- https://odysee.com/@X0P1R4T3-33NSVREENMNT-0FFICIAL:f/BZ-Protogen-RAW:5 BZ Protogen gone. here reupload
+- `00FF41`
+- `FFC7FF`
+- https://discord.com/channels/410126604237406209/588350726841827358/1223093778835832862
+- https://discord.com/channels/410126604237406209/588350726841827358/1223342449997385839
+- https://github.com/vercidium-patreon/glvertexid
+- https://www.patreon.com/posts/101295613?utm_campaign=postshare_fan
+- anthro PS5 controller
+- Cakelord3d model maybe gumroad
+- mixcloud?
+- https://discord.gg/E5gERds
+- roof ventilator
+- https://dragonskyrunner.gumroad.com
+- https://discord.com/channels/867567549858971669/867567551809716226/1219143927408627852
+- https://discord.com/channels/410126604237406209/588350726841827358/1223368281147314206
+- https://github.com/CascadianVR/Unity-Mesh-Transfer-Utility
+- https://github.com/CascadianVR/Unity-Mesh-Transfer-Utility yey
+- https://discord.com/channels/410126604237406209/588350726841827358/1223451851215868026
+- https://discord.com/channels/410126604237406209/588350726841827358/1223456252978401320
+- https://discord.com/channels/410126604237406209/588350726841827358/1196562441379782769
+- https://discord.com/channels/410126604237406209/1004342104383815681/1221968919758245940
+- https://github.com/PiMaker/ltcgi/issues/30
+- https://ltcgi.dev/Advanced/Performance_Optimization
+- https://github.com/NovaVoidHowl/Neitri-Unity-Shaders
+- https://github.com/netri/Neitri-Unity-Shaders/tree/master/Avatar%20Shaders
+- https://stackoverflow.com/questions/9035895/how-do-i-add-git-submodule-to-a-sub-directory
+- https://git-scm.com/book/en/v2/Git-Tools-Submodules
+- https://www.atlassian.com/git/tutorials/git-submodule
+- https://stackoverflow.com/questions/35534766/how-to-create-submodule-in-existing-repo
+- https://git-scm.com/book/en/v2/Git-Tools-Submodules

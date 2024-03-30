@@ -31,6 +31,7 @@ Shader "Shader Forge/Examples/Pixel Rotator" {
                 float4 vertex : POSITION;
                 float3 normal : NORMAL;
                 float2 texcoord0 : TEXCOORD0;
+                UNITY_VERTEX_INPUT_INSTANCE_ID  // inserted by FixShadersRightEye.cs
             };
             struct VertexOutput {
                 float4 pos : SV_POSITION;
@@ -39,9 +40,12 @@ Shader "Shader Forge/Examples/Pixel Rotator" {
                 float3 normalDir : TEXCOORD2;
                 LIGHTING_COORDS(3,4)
                 UNITY_FOG_COORDS(5)
+                UNITY_VERTEX_OUTPUT_STEREO  // inserted by FixShadersRightEye.cs
             };
             VertexOutput vert (VertexInput v) {
                 VertexOutput o = (VertexOutput)0;
+                UNITY_SETUP_INSTANCE_ID(v);  // inserted by FixShadersRightEye.cs
+                UNITY_INITIALIZE_VERTEX_OUTPUT_STEREO(o);  // inserted by FixShadersRightEye.cs
                 o.uv0 = v.texcoord0;
                 o.normalDir = UnityObjectToWorldNormal(v.normal);
                 o.posWorld = mul(unity_ObjectToWorld, v.vertex);
@@ -118,6 +122,7 @@ Shader "Shader Forge/Examples/Pixel Rotator" {
                 float4 vertex : POSITION;
                 float3 normal : NORMAL;
                 float2 texcoord0 : TEXCOORD0;
+                UNITY_VERTEX_INPUT_INSTANCE_ID  // inserted by FixShadersRightEye.cs
             };
             struct VertexOutput {
                 float4 pos : SV_POSITION;
@@ -126,9 +131,12 @@ Shader "Shader Forge/Examples/Pixel Rotator" {
                 float3 normalDir : TEXCOORD2;
                 LIGHTING_COORDS(3,4)
                 UNITY_FOG_COORDS(5)
+                UNITY_VERTEX_OUTPUT_STEREO  // inserted by FixShadersRightEye.cs
             };
             VertexOutput vert (VertexInput v) {
                 VertexOutput o = (VertexOutput)0;
+                UNITY_SETUP_INSTANCE_ID(v);  // inserted by FixShadersRightEye.cs
+                UNITY_INITIALIZE_VERTEX_OUTPUT_STEREO(o);  // inserted by FixShadersRightEye.cs
                 o.uv0 = v.texcoord0;
                 o.normalDir = UnityObjectToWorldNormal(v.normal);
                 o.posWorld = mul(unity_ObjectToWorld, v.vertex);

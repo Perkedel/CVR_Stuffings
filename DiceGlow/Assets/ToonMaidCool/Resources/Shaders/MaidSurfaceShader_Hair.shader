@@ -1,4 +1,4 @@
-﻿// Upgrade NOTE: replaced 'mul(UNITY_MATRIX_MVP,*)' with 'UnityObjectToClipPos(*)'
+// Upgrade NOTE: replaced 'mul(UNITY_MATRIX_MVP,*)' with 'UnityObjectToClipPos(*)'
 
 // Upgrade NOTE: replaced '_Object2World' with 'unity_ObjectToWorld'
 
@@ -117,6 +117,7 @@ Shader "Custom/MaidSurfaceShader_Hair" {
 				float4 color : COLOR;
 				half3 viewDir : TEXCOORD1;
 				float3 posWorld : TEXCOORD2;
+				UNITY_VERTEX_OUTPUT_STEREO  // inserted by FixShadersRightEye.cs
 			};
 			
 
@@ -124,6 +125,8 @@ Shader "Custom/MaidSurfaceShader_Hair" {
 			{
 			
 				v2f o;
+				UNITY_SETUP_INSTANCE_ID(v);  // inserted by FixShadersRightEye.cs
+				UNITY_INITIALIZE_VERTEX_OUTPUT_STEREO(o);  // inserted by FixShadersRightEye.cs
 				float4 world_pos = mul(UNITY_MATRIX_MV, v.vertex);
 			float r_proj_near = (-UNITY_MATRIX_P[3][2] - UNITY_MATRIX_P[2][2]) / UNITY_MATRIX_P[2][3];
 			float r_proj_y = UNITY_MATRIX_P[1][1] * r_proj_near * 0.5f;
