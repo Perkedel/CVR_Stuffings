@@ -1,4 +1,4 @@
-﻿Shader "Custom/Ice" {
+Shader "Custom/Ice" {
 	Properties {
 		_Color ("Color", Color) = (1,1,1,1)
 		_FresnelColor ("_FresnelColor", Color) = (1,1,1)
@@ -38,6 +38,7 @@
 			struct appdata_t {
 				float4 vertex : POSITION;
 				float2 texcoord: TEXCOORD0;
+				UNITY_VERTEX_INPUT_INSTANCE_ID  // inserted by FixShadersRightEye.cs
 			};
 
 			struct v2f {
@@ -46,6 +47,7 @@
 				float2 uvbump : TEXCOORD1;
 				float2 uvmain : TEXCOORD2;
 				UNITY_FOG_COORDS(3)
+				UNITY_VERTEX_OUTPUT_STEREO  // inserted by FixShadersRightEye.cs
 			};
 
 			float _BumpAmt;
@@ -56,6 +58,8 @@
 			v2f vert (appdata_t v)
 			{
 				v2f o;
+				UNITY_SETUP_INSTANCE_ID(v);  // inserted by FixShadersRightEye.cs
+				UNITY_INITIALIZE_VERTEX_OUTPUT_STEREO(o);  // inserted by FixShadersRightEye.cs
 				o.vertex = UnityObjectToClipPos(v.vertex);
 				#if UNITY_UV_STARTS_AT_TOP
 				float scale = -1.0;

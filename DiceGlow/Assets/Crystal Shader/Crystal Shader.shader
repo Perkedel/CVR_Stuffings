@@ -330,6 +330,7 @@ Shader "Shader Forge/Crystal Shader" {
             struct VertexOutput {
                 float4 pos : SV_POSITION;
                 UNITY_VERTEX_INPUT_INSTANCE_ID
+                UNITY_VERTEX_OUTPUT_STEREO  // inserted by FixShadersRightEye.cs
                 float2 uv0 : TEXCOORD0;
                 float2 uv1 : TEXCOORD1;
                 float2 uv2 : TEXCOORD2;
@@ -340,7 +341,6 @@ Shader "Shader Forge/Crystal Shader" {
                 float4 projPos : TEXCOORD7;
                 LIGHTING_COORDS(8,9)
                 UNITY_FOG_COORDS(10)
-                UNITY_VERTEX_OUTPUT_STEREO  // inserted by FixShadersRightEye.cs
             };
             VertexOutput vert (VertexInput v) {
                 VertexOutput o = (VertexOutput)0;

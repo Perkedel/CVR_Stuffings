@@ -1,4 +1,4 @@
-﻿// by Neitri, free of charge, free to redistribute
+// by Neitri, free of charge, free to redistribute
 // downloaded from https://github.com/netri/Neitri-Unity-Shaders
 
 // Fades outline based on how far it is behind objects and how far it is from camera
@@ -54,6 +54,7 @@ Shader "Neitri/Distance Fade Outline"
 			{
 				float3 vertex : POSITION;
 				float3 normal : NORMAL;
+				UNITY_VERTEX_INPUT_INSTANCE_ID  // inserted by FixShadersRightEye.cs
 			};
 
 			struct v2f
@@ -62,6 +63,7 @@ Shader "Neitri/Distance Fade Outline"
 				float3 normal : TEXCOORD1;
 				float4 worldPos : TEXCOORD2;
 				float4 projPos : TEXCOORD3;
+				UNITY_VERTEX_OUTPUT_STEREO  // inserted by FixShadersRightEye.cs
 			};
 
 			float3 getCameraPosition()
@@ -75,6 +77,8 @@ Shader "Neitri/Distance Fade Outline"
 			v2f vert (appdata v)
 			{
 				v2f o;
+				UNITY_SETUP_INSTANCE_ID(v);  // inserted by FixShadersRightEye.cs
+				UNITY_INITIALIZE_VERTEX_OUTPUT_STEREO(o);  // inserted by FixShadersRightEye.cs
 				o.vertex = UnityObjectToClipPos(v.vertex);
 				o.normal = UnityObjectToWorldNormal(v.normal);
 				o.worldPos = mul(unity_ObjectToWorld, float4(v.vertex, 1));

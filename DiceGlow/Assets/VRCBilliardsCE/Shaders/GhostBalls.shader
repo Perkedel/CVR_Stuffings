@@ -38,6 +38,7 @@ Shader "VRCBCE/Ghost Balls"
 				float4 pos : SV_POSITION;
 				float fresnel : TEXCOORD0;
 				UNITY_VERTEX_INPUT_INSTANCE_ID
+				UNITY_VERTEX_OUTPUT_STEREO  // inserted by FixShadersRightEye.cs
 			};
 
 			UNITY_INSTANCING_BUFFER_START(Props)
@@ -50,6 +51,7 @@ Shader "VRCBCE/Ghost Balls"
 			v2f vert(appdata_t v)
 			{
 				v2f o;
+				UNITY_INITIALIZE_VERTEX_OUTPUT_STEREO(o);  // inserted by FixShadersRightEye.cs
 				UNITY_SETUP_INSTANCE_ID(v);
 				UNITY_TRANSFER_INSTANCE_ID(v, o);
 				o.pos = UnityObjectToClipPos(v.pos);

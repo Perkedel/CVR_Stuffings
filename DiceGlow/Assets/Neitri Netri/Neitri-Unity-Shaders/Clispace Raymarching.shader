@@ -1,4 +1,4 @@
-﻿// by Neitri, free of charge, free to redistribute
+// by Neitri, free of charge, free to redistribute
 // downloaded from https://github.com/netri/Neitri-Unity-Shaders
 
 // Example on how to construct world space ray from clispace uv
@@ -37,12 +37,14 @@ Shader "Neitri/Clispace Raymarching"
 			struct VertIn
 			{
 				float2 uv : TEXCOORD0;
+				UNITY_VERTEX_INPUT_INSTANCE_ID  // inserted by FixShadersRightEye.cs
 			};
 
 			struct VertToFrag
 			{
 				float4 vertex : SV_POSITION;
 				float2 uv : TEXCOORD0;
+				UNITY_VERTEX_OUTPUT_STEREO  // inserted by FixShadersRightEye.cs
 			};
 			
 			struct FragOut
@@ -54,6 +56,8 @@ Shader "Neitri/Clispace Raymarching"
 			VertToFrag vert (VertIn v)
 			{
 				VertToFrag o;
+				UNITY_SETUP_INSTANCE_ID(v);  // inserted by FixShadersRightEye.cs
+				UNITY_INITIALIZE_VERTEX_OUTPUT_STEREO(o);  // inserted by FixShadersRightEye.cs
 				o.vertex = float4(v.uv * 2 - 1, 0, 1);
 				#ifdef UNITY_UV_STARTS_AT_TOP
 					v.uv.y = 1-v.uv.y;
