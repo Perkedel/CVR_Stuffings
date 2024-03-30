@@ -5471,3 +5471,8 @@ New Sauce lists
 - https://www.atlassian.com/git/tutorials/git-submodule
 - https://stackoverflow.com/questions/35534766/how-to-create-submodule-in-existing-repo
 - https://git-scm.com/book/en/v2/Git-Tools-Submodules
+- pls update heart organ khalifa hawill. forgor loop checkbox
+- https://forum.unity.com/threads/packages-in-project-not-showing-in-in-project-tab.1382283/
+- https://stackoverflow.com/questions/68717526/packages-folder-is-empty Hide immutable mode?!?!!?
+- https://stackoverflow.com/a/72860746/9079640
+- https://forum.unity.com/threads/packages-not-showing-inside-projects-package-folder.560605/
