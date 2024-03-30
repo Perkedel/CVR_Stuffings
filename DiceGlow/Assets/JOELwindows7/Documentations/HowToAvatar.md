@@ -57,15 +57,16 @@ In order to upload your own avatar, you will need:
     - Create an empty GameObject in the Root of this 3D Model. Everytime you added &/or edited the AAS cells, **Toggle the `Enabled` top left of the Inspector ON/OFF to trigger Prefab saving**. If you forgot, your AAS in the inspector may corrupt (missing cell, value, etc.) when you get out of prefab editing, but not the created controller.
     - `Create Controller`
     - `Attach Created Controller to the Avatar`
-    - **DO NOT FORGET!!!**, in category `Avatar Customization`, check if the field `Animation Overides` is properly filled.
-        - Click the field. Unity should point to the Animation Overide file at the Project sub-window.
+    - **DO NOT FORGET!!!**, in category `Avatar Customization`, check if the field `Animation Overides` is properly filled. It should be automatically filled once you've clicked `Attach Created Controller to the Avatar`, but sometimes in a way, it did not OR dropped when you did not trigger Prefab saving for the last time after above.
+        - Click the field. CVRAvatar Animation Overides field should point to the generated Animation Overide file at the Project sub-window.
         - If you are unsure / did not went pointing to the file, click the Circle with dot on that `Animation Overides` field. Pick the correct overides. e.g. your Avatar name is `Zuuljedus`, then it's `Zuuljedus_aas_overides`.
-    - **DO NOT FORGET BEFORE GOING OFF THE PREFAB!!!**, Always retoggle your dummy GameObject or whatever around or anything that triggers Prefab saving.
+    - **DO NOT FORGET BEFORE GOING OFF THE PREFAB!!!**, Always retoggle your dummy GameObject or whatever around or anything that triggers Prefab saving. This ensures everything from a to z are saved, since sometimes some values somehow did not save automatically. E.g., If you forgot this, some AAS settings or all would not be saved & you have to refill what's gone, from scratch.
 1. Open up your CCK Control panel through:
     - Top menu bar `Alpha Blend Interactive`
     - `Control Panel`
     - You should see your avatar listed. You may also be offered some buttons and informations regarding this Avatar.
         - Material Slot count info, warns, & errors. Appears when your 3D Model utilized more than numbers of threshold. Only Info & Warn does not prevent uploading. And if your 3D models had too many slots exceeding beyond info & warn substantially, you will get error & unable to upload.
+        - Polygon count info, warns, & errors. Appears when your 3D Model contains numbers of polygons of threshold. Only Info & Warn does not prevent uploading. And if your 3D models had too many polygon counts exceeding beyond info & warn substantially, you will get error & unable to upload.
         - Import Fix. It is highly recommended to press this button, to fix certain things when e.g. exported the 3D Model from Blender to FBX.
     - Simply Click `Upload Avatar`
 1. Please wait while the CCK is packing everything to be uploaded.

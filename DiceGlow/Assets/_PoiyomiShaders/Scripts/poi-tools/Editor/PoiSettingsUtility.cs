@@ -1,15 +1,17 @@
 ﻿using System;
 using System.IO;
-using UnityEditor;
 using UnityEngine;
 
 namespace Poi.Tools
 {
+    /// <summary>
+    /// Utility class to save settings inside the project folder.
+    /// </summary>
     public static class PoiSettingsUtility
     {
         const string SavePath = "Poi/Settings/";
 
-        static string SettingsFolder
+        public static string SettingsFolder
         {
             get
             {
@@ -46,7 +48,7 @@ namespace Poi.Tools
             if(!Directory.Exists(SettingsFolder))
                 Directory.CreateDirectory(SettingsFolder);
 
-            string json = EditorJsonUtility.ToJson(obj, prettyPrint);
+            string json = JsonUtility.ToJson(obj, prettyPrint);
             File.WriteAllText($"{SettingsFolder}{filename}", json);
         }
 
@@ -68,6 +70,25 @@ namespace Poi.Tools
 
                 string json = File.ReadAllText(path);
                 obj = JsonUtility.FromJson<T>(json);
+                return true;
+            }
+            catch(Exception ex)
+            {
+                Debug.LogException(ex);
+                return false;
+            }
+        }
+
+        public static bool LoadSettingsOverwrite(string filename, object obj)
+        {
+            try
+            {
+                string path = $"{SettingsFolder}{filename}";
+                if(!File.Exists(path))
+                    return false;
+
+                string json = File.ReadAllText(path);
+                JsonUtility.FromJsonOverwrite(json, obj);
                 return true;
             }
             catch(Exception ex)

@@ -1,4 +1,4 @@
-﻿
+
 Shader "GLTF/BumpToNormal" {
 	Properties{
 		_BumpMap ("Noise text", 2D) = "bump" {}
@@ -17,11 +17,13 @@ Shader "GLTF/BumpToNormal" {
 			 struct vertInput {
 			 float4 pos : POSITION;
 			 float2 texcoord : TEXCOORD0;
+			 UNITY_VERTEX_INPUT_INSTANCE_ID  // inserted by FixShadersRightEye.cs
 			 };
 
 			 struct vertOutput {
 			 float4 pos : SV_POSITION;
 			 float2 texcoord : TEXCOORD0;
+			 UNITY_VERTEX_OUTPUT_STEREO  // inserted by FixShadersRightEye.cs
 			 };
 
 			 sampler2D _MetallicGlossMap;
@@ -31,6 +33,8 @@ Shader "GLTF/BumpToNormal" {
 
 			 vertOutput vert(vertInput input) {
 				 vertOutput o;
+				 UNITY_SETUP_INSTANCE_ID(input);  // inserted by FixShadersRightEye.cs
+				 UNITY_INITIALIZE_VERTEX_OUTPUT_STEREO(o);  // inserted by FixShadersRightEye.cs
 				 o.pos = UnityObjectToClipPos(input.pos);
 				 o.texcoord.x = input.texcoord.x;
 				 if(_FlipY == 1)
