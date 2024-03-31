@@ -5476,3 +5476,14 @@ New Sauce lists
 - https://stackoverflow.com/questions/68717526/packages-folder-is-empty Hide immutable mode?!?!!?
 - https://stackoverflow.com/a/72860746/9079640
 - https://forum.unity.com/threads/packages-not-showing-inside-projects-package-folder.560605/
+- https://www.twitch.tv/quackz_wav
+- to turn off audiolink, you must replace this core AL texture, with blank image. Animate that field so it replaces the core AL render texture into just empty image. You cannot just disable the AL controller, coz it'll freeze AL object's drawing in place!
+- wait. yeah that's basically it. thancc VoyVivika for the heads up.
+- https://github.com/CMoyuer/VRChatAvatarSDK3Container
+- https://discord.com/channels/410126604237406209/588350726841827358/1224001837536120863
+- `FFEB34`
+- https://feedback.abinteractive.net/p/gravity-zone-sample-point-needs-to-be-a-point-not-the-entire-collider
+- https://youtu.be/yc1UoS7zniQ?si=4byiFySVdYXXfofn auto merge vertices
+- https://www.katsbits.com/codex/measurement/ there you fucking are!! the measurement overlay!!
+- https://blender.stackexchange.com/questions/170032/how-to-set-up-accuracy-of-edge-length-overlay
+- https://ko-fi.com/trinityy
