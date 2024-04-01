@@ -5487,3 +5487,42 @@ New Sauce lists
 - https://www.katsbits.com/codex/measurement/ there you fucking are!! the measurement overlay!!
 - https://blender.stackexchange.com/questions/170032/how-to-set-up-accuracy-of-edge-length-overlay
 - https://ko-fi.com/trinityy
+- https://discord.com/channels/410126604237406209/588350685255565344/1224129876563460137
+- https://discord.com/channels/410126604237406209/588350770777161748/1224114829120504050
+- gravity trouble with wheelcollider fail traction if global gravity is 0.
+- https://discord.com/channels/410126604237406209/588350685255565344/1224160767293522020
+- https://www.reddit.com/r/Unity3D/comments/ourzlg/using_wheelcolliders_with_custom_gravity/
+- https://discord.com/channels/617637133926006794/747307499690131537/1224187877458706464 new release from Kitavali
+- https://docs.github.com/en/actions/using-workflows/workflow-syntax-for-github-actions#jobsjob_idruns-on
+- https://docs.github.com/en/actions/using-workflows/workflow-syntax-for-github-actions#choosing-github-hosted-runners
+- https://docs.github.com/en/actions/using-github-hosted-runners/about-github-hosted-runners/about-github-hosted-runners#supported-runners-and-hardware-resources
+- http://8325.org/haiku
+- https://newos.org/
+- https://github.com/travisg/newos
+- https://www.haiku-os.org/slideshows/haiku-1/
+- https://www.haiku-os.org/about/movies
+- https://vimeo.com/1393242
+- https://www.jamendo.com/album/5037?language=en gone.
+- https://www.haiku-os.org/slideshows/haiku-2/
+- https://www.haiku-os.org/slideshows/haiku-4/
+- https://www.haiku-inc.org/trademarks/
+- https://www.haiku-inc.org/
+- https://hardware.besly.de/index.php?headline=Hardwarelist
+- https://dev.haiku-os.org/wiki/HardwareInfo
+- https://id.wikipedia.org/wiki/ISO_9660
+- https://en.wikipedia.org/wiki/ISO_9660
+- https://www.iso.org/obp/ui/#iso:std:iso:9660:ed-1:v1:en
+- https://www.besly.de/
+- https://dev.haiku-os.org/wiki/HardwareInfo/video
+- https://www.haiku-os.org/guides/virtualizing/virtualbox
+- https://discord.com/channels/410126604237406209/766086942005526579/1224170531213803632
+- https://discord.com/channels/410126604237406209/1004342104383815681/1221968919758245940
+- https://www.jaybmusic.net/MIDI/
+- https://youtu.be/MZTtaZjwJXw?si=57--Egr1jv_rnxqF
+- https://en.wikipedia.org/wiki/List_of_Yamaha_Corporation_products
+- https://usa.yamaha.com/files/download/other_assets/9/319469/psr170.pdf
+- https://www.heikoplate.de/psruti.html
+- https://getsharex.com/
+- https://github.com/Perkedel/After-Church/blob/master/RAW%20files/MIDI/JOELwindows7/MidiHacks/Guruku%20Tersayang_2%20-%20PSR%20UTI_GlueEdit.mid
+- https://stackoverflow.com/questions/16976696/extract-gnutls-library-files-of-tar-xz-and-tar-lz-for-ubuntu-10-04-lts
+- https://apple.stackexchange.com/questions/301016/how-uncompress-tar-lz-file
