@@ -5574,3 +5574,4 @@ New Sauce lists
 - https://lorcanvr.gumroad.com/
 - https://play.google.com/store/apps/details?id=com.Swammy.TitanStrike
 - https://web.archive.org/web/20230430231328/http://robbi-985.homeip.net/88pmidi/index.html
+- blender clock simple minimalis don't forget make it!
