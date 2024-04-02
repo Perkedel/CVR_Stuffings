@@ -32,7 +32,8 @@ Shader "Custom/ALInstrument"
         #pragma surface surf Standard fullforwardshadows
         #pragma target 3.0
 
-        #include "Packages/com.llealloo.audiolink/Runtime/Shaders/AudioLink.cginc"
+        // #include "Packages/com.llealloo.audiolink/Runtime/Shaders/AudioLink.cginc"
+        #include "Assets/AudioLink/Shaders/AudioLink.cginc" // JOELwindows7: Sorry, our fork still Assets directly.
 
         struct Input
         {
