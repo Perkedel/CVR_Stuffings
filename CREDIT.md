@@ -5352,6 +5352,8 @@ New Sauce lists
 - `7F129C`
 - https://discord.gg/aW3s2YVmKU Smilezwiggles discord
 - https://drive.google.com/drive/folders/1rFl0pIQ_GYrRDjReu_5oayy2JgeNBkY8 thancc JKK. Lethal Company animation dance. Zoidrawzaton
+- https://zoidberg656.gumroad.com/l/LCEmployee?layout=profile Wait, this is Zoidberg's lethal company employee model! yoink the animation!!!
+- https://drive.google.com/drive/folders/1rFl0pIQ_GYrRDjReu_5oayy2JgeNBkY8?usp=sharing File matches!
 - & Jill the something too as well!
 - https://vrcmods.com/search?sort=bestmatch&cid=6&q=dance
 - https://vrcmods.com/search?sort=bestmatch&cid=6&q=dance
@@ -5526,3 +5528,49 @@ New Sauce lists
 - https://github.com/Perkedel/After-Church/blob/master/RAW%20files/MIDI/JOELwindows7/MidiHacks/Guruku%20Tersayang_2%20-%20PSR%20UTI_GlueEdit.mid
 - https://stackoverflow.com/questions/16976696/extract-gnutls-library-files-of-tar-xz-and-tar-lz-for-ubuntu-10-04-lts
 - https://apple.stackexchange.com/questions/301016/how-uncompress-tar-lz-file
+- https://openmidiproject.opal.ne.jp/
+- https://discussions.unity.com/t/adding-more-than-1-shader-to-an-object/21831
+- https://forum.unity.com/threads/strumpy-shader-editor-now-open-source.56180/
+- https://github.com/stramit/SSE
+- https://docs.unity3d.com/Manual/Materials.html
+- https://www.reddit.com/r/Unity3D/comments/8nis9q/why_cant_i_use_two_shaders_on_one_object/
+- https://polycount.com/discussion/191041/combining-2-shaders-unity
+- https://stackoverflow.com/questions/56233704/how-to-combine-two-shaders-into-one-shader-in-unity
+- https://discussions.unity.com/t/shader-combine-two-textures-and-add-transparency/74471
+- https://gamedev.stackexchange.com/questions/182580/unity-shader-graph-combine-textures-with-transparency
+- https://forum.unity.com/threads/combine-two-shaders-into-one-help.473099/
+- https://www.reddit.com/r/Unity3D/comments/r5txca/how_do_i_combine_two_materials_into_the_same/
+- https://assetstore.unity.com/packages/tools/visual-scripting/amplify-shader-editor-68570 **PAID**
+- https://forum.unity.com/threads/pro-material-combiner-combine-materials-quick-and-easy-with-just-2-clicks.297528/ asset gone
+- a
+- https://www.reddit.com/r/Unity3D/comments/z6rc8e/combining_shaders/
+- https://forum.unity.com/threads/combine-two-shaders.996383/
+- https://forum.unity.com/threads/combine-two-shaders.996383/
+- https://i.stack.imgur.com/Guzal.png
+- https://docs.unity3d.com/Packages/com.unity.shadergraph%407.1/manual/Combine-Node.html
+- https://github.com/stramit/SSE
+- https://deno.land/x/octavia_deno@0.5.1
+- https://zoidberg656.gumroad.com/l/CAhCW?layout=profile hey!
+- https://skfb.ly/6CFZM we got this Lexichi. Lexidoll.
+- https://zoidberg656.gumroad.com/l/LCEmployee?layout=profile Lethal Company Employee from Zoidberg. model from ZeekersRBLX, under permission to Zoidberg!
+- https://zoidberg656.gumroad.com/l/RiNW?layout=profile made in abyss bondrewd
+- https://stackoverflow.com/questions/61774057/how-to-apply-transform-in-unity
+- https://medal.tv/id/games/chilloutvr/clips/24BXPdlxlq45-V/lg3vn5qDv9C0?invite=cr-MSxFckMsMjE0MDg2ODYyLA CVR voice will be remake own from scratch instead of 3rd party. Here's the Closed alpha session of it
+- https://discord.com/channels/867567549858971669/1044131041121681499/1224315665389850644 on VoyVivika's discord.
+- Voy that time played music over his mic as you can hear in Marm's POV, right of Marm. No issue witnessed unlike Vivox currently, but it's still WIP.
+- https://youtu.be/uIXYQJACRX4?si=MNVMhrz4qT3kAbk8
+- https://youtu.be/-0wyTP_Doxw?si=mJaMj-BaQcwukdwq
+- https://youtube.com/shorts/LFOoBR1fLm0?si=2Gcuqh0X8oHIIAwb
+- `518CE7`
+- `#CC6E89`
+- https://youtu.be/ZrQIq6pCtPE?si=5CqLMr_twlHmXtcD
+- https://youtu.be/rYUGd6UQwkY?si=XxaMt4PZ2AqJ0npA
+- https://youtu.be/rYUGd6UQwkY?si=XxaMt4PZ2AqJ0npA
+- https://twitter.com/LorcanVR/status/1774407408476987776 **Expired promo**
+- https://lorcanvr.gumroad.com/
+- https://www.youtube.com/watch?v=8tYVVLhc9ZI
+- http://www.imgburn.com/index.php?act=installation_complete
+- https://www.imgburn.com/index.php?act=download
+- https://lorcanvr.gumroad.com/
+- https://play.google.com/store/apps/details?id=com.Swammy.TitanStrike
+- https://web.archive.org/web/20230430231328/http://robbi-985.homeip.net/88pmidi/index.html
