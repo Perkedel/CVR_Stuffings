@@ -1053,6 +1053,8 @@ New Sauce lists
 - https://www.youtube.com/watch?v=b6SjQHFF6Qo
 - https://github.com/AcChosen/VR-Stage-Lighting
 - https://vpm.vrsl.dev/
+- https://github.com/AcChosen/VR-Stage-Lighting
+- https://acchosen.gumroad.com/l/xYaPu **PAID**
 - wow VR Stage Lights!!
 - https://github.com/Unity-Technologies/FPSSample/blob/master/Packages/com.unity.postprocessing/PostProcessing/Shaders/Builtins/Uber.shader
 - https://github.com/Leviant/ScreenSpace_Ubershader
@@ -5575,3 +5577,81 @@ New Sauce lists
 - https://play.google.com/store/apps/details?id=com.Swammy.TitanStrike
 - https://web.archive.org/web/20230430231328/http://robbi-985.homeip.net/88pmidi/index.html
 - blender clock simple minimalis don't forget make it!
+- pls multi voice channel
+- https://rezilloryker.gumroad.com
+- https://darkpower0819.gumroad.com
+- https://skfb.ly/oEKvr lightbulb blaster
+- https://youtube.com/playlist?list=PL1R2qsKCcUCI8CftK2zxXd5HIyvfOqmW4&si=g2RPiwz78svVgnBS
+- https://youtu.be/iIPRFDreMRM?si=-jU6NKv7UymIY21m
+- https://assetstore.unity.com/packages/vfx/shaders/fake-interiors-free-104029
+- https://youtu.be/-O6SjcLPnSo?si=q8Fk1BlU_SVLgUaF
+- https://github.com/franMarz/TexTools-Blender
+- https://github.com/Radivarig/UvSquares
+- https://twitter.com/Kein_Wal/status/1771082210168185327
+- https://smutba.se/project/38794/
+- https://fixupx.com/Dman3D9527/status/1748426283912962523?s=20
+- https://smutba.se/project/38363/
+- https://discord.com/channels/478830908401778688/671846856430583818/1197989345810985121
+- https://en.key-test.ru/
+- bbbbbbvvvvvccccvcccccccccczcfffffffqtkkkkkklllllllhhhyyyyyyyyyyyyyyyyyyyyyyyyyy0000000000000000000000000000.....121325556
+- pls replicate theparkbench's gravity club as a prop. Icoverse gravity. inverse gravity with another smaller gravity overlapping higher priority.
+- https://amsn875.booth.pm
+- pls audio source auto assign to which channel feature
+- https://discord.com/invite/aW3s2YVmKU smilez discord
+- jayjay burdell which being used by Nyankee
+- https://zoophobia.fandom.com/wiki/JayJay it's also zoophobia vivziepop!
+- https://www.deviantart.com/squishysquids5050/art/Jayjay-Burdell-from-Zoophobia-956664560
+- https://www.reddit.com/r/zoophobia/comments/jdvxjt/jayjay_3d_model_wip_made_in_blender/
+- put cvr pointer by particle system?? didn't we tried it didn't work?
+- c script
+- https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/cscript
+- a
+- https://stackoverflow.com/questions/8678441/difference-between-wscript-and-cscript
+- booth waaifu
+- https://zen0129zen.booth.pm
+- https://magicshiba.booth.pm
+- von vivianow gumroad
+- https://framedoll.booth.pm
+- https://kaitosai.booth.pm
+- UniformVixen
+- viper xcon2
+- zeraora warfaremachine
+- https://twitch.tv/wayneradiotv
+- togo test world sketchfab
+- https://youtu.be/ESJbJ9k1lCE
+- https://github.com/lsauer/chrome-session-restore
+- https://odysee.com/@JOELwindows7:a/octavia-bpkm-SC55Disp:b
+- https://ltgc.cc/
+- https://codeberg.org/ltgc
+- https://ygg.ltgc.cc/
+- https://ygg.ltgc.cc/
+- https://codeberg.org/ltgc/octavia
+- https://codeberg.org/ltgc/eclipsed
+- https://codeberg.org/ltgc/octavia
+- https://t.me/+0I30mcOPTSQ0ZGIx
+- https://github.com/ltgcgo/midi-db
+- https://github.com/ltgcgo/midi-db?tab=readme-ov-file
+- https://github.com/PoneyClairDeLune
+- https://kick.com/video/3af16c08-f25e-473b-8b3f-1b8a227ba8cc
+- https://kb.ltgc.cc/octavia/support/target.html
+- https://kb.ltgc.cc/octavia/support/sysex.html
+- http://cvrprefabs.com/ sketchfoxsky's list of assets
+- https://docs.google.com/spreadsheets/d/1DyQKiXrIWWWaIJ9LH9bfMrvGZFQsF1nceXVCQnCPPHI/edit#gid=0 literallyjustsmith's list of assets
+- Jkk, may I share the clock?
+- Minutes:
+- `0`
+- `900`
+- `1800`
+- `2700`
+- `3600`
+- https://www.reddit.com/r/VRchat/comments/1bv3abv/merlin_creator_of_udonsharp_fired_from_vrchat/ Gone
+- https://imagy.app/how-to-curve-text-in-inkscape/
+- https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+- https://24hourtime.net/86400-seconds-to-hours
+- https://24hourtime.net/86400-seconds-to-minutes
+- https://24hourtime.net/86400-seconds-to-minutes
+- https://web.archive.org/web/20230322235855/https://forums.abinteractive.net/d/817-cvr-parameter-stream-reference
+- https://web.archive.org/web/20230322235855/https://forums.abinteractive.net/d/816-avatar-animator-parameters-reference
+- https://knockout.chat/thread/60426
+- VRChat Udon Developer fired.
+- ``
