@@ -5655,3 +5655,18 @@ New Sauce lists
 - https://knockout.chat/thread/60426
 - VRChat Udon Developer fired.
 - ``
+- We did joined Kodeska now here 5th april 2024 about this VRChat UdonSharp dev fired.
+- We went into VRChat community overall. Merlin e.g. was the Topper, but they are toxic etc.
+- And then I went to theparkbench who hated me for no reason.
+- rumoredly, Kodeska disagree with park's convince to never VRChat again to newcomvers.
+- that's what made park hated Kodeska too aswell.
+- park's been here long since and became topper. But apparently I just saw that Kodeska doesn't wanted to be, coz idk. Life balance disruption or something.
+- Like... everyone has right, right? ones go back to VRChat yea just let them! what the hell?
+- Again, take this a grain of salt, not factual.
+- https://apps.apple.com/us/app/titan-strike/id6480346181
+- https://play.google.com/store/apps/details?id=com.Swammy.TitanStrike
+- https://github.com/nukeykt/Nuked-SC55
+- https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp    
+- https://chromewebstore.google.com/detail/get-cookiestxt-locally/cclelndahbckbenkjhflpdbgdldlbecc
+- CCCA
+- 
