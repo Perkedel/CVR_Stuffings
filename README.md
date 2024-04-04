@@ -511,6 +511,8 @@ Here are the UUIDs of all these assets we uploaded to CVR:
 | `d2498a2c-dad3-4fa0-8761-3f6712f28e6f` | The Power of the Sun | JOELwindows7 | In the palm of my hand |
 | `07799d34-1333-4d9e-ab99-557faa694e47` | The Absolver | JOELwindows7 | In the palm of my hand |
 | `140ca808-7a9a-49c3-9296-3f49127f04ea` | Sex Dice Tutorial card | JOELwindows7 | **NSFW** How to DIY Lewd dice. |
+| `cae8af07-97be-4595-a5a8-1114caf6eec5` | Soklong Clock | JOELwindows7 | **Experimental** Aesthetically minimalist clock |
+| `2b09d9dc-dd95-49dd-b4a1-2b1dc70f5a83` | 🫀 Heart Organ | JOELwindows7 | **Experimental** Khalifa Hawill's animated heart organ 3D Model |
 | `04176881-b662-4299-a238-260a4f975d01` | Kipas Naik | JOELwindows7 | **Experimental** Lift-up fan using Gravity zone |
 | `6d74cc05-a541-493b-9c5d-2fd377f9e4bc` | Click to Poof | JOELwindows7 | **Experimental** |
 | `382db2db-2101-4308-9a8a-5bcb263880a7` | Reflection Probe Helm Spawner | JOELwindows7 | **Experimental** |
