@@ -5684,3 +5684,6 @@ New Sauce lists
 - https://github.com/marketplace/actions/vrlabs-unity-exporter
 - https://github.com/marketplace/actions/unity-meta-files-check
 - https://github.com/FrostBanditTeam/extract-unity-package-action
+- https://github.com/pCYSl5EDgo/create-unitypackage
+- https://github.com/FrostBanditTeam/extract-unity-package-action
+- https://github.com/Lachee/Unity-Package-Exporter
