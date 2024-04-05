@@ -5671,3 +5671,8 @@ New Sauce lists
 - CCCA
 - https://discord.com/channels/410126604237406209/682645682968199168/1225628591295955035
 - https://discord.com/channels/410126604237406209/588350726841827358/1225623173114892298
+- old text:
+- `Next time, nyankee, you should've told us how did you make the player stick to the sled when we stood on it. seriously!!! <b>TUTORIAL PLS!!!</b> thancc. <color=red>Not just on Discord, I missed it!! We would.</color> yeah.`
+- `basically it.`
+- `Alright, sorry, no biggie to anyone. Who said we biggie? NO! no biggie! Be cool.`
+- a
