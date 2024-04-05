@@ -5679,3 +5679,4 @@ New Sauce lists
 - pls photo and showcase the clock
 - https://github.com/actions/setup-node
 - https://github.com/marketplace/actions/export-unitypackage-from-unity-project
+- https://github.com/FrostBanditTeam/extract-unity-package-action
