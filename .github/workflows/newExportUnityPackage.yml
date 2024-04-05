@@ -42,17 +42,25 @@ jobs:
                 pwd
                 ls
 
-            - name: It's morbin time!
+            # - name: It's morbin time!
+            #   id: extract_unity_package
+            #   uses: VRLabs/extract-unity-package-action@v1.2.1
+            #   with:
+            #     #Specify the unity project path, relative to the repo root.
+            #     unityProjectPath: './DiceGlow'
+            #     #Optional: Set the directory to package, relative to the project.
+            #     packagePath: 'Assets/JOELwindows7'
+            #     #Optional: Set the output path for the package.
+            #     outputPackagePath: './artifacts/WholeJOELwindows7CVRSets.unitypackage'
+
+            - name: create unitypackage from glob pattern
               id: extract_unity_package
-              uses: VRLabs/extract-unity-package-action@v1.2.1
+              uses: natsuneko-laboratory/create-unitypackage@v3
               with:
-                #Specify the unity project path, relative to the repo root.
-                unityProjectPath: './DiceGlow'
-                #Optional: Set the directory to package, relative to the project.
-                packagePath: 'Assets/JOELwindows7'
-                #Optional: Set the output path for the package.
-                outputPackagePath: './artifacts/WholeJOELwindows7CVRSets.unitypackage'
-              
+                files-glob: |
+                  DiceGlow/Assets/JOELwindows7
+                dest: WholeJOELwindows7CVRSets.unitypackage
+                    
             - name: Here's your morbin sir! Will there be anything else?
               uses: actions/upload-artifact@master
               with:
