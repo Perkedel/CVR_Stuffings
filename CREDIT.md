@@ -5669,4 +5669,5 @@ New Sauce lists
 - https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp    
 - https://chromewebstore.google.com/detail/get-cookiestxt-locally/cclelndahbckbenkjhflpdbgdldlbecc
 - CCCA
-- 
+- https://discord.com/channels/410126604237406209/682645682968199168/1225628591295955035
+- https://discord.com/channels/410126604237406209/588350726841827358/1225623173114892298
