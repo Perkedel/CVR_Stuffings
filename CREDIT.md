@@ -5680,3 +5680,7 @@ New Sauce lists
 - https://github.com/actions/setup-node
 - https://github.com/marketplace/actions/export-unitypackage-from-unity-project
 - https://github.com/FrostBanditTeam/extract-unity-package-action
+- https://github.com/marketplace/actions/create-a-unitypackage
+- https://github.com/marketplace/actions/vrlabs-unity-exporter
+- https://github.com/marketplace/actions/unity-meta-files-check
+- https://github.com/FrostBanditTeam/extract-unity-package-action
