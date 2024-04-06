@@ -5690,3 +5690,12 @@ New Sauce lists
 - j
 - https://youtu.be/Lih_zHYqZ0I?si=0zRnSPi-CJv7Lbye
 - push the heart organ khalifa hawill with second hand of clock pls!
+- suno ai
+- https://vox-art.com
+- https://discord.gg/E5gERds
+- https://discord.com/channels/410126604237406209/588350726841827358/1226002763910222014
+- https://discord.com/channels/410126604237406209/588350726841827358/1226086356141211698
+- brent new
+- https://docs.blender.org/manual/en/4.1/render/cycles/render_settings/sampling.html#denoising
+- https://www.blender.org/download/releases/4-1/ new blender
+- https://vfxplatform.com/
