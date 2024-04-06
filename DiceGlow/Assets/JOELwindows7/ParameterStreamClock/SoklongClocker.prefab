@@ -59,19 +59,19 @@ MonoBehaviour:
     updatedBy: 0
     updateMethod: 1
     animator: {fileID: 7460654013222366768}
-    animatorParameterName: Houring
+    animatorParameterName: '#Houring'
   - name: Minute
     startValue: 0
     updatedBy: 0
     updateMethod: 1
     animator: {fileID: 7460654013222366768}
-    animatorParameterName: Minuting
+    animatorParameterName: '#Minuting'
   - name: Second
     startValue: 0
     updatedBy: 0
     updateMethod: 1
     animator: {fileID: 7460654013222366768}
-    animatorParameterName: Seconding
+    animatorParameterName: '#Seconding'
   - name: TimeZone
     startValue: 0
     updatedBy: 0
@@ -79,19 +79,7 @@ MonoBehaviour:
     animator: {fileID: 7460654013222366768}
     animatorParameterName: TimeZoneSelect
   propPrivacy: 1
-  subSyncs:
-  - transform: {fileID: 8725527738806539106}
-    syncedValues: 32
-    precision: 2
-    syncBoundary: 1
-  - transform: {fileID: 585422809016918929}
-    syncedValues: 32
-    precision: 2
-    syncBoundary: 1
-  - transform: {fileID: 1749335357370654460}
-    syncedValues: 32
-    precision: 2
-    syncBoundary: 1
+  subSyncs: []
   spawnableType: 0
   preGeneratedInstanceId: 
 --- !u!114 &8564975278686626931
@@ -130,19 +118,19 @@ MonoBehaviour:
     applicationType: 0
     staticValue: 43200
     target: {fileID: 4772777263485054482}
-    parameterName: Houring
+    parameterName: '#Houring'
   - type: 0
     targetType: 0
     applicationType: 141
     staticValue: 3600
     target: {fileID: 4772777263485054482}
-    parameterName: Minuting
+    parameterName: '#Minuting'
   - type: 0
     targetType: 0
     applicationType: 141
     staticValue: 60
     target: {fileID: 4772777263485054482}
-    parameterName: Seconding
+    parameterName: '#Seconding'
   onlyUpdateWhenHeld: 0
   onlyUpdateWhenAttached: 0
   onlyUpdateWhenControlled: 0
@@ -378,6 +366,7 @@ GameObject:
   - component: {fileID: 748663938311303503}
   - component: {fileID: 8212883153065811161}
   - component: {fileID: 6665310865553856739}
+  - component: {fileID: 8659877859116218126}
   m_Layer: 0
   m_Name: SoklongHour
   m_TagString: Untagged
@@ -479,6 +468,20 @@ MonoBehaviour:
   material: {fileID: 11400000, guid: a086f686223eed942816c70be67841b0, type: 2}
   exportAllChildren: 0
   terrainSimplificationLevel: 0
+--- !u!114 &8659877859116218126
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3360437584937443391}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4d5101e7f108ab74bb2f98b5203dfce3, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  orientationMode: 1
+  velocityInheritance: 2
 --- !u!1 &3587295991829201822
 GameObject:
   m_ObjectHideFlags: 0
@@ -624,6 +627,7 @@ GameObject:
   - component: {fileID: 8401563066949666121}
   - component: {fileID: 7303455579594972737}
   - component: {fileID: 5223216878566700440}
+  - component: {fileID: 3398725814172511730}
   m_Layer: 0
   m_Name: SoklongSecond
   m_TagString: Untagged
@@ -725,6 +729,20 @@ MonoBehaviour:
   material: {fileID: 11400000, guid: a086f686223eed942816c70be67841b0, type: 2}
   exportAllChildren: 0
   terrainSimplificationLevel: 0
+--- !u!114 &3398725814172511730
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3849720924322422647}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4d5101e7f108ab74bb2f98b5203dfce3, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  orientationMode: 1
+  velocityInheritance: 2
 --- !u!1 &4010907611671887472
 GameObject:
   m_ObjectHideFlags: 0
@@ -831,6 +849,7 @@ GameObject:
   - component: {fileID: 7195254596260760559}
   - component: {fileID: 8251951884940105316}
   - component: {fileID: 8321287584729275019}
+  - component: {fileID: 8805841847013619904}
   m_Layer: 0
   m_Name: SoklongMinute
   m_TagString: Untagged
@@ -932,6 +951,20 @@ MonoBehaviour:
   material: {fileID: 11400000, guid: a086f686223eed942816c70be67841b0, type: 2}
   exportAllChildren: 0
   terrainSimplificationLevel: 0
+--- !u!114 &8805841847013619904
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6599433427479731139}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4d5101e7f108ab74bb2f98b5203dfce3, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  orientationMode: 1
+  velocityInheritance: 2
 --- !u!1 &6880519590252510096
 GameObject:
   m_ObjectHideFlags: 0
