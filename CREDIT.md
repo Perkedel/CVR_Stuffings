@@ -5699,3 +5699,58 @@ New Sauce lists
 - https://docs.blender.org/manual/en/4.1/render/cycles/render_settings/sampling.html#denoising
 - https://www.blender.org/download/releases/4-1/ new blender
 - https://vfxplatform.com/
+- https://discord.com/channels/1013145647731449888/1013166757873197087/1227428442077790218
+- https://www.youtube.com/watch?v=tbFUK3r8GGU
+- Dervali / Nirvash is about to share the clock asset. pls ignore just the model because that part is paid.
+- pls find HD Rotating food gif pack
+- https://github.com/Dervali-git/VRC-Tips/tree/main/Resources here resource. there are sitting animations only currently
+- https://github.com/Nirv-git/CVR-Tips/blob/main/Recommended%20Mods.md wait, there's doubled.
+- https://docs.google.com/document/d/1ycnZyNyitzX0E4Dmw3MYqNB_m8Dj0b7LnTC5k9L6t_I/edit and here's Nirvash / Dervali's document about `CVRAvatar`
+- https://github.com/TanukiPenny/CVRMods
+- https://github.com/Nirv-git/CVRMods-Nirv
+- https://github.com/Dervali-git/VRC-Tips
+- cvr aa
+- https://soundcloud.com/fiftyf1ftyproducer/valentino-khan-pony-fifty-f1fty-house-flip
+- https://youtu.be/tkCA71GbUBQ?si=Og34C5JWrFzAU09F
+- https://kick.com/darkgamer120
+- aa
+- konten tarik store
+- cvr ju
+- https://discord.com/channels/410126604237406209/588350685255565344/1226567886848397362
+- ju
+- cvr ae
+- https://discord.com/channels/410126604237406209/588350726841827358/1226750091243556864
+- ae
+- cvr ugoid
+- https://youtu.be/E8A8jwE_AB0?si=PC4pBftcjqIHFUJt
+- https://github.com/Render96/Render96Wiki/wiki/How-to-Achieve-90s-Render-look-in-Blender-2.8 
+- cvr ugoid ok
+- cvr
+- https://discord.com/channels/410126604237406209/588350726841827358/1226241122687389756
+- ok
+https://youtu.be/qzhuWRQWK5I?si=PygoI274O32LWD5a
+- kamikaze echan
+- cvr uwu
+- https://discord.com/channels/848401393701748787/1060560641003364384/1226854861287456779
+- pls draw MIDI file in DNB action poster, replacing providing despite. No need to show provide desperate as a company
+- https://smutba.se/user/83769/
+- https://twitter.com/FnafNightbot
+- https://t.co/kRzrJrUstb
+- https://sites.google.com/view/nightbotgrey-model
+- adada
+- cvr aaa
+- https://discord.com/channels/716536783621587004/1220944586361536683/1224101215638388868
+- https://discord.com/channels/889254205532024832/889263171561459722/1066340252685439006
+- https://github.com/godotengine/godot/pull/86430
+- https://ask.vrchat.com/t/developer-update-14-march-2024/23401
+- https://discord.com/channels/471446618156040210/471485271179919360/1218049741732970566
+- aaa
+- cvr guag
+- https://discord.com/channels/410126604237406209/795882566968279091/1227040312858247238
+- https://discord.com/channels/410126604237406209/795882566968279091/1227100188628221982
+- https://discord.com/channels/410126604237406209/588350685255565344/1227076165790072884
+- https://discord.com/channels/1013145647731449888/1013166757873197087/1226850956927307796
+- guag
+- cvr eaaa
+- https://discord.com/channels/969594520901664779/1034608320843108443/1227096136561725460
+- eaaa
