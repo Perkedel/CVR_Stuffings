@@ -567,7 +567,7 @@ New Sauce lists
 - https://github.com/NovaVoidHowl/CRUMPET-Builder
 - https://github.com/netri/Neitri-Unity-Shaders
 - https://hoshinolabs.booth.pm/items/2666275
-- https://lura.booth.pm/items/1969082 Don't forget credit
+- https://lura.booth.pm/items/1969082 Don't forget credit Switch
 - https://signyamo.blog/vrchat_switch_en/
 - https://www.artstation.com/laluk
 - https://assetstore.unity.com/packages/2d/textures-materials/sky/fantasy-skybox-free-18353
@@ -5754,3 +5754,7 @@ https://youtu.be/qzhuWRQWK5I?si=PygoI274O32LWD5a
 - cvr eaaa
 - https://discord.com/channels/969594520901664779/1034608320843108443/1227096136561725460
 - eaaa
+- https://en.wikipedia.org/wiki/Content_delivery_network
+- https://www.reddit.com/r/discordapp/comments/51ogrw/what_is_cdndiscordappcom/
+- https://skfb.ly/6Vqzs microwave
+- the **no public** warne!
