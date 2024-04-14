@@ -5758,3 +5758,147 @@ https://youtu.be/qzhuWRQWK5I?si=PygoI274O32LWD5a
 - https://www.reddit.com/r/discordapp/comments/51ogrw/what_is_cdndiscordappcom/
 - https://skfb.ly/6Vqzs microwave
 - the **no public** warne!
+- https://3dmodels.org/blog/how-to-merge-edges-in-blender/
+- https://3dmodels.org/blog/how-to-connect-and-merge-vertices-in-blender/
+- https://github.com/isl-org/Open3D
+- https://www.open3d.org/
+- https://github.com/RBFraphael/meshviewer
+- https://askubuntu.com/a/1360537
+- https://www.meshlab.net/
+- https://flatpak.org/setup/Debian
+- https://www.blender.org/download/lts/
+- https://youtu.be/Cfbn4hgczQU?si=oH-muciGzB5MdWTP
+- https://youtu.be/AfofLg8l6Hk?si=2FvSy60kKfuoGM-f
+- https://www.haiku-os.org/guides/uefi_booting/
+- https://www.haiku-os.org/guides/troubleshooting
+- https://www.hirensbootcd.org/download/
+- https://www.ventoy.net/en/distro_iso/winpe.html
+- https://www.ventoy.net/en/distro_iso/kolibrios.html
+- https://www.ventoy.net/en/isolist.html
+- https://itsfoss.com/super-lightweight-distros/
+- https://github.com/ivandavidov/minimal
+- https://www.ventoy.net/en/doc_legacy_limit.html
+- https://sketchfab.com/xinshiye3d
+- https://sketchfab.com/Fridqeir
+- https://sketchfab.com/Partaevil
+- https://sketchfab.com/FunctionalResearch
+- https://sketchfab.com/biserborislawow
+- https://sketchfab.com/duz_vr
+- https://skfb.ly/FrVp material ball 3d-coat 
+- https://sketchfab.com/3d-coat
+- https://assetstore.unity.com/packages/3d/props/ball-pack-446
+- https://sketchfab.com/cryunreal
+- https://skfb.ly/oDGqY
+- https://sketchfab.com/muru
+- https://skfb.ly/6wQTF
+- https://sketchfab.com/rispatmomit
+- https://itsfoss.com/super-lightweight-distros/
+- https://superuser.com/q/1733102
+- https://academicphoenix.gumroad.com/l/ShaderBall
+- https://academicphoenix.gumroad.com/
+- https://sketchfab.com/tamminen
+- https://sketchfab.com/marlonToon
+- https://skfb.ly/6VORR Shader Ball Material Ball athirn
+- https://sketchfab.com/athirn
+- https://skfb.ly/ozVxI
+- https://sketchfab.com/CRANEO_
+- https://github.com/derkreature/ShaderBall
+- https://www.waldemar-art.com/store/free-shaders-ball-set-liquids-cloth-and-hard-surfaces#
+- https://cgtricks.com/free-shader-ball-set-waldemarart-design-studio/
+- https://www.autodesk.com/support/technical/article/caas/sfdcarticles/sfdcarticles/Where-to-download-the-Arnold-Shader-Ball.html
+- https://richnosworthy.gumroad.com/
+- https://blender.stackexchange.com/a/21808
+- https://github.com/mitjmcc/ShaderBall
+- https://realtimevfx.com/t/unity-scene-for-vfx/17655
+- https://blog.unity.com/engine-platform/material-variants-the-solution-for-managing-complex-material-libraries
+- https://www.blendswap.com/blend/14938
+- https://www.atlassian.com/git/tutorials/git-submodule
+- https://lolatron.gumroad.com
+- https://booth.pm/ko/items/3443188 **PAID** Rindo base.
+- https://youtube.com/shorts/9jp7DDq7EIw?si=OYC9fq13upSLZ5KA cvr blender walli
+- cvr roto
+- https://youtu.be/bO-4_p7SbnQ?si=X4stBDELLyD9K8c4
+- https://hirozu.gumroad.com/l/FurryTrash **PAID** with demo (base). Paid contains PS & SPP
+- https://hirozu.gumroad.com/l/AlastorStaff?layout=profile
+- https://hirozu.gumroad.com/?_gl=1*1bvcya9*_ga*MTIyMzE5ODc0NC4xNjEzMTQyMzMy*_ga_6LJN6D94N6*MTcxMjg1NDkwNS4zNDUuMS4xNzEyODU0OTM1LjAuMC4w
+- https://discord.com/channels/410126604237406209/682645682968199168/1227918477839433809
+- https://discord.com/channels/410126604237406209/797279576459968555/1227974398380736534
+- https://discord.com/channels/410126604237406209/797279576459968555/1227749433442041960 racush steam audio prop tests
+- https://discord.com/channels/969594520901664779/1034608320843108443/1227439840077807616 Dippy photo together
+- https://discord.com/channels/969594520901664779/1034608320843108443/1227762927134703616 also MusicalGamer too
+- roto
+- cvr oao
+- https://feedback.abinteractive.net/p/2024r175-ex2-animator-driver-incorrectly-converts-values-when-the-user-spawning-the-prop-is-on-the-beta-build
+- https://discord.com/channels/410126604237406209/795882566968279091/1227406202896519279
+- https://discord.com/channels/410126604237406209/682645682968199168/1227739981787955383
+- oao
+- cvr roda
+- https://github.com/aras-p/UnityGaussianSplatting
+- https://discord.com/channels/410126604237406209/588350770777161748/1228325791184584836
+- https://docs.google.com/document/d/1-Ligv580j0qncl-03Pq_SWJhioYAbvr33DVzLX9BKY0/edit
+- https://discord.com/channels/410126604237406209/797279576459968555/1228035643150565397
+- https://youtube.com/shorts/FlyaD7QZWpE?si=Y-BmTrEnFxldDBgT
+- roda
+- cvr troai
+- https://discord.com/channels/410126604237406209/1004342533964439592/1227761887324672030
+- https://discord.com/channels/410126604237406209/588350685255565344/1228415937686933544
+- https://ieeexplore.ieee.org/document/1654527 **paid**
+- https://discord.com/channels/410126604237406209/588350685255565344/1228418812869869598
+- https://scholarworks.sjsu.edu/cgi/viewcontent.cgi?article=1249&context=etd_projects
+- https://youtu.be/gzLcosxkgGc?si=MmWzF1vjc_clSYQu
+- https://godotengine.org/asset-library/asset?filter=Behavior&category&godot_version&cost&sort=updated
+- https://youtube.com/shorts/oB7LvNWgyHI?si=oTa0JhYRLHspHIMR
+- troai
+- https://www.youtube.com/live/dYTuZMRFhFY?si=GbBDhNMw6wvjAAxj coachella?!?!?
+- https://youtube.com/shorts/UEz8ZI_dYwE?si=6tAj01syXnfiCeby 3d print tetris gameboy. Cvr augus
+- https://cults3d.com/en/3d-model/game/mini-tetris-gameboy-retro-console-and-container **PAID**
+- https://youtube.com/shorts/UiNI9k4E-Go?si=sZ6xOv04vwkROqcK here, cvr aaaaaaaaaguaaa
+- https://printables.com/model/398296-flexible-gripper
+- cvr aaa
+- https://discord.com/channels/716536783621587004/1220944586361536683/1224101215638388868
+- https://discord.com/channels/889254205532024832/889263171561459722/1066340252685439006
+- https://github.com/godotengine/godot/pull/86430
+- https://ask.vrchat.com/t/developer-update-14-march-2024/23401
+- https://discord.com/channels/471446618156040210/471485271179919360/1218049741732970566
+- aaa
+- cvr pontu
+- https://discord.com/channels/716536783621587004/1220944586361536683/1227216781777702972 beta meetup nsfw
+- https://discord.com/channels/410126604237406209/588350726841827358/1227693564889399346
+- pontu
+- cvr joga
+- https://discord.com/channels/410126604237406209/797279576459968555/1208595743053713461
+- https://discord.com/channels/410126604237406209/797279576459968555/1208971724104671252
+- https://discord.com/channels/410126604237406209/588350770777161748/1227446092237639801
+- https://discord.com/channels/1053364052488888351/1053413145491808378/1227269899307581541 new!!! Steam Audio new!!!
+- joga
+- cvr eaaa
+- https://discord.com/channels/969594520901664779/1034608320843108443/1227096136561725460
+- eaaa
+- https://youtu.be/2NLWcvG_gqg?si=SsDSWSbw6yLjlW-z
+- https://youtube.com/shorts/-fuqu7uklL8?si=z_HOhsVFJ6HYMXgW
+- https://youtube.com/shorts/6xOexpdyd0I?si=F4P4-HDZuKjXG4Sd
+- https://youtu.be/Xf_4xU4z_Uk?si=QMqV-soovmqHXptY
+- https://www.youtube.com/live/DKfKBMhQ4ac?si=ZZZeF77NcAb7MqvN
+- https://youtube.com/shorts/gYAsmjIwdG8?si=DFhUN2sb8tpJIETF
+- https://youtube.com/shorts/j9eRXe66VfA?si=9h1XxS4WdCdscXDr
+- https://youtube.com/shorts/6ngdqJYz3tU?si=_FL7TcUMKGLy3ZKL
+- https://youtu.be/eKdxj0xm2yY?si=drnj91BJ9VFM9ppM
+- https://ninodefoq.gumroad.com/l/mossifyfree **DEMO**
+- https://ninodefoq.gumroad.com/l/mossify **PAID**
+- https://youtu.be/Flyoes8qJBU?si=p6hzOkU2ZW9FYmQy
+- https://ninodefoq.gumroad.com/l/cornrows
+- https://ninodefoq.gumroad.com/
+- https://blackjackgofish.gumroad.com
+- https://www.hive-rd.com/blog/how-to-create-a-unity3d-object-that-sticks-to-surfaces-when-thrown/
+- https://discussions.unity.com/t/how-to-make-an-object-stick-to-the-surface/135301/2
+- https://discussions.unity.com/t/place-object-on-a-surface-in-editor/32982/2
+- https://forum.unity.com/threads/dropping-objects-on-a-plane-that-behaves-like-water-surface.254570/
+- https://gamedev.stackexchange.com/questions/198678/easy-way-to-position-object-so-its-precisely-at-terrain-surface
+- https://youtu.be/ZgCV6WNQEkw?si=w9zHDySKrrPudyrS
+- https://ko-fi.com/hasermedia FuztrakFM ko-fi
+- https://cytu.be/r/HomestuckCommunityStream
+- https://ghostly.gumroad.com
+- https://youtube.com/shorts/cKKFuTLTdLs?si=QLPZJgZbEE9hDl7x
+- https://skfb.ly/6UWoN cup
+- https://www.medicalholodeck.com/en/human-anatomy-atlas-anatomy-master-2/
+- https://youtu.be/aLKB9pNxA5g
