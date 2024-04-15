@@ -46,6 +46,7 @@ New Sauce lists
 - https://github.com/Markcreator/VRChat-Tools
 - https://github.com/Markcreator/Unity-Tools
 - https://youtu.be/hr7GyFM7pX4?si=4vFs6RgKwFHShIiC DairyOrange Fart Extra Reverb
+- https://youtu.be/5VM0tQ7GDNc kmlkljkl had fart origin
 - https://github.com/MilchZocker?tab=repositories Source code of every MilchZocker
 - https://mikedabird.itch.io/avigen
 - https://docs.google.com/document/d/1diQRcDXPP_qaf0yT6INq4UhrhlawIQ_GLs2yjtUutAE/edit#heading=h.p9e4plmyq5cr
@@ -5902,3 +5903,42 @@ https://youtu.be/qzhuWRQWK5I?si=PygoI274O32LWD5a
 - https://skfb.ly/6UWoN cup
 - https://www.medicalholodeck.com/en/human-anatomy-atlas-anatomy-master-2/
 - https://youtu.be/aLKB9pNxA5g
+- https://github.com/MilchZocker/Wiki-ChilloutVR Unofficial CVR Wiki source code
+- https://wiki.chilloutvr.eu for this.
+- https://ko-fi.com/s/dd88a9665b new ironwolf's file, mimi sentry thicc
+- https://steamcommunity.com/sharedfiles/filedetails/?id=3219576105
+- https://steamcommunity.com/sharedfiles/filedetails/?id=3196508261
+- https://github.com/sinai-dev/UniverseLib
+- https://github.com/kafeijao/Kafe_CVR_Mods/issues
+- https://github.com/sinai-dev/UnityExplorer?tab=readme-ov-file
+- https://github.com/SamboyCoding/Cpp2IL
+- https://github.com/SDraw/ml_mods_cvr
+- https://github.com/SDraw/CVRLua/wiki/Scripting-tips
+- https://www.blender.org/download/releases/4-1/
+- https://gh.ltgc.cc/octavia/test/
+- https://youtu.be/_b8zlDSq8UE?si=BdcMq4L55YE0Fj0D
+- https://discord.com/channels/410126604237406209/588350726841827358/1226303924340916284
+- https://discord.com/channels/410126604237406209/797279576459968555/1208595743053713461
+- https://discord.com/channels/410126604237406209/588350685255565344/1229200582804246619
+- https://github.com/aras-p/UnityGaussianSplatting
+- https://gist.github.com/Nirv-git/3c186f91273c006ff66ef8d5cdb05e6a
+- https://feedback.abinteractive.net/p/blocked-avatar-rotation-bug-fix
+- https://feedback.abinteractive.net/p/official-cvr-wiki
+- https://feedback.abinteractive.net/p/steam-audio-for-players
+- https://feedback.abinteractive.net/p/steam-audio-for-players
+- https://feedback.abinteractive.net/p/prop-spawning-flying-permissions-zones-for-worlds
+- https://github.com/inoook/UnityMatCapShader
+- https://nova-works.booth.pm/ Vianvolaeus
+- https://github.com/Vianvolaeus/blender-matcap-generator
+- https://github.com/VoyVivika/VivikaShader/
+- https://github.com/aras-p/UnityGaussianSplatting
+- https://github.com/MochiesCode/Mochies-Unity-Shaders
+- https://github.com/SDraw/CVRLua/wiki/Scripting-tips
+- https://avislime.gumroad.com/p/kyliin-redux-1-5-release-free-discount-code
+- https://avislime.itch.io/
+- https://avislime.gumroad.com
+- https://youtu.be/9i9BhZ1quU0?si=Np1FL06GMS8yRL1N sacabambaspis
+- https://youtu.be/HRXDvH6TylY?si=VNJGftPxEViu_CEn jp
+- https://youtu.be/-9N5ZK2M2qw?si=wZ_xr7aw6GK7H0_2 sound en
+- https://youtu.be/aPkwGhwU_FY?si=a9s8UqtL0stMyMYk
+- https://skfb.ly/6rRY7 Turing

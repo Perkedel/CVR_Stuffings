@@ -64,7 +64,7 @@ Below are assets that are not included and **must be installed prior of usage an
 - PolyBrush. Space saving, **CORE MODULE**.
   - Install this in `Assets`, `View in Package Manager`.
 - [Magica Cloth 1](https://assetstore.unity.com/packages/tools/physics/magica-cloth-160144) & [2 the sequel](https://assetstore.unity.com/packages/tools/physics/magica-cloth-2-242307). Paywalled
-- Glenskunk's [Cartoon Heart](https://glenskunk.gumroad.com/l/toonheartforVR?layout=profile) & [rest of them](https://glenskunk.gumroad.com/) ([alt](https://jinxxy.com/GlenSkunk?jc=c52ec67a13d09e3c89aaddcb76f108d62e2d254afe4fa1477865)) ([**NEW**](https://glenskunk.itch.io/)). **Paywalled**
+- Glennskunk's [Cartoon Heart](https://glenskunk.gumroad.com/l/toonheartforVR?layout=profile) & ~~[rest of them](https://glenskunk.gumroad.com/)~~ ([alt](https://jinxxy.com/GlenSkunk?jc=c52ec67a13d09e3c89aaddcb76f108d62e2d254afe4fa1477865)) ([**NEW**](https://glenskunk.itch.io/)). **Paywalled**. **Gumroad betrayed us all with new policy!!**
 - [Gan Servo's Heartbeat connector for VRChat](https://garnservo.gumroad.com/l/Heartbeat?layout=profile). **Paywalled**, **INCOMPATIBLE PLS PORT**. using [HR2VRC](https://hrtovrchat.fortnite.lol/setup) ([HR2VRC DISCONTINUED 2024-01-01](https://hrtovrchat.fortnite.lol/discontinuation))
 - [Realistic Car Controller](https://assetstore.unity.com/packages/tools/physics/realistic-car-controller-16296). **Paywalled**
 - [Fluff's VRC Avatar Toolbox](https://fluffs.gumroad.com/l/flufftoolbox). **Paywalled**
@@ -486,6 +486,7 @@ Here are the UUIDs of all these assets we uploaded to CVR:
 | `12d3cc16-e202-48ad-900a-99c41d2d6130` | I'm very shy! | JOELwindows7 | . |
 | `89090a15-d3a4-4510-b55b-4299248cf743` | Lua Script Coming soon-ish | JOELwindows7 | . |
 | `caca50c3-6a82-48c2-a3dd-8932926b44a1` | Vivox broke on me | JOELwindows7 | . |
+| `c79b0255-fdaa-491d-9b6d-a884e5e9308b` | New Mic still broke | JOELwindows7 | Vivox has been deprecated, CVR now uses own custom voicer which is more reliable. But not always you can get stable connection. Depends on your internet stability. |
 | `f3f97796-cf65-439a-b1f6-b51d3c7950b3` | Sorry your mic broke | JOELwindows7 | . |
 | `19687a1c-c451-40d1-9031-ab714de3a96e` | Have you tried leave and join | JOELwindows7 | . |
 | `effa41a5-6a46-4119-a21b-8f40369fa8e8` | No it doesn't work | JOELwindows7 | . |
