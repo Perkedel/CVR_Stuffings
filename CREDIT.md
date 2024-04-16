@@ -5967,3 +5967,9 @@ https://youtu.be/qzhuWRQWK5I?si=PygoI274O32LWD5a
 - https://github.com/z3y/ShaderGraphZ
 - https://github.com/z3y/shaders
 - https://design.ubuntu.com/font
+- cvr cerveza cristal
+- https://discord.com/channels/410126604237406209/797279576459968555/1229509784424677470
+- https://discord.com/channels/410126604237406209/588350770777161748/1229428326112694374
+- https://discord.com/channels/410126604237406209/795882566968279091/1229446264844845087
+- cerveza cristal
+- cvr physic chair teleport!
