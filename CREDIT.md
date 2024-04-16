@@ -2061,8 +2061,8 @@ New Sauce lists
 - https://patreon.com/AngelBoy Substance Painter file paid
 - https://discord.gg/XNfdDHg Void Angel discord
 - https://tinyurl.com/NexaVRC unofficial VRChat package of Nexavali.
-- https://javenchiart.gumroad.com all paid as of 2023-12-18
-- https://javenchiart.gumroad.com/ paid all as of 2023-12-18
+- https://javenchiart.gumroad.com all PAID as of 2023-12-18
+- https://javenchiart.gumroad.com/ all PAID as of 2023-12-18
 - I said Paywalled. DId not bought any these yet. ... None are here.
 - Flutevali is complicated reach out! ask on X, cost USD 60 **NOT GOOD**! here https://tinyurl.com/FluteAvatar
 - https://twitter.com/FluteBirdie/status/1458308021650481153 shit. it's gone.
@@ -5942,3 +5942,28 @@ https://youtu.be/qzhuWRQWK5I?si=PygoI274O32LWD5a
 - https://youtu.be/-9N5ZK2M2qw?si=wZ_xr7aw6GK7H0_2 sound en
 - https://youtu.be/aPkwGhwU_FY?si=a9s8UqtL0stMyMYk
 - https://skfb.ly/6rRY7 Turing
+- http://graduate.uinjkt.ac.id/?p=22447 sample of thesis title ID
+- https://www.mastersthesiswriting.com/blog/thesis-help/how-to-create-a-thesis-title.html EN. no, this is not sample!
+- https://www.qmss.columbia.edu/thesis-titles there you are
+- prepare lolatron files & tutorials
+- https://youtu.be/Q9kK27o5GE8
+- https://youtu.be/WnDOr75Rs9A
+- ok
+- https://github.com/MrNeRF/awesome-3D-gaussian-splatting
+- https://github.com/aras-p/UnityGaussianSplatting
+- https://questingcrusader.gumroad.com
+- https://jinxyuwu.gumroad.com
+- https://jinxyuwu.gumroad.com/l/fdwqx
+- https://emberavali.gumroad.com
+- https://jupiturn.gumroad.com
+- https://jupiturn.gumroad.com/l/Galavali **PAID**
+- https://angriestscv.gumroad.com
+- https://avislime.gumroad.com/
+- https://skfb.ly/oLAEU Hoshi Avali
+- https://vrcfury.com/
+- https://adjerry91.github.io/VRCFaceTracking-Templates/
+- https://emberavali.gumroad.com/l/Hoshi
+- https://font.ubuntu.com
+- https://github.com/z3y/ShaderGraphZ
+- https://github.com/z3y/shaders
+- https://design.ubuntu.com/font
