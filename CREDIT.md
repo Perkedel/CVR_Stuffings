@@ -5973,3 +5973,7 @@ https://youtu.be/qzhuWRQWK5I?si=PygoI274O32LWD5a
 - https://discord.com/channels/410126604237406209/795882566968279091/1229446264844845087
 - cerveza cristal
 - cvr physic chair teleport!
+- https://voxid.gumroad.com **GONE**
+- https://en.key-test.ru/
+- magica game?????????????????
+- Kon?!??!?
