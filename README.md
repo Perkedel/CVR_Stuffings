@@ -485,6 +485,7 @@ Here are the UUIDs of all these assets we uploaded to CVR:
 | `d3afa62b-3524-46b9-93fd-519dd91a63da` | I'm so sorry, I didn't mean to freeze you! | JOELwindows7 | . |
 | `12d3cc16-e202-48ad-900a-99c41d2d6130` | I'm very shy! | JOELwindows7 | . |
 | `89090a15-d3a4-4510-b55b-4299248cf743` | Lua Script Coming soon-ish | JOELwindows7 | . |
+| `d7df28fa-082d-4e15-83be-b9e88a622da5` | Mavrickle | JOELwindows7 | Placeholder image |
 | `caca50c3-6a82-48c2-a3dd-8932926b44a1` | Vivox broke on me | JOELwindows7 | . |
 | `c79b0255-fdaa-491d-9b6d-a884e5e9308b` | New Mic still broke | JOELwindows7 | Vivox has been deprecated, CVR now uses own custom voicer which is more reliable. But not always you can get stable connection. Depends on your internet stability. |
 | `f3f97796-cf65-439a-b1f6-b51d3c7950b3` | Sorry your mic broke | JOELwindows7 | . |
@@ -492,6 +493,7 @@ Here are the UUIDs of all these assets we uploaded to CVR:
 | `effa41a5-6a46-4119-a21b-8f40369fa8e8` | No it doesn't work | JOELwindows7 | . |
 | `7cd0db37-36b2-4848-874f-5aab7a1b4c5e` | I have to leave | JOELwindows7 | I must sleep tonight now. |
 | `959f019a-3c8f-4e5e-9a54-7870ffea3750` | Discord say Hi accident | JOELwindows7 | I'm very sorry. |
+| `75757afe-d74c-4cbb-a467-c87d861ff192` | Why capsule collider | JOELwindows7 | default collider error. |
 | `2d106677-d4d3-4671-b960-fa0c6dda30a1` | A Failed Car | JOELwindows7 | **RCC is not $0!!!** How do we supposed to car?! |
 | `3f562c88-e8d6-4b39-827c-a910588bc4e6` | DynBonen | JOELwindows7 | . |
 | `ddb5a8b0-758e-4469-a181-5c5e959bab07` | Le Among Us | JOELwindows7 | hfcRed's among us follower demo |
@@ -511,6 +513,7 @@ Here are the UUIDs of all these assets we uploaded to CVR:
 | `dc317a48-39d2-40da-a3e3-27168334d43f` | Orange Fragrance | JOELwindows7 | Stella Jeruk |
 | `d2498a2c-dad3-4fa0-8761-3f6712f28e6f` | The Power of the Sun | JOELwindows7 | In the palm of my hand |
 | `07799d34-1333-4d9e-ab99-557faa694e47` | The Absolver | JOELwindows7 | In the palm of my hand |
+| `34243d71-25b5-4c65-9119-29a206918835` | Portable YuTub | JOELwindows7 | Portable Video player     |
 | `140ca808-7a9a-49c3-9296-3f49127f04ea` | Sex Dice Tutorial card | JOELwindows7 | **NSFW** How to DIY Lewd dice. |
 | `cae8af07-97be-4595-a5a8-1114caf6eec5` | Soklong Clock | JOELwindows7 | **Experimental** Aesthetically minimalist clock |
 | `1ab3f86d-2ec3-4c81-b582-9f53807643d4` | Auto Lazy Suzan | JOELwindows7 | **Experimental** Same as Soklong clock, but only second hand and that's the Suzan area. |
