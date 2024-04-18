@@ -5978,4 +5978,9 @@ https://youtu.be/qzhuWRQWK5I?si=PygoI274O32LWD5a
 - magica game?????????????????
 - Kon?!??!?
 - https://www.w3schools.com/tags/tag_img.asp
-- 
+- https://discord.com/channels/722818587475050577/755348017799888927/1230323283778469908 tf2 blender pls
+- https://github.com/hisprofile/blenderstuff/blob/main/Creations/Source%20Engine%20Blender%20Collection.md#portal-2
+- https://www.twitch.tv/djmissshelton
+- blake. you take the mooon
+- https://skfb.ly/oEru6 biden
+- B left hand / ESC menu
