@@ -5984,3 +5984,6 @@ https://youtu.be/qzhuWRQWK5I?si=PygoI274O32LWD5a
 - blake. you take the mooon
 - https://skfb.ly/oEru6 biden
 - B left hand / ESC menu
+- https://reactos.org/blogs/gui-setup-part3-first-testing-problems/
+- https://spongebob.gavinr.com/
+- https://github.com/ctrlcctrlv/some-time-later
