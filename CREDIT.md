@@ -5986,4 +5986,8 @@ https://youtu.be/qzhuWRQWK5I?si=PygoI274O32LWD5a
 - B left hand / ESC menu
 - https://reactos.org/blogs/gui-setup-part3-first-testing-problems/
 - https://spongebob.gavinr.com/
-- https://github.com/ctrlcctrlv/some-time-later
+- https://github.com/ctrlcctrlv/some-time-later Spongebob time card font
+- https://reactos.org/wiki/Install_a_driver
+- https://www.snappy-driver-installer.org/ use origin instead according to MJD 2024 test yesterday
+- https://sourceforge.net/projects/snappy-driver-installer-origin
+- https://www.glenn.delahoy.com/snappy-driver-installer-origin/
