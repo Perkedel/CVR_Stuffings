@@ -5991,3 +5991,32 @@ https://youtu.be/qzhuWRQWK5I?si=PygoI274O32LWD5a
 - https://www.snappy-driver-installer.org/ use origin instead according to MJD 2024 test yesterday
 - https://sourceforge.net/projects/snappy-driver-installer-origin
 - https://www.glenn.delahoy.com/snappy-driver-installer-origin/
+- cat cat cat cat cat cat cat cat cat song
+- amarillo but sings ambatukam remix
+- https://discord.com/channels/410126604237406209/797279576459968555/1230959943834931312
+- https://discord.com/channels/410126604237406209/588350685255565344/1231066470985891870
+- https://discord.com/channels/410126604237406209/588350726841827358/1230927624382189659
+- https://discord.com/channels/410126604237406209/1004342533964439592/1230997726045409301
+- https://discord.com/channels/410126604237406209/412210535443202049/1230639085698154506
+- https://discord.com/channels/410126604237406209/412210535443202049/1230684624947253278
+- https://discord.com/channels/410126604237406209/412210535443202049/1230684624947253278 nahida
+- https://discord.com/channels/410126604237406209/412210535443202049/1230684887300706418
+- https://discord.com/channels/410126604237406209/412210535443202049/1230748901586370572
+- https://discord.com/channels/410126604237406209/412210535443202049/1230748901586370572
+- https://youtu.be/JycmJGC4RbU?t=15
+- https://youtu.be/3jYQ7Fj_5WA?t=4
+- https://discord.com/channels/410126604237406209/412210535443202049/1230749160270069821
+- https://www.youtube.com/watch?v=A6AxuXX7nic
+- MuteTTS
+- XSOverlay?????
+- https://github.com/Keiannai/Prop-Game-Table-System-for-CVR new prop of Keiannai!
+- https://discord.com/channels/410126604237406209/1195601585720528976/1230842314612805644 thancc! cool and good
+- https://reactos.org/blogs/gui-setup-part3-first-testing-problems/
+- https://www.youtube.com/watch?v=qiheRTcwkc4 Adult Swim Anniversary, Space Ghost
+- https://www.youtube.com/watch?v=wWPIsnnIKmo ambient swim
+- https://www.youtube.com/watch?v=rafQwY9n_M0 haaah?
+- https://www.youtube.com/watch?v=9FDUSlHIbjM
+- https://www.youtube.com/shorts/gekN9GNqLms
+- https://www.youtube.com/watch?v=yQHWJDuD2C8
+- https://www.youtube.com/watch?v=7wkVGcdI2vk
+- https://discord.com/channels/410126604237406209/588350726841827358/1231147037701967942
