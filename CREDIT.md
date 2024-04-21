@@ -6020,3 +6020,19 @@ https://youtu.be/qzhuWRQWK5I?si=PygoI274O32LWD5a
 - https://www.youtube.com/watch?v=yQHWJDuD2C8
 - https://www.youtube.com/watch?v=7wkVGcdI2vk
 - https://discord.com/channels/410126604237406209/588350726841827358/1231147037701967942
+- mal0 pls?
+- .
+- You unpornable hobbies?
+- Bruh what do you talkin about?
+- sir, it's MIDI
+- What do you mean `MIDI`?! I can inject MIDI files to instruct vibrators..
+- .
+- portable camera issue. alpha transparency disables show user interface. retoggle to work around.
+- https://www.twitch.tv/65o2
+- Proverb 22:6
+- Proverb 19:18
+- Rome 1:22-57
+- Imamat 18:22
+- Imamat 20:13
+- https://discord.com/channels/410126604237406209/797279576459968555/1231429338130550895
+- https://discord.com/channels/410126604237406209/588350726841827358/1231297546983440454
