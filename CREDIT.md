@@ -6036,3 +6036,6 @@ https://youtu.be/qzhuWRQWK5I?si=PygoI274O32LWD5a
 - Imamat 20:13
 - https://discord.com/channels/410126604237406209/797279576459968555/1231429338130550895
 - https://discord.com/channels/410126604237406209/588350726841827358/1231297546983440454
+- https://en.wikipedia.org/wiki/Ludo#/media/File:Ludo_paths.svg cmglee's ludo board with path. Parchesi
+- https://en.wikipedia.org/wiki/Ludo
+- https://youtu.be/IHkRjn8XVtw?si=CeglviFkympvdCGH
