@@ -6039,3 +6039,39 @@ https://youtu.be/qzhuWRQWK5I?si=PygoI274O32LWD5a
 - https://en.wikipedia.org/wiki/Ludo#/media/File:Ludo_paths.svg cmglee's ludo board with path. Parchesi
 - https://en.wikipedia.org/wiki/Ludo
 - https://youtu.be/IHkRjn8XVtw?si=CeglviFkympvdCGH
+- https://black-horizon-studios.gitbook.io/emerald-ai-wiki
+- https://assetstore.unity.com/packages/tools/behavior-ai/emerald-ai-3-0-203904
+- https://warrenwolfy.gumroad.com/l/atntv **PAID** with demo
+- https://warrenwolfy.gumroad.com/
+- https://github.com/Off-World-Live/obs-spout2-plugin
+- https://github.com/you-win/spout-gd/
+- https://spout.zeal.co/
+- https://github.com/maybites/blender-texture-sharing/
+- https://processing.org/
+- https://openframeworks.cc/
+- https://openframeworks.cc/examples/
+- https://openframeworks.cc/examples/3d/3DPrimitivesExample/
+- https://resolume.com/
+- https://resolume.com/
+- https://github.com/videodromm/
+- https://github.com/keijiro/KlakSpout
+- https://github.com/LucHeart/CVR_Mods/tree/master/Spout
+- https://vvvv.org/
+- https://github.com/maybites/blender-texture-sharing/releases/tag/V6.0.0
+- https://github.com/maybites/blender.script.spout/
+- https://github.com/LucHeart/CVR_Mods/tree/master/Spout
+- https://www.youtube.com/watch?v=s-9UHZFBH08
+- https://youtu.be/stcpE77A4Vc?si=ZRXQly7JArkkt6hW
+- https://www.youtube.com/watch?v=L5Fus7qbRZM
+- https://feedback.abinteractive.net/p/more-avatar-animator-parameters
+- https://feedback.abinteractive.net/p/more-avatar-animator-parameters 
+- https://feedback.abinteractive.net/p/more-avatar-animator-parameters
+- https://feedback.abinteractive.net/p/more-avatar-animator-parameters
+- https://twitter.com/vidavoxel/status/1257414581925941250?t=kB_Bgz2S8OK-W2CVJPyi0g&s=19 vidavoxel UwaC
+- https://github.com/YamikarasuMk22/HeartBeatSimulator
+- https://twitter.com/futayami_abn/status/1782064410351309070?t=rvyMsoHPYY9IR6QnwQEOnQ&s=19
+- https://www.conventionalcommits.org/en/v1.0.0/
+- https://b.tyrano.jp/ 
+- https://store.steampowered.com/app/345370/TyranoBuilder_Visual_Novel_Studio/ **PAID**
+- https://www.live2d.com/
+- https://discord.com/channels/410126604237406209/1004342700465733754/1231424961969918003
