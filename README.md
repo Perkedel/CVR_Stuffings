@@ -575,9 +575,13 @@ For employee: **DO NOT LOSE THE GUID!! MAKE SURE IT IS STILL ATTACHED, & IS SAME
 - Emission = 255,170,0
 - No Horn
 - Short Hair
+- Chest Fur 0
 - Dome visor
 - Single Pair
+- Short Tail
 - Regular size (3%)
+- Armor Extrude 20
+- Panel Convex 40
 
 ### Control Bola
 
