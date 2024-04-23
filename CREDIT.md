@@ -6009,7 +6009,7 @@ https://youtu.be/qzhuWRQWK5I?si=PygoI274O32LWD5a
 - https://www.youtube.com/watch?v=A6AxuXX7nic
 - MuteTTS
 - XSOverlay?????
-- https://github.com/Keiannai/Prop-Game-Table-System-for-CVR new prop of Keiannai!
+- https://github.com/Keiannai/Prop-Game-Table-System-for-CVR **ESSENTIAL** new prop of Keiannai!
 - https://discord.com/channels/410126604237406209/1195601585720528976/1230842314612805644 thancc! cool and good
 - https://reactos.org/blogs/gui-setup-part3-first-testing-problems/
 - https://www.youtube.com/watch?v=qiheRTcwkc4 Adult Swim Anniversary, Space Ghost
@@ -6075,3 +6075,40 @@ https://youtu.be/qzhuWRQWK5I?si=PygoI274O32LWD5a
 - https://store.steampowered.com/app/345370/TyranoBuilder_Visual_Novel_Studio/ **PAID**
 - https://www.live2d.com/
 - https://discord.com/channels/410126604237406209/1004342700465733754/1231424961969918003
+- https://www.deviantart.com/thhypercombine12/art/SCP-1471-Mal0-Download-in-desc-876944239
+- https://steamcommunity.com/sharedfiles/filedetails/?id=2575010824
+- https://www.reddit.com/r/blender/comments/m7ryit/scp1471_mal0_model/ **NO DOWNLOAD**
+- https://sketchfab.com/tags/malo
+- https://osmc.tv/
+- https://libreelec.tv/
+- https://discord.com/channels/963254775321862264/1072802004872744980/1229529404078690525
+- https://discord.com/channels/963254775321862264/1072802004872744980/1230114660343087155
+- https://vxtwitter.com/itsybitsybarney/status/1780009179178315949
+- https://discord.com/channels/963254775321862264/1072802004872744980/1231216061697753160
+- https://discord.com/channels/963254775321862264/1093215846505127966/1215684941157765202
+- https://discord.com/channels/963254775321862264/1072802365092147220/1230646505908473877
+- https://en.wikipedia.org//wiki/Behavioral_sink
+- https://en.wikipedia.org/wiki/Cock_and_ball_torture
+- https://en.wikipedia.org/wiki/Cock_and_ball_torture
+- https://discord.com/channels/410126604237406209/412210535443202049/1232149843888312390 hey
+- https://booth.pm/en/items/3855451 **PAID** new base!
+- https://booth.pm/en/items/5675322 **PAID**
+- https://tori-nyan.booth.pm/items/5661424 **PAID**
+- https://booth.pm/en/items/3297936
+- https://osuosl.org/
+- https://docs.unity3d.com/Packages/com.unity.burst@0.2/manual/index.html
+- https://kodi.tv/article/kodi-20-5-nexus-release/
+- https://kodi.tv/article/kodi-21-0-omega-release/
+- https://kodi.tv/article/forum-data-breach-lessons-learned-actions-taken/
+- https://kodi.tv/article/piracy-box-sellers-and-youtube-promoters-are-killing-kodi/
+- https://forum.kodi.tv/showthread.php?tid=362114
+- https://forum.kodi.tv/showthread.php?tid=362113
+- https://answers.microsoft.com/en-us/windows/forum/all/option-to-change-network-from-public-to-private/1febf833-5e16-4718-8e38-19ed9ac48b29
+- https://learn.microsoft.com/en-us/answers/questions/73866/how-to-change-network-settings-from-public-to-priv
+- https://superuser.com/a/1160433/1036816
+- https://www.tenforums.com/tutorials/6815-set-network-location-private-public-domain-windows-10-a.html
+- https://github.com/Keiannai/Prop-Game-Table-System-for-CVR/releases/tag/v1.2 pls update! done
+- https://forum.unity.com/threads/what-versions-of-the-package-are-currently-available-and-released.1296705/
+- https://docs.unity3d.com/Manual/upm-ui-update.html
+- https://docs.unity3d.com/Packages/com.unity.mathematics@1.3/changelog/CHANGELOG.html how the hell did you kept being on the older version while so many packages already been designed for this exact Unity version & perhaps exceeds?
+- https://docs.unity3d.com/Packages/com.unity.animation.rigging@1.3/changelog/CHANGELOG.html

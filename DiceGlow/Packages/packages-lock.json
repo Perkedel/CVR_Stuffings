@@ -15,8 +15,8 @@
       "hash": "71f4fa6785235920559e7c9778fde0f8bdb3439b"
     },
     "com.autodesk.fbx": {
-      "version": "4.1.2",
-      "depth": 2,
+      "version": "5.1.1",
+      "depth": 1,
       "source": "registry",
       "dependencies": {},
       "url": "https://packages.unity.com"
@@ -96,7 +96,7 @@
     },
     "com.unity.burst": {
       "version": "1.8.2",
-      "depth": 2,
+      "depth": 0,
       "source": "registry",
       "dependencies": {
         "com.unity.mathematics": "1.2.1"
@@ -170,12 +170,12 @@
       }
     },
     "com.unity.formats.fbx": {
-      "version": "4.1.3",
-      "depth": 1,
+      "version": "5.1.1",
+      "depth": 0,
       "source": "registry",
       "dependencies": {
-        "com.unity.timeline": "1.5.2",
-        "com.autodesk.fbx": "4.1.2"
+        "com.unity.timeline": "1.7.1",
+        "com.autodesk.fbx": "5.1.1"
       },
       "url": "https://packages.unity.com"
     },
@@ -235,8 +235,8 @@
       "url": "https://packages.unity.com"
     },
     "com.unity.mathematics": {
-      "version": "1.2.6",
-      "depth": 1,
+      "version": "1.3.2",
+      "depth": 0,
       "source": "registry",
       "dependencies": {},
       "url": "https://packages.unity.com"
@@ -284,6 +284,15 @@
       },
       "url": "https://packages.unity.com"
     },
+    "com.unity.recorder": {
+      "version": "3.0.3",
+      "depth": 1,
+      "source": "registry",
+      "dependencies": {
+        "com.unity.timeline": "1.0.0"
+      },
+      "url": "https://packages.unity.com"
+    },
     "com.unity.render-pipelines.core": {
       "version": "12.1.11",
       "depth": 1,
@@ -292,31 +301,6 @@
         "com.unity.ugui": "1.0.0",
         "com.unity.modules.physics": "1.0.0",
         "com.unity.modules.jsonserialize": "1.0.0"
-      }
-    },
-    "com.unity.render-pipelines.high-definition": {
-      "version": "12.1.11",
-      "depth": 1,
-      "source": "builtin",
-      "dependencies": {
-        "com.unity.mathematics": "1.2.4",
-        "com.unity.burst": "1.8.2",
-        "com.unity.modules.video": "1.0.0",
-        "com.unity.modules.animation": "1.0.0",
-        "com.unity.modules.imageconversion": "1.0.0",
-        "com.unity.modules.terrain": "1.0.0",
-        "com.unity.render-pipelines.core": "12.1.11",
-        "com.unity.shadergraph": "12.1.11",
-        "com.unity.visualeffectgraph": "12.1.11",
-        "com.unity.render-pipelines.high-definition-config": "12.1.11"
-      }
-    },
-    "com.unity.render-pipelines.high-definition-config": {
-      "version": "12.1.11",
-      "depth": 2,
-      "source": "builtin",
-      "dependencies": {
-        "com.unity.render-pipelines.core": "12.1.11"
       }
     },
     "com.unity.searcher": {
@@ -383,8 +367,8 @@
       "url": "https://packages.unity.com"
     },
     "com.unity.timeline": {
-      "version": "1.6.5",
-      "depth": 0,
+      "version": "1.7.1",
+      "depth": 1,
       "source": "registry",
       "dependencies": {
         "com.unity.modules.director": "1.0.0",
@@ -409,15 +393,6 @@
       "source": "registry",
       "dependencies": {},
       "url": "https://packages.unity.com"
-    },
-    "com.unity.visualeffectgraph": {
-      "version": "12.1.11",
-      "depth": 2,
-      "source": "builtin",
-      "dependencies": {
-        "com.unity.shadergraph": "12.1.11",
-        "com.unity.render-pipelines.core": "12.1.11"
-      }
     },
     "com.unity.visualscripting": {
       "version": "1.8.0",
@@ -549,21 +524,19 @@
       "dependencies": {},
       "url": "https://registry.npmjs.com"
     },
+    "jp.keijiro.ffmpeg-out": {
+      "version": "1.0.5",
+      "depth": 0,
+      "source": "registry",
+      "dependencies": {},
+      "url": "https://registry.npmjs.com"
+    },
     "jp.keijiro.kino.aqua": {
       "version": "2.1.0",
       "depth": 0,
       "source": "registry",
       "dependencies": {
         "com.unity.render-pipelines.core": "12.1.0"
-      },
-      "url": "https://registry.npmjs.com"
-    },
-    "jp.keijiro.kino.post-processing.hatch": {
-      "version": "1.0.0",
-      "depth": 0,
-      "source": "registry",
-      "dependencies": {
-        "com.unity.render-pipelines.high-definition": "7.3.1"
       },
       "url": "https://registry.npmjs.com"
     },
@@ -574,6 +547,24 @@
       "dependencies": {},
       "url": "https://registry.npmjs.com"
     },
+    "jp.keijiro.klak.math": {
+      "version": "2.1.0",
+      "depth": 0,
+      "source": "registry",
+      "dependencies": {
+        "com.unity.mathematics": "1.2.6"
+      },
+      "url": "https://registry.npmjs.com"
+    },
+    "jp.keijiro.klak.ndi": {
+      "version": "2.1.0",
+      "depth": 0,
+      "source": "registry",
+      "dependencies": {
+        "com.unity.modules.screencapture": "1.0.0"
+      },
+      "url": "https://registry.npmjs.com"
+    },
     "jp.keijiro.klak.spout": {
       "version": "2.0.3",
       "depth": 0,
@@ -581,6 +572,25 @@
       "dependencies": {
         "com.unity.modules.screencapture": "1.0.0"
       },
+      "url": "https://registry.npmjs.com"
+    },
+    "jp.keijiro.klak.testtools": {
+      "version": "1.2.0",
+      "depth": 0,
+      "source": "registry",
+      "dependencies": {
+        "com.unity.modules.audio": "1.0.0",
+        "com.unity.modules.unitywebrequest": "1.0.0",
+        "com.unity.modules.unitywebrequesttexture": "1.0.0",
+        "com.unity.modules.video": "1.0.0"
+      },
+      "url": "https://registry.npmjs.com"
+    },
+    "jp.keijiro.klak.util": {
+      "version": "1.0.0",
+      "depth": 0,
+      "source": "registry",
+      "dependencies": {},
       "url": "https://registry.npmjs.com"
     },
     "jp.keijiro.metamesh": {
@@ -613,6 +623,16 @@
       "depth": 1,
       "source": "registry",
       "dependencies": {},
+      "url": "https://registry.npmjs.com"
+    },
+    "jp.keijiro.recorder.ffmpeg": {
+      "version": "1.0.2",
+      "depth": 0,
+      "source": "registry",
+      "dependencies": {
+        "com.unity.recorder": "2.2.0-preview.4",
+        "jp.keijiro.ffmpeg-out": "1.0.5"
+      },
       "url": "https://registry.npmjs.com"
     },
     "jp.keijiro.shadergraphassets": {

@@ -32,7 +32,7 @@ Transform:
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 5789219491304108346}
-  m_RootOrder: 1
+  m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!114 &309951817905824181
 MonoBehaviour:
@@ -107,121 +107,6 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
---- !u!1 &3096951960376240740
-GameObject:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  serializedVersion: 6
-  m_Component:
-  - component: {fileID: 4763875571460953228}
-  - component: {fileID: 1214455851101890166}
-  - component: {fileID: 7618035226910689844}
-  m_Layer: 0
-  m_Name: CustomTrigger
-  m_TagString: Untagged
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 1
---- !u!4 &4763875571460953228
-Transform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 3096951960376240740}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
-  m_ConstrainProportionsScale: 0
-  m_Children: []
-  m_Father: {fileID: 5789219491304108346}
-  m_RootOrder: 0
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &1214455851101890166
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 3096951960376240740}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: edc847c3525e44118a56bf95486e228c, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  description: This is a proxy trigger used so the game box only opens when the game
-    box attaches to a snapping point. This object can be left alone.
-  url: 
-  locked: 1
-  type: 1
---- !u!114 &7618035226910689844
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 3096951960376240740}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: a45fb99111d54dba84a8ff33016b93fd, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  tooltip: 
-  actions:
-  - delay: 0
-    operations:
-    - type: 22
-      targets:
-      - {fileID: 0}
-      floatVal: 2
-      stringVal: 
-      stringVal2: 
-      stringVal3: 
-      stringVal4: 
-      boolVal: 0
-      boolVal2: 0
-      gameObjectVal: {fileID: 0}
-      floatVal2: 0
-      floatVal3: 0
-      floatVal4: 0
-      varBufferVal: {fileID: 0}
-      varBufferVal2: {fileID: 0}
-      varBufferVal3: {fileID: 0}
-      animationVal: {fileID: 0}
-      customEvent:
-        m_PersistentCalls:
-          m_Calls: []
-    actionType: 18
-    execType: 1
-    layerMask:
-      serializedVersion: 2
-      m_Bits: 0
-    floatVal: 0
-    floatVal2: 0
-    floatVal3: 0
-    boolVal: 0
-    varBufferVal: {fileID: 0}
-    varBufferVal2: {fileID: 0}
-    stringVal: 
-    allowedPointer: []
-    allowedPointerCollapse: 0
-    allowedTypes: []
-    allowedTypesCollapse: 0
-    specificParticleSystems: []
-    specificParticleSystemsCollapse: 0
-    interactionFilter: 0
-    interactionInput: 48
-    interactionInputModifier: 0
-    guid: 
-  onEnterSeat:
-    m_PersistentCalls:
-      m_Calls: []
-  onExitSeat:
-    m_PersistentCalls:
-      m_Calls: []
 --- !u!1 &3128487673547304232
 GameObject:
   m_ObjectHideFlags: 0
@@ -424,7 +309,6 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
-  - {fileID: 4763875571460953228}
   - {fileID: 4710356490998021620}
   - {fileID: 2651061213161657930}
   m_Father: {fileID: 0}
@@ -500,7 +384,7 @@ MonoBehaviour:
   objectId: 
   randomNum: 48586746
   unityVersion: 2021.3.23f1
-  cckVersion: 3.8:104
+  cckVersion: 3.9:107
 --- !u!114 &1185449162053912352
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -613,7 +497,7 @@ MonoBehaviour:
               m_StringArgument: 
               m_BoolArgument: 0
             m_CallState: 2
-    actionType: 3
+    actionType: 2
     execType: 1
     layerMask:
       serializedVersion: 2
@@ -622,6 +506,7 @@ MonoBehaviour:
     floatVal2: 0
     floatVal3: 0
     boolVal: 0
+    boolVal2: 0
     varBufferVal: {fileID: 0}
     varBufferVal2: {fileID: 0}
     stringVal: 
@@ -635,7 +520,7 @@ MonoBehaviour:
     interactionInput: 48
     interactionInputModifier: 0
     guid: 
-  - delay: 0.25
+  - delay: 0.1
     operations:
     - type: 21
       targets:
@@ -670,7 +555,7 @@ MonoBehaviour:
               m_StringArgument: 
               m_BoolArgument: 0
             m_CallState: 2
-    actionType: 3
+    actionType: 2
     execType: 1
     layerMask:
       serializedVersion: 2
@@ -679,6 +564,53 @@ MonoBehaviour:
     floatVal2: 0
     floatVal3: 0
     boolVal: 0
+    boolVal2: 0
+    varBufferVal: {fileID: 0}
+    varBufferVal2: {fileID: 0}
+    stringVal: 
+    allowedPointer: []
+    allowedPointerCollapse: 0
+    allowedTypes: []
+    allowedTypesCollapse: 0
+    specificParticleSystems: []
+    specificParticleSystemsCollapse: 0
+    interactionFilter: 0
+    interactionInput: 48
+    interactionInputModifier: 0
+    guid: 
+  - delay: 0
+    operations:
+    - type: 22
+      targets:
+      - {fileID: 0}
+      floatVal: 2
+      stringVal: 
+      stringVal2: 
+      stringVal3: 
+      stringVal4: 
+      boolVal: 0
+      boolVal2: 0
+      gameObjectVal: {fileID: 0}
+      floatVal2: 0
+      floatVal3: 0
+      floatVal4: 0
+      varBufferVal: {fileID: 0}
+      varBufferVal2: {fileID: 0}
+      varBufferVal3: {fileID: 0}
+      animationVal: {fileID: 0}
+      customEvent:
+        m_PersistentCalls:
+          m_Calls: []
+    actionType: 18
+    execType: 1
+    layerMask:
+      serializedVersion: 2
+      m_Bits: 0
+    floatVal: 0
+    floatVal2: 0
+    floatVal3: 0
+    boolVal: 0
+    boolVal2: 0
     varBufferVal: {fileID: 0}
     varBufferVal2: {fileID: 0}
     stringVal: 
@@ -745,7 +677,7 @@ MonoBehaviour:
   onAttach:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 7618035226910689844}
+      - m_Target: {fileID: 8630589561227074443}
         m_TargetAssemblyTypeName: ABI.CCK.Components.CVRInteractable, Assembly-CSharp
         m_MethodName: CustomTrigger
         m_Mode: 1
@@ -791,7 +723,7 @@ Transform:
   m_Children:
   - {fileID: 5211626144344875569}
   m_Father: {fileID: 5789219491304108346}
-  m_RootOrder: 2
+  m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!114 &1725642047572852881
 MonoBehaviour:
