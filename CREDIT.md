@@ -6112,3 +6112,7 @@ https://youtu.be/qzhuWRQWK5I?si=PygoI274O32LWD5a
 - https://docs.unity3d.com/Manual/upm-ui-update.html
 - https://docs.unity3d.com/Packages/com.unity.mathematics@1.3/changelog/CHANGELOG.html how the hell did you kept being on the older version while so many packages already been designed for this exact Unity version & perhaps exceeds?
 - https://docs.unity3d.com/Packages/com.unity.animation.rigging@1.3/changelog/CHANGELOG.html
+- https://www.deviantart.com/theendoroutpost212/art/Blender-3D-Code-Lyoko-Aelita-Action-Figure-WIP-3-1044142075
+- https://smutba.se/user/169544/
+- https://assetstore.unity.com/packages/3d/environments/landscapes/terrain-sample-asset-pack-145808
+- https://docs.unity3d.com/Packages/com.unity.animation.rigging@1.3/changelog/CHANGELOG.html
