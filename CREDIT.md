@@ -6116,3 +6116,27 @@ https://youtu.be/qzhuWRQWK5I?si=PygoI274O32LWD5a
 - https://smutba.se/user/169544/
 - https://assetstore.unity.com/packages/3d/environments/landscapes/terrain-sample-asset-pack-145808
 - https://docs.unity3d.com/Packages/com.unity.animation.rigging@1.3/changelog/CHANGELOG.html
+- https://projectmgame.com/ wrong
+- https://github.com/projectM-visualizer/projectm This one!! yess
+- https://store.steampowered.com/app/1358800/projectM_Music_Visualizer/ yess!!!
+- Garrin's avatar has heartbeat in his chest. he recorded it by run stair and record neck pulse. calibrated it.
+- https://github.com/Nirv-git/NAK_CVR_Mods
+- https://discord.com/channels/410126604237406209/588350726841827358/1232483520039882763
+- https://docs.vrcft.io/docs/tutorial-avatars/tutorial-avatars-extras/compatibility/overview
+- https://skfb.ly/oPG60 Lethal company hoarding bug
+- https://skfb.ly/oOQoT
+- https://kyoko.gumroad.com wrong!
+- https://skfb.ly/6RWGE
+- https://skfb.ly/oywyR table game keiannai
+- https://skfb.ly/oAWtu capibara
+- https://skfb.ly/oGwVs Professor B
+- https://skfb.ly/ozPnW doggo
+- https://skfb.ly/o6Z7o Fez hat
+- https://skfb.ly/oqLrN
+- Voy: One must enjoy the fruits of their labour
+- https://skfb.ly/ouzGV Thomas engine
+- https://skfb.lu/6XWt6 Golf cart
+- https://sketchfab.com/harshwardhan847
+- https://valvesoftware.github.io/steam-audio/doc/unity/source.html
+- https://valvesoftware.github.io/steam-audio/#learn-more
+- https://github.com/Nirv-git/NAK_CVR_Mods
