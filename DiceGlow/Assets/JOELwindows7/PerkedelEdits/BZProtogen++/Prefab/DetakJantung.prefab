@@ -45,7 +45,7 @@ AudioSource:
   OutputAudioMixerGroup: {fileID: 0}
   m_audioClip: {fileID: 8300000, guid: ec0fac72480eb4146956c4ee7c701609, type: 3}
   m_PlayOnAwake: 1
-  m_Volume: 1
+  m_Volume: 0.03
   m_Pitch: 1
   Loop: 1
   Mute: 0
@@ -53,8 +53,8 @@ AudioSource:
   SpatializePostEffects: 1
   Priority: 128
   DopplerLevel: 0
-  MinDistance: 0.05
-  MaxDistance: 0.12
+  MinDistance: 0.001
+  MaxDistance: 0.07
   Pan2D: 0
   rolloffMode: 1
   BypassEffects: 0
@@ -147,10 +147,10 @@ MonoBehaviour:
   distanceAttenuationInput: 1
   distanceAttenuationValue: 1
   airAbsorption: 1
-  airAbsorptionInput: 0
+  airAbsorptionInput: 1
   airAbsorptionLow: 1
-  airAbsorptionMid: 1
-  airAbsorptionHigh: 1
+  airAbsorptionMid: 0.046
+  airAbsorptionHigh: 0
   directivity: 1
   directivityInput: 0
   dipoleWeight: 0.79
@@ -158,8 +158,8 @@ MonoBehaviour:
   directivityValue: 1
   occlusion: 1
   occlusionInput: 0
-  occlusionType: 0
-  occlusionRadius: 1
+  occlusionType: 1
+  occlusionRadius: 0.1
   occlusionSamples: 16
   occlusionValue: 1
   transmission: 1
