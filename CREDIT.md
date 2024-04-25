@@ -6140,3 +6140,81 @@ https://youtu.be/qzhuWRQWK5I?si=PygoI274O32LWD5a
 - https://valvesoftware.github.io/steam-audio/doc/unity/source.html
 - https://valvesoftware.github.io/steam-audio/#learn-more
 - https://github.com/Nirv-git/NAK_CVR_Mods
+- https://linktr.ee/Quakethorn
+- https://ko-fi.com/quakethorn/shop Jackpot
+- https://discord.gg/7npv6ebwzY Cat tree cuties
+- https://discord.gg/jPVUCBKcA3 QuakethornVR
+- https://www.twitch.tv/quakethorn
+- https://hub.abinteractive.net/social/profile?guid=ae6470a7-62d1-a483-a774-4b693873ce7c Quakethorn
+- https://discord.com/channels/410126604237406209/588350726841827358/1232788075197759580
+- https://discord.com/channels/410126604237406209/588350726841827358/1232786164881293393
+- https://discord.com/channels/410126604237406209/588350726841827358/1232772937082339410
+- https://github.com/FACS01-01/PhysBone-to-DynamicBone
+- https://discord.com/channels/410126604237406209/588350726841827358/1232746468738076703
+- https://github.com/CMoyuer/VRChatAvatarSDK3Container
+- https://discord.com/channels/410126604237406209/588350726841827358/1232483520039882763
+- https://docs.vrcft.io/docs/tutorial-avatars/tutorial-avatars-extras/compatibility/overview
+- https://discord.com/channels/410126604237406209/797279576459968555/1232779862759178332
+- https://feedback.abinteractive.net/p/my-boombox-with-adjustable-range-via-animator-broke-in-r175
+- https://discord.com/channels/410126604237406209/1004342533964439592/1232516605796290621
+- https://discord.com/channels/410126604237406209/682645682968199168/1232532593275179079
+- https://discord.com/channels/410126604237406209/682645682968199168/1232584686379728907
+- https://discord.com/channels/410126604237406209/412210535443202049/1232795788942381076
+- https://discord.com/channels/410126604237406209/689949650614091827/1232667950855491736
+- https://discord.com/channels/410126604237406209/689949650614091827/1232777105222271028
+- https://discord.com/channels/410126604237406209/689949650614091827/1232667468430835732
+- https://discord.com/channels/410126604237406209/412210535443202049/1232800016263807127
+- https://discord.com/channels/410126604237406209/412210535443202049/1232798078625644566
+- https://discord.com/channels/410126604237406209/412210535443202049/1232791094006386698
+- https://discord.com/channels/410126604237406209/412210535443202049/1232794211967959152
+- https://discord.com/channels/410126604237406209/412210535443202049/1232795822207271054
+- https://discord.com/channels/410126604237406209/588350726841827358/1232786324663308430
+- https://discord.com/channels/410126604237406209/588350726841827358/1232783826749751327
+- https://feedback.abinteractive.net/p/post-r175-face-tracking-solutions
+- https://discord.com/channels/410126604237406209/588350726841827358/1232484741857677332
+- https://discord.com/channels/410126604237406209/588350726841827358/1232483520039882763
+- https://docs.vrcft.io/docs/tutorial-avatars/tutorial-avatars-extras/compatibility/overview
+- https://discord.com/channels/410126604237406209/412210535443202049/1232802869812396113
+- https://discord.com/channels/410126604237406209/412210535443202049/1232801872797237269
+- https://ko-fi.com/s/37b67ba67b **PAID** Vox. Lukasz Borges
+- https://discord.com/channels/410126604237406209/412210535443202049/1232804483205955615 Yikes, brother. really? that sensitiveos? Wanna hug? I had scars too tho.., recently..
+- https://discord.com/channels/410126604237406209/588350726841827358/1232803417785634826
+- https://discord.com/channels/410126604237406209/412210535443202049/1232805765270470707
+- https://discord.com/channels/410126604237406209/412210535443202049/1232805765270470707
+- https://discord.com/channels/410126604237406209/412210535443202049/1232806769521197066
+- https://discord.com/channels/410126604237406209/412210535443202049/1232806944377671790
+- https://discord.com/channels/410126604237406209/412210535443202049/1232806944377671790
+- https://www.youtube.com/watch?v=TpJddQb8_pE
+- https://discord.com/channels/410126604237406209/412210535443202049/1232807488663978024
+- https://discord.com/channels/410126604237406209/412210535443202049/1232808007499513957
+- https://discord.com/channels/410126604237406209/412210535443202049/1232808906942578720
+- https://discord.com/channels/410126604237406209/412210535443202049/1232811611022954617
+- https://discord.com/channels/410126604237406209/412210535443202049/1232812844123422741 LTT drama of the past. Remember when. And close, move forward.
+- https://discord.com/channels/410126604237406209/412210535443202049/1232812415675142258
+- https://discord.com/channels/410126604237406209/412210535443202049/1232813694464036864
+- https://discord.com/channels/410126604237406209/412210535443202049/1232815925489832026
+- https://discord.com/channels/410126604237406209/412210535443202049/1232815925489832026
+- https://ec.europa.eu/info/law/better-regulation/have-your-say-simplify/suggestions/S32852346_en
+- https://www.youtube.com/watch?v=1aDnJTsNshs
+- https://discord.com/channels/410126604237406209/412210535443202049/1232822916778033304
+- https://discord.com/channels/410126604237406209/682645682968199168/1232823962497716224
+- https://discord.com/channels/410126604237406209/682645682968199168/1232823586163523584
+- https://discord.com/channels/410126604237406209/797279576459968555/1232818304846921750 Steam Depot Downloader?!?!??!?!?!??!??!?!?
+- https://ec.europa.eu/info/law/better-regulation/have-your-say-simplify/suggestions/S32852346_en
+- https://github.com/SteamRE/DepotDownloader
+- https://discord.com/channels/410126604237406209/689949650614091827/1232827288886837328
+- Excercise of element
+- https://discord.com/channels/410126604237406209/588350770777161748/1232823354348539914
+- https://discord.com/channels/867567549858971669/1027391778929774592/1226771363776168039 rat yeay
+- https://discord.com/channels/410126604237406209/588350770777161748/1232833070017675274
+- https://discord.com/channels/410126604237406209/588350770777161748/1232833070017675274
+- https://github.com/SDraw/ml_mods_cvr/blob/master/ml_prm/README.md
+- https://discord.com/channels/410126604237406209/412210535443202049/1232839883647877162
+- https://discord.com/channels/410126604237406209/682645682968199168/1232841128441810944
+- Make it Complex, Genius!
+- Keep it Simple, Stupid!
+- https://sketchfab.com/TheWarVet
+- https://bmn.potato.moe
+- https://www.potato.moe/
+- https://discord.com/invite/vbvnmhf expired
+- https://discord.com/channels/410126604237406209/1004342533964439592/1232925870369411123
