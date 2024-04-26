@@ -498,6 +498,7 @@ Here are the UUIDs of all these assets we uploaded to CVR:
 | `75757afe-d74c-4cbb-a467-c87d861ff192` | Why capsule collider | JOELwindows7 | default collider error. |
 | `2d106677-d4d3-4671-b960-fa0c6dda30a1` | A Failed Car | JOELwindows7 | **RCC is not $0!!!** How do we supposed to car?! |
 | `93576ca4-7a8e-44b4-a81d-4dda4df466d0` | BUMSTRUM Car RCC Sample | JOELwindows7 | I forcedly had to buy it because there is no placeholder available to these days |
+| `c1d908ec-6a58-4cc6-a9b7-2715bbbf0688` | Teeny Car RCC | JOELwindows7 | Simple & Small yet stable car |
 | `3f562c88-e8d6-4b39-827c-a910588bc4e6` | DynBonen | JOELwindows7 | . |
 | `ddb5a8b0-758e-4469-a181-5c5e959bab07` | Le Among Us | JOELwindows7 | hfcRed's among us follower demo |
 | `6566357c-3640-4b9f-b6eb-2abab7225e4b` | Unity Crashed | JOELwindows7 | How did this happened?! |
