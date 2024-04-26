@@ -6258,3 +6258,12 @@ https://youtu.be/qzhuWRQWK5I?si=PygoI274O32LWD5a
 - https://sketchfab.com/Alexios_Apokaukos Yakpower
 - https://youtu.be/3lWsYM_n1qg?si=4rytDoUachuafAtj Dippy RCC car tutorial
 - https://u3d.as/2vg **GONE** demo source 3DMaesen BUMSTRUM RCC
+- https://skfb.ly/6xOtE propeller hat
+- bonelab sdk
+- https://www.reddit.com/r/BONELAB/comments/11lrc4k/sdk_update/
+- https://github.com/StressLevelZero/MarrowSDK/wiki#project-setup
+- https://github.com/RevOcelotMGS/Marrow-ExtendedSDK
+- https://skfb.ly/oGCYZ
+- https://discord.com/channels/410126604237406209/682645682968199168/1233287963371376651 look, me! lmao
+- I got no shame lol. can be anydo that's great . adadqwdqdwqdwqdqdwdqwadwqdqwdq
+- https://discord.com/channels/410126604237406209/588350685255565344/1233370301031645244
