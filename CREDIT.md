@@ -6218,3 +6218,43 @@ https://youtu.be/qzhuWRQWK5I?si=PygoI274O32LWD5a
 - https://www.potato.moe/
 - https://discord.com/invite/vbvnmhf expired
 - https://discord.com/channels/410126604237406209/1004342533964439592/1232925870369411123
+- cvr toga
+- https://github.com/hisprofile/blenderstuff/blob/main/Creations/Source%20Engine%20Blender%20Collection.md#counter-strike-global-offensive
+- https://ko-fi.com/hisanimations
+- https://developer.valvesoftware.com/wiki/Infected_(shader)
+- https://discord.com/channels/722818587475050577/755348017799888927/1233202069200965672
+- https://discord.com/channels/410126604237406209/588350685255565344/1233195326475604039
+- https://discord.com/channels/410126604237406209/588350685255565344/1233132422841897071
+- https://discord.com/channels/410126604237406209/1195601585720528976/1233133320527806567
+- https://discord.com/channels/410126604237406209/797279576459968555/1233139394995683500
+- https://discord.com/channels/410126604237406209/588350726841827358/1233115460514353204
+- https://discord.com/channels/410126604237406209/588350726841827358/1233135684345266299
+- https://www.youtube.com/watch?v=0I-4a1q0YLE
+- https://discord.com/channels/410126604237406209/588350726841827358/1233138242262532126
+- toga
+- https://github.com/BTK-Development/BTKUILib
+- https://github.com/ddakebono/karren-sama
+- https://github.com/ddakebono/BTKSASelfPortrait
+- https://github.com/TotallyWholesome/TotallyWholesomeMod
+- https://github.com/TotallyWholesome/TotallyWholesomeMod
+- https://github.com/TotallyWholesome
+- https://totallywholeso.me/
+- https://wiki.totallywholeso.me/
+- https://github.com/BTK-Development
+- https://github.com/BTK-Development/BTKUILib
+- https://wiki.totallywholeso.me/GeneralGuide#My_TW
+- https://youtu.be/_OKLnOLOKTg?si=vZKYKLd94NPqmOI7
+- https://www.animotive.com/?utm_source=CodeMonkey&utm_medium=Video&utm_campaign=marketing
+- https://youtu.be/x_wIUCs5ODY?si=3rwCvf4ZdtjASTZt
+- +++++++++++++++++++++++++++++++++++++++
+- +++++++++++++++++++++++++++++++++
+- +++
+- https://youtube.com/shorts/uHzY4AICm9w?si=5W1Rq2vS3TryZi2v
+- https://youtube.com/shorts/QOEHo_SrNFU?si=5O49wmEEr8wqB-dq
+- https://assetstore.unity.com/packages/tools/network/pun-2-free-119922
+- https://www.photonengine.com/fusion
+- https://www.photonengine.com/quantum
+- https://skfb.ly/ovq6t Honda s800
+- https://sketchfab.com/Alexios_Apokaukos Yakpower
+- https://youtu.be/3lWsYM_n1qg?si=4rytDoUachuafAtj Dippy RCC car tutorial
+- https://u3d.as/2vg **GONE** demo source 3DMaesen BUMSTRUM RCC
