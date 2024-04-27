@@ -66,7 +66,7 @@ Below are assets that are not included and **must be installed prior of usage an
 - [Magica Cloth 1](https://assetstore.unity.com/packages/tools/physics/magica-cloth-160144) & [2 the sequel](https://assetstore.unity.com/packages/tools/physics/magica-cloth-2-242307). Paywalled
 - Glennskunk's [Cartoon Heart](https://glenskunk.gumroad.com/l/toonheartforVR?layout=profile) & ~~[rest of them](https://glenskunk.gumroad.com/)~~ ([alt](https://jinxxy.com/GlenSkunk?jc=c52ec67a13d09e3c89aaddcb76f108d62e2d254afe4fa1477865)) ([**NEW**](https://glenskunk.itch.io/)). **Paywalled**. **Gumroad betrayed us all with new policy!!**
 - [Gan Servo's Heartbeat connector for VRChat](https://garnservo.gumroad.com/l/Heartbeat?layout=profile). **Paywalled**, **INCOMPATIBLE PLS PORT**. using [HR2VRC](https://hrtovrchat.fortnite.lol/setup) ([HR2VRC DISCONTINUED 2024-01-01](https://hrtovrchat.fortnite.lol/discontinuation))
-- [Realistic Car Controller](https://assetstore.unity.com/packages/tools/physics/realistic-car-controller-16296). **Paywalled**
+- [Realistic Car Controller from BoneCracker Games](https://assetstore.unity.com/packages/tools/physics/realistic-car-controller-16296). **Paywalled**. **NO STUB**.
 - [Fluff's VRC Avatar Toolbox](https://fluffs.gumroad.com/l/flufftoolbox). **Paywalled**
 - [Fluff's VRC2CVR](https://fluffs.gumroad.com/l/sdk3-to-cck). Space Saving
 - ~~[Narazaka's VRC2CVR-YA](https://github.com/Narazaka/VRC2CVR). Space Saving~~ ~~Included, so small!~~ No longer works
@@ -135,6 +135,7 @@ For real life contributors, you must purchase the license of your own, not spars
 - [4 items from obi1](https://obis-stuff.booth.pm/): Rezz Glasses, Hypno glasses, Cage, DEFCON pin. ![Bought Obi1 stuffs](https://raw.githubusercontent.com/Perkedel/CVR_Stuffings/main/DiceGlow/Assets/JOELwindows7/_CORE/Sprites/Screenshots/ProvesOfPurchase/bought_all_ob1_stuffs.png), Costs **¥2300** total, Paid **¥2700** (since added ¥100 tips to each of the items, ¥100 \* 4 = **+¥400**) (Voluntarily willingly, you're welcome)
 - [Bar pack & Theater Curtain from SketchFoxSky](sketchfoxsky.gumroad.com). ![Bought SketchFoxSky stuffs](https://raw.githubusercontent.com/Perkedel/CVR_Stuffings/main/DiceGlow/Assets/JOELwindows7/_CORE/Sprites/Screenshots/ProvesOfPurchase/bought_sketchfoxsky.png), Costs **$20** total, Paid **$22** (since added $2 tips to theatre curtain) (Voluntarily willingly, you're welcome)
 - [Derpixon's BonBon & ChuChu (Mime & Dash) 3D Model from Monsler](https://www.deviantart.com/moonsler/art/BonBon-and-ChuChu-BLENDER-MODEL-RELEASE-923681514). ![Bought Monsler BonBon & ChuChu](https://raw.githubusercontent.com/Perkedel/CVR_Stuffings/main/DiceGlow/Assets/JOELwindows7/_CORE/Sprites/Screenshots/ProvesOfPurchase/Buy_Monsler_BonBon_ChuChu_Derpixon.png), Costs **$15** total, Paid **$15** (No tip feature available).
+- [Realistic Car Controller from BoneCracker Games](https://assetstore.unity.com/packages/tools/physics/realistic-car-controller-16296). ![Bought RCC](https://raw.githubusercontent.com/Perkedel/CVR_Stuffings/main/DiceGlow/Assets/JOELwindows7/_CORE/Sprites/Screenshots/ProvesOfPurchase/.png), Costs **$50** total, Paid **$25** (Discount 50% Promo).
 
 ## Quick Tutorials
 
@@ -543,7 +544,8 @@ Here are the UUIDs of all these assets we uploaded to CVR:
 | `d1dac649-e96a-4f91-92f2-40a2214a33d4` | MollyTribute Interaction Layer | DomNomNomVR & MollyTribute (Momma Molly) | (**NOT PERKEDEL**) |
 | `d849a70d-adc0-4cea-a09b-84a9a0037e84` | Pen Props | SketchFoxsky | (**NOT PERKEDEL**) |
 | `ca0a909e-2371-4586-8836-993e77132727` | Evil Betty Keycard Demo | Evil Betty & Momma Molly | (**NOT PERKEDEL**) |
-| `49314ddc-bb7e-4c16-9d72-52bd24755efa` | Boat example | kjoy | (**NOT PERKEDEL**) |
+| ~~`49314ddc-bb7e-4c16-9d72-52bd24755efa`~~ | Boat example | Khodrin, prefab on kjoy's server | (**NOT PERKEDEL**) **404 MISMATCH** |
+| `0c997651-4a7d-4cf5-8666-495241485103` | Handgun with laser | prefab on kjoy's server | (**NOT PERKEDEL**) |
 
 ### Assorted
 
