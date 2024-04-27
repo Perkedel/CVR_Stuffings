@@ -6267,3 +6267,14 @@ https://youtu.be/qzhuWRQWK5I?si=PygoI274O32LWD5a
 - https://discord.com/channels/410126604237406209/682645682968199168/1233287963371376651 look, me! lmao
 - I got no shame lol. can be anydo that's great . adadqwdqdwqdwqdqdwdqwadwqdqwdq
 - https://discord.com/channels/410126604237406209/588350685255565344/1233370301031645244
+- https://github.com/kafeijao/Kafe_CVR_Mods/tree/master/OSC#OSC-ChatBox
+- https://github.com/kafeijao/Kafe_CVR_Mods/tree/master/ChatBox
+- movement parent the teeny car
+- https://discord.com/channels/410126604237406209/588350685255565344/1233196586243326042
+- https://discord.com/channels/410126604237406209/588350770777161748/1233301525657554946
+- skull candy on sketchfab pls
+- https://discord.com/channels/410126604237406209/588350726841827358/1233518275925639359
+- https://discord.com/channels/1053364052488888351/1053413656106369054/1229777631260442655 NEW! Kjoy got handgun with laser prop!
+- `0c997651-4a7d-4cf5-8666-495241485103` & the GUID. pls check confirm
+- Plearod
+- Teeny pls fix animation. time not zero

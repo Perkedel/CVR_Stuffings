@@ -1,5 +1,50 @@
 %YAML 1.1
 %TAG !u! tag:unity3d.com,2011:
+--- !u!1 &1855743059870704565
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3012406549718894643}
+  - component: {fileID: 8481265584530372565}
+  m_Layer: 0
+  m_Name: DownloadSofieSampleCar
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3012406549718894643
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1855743059870704565}
+  m_LocalRotation: {x: 0, y: 1, z: 0, w: 0}
+  m_LocalPosition: {x: -8.5, y: 1.25, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 2558258178534633369}
+  m_RootOrder: 6
+  m_LocalEulerAnglesHint: {x: 0, y: 180, z: 0}
+--- !u!114 &8481265584530372565
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1855743059870704565}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: eff309c86b8103c45a87cf57553d787f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  spawnableGuid: 93576ca4-7a8e-44b4-a81d-4dda4df466d0
 --- !u!1 &3993675697478203184
 GameObject:
   m_ObjectHideFlags: 0
@@ -25,7 +70,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 3993675697478203184}
   m_LocalRotation: {x: 0, y: 1, z: 0, w: 0}
-  m_LocalPosition: {x: 0, y: 1, z: 0}
+  m_LocalPosition: {x: 2, y: 1, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -103,7 +148,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  - {fileID: -8774082240879987462, guid: 028331e3160e71d4ab22a34e7a5f1667, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -164,16 +209,21 @@ MonoBehaviour:
     Dynamic Bones container. used on the antenna
 
     - <color=green>https://assetstore.unity.com/packages/tools/animation/dynamic-bone-16743</color>
-    <color=#FFAA00>Unecessary</color>. Original paid full standalone Dynamic Bones.
-    No longer needed, since CVR itself seems already have it built-in. You only need
-    to define properties with above container.
+    <color=#FFAA00><s>Unecessary</s></color>. Original paid full standalone Dynamic
+    Bones. No longer needed, since CVR itself seems already have it built-in. You
+    only need to define properties with above container.
 
     - <color=red><b>MISSING</b></color>
     RCC Container. If only someone would remake matching its properties & editor
-    functionalities, except the function itself.'
+    functionalities, except the function itself.
+
+
+    EDIT: We gave up. Here''s
+    the actual RCC car. Shout out to Unity for 50% OFF sale that time. I''m so scolded
+    right now for spending this IDR 400K.'
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
-  m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: 028331e3160e71d4ab22a34e7a5f1667, type: 2}
+  m_sharedMaterial: {fileID: -8774082240879987462, guid: 028331e3160e71d4ab22a34e7a5f1667, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -197,7 +247,7 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 2.1
+  m_fontSize: 1.95
   m_fontSizeBase: 36
   m_fontWeight: 400
   m_enableAutoSizing: 1
@@ -242,6 +292,51 @@ MonoBehaviour:
   m_hasFontAssetChanged: 0
   m_renderer: {fileID: 8673447180663118680}
   m_maskType: 0
+--- !u!1 &7805833171927401359
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3602641499374704923}
+  - component: {fileID: 6084568363617347146}
+  m_Layer: 0
+  m_Name: DownloadTeeny
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3602641499374704923
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7805833171927401359}
+  m_LocalRotation: {x: 0, y: 1, z: 0, w: 0}
+  m_LocalPosition: {x: 0.5, y: 1, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 2558258178534633369}
+  m_RootOrder: 4
+  m_LocalEulerAnglesHint: {x: 0, y: 180, z: 0}
+--- !u!114 &6084568363617347146
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7805833171927401359}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: eff309c86b8103c45a87cf57553d787f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  spawnableGuid: c1d908ec-6a58-4cc6-a9b7-2715bbbf0688
 --- !u!1 &8178596941837896883
 GameObject:
   m_ObjectHideFlags: 0
@@ -273,9 +368,75 @@ Transform:
   - {fileID: 8190402416415313240}
   - {fileID: 8477653051226016309}
   - {fileID: 7700910100915350103}
+  - {fileID: 8357122062801300121}
+  - {fileID: 3602641499374704923}
+  - {fileID: 801686963811038352}
+  - {fileID: 3012406549718894643}
   m_Father: {fileID: 0}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1001 &6777622841838012119
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 2558258178534633369}
+    m_Modifications:
+    - target: {fileID: 3311414752798698563, guid: 698a7dd650c55094081f47ecb793699e, type: 3}
+      propertyPath: m_Name
+      value: TeenyCarRCC
+      objectReference: {fileID: 0}
+    - target: {fileID: 3311414752798698574, guid: 698a7dd650c55094081f47ecb793699e, type: 3}
+      propertyPath: m_RootOrder
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 3311414752798698574, guid: 698a7dd650c55094081f47ecb793699e, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -2.25
+      objectReference: {fileID: 0}
+    - target: {fileID: 3311414752798698574, guid: 698a7dd650c55094081f47ecb793699e, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.51956874
+      objectReference: {fileID: 0}
+    - target: {fileID: 3311414752798698574, guid: 698a7dd650c55094081f47ecb793699e, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -0.125
+      objectReference: {fileID: 0}
+    - target: {fileID: 3311414752798698574, guid: 698a7dd650c55094081f47ecb793699e, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3311414752798698574, guid: 698a7dd650c55094081f47ecb793699e, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3311414752798698574, guid: 698a7dd650c55094081f47ecb793699e, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3311414752798698574, guid: 698a7dd650c55094081f47ecb793699e, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3311414752798698574, guid: 698a7dd650c55094081f47ecb793699e, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3311414752798698574, guid: 698a7dd650c55094081f47ecb793699e, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3311414752798698574, guid: 698a7dd650c55094081f47ecb793699e, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 698a7dd650c55094081f47ecb793699e, type: 3}
+--- !u!4 &8357122062801300121 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 3311414752798698574, guid: 698a7dd650c55094081f47ecb793699e, type: 3}
+  m_PrefabInstance: {fileID: 6777622841838012119}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &8248582972376515090
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -589,4 +750,66 @@ PrefabInstance:
 Transform:
   m_CorrespondingSourceObject: {fileID: 275560810321350474, guid: 601e8a1472ee4ae4c8f477d54c6bb5f7, type: 3}
   m_PrefabInstance: {fileID: 8248582972376515090}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &8478345054345740924
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 2558258178534633369}
+    m_Modifications:
+    - target: {fileID: 9117831993738098412, guid: 8992cc40b90ebd54faad073f8237b967, type: 3}
+      propertyPath: m_RootOrder
+      value: 5
+      objectReference: {fileID: 0}
+    - target: {fileID: 9117831993738098412, guid: 8992cc40b90ebd54faad073f8237b967, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -5.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 9117831993738098412, guid: 8992cc40b90ebd54faad073f8237b967, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 1.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 9117831993738098412, guid: 8992cc40b90ebd54faad073f8237b967, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9117831993738098412, guid: 8992cc40b90ebd54faad073f8237b967, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 9117831993738098412, guid: 8992cc40b90ebd54faad073f8237b967, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9117831993738098412, guid: 8992cc40b90ebd54faad073f8237b967, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9117831993738098412, guid: 8992cc40b90ebd54faad073f8237b967, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9117831993738098412, guid: 8992cc40b90ebd54faad073f8237b967, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9117831993738098412, guid: 8992cc40b90ebd54faad073f8237b967, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9117831993738098412, guid: 8992cc40b90ebd54faad073f8237b967, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9117831993738304374, guid: 8992cc40b90ebd54faad073f8237b967, type: 3}
+      propertyPath: m_Name
+      value: Model_Sofie@Driving by BUMSTRUM CVREdit
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 8992cc40b90ebd54faad073f8237b967, type: 3}
+--- !u!4 &801686963811038352 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 9117831993738098412, guid: 8992cc40b90ebd54faad073f8237b967, type: 3}
+  m_PrefabInstance: {fileID: 8478345054345740924}
   m_PrefabAsset: {fileID: 0}
