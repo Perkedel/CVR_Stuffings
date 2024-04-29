@@ -107,7 +107,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1139422054934786161}
   - component: {fileID: 8905416346122234834}
-  - component: {fileID: 7490395177446702034}
+  - component: {fileID: 2644579073143381097}
   m_Layer: 0
   m_Name: LTCGI Controller
   m_TagString: Untagged
@@ -157,7 +157,7 @@ MonoBehaviour:
   LOD3: {fileID: 8600000, guid: 86d16bb7b86384a439dd7bc187c93cdf, type: 2}
   LUT1: {fileID: 2800000, guid: 71f1e923e4125c1428b723489dae83ce, type: 3}
   LUT2: {fileID: 2800000, guid: 6a62db263e99e8947ad53e88640b4ae7, type: 3}
-  HasDynamicScreens: 1
+  HasDynamicScreens: 0
   HasCylinders: 0
   ConfiguredAdapter: {fileID: 0}
   bakeMaterialReset_key: []
@@ -173,10 +173,13 @@ MonoBehaviour:
   _LTCGI_LightmapData_key: []
   _LTCGI_LightmapOffsets_val: []
   _LTCGI_LightmapIndex_val: 
+  previousAmbientMode: 0
+  previousAmbientIntensity: 0
+  previousAmbientColor: {r: 0, g: 0, b: 0, a: 0}
   followupWithRealBake: 0
   followupBakery: 0
   PrecomputeOnBuild: 1
---- !u!114 &7490395177446702034
+--- !u!114 &2644579073143381097
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -185,28 +188,18 @@ MonoBehaviour:
   m_GameObject: {fileID: 1139422054934786167}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 0}
+  m_Script: {fileID: 11500000, guid: 0007c466735eb8848af37d146d777ba4, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   DEBUG_ReverseUnityLightmapST: 0
-  _Renderers:
-  - {fileID: 0}
-  - {fileID: 0}
+  _Renderers: []
   _LTCGI_DefaultLightmap: {fileID: 2800000, guid: ced397d4068940a48a50f58c19c7b525, type: 3}
-  _LTCGI_Lightmaps:
-  - {fileID: 2800000, guid: ced397d4068940a48a50f58c19c7b525, type: 3}
-  - {fileID: 2800000, guid: ced397d4068940a48a50f58c19c7b525, type: 3}
-  _LTCGI_LightmapST:
-  - {x: 0, y: 0, z: 0, w: 0}
-  - {x: 0, y: 0, z: 0, w: 0}
-  _LTCGI_Mask:
-  - 0
-  - 0
-  _LTCGI_MaskAvatars:
-  - 0
+  _LTCGI_Lightmaps: []
+  _LTCGI_LightmapST: []
+  _LTCGI_Mask: []
+  _LTCGI_MaskAvatars: []
   _LTCGI_LightmapMult: {x: 0.25, y: 0.25, z: 0.25, w: 0}
-  _Screens:
-  - {fileID: 0}
+  _Screens: []
   _LTCGI_lut1: {fileID: 2800000, guid: 71f1e923e4125c1428b723489dae83ce, type: 3}
   _LTCGI_lut2: {fileID: 2800000, guid: 6a62db263e99e8947ad53e88640b4ae7, type: 3}
   _LTCGI_LODs:
@@ -219,7 +212,7 @@ MonoBehaviour:
   _LTCGI_Static_LODs_2: {fileID: 0}
   _LTCGI_Static_LODs_3: {fileID: 0}
   _LTCGI_Vertices_0:
-  - {x: -0.5, y: -0.5, z: -3.0616168e-17, w: 0}
+  - {x: 0, y: 0, z: 0, w: 0}
   - {x: 0, y: 0, z: 0, w: 0}
   - {x: 0, y: 0, z: 0, w: 0}
   - {x: 0, y: 0, z: 0, w: 0}
@@ -236,7 +229,7 @@ MonoBehaviour:
   - {x: 0, y: 0, z: 0, w: 0}
   - {x: 0, y: 0, z: 0, w: 0}
   _LTCGI_Vertices_1:
-  - {x: 0.5, y: -0.5, z: -3.0616168e-17, w: 0}
+  - {x: 0, y: 0, z: 0, w: 0}
   - {x: 0, y: 0, z: 0, w: 0}
   - {x: 0, y: 0, z: 0, w: 0}
   - {x: 0, y: 0, z: 0, w: 0}
@@ -253,7 +246,7 @@ MonoBehaviour:
   - {x: 0, y: 0, z: 0, w: 0}
   - {x: 0, y: 0, z: 0, w: 0}
   _LTCGI_Vertices_2:
-  - {x: -0.5, y: 0.5, z: 3.0616168e-17, w: 1}
+  - {x: 0, y: 0, z: 0, w: 0}
   - {x: 0, y: 0, z: 0, w: 0}
   - {x: 0, y: 0, z: 0, w: 0}
   - {x: 0, y: 0, z: 0, w: 0}
@@ -270,7 +263,7 @@ MonoBehaviour:
   - {x: 0, y: 0, z: 0, w: 0}
   - {x: 0, y: 0, z: 0, w: 0}
   _LTCGI_Vertices_3:
-  - {x: 0.5, y: 0.5, z: 3.0616168e-17, w: 1}
+  - {x: 0, y: 0, z: 0, w: 0}
   - {x: 0, y: 0, z: 0, w: 0}
   - {x: 0, y: 0, z: 0, w: 0}
   - {x: 0, y: 0, z: 0, w: 0}
@@ -287,7 +280,6 @@ MonoBehaviour:
   - {x: 0, y: 0, z: 0, w: 0}
   - {x: 0, y: 0, z: 0, w: 0}
   _LTCGI_ExtraData:
-  - {x: 0, y: 0.5641879, z: 1, w: 1.094e-42}
   - {x: 0, y: 0, z: 0, w: 0}
   - {x: 0, y: 0, z: 0, w: 0}
   - {x: 0, y: 0, z: 0, w: 0}
@@ -303,7 +295,8 @@ MonoBehaviour:
   - {x: 0, y: 0, z: 0, w: 0}
   - {x: 0, y: 0, z: 0, w: 0}
   - {x: 0, y: 0, z: 0, w: 0}
-  _LTCGI_static_uniforms: {fileID: 2800000, guid: 1faef5fd7bdbc7345b2e79f37a5a3ef7, type: 3}
+  - {x: 0, y: 0, z: 0, w: 0}
+  _LTCGI_static_uniforms: {fileID: 2800000, guid: 322387509327ab34fb39f5d1a60053d5, type: 3}
   _LTCGI_ScreenTransforms:
   - {fileID: 0}
   - {fileID: 0}
@@ -321,10 +314,10 @@ MonoBehaviour:
   - {fileID: 0}
   - {fileID: 0}
   - {fileID: 0}
-  _LTCGI_ScreenCount: 1
-  _LTCGI_ScreenCountMaskedAvatars: 1
-  _LTCGI_ScreenCountMasked: 0100000001000000
-  _LTCGI_ScreenCountDynamic: 1
+  _LTCGI_ScreenCount: 0
+  _LTCGI_ScreenCountMaskedAvatars: 0
+  _LTCGI_ScreenCountMasked: 
+  _LTCGI_ScreenCountDynamic: 0
   BlurCRTInput: {fileID: 8600000, guid: d0b2d88d01fd72d4d9c0284fb8db2d75, type: 2}
 --- !u!1 &2597724318559156160
 GameObject:
