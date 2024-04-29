@@ -6499,3 +6499,10 @@ https://youtu.be/qzhuWRQWK5I?si=PygoI274O32LWD5a
 - https://docs.unity3d.com/Manual/upm-ui-install.html
 - https://docs.unity3d.com/Packages/com.unity.scripting.python@7.0/manual/installation.html
 - https://youtube.com/shorts/W1wKrUm8uCg?si=4-oH6Qg9FVhhgKwp
+- https://www.youtube.com/watch?v=w_kBbu4Ov48
+- https://www.youtube.com/watch?v=Ms0XcyKqpmU
+- https://www.youtube.com/watch?v=9Jxxbh4HbtE
+- https://www.youtube.com/watch?v=M2wlH6we-ug
+- https://discord.com/channels/410126604237406209/682645682968199168/1234469517179097169
+- https://www.youtube.com/shorts/W1wKrUm8uCg
+- https://www.youtube.com/watch?v=_FtV1S6UHwc
