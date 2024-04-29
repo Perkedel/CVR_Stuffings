@@ -6506,3 +6506,4 @@ https://youtu.be/qzhuWRQWK5I?si=PygoI274O32LWD5a
 - https://discord.com/channels/410126604237406209/682645682968199168/1234469517179097169
 - https://www.youtube.com/shorts/W1wKrUm8uCg
 - https://www.youtube.com/watch?v=_FtV1S6UHwc
+- https://discord.com/channels/410126604237406209/682645682968199168/1234480017052794942
