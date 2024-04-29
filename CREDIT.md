@@ -6507,3 +6507,7 @@ https://youtu.be/qzhuWRQWK5I?si=PygoI274O32LWD5a
 - https://www.youtube.com/shorts/W1wKrUm8uCg
 - https://www.youtube.com/watch?v=_FtV1S6UHwc
 - https://discord.com/channels/410126604237406209/682645682968199168/1234480017052794942
+- cvr suda
+- https://github.com/beckadamtheinventor
+- suda
+- https://github.com/beckadamtheinventor/IcybeckaStudios/blob/master/Packages/MultipleDetailMaps/IcybeckaMultipleDetailMaps0.4.unitypackage
