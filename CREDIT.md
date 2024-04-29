@@ -4433,7 +4433,7 @@ New Sauce lists
 - https://gitlab.com/towelfunnelvrc/towelcloud/-/releases
 - https://github.com/whiteflare/Unlit_WF_ShaderSuite UnlitWF!!
 - https://developer.oculus.com/resources/design-accessible-vr-controls
-- https://beckadam.gumroad.com/icybeckashaderpack
+- https://beckadam.gumroad.com/icybeckashaderpack **PAID**
 - https://skfb.ly/or8Xs
 - `--no-mods` argument
 - ironwolf323 again Moonify Discord
@@ -6278,3 +6278,216 @@ https://youtu.be/qzhuWRQWK5I?si=PygoI274O32LWD5a
 - `0c997651-4a7d-4cf5-8666-495241485103` & the GUID. pls check confirm
 - Plearod
 - Teeny pls fix animation. time not zero
+- Thorium Dump Xonoid
+- https://www.vrcarena.com/assets/lJMEH-vrchat-sdk3---brain-power-animation Brain power animation
+- https://www.vrcarena.com/assets/Tgy1P-converted-mmd-dance---insanity-frost-mix Insanity Frost
+- https://www.vrcarena.com/assets/hz9go-converted-mmd-dance---bloody-mary I'll dance dance dance with
+- https://vrcmods.com/search?sort=bestmatch&q=dance moar
+- https://vrcmods.com/item?id=9490 Diamond dance
+- https://vrcmods.com/item?id=9515 Spooky month
+- https://vrcmods.com/item?id=9001 Amelia watson avatar
+- Xonoid
+- cvr odain
+- https://twitter.com/iVRy_VR/status/1771688659730772233
+- https://discord.com/channels/410126604237406209/795882566968279091/1228730588039483412
+- https://discord.com/channels/410126604237406209/588350726841827358/1228868709196632084
+- https://github.com/CMoyuer/VRChatAvatarSDK3Container
+- https://discord.com/channels/410126604237406209/588350726841827358/1229116097043894403
+- https://discord.com/channels/410126604237406209/1004342533964439592/1228832885235122217
+- https://discord.com/channels/410126604237406209/1004342104383815681/1228823050607136820
+- CCK 3.9 now
+- odain
+- cvr physic chair teleport!
+- cvr cerveza cristal
+- https://discord.com/channels/410126604237406209/797279576459968555/1229509784424677470
+- https://discord.com/channels/410126604237406209/588350770777161748/1229428326112694374
+- https://discord.com/channels/410126604237406209/795882566968279091/1229446264844845087
+- cerveza cristal
+- https://lolatron.gumroad.com
+- cvr huhuhu
+- https://discord.com/channels/410126604237406209/682645682968199168/1229705203968774174
+- https://discord.com/channels/410126604237406209/1004342533964439592/1229770627548712981
+- https://youtube.com/shorts/BkGhRNb6R8Y?si=CN762xIWpxj3w0Zi
+- u
+- i
+- huhuhu
+- https://youtube.com/shorts/UiNI9k4E-Go?si=sZ6xOv04vwkROqcK here, cvr aaaaaaaaaguaaa
+- https://printables.com/model/398296-flexible-gripper
+- https://youtube.com/shorts/9jp7DDq7EIw?si=OYC9fq13upSLZ5KA cvr blender walli
+- https://youtube.com/shorts/UEz8ZI_dYwE?si=6tAj01syXnfiCeby 3d print tetris gameboy. Cvr augus
+- cvr maintain
+- https://discord.com/channels/410126604237406209/588350685255565344/1230469340696940584
+- https://discord.com/channels/410126604237406209/682645682968199168/1229825522989531228
+- https://discord.com/channels/410126604237406209/588350770777161748/1230219693781160016
+- https://github.com/yt-dlp/yt-dlp
+- https://discord.com/channels/410126604237406209/588350770777161748/1230375488250318878
+- https://discord.com/channels/410126604237406209/588350726841827358/1229947856367124540
+- https://discord.com/channels/410126604237406209/1004342533964439592/1230516836081336331
+- https://github.com/NotAKidOnSteam/AASEmulator/releases
+- https://discord.com/channels/410126604237406209/1004342700465733754/1230707913375350836
+- https://discord.com/channels/410126604237406209/795882566968279091/1230241273865175230
+- https://feedback.abinteractive.net/p/magica-1-mesh-cloth-bug
+- https://discord.com/channels/444433968201334787/1052483286414397451/1227094441018392687
+- https://discord.com/channels/444433968201334787/1052464272749379645/1228705153821970502
+- https://discord.com/channels/444433968201334787/1052464272749379645/1230184415095685170
+- maintain
+- cvr razaton
+- https://hsr.hoyoverse.com/en-us/news/111203
+- https://discord.com/channels/410126604237406209/588350685255565344/1231172953698467940
+- https://feedback.abinteractive.net/p/r175-voice-connection-issues-with-better-better-communications
+- razaton
+- https://discord.com/channels/410126604237406209/682645682968199168/1234239717894258688
+- https://discord.com/channels/410126604237406209/412210535443202049/1231163711746736179
+- cvr gaugo
+- https://github.com/armory3d/armortools
+- https://github.com/armory3d/armortools
+- https://discord.com/channels/410126604237406209/588350726841827358/1231639464154239008
+- https://discord.com/channels/410126604237406209/682645682968199168/1231586655274795079
+- https://discord.com/channels/410126604237406209/412210535443202049/1231674043082739844
+- https://discord.com/channels/613461480129560587/1204662818230640671/1219062356894552194
+- https://discord.com/channels/1101230269891096609/1101230270566383843/1220301115158171709
+- https://youtu.be/Qg4ZhCNybvw?si=mp_Im1QIjoZGerLd
+- https://discord.com/channels/410126604237406209/412210535443202049/1231673008880619661
+- https://discord.com/channels/410126604237406209/689949650614091827/1231744745173422090
+- https://discord.com/channels/410126604237406209/689949650614091827/1231745391335047269
+- https://discord.com/channels/410126604237406209/696083224648220762/1230645430035939469
+- https://github.com/Stypox/dicio-android
+- https://github.com/alphacep/vosk-api/
+- VoyVivika does not like fiddling with kick button
+- unless probably you know
+- gaugo
+- cvr udhs
+- https://3d.nicovideo.jp/works/td1809
+- https://3d.nicovideo.jp/works/td73777
+- https://youtu.be/vjnWI5f3sEA?si=XLFmAnPEc0m3bEd6
+- https://www.youtube.com/watch?v=izlE4SgCCQg&t=0s
+- https://sketchfab.com/3d-models/kcdf-hanging-scroll-painting-d-03-9915b88dd6be41c3bb7fffa640bd0912
+- https://sketchfab.com/3d-models/hanging-scroll-17cac1df01fd4daa897932ea8377ff7c
+- https://sketchfab.com/3d-models/wooden-barrel-japanese-wood-tool-7ec6c4389a384a9a8fcaadb8769b36ff
+- udhs
+- cvr toga
+- https://github.com/hisprofile/blenderstuff/blob/main/Creations/Source%20Engine%20Blender%20Collection.md#counter-strike-global-offensive
+- https://ko-fi.com/hisanimations
+- https://developer.valvesoftware.com/wiki/Infected_(shader)
+- https://discord.com/channels/722818587475050577/755348017799888927/1233202069200965672
+- https://discord.com/channels/410126604237406209/588350685255565344/1233195326475604039
+- https://discord.com/channels/410126604237406209/588350685255565344/1233132422841897071
+- https://discord.com/channels/410126604237406209/1195601585720528976/1233133320527806567
+- https://discord.com/channels/410126604237406209/797279576459968555/1233139394995683500
+- https://discord.com/channels/410126604237406209/588350726841827358/1233115460514353204
+- https://discord.com/channels/410126604237406209/588350726841827358/1233135684345266299
+- https://www.youtube.com/watch?v=0I-4a1q0YLE
+- https://discord.com/channels/410126604237406209/588350726841827358/1233138242262532126
+- toga
+- cvr tumao
+- https://discord.com/channels/410126604237406209/588350726841827358/1233859968436797570
+- https://discord.com/channels/410126604237406209/588350770777161748/1233825083835945021
+- https://discord.com/channels/410126604237406209/682645682968199168/1233600875055026197
+- https://discord.com/channels/410126604237406209/1195601585720528976/1233859062471327876
+- https://discord.com/channels/410126604237406209/1195601585720528976/1233884068882419805
+- https://github.com/NotAKidOnSteam/NAK_CVR_Prefabs/blob/main/WallWalker/README.md
+- https://github.com/NotAKidOnSteam/NAK_CVR_Prefabs/tree/main
+- https://discord.com/channels/410126604237406209/588350685255565344/1233742518810574879
+- https://discord.com/channels/410126604237406209/588350685255565344/1233869467277332561
+- https://discord.com/channels/410126604237406209/1004342533964439592/1233243753393950730
+- https://discord.com/channels/410126604237406209/1004342533964439592/1233524994147876915
+- https://discord.com/channels/867567549858971669/867567551809716226/1232918668485333034
+- https://discord.com/channels/867567549858971669/876534630726127627/1214792256846962709
+- https://x.com/NATSUKAZEREI/status/1784193420195688585
+- https://discord.com/channels/867567549858971669/867567551809716226/1232921217518800906
+- tumao
+- cvr odainx
+- https://github.com/PiMaker/ltcgi/issues/30 fixed
+- odainx
+- cvr dddd
+- https://discord.com/channels/410126604237406209/588350685255565344/1234116339199905824
+- https://discord.com/channels/410126604237406209/588350726841827358/1234148539408322560
+- https://discord.com/channels/410126604237406209/797279576459968555/1234020966812618853
+- https://github.com/DomNomNomVR/cvr-audio-link/releases/tag/0.3.3
+- https://discord.com/channels/410126604237406209/588350770777161748/1234054396510343290
+- https://discord.com/channels/410126604237406209/682645682968199168/1234110529170051134
+- https://discord.com/channels/410126604237406209/588350685255565344/1234151010323136633
+- https://youtube.com/shorts/NKAlQzIhoUU?si=zOx16sAQhdITszON
+- dddd
+- cvr gugh
+- https://e621.net/posts/4742692
+- http://discord.gg/W8gyUdmAr8 BDAnimare
+- https://twitter.com/Chocoscorner
+- https://twitter.com/Chocoscorner/status/1508269473823924229?t=HyMb7DmdZehABu1BEo3Hhg&s=19
+- https://smutba.se/user/15927/
+- gugh
+- cvr ufa
+- https://discord.com/channels/1101230269891096609/1101230270566383843/1231321112240062484
+- https://x.com/LukaszBorges/status/1782522326371676490
+- https://discord.com/channels/410126604237406209/797279576459968555/1232044199755649158
+- https://discord.com/channels/410126604237406209/588350726841827358/1232018809804689418
+- https://discord.com/channels/410126604237406209/588350726841827358/1232055919202799656
+- https://discord.com/channels/444433968201334787/1052464272749379645/1232051292751532062
+- https://discord.com/channels/410126604237406209/1195601585720528976/1232102975351296050
+- https://discord.com/channels/410126604237406209/588350685255565344/1232100813820919908
+- https://discord.com/channels/410126604237406209/412210535443202049/1232076534421000252
+- https://www.youtube.com/watch?v=Z12kUwUL1IA
+- https://discord.com/channels/410126604237406209/412210535443202049/1232083330007040020
+- https://www.youtube.com/watch?v=cLm1se8-XO4
+- ufa
+- https://discord.com/channels/410126604237406209/1004342700465733754/1231424961969918003 cvr edri
+- cvr oks
+- https://discord.com/channels/410126604237406209/588350726841827358/1231237643631857684
+- https://discord.com/channels/410126604237406209/797279576459968555/1231252325230973010
+- oks
+- cvr pontu
+- https://discord.com/channels/716536783621587004/1220944586361536683/1227216781777702972 beta meetup nsfw
+- https://discord.com/channels/410126604237406209/588350726841827358/1227693564889399346
+- pontu
+- cvr joga
+- https://discord.com/channels/410126604237406209/797279576459968555/1208595743053713461
+- https://discord.com/channels/410126604237406209/797279576459968555/1208971724104671252
+- https://discord.com/channels/410126604237406209/588350770777161748/1227446092237639801
+- https://discord.com/channels/1053364052488888351/1053413145491808378/1227269899307581541 new!!! Steam Audio new!!!
+- joga
+- https://discord.com/channels/410126604237406209/588350726841827358/1234237421907083265 Magica setting recommend
+- https://discord.com/channels/722818587475050577/755348017799888927/1234281878064730234
+- blenderstuff/Creations/Source Engine Blender Collection.md at main ...
+- https://github.com/hisprofile/blenderstuff/blob/main/Creations/Source%20Engine%20Blender%20Collection.md#team-fortress-2
+- https://discord.com/channels/987374913495113798/987374913495113801/1234213630493593721
+- https://github.com/VRLabs/Raycast-Prefab
+- https://github.com/VRLabs/Damping-Constraints
+- https://impresi.republika.co.id/didaktika/1694593961/wow-google-doodle-hadirkan-tari-rangkuk-alu-begini-sejarahnya#:~:text=Tari%20Rangkuk%20Alu%20merupakan%20tarian,untuk%20terhubung%20dengan%20budaya%20mereka.
+- https://github.com/DomNomNomVR/cvr-audio-link/commit/a1a0b276b1163fa3b144539bca7ccc554eb7383a hello, there's new update
+- https://discord.com/channels/410126604237406209/766086942005526579/1075090431760674869 here's bluethefox
+- & thancc NovaVoidHowl too.
+- https://github.com/Alex313031/Windows-XP-Stuffz
+- https://thorium.rocks/winxp/
+- https://soggi.org/misc/articles/Windows-Embedded-POSReady-2009-Update-Hack-Windows-XP.htm
+- https://www.youtube.com/watch?v=aCZ4wXPm3A8
+- AI, will eventually win over souls. Through crafts, of the souled victims.
+- Build 3D model of male or female with naked support & generate heartbeat sound for those.
+- https://github.com/StressLevelZero/MarrowSDK/wiki#project-setup Unity `2021.3.5f1`
+- https://github.com/StressLevelZero/MarrowSDK
+- https://github.com/RevOcelotMGS/Marrow-ExtendedSDK
+- https://freesound.org/people/fonografico/sounds/611930/ pls download boat motor sound! fonografico
+- https://youtu.be/_FtV1S6UHwc art of modding portal
+- https://ambientcg.com/view?id=SheetMetalSubstance001
+- https://hub.virtamate.com/wiki/getting_started/
+- https://hub.virtamate.com/threads/how-to-officially-get-vam.39231/
+- https://vamx.itch.io/vamx **PAID** game.
+- https://github.com/DomNomNomVR/cvr-audio-link
+- https://github.com/PiMaker/ltcgi/issues/30
+- https://www.furaffinity.net/user/dragonskyrunner/
+- https://www.furaffinity.net/view/50240197/
+- https://dragonskyrunner.gumroad.com/l/MaximusDraconis **PAID**
+- https://www.furaffinity.net/view/55739437/
+- https://dragonskyrunner.gumroad.com/l/Voseus **PAID**
+- https://www.furaffinity.net/view/44835581/
+- guess the game?!?!??!!?
+- https://store.steampowered.com/bundle/7694/Kagura_Bundle/
+- caffein sausage
+- https://beckadam.gumroad.com
+- https://beckadam.gumroad.com/l/icybeckashaderpack **PAID**
+- https://skfb.y/or8Xs CRT
+- https://github.com/adam-beck?tab=repositories wrong
+- https://discord.com/channels/969594520901664779/969594521400770617/1156326438039998484
+- https://docs.github.com/articles/ignoring-files
+- https://www.atlassian.com/git/tutorials/saving-changes/gitignore
+- https://discord.com/channels/410126604237406209/797279576459968555/1201677720623530055
+- https://github.com/pyunity/pyunity
