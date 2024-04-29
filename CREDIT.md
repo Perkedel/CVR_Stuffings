@@ -6491,3 +6491,11 @@ https://youtu.be/qzhuWRQWK5I?si=PygoI274O32LWD5a
 - https://www.atlassian.com/git/tutorials/saving-changes/gitignore
 - https://discord.com/channels/410126604237406209/797279576459968555/1201677720623530055
 - https://github.com/pyunity/pyunity
+- https://twitter.com/Sashacakies
+- https://t.co/VXgm8KnSYi
+- Must discordee
+- https://smutba.se/user/1507/
+- https://smutba.se/user/11473/
+- https://docs.unity3d.com/Manual/upm-ui-install.html
+- https://docs.unity3d.com/Packages/com.unity.scripting.python@7.0/manual/installation.html
+- https://youtube.com/shorts/W1wKrUm8uCg?si=4-oH6Qg9FVhhgKwp
