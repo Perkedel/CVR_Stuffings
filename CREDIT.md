@@ -6541,5 +6541,15 @@ https://youtu.be/qzhuWRQWK5I?si=PygoI274O32LWD5a
 - https://lox9973.com/gitlab/
 - https://gitlab.com/lox9973/ShaderMotion
 - https://lox9973.booth.pm/items/3661829 **PAID** AreaLit
-- https://booth.pm/en/items/2657402 **PAID** Potato chips edible found in FroggoVR forgot hangar world name lol
+- https://gitlab.com/lox9973/UdonFlat
+- https://gitlab.com/lox9973/ShaderAudio/-/tree/master/AudioShader?ref_type=heads
 - OK
+- https://booth.pm/en/items/2657402 **PAID** Potato chips edible found in FroggoVR forgot hangar world name lol
+- https://discord.com/channels/410126604237406209/588350726841827358/1234408955883552820
+- https://discord.com/channels/410126604237406209/588350685255565344/1234733574813650964
+- pls make hbd enable text for certain cron
+- https://discord.com/channels/969594520901664779/969594521400770617/1234764212840960021
+- https://discord.com/channels/969594520901664779/1087144935469351085/1234423905133789268
+- https://booth.pm/en/items/1084711
+- https://freesound.org/people/frederic.font/sounds/456500/
+- https://freesound.org/people/BeatsbyCasper/packs/10592/ field recording pack
