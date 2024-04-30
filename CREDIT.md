@@ -6528,3 +6528,18 @@ https://youtu.be/qzhuWRQWK5I?si=PygoI274O32LWD5a
 - https://github.com/sentry456123
 - https://github.com/sentry456123/OptimizationGame
 - https://sentry456123.github.io/amogus.html
+- https://docs.unity.cn/560/Documentation/Manual/PlatformDependentCompilation.html
+- https://docs.unity3d.com/Manual/PlatformDependentCompilation.html
+- https://stackoverflow.com/q/35534766/9079640
+- https://www.reddit.com/r/git/comments/sme7k4/add_specific_folder_with_submodule_to_a_repository/
+- https://www.atlassian.com/git/tutorials/git-submodule
+- https://chrisjean.com/git-submodules-adding-using-removing-and-updating/
+- lox9973 AreaLit
+- https://gitlab.com/lox9973/UniTAE
+- https://gitlab.com/lox9973/UdonFlat
+- https://gitlab.com/lox9973/ShaderAudio/-/tree/master/AudioShader?ref_type=heads
+- https://lox9973.com/gitlab/
+- https://gitlab.com/lox9973/ShaderMotion
+- https://lox9973.booth.pm/items/3661829 **PAID** AreaLit
+- https://booth.pm/en/items/2657402 **PAID** Potato chips edible found in FroggoVR forgot hangar world name lol
+- OK
