@@ -6511,3 +6511,20 @@ https://youtu.be/qzhuWRQWK5I?si=PygoI274O32LWD5a
 - https://github.com/beckadamtheinventor
 - suda
 - https://github.com/beckadamtheinventor/IcybeckaStudios/blob/master/Packages/MultipleDetailMaps/IcybeckaMultipleDetailMaps0.4.unitypackage
+- https://discord.com/channels/410126604237406209/682645682968199168/1234520390378848339
+- https://youtu.be/SqhXQUzVMlQ?si=50OVFutsh3UUzRfI steve mould excitable medium
+- https://www.thingiverse.com/thing:6586043 here model oscar morris
+- https://youtu.be/FJFU_lYepMY?si=6p6FH1_FzNgi_WJb
+- https://youtu.be/EmLQKWF_FRw?si=QFudefRtFCTiRqX8
+- https://youtu.be/bOBLTS6D8jo?si=hBVPGvifhAVczHh0
+- https://blendermarket.com/products/combat-droid-d-300-auto-rig-pro-rigged-for-mixamo-unreal-engineunity **PAID**
+- https://youtu.be/BVxwr5hW7aw?si=q_THgdL0tmieI9th
+- https://dillongoostudios.com/
+- https://www.dillongoostudios.com/rigs
+- https://dillongoo.gumroad.com/l/emily-anime-rig **PAID**
+- https://dillongoo.gumroad.com/
+- https://sentry456123.github.io
+- https://youtu.be/15cjd65JuqI?si=63VTT84xHpEClkeO
+- https://github.com/sentry456123
+- https://github.com/sentry456123/OptimizationGame
+- https://sentry456123.github.io/amogus.html
