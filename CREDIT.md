@@ -6543,6 +6543,7 @@ https://youtu.be/qzhuWRQWK5I?si=PygoI274O32LWD5a
 - https://lox9973.booth.pm/items/3661829 **PAID** AreaLit
 - https://gitlab.com/lox9973/UdonFlat
 - https://gitlab.com/lox9973/ShaderAudio/-/tree/master/AudioShader?ref_type=heads
+- https://gitlab.com/lox9973/ShaderAudio
 - OK
 - https://booth.pm/en/items/2657402 **PAID** Potato chips edible found in FroggoVR forgot hangar world name lol
 - https://discord.com/channels/410126604237406209/588350726841827358/1234408955883552820
@@ -6553,3 +6554,20 @@ https://youtu.be/qzhuWRQWK5I?si=PygoI274O32LWD5a
 - https://booth.pm/en/items/1084711
 - https://freesound.org/people/frederic.font/sounds/456500/
 - https://freesound.org/people/BeatsbyCasper/packs/10592/ field recording pack
+- https://freesound.org/people/BeatsbyCasper/sounds/170243/
+- https://sidega.booth.pm/
+- https://lilithe.booth.pm/
+- https://morioh.booth.pm/items/2706731
+- https://booth.pm/en/items/1572731 **PAID** Nikuyu costume
+- https://booth.pm/en/items/2559783 **PAID** rusk
+- https://booth.pm/en/items/3784597 **PAID** Coffee brewer
+- https://morioh.booth.pm/items/2706731 Morioh Toon
+- https://gitlab.com/xMorioh/moriohs-toon-shader yey
+- https://booth.pm/en/items/1084711 xiexe shader
+- https://gitlab.com/s-ilent/SCSS/-/wikis/Manual/Inventory-System
+- https://gitlab.com/s-ilent/SCSS
+- https://skfb.ly/6GwqK pls Skullcandy Crusher wireless Ankledot
+- https://gitlab.com/xMorioh/moriohs-toon-shader/-/wikis/Mori's-Toon-Shader-Manual
+- https://youtu.be/tInhZMzxmRo
+- https://www.youtube.com/watch?v=Cd9aRtwj9xA
+- https://www.youtube.com/watch?v=DSgFu4rDxgc
