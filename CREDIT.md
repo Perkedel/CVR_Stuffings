@@ -3390,7 +3390,7 @@ New Sauce lists
 - https://discord.com/channels/1001388809184870441/1001388935819309126/1168852114458562570
 - `GameObject.Instantiate` use `.` for accessing static methods
 - https://discord.com/channels/856570745726566411/856794862497693737/1199033001762377728
-- https://skfb.ly/6oKIn
+- https://skfb.ly/6oKIn Drum kit
 - https://booth.pm/en/items/2700477 **PAID**
 - https://darkpowers0819.gumroad.com **PAID**
 - https://discord.com/channels/410126604237406209/588350770777161748/1198865836455247983
@@ -6571,3 +6571,51 @@ https://youtu.be/qzhuWRQWK5I?si=PygoI274O32LWD5a
 - https://youtu.be/tInhZMzxmRo
 - https://www.youtube.com/watch?v=Cd9aRtwj9xA
 - https://www.youtube.com/watch?v=DSgFu4rDxgc
+- https://skfb.ly/o8s9D bic lighter
+- https://discord.com/channels/410126604237406209/682645682968199168/1234913367773417472
+- https://discord.com/channels/784990546779045920/1139817163172094033/1235032247002857563
+- https://discord.com/channels/784990546779045920/1139817163172094033/1235032247002857563
+- https://www.newgrounds.com/portal/view/770371 FNF new week
+- https://github.com/projectM-visualizer/projectm
+- https://github.com/Nirv-git?tab=repositories
+- pls request motion sickness tag
+- https://freesound.org/forum/freesound-project/44378/?page=1#post102966
+- https://freesound.org/people/Ragnar59/packs/39634/ bebesound prenatal heart listener
+- ludo pls write dice number with textmeshpro. thancc Keiannai again
+- https://trello.com/b/zFVSdlQY/the-nine-tails
+- https://discord.io/TheNineTails
+- https://opengameart.org/content/oozey-the-slime
+- https://academy.showcockpit.com/tutorials/protocol-conversion/midi-to-osc
+- https://www.fredrodrigues.net/gadgets/osc-to-midi-and-midi-to-osc-convertor/
+- https://github.com/mmalex/midi2osc
+- https://code.google.com/archive/p/osc-midi-bridge/wikis/home.wiki
+- https://opensoundcontrol.stanford.edu/
+- https://github.com/mmalex/midi2osc/blob/master/binaries/midi2osc.exe
+- https://github.com/kafeijao/cvr_osc_lib_py here are examples OSC!!! kafeijao. `Assets/Props` incoming!
+- cvr tu
+- https://youtu.be/lAEuSzR7HKI
+- https://discord.com/channels/410126604237406209/766086942005526579/1234427766569566228
+- https://discord.com/channels/969594520901664779/969594521602105418/1228625387245015090
+- https://store.steampowered.com/hwsurvey/
+- https://discord.com/channels/410126604237406209/1004342533964439592/1234744266761306122
+- https://discord.com/channels/867567549858971669/1137194739469394023/1216145156219338835
+- https://discord.com/channels/867567549858971669/876534749114564658/1212662343419564112
+- https://discord.com/channels/867567549858971669/876534749114564658/1212671283725209680
+- tu
+- https://github.com/SDraw/ml_mods_cvr/tree/master/ml_dht
+- https://github.com/kafeijao/cvr_osc_lib_py
+- https://github.com/kafeijao/Kafe_CVR_Mods/tree/master/OSC#OSC-ChatBox
+- https://hexler.net/touchosc-mk1/manual/configuration-connections-bridge
+- https://github.com/mmalex/midi2osc/blob/master/binaries/midi2osc.exe
+- zereksan suggests mustang 2007 RCC. swap out system. steering tight. adapt from real mustang
+- https://en.wikipedia.org/wiki/Indonesia#/media/File:Flag_of_Indonesia.svg
+- mr willie bam walmart remix
+- https://discord.com/channels/410126604237406209/689949650614091827/1235035296966639708
+- https://discord.com/channels/410126604237406209/689949650614091827/1235020312253436095
+- https://twitter.com/iVRy_VR/status/1783408462610809111
+- https://discord.com/channels/410126604237406209/696083224648220762/1230645430035939469
+- https://discord.com/channels/410126604237406209/588350685255565344/1235178929539780638
+- https://discord.com/channels/410126604237406209/1004342533964439592/1235188519710756865
+- https://discord.com/channels/410126604237406209/588350685255565344/1235189249125515327
+- https://discord.com/channels/410126604237406209/588350685255565344/1235190900435718164
+- https://github.com/VoyVivika/CVR-Tutorial-Prop
