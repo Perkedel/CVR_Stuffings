@@ -6662,3 +6662,6 @@ https://youtu.be/qzhuWRQWK5I?si=PygoI274O32LWD5a
 - ironwolf discord account banned, that's why new server.
 - https://discord.com/channels/410126604237406209/588350726841827358/1235560095727751240
 - https://discord.com/channels/410126604237406209/588350685255565344/1235541442743762975
+- https://github.com/gwaredd/UnityMarkdownViewer
+- https://github.com/JimmyCushnie/FancyTextRendering
+- https://forum.unity.com/threads/simple-html-markdown-renderer-for-textmeshpro.838876/
