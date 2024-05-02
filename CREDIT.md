@@ -6665,3 +6665,4 @@ https://youtu.be/qzhuWRQWK5I?si=PygoI274O32LWD5a
 - https://github.com/gwaredd/UnityMarkdownViewer
 - https://github.com/JimmyCushnie/FancyTextRendering
 - https://forum.unity.com/threads/simple-html-markdown-renderer-for-textmeshpro.838876/
+- pls snapshot the core
