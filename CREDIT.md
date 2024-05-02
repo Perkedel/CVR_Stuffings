@@ -3825,7 +3825,7 @@ New Sauce lists
 - https://twitter.com/zebjzz/status/1750703860086157710
 - fucking hell. next!
 - https://skfb.ly/oJSFy rat low poly
-- https://skfb.ly/6UWoN
+- https://skfb.ly/6UWoN fast food
 - https://sisters.booth.pm
 - https://sketchfab.com/c3posw01 pls download Maksim Batyrev. Chen has tanks ported here
 - https://assetstore.unity.com/packages/3d/environments/sci-fi/polygon-sci-fi-worlds-low-poly-3d-art-by-synty-206299 **PAID**
@@ -5134,7 +5134,7 @@ New Sauce lists
 - https://discord.com/channels/410126604237406209/689949650614091827/1219699268818964572
 - avi from booth
 - **Standbyducks is gone**
-- https://skfb.ly/oM7r9
+- https://skfb.ly/oM7r9 Grandma
 - https://skfb.ly/oIG8B
 - video player prop exclusively stream my Odysee
 - Pacman World
@@ -5277,7 +5277,7 @@ New Sauce lists
 - pls rampify all stairs next time. CafeDNB especially.
 - pls fill textures with ambientcg
 - https://twitch.tv/65o2
-- https://skfb.ly/oqLrN
+- https://skfb.ly/oqLrN snark
 - https://dragonskyrunner.gumroad.com
 - https://ambientcg.com/ thancc Jkk for the info about this.
 - https://ambientcg.com/view?id=Wood092
@@ -6622,3 +6622,41 @@ https://youtu.be/qzhuWRQWK5I?si=PygoI274O32LWD5a
 - https://discord.com/channels/410126604237406209/588350685255565344/1235229960633978893
 - https://discord.com/channels/410126604237406209/588350685255565344/1235215514616336454
 - https://discord.com/channels/410126604237406209/588350685255565344/1235244401437966407
+- cvr fnaf
+- https://youtu.be/_1dLB5-8frE
+- https://discord.com/channels/410126604237406209/797279576459968555/1235201467321946243
+- https://discord.com/channels/410126604237406209/588350685255565344/1235354150179704902
+- https://discord.com/channels/410126604237406209/682645682968199168/1235310488590614638
+- fnaf
+- Swiss_fox sketchfab pls
+- RaidShadowLily & Simon the cat. hbd
+- PirateBox software
+- Kalle sketchfab
+- Royco cup of soup
+- https://skfb.ly/oAWtu Capybara ok i pull up
+- Jill's master (S2) thesis is Ai training neural for motion sickness detection on people
+- it detects your headset & controllers transform. if it looks sickness, there.
+- https://skfb.ly/6XWt6 golf cart
+- https://discord.com/channels/410126604237406209/588350770777161748/1235398283841503242
+- Zeachy3D Puro pls
+- https://youtu.be/xhtsXxt3-mw?si=domsbYIlxYuWVcbU ai thx sfx spongbob ai
+- https://youtu.be/uXHozbfG2l4?si=VqJbDJYKAAKCZqhc
+- https://youtu.be/uXHozbfG2l4?si=VqJbDJYKAAKCZqhc
+- https://dippysocial.carrd.co/
+- https://youtu.be/sEEZFpL54fE?si=_31n1l0CJt687Epr
+- https://youtu.be/ekYm32M4Cg4?si=thpY-rfWQK2D2Xsd
+- mikoverse game
+- https://www.mikoverse.com/
+- https://store.steampowered.com/app/1914710/MikoVerse/
+- blue snowball 2005 keep??
+- stop a gaben
+- https://doopthefloop.gumroad.com
+- https://github.com/Exterrata/Rotate-Mod
+- sunvox
+- https://discord.gg/hUntBefD57 why new server ironwolf?
+- https://sketchfab.com/3d-models/gundam-gal-0ee1a3acd00f4bce87629dbf2b6d5a8e
+- https://x.com/moonifysfm/status/1785721726879289666?s=46
+- https://discord.com/channels/1235521491752325160/1235527955556335636/1235537743967424572
+- https://discord.com/channels/1235521491752325160/1235527955556335636/1235537690460557322 ha
+- https://discord.com/channels/1235521491752325160/1235527955556335636/1235537440073191515
+- ironwolf discord account banned, that's why new server.
