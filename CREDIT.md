@@ -6576,6 +6576,7 @@ https://youtu.be/qzhuWRQWK5I?si=PygoI274O32LWD5a
 - https://discord.com/channels/784990546779045920/1139817163172094033/1235032247002857563
 - https://discord.com/channels/784990546779045920/1139817163172094033/1235032247002857563
 - https://www.newgrounds.com/portal/view/770371 FNF new week
+- https://ninja-muffin24.itch.io/funkin iyey!!
 - https://github.com/projectM-visualizer/projectm
 - https://github.com/Nirv-git?tab=repositories
 - pls request motion sickness tag
@@ -6666,3 +6667,100 @@ https://youtu.be/qzhuWRQWK5I?si=PygoI274O32LWD5a
 - https://github.com/JimmyCushnie/FancyTextRendering
 - https://forum.unity.com/threads/simple-html-markdown-renderer-for-textmeshpro.838876/
 - pls snapshot the core
+- https://ambientcg.com/view?id=SheetMetalSubstance001
+- https://ambientcg.com/view?id=SheetMetal003
+- https://ambientcg.com/view?id=SheetMetal002
+- bilang saja kau gak tahu. katakan sejujurnya
+- https://ambientcg.com/view?id=SheetMetal001
+- a
+- https://ambientcg.com/view?id=MetalWalkway013
+- https://ambientcg.com/view?id=MetalWalkway011
+- https://ambientcg.com/view?id=MetalWalkway010
+- https://ambientcg.com/view?id=MetalWalkway012
+- https://ambientcg.com/view?id=MetalWalkwaySubstance002
+- https://ambientcg.com/view?id=MetalPlatesSubstance004
+- https://ambientcg.com/view?id=DiamondPlateSubstance002
+- https://ambientcg.com/view?id=FenceSubstance002
+- https://ambientcg.com/view?id=MetalPlatesSubstance002
+- https://ambientcg.com/view?id=ChainmailSubstance001
+- https://ambientcg.com/view?id=PaintedMetal017
+- https://ambientcg.com/view?id=PaintedMetalSubstance002
+- https://ambientcg.com/view?id=Chainmail001
+- https://ambientcg.com/view?id=Chainmail004
+- https://ambientcg.com/view?id=MetalPlates008
+- https://ambientcg.com/view?id=CorrugatedSteel007A
+- https://ambientcg.com/view?id=Fence008A
+- https://ambientcg.com/view?id=Fence007A
+- https://ambientcg.com/view?id=Fence007C
+- https://ambientcg.com/view?id=Fence007B
+- https://ambientcg.com/view?id=DiamondPlate008B
+- https://ambientcg.com/view?id=DiamondPlate007A
+- https://ambientcg.com/view?id=DiamondPlate007B
+- https://ambientcg.com/view?id=DiamondPlate007C
+- https://ambientcg.com/view?id=DiamondPlate008D
+- https://ambientcg.com/view?id=DiamondPlate008C
+- https://ambientcg.com/view?id=DiamondPlate008A
+- https://ambientcg.com/view?id=MetalPlates017A
+- https://ambientcg.com/view?id=MetalPlates017B
+- https://teambeanloop.itch.io/six-cats-under
+- https://lj-lephemstar.itch.io/scratchin-melodii
+- https://teamsalvato.itch.io/ddlc
+- https://needlejuicerecords.com/pages/friday-night-funkin
+- https://github.com/FunkinCrew
+- https://github.com/FunkinCrew/funkin not yet updated
+- https://ninja-muffin24.itch.io/funkin
+- https://github.com/FunkinCrew/funkBlog
+- https://funkin.me/
+- https://funkin.me/blog/2024-03-12/
+- https://funkin.me/blog/
+- https://funkin.me/blog/2024-03-03/
+- https://github.com/FunkinCrew/awesome-funkin-resources#funkin-resources
+- https://github.com/this-is-bennyk/FNF-Benjine
+- https://github.com/FNF-Mod-Porting/Funkin
+- https://gamebanana.com/mods/406483
+- https://gamebanana.com/mods/406483
+- https://github.com/this-is-bennyk/FNF-Benjine FNF Godot
+- https://github.com/FunkinCrew/awesome-funkin-resources#funkin-resources
+- https://github.com/FunkinCrew
+- cvr fuiyoh
+- hamn nemn yewn
+- adele sing holy are you Lord God Almighty
+- https://discord.com/channels/784990546779045920/1139819378293080075/1235703616413761637
+- https://gamebanana.com/mods/509610
+- https://discord.com/channels/410126604237406209/682645682968199168/1235565708977504306
+- fuiyoh
+- https://discord.com/channels/410126604237406209/588350726841827358/1235807753901965415
+- https://discord.com/channels/410126604237406209/588350685255565344/1235768497456545875
+- https://discord.com/channels/410126604237406209/1004342533964439592/1235685712729346202
+- https://discord.com/channels/410126604237406209/1004342533964439592/1235693215345021039
+- https://www.technicalpark.com/amusement-rides/street-fighter/
+- https://maartenhof.gumroad.com/
+- https://agitype01.gumroad.com
+- SLMGR.UPK
+- https://skfb.ly/ovXJQ ENA
+- https://skfb.ly/oAQKE Gigachad
+- https://skfb.ly/oBXEn Saul bench
+- https://sketchfab.com/CGBang
+- https://vxtwitter.com/Sassyrdos/status/1786032900573680055
+- spacestation 13
+- CATS
+- https://github.com/GorujoCY/Youtube-Video-Summarizer
+- https://github.com/GorujoCY/Unofficial-LunarCore-AIO-Installer
+- https://discord.com/channels/410126604237406209/588350685255565344/1235956172931072090
+- https://github.com/GorujoCY/Youtube-Video-Summarizer/stargazers
+- https://discord.com/channels/410126604237406209/412210535443202049/1235831206755700776
+- https://discord.com/channels/858122396170059866/1015365262612123679/1235959759463645214 ange the great new video
+- https://youtu.be/J11c8mMN1PA here
+- https://discord.com/channels/410126604237406209/412210535443202049/1235666043066777690
+- https://www.fileformat.info/info/unicode/char/3009/index.htm
+- https://docs.unity3d.com/Manual/occlusion-culling-getting-started.html
+- https://discord.com/channels/1013145647731449888/1013166757873197087/1235908252789768272
+- https://godotengine.org/article/update-on-google-forge-2024/
+- https://godotengine.org/article/dev-snapshot-godot-4-3-dev-6/
+- https://godotengine.org/education/
+- https://godotengine.org/article/update-on-google-forge-2024/
+- https://developer.android.com/games/optimize/adpf/thermal
+- https://godotengine.org/article/introducing-reverse-z/
+- https://wiki.chilloutvr.eu/en/home
+- https://developer.android.com/games/sdk/frame-pacing
+- https://discord.com/channels/867567549858971669/1030824996538437662/1115079060016603217 pls VoyVivika brand resources

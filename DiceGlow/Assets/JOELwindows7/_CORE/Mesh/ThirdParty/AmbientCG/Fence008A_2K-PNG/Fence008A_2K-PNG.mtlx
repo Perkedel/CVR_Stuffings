@@ -1,0 +1,52 @@
+<?xml version="1.0"?>
+<materialx version="1.38" fileprefix="./">
+  <standard_surface type="surfaceshader" xpos="6.159420" ypos="-1.879310" name="Fence008A_2K_PNG_StandardSurface">
+    <input value="0" type="float" name="specular" />
+    <input value="1" type="float" name="coat" />
+    <input value="1, 1, 1" type="color3" name="coat_color" />
+    <input value="1" type="float" name="base" />
+    <input type="color3" nodename="Fence008A_2K_PNG_Color" name="base_color" />
+    <input value="1" type="float" nodename="Fence008A_2K_PNG_Metalness" name="metalness" />
+    <input type="vector3" nodename="normalmap" name="normal" />
+    <input type="vector3" nodename="normalmap" name="coat_normal" />
+    <input type="color3" nodename="Fence008A_2K_PNG_Opacity" name="opacity" />
+    <input type="float" nodename="Fence008A_2K_PNG_Roughness" name="specular_roughness" />
+    <input type="float" nodename="Fence008A_2K_PNG_Roughness" name="coat_roughness" />
+  </standard_surface>
+  <surfacematerial type="material" xpos="8.695652" ypos="0.000000" name="Fence008A_2K_PNG">
+    <input type="surfaceshader" nodename="Fence008A_2K_PNG_StandardSurface" name="surfaceshader" />
+    <input type="displacementshader" nodename="displacement" name="displacementshader" />
+  </surfacematerial>
+  <tiledimage type="color3" xpos="3.623188" ypos="-3.103448" name="Fence008A_2K_PNG_Color">
+    <input value="Fence008A_2K-PNG_Color.png" type="filename" colorspace="srgb_texture" name="file" />
+    <input value="1.0, 1.0" type="vector2" name="uvtiling" />
+  </tiledimage>
+  <tiledimage type="float" xpos="3.623188" ypos="5.163793" name="Fence008A_2K_PNG_Displacement">
+    <input value="Fence008A_2K-PNG_Displacement.png" type="filename" name="file" />
+    <input value="1.0, 1.0" type="vector2" name="uvtiling" />
+  </tiledimage>
+  <displacement type="displacementshader" xpos="6.159420" ypos="1.879310" name="displacement">
+    <input type="float" nodename="Fence008A_2K_PNG_Displacement" name="displacement" />
+    <input value="1.0" type="float" name="scale" />
+  </displacement>
+  <tiledimage type="float" xpos="3.623188" ypos="-1.758621" name="Fence008A_2K_PNG_Metalness">
+    <input value="Fence008A_2K-PNG_Metalness.png" type="filename" name="file" />
+    <input value="1.0, 1.0" type="vector2" name="uvtiling" />
+  </tiledimage>
+  <tiledimage type="vector3" xpos="1.086957" ypos="0.879310" name="Fence008A_2K_PNG_NormalGL">
+    <input value="Fence008A_2K-PNG_NormalGL.png" type="filename" name="file" />
+    <input value="1.0, 1.0" type="vector2" name="uvtiling" />
+  </tiledimage>
+  <normalmap type="vector3" xpos="3.623188" ypos="3.586207" name="normalmap">
+    <input type="vector3" nodename="Fence008A_2K_PNG_NormalGL" name="in" />
+    <input value="1.0" type="float" name="scale" />
+  </normalmap>
+  <tiledimage type="color3" xpos="3.623188" ypos="2.250000" name="Fence008A_2K_PNG_Opacity">
+    <input value="Fence008A_2K-PNG_Opacity.png" type="filename" name="file" />
+    <input value="1.0, 1.0" type="vector2" name="uvtiling" />
+  </tiledimage>
+  <tiledimage type="float" xpos="3.623188" ypos="-0.413793" name="Fence008A_2K_PNG_Roughness">
+    <input value="Fence008A_2K-PNG_Roughness.png" type="filename" name="file" />
+    <input value="1.0, 1.0" type="vector2" name="uvtiling" />
+  </tiledimage>
+</materialx>
