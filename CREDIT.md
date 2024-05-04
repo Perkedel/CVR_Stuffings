@@ -6555,7 +6555,7 @@ https://youtu.be/qzhuWRQWK5I?si=PygoI274O32LWD5a
 - https://freesound.org/people/frederic.font/sounds/456500/
 - https://freesound.org/people/BeatsbyCasper/packs/10592/ field recording pack
 - https://freesound.org/people/BeatsbyCasper/sounds/170243/
-- https://sidega.booth.pm/
+- https://sidega.booth.pm/ sucub-s3
 - https://lilithe.booth.pm/
 - https://morioh.booth.pm/items/2706731
 - https://booth.pm/en/items/1572731 **PAID** Nikuyu costume
@@ -6764,3 +6764,22 @@ https://youtu.be/qzhuWRQWK5I?si=PygoI274O32LWD5a
 - https://wiki.chilloutvr.eu/en/home
 - https://developer.android.com/games/sdk/frame-pacing
 - https://discord.com/channels/867567549858971669/1030824996538437662/1115079060016603217 pls VoyVivika brand resources
+- sucri gumroad
+- fatih yavuz sketchfab
+- Blocking people will cause people upset & would like to kick you. 4th may 2024. aaaaaaaaa
+- https://discord.com/channels/1042624035676246017/1042641631821692928/1236029284406263819
+- pls find kon avatar
+- ukon
+- Keep It Simple Stupid
+- Make It Complicated Genius
+- real time corruptor. corrupt game
+- arc browser
+- https://discord.gg/HV5c4W9YhX Club Sanbu
+- https://discord.com/channels/410126604237406209/588350726841827358/1236043708114276465
+- https://discord.com/channels/410126604237406209/682645682968199168/1236071497479753809 I am not drunk
+- https://discord.com/channels/410126604237406209/689949650614091827/1236010409950187560
+- https://www.youtube.com/watch?v=AG8VFyW61e0
+- cyberwzrd found research that human has more accurate reaction of reading object velocity falling down vs going up
+- Unity urban city meshlab studio
+- https://assetstore.unity.com/packages/3d/environments/urban/urban-city-pack-34832 **PAID** wrong!
+- https://assetstore.unity.com/packages/3d/environments/urban/urban-city-package-169317 **PAID** correct!
