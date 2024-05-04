@@ -4308,7 +4308,7 @@ New Sauce lists
 - https://discord.com/channels/1092233134566801478/1092233135925760013/1105794089305243688 Color Picker Prop DomNomVR, found in creator showcase
 - https://29a.ch/photo-forensics/#luminance-gradient
 - https://discord.com/channels/1092233134566801478/1092233135925760013/1098141642868924436
-- https://discord.com/channels/1092233134566801478/1092233135925760013/1096498197213491231 Kavex collections of NotAKid files. Creator Showcase. Has: Roblox Path Giver, Quick Material Swap, Gesture to Int, Base Animator patch, Avatar Pointer Generator
+- https://discord.com/channels/1092233134566801478/1092233135925760013/1096498197213491231 Kavex collections of NotAKid files. Creator Showcase. Has: Roblox Path Giver, Quick Material Swap, Gesture to Int, Base Animator patch, Avatar Pointer Generator **UNPUBLIC: https://github.com/Perkedel/CVR_Stuffings/issues/2**
 - https://github.com/KyogenScientia/CVR-Prefabs WOW
 - https://discord.com/channels/1092233134566801478/1092233135925760013/1096490573076119612 Momma Molly's assets, Creator Showcase. Has: Color Mixer from Chen, Cube Puzzle from Chen, Interaction Layer, Keypad, Keycard
 - https://discord.com/channels/752509297837211731/808058590526439424 here are free dl from LensError in Purple Fox
