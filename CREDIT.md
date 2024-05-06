@@ -1376,7 +1376,7 @@ New Sauce lists
 - https://booth.pm/en/items/1489411
 - https://booth.pm/en/items/1484117
 - https://gend-vrchat.booth.pm/ has sleep idle animation sleeping idle animation
-- https://booth.pm/en/items/2645962 PAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAID
+- https://booth.pm/en/items/2645962 **PAID** PAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAID
 - https://peachyboba.gumroad.com/
 - you gamers shut up with KYC!! ... Oh.. not just you. companies too under.., `Guest list`.. SHU-
 - https://littlesaku.gumroad.com/l/wzigdd?layout=profile **NO PUBLIC ALLOWED?!**, YO-
@@ -6783,3 +6783,34 @@ https://youtu.be/qzhuWRQWK5I?si=PygoI274O32LWD5a
 - Unity urban city meshlab studio
 - https://assetstore.unity.com/packages/3d/environments/urban/urban-city-pack-34832 **PAID** wrong!
 - https://assetstore.unity.com/packages/3d/environments/urban/urban-city-package-169317 **PAID** correct!
+- https://discord.com/channels/410126604237406209/689949650614091827/1236811471581872200
+- https://github.com/microsoft/MS-DOS/blob/main/LICENSE
+- https://github.com/microsoft/MS-DOS/
+- https://discord.com/channels/410126604237406209/689949650614091827/1236816350304010240
+- http://www.computerhistory.org/atchm/microsoft-ms-dos-early-source-code/
+- https://www.youtube.com/watch?v=JrWb9jj3IsU
+- https://discord.com/channels/410126604237406209/689949650614091827/1236839982065389619
+- https://discord.com/channels/410126604237406209/588350685255565344/1236778102340845589
+- https://discordapp.com/channels/410126604237406209/1195601585720528976/1236777708390973471
+- https://discord.com/channels/410126604237406209/797279576459968555/1236267031247061013
+- https://discord.com/channels/410126604237406209/588350770777161748/1236461974389264404
+- https://discord.com/channels/410126604237406209/588350726841827358/1236670650832388156
+- https://discord.com/channels/410126604237406209/412210535443202049/1236804410206720081
+- https://discord.com/channels/775343067191705630/776317942170255390/1236097664798560286
+- https://youtu.be/Ey9CQN-wMs0?si=RDGO9-FeCtP6b4_6
+- https://gamefromscratch.com/the-base-mesh-2-0/
+- https://www.thebasemesh.com/
+- https://www.thebasemesh.com/faq
+- https://discord.com/invite/6kNgsQrH3h The Base Mesh
+- https://youtu.be/5V2TZbSLyiM?si=Rzlmla3KLkaoW2s9 Prusa WiFi upgrade
+- https://help.prusa3d.com/guide/installing-wi-fi-and-prusalink-mini-_316781
+- https://docs.google.com/spreadsheets/d/1ql2TmS8O5Bkuf9SRhfP67RRD1isdThyN96f9M2KdSg4/edit#gid=0 compatible wifi module list
+- https://amzn.to/3w4qkCn where This Does not Compute bought one
+- https://youtu.be/1L2yjBJkd0E?si=tHG9PBqhkl4YVFuh
+- https://www.patreon.com/Dannih4
+- https://www.deviantart.com/danni-h4/art/Enid-Model-Download-855946574 **NO DOWNLOAD** download in patreon, must subscribe
+- https://youtube.com/shorts/DBi_riM0Vdc?si=tP4RecB_tUuUh1b1 how to model model hornet hollow knight
+- https://discord.com/channels/410126604237406209/1195601585720528976/1236878792992100433
+- https://discord.com/channels/410126604237406209/682645682968199168/1236882262503460955
+- https://sketchfab.com/3d-models/skull-downloadable-1a9db900738d44298b0bc59f68123393
+- https://freesound.org/people/Astounded/sounds/556035
