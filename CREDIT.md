@@ -4308,7 +4308,9 @@ New Sauce lists
 - https://discord.com/channels/1092233134566801478/1092233135925760013/1105794089305243688 Color Picker Prop DomNomVR, found in creator showcase
 - https://29a.ch/photo-forensics/#luminance-gradient
 - https://discord.com/channels/1092233134566801478/1092233135925760013/1098141642868924436
-- https://discord.com/channels/1092233134566801478/1092233135925760013/1096498197213491231 Kavex collections of NotAKid files. Creator Showcase. Has: Roblox Path Giver, Quick Material Swap, Gesture to Int, Base Animator patch, Avatar Pointer Generator **UNPUBLIC: https://github.com/Perkedel/CVR_Stuffings/issues/2**
+- https://discord.com/channels/1092233134566801478/1092233135925760013/1096498197213491231 Kavex collections of NotAKid files. Creator Showcase. Has: Roblox Path Giver, Quick Material Swap, Gesture to Int, Base Animator patch, Avatar Pointer Generator **NOT YET CONSENT: https://github.com/Perkedel/CVR_Stuffings/issues/2**
+- https://discord.com/channels/1092233134566801478/1092233135925760013/1096498197213491231 cvr kavex at Yen. NAK stuff some not yet public
+- https://github.com/Perkedel/CVR_Stuffings/issues/2 we have handled this issue no question asked.
 - https://github.com/KyogenScientia/CVR-Prefabs WOW
 - https://discord.com/channels/1092233134566801478/1092233135925760013/1096490573076119612 Momma Molly's assets, Creator Showcase. Has: Color Mixer from Chen, Cube Puzzle from Chen, Interaction Layer, Keypad, Keycard
 - https://discord.com/channels/752509297837211731/808058590526439424 here are free dl from LensError in Purple Fox
@@ -6814,3 +6816,107 @@ https://youtu.be/qzhuWRQWK5I?si=PygoI274O32LWD5a
 - https://discord.com/channels/410126604237406209/682645682968199168/1236882262503460955
 - https://sketchfab.com/3d-models/skull-downloadable-1a9db900738d44298b0bc59f68123393
 - https://freesound.org/people/Astounded/sounds/556035
+- https://store.steampowered.com/news/app/661130/view/4202498029368729859
+- cvr abandoner
+- we have been harrassed 3 times. Blockeh. Handover to you Pinball Agung
+- no, we need to discuss that, it's unity. Not just not ours. Kaorfa has sworn and ordered us to never Unity again after this and that
+- appear Made with Unity, alongside Harrassed by Runtime Fee logo
+- look. If we tried Kaorfa's money grabbing subsidiary Green corp, they wouldn't take it also. It's Unity. Not Godot.
+- Just so you know, soon the DiceGlow team members retires placewide.
+- wait. Zuuljedus & Panfesir retire?? So soon!
+- I know. We got other problems, but that's so much I receive from Kaorfa. He decided not to disclose the issue this time until thousands of years.
+- yikes, what happened with Kaorfa?
+- We were not told. Ever. All I see many employees on lore dev realm offered resign, and many took it. Additionally there is rumor, but, telling that is absurd, so let's treat that as hoax.
+- okay that's enough. What do you gonna do now?
+- Move out. Idk. So I'm stuck.
+- Spoiler alert, after Sediron 4, Zumi found option finally to have own realm. Entire X0p1r4t3 can now sail off Dasandim into new home, become planet of its own.
+- Yer 29:11
+- https://discord.com/channels/410126604237406209/588350726841827358/1236220868061958155
+- https://forum.unity.com/threads/linux-editor-stuck-on-loading-because-of-bee_backend-w-workaround.1166347/
+- https://discord.com/channels/410126604237406209/797279576459968555/1236209464575787049 particle pointer
+- https://discord.com/channels/410126604237406209/797279576459968555/1235201467321946243
+- selain kau tiada yang lain
+- maz 73:25
+- abandoner
+- cvr buot
+- https://discord.com/channels/867567549858971669/970108501382803476/1236649963140812962
+- https://discord.com/channels/410126604237406209/588350685255565344/1236492217279844512
+- https://discord.com/channels/410126604237406209/1195601585720528976/1236493095965691905
+- https://discord.com/channels/410126604237406209/588350685255565344/1236507269118820432
+- https://discord.com/channels/410126604237406209/689949650614091827/1236575806168502353
+- https://www.phoronix.com/news/Linux-6.10-Merging-NTSYNC
+- buot
+- https://discord.com/channels/410126604237406209/588350685255565344/1237190545416126566
+- https://discord.com/channels/410126604237406209/588350685255565344/1237196898335457330
+- https://discord.com/channels/410126604237406209/588350685255565344/1237196999686885406
+- https://discord.com/channels/410126604237406209/588350770777161748/1237052498238505041
+- https://discord.com/channels/410126604237406209/682645682968199168/1237074448385835118
+- https://discord.com/channels/410126604237406209/588350726841827358/1236670650832388156
+- Remove Ad Subscription ft. Shang Tsung
+- early 2024
+- Iobal (CEO): Guys! What do we doing here?! We are poor! We can't help Van Elektronische either!
+- Subouk (CTO): Who is that guy?
+- Pabas: (escort held Shang Tsung) This guy
+- Shang Tsung: (try to unshackle) UGH!
+- Pabas: tried to infiltrate us.
+- Shang Tsung: (spell push away)!!!!
+- Everyone stunned hoah!!
+- Iobal: (draw handgun point at Shang Tsung)!!...
+- Shang Tsung: Easy, young.. Dasandimrealmers. I was trying to help you.
+- Iobal: Help what? I don't need it from you. What? Suggest me NFT?!
+- Shang: Ah, ahahahahahahahahaa... No. You already know, so 🤷‍♂️....
+- Iobal: Then what are you proposing here?!
+- Shang: I am here to give you suggestion, that you should give meee.., any *soul*. You have one?
+- Subouk: Hah!, What?!
+- Shang: You don't have it.?
+- Iobal: (read mind)..... (he is talking about subcription)?? No, why would we do that?
+- Shang: You have to. Only by that, I shall provide you the greatest bounty you've ever wanted since you started here, ... Dream Treasure.
+- Iobal: No. Pinbal Agung is a subsidiary of Van Elektronische. We have strict policy that forbid paywallism in softwares. Besides, I do not want to paywall not to mention, Subscription in our software! People will hate it! It constitute as betrayal!!! No. I do NOT, want to betray.
+- Subouk: Ads are integrated in gameplay, destroy to hide for 10 sec.
+- Shang: hahahahaa... Good question. you ask if betraying would be the worst idea for mankind. But the true question you must ask is...., Can I afford not to do it?
+- Iobal: Here we go again 😑..
+- Shang: You see, I am surprised Dasandimrealmers also read minds, only few Outworlders have the same power. And when I read yours.., You, .. have been strugling.
+- View Iobal
+- Shang: Your advertisement clicks is only a fraction and then... nothing. Nobody wants to ad, and using a the feature as punching bag (to Subouk) you said, ... (scoff)!!, does it give yourself real reward?
+- Iobal: What do you want? So you tell me to add Remove Ad IAP?
+- Shang: Correct! ..., but why buy once if you can charge them everytime?
+- Bass impact sinetron
+- ...
+- Iobal: (Subscription remove ad) Wait what?
+- Shang: Give me *souls*, no need to be yours. Your customers. Then I shall provide everything you've been dreaming of.
+- Iobal: (hard decission) Oh...
+- Subouk: (also stress) naeu...
+- Shang: How about it? There's no other. If it's not me, they are robbers and looters. So are we deal?
+- Subouk: Damn it, I can do it. I just obeying here. But sir! I can tell you if this is not ethical! He's only thinking for himself!!
+- Iobal: (do we deal?) Uh..?
+- Shang: (smile) Euuh?
+- Iobal: I'm sorry... George (VE), gamers... I am poor and I'm desperate (wrap hand)!!... (shake up), (shake down), (up)... (release) Eugh!!!....
+- Shang: Now, provide. And I'll provide yours (dust teleport away from scene)!!!
+- Iobal: (what have I done)?!....
+- Subouk: (done concept) Okay sir. Everytime start check, if there is, then you good. No? Open up payment.
+- .
+- .
+- .
+- Download for Free now, Tebenge on [Google Play Store](https://play.google.com/store/apps/details?id=com.Perkedel.tebenge).
+- .
+- .
+- .
+- Lore Remove Ad Subscription done
+- https://youtu.be/Alwy-TH0WzE?si=fIIzH034fcmWDLFz
+- https://github.com/MrEliptik/godot_ui_components
+- https://github.com/dfranx/PluginGodotShaders
+- https://godotshaders.com/
+- https://godotshaders.com/shader/moebius-shader/
+- https://github.com/dfranx/PluginGodotShaders
+- https://github.com/godotengine/godot/issues/54964
+- https://github.com/godotengine/godot/pull/76859
+- https://github.com/godotengine/godot/pull/76859
+- https://youtu.be/oehdIc8NGXE?si=SMwojTxlAY1IyoCx
+- https://twitter.com/RolltheredDev/status/1787548758533697586
+- https://discord.com/channels/410126604237406209/588350770777161748/1237288232383676427
+- https://youtu.be/VLZjd_Y1gJ8?si=5bioKwSfWihURp9t
+- https://github.com/GameEngineering/EP01_SandSim
+- https://github.com/MrFrenik/gunslinger
+- https://store.steampowered.com/app/881100/Noita
+- https://powdertoy.co.uk
+- https://discord.com/channels/410126604237406209/588350770777161748/1237239815280263341
