@@ -445,6 +445,51 @@ MonoBehaviour:
     m_RotationOrder: 4
   playerGravityAlignmentMode: 1
   playerGravityCustomAlignmentValue: 0
+--- !u!1 &3696830995701335612
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4486820387562124570}
+  - component: {fileID: 1607653354674172838}
+  m_Layer: 0
+  m_Name: Ragdoller
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4486820387562124570
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3696830995701335612}
+  m_LocalRotation: {x: -0, y: -1, z: -0, w: 0}
+  m_LocalPosition: {x: 0, y: 0, z: 10}
+  m_LocalScale: {x: 2, y: 2, z: 2}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 2691638282474312815}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!135 &1607653354674172838
+SphereCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3696830995701335612}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 1
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Radius: 0.5
+  m_Center: {x: 0, y: 0, z: 0}
 --- !u!1 &4950014784339717803
 GameObject:
   m_ObjectHideFlags: 0
@@ -599,6 +644,7 @@ GameObject:
   - component: {fileID: 2691638282474312815}
   - component: {fileID: 2583106764826167977}
   - component: {fileID: 6846145663459678358}
+  - component: {fileID: 4568404931086112288}
   m_Layer: 0
   m_Name: ForceParticle
   m_TagString: Untagged
@@ -617,7 +663,8 @@ Transform:
   m_LocalPosition: {x: 0, y: 0, z: -1.5}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
-  m_Children: []
+  m_Children:
+  - {fileID: 4486820387562124570}
   m_Father: {fileID: 7717275285643048047}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 180, z: 0}
@@ -4439,15 +4486,16 @@ ParticleSystem:
     collidesWithDynamic: 1
     interiorCollisions: 0
   TriggerModule:
-    enabled: 0
+    enabled: 1
     serializedVersion: 2
-    inside: 1
+    inside: 2
     outside: 0
-    enter: 0
+    enter: 2
     exit: 0
     colliderQueryMode: 0
     radiusScale: 1
-    primitives: []
+    primitives:
+    - {fileID: 1607653354674172838}
   SubModule:
     serializedVersion: 2
     enabled: 0
@@ -5458,6 +5506,19 @@ ParticleSystemRenderer:
   m_MeshWeighting2: 1
   m_MeshWeighting3: 1
   m_MaskInteraction: 0
+--- !u!114 &4568404931086112288
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6926876112528665716}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 39d87b8783794dfd81ce396483019cbb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  type: ragdoll
 --- !u!1 &7522443514140704459
 GameObject:
   m_ObjectHideFlags: 0
@@ -10626,6 +10687,7 @@ MonoBehaviour:
     floatVal2: 0
     floatVal3: 0
     boolVal: 0
+    boolVal2: 0
     varBufferVal: {fileID: 0}
     varBufferVal2: {fileID: 0}
     stringVal: 
@@ -10707,6 +10769,7 @@ MonoBehaviour:
     floatVal2: 0
     floatVal3: 0
     boolVal: 0
+    boolVal2: 0
     varBufferVal: {fileID: 0}
     varBufferVal2: {fileID: 0}
     stringVal: 
@@ -10773,7 +10836,7 @@ MonoBehaviour:
   objectId: 07799d34-1333-4d9e-ab99-557faa694e47
   randomNum: 
   unityVersion: 2021.3.23f1
-  cckVersion: 3.8:104
+  cckVersion: 3.9:107
 --- !u!65 &6319393102059960790
 BoxCollider:
   m_ObjectHideFlags: 0

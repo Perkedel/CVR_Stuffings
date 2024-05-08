@@ -6834,6 +6834,7 @@ https://youtu.be/qzhuWRQWK5I?si=PygoI274O32LWD5a
 - https://discord.com/channels/410126604237406209/588350726841827358/1236220868061958155
 - https://forum.unity.com/threads/linux-editor-stuck-on-loading-because-of-bee_backend-w-workaround.1166347/
 - https://discord.com/channels/410126604237406209/797279576459968555/1236209464575787049 particle pointer
+- https://discord.com/channels/410126604237406209/797279576459968555/1236217176570990623 WandDschungel: If I remember correctly you set enter in the trigger section to callback and attach the pointer to the particle system
 - https://discord.com/channels/410126604237406209/797279576459968555/1235201467321946243
 - selain kau tiada yang lain
 - maz 73:25
