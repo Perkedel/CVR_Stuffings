@@ -6,7 +6,7 @@ using UnityEngine;
 namespace NAK.AASEmulator.Runtime
 {
     [AddComponentMenu("")]
-    [HelpURL("https://github.com/NotAKidOnSteam/AASEmulator")]
+    [HelpURL(AASEmulatorCore.AAS_EMULATOR_GIT_URL)]
     public class AASEmulatorRuntime : EditorOnlyMonoBehaviour
     {
         #region EditorGUI
@@ -20,12 +20,12 @@ namespace NAK.AASEmulator.Runtime
         [HideInInspector] public bool builtInLocomotionFoldout = true;
         [HideInInspector] public bool builtInEmotesFoldout = true;
         [HideInInspector] public bool builtInGesturesFoldout = true;
-        [HideInInspector] public bool joystickFoldout = false;
-        [HideInInspector] public bool floatsFoldout = false;
-        [HideInInspector] public bool intsFoldout = false;
-        [HideInInspector] public bool boolsFoldout = false;
+        [HideInInspector] public bool joystickFoldout;
+        [HideInInspector] public bool floatsFoldout;
+        [HideInInspector] public bool intsFoldout;
+        [HideInInspector] public bool boolsFoldout;
 
-        private bool m_shouldRepaintEditor = false;
+        private bool m_shouldRepaintEditor;
 
         #endregion EditorGUI
 
@@ -74,6 +74,30 @@ namespace NAK.AASEmulator.Runtime
 
         #endregion CVR_VISEME_GESTURE_INDEX
 
+        #region Public Properties
+        
+        public bool IsInitialized { get; private set; }
+        
+        public bool UseLipsync
+            => m_avatar?.useVisemeLipsync ?? false;
+        
+        public VisemeModeIndex VisemeMode 
+            => m_avatar != null ? (VisemeModeIndex)m_avatar.visemeMode : VisemeModeIndex.Visemes;
+        
+        public bool UseEyeMovement 
+            => m_avatar?.useEyeMovement ?? false;
+        
+        public bool UseBlinkBlendshapes 
+            => m_avatar?.useBlinkBlendshapes ?? false;
+        
+        public bool IsEmotePlaying 
+            => m_emotePlaying;
+
+        public bool IsActiveOffset
+            => m_activeOffset;
+
+        #endregion Public Properties
+        
         #region Lip Sync / Visemes
 
         [Header("Lip Sync / Visemes")]
@@ -134,7 +158,7 @@ namespace NAK.AASEmulator.Runtime
             set
             {
                 _gestureLeft = value;
-                if (_gestureLeft > 0 && _gestureLeft <= 1)
+                if (_gestureLeft is > 0 and <= 1)
                 {
                     _gestureLeftIdx = GestureIndex.Fist;
                     return;
@@ -160,7 +184,7 @@ namespace NAK.AASEmulator.Runtime
             set
             {
                 _gestureRight = value;
-                if (_gestureRight > 0 && _gestureRight <= 1)
+                if (_gestureRight is > 0 and <= 1)
                 {
                     _gestureRightIdx = GestureIndex.Fist;
                     return;
@@ -215,21 +239,10 @@ namespace NAK.AASEmulator.Runtime
 
         #endregion Built-in inputs / Emotes
 
-        #region Public Properties
-
-        public bool UseLipsync => m_avatar?.useVisemeLipsync ?? false;
-        public VisemeModeIndex VisemeMode => m_avatar != null ? (VisemeModeIndex)m_avatar.visemeMode : VisemeModeIndex.Visemes;
-        public bool UseEyeMovement => m_avatar?.useEyeMovement ?? false;
-        public bool UseBlinkBlendshapes => m_avatar?.useBlinkBlendshapes ?? false;
-        public bool IsEmotePlaying => m_emotePlaying;
-
-        public bool IsActiveOffset => m_activeOffset;
-
-        #endregion Public Properties
-
         #region Variables
 
         public AnimatorManager AnimatorManager { get; private set; }
+        private AvatarBlinkManager BlinkManager { get; set; }
 
         public CVRAvatar m_avatar;
         public Animator m_animator;
@@ -251,42 +264,37 @@ namespace NAK.AASEmulator.Runtime
         
         // IK handling
         private bool m_activeOffset;
-
-        private bool m_isInitialized = false;
-
+        
         #endregion Variables
 
         #region Initialization
 
         private void Start()
         {
-            if (AASEmulator.Instance == null)
+            if (AASEmulatorCore.Instance == null)
             {
                 SimpleLogger.LogWarning("AAS Emulator Control is missing from the scene. Emulator will not run!", gameObject);
                 return;
             }
 
-            if (AASEmulator.Instance.OnlyInitializeOnSelect)
+            if (AASEmulatorCore.Instance.OnlyInitializeOnSelect)
                 return;
 
             Initialize();
         }
-
-        public bool IsInitialized() => m_isInitialized;
         
         public void Initialize()
         {
-            if (m_isInitialized)
+            if (IsInitialized)
                 return;
 
-            if (AASEmulator.Instance == null)
+            if (AASEmulatorCore.Instance == null)
             {
                 SimpleLogger.LogWarning("AAS Emulator Control is missing from the scene. Emulator will not run!", gameObject);
                 return;
             }
 
-            m_avatar = gameObject.GetComponent<CVRAvatar>();
-            if (m_avatar == null)
+            if (!gameObject.TryGetComponent(out m_avatar))
             {
                 SimpleLogger.LogError("The CVRAvatar component is missing on the attached gameObject. Destroying...", gameObject);
                 DestroyImmediate(this);
@@ -294,13 +302,13 @@ namespace NAK.AASEmulator.Runtime
             }
 
             // CVR will ensure this on initialization
-            if (!gameObject.TryGetComponent<Animator>(out m_animator))
+            if (!gameObject.TryGetComponent(out m_animator))
                 m_animator = gameObject.AddComponent<Animator>();
 
             // CVR replaces old CCK animation clips, but we won't even bother trying
             m_animator.runtimeAnimatorController = m_avatar.overrides != null
                 ? m_avatar.overrides
-                : AASEmulator.Instance.defaultRuntimeController;
+                : AASEmulatorCore.Instance.defaultRuntimeController;
 
             m_animator.applyRootMotion = false;
             m_animator.enabled = true;
@@ -314,10 +322,11 @@ namespace NAK.AASEmulator.Runtime
             }
 
             AnimatorManager = new AnimatorManager(m_animator);
+            BlinkManager = new AvatarBlinkManager(m_avatar);
 
-            AASEmulator.addTopComponentDelegate?.Invoke(this);
-            AASEmulator.runtimeInitializedDelegate?.Invoke(this);
-            m_isInitialized = true;
+            AASEmulatorCore.addTopComponentDelegate?.Invoke(this);
+            AASEmulatorCore.runtimeInitializedDelegate?.Invoke(this);
+            IsInitialized = true;
 
             SetValuesToDefault();
             InitializeLipSync();
@@ -371,7 +380,7 @@ namespace NAK.AASEmulator.Runtime
 
         private void Update()
         {
-            if (!m_isInitialized)
+            if (!IsInitialized)
                 return;
 
             Update_EmoteValues_Update();
@@ -388,18 +397,22 @@ namespace NAK.AASEmulator.Runtime
 
         private void LateUpdate()
         {
-            if (!m_isInitialized)
+            if (!IsInitialized)
                 return;
 
             Apply_LipSync();
             Apply_ActiveBodyOffset();
+            
+            // kind of lazy but works for now
+            BlinkManager.IsEnabled = UseBlinkBlendshapes && AASEmulatorCore.Instance.EmulateEyeBlinking;
+            BlinkManager.OnLateUpdate();
         }
 
         // fixedDeltaTime is wack in ChilloutVR... Needs proper handling.
         // Desktop = 0.02 : OpenXR = 0.02 : OpenVR = Headset Refresh Rate
         private void FixedUpdate()
         {
-            if (!m_isInitialized)
+            if (!IsInitialized)
                 return;
 
             Update_EmoteValues_FixedUpdate();
@@ -516,7 +529,7 @@ namespace NAK.AASEmulator.Runtime
             {
                 switch (baseParam)
                 {
-                    case AnimatorManager.FloatParam floatParam when floatParam.value != m_animator.GetFloat(baseParam.name):
+                    case AnimatorManager.FloatParam floatParam when Math.Abs(floatParam.value - m_animator.GetFloat(baseParam.name)) > float.Epsilon:
                         floatParam.value = m_animator.GetFloat(baseParam.name);
                         m_shouldRepaintEditor = true;
                         break;

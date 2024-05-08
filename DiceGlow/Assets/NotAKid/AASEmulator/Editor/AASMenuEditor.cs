@@ -12,7 +12,8 @@ namespace NAK.AASEmulator.Editor
     {
         #region Variables
 
-        private AASMenu _targetScript;
+        private AASMenu _menu;
+        private Vector2 _scrollPosition;
 
         #endregion
 
@@ -22,13 +23,13 @@ namespace NAK.AASEmulator.Editor
         {
             OnRequestRepaint -= Repaint;
             OnRequestRepaint += Repaint;
-            _targetScript = (AASMenu)target;
+            _menu = (AASMenu)target;
         }
         private void OnDisable() => OnRequestRepaint -= Repaint;
 
         public override void OnInspectorGUI()
         {
-            if (_targetScript == null)
+            if (_menu == null)
                 return;
 
             Draw_ScriptWarning();
@@ -42,7 +43,7 @@ namespace NAK.AASEmulator.Editor
 
         private void Draw_ScriptWarning()
         {
-            if (_targetScript.isInitializedExternally)
+            if (_menu.isInitializedExternally)
                 return;
 
             EditorGUILayout.HelpBox("Warning: Do not upload this script with your avatar!\nThis script is prevented from saving to scenes & prefabs.", MessageType.Warning);
@@ -51,8 +52,13 @@ namespace NAK.AASEmulator.Editor
 
         private void Draw_AASMenus()
         {
-            foreach (AASMenuEntry t in _targetScript.entries)
+            _scrollPosition = EditorGUILayout.BeginScrollView(_scrollPosition, 
+                false, false, GUILayout.Height(600));
+            
+            foreach (AASMenuEntry t in _menu.entries)
                 DisplayMenuEntry(t);
+            
+            EditorGUILayout.EndScrollView();
         }
         
         private void DisplayMenuEntry(AASMenuEntry entry)
@@ -70,7 +76,7 @@ namespace NAK.AASEmulator.Editor
                     int newIndex = EditorGUILayout.Popup("Value", oldIndex, entry.menuOptions);
                     if (newIndex != oldIndex)
                     {
-                        _targetScript.AnimatorManager.SetParameter(entry.machineName, newIndex);
+                        _menu.AnimatorManager.SetParameter(entry.machineName, newIndex);
                         entry.valueX = newIndex;
                     }
                     break;
@@ -79,7 +85,7 @@ namespace NAK.AASEmulator.Editor
                     bool newValue = EditorGUILayout.Toggle("Value", oldValue);
                     if (newValue != oldValue)
                     {
-                        _targetScript.AnimatorManager.SetParameter(entry.machineName, newValue);
+                        _menu.AnimatorManager.SetParameter(entry.machineName, newValue);
                         entry.valueX = newValue ? 1f : 0f;
                     }
                     break;
@@ -88,7 +94,7 @@ namespace NAK.AASEmulator.Editor
                     float newSliderValue = EditorGUILayout.Slider("Value", oldSliderValue, 0f, 1f);
                     if (newSliderValue != oldSliderValue)
                     {
-                        _targetScript.AnimatorManager.SetParameter(entry.machineName, newSliderValue);
+                        _menu.AnimatorManager.SetParameter(entry.machineName, newSliderValue);
                         entry.valueX = newSliderValue;
                     }
                     break;
@@ -97,7 +103,7 @@ namespace NAK.AASEmulator.Editor
                     float newSingleValue = EditorGUILayout.FloatField("Value", oldSingleValue);
                     if (newSingleValue != oldSingleValue)
                     {
-                        _targetScript.AnimatorManager.SetParameter(entry.machineName, newSingleValue);
+                        _menu.AnimatorManager.SetParameter(entry.machineName, newSingleValue);
                         entry.valueX = newSingleValue;
                     }
                     break;
@@ -106,7 +112,7 @@ namespace NAK.AASEmulator.Editor
                     Vector2 newVector2Value = EditorGUILayout.Vector2Field("Value", oldVector2Value);
                     if (newVector2Value != oldVector2Value)
                     {
-                        _targetScript.AnimatorManager.SetParameter(entry.machineName, newVector2Value);
+                        _menu.AnimatorManager.SetParameter(entry.machineName, newVector2Value);
                         entry.valueX = newVector2Value.x;
                         entry.valueY = newVector2Value.y;
                     }
@@ -116,7 +122,7 @@ namespace NAK.AASEmulator.Editor
                     Vector3 newVector3Value = EditorGUILayout.Vector3Field("Value", oldVector3Value);
                     if (newVector3Value != oldVector3Value)
                     {
-                        _targetScript.AnimatorManager.SetParameter(entry.machineName, newVector3Value);
+                        _menu.AnimatorManager.SetParameter(entry.machineName, newVector3Value);
                         entry.valueX = newVector3Value.x;
                         entry.valueY = newVector3Value.y;
                         entry.valueZ = newVector3Value.z;

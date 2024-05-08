@@ -1,4 +1,5 @@
 ﻿using System.Linq;
+using NAK.AASEmulator.Runtime;
 using UnityEditor;
 using UnityEngine;
 using UnityEngine.SceneManagement;
@@ -10,12 +11,13 @@ namespace NAK.AASEmulator.Support
     {
         static AASEmulatorSupport()
         {
-            InitDefaults();
+            Initialize();
         }
         
-        private static void InitDefaults()
+        private static void Initialize()
         {
-            Runtime.AASEmulator.addTopComponentDelegate = MoveComponentToTop;
+            AASEmulatorCore.addTopComponentDelegate -= MoveComponentToTop;
+            AASEmulatorCore.addTopComponentDelegate += MoveComponentToTop;
         }
 
         private static void MoveComponentToTop(Component c)
@@ -43,17 +45,28 @@ namespace NAK.AASEmulator.Support
         [MenuItem("Tools/Enable AAS Emulator")]
         public static void EnableAASTesting()
         {
-            Runtime.AASEmulator control = Runtime.AASEmulator.Instance ?? AddComponentIfMissing<Runtime.AASEmulator>(
-                SceneManager.GetActiveScene()
+            const string AAS_EMULATOR_CONTROL_NAME = "AAS Emulator Control";
+            
+            AASEmulatorCore control = AASEmulatorCore.Instance; // check for existing instance
+            if (control == null)
+            {
+                GameObject foundSceneControl = SceneManager.GetActiveScene()
                     .GetRootGameObjects()
                     .SelectMany(root => root.GetComponentsInChildren<Transform>(true))
-                    .FirstOrDefault(t => t.name == "AAS Emulator Control")?.gameObject ?? new GameObject("AAS Emulator Control"));
+                    .FirstOrDefault(t => t.name == AAS_EMULATOR_CONTROL_NAME)?.gameObject; // check for existing object
+
+                control = foundSceneControl == null // create new object if not found, or use existing object and add component
+                    ? new GameObject(AAS_EMULATOR_CONTROL_NAME).AddComponent<AASEmulatorCore>() 
+                    : foundSceneControl.AddComponentIfMissing<AASEmulatorCore>();
+            }
             
             control.enabled = true;
-            control.gameObject.SetActive(true);
-            GameObjectUtility.RemoveMonoBehavioursWithMissingScript(control.gameObject);
-            Selection.SetActiveObjectWithContext(control.gameObject, control.gameObject);
-            EditorGUIUtility.PingObject(control.gameObject);
+            
+            GameObject gameObject = control.gameObject;
+            gameObject.SetActive(true);
+            GameObjectUtility.RemoveMonoBehavioursWithMissingScript(gameObject);
+            Selection.SetActiveObjectWithContext(gameObject, gameObject);
+            EditorGUIUtility.PingObject(gameObject);
         }
 
         public static T AddComponentIfMissing<T>(this GameObject go) where T : Component

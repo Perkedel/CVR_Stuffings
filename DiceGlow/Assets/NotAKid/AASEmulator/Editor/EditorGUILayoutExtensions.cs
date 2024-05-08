@@ -5,6 +5,24 @@ namespace NAK.AASEmulator.Editor
 {
     public static class EditorExtensions
     {
+        #region Constructor
+
+        static EditorExtensions()
+        {
+            // init styles
+            s_BoldFoldoutStyle = new GUIStyle(EditorStyles.foldout) { fontStyle = FontStyle.Bold };
+        }
+        
+        #endregion
+        
+        #region Shared Styles
+
+        internal static GUIStyle s_BoldFoldoutStyle;
+
+        #endregion
+        
+        #region Popup Scroll
+        
         public static void HandlePopupScroll(ref int newIndex, int minIndex, int maxIndex)
         {
             if (Event.current.type == EventType.ScrollWheel &&
@@ -23,6 +41,10 @@ namespace NAK.AASEmulator.Editor
             }
         }
         
+        #endregion
+
+        #region Joystick 2D Field
+        
         private static float _joystickClickTime;
 
         public static Vector2 Joystick2DField(Rect position, Vector2 value, bool shouldNormalize = false)
@@ -31,14 +53,13 @@ namespace NAK.AASEmulator.Editor
             Event currentEvent = Event.current;
 
             // Joystick area
-            Rect joystickArea = new Rect(position.x, position.y, position.width, position.height);
+            Rect joystickArea = new(position.x, position.y, position.width, position.height);
 
             // Draw the background
             EditorGUI.DrawRect(joystickArea, Color.grey);
 
             // Draw the handle
-            Vector2 handlePosition =
-                new Vector2(value.x * (joystickArea.width / 2), -value.y * (joystickArea.height / 2));
+            Vector2 handlePosition = new(value.x * (joystickArea.width / 2), -value.y * (joystickArea.height / 2));
             Vector2 screenHandlePosition = joystickArea.center + handlePosition;
             Handles.color = Color.white;
             Handles.DrawSolidDisc(screenHandlePosition, Vector3.forward, 6);
@@ -75,5 +96,7 @@ namespace NAK.AASEmulator.Editor
 
             return value;
         }
+        
+        #endregion
     }
 }

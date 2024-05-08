@@ -6,9 +6,9 @@ namespace NAK.AASEmulator.Runtime
     {
         // NOTE: Pass gameobject instead of component, as context is lost if component is removed.
 
-        private const string projectName = nameof(AASEmulator);
+        private const string projectName = nameof(AASEmulatorCore);
         private const string messageColor = "orange";
-
+        
         public static void Log(string message, Object context = null)
         {
             Debug.Log($"<color={messageColor}>[{projectName}]</color> : {message}", context);
