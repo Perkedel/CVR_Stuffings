@@ -6962,3 +6962,4 @@ https://youtu.be/qzhuWRQWK5I?si=PygoI274O32LWD5a
 - https://github.com/NotAKidOnSteam/UnusedBoneRefCleaner NEW!!!
 - https://github.com/NotAKidOnSteam/QuickMaterialSwap/ 
 - https://github.com/NotAKidOnSteam/AASEmulator/releases/ **UPDATE** 0.1.0 today
+- https://skfb.ly/oEru6 Joe Biden
