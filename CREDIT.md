@@ -6963,3 +6963,31 @@ https://youtu.be/qzhuWRQWK5I?si=PygoI274O32LWD5a
 - https://github.com/NotAKidOnSteam/QuickMaterialSwap/ 
 - https://github.com/NotAKidOnSteam/AASEmulator/releases/ **UPDATE** 0.1.0 today
 - https://skfb.ly/oEru6 Joe Biden
+- https://discord.com/channels/410126604237406209/1237590087781584958/1237647728855744593
+- https://discord.com/channels/410126604237406209/588350685255565344/1237628210192060467
+- https://discord.com/channels/410126604237406209/588350685255565344/1237661935131164732
+- booth Hoshoiashi
+- https://ghostly.gumroad.com/l/mamagen **PAID** mamagen ghostly shark pls
+- Friet256
+- https://booth.pm/en/items/3775741 friet256
+- https://booth.pm/ja/items/1651921 GONE カロナーフ Caronauff
+- https://web.archive.org/web/20200422034041/https://booth.pm/ja/items/1651921 **NOT WORKING, SIGN IN REQUIRED**
+- https://bbkktn.booth.pm/
+- https://x.com/Androin4/status/1202822677146173440
+- https://x.com/ruyo_h/status/1190512765552611328
+- shadster_wolf
+- https://vrchat-legends.fandom.com/wiki/Hoppou
+- https://ghostly.gumroad.com/
+- https://rentry.org/SuLi-Log Weaponized cuteness SuspiciousLiquid log
+- https://github.com/SurprisinglySuspicious/KeepSceneFocus
+- https://youtu.be/MWQv2Bagwgk?si=oPhhgK_kbr39LAyM
+- https://bit.ly/2Y25AEX
+- https://assetstore.unity.com/packages/3d/environments/landscapes/terrain-sample-asset-pack-145808?aid=1101lPGj&utm_campaign=unity_affiliate&utm_medium=affiliate&utm_source=partnerize-linkmaker
+- https://docs.unity3d.com/Packages/com.unity.toonshader@0.10/manual/installation.html
+- https://github.com/unity3d-jp/UnityChanToonShaderVer2_Project
+- marupopi moaoruo X / twitter. linla
+- https://skfb.ly/6Utu8 venezuelan money / american dollar
+- https://youtu.be/ZHbO0zIHPtA?si=c_7x3rlMXI3Pqy2Y
+- a
+- https://youtube.com/shorts/2MZUVr4iaHw?si=G7dBHYh5CfWRwTUq
+- https://skfb.ly/oPG7v markiplier plier

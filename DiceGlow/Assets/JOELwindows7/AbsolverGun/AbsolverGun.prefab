@@ -645,6 +645,7 @@ GameObject:
   - component: {fileID: 2583106764826167977}
   - component: {fileID: 6846145663459678358}
   - component: {fileID: 4568404931086112288}
+  - component: {fileID: 1968140863036568540}
   m_Layer: 0
   m_Name: ForceParticle
   m_TagString: Untagged
@@ -5519,6 +5520,53 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   type: ragdoll
+--- !u!114 &1968140863036568540
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6926876112528665716}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6e1efbbcd88d4e2cacb5e9c8a09148a6, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  damageType: 0
+  damageAmount: 1000
+  damageOverTimeAmount: 0
+  damageOverTimeDuration: 0
+  damageOverTimeContact: 0
+  healthMultiplier: 1
+  armorMultiplier: 1
+  shieldMultiplier: 1
+  enableFalloff: 0
+  falloffDistance: 5
+  falloffCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: -1
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - serializedVersion: 3
+      time: 1
+      value: 0
+      inSlope: -1
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  falloffEffectDamageOverTime: 0
 --- !u!1 &7522443514140704459
 GameObject:
   m_ObjectHideFlags: 0
