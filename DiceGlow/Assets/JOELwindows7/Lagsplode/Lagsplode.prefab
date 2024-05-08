@@ -305,6 +305,7 @@ MonoBehaviour:
     floatVal2: 0
     floatVal3: 0
     boolVal: 0
+    boolVal2: 0
     varBufferVal: {fileID: 0}
     varBufferVal2: {fileID: 0}
     stringVal: 
@@ -350,6 +351,7 @@ MonoBehaviour:
     floatVal2: 0
     floatVal3: 0
     boolVal: 0
+    boolVal2: 0
     varBufferVal: {fileID: 0}
     varBufferVal2: {fileID: 0}
     stringVal: 
@@ -397,6 +399,7 @@ MonoBehaviour:
     floatVal2: 0
     floatVal3: 0
     boolVal: 0
+    boolVal2: 0
     varBufferVal: {fileID: 0}
     varBufferVal2: {fileID: 0}
     stringVal: 
@@ -472,6 +475,7 @@ GameObject:
   - component: {fileID: 395505478408394305}
   - component: {fileID: 2832813364214496860}
   - component: {fileID: 1605306369551067085}
+  - component: {fileID: 5255204161285332734}
   m_Layer: 0
   m_Name: ExplodeParticles
   m_TagString: Untagged
@@ -492,6 +496,7 @@ Transform:
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 8131215638611759497}
+  - {fileID: 2365382435331479607}
   m_Father: {fileID: 9016464995767744302}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -4313,15 +4318,16 @@ ParticleSystem:
     collidesWithDynamic: 1
     interiorCollisions: 0
   TriggerModule:
-    enabled: 0
+    enabled: 1
     serializedVersion: 2
-    inside: 1
+    inside: 0
     outside: 0
-    enter: 0
+    enter: 2
     exit: 0
-    colliderQueryMode: 0
+    colliderQueryMode: 2
     radiusScale: 1
-    primitives: []
+    primitives:
+    - {fileID: 809235544137989376}
   SubModule:
     serializedVersion: 2
     enabled: 0
@@ -5333,6 +5339,19 @@ ParticleSystemRenderer:
   m_MeshWeighting2: 1
   m_MeshWeighting3: 1
   m_MaskInteraction: 0
+--- !u!114 &5255204161285332734
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2096513107705507057}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 39d87b8783794dfd81ce396483019cbb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  type: ragdoll
 --- !u!1 &2183577983593810149
 GameObject:
   m_ObjectHideFlags: 0
@@ -5851,6 +5870,7 @@ MonoBehaviour:
     floatVal2: 0
     floatVal3: 0
     boolVal: 0
+    boolVal2: 0
     varBufferVal: {fileID: 0}
     varBufferVal2: {fileID: 0}
     stringVal: 
@@ -5896,6 +5916,7 @@ MonoBehaviour:
     floatVal2: 0
     floatVal3: 0
     boolVal: 0
+    boolVal2: 0
     varBufferVal: {fileID: 0}
     varBufferVal2: {fileID: 0}
     stringVal: 
@@ -5941,6 +5962,7 @@ MonoBehaviour:
     floatVal2: 0
     floatVal3: 0
     boolVal: 0
+    boolVal2: 0
     varBufferVal: {fileID: 0}
     varBufferVal2: {fileID: 0}
     stringVal: 
@@ -11587,6 +11609,51 @@ Transform:
   m_Father: {fileID: 3993638810615261317}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &5635217488624102364
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2365382435331479607}
+  - component: {fileID: 809235544137989376}
+  m_Layer: 0
+  m_Name: RagdollMini
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2365382435331479607
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5635217488624102364}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 10}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 395505478408394305}
+  m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!135 &809235544137989376
+SphereCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5635217488624102364}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 1
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Radius: 0.5
+  m_Center: {x: 0, y: 0, z: 0}
 --- !u!1 &5761248344288656439
 GameObject:
   m_ObjectHideFlags: 0
@@ -11736,7 +11803,7 @@ MonoBehaviour:
   objectId: 89a7a56a-f391-4e5b-90f9-240ef72cd4d5
   randomNum: 
   unityVersion: 2021.3.23f1
-  cckVersion: 3.8:104
+  cckVersion: 3.9:107
 --- !u!95 &2479547647090774474
 Animator:
   serializedVersion: 5
@@ -11828,6 +11895,7 @@ MonoBehaviour:
     floatVal2: 0
     floatVal3: 0
     boolVal: 0
+    boolVal2: 0
     varBufferVal: {fileID: 0}
     varBufferVal2: {fileID: 0}
     stringVal: 
