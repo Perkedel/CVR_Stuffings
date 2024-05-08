@@ -7,6 +7,7 @@ using static ABI.CCK.Scripts.CVRAdvancedSettingsEntry;
 namespace NAK.AASEmulator.Runtime
 {
     [AddComponentMenu("")]
+    [HelpURL(AASEmulatorCore.AAS_EMULATOR_GIT_URL)]
     public class AASMenu : EditorOnlyMonoBehaviour
     {
         #region Static Initialization
@@ -14,23 +15,27 @@ namespace NAK.AASEmulator.Runtime
         [RuntimeInitializeOnLoadMethod]
         private static void Initialize()
         {
-            AASEmulator.runtimeInitializedDelegate = runtime =>
-            {
-                if (AASEmulator.Instance != null && !AASEmulator.Instance.EmulateAASMenu)
-                    return;
+            AASEmulatorCore.runtimeInitializedDelegate -= OnRuntimeInitialized; // unsub from last play mode session
+            AASEmulatorCore.runtimeInitializedDelegate += OnRuntimeInitialized;
+        }
+        
+        private static void OnRuntimeInitialized(AASEmulatorRuntime runtime)
+        {
+            if (AASEmulatorCore.Instance != null 
+                && !AASEmulatorCore.Instance.EmulateAASMenu)
+                return;
 
-                AASMenu menu = runtime.gameObject.AddComponent<AASMenu>();
-                menu.isInitializedExternally = true;
-                menu.runtime = runtime;
-                AASEmulator.addTopComponentDelegate?.Invoke(menu);
-            };
+            AASMenu menu = runtime.gameObject.AddComponent<AASMenu>();
+            menu.isInitializedExternally = true;
+            menu.runtime = runtime;
+            AASEmulatorCore.addTopComponentDelegate?.Invoke(menu);
         }
 
         #endregion Static Initialization
 
         #region Variables
 
-        public List<AASMenuEntry> entries = new List<AASMenuEntry>();
+        public readonly List<AASMenuEntry> entries = new();
         public AnimatorManager AnimatorManager => runtime.AnimatorManager;
         private AASEmulatorRuntime runtime;
 
@@ -92,7 +97,7 @@ namespace NAK.AASEmulator.Runtime
                         break;
                 }
 
-                AASMenuEntry menuEntry = new AASMenuEntry
+                AASMenuEntry menuEntry = new()
                 {
                     menuName = setting.name,
                     machineName = setting.machineName,
@@ -107,25 +112,13 @@ namespace NAK.AASEmulator.Runtime
                     if (AnimatorManager.Parameters.TryGetValue(setting.machineName + postfixes[i],
                             out AnimatorManager.BaseParam param))
                     {
-                        float value;
-                        switch (param)
+                        float value = param switch
                         {
-                            case AnimatorManager.FloatParam floatParam:
-                                value = floatParam.defaultValue;
-                                break;
-
-                            case AnimatorManager.IntParam intParam:
-                                value = intParam.defaultValue;
-                                break;
-
-                            case AnimatorManager.BoolParam boolParam:
-                                value = boolParam.defaultValue ? 1f : 0f;
-                                break;
-
-                            default:
-                                value = 0f;
-                                break;
-                        }
+                            AnimatorManager.FloatParam floatParam => floatParam.defaultValue,
+                            AnimatorManager.IntParam intParam => intParam.defaultValue,
+                            AnimatorManager.BoolParam boolParam => boolParam.defaultValue ? 1f : 0f,
+                            _ => 0f
+                        };
 
                         switch (i)
                         {
@@ -147,7 +140,7 @@ namespace NAK.AASEmulator.Runtime
                 entries.Add(menuEntry);
             }
 
-            SimpleLogger.Log($"Successfully created {entries.Count} menu entries for {runtime.m_avatar.name}!", this);
+            SimpleLogger.Log($"Successfully created {entries.Count} menu entries for {runtime.m_avatar.name}!", gameObject);
         }
 
         #endregion Menu Setup

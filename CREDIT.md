@@ -6920,3 +6920,44 @@ https://youtu.be/qzhuWRQWK5I?si=PygoI274O32LWD5a
 - https://store.steampowered.com/app/881100/Noita
 - https://powdertoy.co.uk
 - https://discord.com/channels/410126604237406209/588350770777161748/1237239815280263341
+- https://discord.com/channels/410126604237406209/797279576459968555/1237416091299483688
+- https://github.com/200Tigersbloxed/HRtoVRChat_OSC
+- https://github.com/kamyu1537/hr-osc?tab=readme-ov-file
+- https://savory-advantage-23c.notion.site/OSC-HeartRate-in-Avatar-3-0-5a61198e60054852be904d165b3791ea
+- https://hrtovrchat.fortnite.lol/setup
+- https://github.com/Sonic853/Pulsoid-to-VRChat-OSC?tab=readme-ov-file thancc Maetel!
+- https://www.blog.pulsoid.net/monitors 
+- https://darbi.gumroad.com/l/sucriv2?layout=profile **PAID**
+- https://darbi.gumroad.com/
+- pls byeah
+- gumroad kyo 3.0
+- https://foxipaws.gumroad.com/ gumroad foxypaws
+- https://www.voicemod.net/free-voice-changer-software/
+- https://en.wikipedia.org/wiki/Robert_Crumb
+- https://kick.com/dippythefoxderg?clip=clip_01HXAXNAJWAJBQAHTMDPE87S9X
+- https://graymoreplus.booth.pm/items/3927902 **PAID**
+- https://graymoreplus.booth.pm/items/4913158 **JACKPOT!!!**
+- https://graymoreplus.booth.pm/
+- respawn trick. get close to teleport actionable, but instead of clicking it, you respawn and flee.
+- https://discord.com/channels/410126604237406209/588350685255565344/1237349649036083251
+- https://discord.com/channels/410126604237406209/576481861740527647/1237590440765554750 PARTNERED WITH CVRMG!!!!
+- https://www.youtube.com/watch?v=NdkPkg_9jxM
+- https://discord.com/channels/410126604237406209/412210535443202049/1237522591628136459
+- https://discord.com/channels/410126604237406209/412210535443202049/1237591415865872467
+- https://discord.com/channels/410126604237406209/412210535443202049/1237595621654007879
+- https://www.deviantart.com/zickdemon/art/Milky-Way-R63-Sketch-343577243
+- https://inkbunny.net/s/756760-p1-MarbleSoda-picture-pinup-fox-mc-cloud-r63-anus-ass-butt-cute-female-female-fox-mccloud-fem-fox-mccloud-fox-fox-mccloud-fox-quot-vixen-quot-mccloud-inviting-looking-at-viewer-nintendo-pussy-r63-rule-63-rule63-starfox-vagina-vixen-mccloud-vix-mccloud
+- https://sketchfab.com/tags/r63
+- https://discord.com/channels/410126604237406209/588350685255565344/1237501080942674101
+- https://milofox.gumroad.com
+- https://zeachy.gumroad.com/
+- https://github.com/Vilar24/VilarVRC
+- https://www.google.com/recaptcha/about/
+- https://discord.com/channels/410126604237406209/1004342533964439592/1236275715415212032 Hanz had Blender Python script of clean shape keys
+- https://discord.com/channels/410126604237406209/766087403609391165/1233912001068138637 LensError. `Ctrl`+`Shift`+`T` to Node wrangler
+- https://github.com/NoachiCode
+- https://github.com/kafeijao/Kafe_CVR_Mods/tree/master/CVRSuperMario64
+- https://github.com/Radivarig/UvSquares
+- https://github.com/NotAKidOnSteam/UnusedBoneRefCleaner NEW!!!
+- https://github.com/NotAKidOnSteam/QuickMaterialSwap/ 
+- https://github.com/NotAKidOnSteam/AASEmulator/releases/ **UPDATE** 0.1.0 today

@@ -1,5 +1,6 @@
 ﻿using System;
 using NAK.AASEmulator.Runtime;
+using NAK.AASEmulator.Runtime.SubSystems;
 using UnityEditor;
 using UnityEngine;
 using static NAK.AASEmulator.Editor.EditorExtensions;
@@ -12,7 +13,6 @@ namespace NAK.AASEmulator.Editor
     {
         #region Variables
 
-        private GUIStyle _boldFoldoutStyle;
         private AASEmulatorRuntime _targetScript;
 
         #endregion
@@ -23,11 +23,10 @@ namespace NAK.AASEmulator.Editor
         {
             OnRequestRepaint -= Repaint;
             OnRequestRepaint += Repaint;
-            _boldFoldoutStyle = new GUIStyle(EditorStyles.foldout) { fontStyle = FontStyle.Bold };
             
             // Initialize on select
             _targetScript = (AASEmulatorRuntime)target;
-            if (!_targetScript.IsInitialized())
+            if (!_targetScript.IsInitialized)
                 _targetScript.Initialize();
         }
         private void OnDisable() => OnRequestRepaint -= Repaint;
@@ -65,7 +64,7 @@ namespace NAK.AASEmulator.Editor
         private void Draw_AvatarInfo()
         {
             EditorGUILayout.Space();
-            _targetScript.avatarInfoFoldout = EditorGUILayout.Foldout(_targetScript.avatarInfoFoldout, "Avatar Info", true, _boldFoldoutStyle);
+            _targetScript.avatarInfoFoldout = EditorGUILayout.Foldout(_targetScript.avatarInfoFoldout, "Avatar Info", true, s_BoldFoldoutStyle);
 
             if (_targetScript.avatarInfoFoldout)
             {
@@ -95,7 +94,7 @@ namespace NAK.AASEmulator.Editor
             EditorGUILayout.Space();
             
             string foldoutLabel = $"Lip Sync / {_targetScript.VisemeMode.ToString().Replace('_', ' ')}";
-            _targetScript.lipSyncFoldout = EditorGUILayout.Foldout(_targetScript.lipSyncFoldout, foldoutLabel, true, _boldFoldoutStyle);
+            _targetScript.lipSyncFoldout = EditorGUILayout.Foldout(_targetScript.lipSyncFoldout, foldoutLabel, true, s_BoldFoldoutStyle);
 
             if (_targetScript.lipSyncFoldout)
             {
@@ -123,7 +122,7 @@ namespace NAK.AASEmulator.Editor
         private void Draw_BuiltInGestures()
         {
             EditorGUILayout.Space();
-            _targetScript.builtInGesturesFoldout = EditorGUILayout.Foldout(_targetScript.builtInGesturesFoldout, "Built-in inputs / Hand Gestures", true, _boldFoldoutStyle);
+            _targetScript.builtInGesturesFoldout = EditorGUILayout.Foldout(_targetScript.builtInGesturesFoldout, "Built-in inputs / Hand Gestures", true, s_BoldFoldoutStyle);
 
             if (_targetScript.builtInGesturesFoldout)
             {
@@ -160,14 +159,14 @@ namespace NAK.AASEmulator.Editor
         private void Draw_BuiltInLocomotion()
         {
             EditorGUILayout.Space();
-            _targetScript.builtInLocomotionFoldout = EditorGUILayout.Foldout(_targetScript.builtInLocomotionFoldout, "Built-in inputs / Locomotion", true, _boldFoldoutStyle);
+            _targetScript.builtInLocomotionFoldout = EditorGUILayout.Foldout(_targetScript.builtInLocomotionFoldout, "Built-in inputs / Locomotion", true, s_BoldFoldoutStyle);
 
             if (_targetScript.builtInLocomotionFoldout)
             {
                 EditorGUI.indentLevel++;
 
                 // Custom joystick GUI
-                _targetScript.joystickFoldout = EditorGUILayout.Foldout(_targetScript.joystickFoldout, "Joystick", true, _boldFoldoutStyle);
+                _targetScript.joystickFoldout = EditorGUILayout.Foldout(_targetScript.joystickFoldout, "Joystick", true, s_BoldFoldoutStyle);
                 if (_targetScript.joystickFoldout)
                 {
                     EditorGUILayout.BeginHorizontal();
@@ -204,7 +203,7 @@ namespace NAK.AASEmulator.Editor
         private void Draw_BuiltInEmotes()
         {
             EditorGUILayout.Space();
-            _targetScript.builtInEmotesFoldout = EditorGUILayout.Foldout(_targetScript.builtInEmotesFoldout, "Built-in inputs / Emotes", true, _boldFoldoutStyle);
+            _targetScript.builtInEmotesFoldout = EditorGUILayout.Foldout(_targetScript.builtInEmotesFoldout, "Built-in inputs / Emotes", true, s_BoldFoldoutStyle);
 
             if (_targetScript.builtInEmotesFoldout)
             {
@@ -241,11 +240,11 @@ namespace NAK.AASEmulator.Editor
             if (_targetScript.AnimatorManager == null)
                 return;
             
-            _targetScript.floatsFoldout = EditorGUILayout.Foldout(_targetScript.floatsFoldout, "Additional inputs / Floats", true, _boldFoldoutStyle);
+            _targetScript.floatsFoldout = EditorGUILayout.Foldout(_targetScript.floatsFoldout, "Additional inputs / Floats", true, s_BoldFoldoutStyle);
             if (_targetScript.floatsFoldout)
             {
                 EditorGUI.indentLevel++;
-                foreach (var floatParam in _targetScript.AnimatorManager.FloatParameters)
+                foreach (AnimatorManager.FloatParam floatParam in _targetScript.AnimatorManager.FloatParameters)
                 {
                     EditorGUILayout.BeginHorizontal();
                     EditorGUILayout.LabelField(floatParam.name, GUILayout.MaxWidth(150));
@@ -253,18 +252,18 @@ namespace NAK.AASEmulator.Editor
                     EditorGUI.BeginDisabledGroup(floatParam.isControlledByCurve);
                     float newFloatValue = EditorGUILayout.FloatField(floatParam.value);
                     EditorGUI.EndDisabledGroup();
-                    if (floatParam.value != newFloatValue)
+                    if (Math.Abs(floatParam.value - newFloatValue) > float.Epsilon)
                         _targetScript.AnimatorManager.SetParameter(floatParam.name, newFloatValue);
                     EditorGUILayout.EndHorizontal();
                 }
                 EditorGUI.indentLevel--;
             }
 
-            _targetScript.intsFoldout = EditorGUILayout.Foldout(_targetScript.intsFoldout, "Additional inputs / Ints", true, _boldFoldoutStyle);
+            _targetScript.intsFoldout = EditorGUILayout.Foldout(_targetScript.intsFoldout, "Additional inputs / Ints", true, s_BoldFoldoutStyle);
             if (_targetScript.intsFoldout)
             {
                 EditorGUI.indentLevel++;
-                foreach (var intParam in _targetScript.AnimatorManager.IntParameters)
+                foreach (AnimatorManager.IntParam intParam in _targetScript.AnimatorManager.IntParameters)
                 {
                     EditorGUILayout.BeginHorizontal();
                     EditorGUILayout.LabelField(intParam.name, GUILayout.MaxWidth(150));
@@ -279,11 +278,11 @@ namespace NAK.AASEmulator.Editor
                 EditorGUI.indentLevel--;
             }
             
-            _targetScript.boolsFoldout = EditorGUILayout.Foldout(_targetScript.boolsFoldout, "Additional inputs / Bools", true, _boldFoldoutStyle);
+            _targetScript.boolsFoldout = EditorGUILayout.Foldout(_targetScript.boolsFoldout, "Additional inputs / Bools", true, s_BoldFoldoutStyle);
             if (_targetScript.boolsFoldout)
             {
                 EditorGUI.indentLevel++;
-                foreach (var boolParam in _targetScript.AnimatorManager.BoolParameters)
+                foreach (AnimatorManager.BoolParam boolParam in _targetScript.AnimatorManager.BoolParameters)
                 {
                     EditorGUILayout.BeginHorizontal();
                     EditorGUILayout.LabelField(boolParam.name, GUILayout.MaxWidth(150));

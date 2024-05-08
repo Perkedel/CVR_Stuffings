@@ -6,7 +6,7 @@ namespace NAK.AASEmulator.Runtime
     public class EditorOnlyMonoBehaviour : MonoBehaviour
     {
         [HideInInspector]
-        public bool isInitializedExternally = false;
+        public bool isInitializedExternally;
 
         // Created via Inspector in Edit Mode
         internal virtual void Reset() => SetHideFlags();
