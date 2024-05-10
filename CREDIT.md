@@ -6992,3 +6992,47 @@ https://youtu.be/qzhuWRQWK5I?si=PygoI274O32LWD5a
 - https://youtube.com/shorts/2MZUVr4iaHw?si=G7dBHYh5CfWRwTUq
 - https://skfb.ly/oPG7v markiplier plier
 - protogen pls safety tag size
+- https://github.com/SurprisinglySuspicious/KeepSceneFocus/ SuspiciousLiquid's editor script! ensure Scene edit window kept focus even press play button.
+- https://store.steampowered.com/app/1574820/Until_Then/
+- cvr huogin
+- https://discord.com/channels/410126604237406209/1004342104383815681/1238005865622274078
+- https://discord.com/channels/410126604237406209/588350726841827358/1238095766006792294
+- https://discord.com/channels/410126604237406209/588350726841827358/1238150564932485160
+- https://discord.com/channels/410126604237406209/1237590087781584958/1237794076653518878
+- https://discord.com/channels/410126604237406209/1237590087781584958/1237885020098527366
+- https://discord.com/channels/410126604237406209/682645682968199168/1237661718143045712
+- https://discord.com/channels/410126604237406209/682645682968199168/1237681174915190844
+- https://discord.com/channels/410126604237406209/682645682968199168/1237892083176706159
+- https://discord.com/channels/410126604237406209/588350685255565344/1238081777201971330
+- https://discord.com/channels/410126604237406209/588350685255565344/1238083125037367307
+- https://discord.com/channels/613461480129560587/1204662818230640671/1232153081425166418
+- u
+- u
+- https://youtu.be/c5FHDWOIrwM?si=Ehnhe9pyoHs7lEDj
+- https://gamefromscratch.com/make-godot-engine-more-organized-with-todo-manager/
+- https://github.com/OrigamiDev-Pete/TODO_Manager
+- https://godotengine.org/asset-library/asset/1327
+- https://youtu.be/1voAY7tAXAA?si=mFRTIwNkBe2Z9IyL
+- huogin
+- https://discord.com/channels/410126604237406209/682645682968199168/1238190275860627557
+- https://discord.com/channels/410126604237406209/1237590087781584958/1237885020098527366 Bluescream got mods!
+- https://github.com/Bluscream/cvr-mods/tree/master/PublicSafety#readme
+- https://github.com/Bluscream/cvr-mods/tree/master/PublicSafety#readme
+- https://github.com/Bluscream/cvr-mods/tree/master/NotificationLog#readme
+- https://github.com/Bluscream/cvr-mods/tree/master/PropSpawner#readme
+- OK
+- https://discord.com/channels/410126604237406209/588350726841827358/1238208075312136282
+- https://discord.com/channels/410126604237406209/588350726841827358/1238208075312136282
+- https://discord.com/channels/410126604237406209/1237590087781584958/1238377983065067631
+- https://discord.com/channels/410126604237406209/588350770777161748/1238399221132951572 about car prop...
+- The Car props does not work if CVRWorld Object Gravity is set to 0 ! **The WheelCollider traction relies heavily upon World Gravity**.
+- Well you know what? Let's reset Object Gravity back to its default or anything but zero. Now, **add this Gravity Zone**, a size of giant as possible, **lowest priority**, **zero gravity**.
+- And it works.
+- https://discord.com/channels/410126604237406209/1004342533964439592/1238260381626138664
+- https://discord.com/channels/410126604237406209/1004342533964439592/1238293784366678120
+- https://discord.com/channels/410126604237406209/1004342533964439592/1238304732066615336
+- https://discord.com/channels/410126604237406209/682645682968199168/1238372229868159006
+- https://discord.com/channels/410126604237406209/588350685255565344/1238365277457088532
+- https://discord.com/channels/1014467806294720512/1014467807326523464/1238422275594915860 new lua library for Retro Gadget
+- https://github.com/rxi/json.lua
+- https://github.com/manoelcampos/xml2lua
