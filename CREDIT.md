@@ -7059,3 +7059,4 @@ https://youtu.be/qzhuWRQWK5I?si=PygoI274O32LWD5a
 - https://www.omnicalculator.com/conversion/seconds-to-hours-converter
 - https://www.quora.com/How-do-you-convert-seconds-to-hours-minutes-and-seconds/answer/Jeff-Koch-30?ch=10&oid=354169354&share=e572b756&srid=exGtt&target_type=answer
 - https://www.quora.com/How-do-you-convert-from-seconds-to-minutes-hours-days-weeks-months-and-years/answer/Tom-Bell-156?ch=10&oid=381479551&share=0771bdeb&srid=exGtt&target_type=answer
+- pls add beckadam icybecka credit to Protogen booth showcase
