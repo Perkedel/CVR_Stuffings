@@ -506,6 +506,7 @@ Here are the UUIDs of all these assets we uploaded to CVR:
 | `7cd0db37-36b2-4848-874f-5aab7a1b4c5e` | I have to leave | JOELwindows7 | I must sleep tonight now. |
 | `959f019a-3c8f-4e5e-9a54-7870ffea3750` | Discord say Hi accident | JOELwindows7 | I'm very sorry. |
 | `75757afe-d74c-4cbb-a467-c87d861ff192` | Why capsule collider | JOELwindows7 | default collider error. |
+| `60135562-c50e-4f4b-b29b-2278aca7bdf3` | Schedule Conflict | JOELwindows7 | I can't attend today, sorry |
 | `2d106677-d4d3-4671-b960-fa0c6dda30a1` | A Failed Car | JOELwindows7 | **RCC is not $0!!!** How do we supposed to car?! |
 | `93576ca4-7a8e-44b4-a81d-4dda4df466d0` | BUMSTRUM Car RCC Sample | JOELwindows7 | I forcedly had to buy it because there is no placeholder available to these days |
 | `c1d908ec-6a58-4cc6-a9b7-2715bbbf0688` | Teeny Car RCC | JOELwindows7 | Simple & Small yet stable car |
