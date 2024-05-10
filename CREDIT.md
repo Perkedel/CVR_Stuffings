@@ -7036,3 +7036,19 @@ https://youtu.be/qzhuWRQWK5I?si=PygoI274O32LWD5a
 - https://discord.com/channels/1014467806294720512/1014467807326523464/1238422275594915860 new lua library for Retro Gadget
 - https://github.com/rxi/json.lua
 - https://github.com/manoelcampos/xml2lua
+- https://discord.com/channels/410126604237406209/588350770777161748/1238433498432274503 About audio link ON/OFF
+- Okay. I figured how to ON/OFF AudioLink properly. Big shoutout to VoyVivika also, who suggested that there shall be a dummy audiolink global shader updater that does nothing instead of just disable the controller itself outright (because if you just do that, the laser will pause instead of turning off)
+- I got 2 Global Shader Updaters. Those 2 updates texture `_AudioTexture`. One is from the AudioLink Controller itself, and the other is dummy. I fill this Dummy with an empty render texture, no material referred from, nada, so it's just blank.
+- So, To turn on AudioLink Flashing Lights, Dummy is disabled, AudioLink Controller enabled. Vice versa. SIMPLE!
+- I want it local! If ones would like to turn off, they can do so for their own screen. not affecting everyone else.
+- Yeah that's what I can do, without having to animator the entire prefab which could complicate things idk.
+- https://discord.com/channels/784990546779045920/1232063044616716390/1235041164474712095 needlejuice record fnf
+- https://needlejuicerecords.com/pages/friday-night-funkin
+- https://twitter.com/FNF_Developers/status/1788007191493894194
+- https://github.com/FunkinCrew/funkin.art/
+- https://github.com/FunkinCrew/funkin.assets/
+- https://hub.abinteractive.net/worlds/detail?id=1feefd7d-5f14-4ccd-a4ac-e32a1361fdcd Tejler Midnight studio
+- teeny car pos -5.1606 14.9615 -11.8354
+- https://github.com/SDraw/ml_mods_cvr/blob/master/ml_bft/README.md
+- protogen hearbteat fjkasdfsdhfsjkdfhjksdlflsaddjklsdhhjklhjklkljhhjklhljk
+- value display
