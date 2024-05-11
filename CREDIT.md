@@ -7110,3 +7110,4 @@ https://youtu.be/qzhuWRQWK5I?si=PygoI274O32LWD5a
 - https://assetstore.unity.com/packages/3d/props/food/free-casual-food-pack-mobile-vr-85884 DO NOT FORGET LUMO-ART 3D FREE CASUAL FOOD PACK!!!!
 - https://docs.vrcft.io/docs/intro/getting-started
 - https://github.com/SurprisinglySuspicious/KeepSceneFocus ok
+- https://youtu.be/_Cd6F5_FUt4?si=Z8w4V3Jyys0d9BG1
