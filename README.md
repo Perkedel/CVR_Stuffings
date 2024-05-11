@@ -534,6 +534,7 @@ Here are the UUIDs of all these assets we uploaded to CVR:
 | `cae8af07-97be-4595-a5a8-1114caf6eec5` | Soklong Clock | JOELwindows7 | **Experimental** Aesthetically minimalist clock |
 | `2e76dbdf-7f52-425d-8eac-4a80fe3398ff` | DigiClock Beckadam | JOELwindows7 | **Experimental** Just digital clock test with Beckadam's Value Display shader |
 | `78fd86cd-fe4e-4a26-afd3-541a309fdebc` | DigiClock Khodrin | JOELwindows7 | **Experimental** Just digital clock test with Khodrin's HUD shader |
+| `d644128b-c448-42d6-9768-b17ed2d1c583` | DigiClock RED_SIM | JOELwindows7 | **Experimental** Just digital clock test with RED_SIM's Simple Counter shader |
 | `1ab3f86d-2ec3-4c81-b582-9f53807643d4` | Auto Lazy Suzan | JOELwindows7 | **Experimental** Same as Soklong clock, but only second hand and that's the Suzan area. |
 | `2b09d9dc-dd95-49dd-b4a1-2b1dc70f5a83` | 🫀 Heart Organ | JOELwindows7 | **Experimental** Khalifa Hawill's animated heart organ 3D Model |
 | `04176881-b662-4299-a238-260a4f975d01` | Kipas Naik | JOELwindows7 | **Experimental** Lift-up fan using Gravity zone |

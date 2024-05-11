@@ -7111,3 +7111,6 @@ https://youtu.be/qzhuWRQWK5I?si=PygoI274O32LWD5a
 - https://docs.vrcft.io/docs/intro/getting-started
 - https://github.com/SurprisinglySuspicious/KeepSceneFocus ok
 - https://youtu.be/_Cd6F5_FUt4?si=Z8w4V3Jyys0d9BG1
+- https://github.com/NotAKidOnSteam/NAK_CVR_Prefabs
+- https://github.com/VoyVivika/VivikaShader NEW UPDATE
+- https://www.patreon.com/posts/simple-counter-62864361 Uhh sir, there is RED_SIM's counter here. also just shader, & it's $0..

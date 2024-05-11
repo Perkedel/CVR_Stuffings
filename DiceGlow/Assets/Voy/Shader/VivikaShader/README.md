@@ -25,22 +25,8 @@ This Shader only officially supports the Unity Built-in Render Pipeline, it does
 - Vertex UV Tile Discard
 	- Discards Verticies within Certain UV Coordinates
 	- This Treats UV Coordinates like Tiles (U 1.0 to 2.0, V 1.0 to 2.0 is considered Tile 1, 1)
-- Decal (Video Player Display Support in CVR and VRC)
-	- in VRChat, Worlds with Newer Versions of ProTV
-		- in VRChat, to support this use newer versions of ProTV, Otherwise, please look for resources related to Udon. I am personally dedicated to creating content for ChilloutVR.
-	- in ChilloutVR, my world the Viviklub Supports This.
-		- to Support This in ChilloutVR:
-				1. in your world, add a Component called `CVR Global Shader Updater`
-				2. Enable "Update Texture"
-				3. Drag and Drop the Render Texture being used by a `CVR Video Player` Component in your world
-				4. Set the Property Name to `_Udon_VideoTex`
 - Rim Lighting
 - Toon Style Lighting
-### MultiMap
-MultiMap is a Texture which contains multiple maps in a Single RGB Texture intended for use with DXT1 Encoded Textures
-Currently the Spec for the Divorce Shader Multi-Map is
-- Red Channel = Metalic
-- Green Channel = Smoothness
 ## Amplify Functions
 This Repo contains some Amplify Shader Editor Functions useful for Shader Creators, namely:
 - Distance
