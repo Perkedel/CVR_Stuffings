@@ -7104,3 +7104,9 @@ https://youtu.be/qzhuWRQWK5I?si=PygoI274O32LWD5a
 - one republic nobody
 - https://mathsolver.microsoft.com/ms/solve-problem/%60frac%7B%2040%20%60times%20%20360000%2B3600000-15000%20%20%7D%7B%205000%20%60times%20%203600%20%20%7D
 - https://khodrin.gumroad.com/l/hud_shader_3 **PAID** HUD Shader Khodrin
+- https://gitlab.hob-co.uk/cvr/exterratamods/-/blob/bepinex/LimbGrabber/LimbGrabberUnity/LimbGrabberUnity.unitypackage Pls download Limb Grabber Utils from Exterata themselves!
+- https://gitlab.hob-co.uk/cvr/exterratamods/
+- https://github.com/Exterrata/CVRMods
+- https://assetstore.unity.com/packages/3d/props/food/free-casual-food-pack-mobile-vr-85884 DO NOT FORGET LUMO-ART 3D FREE CASUAL FOOD PACK!!!!
+- https://docs.vrcft.io/docs/intro/getting-started
+- https://github.com/SurprisinglySuspicious/KeepSceneFocus ok
