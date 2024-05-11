@@ -7117,3 +7117,4 @@ https://youtu.be/qzhuWRQWK5I?si=PygoI274O32LWD5a
 - https://github.com/vard88508/vrc-osc-miband-hrm pls download example
 - https://github.com/Sonic853/Pulsoid-to-VRChat-OSC which referenced from here. heartbeat cardiophilia tool
 - Tagline controvercy test: Cut the string, forget the past.
+- https://youtube.com/shorts/gLVu1uxERz4?si=0fV8MpiZ04MScipN
