@@ -7114,3 +7114,6 @@ https://youtu.be/qzhuWRQWK5I?si=PygoI274O32LWD5a
 - https://github.com/NotAKidOnSteam/NAK_CVR_Prefabs
 - https://github.com/VoyVivika/VivikaShader NEW UPDATE
 - https://www.patreon.com/posts/simple-counter-62864361 Uhh sir, there is RED_SIM's counter here. also just shader, & it's $0..
+- https://github.com/vard88508/vrc-osc-miband-hrm pls download example
+- https://github.com/Sonic853/Pulsoid-to-VRChat-OSC which referenced from here. heartbeat cardiophilia tool
+- Tagline controvercy test: Cut the string, forget the past.
