@@ -532,6 +532,7 @@ Here are the UUIDs of all these assets we uploaded to CVR:
 | `7ad7e4d5-89e1-4ddf-82e6-e5587e18c3cc` | VoyVivika Portable Tutorial Prop Edit Bahasa Indonesia | JOELwindows7 | VoyVivika Tutorial Prefab edited to add Bahasa Indonesia |
 | `140ca808-7a9a-49c3-9296-3f49127f04ea` | Sex Dice Tutorial card | JOELwindows7 | **NSFW** How to DIY Lewd dice. |
 | `cae8af07-97be-4595-a5a8-1114caf6eec5` | Soklong Clock | JOELwindows7 | **Experimental** Aesthetically minimalist clock |
+| `2e76dbdf-7f52-425d-8eac-4a80fe3398ff` | DigiClock | JOELwindows7 | **Experimental** Just digital clock test with Beckadam's Value Display shader |
 | `1ab3f86d-2ec3-4c81-b582-9f53807643d4` | Auto Lazy Suzan | JOELwindows7 | **Experimental** Same as Soklong clock, but only second hand and that's the Suzan area. |
 | `2b09d9dc-dd95-49dd-b4a1-2b1dc70f5a83` | 🫀 Heart Organ | JOELwindows7 | **Experimental** Khalifa Hawill's animated heart organ 3D Model |
 | `04176881-b662-4299-a238-260a4f975d01` | Kipas Naik | JOELwindows7 | **Experimental** Lift-up fan using Gravity zone |
