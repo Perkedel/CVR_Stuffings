@@ -7103,3 +7103,4 @@ https://youtu.be/qzhuWRQWK5I?si=PygoI274O32LWD5a
 - https://discord.com/channels/410126604237406209/682645682968199168/1238749868508581968
 - one republic nobody
 - https://mathsolver.microsoft.com/ms/solve-problem/%60frac%7B%2040%20%60times%20%20360000%2B3600000-15000%20%20%7D%7B%205000%20%60times%20%203600%20%20%7D
+- https://khodrin.gumroad.com/l/hud_shader_3 **PAID** HUD Shader Khodrin
