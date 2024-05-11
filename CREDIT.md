@@ -1639,7 +1639,7 @@ New Sauce lists
 - uniuni was the one behind: Crystal Shader, Candy Paint shader, uh what again?, Fake inner light, Planet shader?, Uni Star, Custom Camera.
 - PiMaker / `_pi_` was the one behind LTCGI
 - https://uniunishop.booth.pm/items?page=2
-- https://khodrin.com/hud-shader-3-0/
+- https://khodrin.com/l/hud-shader-3-0/ **PAID**
 - **Occcassional reminder**, please do not harrass paywallists. ***There is always a better way 😉***.
 - Keep the such files to yourself, family, & organizations only.
 - https://www.youtube.com/watch?v=2NdPHW4_SOg
@@ -2208,7 +2208,7 @@ New Sauce lists
 - https://github.com/vrchat-community/UdonSharp
 - https://github.com/AcChosen/VR-Stage-Lighting/tree/main/Packages/com.vrchat.core.vpm-resolver/Editor
 - Okay
-- https://sarasarenge.booth.pm/ here we have sarasarenge.
+- https://sarasarenge.booth.pm/ here we have sarasarenge. `Assets/Sarasa`
 - https://booth.pm/ja/items/2836532 begin from Anting-anting. file name `Acce`.
 - https://sarasarenge.booth.pm/items/3123829 argh shit!! paid!!
 - https://sarasarenge.booth.pm/items/4312949 `DecoDecoGoodsB` Dakimakura, Cutouts, and.. whatever. etc.
@@ -4435,7 +4435,7 @@ New Sauce lists
 - https://gitlab.com/towelfunnelvrc/towelcloud/-/releases
 - https://github.com/whiteflare/Unlit_WF_ShaderSuite UnlitWF!!
 - https://developer.oculus.com/resources/design-accessible-vr-controls
-- https://beckadam.gumroad.com/icybeckashaderpack **PAID**
+- https://beckadam.gumroad.com/l/icybeckashaderpack **PAID**
 - https://skfb.ly/or8Xs
 - `--no-mods` argument
 - ironwolf323 again Moonify Discord
@@ -6990,7 +6990,7 @@ https://youtu.be/qzhuWRQWK5I?si=PygoI274O32LWD5a
 - https://youtu.be/ZHbO0zIHPtA?si=c_7x3rlMXI3Pqy2Y
 - a
 - https://youtube.com/shorts/2MZUVr4iaHw?si=G7dBHYh5CfWRwTUq
-- https://skfb.ly/oPG7v markiplier plier
+- https://skfb.ly/oPG7v markiplier plier tang
 - protogen pls safety tag size
 - https://github.com/SurprisinglySuspicious/KeepSceneFocus/ SuspiciousLiquid's editor script! ensure Scene edit window kept focus even press play button.
 - https://store.steampowered.com/app/1574820/Until_Then/
@@ -7060,3 +7060,46 @@ https://youtu.be/qzhuWRQWK5I?si=PygoI274O32LWD5a
 - https://www.quora.com/How-do-you-convert-seconds-to-hours-minutes-and-seconds/answer/Jeff-Koch-30?ch=10&oid=354169354&share=e572b756&srid=exGtt&target_type=answer
 - https://www.quora.com/How-do-you-convert-from-seconds-to-minutes-hours-days-weeks-months-and-years/answer/Tom-Bell-156?ch=10&oid=381479551&share=0771bdeb&srid=exGtt&target_type=answer
 - pls add beckadam icybecka credit to Protogen booth showcase
+- cvr greg
+- https://discord.com/channels/410126604237406209/682645682968199168/1238532719781351546
+- https://discord.com/channels/410126604237406209/588350685255565344/1238466380605554828
+- https://discord.com/channels/410126604237406209/588350685255565344/1238486531778543647
+- https://discord.com/channels/410126604237406209/682645682968199168/1238570235943063552
+- https://discord.com/channels/410126604237406209/588350726841827358/1238602908614918205
+- https://discord.com/channels/410126604237406209/588350726841827358/1238608572263436348
+- https://discord.com/channels/410126604237406209/588350726841827358/1238617652528812095
+- https://discord.com/channels/410126604237406209/1237590087781584958/1238580660977926185
+- https://discord.com/channels/410126604237406209/1004342533964439592/1238619747684450384
+- greg
+- why clock didn't work protogen pls fix
+- https://discord.com/channels/410126604237406209/1004342533964439592/1238304732066615336
+- blender 3d sculpt vr
+- Kalle Sketchfab
+- https://www.splashlearn.com/math-vocabulary/seconds-to-minutes-conversion
+- https://www.timecalculator.net/seconds-to-minutes
+- https://discord.com/channels/410126604237406209/1004342533964439592/1238664072212381746
+- https://forum.godotengine.org/t/formatting-a-timer/6482
+- https://forum.godotengine.org/t/how-to-convert-seconds-into-ddmm-ss-format/8174/2
+- https://forum.godotengine.org/t/how-to-convert-seconds-into-ddmm-ss-format/8174
+- https://forum.godotengine.org/t/formatting-a-timer/6482/3
+- https://stackoverflow.com/a/1459683/9079640 Java exclusive advantage
+- https://currentmillis.com/
+- https://nayuvrc.booth.pm
+- https://skfb.ly/6VsKR baby bottle
+- https://assetstore.unity.com/packages/3d/props/food/free-casual-food-pack-mobile-vr-85884 free casual food pack Lumo art
+- https://skfb.ly/oOnQG dog idle
+- https://tenor.com/user/riri_zpt
+- https://youtu.be/Tmmh0K23W4s
+- https://liindy.gumroad.com/l/MemeLever
+- https://github.com/Exterrata/CVRMods/releases/latest/download/LimbGrabber.dll
+- https://gitlab.hob-co.uk/cvr/exterratamods/-/tree/bepinex/LimbGrabber/LimbGrabberUnity
+- https://discord.com/channels/410126604237406209/1004342533964439592/1238705170737664041
+- https://discord.com/channels/784990546779045920/1139817163172094033/1238689749535821864
+- https://skfb.ly/oDEM6 pistol Marietta multibarrel
+- https://sherbertdragon.gumroad.com/l/grim
+- https://hughesy.booth.pm
+- pls instead embed clock as avatar animator
+- von vivianov gumroad pls
+- https://discord.com/channels/410126604237406209/682645682968199168/1238749868508581968
+- one republic nobody
+- https://mathsolver.microsoft.com/ms/solve-problem/%60frac%7B%2040%20%60times%20%20360000%2B3600000-15000%20%20%7D%7B%205000%20%60times%20%203600%20%20%7D
