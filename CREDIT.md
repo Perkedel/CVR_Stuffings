@@ -7118,3 +7118,93 @@ https://youtu.be/qzhuWRQWK5I?si=PygoI274O32LWD5a
 - https://github.com/Sonic853/Pulsoid-to-VRChat-OSC which referenced from here. heartbeat cardiophilia tool
 - Tagline controvercy test: Cut the string, forget the past.
 - https://youtube.com/shorts/gLVu1uxERz4?si=0fV8MpiZ04MScipN
+- cvr boga
+- https://discord.com/channels/410126604237406209/1237590087781584958/1238945025610485851
+- boga
+- https://discord.com/channels/410126604237406209/766086942005526579/1238830732873564160
+- https://discord.com/channels/410126604237406209/797279576459968555/1237420920541548585
+- https://discord.com/channels/410126604237406209/1237590087781584958/1238949035465773147
+- https://github.com/ChilloutVRModdingGroup/ModdingWiki
+- https://github.com/ChilloutVRModdingGroup/ModdingWiki/wiki/ModNetwork
+- 24.3995 -3.1516 16.1293 Khodrin digiclock for purplefox
+- https://therpgslayer.gumroad.com/ therpgslayer pls
+- pls always ask if go to church physically before every sunday
+- pls prop whitelist that can still spawn despite prop disabled
+- https://openupm.com/packages/com.coffee.ui-particle/
+- https://openupm.com/packages/com.yasirkula.assetusagedetector/
+- https://github.com/marijnz/unity-toolbar-extender
+- https://openupm.com/packages/com.marijnzwemmer.unity-toolbar-extender/
+- https://openupm.com/packages/jp.hadashikick.vcontainer/
+- https://openupm.com/packages/com.littlebigfun.addressable-importer/
+- https://github.com/favoyang/unity-addressable-importer/blob/master/Documentation~/AddressableImporter.md
+- https://openupm.com/packages/com.coffee.softmask-for-ugui/
+- https://github.com/mob-sakai/SoftMaskForUGUI
+- https://openupm.com/packages/jp.pokemori.univrm-extensions/
+- https://openupm.com/packages/jp.pokemori.univrm-extensions/
+- https://pokemori.booth.pm/items/1788660
+- https://openupm.com/packages/com.adrenak.moq.upm/
+- https://openupm.com/packages/com.utilities.audio/
+- https://openupm.com/packages/com.madsbangh.easybuttons/
+- https://openupm.com/packages/com.wooshii.hierarchydecorator/
+- https://openupm.com/packages/com.solidalloy.unity-dropdown/
+- https://openupm.com/packages/com.wooshii.hierarchydecorator/
+- https://openupm.com/packages/com.annulusgames.alchemy/
+- https://github.com/Greener-Games/Unity_Extensions
+- https://openupm.com/packages/com.greener-games.unity-extensions/
+- https://openupm.com/packages/com.cysharp.unitask/
+- https://openupm.com/packages/com.dbrizov.naughtyattributes/
+- https://openupm.com/packages/com.bgtools.playerprefseditor/
+- https://openupm.com/packages/com.coffee.ui-effect/
+- https://openupm.com/packages/com.google.external-dependency-manager/
+- https://github.com/googlesamples/unity-jar-resolver
+- https://openupm.com/packages/com.unity.project-auditor/
+- https://discord.com/channels/867567549858971669/970108501382803476/1239043364918132838
+- 200TigerBloxed said if you don't have heart rate source, simply have a dummy text file to query from.
+- https://feedback.abinteractive.net/p/prop-whitelist-for-worlds already there. from Fenrir
+- https://feedback.abinteractive.net/p/in-cck-asset-explorer pls pls asset explorer
+- Protogen pls move title to description and rename title to `PBR Protogen++`
+- https://booth.pm/en/4127062 amagi-chan
+- senran kagura pls
+- https://discord.com/channels/410126604237406209/588350726841827358/1238631633133768764
+- https://discord.com/channels/410126604237406209/1004342533964439592/1238889058927640646
+- https://x.com/Pixel_exe_
+- https://discord.com/channels/410126604237406209/797279576459968555/1239041054427316274
+- https://atreides.booth.pm has Elsa in the fox nursery
+- https://gummiedrop.gumroad.com error, try other address
+- https://www.viviklub.com/
+- https://www.twitch.tv/voyvivika
+- https://discord.com/channels/410126604237406209/682645682968199168/1239004841632858152
+- voyvivka says do a button press hand gestures (left hand open, right fist, smack the left hand surface with right fist) to capture
+- better better communication closed beta testing. BBC CBT
+- computer based training
+- cognitive behavioural training
+- cock & ball torture from wikipedia
+- If your Arc Browser crash, re-running again keeps all your pin. Base Chromium loses it all with offer to restore all, in which can crash again because it runs all those tab. In Arc, startup pre-dormants all tabs.
+- https://discord.com/channels/867567549858971669/1215545752688791582/1215593877822644254
+- https://throne.com/VoyVivika
+- https://www.twitch.tv/a_typical_larry
+- uv 0 to 1. lowest to highest. VoyVivika
+- Photon server. VoyVivika said that CVR is not using it this, instead a custom solution, much like now Voice system
+- https://github.com/flosse/text-editors-written-in-rust
+- https://lapce.dev/
+- https://zed.dev/
+- High
+- razorlok? Just Invoke
+- https://discord.com/channels/410126604237406209/588350685255565344/1239088486284398673
+- https://discord.com/channels/410126604237406209/766086942005526579/1239085691766444063
+- https://coherent-labs.com/products/coherent-gameface/ Coherent gameFace
+- Hex protogen bug, collider
+- Bini youtube company worker 3d model
+- NestDNB. basically VoyVivika's ViviKlub, remade with `Building Blocks` assets we made. No, it's just another fun DNB world. also it could be Church when CafeDNB is not suitable.
+- Malicious Anarchy
+- Momofier how to say: `Momo fire`
+- https://discord.com/channels/410126604237406209/682645682968199168/1239130700540547072
+- https://discord.com/channels/410126604237406209/682645682968199168/1239154699676946473
+- https://discord.com/channels/410126604237406209/588350726841827358/1239219888724119634
+- https://discord.com/channels/410126604237406209/588350685255565344/1239180606139531345
+- https://youtu.be/AkzulQxOgQs?si=wn93AnF_iSe-v0C3
+- https://www.printables.com/model/79118-ps2-25-hdd-ssd-converteradaptermountcaddy/files
+- https://www.thingiverse.com/thing:4899513
+- https://discord.com/channels/410126604237406209/588350726841827358/1239223770862845952
+- https://discord.com/channels/410126604237406209/766086942005526579/1239242987540709396
+- https://assetstore.unity.com/packages/tools/particles-effects/azure-sky-dynamic-skybox-36050 **PAID**
