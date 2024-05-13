@@ -1,0 +1,153 @@
+# https://docs.github.com/en/communities/using-templates-to-encourage-useful-issues-and-pull-requests/configuring-issue-templates-for-your-repository
+
+name: Reserve Event Calendar
+description: Reserve slots for Event Calendar grid
+title: "[Wants to Event] "
+labels: ["event"]
+# projects: ["octo-org/1", "octo-org/44"]
+assignees:
+  - JOELwindows7
+body:
+  - type: markdown
+    attributes:
+      value: |
+        # Reserve Event Calendar
+        Thanks for taking the time to reserve Event Calendar in our poster grid!
+        ## NOTE
+        For DJ hour reservation, pls use template [`Reserve DJ Hours`](https://github.com/Perkedel/CVR_Stuffings/issues/new?assignees=JOELwindows7&labels=dj&projects=&template=reserve_hours.yaml&title=%5BWants+to+DJ%5D+).
+  - type: markdown
+    attributes:
+      value: |
+        ## (EN) Event Calendar Submission
+        - Explain your event as detail as possible
+        - Decide on when this event will be held, on which day, which time clock, & timezone.
+        - For what world you'd like to hold this event?
+        - Add your Event Ping Source such as Discord, Telegram, Legacy Pager Reborn, etc.
+        - Please attach camera photograph / screenshot of the location building / world. Players in the shot are optional. This will be cropped into square for your grid background.
+        - All grid reservation & its parameters are meant for permanent placement, i.e. slow-zombie updates. e.g., if your event is at Pop-up Anytime, answer the time when `Pop-up Anytime` and ensure your people has properly setup their ping of yours. also if your location suddenly move, please mention those in your ping message as well.
+  - type: input
+    id: username
+    attributes:
+      label: ChilloutVR Username
+      description: What's your username in ChilloutVR?
+      placeholder: ex. Zuuljedus
+    validations:
+      required: true
+  - type: textarea
+    id: eventDesc
+    attributes:
+      label: Event Description
+      description: Please describe the event you would like to reserve. Explain what event you are proposing to be held in one or more of our world. You may also drag & drop in-game camera screenshot of your world location.
+      value: |
+        ## I would like to Event
+        to assemble my people across the galaxies and hangout together
+      render: markdown
+    validations:
+      required: true
+  - type: dropdown
+    id: eventType
+    attributes:
+      label: What is this Event?
+      description: Select short description of this event.
+      options:
+        - Hangout / General Social
+        - Live Show (Club Live DJ, Live Show, Acara Panggung)
+        - Movie Theater Cinema Film Nonton Bareng
+        - Roleplay & Coded Games
+      default: 0
+    validations:
+      required: true
+  - type: input
+    id: location
+    attributes:
+      label: Event Location
+      description: Where will this event be held at? Insert world name search keywords or GUID of your world
+      placeholder: ex. CafeDNB
+    validations:
+      required: true
+  - type: input
+    id: pingSource
+    attributes:
+      label: Ping Source 
+      description: Please insert Event Ping Source to ping your people for when the event start
+      placeholder: ex. invite URL to Discord, Telegram, Legacy Pager Reborn, etc.
+    validations:
+      required: true
+  - type: input
+    id: landingPage
+    attributes:
+      label: Website / Landing Page 
+      description: Do you have website for this event?
+      placeholder: ex. https://perkedel.netlify.app/apps/CVRStuffings
+    validations:
+      required: false
+  - type: dropdown
+    id: selectDay
+    attributes:
+      label: Which day?
+      description: Select which day this event will be held at.
+      options:
+        - Sunday
+        - Monday
+        - Tuesday
+        - Wednesday
+        - Thursday
+        - Friday
+        - Saturday
+      default: 0
+    validations:
+      required: true
+  - type: input
+    id: time
+    attributes:
+      label: Time Clock
+      description: What time the event will start. (Time will be converted to 24H format in grid)
+      placeholder: ex. 8:00 PM, 24/7, Pop-up anytime, etc.
+    validations:
+      required: true
+  - type: dropdown
+    id: timeZone
+    attributes:
+      label: Which Time Zone?
+      description: Select which Time Zone this event is based on.
+      options:
+        - UTC -12 (Y)
+        - UTC -11 (X)
+        - UTC -10 (W)
+        - UTC -9 (V)
+        - UTC -8 (U, PST)
+        - UTC -7 (T)
+        - UTC -6 (S)
+        - UTC -5 (R, EST, Chicago)
+        - UTC -4 (Q)
+        - UTC -3 (P)
+        - UTC -2 (O)
+        - UTC -1 (N)
+        - UTC 0 (Z, UTC, GMT (UK winter), WET, AZOST, EGST, WT)
+        - UTC +1 (A CET, BST (UK summer))
+        - UTC +2 (B, CEST)
+        - UTC +3 (C)
+        - UTC +4 (D)
+        - UTC +5 (E)
+        - UTC +6 (F)
+        - UTC +7 (G, WIB, Jakarta, Bangkok)
+        - UTC +8 (H, WITA, Denpasar, Hong Kong, Singapore, Taipei, Manila, Beijing, Shanghai)
+        - UTC +9 (I, WIT, JST)
+        - UTC +10 (K)
+        - UTC +11 (L)
+        - UTC +12 (M)
+      default: 0
+    validations:
+      required: true
+  - type: checkboxes
+    id: checklist
+    attributes:
+      label: Options
+      description: Please correctly check these boxes.
+      options:
+        - label: Event is NSFW 🥵
+        - label: Event is drinking 🍸🍷🍾
+        - label: (for Game type) Event world is not coded (a.k.a. Manual Roleplay)
+        - label: Event timezone chose to be Daylight Time Saving
+    validation:
+      required: false
