@@ -7208,3 +7208,56 @@ https://youtu.be/qzhuWRQWK5I?si=PygoI274O32LWD5a
 - https://discord.com/channels/410126604237406209/588350726841827358/1239223770862845952
 - https://discord.com/channels/410126604237406209/766086942005526579/1239242987540709396
 - https://assetstore.unity.com/packages/tools/particles-effects/azure-sky-dynamic-skybox-36050 **PAID**
+- https://discord.com/channels/734976349994876928/734978945858142373/1239285316217602099
+- https://discord.com/channels/410126604237406209/797279576459968555/1239302450540838942
+- https://discord.com/channels/889254205532024832/889254205532024835/1237956539214594128
+- https://github.com/Perkedel/CVR_Stuffings/issues/new/choose
+- https://www.timeanddate.com/time/map/
+- https://en.wikipedia.org/wiki/Time_zone
+- https://id.wikipedia.org/wiki/Daftar_zona_waktu
+- https://www.timeanddate.com/time/zones/
+- https://www.timeanddate.com/time/aboututc.html
+- https://www.timeanddate.com/time/gmt-utc-time.html
+- https://www.timeanddate.com/time/united-kingdom-bst.html
+- https://www.timeanddate.com/time/zones/cet
+- https://www.timeanddate.com/time/zones/cest
+- https://www.timeanddate.com/time/zones/z
+- https://www.timeanddate.com/time/zones/bst
+- https://www.timeanddate.com/time/zones/est
+- https://www.timeanddate.com/time/zones/pst
+- how to linux? what line to be commented?
+- https://www.timeanddate.com/time/zones/pst
+- https://www.timeanddate.com/time/zones/h
+- https://www.timeanddate.com/time/zones/wita
+- https://www.timeanddate.com/time/zones/asia
+- https://www.timeanddate.com/time/zones/wib
+- https://www.timeanddate.com/time/zones/r
+- https://www.timeanddate.com/time/zones/u
+- https://www.timeanddate.com/time/zones/u
+- `<t:0:F>`
+- https://github.com/Maebbie/BlenderWASD Maebbie new blender config
+- https://discord.com/channels/489476457647570954/489525741927530496/1237877384833798155
+- https://discord.com/channels/489476457647570954/490985253629067274/1235598515929878580 also avatar
+- https://vrchat.com/home/avatar/avtr_ee3b3e97-88bf-489a-bd56-4bd5b231c5cd
+- https://discord.com/channels/410126604237406209/766086942005526579/1239416169761472563
+- https://discord.com/channels/410126604237406209/588350685255565344/1239478674659610656
+- https://discord.com/channels/734976349994876928/734978945858142373/1239543230098440284 Yes, Lukasz. the Jax.
+- https://youtu.be/m3SzB9GqTl4?si=OZkvEGTwZgxKo3lw blue archive nokia 3310. I put waifus on old nokias
+- https://drive.google.com/drive/folders/1lZHidOUc20LBsPUuNuYmg0hijsqbnqao?usp=sharing yes
+- https://youtu.be/axyIJMAfP-c?si=UeS3DZ2T0EGMTalX
+- https://youtu.be/APYe9_akRek?si=1BngJ6i3cbE4fxDa pokemon town song midi toothless dancing
+- https://www.vgmusic.com/file/2fa476de8a9bb61b931777e61f87d984.html and MIDI
+- https://youtu.be/OOy4yicGV7Q?si=VgKdmr6PkrQLoxrX
+- https://youtu.be/rmkmhpwTnzE?si=kXeVC7ariYeBbs5T
+- https://youtu.be/D9tn2cLm9mE?si=VVNM1Ok1VjwWlrIx
+- https://youtu.be/0xtwTUSApzE?si=-JHT_wxSVFFPE1L3
+- https://youtu.be/yWij7iZcnT4?si=8jVSWy3Odp7Z6dlf
+- https://youtu.be/0UbiJVXiaUU?si=I1HuO_lvnOa_QYTG lag train nokia MIDI
+- https://youtu.be/jVgWdFfnxDQ?si=nAoiSxfTOW6oxisl Lagtrain MIDI from Latency, and..
+- https://drive.google.com/drive/folders/1Bv3KonZKS3rzcqvTEvq48bDCnJBBuAas?usp=sharing download MIDI
+- https://discord.com/channels/410126604237406209/588350685255565344/1239578400214220850
+- https://discord.com/channels/410126604237406209/588350685255565344/1239620598221508750
+- https://discord.com/channels/410126604237406209/797279576459968555/1239612956749074474
+- https://discord.com/channels/410126604237406209/766086942005526579/1239579401251721216
+- https://discord.com/channels/410126604237406209/797279576459968555/1239624992149340161
+- https://youtu.be/e1zJS31tr88?si=2I--xNtpvgLc62H3 **BRACKEYS VIDEO STRIKES BACK!!!!!!!!!!** How to GDScript in 1 hour
