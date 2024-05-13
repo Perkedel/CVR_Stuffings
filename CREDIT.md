@@ -7261,3 +7261,10 @@ https://youtu.be/qzhuWRQWK5I?si=PygoI274O32LWD5a
 - https://discord.com/channels/410126604237406209/766086942005526579/1239579401251721216
 - https://discord.com/channels/410126604237406209/797279576459968555/1239624992149340161
 - https://youtu.be/e1zJS31tr88?si=2I--xNtpvgLc62H3 **BRACKEYS VIDEO STRIKES BACK!!!!!!!!!!** How to GDScript in 1 hour
+- https://feedback.abinteractive.net/p/auto-assign-speaker-to-video-player-as-room-scale-audio-to-selected-channel-source
+- https://feedback.abinteractive.net/kb/categories/getting-started hmsdtatave?!?!?!?/
+- https://discord.com/channels/734976349994876928/734978945858142373/1239664836980510762 oh!
+- https://ko-fi.com/s/f55a4f822b **PAID** Lukasz Released the Jax iyeay, $65
+- pls church chair for nest dnb
+- https://discord.com/channels/410126604237406209/588350726841827358/1239634666592665641
+- https://discord.com/channels/410126604237406209/588350726841827358/1239647148216422562
