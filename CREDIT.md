@@ -7342,3 +7342,31 @@ https://youtu.be/qzhuWRQWK5I?si=PygoI274O32LWD5a
 - https://en.wikipedia.org/wiki/List_of_free_and_open-source_software_packages
 - https://en.wikipedia.org/wiki/The_Sleuth_Kit
 - https://en.wikipedia.org/wiki/Church_software
+- https://forestwind.booth.pm/items/1482055 **PAID** Rikkor Lippia
+- https://forestwind.booth.pm/
+- https://discord.com/invite/FB8sVVMudB Momofier's Discord. Found in Momo's avatar showcase world
+- https://discord.com/channels/903249071496646697/903253418972438598/907289408103911506
+- https://discord.com/channels/903249071496646697/903253418972438598/907289408103911506
+- https://github.com/Heaventy/gmod-rikkorpmpack
+- https://discord.com/channels/903249071496646697/978245187987992576/990300448298774650
+- https://booth.pm/ja/items/3701802
+- https://discord.com/channels/903249071496646697/903253418972438598/950298504893440040
+- https://steamcommunity.com/sharedfiles/filedetails/?id=2627346150&insideModal=0&requirelogin=1
+- https://3d.nicovideo.jp/users/20714185/works
+- https://github.com/Heaventy/gmod-rikkorpmpack
+- https://steamcommunity.com/id/heaventyofficial/
+- https://steamcommunity.com/id/Yunpol/
+- https://discord.com/channels/410126604237406209/588350685255565344/1240220792256729200
+- https://twitter.com/nodusfm
+- https://www.patreon.com/noduanim
+- https://assetstore.unity.com/packages/3d/props/industrial/workplace-tools-86242 Workspace Tools pack by Ilias Kap
+- https://booth.pm/en/items/1349366 **JACKPOT**
+- https://discord.com/channels/410126604237406209/588350685255565344/1240233727636934656
+- https://discord.com/channels/410126604237406209/588350685255565344/1240244600422268938
+- https://discord.com/channels/410126604237406209/588350685255565344/1240244600422268938
+- https://github.com/gco/xee
+- https://github.com/gco/xee/blob/master/XeePhotoshopLoader.m#L108 *PSD is abysmal format*
+- https://discord.com/channels/410126604237406209/588350726841827358/1240267596348002384
+- https://assetstore.unity.com/packages/3d/props/industrial/workplace-tools-86242 we already have it. let's go!
+- pls minimum world transform into a bar cafe tiny instead!
+- https://discord.com/channels/410126604237406209/766086942005526579/1240307287264858212
