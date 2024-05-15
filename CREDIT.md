@@ -410,7 +410,7 @@ New Sauce lists
 - https://booth.pm/en/items/1969082
 - https://signyamo.blog/vrchat_switch_en/
 - https://vr-items.me/content/ui
-- https://assetstore.unity.com/packages/tools/particles-effects/azure-sky-dynamic-skybox-36050
+- https://assetstore.unity.com/packages/tools/particles-effects/azure-sky-dynamic-skybox-36050 **PAID** azure skybox
 - https://github.com/wave-harmonic/crest
 - https://assetstore.unity.com/packages/tools/particles-effects/crest-water-system-ocean-rivers-lakes-252194?aid=1011lic2K
 - https://github.com/MilchZocker?tab=repositories Download everything except profile repo. little tokyo empty
@@ -7268,3 +7268,77 @@ https://youtu.be/qzhuWRQWK5I?si=PygoI274O32LWD5a
 - pls church chair for nest dnb
 - https://discord.com/channels/410126604237406209/588350726841827358/1239634666592665641
 - https://discord.com/channels/410126604237406209/588350726841827358/1239647148216422562
+- https://discord.com/channels/410126604237406209/588350726841827358/1239735235835465729
+- https://discord.com/channels/410126604237406209/588350770777161748/1239803390234460170
+- https://discord.com/channels/410126604237406209/797279576459968555/1239866054654693436
+- https://discord.com/channels/410126604237406209/766086942005526579/1239883915116679250
+- https://discord.com/channels/410126604237406209/1004342533964439592/1239628519265533961
+- https://discord.com/channels/410126604237406209/412210535443202049/1238995094695317524
+- https://discord.com/channels/410126604237406209/412210535443202049/1238995532471341118
+- https://discord.com/channels/410126604237406209/588350685255565344/1239856854176239689
+- https://discord.com/channels/410126604237406209/588350685255565344/1239856854176239689
+- https://discord.com/channels/410126604237406209/682645682968199168/1239811836824522845
+- https://discord.com/channels/410126604237406209/1195601585720528976/1239689797312712784
+- https://www.vrcarena.com/assets/nYvZpY2vChP0nYR8DAs2 kitabunny
+- https://wispweaver.gumroad.com/l/KitaBunny **GONE**~~, and also license key are not in gumroad, because old ToS before.~~
+- https://discord.com/invite/kitavali ~~you must get it from~~ Kitavali discord.
+- https://wispweaver.gumroad.com/
+- https://highcd.gumroad.com/l/highgen? **PAID**
+- https://vrcmods.com/item?id=6114 Pole dance motion
+- https://youtu.be/nYiQ-7fhAjk the source of motion listed in description
+- https://stormistarcrest.gumroad.com/l/AvaliJukebox **PAID**
+- https://discord.com/channels/410126604237406209/682645682968199168/1239976922885263370
+- https://discord.com/channels/410126604237406209/797279576459968555/1240055914141192242
+- https://discord.com/channels/410126604237406209/797279576459968555/1240053754313838613
+- https://discord.com/channels/410126604237406209/797279576459968555/1240050158000013393
+- https://discord.com/channels/410126604237406209/766086942005526579/1240059896557211710
+- https://dc.theworldcore.link NovaVoidHowl Discord
+- https://moderatewinguy.gumroad.com
+- https://github.com/Thorinair/LumaDriver
+- s
+- https://furality.org/
+- https://furality.org/register
+- What do you mean `nonprofit organization`???? Aseprite?
+- Never heard that of it..
+- anyways..
+- https://discord.com/channels/969594520901664779/969594521400770617/1237617249116749894
+- https://discord.com/channels/969594520901664779/969594521400770617/1237598497054654516
+- ai afterburn?!??!?
+- phoenix song
+- azure skybox
+- https://discord.com/channels/410126604237406209/1004342533964439592/1240098377690124430
+- https://discord.com/channels/410126604237406209/682645682968199168/1240143811485634661
+- https://discord.com/channels/867567549858971669/1103131692945911869/1239513133094146069 ayy, yoo!!! come here!..,
+- https://polyhaven.com/a/sofa_02 voy vivika found better sofa!
+- a
+- https://discord.com/channels/410126604237406209/412210535443202049/1240148133548396568
+- cvr uodeb
+- https://youtu.be/-XYryP_GU8o?si=R63DaOjSVvX2nOkL
+- uoden yyo
+- https://youtu.be/-XYryP_GU8o?si=R63DaOjSVvX2nOkL
+- https://youtu.be/GYN3ub8Qb_I?si=T4AMxCCd8bg7X8-D
+- https://youtu.be/GYN3ub8Qb_I?si=T4AMxCCd8bg7X8-D
+- https://youtu.be/KEPWZAYFA68?si=N32KoxblKOEiuP_Y
+- https://youtu.be/sUeodu9jCz4?si=JJ8tL43OgLV1S3M_
+- https://youtu.be/1EROT3WnKzM?si=dzQMS3tF-1-2b6BM
+- wahyu 4:11, 5:13
+- Yoh 14:2-3
+- https://discord.com/channels/410126604237406209/682645682968199168/1240001770889941043
+- https://discord.com/channels/410126604237406209/682645682968199168/1239994678221340773
+- https://discord.com/channels/410126604237406209/588350726841827358/1239916900436152425
+- https://discord.com/channels/410126604237406209/797279576459968555/1239964529262333976
+- https://discord.com/channels/410126604237406209/797279576459968555/1239967669189345290
+- https://discord.com/channels/410126604237406209/1237590087781584958/1239964092928753835
+- ;
+- https://discord.com/channels/410126604237406209/797279576459968555/1239974985456418827
+- https://discord.com/channels/410126604237406209/588350685255565344/1239996171670519828
+- https://discord.com/channels/410126604237406209/588350685255565344/1239999531739906172
+- uodeb
+- https://youtu.be/1EROT3WnKzM?si=BVenCnBvhCJfEcjj Kari Jobe - Revelation Song
+- Note for drivers here: `Ingat! lajur kanan, karena ini Eropa & Amerika.`
+- https://openlp.org/
+- https://gitlab.com/openlp
+- https://en.wikipedia.org/wiki/OpenLP
+- https://en.wikipedia.org/wiki/List_of_free_and_open-source_software_packages
+- https://en.wikipedia.org/wiki/The_Sleuth_Kit
+- https://en.wikipedia.org/wiki/Church_software
