@@ -7344,7 +7344,7 @@ https://youtu.be/qzhuWRQWK5I?si=PygoI274O32LWD5a
 - https://en.wikipedia.org/wiki/Church_software
 - https://forestwind.booth.pm/items/1482055 **PAID** Rikkor Lippia
 - https://forestwind.booth.pm/
-- https://discord.com/invite/FB8sVVMudB Momofier's Discord. Found in Momo's avatar showcase world
+- https://discord.com/invite/FB8sVVMudB Momofier's old Discord. Found in Momo's avatar showcase world
 - https://discord.com/channels/903249071496646697/903253418972438598/907289408103911506
 - https://discord.com/channels/903249071496646697/903253418972438598/907289408103911506
 - https://github.com/Heaventy/gmod-rikkorpmpack
@@ -7370,3 +7370,67 @@ https://youtu.be/qzhuWRQWK5I?si=PygoI274O32LWD5a
 - https://assetstore.unity.com/packages/3d/props/industrial/workplace-tools-86242 we already have it. let's go!
 - pls minimum world transform into a bar cafe tiny instead!
 - https://discord.com/channels/410126604237406209/766086942005526579/1240307287264858212
+- https://discord.com/channels/410126604237406209/588350685255565344/1240366502792659104
+- https://discord.com/channels/410126604237406209/682645682968199168/1240357413366792233
+- https://discord.com/channels/410126604237406209/588350685255565344/1240369894583697539
+- https://discord.com/channels/1053364052488888351/1053408982624108564/1233837067507863715
+- https://discord.com/channels/1053364052488888351/1053408982624108564/1238911945906720818 everything is chrome
+- https://discord.com/channels/1001388809184870441/1002766110350917682/1239603519787372698
+- https://discord.com/channels/1001388809184870441/1002766110350917682/1239664500102267050
+- https://discord.com/channels/1001388809184870441/1002766110350917682/1240297999490482266
+- https://discord.com/channels/410126604237406209/682645682968199168/1240396486622052422
+- https://discord.com/channels/1001388809184870441/1001388951099150336/1159610409263829123
+- https://github.com/ChilloutVRModdingGroup/ModdingWiki/wiki/ModNetwork
+- cvr gravity guy pls
+- hero named punchline
+- cvr glasses dispenser a hat in time
+- sylviacrisp
+- pls tts tiktok tts
+- https://discord.com/channels/856811656926855179/856811657354018826/1238404569864736788
+- https://discord.com/channels/410126604237406209/682645682968199168/1240399638201237595
+- https://discord.com/channels/410126604237406209/682645682968199168/1240427071226904698
+- https://discord.com/channels/410126604237406209/682645682968199168/1240396486622052422
+- https://weilbyte.github.io/tiktok-tts/
+- https://gesserit.co/tiktok
+- https://tiktokvoicegenerator.com/
+- https://discord.com/channels/410126604237406209/412210535443202049/1240392020413911050
+- https://www.youtube.com/watch?v=qsw4io7r1n4
+- https://discord.com/channels/410126604237406209/412210535443202049/1240417100334366864
+- https://discord.com/channels/1041757302581108869/1044379150980493343/1239018025919971418
+- input error in phoneme
+- Lavali?!?!?!?!??! basically Lyra Avali????? can voice as different sounds just like actual Lyra
+- Trademark Perkedel Technologies
+- https://skfb.ly/P9A7 Vest by Cocoa. used by beckadam for laser tag prop
+- https://discord.com/channels/410126604237406209/412210535443202049/1240580000583778395
+- https://discord.com/channels/410126604237406209/412210535443202049/1240596960625426462
+- https://www.youtube.com/watch?v=znB1gB_hYHk
+- https://store.steampowered.com/app/1507190/Machinika_Museum/
+- https://youtube.com/watch?v=J6Ldhe504Mw
+- https://www.youtube.com/watch?v=uNIDjGqAb4g
+- https://www.youtube.com/watch?v=83caHdfJOAQ
+- https://discord.com/channels/410126604237406209/588350726841827358/1240442302942543892
+- https://discord.com/channels/410126604237406209/588350770777161748/1240512108437835857
+- https://discord.com/channels/410126604237406209/588350770777161748/1240508974852210689
+- https://discord.com/channels/410126604237406209/797279576459968555/1240503267382001684
+- https://github.com/VoyVivika/VivikaShader/releases/tag/r1.6.0 **CAUGHT** legacy version. The latest version removes video decal in default shader inspector. This one was one before the removal. The newer one is now `Decal`, but it's exclusively Amplify Shader Function, which the editor costs premium.
+- https://github.com/VoyVivika/VivikaShader/commit/8d1c7a3ce7cd232614dea70689fe9035dfda9ea2 here commit
+- https://github.com/VoyVivika/VivikaShader/commit/1298a326616935ebc9101e6f0d4c037b18da62e3 & one that changed readme.
+- https://docs.unity3d.com/Manual/SL-Properties.html#material-property-attributes
+- https://docs.unity3d.com/ScriptReference/MaterialProperty.html
+- https://docs.unity3d.com/ScriptReference/HeaderAttribute.html
+- https://docs.unity3d.com/2020.2/Documentation/Manual/SL-Properties.html
+- https://discussions.unity.com/t/header-for-material-properties-in-inspector/192990
+- https://docs.unity3d.com/ScriptReference/MaterialPropertyDrawer.html
+- https://docs.unity3d.com/ScriptReference/MaterialPropertyDrawer.html
+- https://discussions.unity.com/t/header-for-material-properties-in-inspector/192990
+- https://steamcommunity.com/sharedfiles/filedetails/?id=2627346150
+- https://github.com/Heaventy/gmod-rikkorpmpack
+- Momofier's New Discord can be found also in this Momo's avatar showcase world, **but on the QR code on the setting UI near your spawn**.
+- https://discord.com/channels/698327885286604860/867149642965581825/1239310305998274640 `You are allowed to Redistribute the Package, but Please Let me know if you do any changes and give suggestions on what I can do to make it work better` Momo's CVRFT
+- https://discord.com/channels/410126604237406209/588350770777161748/1240623296702189658
+- https://discord.com/channels/410126604237406209/1195601585720528976/1240639435327016993
+- https://www.reddit.com/r/ChromiumBrowser/comments/w09zdo/attention_everyone/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button
+- https://www.reddit.com/r/ThoriumBrowser/
+- https://discord.com/channels/410126604237406209/682645682968199168/1240699479850487899
+- https://discord.com/channels/410126604237406209/682645682968199168/1240733552937537606
+- https://discord.com/channels/410126604237406209/588350685255565344/1240639832343187467
