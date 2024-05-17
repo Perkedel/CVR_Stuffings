@@ -122,3 +122,5 @@ more on the SimpleAAS
 
 Further patches shall be made if neccessary when stable releases.
 btw, the Avatars AAS I think gonna break here. Oh noes!
+
+Commit https://github.com/Perkedel/CVR_Stuffings/commit/8a0035a9979b4a53af737190a5c150c8f10eb726
