@@ -7477,3 +7477,29 @@ https://youtu.be/qzhuWRQWK5I?si=PygoI274O32LWD5a
 - https://xinyustudio.wordpress.com/2015/07/21/unity3d-using-reorderablelist-in-custom-editor/
 - https://discussions.unity.com/t/how-to-use-reorderablelist/219464
 - https://docs.unity3d.com/ScriptReference/Time-deltaTime.html
+- https://github.com/Perkedel/CVR_Stuffings/commit/8a0035a9979b4a53af737190a5c150c8f10eb726
+- https://discord.com/channels/410126604237406209/588350685255565344/1240898227969196033
+- https://mocumocu.booth.pm
+- GhostRobot says you can timeOffset Khodrin clock. offsets are in second.
+- GhostRobot says you need to put boxCollider trigger on foot to trigger something.
+- https://froginyata.booth.pm
+- https://docs.unity3d.com/ScriptReference/Quaternion.Euler.html
+- https://docs.unity3d.com/ScriptReference/Transform-localRotation.html
+- https://projects.raspberrypi.org/en/projects/unity-update-textmeshpro
+- https://forum.unity.com/threads/changing-textmeshpro-text-from-ui-via-script.462250/
+- https://scifi.stackexchange.com/questions/288241/little-lost-robot-gamma-ray
+- https://stackoverflow.com/questions/65608454/set-text-with-textmesh-pro
+- https://skfb.ly/6RWGE torch
+- http://digitalnativestudios.com/textmeshpro/docs/ScriptReference/TextMeshPro.html
+- https://youtu.be/ac7PIcQs178?si=txmhkO72_Y3ATHLO
+- https://skfb.ly/oAQNq
+- https://discord.com/channels/410126604237406209/588350770777161748/1241038910264574015
+- https://discord.com/channels/410126604237406209/588350726841827358/1241011186338889768
+- https://discord.com/channels/410126604237406209/766087403609391165/1233810782974771362
+- ghostrobot & jkk says this game is CPU heavy
+- poiyomi.
+- Bug in CVR. auto-unfriend bug
+- ebay is one source for smartwatches. apple watch series 3
+- https://github.com/200Tigersbloxed/HRtoVRChat_OSC/blob/main/AvatarSetup.md
+- https://hrtovrchat.fortnite.lol/setup
+- particle zone
