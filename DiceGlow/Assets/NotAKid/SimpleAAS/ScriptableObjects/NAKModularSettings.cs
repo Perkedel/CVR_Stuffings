@@ -29,20 +29,21 @@ public class NAKModularSettings : ScriptableObject
 
     public List<CVRAdvancedSettingsEntry> settings = new List<CVRAdvancedSettingsEntry>();
 
+    // JOELwindows7: from line below do the hacky ways for newer CCK since 3.10
     public static CVRAdvancesAvatarSettingBase.ParameterType GetDefaultType(
         CVRAdvancedSettingsEntry.SettingsType settingType)
     {
         switch (settingType)
         {
             // Toggles default to Bool
-            case CVRAdvancedSettingsEntry.SettingsType.GameObjectToggle:
-                return CVRAdvancesAvatarSettingBase.ParameterType.GenerateBool;
+            case CVRAdvancedSettingsEntry.SettingsType.Toggle:
+                return CVRAdvancesAvatarSettingBase.ParameterType.Bool;
             // Dropdowns default to Int
-            case CVRAdvancedSettingsEntry.SettingsType.GameObjectDropdown:
-                return CVRAdvancesAvatarSettingBase.ParameterType.GenerateInt;
+            case CVRAdvancedSettingsEntry.SettingsType.Dropdown:
+                return CVRAdvancesAvatarSettingBase.ParameterType.Int;
             // Everything else is Float
             default:
-                return CVRAdvancesAvatarSettingBase.ParameterType.GenerateFloat;
+                return CVRAdvancesAvatarSettingBase.ParameterType.Float;
         }
     }
 
@@ -54,19 +55,19 @@ public class NAKModularSettings : ScriptableObject
         switch (settingType)
         {
             // Toggles can use all
-            case CVRAdvancedSettingsEntry.SettingsType.GameObjectToggle:
-                supportedTypes.Add(CVRAdvancesAvatarSettingBase.ParameterType.GenerateBool);
-                supportedTypes.Add(CVRAdvancesAvatarSettingBase.ParameterType.GenerateInt);
-                supportedTypes.Add(CVRAdvancesAvatarSettingBase.ParameterType.GenerateFloat);
+            case CVRAdvancedSettingsEntry.SettingsType.Toggle:
+                supportedTypes.Add(CVRAdvancesAvatarSettingBase.ParameterType.Bool);
+                supportedTypes.Add(CVRAdvancesAvatarSettingBase.ParameterType.Int);
+                supportedTypes.Add(CVRAdvancesAvatarSettingBase.ParameterType.Float);
                 break;
             // Dropdowns can only use float, int
-            case CVRAdvancedSettingsEntry.SettingsType.GameObjectDropdown:
-                supportedTypes.Add(CVRAdvancesAvatarSettingBase.ParameterType.GenerateInt);
-                supportedTypes.Add(CVRAdvancesAvatarSettingBase.ParameterType.GenerateFloat);
+            case CVRAdvancedSettingsEntry.SettingsType.Dropdown:
+                supportedTypes.Add(CVRAdvancesAvatarSettingBase.ParameterType.Int);
+                supportedTypes.Add(CVRAdvancesAvatarSettingBase.ParameterType.Float);
                 break;
             // Everything else is Float
             default:
-                supportedTypes.Add(CVRAdvancesAvatarSettingBase.ParameterType.GenerateFloat);
+                supportedTypes.Add(CVRAdvancesAvatarSettingBase.ParameterType.Float);
                 break;
         }
 

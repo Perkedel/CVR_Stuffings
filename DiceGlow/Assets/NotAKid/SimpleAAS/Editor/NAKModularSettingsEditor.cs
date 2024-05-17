@@ -51,18 +51,20 @@ namespace NAK.SimpleAAS
             rect.x += 12;
             rect.width -= 12;
 
+            // JOELwindows7: the `CVRAdvancesAvatarSettingBase` no longer has `isCollapsed` variable, instead now moved right away into the `CVRAdvancedSettingsEntry`
             //name foldout
             Rect foldoutRect = new Rect(rect.x, rect.y, 100, EditorGUIUtility.singleLineHeight);
-            entity.setting.isCollapsed = EditorGUI.Foldout(foldoutRect, entity.setting.isCollapsed, "Menu Name:", true);
+            entity.isCollapsed = EditorGUI.Foldout(foldoutRect, entity.isCollapsed, "Menu Name:", true);
             //setting name field (menu name)
             Rect name_textFieldRect = new Rect(foldoutRect.x + foldoutRect.width, rect.y, rect.width - foldoutRect.width,
                 EditorGUIUtility.singleLineHeight);
             entity.name = EditorGUI.TextField(name_textFieldRect, entity.name);
 
-            if (!entity.setting.isCollapsed) return;
+            // JOELwindows7: the `CVRAdvancesAvatarSettingBase` no longer has `isCollapsed` variable, instead now moved right away into the `CVRAdvancedSettingsEntry`
+            if (!entity.isCollapsed) return;
 
             rect.y += EditorGUIUtility.singleLineHeight * 1.25f;
-
+            
             //setting machinename field (animator name)
             Rect machineName_labelFieldRect = new Rect(foldoutRect.x, rect.y, rect.width, EditorGUIUtility.singleLineHeight);
             EditorGUI.LabelField(machineName_labelFieldRect, "Animator Name:");
@@ -87,21 +89,22 @@ namespace NAK.SimpleAAS
             if (type != entity.type)
             {
                 entity.type = type;
+                // JOELwindows7: There it is. Hacky way again! CCK 3.10+
                 switch (type)
                 {
-                    case CVRAdvancedSettingsEntry.SettingsType.GameObjectToggle:
+                    case CVRAdvancedSettingsEntry.SettingsType.Toggle:
                         entity.setting = new CVRAdvancesAvatarSettingGameObjectToggle();
                         entity.setting.usedType =
-                            GetDefaultType(CVRAdvancedSettingsEntry.SettingsType.GameObjectToggle);
+                            GetDefaultType(CVRAdvancedSettingsEntry.SettingsType.Toggle);
                         break;
-                    case CVRAdvancedSettingsEntry.SettingsType.GameObjectDropdown:
+                    case CVRAdvancedSettingsEntry.SettingsType.Dropdown:
                         entity.setting = new CVRAdvancesAvatarSettingGameObjectDropdown();
                         entity.setting.usedType =
-                            GetDefaultType(CVRAdvancedSettingsEntry.SettingsType.GameObjectDropdown);
+                            GetDefaultType(CVRAdvancedSettingsEntry.SettingsType.Dropdown);
                         break;
-                    case CVRAdvancedSettingsEntry.SettingsType.MaterialColor:
+                    case CVRAdvancedSettingsEntry.SettingsType.Color:
                         entity.setting = new CVRAdvancedAvatarSettingMaterialColor();
-                        entity.setting.usedType = GetDefaultType(CVRAdvancedSettingsEntry.SettingsType.MaterialColor);
+                        entity.setting.usedType = GetDefaultType(CVRAdvancedSettingsEntry.SettingsType.Color);
                         break;
                     case CVRAdvancedSettingsEntry.SettingsType.Slider:
                         entity.setting = new CVRAdvancesAvatarSettingSlider();
@@ -172,23 +175,26 @@ namespace NAK.SimpleAAS
             //now we show the settings
             switch (type)
             {
-                case CVRAdvancedSettingsEntry.SettingsType.GameObjectToggle:
+                // JOELwindows7: Hacky needed for CCK 3.10+
+                case CVRAdvancedSettingsEntry.SettingsType.Toggle:
                     CVRAdvancesAvatarSettingGameObjectToggle setting_toggle =
                         (CVRAdvancesAvatarSettingGameObjectToggle)entity.setting;
                     DrawToggleField(foldoutRect, ref rect, ref setting_toggle.defaultValue, "Default Value:");
                     break;
-                case CVRAdvancedSettingsEntry.SettingsType.GameObjectDropdown:
+                case CVRAdvancedSettingsEntry.SettingsType.Dropdown:
                     CVRAdvancesAvatarSettingGameObjectDropdown setting_dropdown =
                         (CVRAdvancesAvatarSettingGameObjectDropdown)entity.setting;
                     DrawDropdownField(foldoutRect, ref rect, ref setting_dropdown.defaultValue, "Default Value:",
-                        setting_dropdown.getOptionsList());
+                        // setting_dropdown.getOptionsList());
+                        setting_dropdown.optionNames);
                     //draw modified reorderable list
                     rect.y += EditorGUIUtility.singleLineHeight * 1.25f;
-                    ReorderableList options = setting_dropdown.GetReorderableList(null);
+                    // ReorderableList options = setting_dropdown.GetReorderableList(null);
+                    ReorderableList options = setting_dropdown.reorderableList; //JOELwindows7: Hacky needed for CCK 3.10+, the method is gone and replaced with this variable
                     Initialize_Modified_Dropdown_List(setting_dropdown, options);
                     options.DoList(new Rect(rect.x, rect.y, rect.width, 20f));
                     break;
-                case CVRAdvancedSettingsEntry.SettingsType.MaterialColor:
+                case CVRAdvancedSettingsEntry.SettingsType.Color:
                     CVRAdvancedAvatarSettingMaterialColor setting_color =
                         (CVRAdvancedAvatarSettingMaterialColor)entity.setting;
                     DrawColorField(foldoutRect, ref rect, ref setting_color.defaultValue, "Default Value:");
@@ -309,13 +315,16 @@ namespace NAK.SimpleAAS
             if (index >= targetScript.settings.Count) return EditorGUIUtility.singleLineHeight * 1f;
             CVRAdvancedSettingsEntry entity = targetScript.settings[index];
 
+            // JOELwindows7: isCollapsed moved back!
             // When collapsed only return one line height
-            if (!entity.setting.isCollapsed) return EditorGUIUtility.singleLineHeight * 1.25f;
+            // if (!entity.setting.isCollapsed) return EditorGUIUtility.singleLineHeight * 1.25f;
+            if (!entity.isCollapsed) return EditorGUIUtility.singleLineHeight * 1.25f;
 
+            // JOELwindows7: Here hacky needed, CCK 3.10
             switch (entity.type)
             {
                 //just one line needed
-                case CVRAdvancedSettingsEntry.SettingsType.GameObjectToggle:
+                case CVRAdvancedSettingsEntry.SettingsType.Toggle:
                 case CVRAdvancedSettingsEntry.SettingsType.InputSingle:
                 case CVRAdvancedSettingsEntry.SettingsType.Slider:
                 {
@@ -327,7 +336,7 @@ namespace NAK.SimpleAAS
                     return EditorGUIUtility.singleLineHeight * 9f;
                 }
                 case CVRAdvancedSettingsEntry.SettingsType.InputVector3:
-                case CVRAdvancedSettingsEntry.SettingsType.MaterialColor:
+                case CVRAdvancedSettingsEntry.SettingsType.Color:
                 {
                     return EditorGUIUtility.singleLineHeight * 10f;
                 }
@@ -338,7 +347,7 @@ namespace NAK.SimpleAAS
                     return EditorGUIUtility.singleLineHeight * 11.5f;
                 }
                 //special lil dumbfuck
-                case CVRAdvancedSettingsEntry.SettingsType.GameObjectDropdown:
+                case CVRAdvancedSettingsEntry.SettingsType.Dropdown:
                 {
                     CVRAdvancesAvatarSettingGameObjectDropdown setting_dropdown =
                         (CVRAdvancesAvatarSettingGameObjectDropdown)entity.setting;

@@ -72,6 +72,7 @@ namespace NAK.AASEmulator.Runtime
             foreach (CVRAdvancedSettingsEntry setting in avatarSettings)
             {
                 string[] postfixes;
+                // JOELwindows7: another hacky ways needed!
                 switch (setting.type)
                 {
                     case SettingsType.Joystick2D:
@@ -84,12 +85,12 @@ namespace NAK.AASEmulator.Runtime
                         postfixes = new[] { "-x", "-y", "-z" };
                         break;
 
-                    case SettingsType.MaterialColor:
+                    case SettingsType.Color:
                         postfixes = new[] { "-r", "-g", "-b" };
                         break;
 
-                    case SettingsType.GameObjectDropdown:
-                    case SettingsType.GameObjectToggle:
+                    case SettingsType.Dropdown:
+                    case SettingsType.Toggle:
                     case SettingsType.Slider:
                     case SettingsType.InputSingle:
                     default:
@@ -103,9 +104,11 @@ namespace NAK.AASEmulator.Runtime
                     machineName = setting.machineName,
                     settingType = setting.type,
                 };
-
+                
+                // JOELwindows7: the CVRAdvancesAvatarSettingGameObjectDropdown losts getOptionsList()! now all you have to do is to just insert a variable. there's now getter in it.
                 if (setting.setting is CVRAdvancesAvatarSettingGameObjectDropdown dropdown)
-                    menuEntry.menuOptions = dropdown.getOptionsList();
+                    // menuEntry.menuOptions = dropdown.getOptionsList();
+                    menuEntry.menuOptions = dropdown.optionNames;
 
                 for (int i = 0; i < postfixes.Length; i++)
                 {
