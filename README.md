@@ -546,6 +546,7 @@ Here are the UUIDs of all these assets we uploaded to CVR:
 | `382db2db-2101-4308-9a8a-5bcb263880a7` | Reflection Probe Helm Spawner | JOELwindows7 | **Experimental** |
 | `48c2addd-f480-4146-af62-0a2ee047f157` | Cube Scaler | JOELwindows7 | **Experimental** |
 | `33f06030-a4a8-45f6-9409-a69913cc39e8` | Diagonal Joystick Bug Demonstration | JOELwindows7 | **Experimental** |
+| `be866c2d-f865-41be-b8f4-99bb1de0fd82` | Anha Script Test | JOELwindows7 | **Experimental** Lua Script Test |
 | `89a9b73f-93f6-4727-9546-3f52dd4e979a` | null | JOELwindows7 | **Experimental** |
 | `66effc2f-41af-475d-bfd2-df37989c1600` | VoyVivika Portable Tutorial Prop | VoyVivika | (**NOT PERKEDEL**) |
 | `1dd3b77b-8982-4627-9979-4a0503b6f2b9` | Kavex's Rib | Kavex | (**NOT PERKEDEL**) ported from https://3dwarehouse.sketchup.com/model/4ee36dd6-7482-41a2-87ff-ceaefc83c4da/Rippchen with [song](https://www.youtube.com/watch?v=_1zzRLMHlDM) |
