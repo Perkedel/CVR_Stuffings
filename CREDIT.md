@@ -7503,3 +7503,7 @@ https://youtu.be/qzhuWRQWK5I?si=PygoI274O32LWD5a
 - https://github.com/200Tigersbloxed/HRtoVRChat_OSC/blob/main/AvatarSetup.md
 - https://hrtovrchat.fortnite.lol/setup
 - particle zone
+- https://discord.com/channels/410126604237406209/795882566968279091/1241087642490372206
+- https://discord.com/channels/410126604237406209/588350685255565344/1241025910648471562
+- pls Vending machine glasses A Hat in Time. third time dispense explodes it
+- https://stackoverflow.com/questions/65608454/set-text-with-textmesh-pro
