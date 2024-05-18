@@ -18,6 +18,7 @@ GameObject:
   - component: {fileID: 4124444407372325892}
   - component: {fileID: 4537871301101916839}
   - component: {fileID: 4190855813362339039}
+  - component: {fileID: 8885284739643693501}
   m_Layer: 0
   m_Name: LuaComingSoon
   m_TagString: Untagged
@@ -167,7 +168,7 @@ MonoBehaviour:
   objectId: 89090a15-d3a4-4510-b55b-4299248cf743
   randomNum: 
   unityVersion: 2021.3.23f1
-  cckVersion: 3.9:107
+  cckVersion: 3.10:125
 --- !u!114 &4124444407372325892
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -368,6 +369,27 @@ MonoBehaviour:
   setAsMirroringCamera: 0
   replacementShaders: []
   selectedShader: -1
+--- !u!114 &8885284739643693501
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5637415733179982489}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 70e2beb286f4c1b4690755891d0604a5, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  localOnly: 0
+  asset: {fileID: 2805197760792257560, guid: 1e46dc7f896094c4fbce728bc5b439cb, type: 3}
+  boundObjects:
+  - name: Screenshotter
+    boundThing: {fileID: 9085572689841269448}
+  - name: EmptyQuad
+    boundThing: {fileID: 3565337859203161551}
+  - name: Self
+    boundThing: {fileID: 5637415733179982489}
 --- !u!1001 &5247484733419831310
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -426,6 +448,11 @@ PrefabInstance:
     m_RemovedComponents:
     - {fileID: 6134895833748071054, guid: ce8522c1f60b1e54b8f52ab4def9f31c, type: 3}
   m_SourcePrefab: {fileID: 100100000, guid: ce8522c1f60b1e54b8f52ab4def9f31c, type: 3}
+--- !u!1 &3565337859203161551 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 8766345136268910017, guid: ce8522c1f60b1e54b8f52ab4def9f31c, type: 3}
+  m_PrefabInstance: {fileID: 5247484733419831310}
+  m_PrefabAsset: {fileID: 0}
 --- !u!4 &5595102533111406737 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 393787392721952927, guid: ce8522c1f60b1e54b8f52ab4def9f31c, type: 3}
@@ -497,5 +524,10 @@ Transform:
 --- !u!20 &6727033623191774457 stripped
 Camera:
   m_CorrespondingSourceObject: {fileID: 1098604010991693212, guid: 2861edbb67c4a8b48849a946a61fe4ad, type: 3}
+  m_PrefabInstance: {fileID: 5936940537286150501}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &9085572689841269448 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 3202710039642268589, guid: 2861edbb67c4a8b48849a946a61fe4ad, type: 3}
   m_PrefabInstance: {fileID: 5936940537286150501}
   m_PrefabAsset: {fileID: 0}
