@@ -2,6 +2,7 @@
 --[[
     https://documentation.abinteractive.net/cck/lua/hello-world/
     https://github.com/NotAKidOnSteam/NAK_CVR_Prefabs/blob/main/LuaExamples/CubeFactory/Script/CubeFactory.lua
+    https://discord.com/channels/410126604237406209/1240763673346183279/1241233382487228478 to get component according to DDAkebono: `GetComponent("[full class name]")` like `gameObject.GetComponent("UnityEngine.RigidBody")`
 ]]--
 -- JOELwindows7
 UnityEngine = require("UnityEngine")
@@ -11,6 +12,7 @@ local isSpun = false
 local spounThingy
 local yikYukThingy
 local tmpThingy
+local tmpTextItself
 local angle = 0
 local toMoveAt = 0
 local isBacking = false
@@ -24,6 +26,7 @@ function Start()
     spounThingy = BoundObjects.Spoun
     yikYukThingy = BoundObjects.IyakYikYuk
     tmpThingy = BoundObjects.Titler
+    tmpTextItself = tmpThingy.GetComponent(TMP)
     print "Hello world!"
 end
 
@@ -54,6 +57,7 @@ function Update()
 
     installSay = title .. "\n" .. "Ping: " .. InstancesAPI.Ping .. "\n" .. sayWelcomeHome .. "\n"
     -- tmpThingy.gameObject.TMP_Text.text = installSay
+    -- tmpTextItself.text = installSay
 
     -- spounThingy.transform.Rotate(0,angle,0)
     spounThingy.transform.localRotation = UnityEngine.Quaternion.Euler(UnityEngine.NewVector3(0,angle,0))

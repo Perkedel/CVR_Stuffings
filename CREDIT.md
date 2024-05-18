@@ -7507,3 +7507,42 @@ https://youtu.be/qzhuWRQWK5I?si=PygoI274O32LWD5a
 - https://discord.com/channels/410126604237406209/588350685255565344/1241025910648471562
 - pls Vending machine glasses A Hat in Time. third time dispense explodes it
 - https://stackoverflow.com/questions/65608454/set-text-with-textmesh-pro
+- https://discord.com/channels/410126604237406209/1240763673346183279/1241221703988678666 hah yess
+- Zuuljedus & families after in Godot Realm.
+- The Realizers hired permanent advisors from Advisors realm to prevent Realizers from becoming Terry Davis, despite guaranteed no slurs. Rant againts bullies seems to be a bad idea these days, so they'll be here to reduce that in our Godot games productions, especially on category of Based on True Story.
+- It happened that these advisors were ex-motivators (Motivation Alliance) in Dasandim. They were graduated in 2032 due to toxicity across the galaxies, and hence the Alliance has been shutdown.
+- Trulvador, the lead Advisor of this contract, was a classmate with Zuuljedus & Panfesir. Reunion! He has 2 new friends brought along.
+- https://discord.com/channels/410126604237406209/1240763673346183279/1241233382487228478 to get component according to DDAkebono: `GetComponent("[full class name]")` like `gameObject.GetComponent("UnityEngine.RigidBody")`
+- https://docs.unity3d.com/ScriptReference/GameObject.GetComponent.html
+- The NestDNB is inspired from church buildings. also VoyVivika's Viviklub, the entrance to main room.
+- https://discord.com/channels/410126604237406209/682645682968199168/1241225713328324721
+- https://discord.com/channels/410126604237406209/588350770777161748/1241201630473621699
+- from VoyVivika. try to lower texture resolution imports from this Unity
+- https://discord.com/channels/410126604237406209/412210535443202049/1241189817795084289
+- https://discord.com/channels/698327885286604860/698342315118559252/1240899949634519060
+- https://youtu.be/ClZW1cKHd9s?si=a_P3CNXNdMSl42A7
+- https://discord.com/channels/867567549858971669/1027391778929774592/1240395137360728074
+- application audio capture BETA. OBS
+- https://skfb.ly/oGwVs Professor B scan
+- VoyVivika found Krita on Windows slurps whole RAM
+- Penta doesn't control ahfsdkjghakjelrhgaerhlgk Paint.NET clone
+- cruelty squad game
+- Gloopin by Irix
+- https://printables.com/model/148367 robot Lucky 13 3d print stl
+- While Big menu open, hold alt. your aim can click to player to open their profile. thancc VoyVivika
+- hobkin 3d model hobert pls     
+- a
+- HatKid bwahs
+- https://youtube.com/shorts/VOfhE__awOY?si=1jlCIb5lM_wOFZBQ
+- https://thangs.com/forgecore
+- https://discord.com/channels/410126604237406209/588350770777161748/1241385531774865468
+- https://tsunamoo.booth.pm/items/3259425
+- https://assetstore.unity.com/publishers/62195
+- https://assetstore.unity.com/packages/vfx/shaders/omnishade-pro-mobile-optimized-shader-213594 **Paid**
+- https://stackoverflow.com/questions/69427848/how-to-modify-ui-text-via-script
+- https://www.youtube.com/watch?v=PDVGiJGTbZs
+- https://www.youtube.com/watch?v=2zfQqwn1KSo
+- https://www.youtube.com/watch?v=ILONj0mBFPo
+- https://discord.com/channels/410126604237406209/682645682968199168/1241386222379860092
+- https://discord.com/channels/410126604237406209/1195601585720528976/1241368629639905331
+- https://discord.com/channels/410126604237406209/1195601585720528976/1240732942863564850

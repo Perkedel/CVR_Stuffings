@@ -9,6 +9,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 2802343804567780529}
+  - component: {fileID: 2384244754170919750}
   - component: {fileID: 2802343804567780528}
   - component: {fileID: 2802343804567780495}
   m_Layer: 0
@@ -33,6 +34,21 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &2384244754170919750
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2802343804567780494}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 70e2beb286f4c1b4690755891d0604a5, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  localOnly: 0
+  asset: {fileID: 0}
+  boundObjects: []
 --- !u!114 &2802343804567780528
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -72,6 +88,9 @@ MonoBehaviour:
   gravity: 18
   objectGravity: 9.81
   jumpHeight: 1
+  airFriction: 0.3
+  playerGravityAlignmentMode: 0
+  playerGravityCustomAlignmentValue: 0
   useCustomCollisionMatrix: 0
   collisionMatrix:
   - collisionList: 01010101010101010101010101010101
@@ -123,3 +142,5 @@ MonoBehaviour:
   type: 2
   objectId: 
   randomNum: 
+  unityVersion: 2021.3.23f1
+  cckVersion: 3.10:125
