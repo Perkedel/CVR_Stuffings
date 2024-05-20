@@ -7546,3 +7546,39 @@ https://youtu.be/qzhuWRQWK5I?si=PygoI274O32LWD5a
 - https://discord.com/channels/410126604237406209/682645682968199168/1241386222379860092
 - https://discord.com/channels/410126604237406209/1195601585720528976/1241368629639905331
 - https://discord.com/channels/410126604237406209/1195601585720528976/1240732942863564850
+- https://shaders.orels.sh/docs/vfx/holographic-parallax
+- https://docs.unity3d.com/Manual/shader-Performance.html
+- https://assetstore.unity.com/packages/vfx/shaders/mobile-shader-pack-37669 **PAID**
+- https://github.com/nylonee/unity-standard-shader-mobile
+- cvr huy
+- https://twitch.tv/djchrysaora
+- https://discord.com/channels/412316553778954255/557384351122325504/1242032197943169106
+- https://discord.com/channels/410126604237406209/795882566968279091/1241714499048837221
+- https://discord.com/channels/410126604237406209/795882566968279091/1241732489278656512
+- https://forum.cfx.re/t/fivem-lua-stubs/1274795
+- https://feedback.abinteractive.net/p/2024r176ex1-be-able-to-block-scripts-on-a-per-avatar-and-prop-basis
+- https://discord.com/channels/410126604237406209/1240763673346183279/1241824448668238054
+- https://discord.com/channels/410126604237406209/1240763673346183279/1241460998729105539
+- https://discord.com/channels/410126604237406209/1240763673346183279/1241454451223429141
+- https://discord.com/channels/410126604237406209/1240763673346183279/1241449416326647879
+- https://discord.com/channels/410126604237406209/1240763673346183279/1241834512871194694
+- https://discord.com/channels/410126604237406209/1240763673346183279/1241834344847511602
+- https://discord.com/channels/410126604237406209/1237590087781584958/1241767331986673686
+- https://discord.com/channels/410126604237406209/797279576459968555/1241519528622686290
+- https://discord.com/channels/410126604237406209/797279576459968555/1241841754223804536
+- https://discord.com/channels/410126604237406209/797279576459968555/1241508001341374534
+- https://youtube.com/shorts/lFThUiuO23Y?si=B8DLpNEeg-IU03wT
+- https://youtube.com/shorts/5GXgqi7eS-E?si=Z6PmWtrnKPba7HmE
+- unity mobile shader
+- huy    
+- https://discord.com/channels/410126604237406209/412210535443202049/1242091588683960423
+- https://www.reddit.com/r/funny/comments/esc35e/logging_out/
+- https://discord.com/channels/410126604237406209/412210535443202049/1242095470537474048
+- https://discord.com/channels/410126604237406209/412210535443202049/1242089997981712525
+- https://twitter.com/ReenubAD/status/1792436169722261540?t=tgL5Gq5muBjv20_bn603Eg&s=19
+- https://youtu.be/mEP-5LJESEI?si=BHflAEWw3PN7b7Uf
+- https://freesound.org/people/Mativve/sounds/391538
+- https://pixabay.com/en/videos/beach-horizon-sea-aerial-view-lake-13621
+- https://freesound.org/people/Unlistenable/packs/22004/
+- https://discord.com/channels/410126604237406209/1240763673346183279/1242106194525425805
+- https://discord.com/channels/410126604237406209/795882566968279091/1242132851399327834
