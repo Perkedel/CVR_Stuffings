@@ -7705,3 +7705,8 @@ https://youtu.be/qzhuWRQWK5I?si=PygoI274O32LWD5a
 - https://booth.pm/en/items/3261047 **PAID**
 - https://booth.pm/en/items/4841862 **PAID**
 - https://assetstore.unity.com/packages/tools/visual-scripting/amplify-shader-editor-68570 **PAID**
+- https://www.lua.org/pil/11.1.html
+- https://discord.com/channels/410126604237406209/1237590087781584958/1242820073404760117
+- https://discord.com/channels/410126604237406209/1240763673346183279/1242857103270482014
+- https://discord.com/channels/410126604237406209/1240763673346183279/1242874106798538792
+- https://discord.com/channels/410126604237406209/1240763673346183279/1242874765467844659

@@ -20,6 +20,30 @@
 
     cool and good thancc.
     it should work ther....
+
+    final snippet
+    ```lua
+    local textUI
+    local textUIComponent
+
+    function start()
+    -- Obtain from a bound object
+    textUI = BoundObjects.TextUIObject
+    -- Obtain its component
+    if not textUI then
+        print('You forgot to bind TextUI into the BoundObjects!')
+    else
+        textUIComponent = textUI.GetComponent('UnityEngine.UI.Text')
+    end
+    
+    -- Start interacting
+    if textUIComponent then
+        textUIComponent.text = 'Hello world iyeay bwah!'
+    else
+        print('The Text component is missing!')
+    end
+    end
+    ```
 ]]--
 -- JOELwindows7
 UnityEngine = require("UnityEngine")
