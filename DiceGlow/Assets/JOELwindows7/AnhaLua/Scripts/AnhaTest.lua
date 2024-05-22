@@ -4,9 +4,26 @@
     https://github.com/NotAKidOnSteam/NAK_CVR_Prefabs/blob/main/LuaExamples/CubeFactory/Script/CubeFactory.lua
     https://discord.com/channels/410126604237406209/1240763673346183279/1241233382487228478 to get component according to DDAkebono: `GetComponent("[full class name]")` like `gameObject.GetComponent("UnityEngine.RigidBody")`
     https://github.com/NotAKidOnSteam/NAK_CVR_Prefabs/blob/c7d1ce6c5925f2375e7b37f29c4d86be521f8b57/LuaExamples/PlayerWall/PlayerWall.lua#L34
+    I got sample snippet from LensError
+    ```
+    PlrCount.GetComponent("UnityEngine.UI.Text").text = "Player Count:".. playerCount
+    ```
+
+    and...
+    ```
+    PlrCount = BoundObjects.PlrCount
+    if not PlrCount then
+        print("Error! PlrCount not bound in ChilloutVR inspector.")
+        return
+    end 
+    ```
+
+    cool and good thancc.
+    it should work ther....
 ]]--
 -- JOELwindows7
 UnityEngine = require("UnityEngine")
+UnityUI = require("UnityEngine.UI")
 TMP = require("TextMeshPro")
 TM = UnityEngine.TextMesh
 -- UITextOld = UnityEngine.UI
@@ -25,19 +42,24 @@ local velocity = 5
 local title = 'Halo Lua from JOELwindows7'
 local installSay = ''
 local sayWelcomeHome = ''
+local sayPlayersFuzzy = ''
 
 -- Start is called before the first frame update
 function Start()
+    print "Hello world!"
     spounThingy = BoundObjects.Spoun
     yikYukThingy = BoundObjects.IyakYikYuk
     tmpThingy = BoundObjects.Titler
     -- tmpTextItself = tmpThingy.GetComponent(TMP)
     -- tmpTextItself = tmpThingy:GetComponent("TextMeshPro.TMP")
     tmThingy = BoundObjects.TitlerOld
-    -- tmTextItself = tmThingy.GetComponent(TM)
-    -- tmTextItself = tmThingy:GetComponent("UnityEngine.TextMesh")
-    -- tmTextItself = tmThingy.GetComponent("UnityEngine.UI.Text")
-    print "Hello world!"
+    if not tmThingy then
+        print('WERROR! tmThingy not bounded!!!')
+    else
+        -- tmTextItself = tmThingy.GetComponent(TM)
+        -- tmTextItself = tmThingy:GetComponent("UnityEngine.TextMesh")
+        tmTextItself = tmThingy.GetComponent("UnityEngine.UI.Text")
+    end
 
     installSay = title .. "\n" .. "Ping: " .. InstancesAPI.Ping .. "\n" .. sayWelcomeHome .. "\n"
 
@@ -48,15 +70,21 @@ function Start()
     end
 
     print('haha')
-    -- tmThingy:GetComponent("UnityEngine.TextMesh").text = 'HEy Hey Hey'
-    -- tmThingy:GetComponent("UnityEngine.UI.Text").text = 'HEy Hey Hey'
     print(installSay)
-    -- tmTextItself.text = 'HEy Hey Hey'
+    if tmTextItself then
+        -- tmThingy:GetComponent("UnityEngine.TextMesh").text = 'HEy Hey Hey'
+        -- tmThingy:GetComponent("UnityEngine.UI.Text").text = 'HEy Hey Hey'
+        tmTextItself.text = 'HEy Hey Hey'
+    else
+        print('AH PECK NECK NO TEXT!')
+    end
     print('huhu')
 end
 
 -- Update is called once per frame
 function Update()
+    sayPlayersFuzzy = ''
+    
     angle = angle + UnityEngine.Time.deltaTime * velocity
     -- Codeium intervenes!
     if angle > 360 then
