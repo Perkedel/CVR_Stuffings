@@ -39,10 +39,13 @@ local angle = 0
 local toMoveAt = 0
 local isBacking = false
 local velocity = 5
-local title = 'Halo Lua from JOELwindows7'
+local title = 'Halo Lua from JOELwindows7\nAlso thancc LensError for example snippet how to UnityEngine.UI.Text'
 local installSay = ''
 local sayWelcomeHome = ''
 local sayPlayersFuzzy = ''
+local playerCount = 0
+local playersYouHave = {}
+local areWeOnline = 'No'
 
 -- Start is called before the first frame update
 function Start()
@@ -56,6 +59,7 @@ function Start()
     if not tmThingy then
         print('WERROR! tmThingy not bounded!!!')
     else
+        print('Obtain component')
         -- tmTextItself = tmThingy.GetComponent(TM)
         -- tmTextItself = tmThingy:GetComponent("UnityEngine.TextMesh")
         tmTextItself = tmThingy.GetComponent("UnityEngine.UI.Text")
@@ -63,10 +67,10 @@ function Start()
 
     installSay = title .. "\n" .. "Ping: " .. InstancesAPI.Ping .. "\n" .. sayWelcomeHome .. "\n"
 
-    if tmTextItself == nil then
-        print "nil"
+    if not tmTextItself then
+        print "compo nil"
     else
-        print "ok"
+        print "compo ok"
     end
 
     print('haha')
@@ -83,7 +87,16 @@ end
 
 -- Update is called once per frame
 function Update()
+    -- Sorry, Codeium is also here.
+    if InstancesAPI.IsConnected then
+        areWeOnline = "yes"
+    else
+        areWeOnline = "no"
+    end
+
     sayPlayersFuzzy = ''
+    playerCount = PlayerAPI.PlayerCount
+    playersYouHave = PlayerAPI.AllPlayers
     
     angle = angle + UnityEngine.Time.deltaTime * velocity
     -- Codeium intervenes!
@@ -108,7 +121,12 @@ function Update()
         sayWelcomeHome = ""
     end
 
-    installSay = title .. "\n" .. "Ping: " .. InstancesAPI.Ping .. "\n" .. sayWelcomeHome .. "\n"
+    -- let us write player list
+    for i = 1, #playersYouHave do
+        sayPlayersFuzzy = sayPlayersFuzzy .. playersYouHave[i].Username .. ", "
+    end
+
+    installSay = title .. "\n" .. "World: " .. InstancesAPI.InstanceName .. "(" .. InstancesAPI.InstancePrivacy .. ")\n" .. "Connection: " .. areWeOnline .. "(" .. InstancesAPI.Ping .. " ms)\n" .. sayWelcomeHome .. "\n" .. "Players (" .. playerCount .. "):\n" .. sayPlayersFuzzy
     -- installSay = 'test'
     -- tmpThingy.gameObject.TMP_Text.text = installSay
     -- tmpTextItself.text = installSay
@@ -116,6 +134,14 @@ function Update()
     -- tmThingy.GetComponent(UnityEngine.TextMesh).text = installSay
     -- tmThingy.GetComponent("UnityEngine.TextMesh").text = installSay
     -- tmThingy.text = installSay
+
+    
+
+    if tmTextItself then
+        tmTextItself.text = installSay
+    else
+        -- print('AH PECK NECK NO TEXT!')
+    end
 
     -- spounThingy.transform.Rotate(0,angle,0)
     spounThingy.transform.localRotation = UnityEngine.Quaternion.Euler(UnityEngine.NewVector3(0,angle,0))
