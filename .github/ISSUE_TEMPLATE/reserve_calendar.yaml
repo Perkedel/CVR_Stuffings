@@ -61,7 +61,7 @@ body:
     id: location
     attributes:
       label: Event Location
-      description: Where will this event be held at? Insert world name search keywords or GUID of your world
+      description: Where will this event be held at? Insert world name search keywords or GUID of your world. Grid will always mention world name.
       placeholder: ex. CafeDNB
     validations:
       required: true
@@ -94,6 +94,7 @@ body:
         - Thursday
         - Friday
         - Saturday
+        - I have no idea / Pop-up Anytime
       default: 0
     validations:
       required: true
@@ -146,8 +147,8 @@ body:
       description: Please correctly check these boxes.
       options:
         - label: Event is NSFW 🥵
-        - label: Event is drinking 🍸🍷🍾
+        - label: Event is drinking 🍸🍷🍾 (also allows regular drinking 🥛🫗)
         - label: (for Game type) Event world is not coded (a.k.a. Manual Roleplay)
         - label: Event timezone chose to be Daylight Time Saving
-    validation:
+    validations:
       required: false

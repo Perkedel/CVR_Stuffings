@@ -7662,3 +7662,46 @@ https://youtu.be/qzhuWRQWK5I?si=PygoI274O32LWD5a
 - https://discord.com/channels/410126604237406209/682645682968199168/1242539649851985920
 - https://discord.com/channels/410126604237406209/588350726841827358/1242560819888263230
 - https://docs.unity3d.com/ScriptReference/Time.html
+- https://store.steampowered.com/app/2504480/Indigo_Park_Chapter_1/
+- https://discord.com/channels/734976349994876928/734978945858142373/1241428327391035433
+- https://www.deviantart.com/enlargedquack/art/Pomni-Model-Release-989735025
+- https://youtu.be/GWiS0reLhIc?si=YO5bZMrMPJjcDtQL
+- https://twitter.com/BohFoxy/status/1729600972341596313
+- https://vrcmods.com/item/1105
+- kyoko & Akia Hybrid by foxypaws foxipaw gumroad
+- https://skfb.ly/oNuWB
+- https://bbkktn.booth.pm/
+- https://booth.pm/en/items/3818504
+- free version of poiyomi 9 is broke? but fix may comes later
+- https://www.patreon.com/posts/poiyomi-slime-26828616 **PAID**, requires $10+ tier & join discord.
+- https://youtu.be/7eXt3cBG1Ak?si=Am-qifn1tiktjXeE complete history of avali species
+- https://www.cgtrader.com/brown-fox-warrior
+- https://gumroad.com/brownfoxwarrior
+- https://www.furaffinity.net/user/two-tailed-warrior
+- Dervali / Nirvash has sent us the clock file. we did not notice weeks later due to Discord filter.
+- https://discord.com/channels/410126604237406209/588350726841827358/1242562678853996745
+- https://discord.com/channels/410126604237406209/1240763673346183279/1242575003711438899
+- https://discord.com/channels/410126604237406209/1240763673346183279/1242575782069538867
+- https://discord.com/channels/410126604237406209/1240763673346183279/1242489489650352209
+- https://discord.com/channels/410126604237406209/1240763673346183279/1242362383033176084
+- https://discord.com/channels/410126604237406209/1237590087781584958/1242575455966593045
+- https://discord.com/channels/410126604237406209/797279576459968555/1242701345085984809
+- https://discord.com/channels/410126604237406209/795882566968279091/1242602053272862740 
+- how do we inspector variable in Lua like we can with MonoBehaviour components??!
+- https://discord.com/channels/410126604237406209/795882566968279091/1242608149794390036
+- https://discord.com/channels/410126604237406209/682645682968199168/1242562647690317854
+- https://discord.com/channels/410126604237406209/682645682968199168/1242684207164297296
+- https://discord.com/channels/410126604237406209/588350685255565344/1242599423826198619
+- https://twitter.com/gt19875020/status/1792937723159818312?t=Es2Jfsnr334Kzg7ZlNNaOw&s=19
+- https://discord.com/channels/550477546958094348/934043766514417714/1223501676133224519
+- https://discord.com/channels/550477546958094348/934043766514417714/1209229686123798638
+- https://exsy.booth.pm/items/5492450 **PAID**
+- https://discord.com/channels/550477546958094348/934043766514417714/1160887049314893915
+- https://discord.com/channels/550477546958094348/934043766514417714/1202405088128270346
+- https://angriestscv.gumroad.com/l/AngryShaderForge **PAID**
+- https://angriestscv.github.io/AngryShaderForgeDocumentation/changelog/
+- https://github.com/AcChosen/VR-Stage-Lighting-GI-ShaderPack/releases
+- https://acchosen.gumroad.com/l/vrslgi_dmx **PAID**
+- https://booth.pm/en/items/3261047 **PAID**
+- https://booth.pm/en/items/4841862 **PAID**
+- https://assetstore.unity.com/packages/tools/visual-scripting/amplify-shader-editor-68570 **PAID**
