@@ -508,6 +508,7 @@ Here are the UUIDs of all these assets we uploaded to CVR:
 | `75757afe-d74c-4cbb-a467-c87d861ff192` | Why capsule collider | JOELwindows7 | default collider error. |
 | `60135562-c50e-4f4b-b29b-2278aca7bdf3` | Schedule Conflict | JOELwindows7 | I can't attend today, sorry |
 | `34d14874-de29-41f3-ad82-5b24caed99bf` | We are in experimental so mods are disabled for now | JOELwindows7 | Sorry. Here's free headpat |
+| `ae68cdd6-df9f-4706-a603-d7fa2f624a05` | Auto Unfriend Bug | JOELwindows7 | I think there is a bug |
 | `ebc2bd9a-f8ab-42c8-90f3-d85d48c0f646` | I am Not Cute | JOELwindows7 | Inspired from Ruikaen's protest sign |
 | `6422579f-8a23-4db7-b0e3-11c8ee75a42d` | Wait Comeback | JOELwindows7 | Inspired from Ruikaen's protest sign |
 | `953d2666-4835-43c0-8c99-8519c93e14f0` | What?!.. wait.. no.. | JOELwindows7 | Inspired from Ruikaen's protest sign |

@@ -63,13 +63,50 @@ local angle = 0
 local toMoveAt = 0
 local isBacking = false
 local velocity = 5
-local title = 'Halo Lua from JOELwindows7\nAlso thancc LensError for example snippet how to UnityEngine.UI.Text'
+local title = 'Halo Lua from JOELwindows7\nAlso thancc LensError for example snippet how to UnityEngine.UI.Text (& inspiration lol!)'
 local installSay = ''
 local sayWelcomeHome = ''
 local sayPlayersFuzzy = ''
 local playerCount = 0
 local playersYouHave = {}
 local areWeOnline = 'No'
+local quotes = {
+    'Haha hihi',
+    'Huhu hehe',
+    'Press & hold Alt to move only your head',
+    'While menu opens (small or big), you can Alt aim-click a player to view their profile',
+    'Retro Gadget game scripting system uses Luaou, a Lua fork that originates from Roblox which allows giving variables types.',
+    'bill wurtz is a surreal jazz musician, and also makes random surreal videos. Currently, the format has already been evolved into Blender (allegedly)',
+    'Indonesia for the one last another time is moving capital to western Borneo so it is centered between all archipelagos in Indonesia',
+    'Countries that drives on left (Right steering wheel) are: Indonesia, Japan, some southeast asian countries, UK, Dasandim, etc.',
+    'Windows mobile series has always been based on Windows CE, until Phone 8 where now moved to NT',
+    'Google during this AI craze has concepted Live Gemini Assistant introduced during last Google I/O, an AI Jarvis that can analyze and responds accordingly, obviously way better than Rabbit R1.',
+    'Floppy disk appears to be the most long lived format despite most home consumers forgot about it. Critically, some governments still uses it.',
+    'The QWERTY layout comes because it was meant to slow down typing for typewriters, to avoid jams caused by overspeeding.',
+    'Nokia was one of the biggest player in phone game, until their blunder (allegedly) of refusing Android for Windows Phone instead, which becomes their demise. Nowadays, they only plays other background innovations.',
+    'NestDNB was named after `rats nest`, that Joel likes rodent animal since his young time, also that because inspired from VoyVivika\'s Viviklub, which Voy himself is also a rodent based form. Quite the connection.',
+    'You can now reach from Jakarta to Bandung (arrive to Padalarang) in just about 50 minutes with Whoosh, the new fast train recently established.',
+    'ahei',
+    'Lua is the oldest most implemented language across many softwares that uses scripting',
+    'Kaorfa (Joel) first time started on Lua game in a Swedish engineering creative game, Principia. Alas though, due to insufficient funding, it\'s now defunct and left only the preservers.',
+    'https://perkedel.netlify.app/@JOELwindows7',
+    'Kaorfa (Joel) is a graduate at Binus University. during his time there, he learnt various game frameworks, including Unity Engine.',
+    'Zuuljedus, Panfesir, Malore, and all DiceGlow team members, were the first ever people that migrate away from X0p1r4t3 Eenvreenmnt. They are now settled in Realizer Realm (Godot game development division at Perkedel).',
+    'They\'re right! Many games have hidden lores, including Perkedel!!',
+    'Plug-in Hybrids are still an impostor among us!',
+    'sussy baka',
+    '3 Pillar backups: Redundancy, Cloud, Offsite. It also still matter even if you cannot buy those.',
+    'AI evolution has become the most debated topic since its movement step of their evolution. Most debates were about conflict of workforce substitutions',
+    'Soul detruster',
+    '',
+}
+local selectQuote = 'haha hihi'
+local quoteMovesIn = 10
+local quoteTimeRemaining = 10
+
+function RandomizeQuote()
+    selectQuote = quotes[math.random(#quotes)]
+end
 
 -- Start is called before the first frame update
 function Start()
@@ -107,6 +144,8 @@ function Start()
         print('AH PECK NECK NO TEXT!')
     end
     print('huhu')
+
+    RandomizeQuote()
 end
 
 -- Update is called once per frame
@@ -116,6 +155,13 @@ function Update()
         areWeOnline = "yes"
     else
         areWeOnline = "no"
+    end
+
+    -- Quote
+    quoteTimeRemaining = quoteTimeRemaining - UnityEngine.Time.deltaTime
+    if quoteTimeRemaining < 0 then
+        RandomizeQuote()
+        quoteTimeRemaining = quoteMovesIn
     end
 
     sayPlayersFuzzy = ''
@@ -150,7 +196,7 @@ function Update()
         sayPlayersFuzzy = sayPlayersFuzzy .. playersYouHave[i].Username .. ", "
     end
 
-    installSay = title .. "\n" .. "World: " .. InstancesAPI.InstanceName .. "(" .. InstancesAPI.InstancePrivacy .. ")\n" .. "Connection: " .. areWeOnline .. "(" .. InstancesAPI.Ping .. " ms)\n" .. sayWelcomeHome .. "\n" .. "Players (" .. playerCount .. "):\n" .. sayPlayersFuzzy
+    installSay = title .. "\n" .. selectQuote .. "\n" .. "World: " .. InstancesAPI.InstanceName .. "(" .. InstancesAPI.InstancePrivacy .. ")\n" .. "Connection: " .. areWeOnline .. "(" .. InstancesAPI.Ping .. " ms)\n" .. sayWelcomeHome .. "\n" .. "Players (" .. playerCount .. "):\n" .. sayPlayersFuzzy
     -- installSay = 'test'
     -- tmpThingy.gameObject.TMP_Text.text = installSay
     -- tmpTextItself.text = installSay
