@@ -3724,7 +3724,7 @@ New Sauce lists
 - https://www.youtube.com/watch?v=yQEqejsWt4M
 - ok done
 - https://discord.gg/7rBmy6y ItzNatsuki Discord
-- https://skfb.ly/oPG6o
+- https://skfb.ly/oPG6o Hoarding bug lethal company
 - Dotflare pls
 - https://emperorofmars.gumroad.com
 - https://emperorofmars.itch.io
@@ -7710,3 +7710,60 @@ https://youtu.be/qzhuWRQWK5I?si=PygoI274O32LWD5a
 - https://discord.com/channels/410126604237406209/1240763673346183279/1242857103270482014
 - https://discord.com/channels/410126604237406209/1240763673346183279/1242874106798538792
 - https://discord.com/channels/410126604237406209/1240763673346183279/1242874765467844659
+- https://discord.com/channels/410126604237406209/588350685255565344/1242927573923528714
+- https://blender.stackexchange.com/questions/315292/xray-mode-for-selected-object-only
+- https://discord.com/channels/410126604237406209/1004342533964439592/1242947247931392020
+- https://discord.com/channels/410126604237406209/588350726841827358/1242925604597137489
+- https://discord.com/channels/410126604237406209/588350726841827358/1242941485566001372
+- https://discord.com/channels/410126604237406209/682645682968199168/1242821801743093830
+- https://discord.com/channels/410126604237406209/682645682968199168/1242843421115420812
+- https://discord.com/channels/867567549858971669/1044122363253506088/1239464201886629951
+- https://www.youtube.com/channel/UCnD9U7x0rc36dBjbo_Lj_HA
+- https://skfb.ly/6rRY7 Turing Crisdroid. Jill has ported it.
+- https://www.youtube.com/watch?v=0iGzl3O-08I
+- https://en.wikipedia.org/wiki/QWERTY
+- https://www.theguardian.com/technology/shortcuts/2013/apr/25/kalk-keyboard-end-qwerty-touchscreen
+- https://web.archive.org/web/20170422193622/https://www.st-andrews.ac.uk/news/archive/2013/title,217680,en.php/
+- https://www.codecademy.com/resources/docs/lua/mathematical-library/random
+- https://discord.com/channels/410126604237406209/588350770777161748/1242980649481015449
+- https://discord.com/channels/410126604237406209/588350726841827358/1242941485566001372
+- https://discord.com/channels/410126604237406209/682645682968199168/1243010904480550952
+- https://discord.com/channels/410126604237406209/588350685255565344/1243097990911102986
+- https://discord.com/channels/410126604237406209/588350685255565344/1243142551733796865
+- https://discord.com/channels/410126604237406209/588350685255565344/1243132360279724142
+- https://discord.com/channels/410126604237406209/588350685255565344/1243142773243121745
+- https://discord.com/channels/410126604237406209/588350685255565344/1243144328176734288
+- https://discord.com/channels/410126604237406209/682645682968199168/1243176189196242974
+- https://github.com/aschearer/unitysizeexplorer
+- https://www.tomshardware.com/pc-components/thermal-paste/cooler-master-introduces-colored-ai-thermal-paste-cryofuze-5-comes-with-nano-diamond-technology
+- https://discord.com/channels/410126604237406209/689949650614091827/1242885175000563742
+- cvr lua clients get locals
+- https://skfb.ly/oyQtQ gentlement bunch cigar spy
+- https://discord.com/channels/410126604237406209/689949650614091827/1243095707158577162
+- https://discord.com/channels/410126604237406209/1240763673346183279/1241155392944341063 whitelist system. Shin. Lua script
+- https://discord.com/channels/410126604237406209/1240763673346183279/1242242417399431238
+- https://discord.com/channels/410126604237406209/1240763673346183279/1242874106798538792 lolatron slider
+- https://lodsgalaxy.gumroad.com/l/CyberCatEars
+- https://gumroad.com/3d/3d-assets/avatar-components/ears?tags=furry
+- https://cattie.gumroad.com/l/kvgqm **PAID**
+- https://zyonvr.gumroad.com/
+- https://lodsgalaxy.gumroad.com/
+- https://discord.com/channels/410126604237406209/1240763673346183279/1243250989008556064
+- https://www.reddit.com/r/DecTalk/comments/vl5m36/where_to_download_dectalk_for_windows_10/
+- https://www.reddit.com/r/DecTalk/comments/3z97m2/meta_download_singing_instructions_etc/
+- https://github.com/Nirv-git/CVR-Mods
+- https://archive.org/details/dectalk_202010
+- https://github.com/dectalk/dectalk?tab=readme-ov-file
+- https://tech.msu.edu/about/guidelines-policies/afs-retirement/
+- https://www.reddit.com/r/videos/comments/3z69ak/online_game_had_the_bright_idea_to_make/
+- Thancc AstroDoge for info. It's dectalk!
+- https://www.reddit.com/r/DecTalk/comments/443wph/heres_my_old_copy_of_klattclassic/ with..
+- https://www.dropbox.com/s/69sl7ys34o5pjym/klattclassic.zip?e=1&dl=0 this.
+- https://discord.com/channels/410126604237406209/1240763673346183279/1243260013175373914
+- https://github.com/RickyLoader/DectalkAPI
+- https://support.microsoft.com/en-gb/topic/download-languages-and-voices-for-immersive-reader-read-mode-and-read-aloud-4c83a8d8-7486-42f7-8e46-2b0fdf753130
+- https://discord.com/channels/410126604237406209/1240763673346183279/1243262620832632862
+- https://www.majorgeeks.com/content/page/how_to_add_and_remove_speech_voices_in_windows_10.html
+- https://www.majorgeeks.com/content/page/how_to_add_and_remove_speech_voices_in_windows_10.html
+- https://support.microsoft.com/en-gb/topic/download-languages-and-voices-for-immersive-reader-read-mode-and-read-aloud-4c83a8d8-7486-42f7-8e46-2b0fdf753130
+- http://www.phonesoft.com/ps_tlib.nsf/504ca249c786e20f85256284006da7ab/3b4cd49bd48f5d5085256d87004df199?OpenDocument
