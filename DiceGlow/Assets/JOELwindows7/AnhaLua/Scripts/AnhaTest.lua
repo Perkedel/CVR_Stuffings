@@ -52,6 +52,8 @@ TMP = require("TextMeshPro")
 TM = UnityEngine.TextMesh
 -- UITextOld = UnityEngine.UI
 
+local DEBUG_MODE = false
+
 local isSpun = false
 local spounThingy
 local yikYukThingy
@@ -59,6 +61,9 @@ local tmpThingy
 local tmpTextItself
 local tmThingy
 local tmTextItself
+local aSpeaker
+local aSpeakerCompo
+local aAudioStream
 local angle = 0
 local toMoveAt = 0
 local isBacking = false
@@ -104,8 +109,26 @@ local selectQuote = 'haha hihi'
 local quoteMovesIn = 10
 local quoteTimeRemaining = 10
 
+function DebugPrint(message)
+    if DEBUG_MODE then
+        print(message)
+    end
+end
+
+function DebugLog(message)
+    DebugPrint(message)
+end
+
 function RandomizeQuote()
     selectQuote = quotes[math.random(#quotes)]
+end
+
+function OnMouseDown()
+    DebugPrint('Click!!!')
+    if aSpeakerCompo then
+        -- https://docs.unity3d.com/ScriptReference/AudioSource.PlayOneShot.html
+        aSpeakerCompo.PlayOneShot(aAudioStream,1)
+    end
 end
 
 -- Start is called before the first frame update
@@ -117,6 +140,8 @@ function Start()
     -- tmpTextItself = tmpThingy.GetComponent(TMP)
     -- tmpTextItself = tmpThingy:GetComponent("TextMeshPro.TMP")
     tmThingy = BoundObjects.TitlerOld
+    aSpeaker = BoundObjects.Speaker
+    aAudioStream = BoundObjects.PlayThisAudio
     if not tmThingy then
         print('WERROR! tmThingy not bounded!!!')
     else
@@ -124,6 +149,10 @@ function Start()
         -- tmTextItself = tmThingy.GetComponent(TM)
         -- tmTextItself = tmThingy:GetComponent("UnityEngine.TextMesh")
         tmTextItself = tmThingy.GetComponent("UnityEngine.UI.Text")
+    end
+
+    if aSpeaker then
+        aSpeakerCompo = aSpeaker.GetComponent("UnityEngine.AudioSource")
     end
 
     installSay = title .. "\n" .. "Ping: " .. InstancesAPI.Ping .. "\n" .. sayWelcomeHome .. "\n"
