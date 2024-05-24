@@ -7778,3 +7778,6 @@ https://youtu.be/qzhuWRQWK5I?si=PygoI274O32LWD5a
 - https://discord.com/channels/410126604237406209/588350726841827358/1243326583461249105
 - https://docs.unity3d.com/ScriptReference/AudioSource.PlayOneShot.html
 - https://discord.com/channels/410126604237406209/1240763673346183279/1243523877536141312 how to play audio one shot
+- https://docs.unity3d.com/ScriptReference/AudioSource.PlayOneShot.html
+- https://forum.unity.com/threads/from-unity-ui-to-textmeshpro.463619/
+- https://docs.unity3d.com/Packages/com.unity.textmeshpro@1.3/api/TMPro.TextMeshPro.html
