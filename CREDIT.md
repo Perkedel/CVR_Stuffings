@@ -7788,3 +7788,7 @@ https://youtu.be/qzhuWRQWK5I?si=PygoI274O32LWD5a
 - https://docs.unity3d.com/Manual/shader-graph.html
 - https://docs.unity3d.com/Packages/com.unity.shadergraph@12.1/manual/Getting-Started.html
 - https://forum.unity.com/threads/srp-v11-beta-is-available-now.1046539/
+- https://docs.unity3d.com/Packages/com.unity.shadergraph@12.1/manual/index.html
+- https://openupm.com/packages/com.coffee.unmask/
+- https://openupm.com/packages/com.naelstrof.jigglephysics/
+- https://openupm.com/packages/com.vrcfury.vrcfury/
