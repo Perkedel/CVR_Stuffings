@@ -7781,3 +7781,4 @@ https://youtu.be/qzhuWRQWK5I?si=PygoI274O32LWD5a
 - https://docs.unity3d.com/ScriptReference/AudioSource.PlayOneShot.html
 - https://forum.unity.com/threads/from-unity-ui-to-textmeshpro.463619/
 - https://docs.unity3d.com/Packages/com.unity.textmeshpro@1.3/api/TMPro.TextMeshPro.html
+- https://github.com/Perkedel/CVR_Stuffings/blob/main/DiceGlow/Assets/JOELwindows7/Documentations/Bonus/LuaExamples.md
