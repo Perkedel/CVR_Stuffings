@@ -285,3 +285,8 @@ function Start()
 
 > Pro-tips: To avoid controvercy, it is best to follow the [`Word on security`](https://documentation.abinteractive.net/cck/lua/security/) advise, in which to encrypt the `UserID`s & insert them as encrypted. Then query by comparing its hashing. Additionally, it is recommended to also obfuscate the variable names.
 
+## MOAR!!!
+
+More Lua Examples
+- [NotAKidOnSteam's](https://github.com/NotAKidOnSteam/NAK_CVR_Prefabs/tree/main/LuaExamples)
+- [Shin's](https://github.com/DjShinter/CVRLuaScripts)
