@@ -7792,3 +7792,4 @@ https://youtu.be/qzhuWRQWK5I?si=PygoI274O32LWD5a
 - https://openupm.com/packages/com.coffee.unmask/
 - https://openupm.com/packages/com.naelstrof.jigglephysics/
 - https://openupm.com/packages/com.vrcfury.vrcfury/
+- https://discord.com/channels/410126604237406209/1195601585720528976/1243667786644062263
