@@ -7783,3 +7783,8 @@ https://youtu.be/qzhuWRQWK5I?si=PygoI274O32LWD5a
 - https://docs.unity3d.com/Packages/com.unity.textmeshpro@1.3/api/TMPro.TextMeshPro.html
 - https://github.com/Perkedel/CVR_Stuffings/blob/main/DiceGlow/Assets/JOELwindows7/Documentations/Bonus/LuaExamples.md
 - https://discord.com/channels/410126604237406209/1240763673346183279/1243583950924812449
+- https://discussions.unity.com/t/how-can-i-assign-materials-using-c-code/2205/2
+- https://docs.unity3d.com/Packages/com.unity.shadergraph@17.0/manual/index.html
+- https://docs.unity3d.com/Manual/shader-graph.html
+- https://docs.unity3d.com/Packages/com.unity.shadergraph@12.1/manual/Getting-Started.html
+- https://forum.unity.com/threads/srp-v11-beta-is-available-now.1046539/

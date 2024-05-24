@@ -64,6 +64,7 @@ local tmTextItself
 local aSpeaker
 local aSpeakerCompo
 local aAudioStream
+local aSteppedOnStream
 local angle = 0
 local toMoveAt = 0
 local isBacking = false
@@ -72,6 +73,8 @@ local title = 'Halo Lua from JOELwindows7\nAlso thancc LensError for example sni
 local installSay = ''
 local sayWelcomeHome = ''
 local sayPlayersFuzzy = ''
+local flyAllowed = 'no'
+local ruleSays = ''
 local playerCount = 0
 local playersYouHave = {}
 local areWeOnline = 'No'
@@ -131,6 +134,17 @@ function OnMouseDown()
     end
 end
 
+function OnCollisionEnter(collision)
+    if aSpeakerCompo then
+        -- https://docs.unity3d.com/ScriptReference/AudioSource.PlayOneShot.html
+        aSpeakerCompo.PlayOneShot(aSteppedOnStream,1)
+    end
+end
+
+function UpdateInstallSay()
+    installSay = title .. "\n" .. selectQuote .. "\n" .. "World: " .. InstancesAPI.InstanceName .. "(" .. InstancesAPI.InstancePrivacy .. ")\n" .. "Rules: " .. ruleSays .. "\n" .. "Connection: " .. areWeOnline .. " (" .. InstancesAPI.Ping .. " ms)\n" .. sayWelcomeHome .. "\n" .. "Players (" .. playerCount .. "):\n" .. sayPlayersFuzzy
+end
+
 -- Start is called before the first frame update
 function Start()
     print "Hello world!"
@@ -142,6 +156,7 @@ function Start()
     tmThingy = BoundObjects.TitlerOld
     aSpeaker = BoundObjects.Speaker
     aAudioStream = BoundObjects.PlayThisAudio
+    aSteppedOnStream = BoundObjects.PlayBeingSteppedOn
     if not tmThingy then
         print('WERROR! tmThingy not bounded!!!')
     else
@@ -155,7 +170,8 @@ function Start()
         aSpeakerCompo = aSpeaker.GetComponent("UnityEngine.AudioSource")
     end
 
-    installSay = title .. "\n" .. "Ping: " .. InstancesAPI.Ping .. "\n" .. sayWelcomeHome .. "\n"
+    -- installSay = title .. "\n" .. "Ping: " .. InstancesAPI.Ping .. "\n" .. sayWelcomeHome .. "\n"
+    UpdateInstallSay()
 
     if not tmTextItself then
         print "compo nil"
@@ -225,7 +241,17 @@ function Update()
         sayPlayersFuzzy = sayPlayersFuzzy .. playersYouHave[i].Username .. ", "
     end
 
-    installSay = title .. "\n" .. selectQuote .. "\n" .. "World: " .. InstancesAPI.InstanceName .. "(" .. InstancesAPI.InstancePrivacy .. ")\n" .. "Connection: " .. areWeOnline .. "(" .. InstancesAPI.Ping .. " ms)\n" .. sayWelcomeHome .. "\n" .. "Players (" .. playerCount .. "):\n" .. sayPlayersFuzzy
+    -- fly check
+    if PlayerAPI.LocalPlayer.IsFlightAllowed then
+        flyAllowed = ""
+    else
+        flyAllowed = "NoFlying"
+    end
+
+    ruleSays = ''
+    ruleSays = ruleSays .. flyAllowed .. ' '
+
+    UpdateInstallSay()
     -- installSay = 'test'
     -- tmpThingy.gameObject.TMP_Text.text = installSay
     -- tmpTextItself.text = installSay

@@ -344,6 +344,8 @@ MonoBehaviour:
     boundThing: {fileID: 1833711788178023598}
   - name: PlayThisAudio
     boundThing: {fileID: 8300000, guid: ae6cf6cc2d6be51419c5616bb0a3c21d, type: 3}
+  - name: PlayBeingSteppedOn
+    boundThing: {fileID: 8300000, guid: ae6cf6cc2d6be51419c5616bb0a3c21d, type: 3}
 --- !u!114 &1310377827391953519
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1064,6 +1066,7 @@ GameObject:
   - component: {fileID: 5628958791286362899}
   - component: {fileID: 7120338222378634100}
   - component: {fileID: 7422772154312198922}
+  - component: {fileID: 8037556748298588740}
   m_Layer: 0
   m_Name: Caok
   m_TagString: Untagged
@@ -1150,6 +1153,84 @@ CapsuleCollider:
   m_Height: 2
   m_Direction: 1
   m_Center: {x: 0, y: 0, z: 0}
+--- !u!114 &8037556748298588740
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8970662863706720314}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a45fb99111d54dba84a8ff33016b93fd, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  tooltip: 
+  actions:
+  - delay: 0
+    operations:
+    - type: 21
+      targets:
+      - {fileID: 0}
+      floatVal: 0
+      stringVal: 
+      stringVal2: 
+      stringVal3: 
+      stringVal4: 
+      boolVal: 0
+      boolVal2: 0
+      gameObjectVal: {fileID: 0}
+      floatVal2: 0
+      floatVal3: 0
+      floatVal4: 0
+      varBufferVal: {fileID: 0}
+      varBufferVal2: {fileID: 0}
+      varBufferVal3: {fileID: 0}
+      animationVal: {fileID: 0}
+      customEvent:
+        m_PersistentCalls:
+          m_Calls:
+          - m_Target: {fileID: 2593186904241057723}
+            m_TargetAssemblyTypeName: UnityEngine.Component, UnityEngine
+            m_MethodName: SendMessage
+            m_Mode: 5
+            m_Arguments:
+              m_ObjectArgument: {fileID: 0}
+              m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+              m_IntArgument: 0
+              m_FloatArgument: 0
+              m_StringArgument: CapsuleGrey
+              m_BoolArgument: 0
+            m_CallState: 2
+    actionType: 3
+    execType: 1
+    layerMask:
+      serializedVersion: 2
+      m_Bits: 0
+    floatVal: 10
+    floatVal2: 0
+    floatVal3: 0
+    boolVal: 0
+    boolVal2: 0
+    varBufferVal: {fileID: 0}
+    varBufferVal2: {fileID: 0}
+    stringVal: 
+    allowedPointer: []
+    allowedPointerCollapse: 0
+    allowedTypes: []
+    allowedTypesCollapse: 0
+    specificParticleSystems: []
+    specificParticleSystemsCollapse: 0
+    interactionFilter: 0
+    interactionInput: 48
+    interactionInputModifier: 0
+    guid: 
+  onEnterSeat:
+    m_PersistentCalls:
+      m_Calls: []
+  onExitSeat:
+    m_PersistentCalls:
+      m_Calls: []
 --- !u!1001 &8731770588580231333
 PrefabInstance:
   m_ObjectHideFlags: 0
