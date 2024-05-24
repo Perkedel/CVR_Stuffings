@@ -2,6 +2,74 @@
 
 Here are some cool example snippets of Lua Script for your reference scripting in ChilloutVR
 
+> WARNING: At the time of creation of this document, snippets were made & collected during early phase of Lua Scripting in ChilloutVR, as early as **2024r176ex1** (Experimental). Therefore some of these snippets below may not be compatible with newer ChilloutVR you have today, or outright breaks everything. Use the following document with precaution!
+
+## Dummy Starter
+
+Everytime you created a new `CVRLuaScript` by Right Clicking in `Project` tab window, `Create`, `CVRLuaScript`, you'll get a new lua file pre-filled with 2 empty important functions to get you started
+
+Sauce: [Official CVR Documentation](https://documentation.abinteractive.net/cck/lua/hello-world/)
+
+```lua
+-- Start is called before the first frame update
+function Start()
+
+end
+
+-- Update is called once per frame
+function Update()
+
+end
+```
+
+## Get Players in instance
+Snippets corrected for now's working today as of 2024r176ex1
+
+Sauce: [Official CVR Lua Recipes](https://documentation.abinteractive.net/cck/lua/recipes/getting-users/)
+
+### Player Count
+```lua
+-- Pull get the number of users in an instance
+local playerCount = CVR.PlayersAPI.PlayerCount
+-- or..
+local playerCountA = #CVR.PlayersAPI.AllPlayers
+-- the hashtags means lengths of the array, a.k.a. how many datas in the array.
+```
+
+For convenience, we prefer to use `CVR.PlayersAPI.PlayerCount`. Well, it's up to you anyways.
+
+### All Players
+```lua
+-- Pull in all the users in an instance, including you.
+local playersHere = PlayersAPI.AllPlayers
+```
+
+### Just remote players (excluding you)
+```lua
+-- Pull in all the users in an instance, excluding you.
+local otherPlayers = PlayersAPI.RemotePlayers
+```
+
+### Just yourself
+```lua
+local yourself = PlayersAPI.LocalPlayer
+```
+
+## `new Vector3()` in Lua
+
+many class instantiation methods (`new Type<>()` in C#) has been interfaced for the lua, such as for `Vector3` with `NewVector3`.
+
+Sauce: [Official CVR Documentation](https://documentation.abinteractive.net/cck/lua/api/globals/#example)
+
+```lua
+-- Top of your script
+UnityEngine = require("UnityEngine") -- Access to UnityEngine bindings
+CCK = require("CVR.CCK") -- Access to CCK component bindings
+
+-- Usage in script
+local coolVector = UnityEngine.NewVector3(1, 2, 3)
+```
+
 ## Play an audio file simple
 
 Sauce: [JOELwindows7](https://discord.com/channels/410126604237406209/1240763673346183279/1243523877536141312)
@@ -285,8 +353,152 @@ function Start()
 
 > Pro-tips: To avoid controvercy, it is best to follow the [`Word on security`](https://documentation.abinteractive.net/cck/lua/security/) advise, in which to encrypt the `UserID`s & insert them as encrypted. Then query by comparing its hashing. Additionally, it is recommended to also obfuscate the variable names.
 
+## Launch player upward when doing `Thumbs Up` gesture
+
+Sauce: [Official CVR documentation](https://documentation.abinteractive.net/cck/lua/api/player-api/#example-1)
+
+```lua
+UnityEngine = require("UnityEngine")
+
+-- Function to check if both hands of a player are doing a thumbs up gesture
+local function isPlayerDoubleThumbsUp(player)
+    return player.Core.GestureLeftIdx == 2 and player.Core.GestureRightIdx == 2
+end
+
+-- Update is called once per frame
+function Update()
+    local localPlayer = PlayerAPI.LocalPlayer -- Get the local player
+
+    if localPlayer and isPlayerDoubleThumbsUp(localPlayer) then
+        local upwardForce = UnityEngine.NewVector3(0, 1000, 0) -- Create an upward force vector
+        localPlayer:AddForce(upwardForce, UnityEngine.ForceMode.Impulse)
+        print("Dual thumbs up detected! Launching local player upward.")
+    end
+end
+```
+
+## Teleport player when fully immmersed in water a.k.a. `Fluid Volume`
+
+Sauce: [Official CVR Documentation](https://documentation.abinteractive.net/cck/lua/api/player-api/#example-2)
+
+```lua
+UnityEngine = require("UnityEngine")
+
+local function isPlayerFullyImmersed(player)
+    return player.ImmersionDepth == 1
+end
+
+-- Update is called once per frame
+function Update()
+    local localPlayer = PlayerAPI.LocalPlayer -- Get the local player
+
+    if localPlayer and isPlayerFullyImmersed(localPlayer) then
+        local targetPosition = UnityEngine.NewVector3(0, 10, 0) -- Teleport to position (0, 10, 0)
+        localPlayer:TeleportPlayerTo(targetPosition, false, true, false)
+        print("Player fully immersed in water. Teleporting to (0, 10, 0).")
+    end
+end
+```
+
+## Disable certain GameObject if current instance is Home instance
+
+Sauce: [Official CVR Documentation](https://documentation.abinteractive.net/cck/lua/api/instances-api/#examples)
+
+```lua
+-- Start is called before the first frame update
+function Start()
+    -- Get the bound GameObject
+    local targetGameObject = BoundObjects.TargetGameObject
+    if not targetGameObject then
+        print("Error! Target GameObject not bound.")
+        return
+    end
+
+    -- Check if the current instance is the home instance
+    local isHomeInstance = InstancesAPI.IsHomeInstance
+
+    if isHomeInstance then
+        targetGameObject:SetActive(false)
+        print("The current instance is the home instance. Disabling the target GameObject.")
+    else
+        print("The current instance is not the home instance. The target GameObject remains active.")
+    end
+end
+```
+
+## Funny Cube
+
+Featured in one of the ABI's internal meeting for Lua Scriptin
+
+Sauce: [Offical CVR Lua Examples](https://documentation.abinteractive.net/cck/lua/examples/funny-cube/)
+
+```lua
+-- From scripting team meeting notes:
+--   First use case: Cubespin with random start position, random direction, resets after 10s.
+UnityEngine = require "UnityEngine"
+CCKComponents = require "ABI.CCK"
+
+-- LuaLS/LuaCATS annotations start with three dashes (---)
+
+--- @type UnityEngine.Time
+Time = UnityEngine.Time
+
+--- @type UnityEngine.Random
+UnityRandom = UnityEngine.Random
+
+ORIGINAL_POSITION = UnityEngine.NewVector3(0, 0, 0)
+ROTATION_AXIS = nil
+
+nextBehaviourChange = 0.0
+
+function Start()
+    -- Seed random noise.
+    math.randomseed(math.floor(Time.time))
+
+    -- Print "Hello world!" to Debug console.
+    print("Hello world!")
+
+    -- Record original position.
+    ORIGINAL_POSITION = UnityEngine.NewVector3(gameObject.transform.position.x, gameObject.transform.position.y,
+        gameObject.transform.position.z)
+end
+
+function Update()
+    if Time.realtimeSinceStartup > nextBehaviourChange then
+        i = math.random(1, 6)
+        if i == 1 then
+            ROTATION_AXIS = UnityEngine.NewVector3(1, 0, 0)
+        elseif i == 2 then
+            ROTATION_AXIS = UnityEngine.NewVector3(0, 1, 0)
+        elseif i == 3 then
+            ROTATION_AXIS = UnityEngine.NewVector3(0, 0, 1)
+        elseif i == 4 then
+            ROTATION_AXIS = UnityEngine.NewVector3(-1, 0, 0)
+        elseif i == 5 then
+            ROTATION_AXIS = UnityEngine.NewVector3(0, -1, 0)
+        elseif i == 6 then
+            ROTATION_AXIS = UnityEngine.NewVector3(0, 0, -1)
+        end
+
+        gameObject.transform.position = ORIGINAL_POSITION + UnityRandom.insideUnitSphere
+        nextBehaviourChange = Time.realtimeSinceStartup + 10.0
+    end
+
+    if ROTATION_AXIS ~= nil then
+        gameObject.transform.Rotate(ROTATION_AXIS)
+    end
+
+    --- @type CVR.CCK.CVRSpawnable
+    spawnable = gameObject.GetComponentInParent("ABI.CCK.Components.CVRSpawnable")
+    if spawnable ~= nil then
+        spawnable.ForceUpdate()
+    end
+end
+```
+
 ## MOAR!!!
 
 More Lua Examples
+- [Official CVR Documentation about Lua](https://documentation.abinteractive.net/cck/lua/)
 - [NotAKidOnSteam's](https://github.com/NotAKidOnSteam/NAK_CVR_Prefabs/tree/main/LuaExamples)
 - [Shin's](https://github.com/DjShinter/CVRLuaScripts)
