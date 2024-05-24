@@ -22,6 +22,25 @@ function Update()
 end
 ```
 
+## Hello World
+Your first Lua Script!
+
+Sauce: [Official CVR Documentation](https://documentation.abinteractive.net/cck/lua/hello-world/)
+
+```lua
+-- Start is called before the first frame update
+function Start()
+   print "Hello, world!" 
+end
+
+-- Update is called once per frame
+function Update()
+
+end
+```
+
+> Note, Lua does support shortcutting like the case with `print "Hello, world!"` above. it is equivalent with `print("Hello, world!")`.
+
 ## Get Players in instance
 Snippets corrected for now's working today as of 2024r176ex1
 
@@ -351,7 +370,7 @@ function Start()
 > simple whitelist if you wanna use it for any world/prop/avatar
 > just add the things u need after `if(Whitelisted == true) then`
 
-> Pro-tips: To avoid controvercy, it is best to follow the [`Word on security`](https://documentation.abinteractive.net/cck/lua/security/) advise, in which to encrypt the `UserID`s & insert them as encrypted. Then query by comparing its hashing. Additionally, it is recommended to also obfuscate the variable names.
+<!-- > Pro-tips: To avoid controvercy, it is best to follow the [`Word on security`](https://documentation.abinteractive.net/cck/lua/security/) advise, in which to encrypt the `UserID`s & insert them as encrypted. Then query by comparing its hashing. Additionally, it is recommended to also obfuscate the variable names. -->
 
 ## Launch player upward when doing `Thumbs Up` gesture
 
@@ -495,6 +514,300 @@ function Update()
     end
 end
 ```
+
+## Dummy Extended
+
+Want some overbloated dummy starter script? okay, here we go..
+
+```lua
+-- Awake is called when this script is being loaded
+function Awake()
+
+end
+
+-- Start is called before the first frame update
+function Start()
+
+end
+
+-- Update is called once per frame
+function Update()
+
+end
+
+-- Same as Update() but at fixed rate, basically physics calculation frame
+function FixedUpdate()
+
+end
+
+-- LateUpdate is called just after the Update()
+function LateUpdate()
+
+end
+
+-- OnEnabled is called when this object becomes active / enabled
+function OnEnabled()
+
+end
+
+-- OnDisabled is called when this object becomes deactivated / disabled
+function OnDisabled()
+
+end
+
+-- OnDestroy is called when this object (mainly this script) is being destroyed / removed from scene
+function OnDestroy()
+
+end
+
+--- Collision
+
+-- When a collider start colliding
+function OnCollisionEnter(collision)
+
+end
+
+-- When a collider stayed colliding
+function OnCollisionStay(collision)
+
+end
+
+-- When a collider stopped colliding
+function OnCollisionExit(collision)
+
+end
+
+--- Collision 2D
+
+-- When a collider start colliding with another GameObject
+function OnCollisionEnter2D(collision)
+
+end
+
+-- When a collider stayed colliding with another GameObject
+function OnCollisionStay2D(collision)
+
+end
+
+-- When a collider stopped colliding with another GameObject
+function OnCollisionExit2D(collision)
+
+end
+
+--- Trigger (Collider that isTrigger is checked)
+
+-- When a trigger start colliding with another GameObject
+function OnTriggerEnter(collision)
+
+end
+
+-- When a trigger stayed colliding with another GameObject
+function OnTriggerStay(collision)
+
+end
+
+-- When a trigger stopped colliding with another GameObject
+function OnTriggerExit(collision)
+
+end
+
+--- Trigger 2D
+
+
+-- When a trigger start colliding with another GameObject
+function OnTriggerEnter2D(collision)
+
+end
+
+-- When a trigger stayed colliding with another GameObject
+function OnTriggerStay2D(collision)
+
+end
+
+-- When a trigger stopped colliding with another GameObject
+function OnTriggerExit2D(collision)
+
+end
+
+--- Mouse
+
+-- When Player has clicked its collider
+function OnMouseDown()
+
+end
+
+-- When Player Click & hold its collider
+function OnMouseDrag()
+
+end
+
+-- When Player's aimming dot / mouse enters its collider
+function OnMouseEnter()
+
+end
+
+-- When Player's aiming dot / mouse exits its collider
+function OnMouseExit()
+
+end
+
+-- When Player released the mouse click
+function OnMouseUp()
+
+end
+
+-- When Player released the mouse click, while aiming dot / mouse stayed on this same collider it being clicked to
+function OnMouseUpAsButton()
+
+end
+
+--- Application
+
+-- Called before application quits
+function OnApplicationQuit()
+
+end
+
+-- Called when the application pauses or resumes on losing or regaining focus. `pause = true` if application paused
+function OnApplicationPause(pause)
+
+end
+
+-- Called when the player gets or loses focus. `focus = true` if focus has regained
+function OnApplicationFocus(focus)
+
+end
+
+--- Animator
+
+-- Called on an `Animator` move.
+function OnAnimatorMove()
+
+end
+
+-- Called for setting up animation IK (inverse kinematics).
+function OnAnimatorIK(layerIndex)
+
+end
+
+--- Particle
+
+-- Called when a particle hits a Collider.
+function OnParticleCollision(other)
+
+end
+
+-- Called when all particles in the system have died, and no new particles will be born.
+function OnParticleSystemStopped()
+
+end
+
+-- Called when any particles in a Particle System meet the conditions in the trigger module.
+function OnParticleTrigger()
+
+end
+
+-- Called when a Particle System's built-in update job has been scheduled.
+function OnParticleUpdateJobScheduled()
+
+end
+
+--- Transform
+
+-- Called when a direct or indirect parent of the transform changes.
+function OnTransformParentChanged()
+
+end
+
+-- Called when the list of children of the transform changes.
+function OnTransformChildrenChanged()
+
+end
+
+-- Called before the transform's parent changes.
+function OnBeforeTransformParentChanged()	
+
+end
+
+--- Rendering
+
+-- Called when the renderer becomes visible by any camera.
+function OnBecameVisible()
+
+end
+
+-- Called when the renderer is no longer visible by any camera.
+function OnBecameInvisible()
+
+end
+
+-- Called for each camera if the object is visible and not a UI element.
+function OnWillRenderObject()
+
+end
+
+-- Called after the camera has rendered the scene.
+function OnRenderObject()
+
+end
+
+-- Called before a camera culls the scene.
+function OnPreCull()
+
+end
+
+-- Called before a camera renders the scene.
+function OnPreRender()
+
+end
+
+-- Called after a camera has finished rendering the scene.
+function OnPostRender()
+
+end
+
+-- Called after a camera has finished rendering, allows modifying the Camera's final image.
+function OnRenderImage(source, destination)
+
+end
+
+--- Canvas UI
+
+-- Called when the CanvasGroup changes.
+function OnCanvasGroupChanged()
+
+end
+
+-- Called when the RectTransform is removed.
+function OnRectTransformRemoved()
+
+end
+
+-- Called when the dimensions of the RectTransform change.
+function OnRectTransformDimensionsChange()
+
+end
+
+--- Joint
+
+-- Called when a joint attached to the same game object breaks.
+function OnJointBreak(breakForce)
+
+end
+
+-- Called when a `Joint2D` attached to the same game object breaks.
+function OnJointBreak2D(joint)
+
+end
+
+----- WHEW!! that was alot of them! -----
+```
+
+> Note, `UnityEngine.Time.fixedDeltaTime` in ChilloutVR is set based on target refresh rate, clamped between 30Hz to 144Hz. 
+<!-- > `OnTriggerStay` both 3D & 2D version runs every physics frame during both collision staying (Pls confirm) -->
+<!-- > `OnColliderStay` both 3D & 2D version runs every frame during both collision staying (Pls confirm) -->
+
+pls confirm `pause` & `focus`!
 
 ## MOAR!!!
 
