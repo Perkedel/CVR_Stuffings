@@ -7767,3 +7767,14 @@ https://youtu.be/qzhuWRQWK5I?si=PygoI274O32LWD5a
 - https://www.majorgeeks.com/content/page/how_to_add_and_remove_speech_voices_in_windows_10.html
 - https://support.microsoft.com/en-gb/topic/download-languages-and-voices-for-immersive-reader-read-mode-and-read-aloud-4c83a8d8-7486-42f7-8e46-2b0fdf753130
 - http://www.phonesoft.com/ps_tlib.nsf/504ca249c786e20f85256284006da7ab/3b4cd49bd48f5d5085256d87004df199?OpenDocument
+- https://www.atlassian.com/git/articles/core-concept-workflows-and-tips
+- https://git-scm.com/docs/git-submodule
+- https://git-scm.com/book/en/v2/Git-Tools-Submodules
+- https://www.atlassian.com/git/tutorials/git-submodule
+- https://resources.arc.net/hc/en-us/articles/19234766331799-Mini-Player-Watch-or-Listen-as-you-Browse#audioplayer
+- https://resources.arc.net/hc/en-us/articles/22513842649623-Arc-for-Windows-2023-2024-Release-Notes
+- https://www.defectivebydesign.org/blog/our_work_isnt_over_keep_fighting_freedom_learn
+- https://github.com/DjShinter/CVRLuaScripts Shin's lua scripts will be here!
+- https://discord.com/channels/410126604237406209/588350726841827358/1243326583461249105
+- https://docs.unity3d.com/ScriptReference/AudioSource.PlayOneShot.html
+- https://discord.com/channels/410126604237406209/1240763673346183279/1243523877536141312 how to play audio one shot

@@ -18,7 +18,10 @@ local prof1 = {
 local prof2 = {
     '',
 }
-local pState = 0 -- possible: -1, 0, 1, 2
+local prof3 = {
+    '',
+}
+local pState = 0 -- possible: -2, -1, 0, 1
 
 -- Start is called before the first frame update
 function Start()
@@ -38,6 +41,13 @@ function Start()
             -- if (_p1 == PlayerAPI.LocalPlayer.UserID) then
             if (_p2 == blake2b.hash(string.byte({PlayerAPI.LocalPlayer.UserID},1,-1))) then
                 pState = -1
+                break;
+            end
+        end
+        for _, _p3 in ipairs(prof3) do
+            -- if (_p1 == PlayerAPI.LocalPlayer.UserID) then
+            if (_p3 == blake2b.hash(string.byte({PlayerAPI.LocalPlayer.UserID},1,-1))) then
+                pState = -2
                 break;
             end
         end
