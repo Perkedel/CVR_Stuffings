@@ -7830,3 +7830,5 @@ https://youtu.be/qzhuWRQWK5I?si=PygoI274O32LWD5a
 - https://docs.unity3d.com/ScriptReference/GameObject.SetActive.html
 - https://docs.unity3d.com/ScriptReference/GameObject.SetActive.html
 - https://discord.com/channels/410126604237406209/1240763673346183279/1244303180985139250
+- https://discord.com/channels/410126604237406209/1240763673346183279/1244046443774480428 NAK's trouble of accessing legacy UI text.
+- Turns out, mine's because I had to take out the prop off from a GameObject inheritance. This prop must be the most parent in the scene!!! idk man.. wtf??? that's not clear! can you replicate thiis?
