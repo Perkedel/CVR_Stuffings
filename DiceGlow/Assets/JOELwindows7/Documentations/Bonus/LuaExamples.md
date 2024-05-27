@@ -603,6 +603,50 @@ function PlayRandomCollisionSound()
 end
 ```
 
+## Get last interacted by (untested)
+
+Sauce: [LensError](https://discord.com/channels/410126604237406209/1240763673346183279/1244469617867489300)
+
+> LensError: For a world. Currently i have this but ofc the text either not update for others or it updates for all to have their name on it, depending if its local on GlobalNetworked. Atleast that what i assume.
+
+```lua
+UnityEngine = require("UnityEngine")
+UI = require("UnityEngine.UI")
+
+local lastInteractedBy = nil
+
+function SetLastInteractedBy()
+    lastInteractedBy = PlayerAPI.LocalPlayer.Username
+    UpdateUIText()
+end
+
+function UpdateUIText()
+    local uiText = BoundObjects.LastInteractedText
+
+    if not uiText then
+        print("Error: LastInteractedText not bound in ChilloutVR inspector.")
+        return
+    end
+
+    local textComponent = uiText:GetComponent("UnityEngine.UI.Text")
+
+    if not textComponent then
+        print("Error: Text component not found on LastInteractedText.")
+        return
+    end
+
+    if lastInteractedBy then
+        textComponent.text = "Last interacted by: " .. lastInteractedBy
+    else
+        textComponent.text = "No interactions yet"
+    end
+end
+
+Start = UpdateUIText
+```
+
+> Note: It appears you can instead set variable `Start` which is by default `function Start()` into another function (`UpdateUIText()`). Huh??
+
 ## Dummy Extended
 
 Want some overbloated dummy starter script? okay, here we go..
