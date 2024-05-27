@@ -23,7 +23,7 @@ local nhieList = {
     'fell from a tree',
     'got food poisoned due to unforseen circumstances',
     'failed driving license test',
-    'fined by a service due to late paying monthly fee',
+    'fined by a service due to late paying subscription fee (water, power, etc.)',
     'rushed to a hospital due to certain injury',
     'remedial for a failed exam',
     'scammed by a merchant in any form (real & cyber)',
@@ -43,6 +43,29 @@ local nhieList = {
     'slept in a public facility (that is not meant for it such as hotel)',
     'vehicle got stolen',
     'paid & entered in-person exhibition / expo',
+    'tasted spicy food',
+    'fell asleep during class / lecture',
+    'scratched someone\'s car or motorbike',
+    'upload a video to any platform',
+    'lost unsaved work to a power failure or crash',
+    'corrupted a file',
+    'own smartwatch',
+    'own an Android',
+    'fixed something yourself',
+    'done Oreo tricks described in the packaging (Twist-Lick-Dunk)',
+    'wrote story (fanfic or original)',
+    'pressed every keys on this 118 keys keyboard',
+    'cleaned house yourself instead your parent or maid',
+    'spent on something that shouldn\'t ever cost that a.k.a. not worth it',
+    'Did transaction on cheap shop platforms / markets (Temu, Jakarta Notebook, Wish, Poundland, etc.)',
+    'Gave flower to your parent (mother or father or both)',
+    'tried pure Lua (that\'s all base, not ones implemented on another software nor is a framework)',
+    'encountered any player in this game, in-person',
+    'encountered any player in this game, on other platform',
+    'upset a Spirit of Ecstacy on a parked Rolls-Royce (fiddled the statue significantly on the car front causing it to immediately snuck back in) (including your own if you have one, or your relatives)',
+    'Owned T9 keypadded feature phone (OG phone owners OR refugee)',
+    'played modded Minecraft',
+    'Graduated on college',
 }
 local selectNhie = 'halo'
 local delaysButtonIn = 5
@@ -97,6 +120,7 @@ function Start()
     end
     -- textOutCompo = textOut:GetComponent("UnityEngine.UI.Text")
     -- textOutCompo = BoundObjects.zaza:GetComponent('UnityEngine.UI.Text')
+    -- trouble: if it's on a GameObject, it won't work! get it out of it!
 
     Regenerate()
 
