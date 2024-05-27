@@ -478,6 +478,8 @@ Here are the UUIDs of all these assets we uploaded to CVR:
 | `820a6d23-fc4d-462b-b7d6-e4d30f91a453` | Eyea Dice GIANT 1000 AudioLink | JOELwindows7 | . |
 | `28c3750e-ea72-4634-a8b9-06c098c8d9c6` | Eyea Dice micro1 1 AudioLink | JOELwindows7 | . |
 | `0b8fd851-6bae-4b3c-8800-92eee08ab3a9` | Ludo Game | JOELwindows7 | Board game with core from Keiannai Board Game System |
+| `5cd17bd6-10a3-4d76-9045-478f416368d4` | Never Have I ever board Game | JOELwindows7 | Board game with core from Keiannai Board Game System |
+| `7978dda3-291d-49d0-be01-29f50cff6106` | Never Have I ever generator | JOELwindows7 | Generator for NHIE game above & other NHIE games. |
 | `c7a0bd47-3ece-485f-a994-d3eddbc2b4c1` | Anjay Button | JOELwindows7 | Powered by [Dippy's push Button](https://dippythefoxderg.gumroad.com/l/DippyPushButt) |
 | `8f094998-b863-4bc6-b3c9-726eb82f1e24` | Fart Reverb Button | JOELwindows7 | Powered by [Dippy's push Button](https://dippythefoxderg.gumroad.com/l/DippyPushButt) |
 | `2b7ef53d-a4aa-457d-b613-6a542fb385d0` | Fart Origin Button | JOELwindows7 | Powered by [Dippy's push Button](https://dippythefoxderg.gumroad.com/l/DippyPushButt) |

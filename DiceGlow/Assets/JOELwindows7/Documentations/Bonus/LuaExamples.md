@@ -515,6 +515,94 @@ function Update()
 end
 ```
 
+## Detect GameObject that collided its trigger
+
+Sauce: [NotAKidOnSteam (Tezmal asked)](https://discord.com/channels/410126604237406209/1240763673346183279/1243927957840334980), [again](https://discord.com/channels/410126604237406209/1240763673346183279/1243934357299662951)
+
+> NAK: on mobile so might not be formatted right but:
+
+```lua
+UnityEngine = require(“UnityEngine”)
+CCK = require(“CVR.CCK”)
+
+function OnTriggerEnter(collision)
+    local collidedObject = collision.gameObject
+    local cvrPointer = collidedObject:GetComponent(“ABI.CCK.Components.CVRPointer”)
+    
+    if cvrPointer then
+        if cvrPointer.type == "cooltype" then
+            print("Type matched!")
+        else
+            print("Type did not match. Found type: " .. cvrPointer.type)
+        end
+    else
+        print("CVRPointer component not found on the collided object.")
+    end
+end
+```
+
+> ...
+> NAK: is it the same error or something else?
+> this script of mine using OnCollisionEnter was able to get gameObject fine, but i did not test getting components
+
+```lua
+UnityEngine = require("UnityEngine")
+
+local audioSource = nil
+local collisionSounds = {}
+local minCollisionForce = 0.5
+local minCollisionInterval = 0.5
+local usePitchVariance = false
+local pitchVariance = {0.8, 1.2}
+local collisionMask = nil
+
+local lastCollisionTime = 0
+
+function Start()
+    audioSource = BoundObjects.SFX_Source
+
+    collisionSounds = {
+        BoundObjects.SFX_Hit_0,
+        BoundObjects.SFX_Hit_1,
+        BoundObjects.SFX_Hit_2,
+        BoundObjects.SFX_Hit_3,
+        BoundObjects.SFX_HitSoft_0,
+        BoundObjects.SFX_HitSoft_1,
+        BoundObjects.SFX_HitSoft_2,
+        BoundObjects.SFX_HitSoft_3
+    }
+
+    collisionMask = bit32.bnot(bit32.bor(bit32.lshift(1, 15), bit32.lshift(1, 8)))
+end
+
+function Update()
+    if lastCollisionTime > 0 and UnityEngine.Time.time - lastCollisionTime >= minCollisionInterval then
+        lastCollisionTime = 0
+    end
+end
+
+function OnCollisionEnter(collision)
+    if lastCollisionTime == 0 then
+        local layerShifted = bit32.lshift(1, collision.gameObject.layer)
+        if (bit32.band(layerShifted, collisionMask) ~= 0) and (collision.relativeVelocity.magnitude > minCollisionForce) then
+            PlayRandomCollisionSound()
+            lastCollisionTime = UnityEngine.Time.time
+        end
+    end
+end
+
+function PlayRandomCollisionSound()
+    if audioSource == nil or #collisionSounds <= 0 then return end
+
+    if usePitchVariance then
+        audioSource.pitch = UnityEngine.Random.Range(pitchVariance[1], pitchVariance[2])
+    end
+
+    local index = UnityEngine.Random.Range(1, #collisionSounds)
+    audioSource:PlayOneShot(collisionSounds[index])
+end
+```
+
 ## Dummy Extended
 
 Want some overbloated dummy starter script? okay, here we go..

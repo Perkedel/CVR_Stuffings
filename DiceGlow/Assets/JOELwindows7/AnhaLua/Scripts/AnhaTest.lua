@@ -93,7 +93,7 @@ local quotes = {
     'The QWERTY layout comes because it was meant to slow down typing for typewriters, to avoid jams caused by overspeeding.',
     'Nokia was one of the biggest player in phone game, until their blunder (allegedly) of refusing Android for Windows Phone instead, which becomes their demise. Nowadays, they only plays other background innovations.',
     'NestDNB was named after `rats nest`, that Joel likes rodent animal since his young time, also that because inspired from VoyVivika\'s Viviklub, which Voy himself is also a rodent based form. Quite the connection.',
-    'You can now reach from Jakarta to Bandung (arrive to Padalarang) in just about 50 minutes with Whoosh, the new fast train recently established.',
+    'You can now reach from Jakarta to Bandung (arrive to Padalarang) in just about 20 minutes with Whoosh, the new fast train recently established.',
     'ahei',
     'Lua is the oldest most implemented language across many softwares that uses scripting',
     'Kaorfa (Joel) first time started on Lua game in a Swedish engineering creative game, Principia. Alas though, due to insufficient funding, it\'s now defunct and left only the preservers.',

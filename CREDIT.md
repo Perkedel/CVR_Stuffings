@@ -7793,3 +7793,40 @@ https://youtu.be/qzhuWRQWK5I?si=PygoI274O32LWD5a
 - https://openupm.com/packages/com.naelstrof.jigglephysics/
 - https://openupm.com/packages/com.vrcfury.vrcfury/
 - https://discord.com/channels/410126604237406209/1195601585720528976/1243667786644062263
+- further rise multirise
+- https://youtu.be/U8W1SWWAZ6E Never Have I ever tutorial Triple S Games
+- https://en.wikipedia.org/wiki/Never_have_I_ever
+- https://id.wikipedia.org/wiki/Never_Have_I_Ever WRONG!
+- https://youtube.com/shorts/V8lcY6a1BDc?si=Z5mdMKe62GP7HsYZ
+- `OGC`
+- https://discord.com/channels/410126604237406209/797279576459968555/1243951925230305372
+- https://www.youtu.be/o9Tl6OE7ybQ
+- https://discord.com/channels/722818587475050577/755348017799888927/1243877872444112896
+- https://discord.com/channels/410126604237406209/1240763673346183279/1243924688921432158
+- https://discord.com/channels/410126604237406209/1240763673346183279/1243927957840334980
+- https://discord.com/channels/410126604237406209/1240763673346183279/1243934357299662951
+- https://discord.com/channels/410126604237406209/1240763673346183279/1243943538769793084
+- https://discord.com/channels/410126604237406209/1004342533964439592/1243716444978675742
+- https://discord.com/channels/410126604237406209/588350770777161748/1243738143295799407
+- https://discord.com/channels/410126604237406209/682645682968199168/1243446230848245834
+- https://discord.com/channels/410126604237406209/682645682968199168/1243563175383797941
+- https://discord.com/channels/410126604237406209/682645682968199168/1243563694554746940
+- https://discord.com/channels/410126604237406209/682645682968199168/1243566721751715900
+- https://discord.com/channels/410126604237406209/682645682968199168/1243765355252551760
+- https://discord.com/channels/410126604237406209/588350685255565344/1243731665218703380
+- https://discord.com/channels/410126604237406209/588350685255565344/1243966011674333256
+- https://discord.com/channels/410126604237406209/588350685255565344/1243968403744755963
+- https://discord.com/channels/410126604237406209/797279576459968555/1243975133060923443
+- https://discord.com/channels/410126604237406209/1004342533964439592/1243981794731229245 lenserror get id
+- https://github.com/Keiannai/Prop-Game-Table-System-for-CVR 
+- https://discord.com/channels/410126604237406209/1240763673346183279/1244469617867489300 lenserror get last username
+- https://discord.com/channels/410126604237406209/1240763673346183279/1244469617867489300
+- https://discord.com/channels/867567549858971669/970108501382803476/1244373298620530788 End result Viviklub 26 may 2024 photogroup. I hate timezones (Photo missed, schedule conflict).
+- https://discord.com/channels/410126604237406209/1004342533964439592/1244262318427213827
+- https://youtube.com/shorts/UdqgK-t1juI?si=gFFwwWQ7ZQSFmiBO model brain dovolo
+- https://discord.com/channels/722818587475050577/755348017799888927/1243877872444112896
+- https://www.youtube.com/watch?v=o9Tl6OE7ybQ
+- https://discord.com/channels/410126604237406209/766086942005526579/1244376595863441518
+- https://docs.unity3d.com/ScriptReference/GameObject.SetActive.html
+- https://docs.unity3d.com/ScriptReference/GameObject.SetActive.html
+- https://discord.com/channels/410126604237406209/1240763673346183279/1244303180985139250
