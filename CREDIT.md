@@ -8046,3 +8046,4 @@ https://youtu.be/qzhuWRQWK5I?si=PygoI274O32LWD5a
 - https://stackoverflow.com/questions/69405331/how-to-convert-string-to-boolean-in-lua
 - https://wiki.netio-products.com/index.php?title=Function_toboolean()
 - https://www.lua.org/pil/2.2.html
+- https://discord.com/channels/410126604237406209/1237590087781584958/1245059890037264475

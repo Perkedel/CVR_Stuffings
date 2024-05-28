@@ -691,6 +691,20 @@ The method also has been used on Shin's MoonClicker (Cookie Clicker clone CVR)
 
 oh, thancc LensError too, for that figure out. yess.
 
+## Get Sync values from `CVRSpawnable` instead!
+
+Sauce: [Shin](https://discord.com/channels/410126604237406209/1240763673346183279/1245066412595347610)
+
+> Shin: I used to use this (`UnityEngine.Animator`) but it was not very accurate, i use spawnable value now (ones from `ABI.CCK.Components.Spanwable`)
+
+```lua
+spawnable = gameObject.GetComponentInParent("ABI.CCK.Components.CVRSpawnable")
+            if spawnable ~= nil then
+                if localCurrency <= Currency then
+                    spawnable.SetValue(indexVal, Currency)
+                end
+```
+
 ## Dummy Extended
 
 Want some overbloated dummy starter script? okay, here we go..
@@ -991,3 +1005,4 @@ More Lua Examples
 - [Official CVR Documentation about Lua](https://documentation.abinteractive.net/cck/lua/)
 - [NotAKidOnSteam's](https://github.com/NotAKidOnSteam/NAK_CVR_Prefabs/tree/main/LuaExamples)
 - [Shin's](https://github.com/DjShinter/CVRLuaScripts)
+- [LensError's](https://github.com/LensError/CVRLuaTesting)
