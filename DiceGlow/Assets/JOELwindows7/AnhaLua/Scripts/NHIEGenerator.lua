@@ -3,6 +3,9 @@
 
     Generate your NHIE thoughts for such game!
 
+    Sauce:
+    - https://discord.com/channels/410126604237406209/1240763673346183279/1245066584066752625 thancc Shin for get spawnable value instead
+
     by JOELwindows7
     Perkedel Technologies
     Code: GNU GPL v3
@@ -10,10 +13,11 @@
 ]]--
 local UnityEngine = require("UnityEngine")
 
-local ownSelf
+local ownSelf = BoundObjects.OwnSelf
 local animCompo
-local fakeButton
-local textOut
+local spawnableCompo
+local fakeButton = BoundObjects.GenerateFakeButton
+local textOut = BoundObjects.TitlerOld
 local textOutCompo = nil
 local nhieList = {
     'Programmed `Hello, world!` in Rust',
@@ -68,20 +72,28 @@ local nhieList = {
     'Owned T9 keypadded feature phone (OG phone owners OR refugee)',
     'played modded Minecraft',
     'Graduated on college',
+    'Dropped out of college',
 }
 local selectNhie = 'halo'
 local selectNum = 0
 local delaysButtonIn = 5
 local delayRemains = 5
 local isDelaying = false
-local luaDisabledWarn
+local luaDisabledWarn = BoundObjects.LuaDisabledWarning
 local refreshRate = .1
 local refreshRemains = .1
+
+function NumBool(num)
+    return num > .5
+end
 
 function Regenerate()
     selectNum = math.random(#nhieList)
     if animCompo then
-        animCompo.SetInteger('SelectQuote',selectNum)
+        -- animCompo.SetInteger('SelectQuote',selectNum)
+    end
+    if spawnableCompo then
+        spawnableCompo.SetValue('SelectQuote',selectNum)
     end
     selectNhie = nhieList[selectNum]
     -- if textOutCompo then
@@ -98,7 +110,10 @@ function Regenerate()
     end
     
     if animCompo then
-        animCompo.SetBool('IsDelaying',true)
+        -- animCompo.SetBool('IsDelaying',true)
+    end
+    if spawnableCompo then
+        spawnableCompo.SetValue('IsDelaying',1)
     end
     isDelaying = true
     RefreshDisplay()
@@ -112,8 +127,13 @@ end
 
 function RefreshDisplay()
     if animCompo then
-        isDelaying = animCompo.GetBool('IsDelaying')
-        selectNum = animCompo.GetInteger('SelectQuote')
+        -- isDelaying = animCompo.GetBool('IsDelaying')
+        -- selectNum = animCompo.GetInteger('SelectQuote')
+        -- selectNhie = nhieList[selectNum]
+    end
+    if spawnableCompo then
+        isDelaying = NumBool(spawnableCompo.GetValue('IsDelaying'))
+        selectNum = spawnableCompo.GetValue('SelectQuote')
         selectNhie = nhieList[selectNum]
     end
     
@@ -136,15 +156,18 @@ end
 
 -- Start is called before the first frame update
 function Start()
-    ownSelf = BoundObjects.OwnSelf
-    textOut = BoundObjects.TitlerOld
-    fakeButton = BoundObjects.GenerateFakeButton
-    luaDisabledWarn = BoundObjects.LuaDisabledWarning
+    -- ownSelf = BoundObjects.OwnSelf
+    -- textOut = BoundObjects.TitlerOld
+    -- fakeButton = BoundObjects.GenerateFakeButton
+    -- luaDisabledWarn = BoundObjects.LuaDisabledWarning
 
     if ownSelf then
         print('obtain self')
         animCompo = ownSelf.GetComponent("UnityEngine.Animator")
         -- textOut = ownSelf.transform.GetChild(0).GetChild(0).GetChild(0).gameObject
+        spawnableCompo = ownSelf.GetComponent("ABI.CCK.Components.CVRSpawnable") 
+        -- or from Shin's:
+        -- spawnableCompo = gameObject.GetComponentInParent("ABI.CCK.Components.CVRSpawnable")
     else
         print('forgor assign this self')
     end
@@ -159,7 +182,7 @@ function Start()
     if not textOut then
         print('Forgor textOut')
     else
-        -- textOutCompo = textOut:GetComponent('UnityEngine.UI.Text')
+        textOutCompo = textOut:GetComponent('UnityEngine.UI.Text')
         -- textOutCompo = textOut.GetComponent('UnityEngine.UI.Text')
     end
     -- textOutCompo = textOut:GetComponent("UnityEngine.UI.Text")
@@ -181,7 +204,10 @@ function Update()
         delayRemains = delayRemains - UnityEngine.Time.deltaTime
         if delayRemains <= 0 then
             delayRemains = delaysButtonIn
-            animCompo.SetBool('IsDelaying',false)
+            -- animCompo.SetBool('IsDelaying',false)
+            if spawnableCompo then
+                spawnableCompo.SetValue('IsDelaying',0)
+            end
             isDelaying = false
         end
     else

@@ -7855,3 +7855,194 @@ https://youtu.be/qzhuWRQWK5I?si=PygoI274O32LWD5a
 - https://docs.unity3d.com/2021.3/Documentation/ScriptReference/Transform.GetChild.html
 - https://discord.com/channels/410126604237406209/1237590087781584958/1244969220610199642
 - https://docs.coherent-labs.com/unity-gameface/content_development/supported_features_tables/cssproperties/
+- https://docs.unity3d.com/2021.3/Documentation/ScriptReference/Transform.GetChild.html
+- https://docs.unity3d.com/ScriptReference/Animator.SetInteger.html
+- https://youtu.be/nHNPT_QPQ_U?si=J4_N_vhCy30d6fgk
+- cvr hbd
+- Ben, 25 may
+- Joel, 7 feb
+- .
+- .
+- aga
+- https://youtu.be/AYJdewsbiBs?si=uBEQFeIKTqdT6gHz
+- https://www.deviantart.com/desperative/art/MMD-Faputa-Download-941244633
+- https://www.deviantart.com/magicalpouchofmagic/art/MMD-Reg-DL-765532171
+- https://bowlroll.net/file/26828
+- https://bowlroll.net/file/301305
+- https://www.deviantart.com/gvboat/art/MMD-DL-Plate-772043182
+- https://youtube.com/shorts/aqjgOfeblj8?si=XMaAdpBppgVyT54m
+- hbd
+- .
+- .
+- .
+- This is the end of May!
+- Zuuljedus & families finally say goodbye to X0p1t4t3 and now on to live on Godot Realm to help Joel develop Godot games, forever.
+- At the ground level main park. Admiral Zumi, Roig, and families are watching as Zuuljedus & families going to leave. Zumi side in by the castle entry gate door, against Zuuljedus size, with an IONIQ 5. The stuffs has since already on the Godot realm weeks before, therefore in this car today is just 2 hotel luggages (reverse stay) with Zuul & Panfesir's clothings. Zuul faces Zumi side from afar, while Panfesir has just tidied what's left into the car.
+- Panfesir: (rush towards hug area)
+- Zumi: ... Come here, guys, (hug Zuul & Panfesir)!..... (finish). ..., Well.. This.. this is... horrible.
+- Zuuljedus: (tear) yeah..
+- Zumi: I have no idea what to say about this but... **I'm going to miss you guys**. .. all my... (interupted `life`, emotion breaking down) oh God.... (succ) sssssssss!!... Eughhh heu heu!
+- Panfesir: I'm really sorry fam. It's inevitable. Not sure this calls for (interupt `betrayal or abandonment`)
+- Zumi: No no!., it's okay. I... I can't control everyone nor would I for anything would they do. (Unable to expect even Dasandim couldn't even immune to unforseen psychological attacks from galaxies) I...
+- Panfesir: Buddy, it's fine. Me too. I..-don't know anything about this. So.. I feel ungood if I decline this offer
+- Zumi: I know. ... I know. Help Kaorfa. That's a good thing. He needs more accompaniment. Go. Go console him. I'm sure, you'll be the powerful family to be ever hired to help us being real. Yeah, Zuul?
+- Zuul: .. Yeah.. I hope so.
+- Zumi: So yeah. Go. Do your thing. And please take care of him. Keep him alive at least..., and uh.. yeah. Anything.
+- Zuul: So what you're going to do?
+- Zumi: I... and Roig, is going to further maintain the mall. Annnnnd, ... The yess, younger secretaries are coming in, sub-leaders a (per) division coming in, by the next week or so. Annnd...
+- Zuul: My DiceGlow
+- Zumi: The..- we have discussed this. They took it.
+- Flashback
+- Pinball Agung team has arrived to the Basement Research Facility
+- Zumi: (greet `Y` pose) Ah! Great Pinball! There you are!
+- Zumi & Pinball Agung entered the meeting room & held the meeting. Zumi had just presented the initiative project, DiceGlow to Pinball Agung and ask favor to them to maintain this entire project.
+- Zumi: So, what do you think?
+- Iobal: (Impressed but also rather disappointed)... hmmm, I would say I'm impressed. But.. uuuh-you see.., that's Unity project. uh..
+- Zumi: No no, ... Yes I get it, I don't like it too, but you don't render the application. It's a Level project!
+- Iobal: Game level you mean?
+- Zumi: Yess!
+- Iobal: .... Okay.., So, we maintain this. Basically responding to possible questions, Issues, Pull Requests, etc.?
+- Zumi: Yeah it is. Uh... I'm really sorry.., uh, Zuul & families were unable to come today because.. *event*, he-eh-eh.. But it's easy. Zuul can.. do something, Kaorfa caAn do something, that's.., what to do.
+- Iobal: Okay.. .. ..
+- Zumi: I know I know, this won't benefit you guys financially. But atleast, this needs some more air, jjuST a little more. You know..
+- Iobal: Is the vault ready? For this copy.
+- Subouk: Yes sir. We have it. Clone hands ready.
+- Zumi: Careful, it got submodules too. Also, our history recently has been broken due to a message we receive about other package that weren't supposed to be... you know, you got the idea. I hope, in case you had one of these before is that you rebase all that stuffs.
+- Iobal: No, we haven't seen this one yet.
+- Zumi: Oh.. Well then.
+- Iobal: Btw, weren't you supposed to be the archiver one? Why did you ask us to do something with it? You're the guy, what's going on?
+- Zumi: Oh.. that... I have no idea. I'm honest, I received DM from Gyouter, **Kaorfa's went into mental shock!**
+- Iobal: (remembered the same DM) That? Oh..
+- Zumi: I begged him (Gyouter) know, but.. uh.. Kaorfa this time refused to tell.
+- Iobal: (open phone see message from Gyouter) Let's see if (async) I got follow up in here...
+- Zumi: (also try see message Gyouter)...
+- ...
+- ...
+- Zumi: `Joel's in depression`.
+- Iobal: `Maintain DiceGlow. Excpect Zumi`.
+- Zumi: `Bring Zuul & family to Godot. Give DiceGlow to Pinball Agung. For final squeeze. Abandon LFM, week came, expect Steam`.
+- Iobal: ... huh..
+- Zumi: Well reading that second one outloud doesn't sound good here. I would like to know tho.. but...
+- Iobal: Yeah let's not get into this. This is Kaorfa's order right?
+- Zumi: Yeah!
+- Flashback done
+- Zuul: That's good.
+- Zumi: If you'd like to place a little things, feel free, access still yours. and.. and yeah.
+- ...
+- ...
+- ...
+- Zumi: For the first time, you are the 1st people leaving.
+- Panfesir: Wait what?
+- Zumi: I only been seeing people coming here!.., but this now, is the first time, not for anything, although, something, is this. Wow... this is what it feels (Member left the server)?
+- Panfesir: Wow. I hate being this.
+- Zumi: Nah it's okay. I've now learned.., it's... the time.
+- ...
+- ...
+- Zuuljedus & Panfesir enter car. Zuul sit on front left (Passenger), Panfesir drive (Steering on right). Car is already on. Neutral, no regen. Portal has already been opened since this communication start
+- Zuul: (close door)!
+- Panfesir: (close door)!, (open both front windows)!....
+- Zumi: HEY!, if you have time, don't forget to visit us! And most importantly remember us!!
+- Zuul: We'll do!
+- Panfesir: Yes!
+- Zumi: And thank you. Thank you for making X0p1r4t3 the best place to be ever be. I miss you!
+- Panfesir: Yeah!
+- Zuul: Yeah!
+- Panfesir: (can't hold emotion) Ugh.., (close booth windows), (hold brake & twist shift knob to `D`), .. (take deep breath)!!!!..., (blow) hoooof.., hokay... here we go. Goodbye. (release brake gradually, no gas)...
+- Car slowly move towards portal.
+- Car enters portal.
+- Welcome to Realizer Realm!
+- Car enter Godot development palace fence
+- Portal closes. Car continue running
+- Zumi: (silent 1000 languages 10000 emotion)...
+- everyone go back inside & take break whole day
+- Zumi stay 5 second more............... Okay go back inside.
+- Car arrive to the parking slot
+- Yidi: Okay, just park it here!
+- Panfesir: (park the car front in)..... (done), (press `P` on shifter), (pull handbrake)!
+- Yidi: (take out AC Type-2 charging plug)!, (open charging door), (plug it in).
+- Panfesir: (turn off car)!.....................
+- Yidi: (open front right door)! Haloo?
+- Panfesir: Okay!(async)-(jump out towards press hall & go to it)!
+- Yidi: (async) Woo, slow down!
+- Zuul: (unlock & push center console to back), (slide out follow Panfesir)!!
+- Yidi: Ookay..
+- Press hall. It is designed after Keraton. This hall has roof only held by pillars, with tile floors beneath the pillars.
+- Toshk: (try mic shout Kaorfa again), **JOEL!!!!! CAN YOU HEAR ME!!!!!?????** ..... Argh, fuck, **WHERE EVER YOU ARE....** (drop mic) Argh!
+- Reerk: 😐😐😐😑😑😑 (retidy mic),
+- Tab: (felt Zuul & Panfesir has arrived) (small volume) (turn around in surprised) Oh shit!.., Hi, welcome back. Apologies. We got messy greeting.
+- Panfesir: Well it's okay. Is my order ready?
+- Tab: Alright!, Zuul, and Pan. Your order (give each Contract file paper to respective person)(async)..., is...,-ready.
+- Panfesir: (asnyc) ... (take).
+- Zuul: (async) (take).
+- Panfesir: (open & read contract file paper)!..... (it's `Build assets`) Zuul (look at Zuul's)?
+- Zuul: (also `Build assets`)...
+- Panfesir: Okay. Hey what's going on over there?
+- Tab: Ah.. uh, you guys were supposed to receive communication from Kaorfa now.. but uh.. he still not talking.
+- Panfesir: (concern)...
+- Zuul: (also concern)...
+- Tab: But I believe it's just the same.
+- Malore: (came into the scene) Hey hey! Zuul, Pan!
+- Tab: Ah, Malore. great. So, next monday we'll receive 3 Advisors. Kaorfa has specifically hired these, because to ensure all securities on sculpting what we were told, remains safe.
+- Malore: Oh. Lemme guess, this because of me? (tend to expose and insult enemies)
+- Tab: Yes, but also no. 
+- Next monday
+- Tab: *These advisors actually came from your home planet.* 
+- 3 ex-Motivators walking in. These are like-pressers clout fillers from Dasandimian Motivation Alliance.
+- Tab: *You're going to be familiar & shocked at the same time. Were you supposed to be worked on this? But you'll ask, you'll find out.*
+- motivators stop at the scene
+- Now DiceGlow are approaching the new 3 advisors
+- Zuul: Davi??!
+- Davi Ertuoz: Zuul?!
+- Zuul: (hand greet) Where have you been??.. Wait. Are these?
+- Davi: Eh he he.. iyeah. I...
+- Zuul: Nnno..
+- Panfesir: Woah, this is no way.
+- Davi Ertuoz was an old classmate to Zuul & Panfesir in that time of Crossban school.
+- Davi: Well.. I don't do some faults... Just... we are.. heuh.. Oh, also these are my new friends.
+- Pek Kol: (greet Zuul) Pek.
+- Zuul: (accept) Zuuljedus
+- Pek: (greet Panfesir)
+- Panfesir: (accept) Panfesir.
+- Kauk Letorashah: (greet zuul) Kauk.
+- Zuul: (accept) Zuuljedus!.
+- Kauk: (greek Panfesir)
+- Panfesir: (accept) Panfesir .
+- Malore: (from far) Malore!!
+- Davi: (acknowledged that too) Ah, (clap)-okay. So ummm here
+- Flashback
+- (revision! Motivator shuts down 2024 today!)
+- an employee roled to be hired mom, entertaining her customer through video call
+- Hala Erey: MMM-aaa cmm-aaa ccmmm a
+- All power to PCs suddenly unplugged
+- Hala: Heh, what?
+- Parve: (walk fast to podium stage) Attention..
+- All employee stand up face Parve
+- Parve: At ease.. (prepare speech).., ahemm.., Folks. We are announcing shutdown..
+- All yah no!
+- Parve: Due to unprecendented
+- B roll everyone transmigrated to X0p1r4t3
+- Parve: ammount of circumstances that has fallen onto us, our endeavour now is deemed risky & dangerous to the lives of the workers here. With heavy heart, this alliance, will be shutdown, effective immediately.
+- B roll continues, people being settled in a new unused part of the housing Lobe
+- Parve: Your settlement also, will be moved to X0p1r4t3 Eenvreensment for safety, as X0p1r4t3 is well known for its fortress level defense citywide. Until a better housing was found, which means secure from the reach of the attack source, nor any knowhow those attackers would know, you will now live there indefinitely. We also have moved your family there.
+- B roll Davi & 2 new friend accept job as Advisors for one of the Joel's division
+- Parve: I'm sorry. We shall get moving.
+- B roll done
+- Parve: Class dismissed. (turn on line projection on floor), (walk immediately to line projected)!...
+- Line leads to buses that transport them to X0p1r4t3 by tollroad tunnel
+- Ghob: (guide all employees) Okay guys, follow this line, take your belongings but the office assets.
+- Shira Pada: Wait, so fast? ... (follow order anyway) huh..
+- Everyone follow immediate order
+- Flashback done
+- Zuul: oh...
+- Davi: Yeah. Well, At least we meet again!
+- ...
+- ...
+- ...
+- Davi: yeah...
+- Lore done
+- https://discord.com/channels/410126604237406209/1240763673346183279/1245066584066752625 Shin's how to get spawnable
+- https://discord.com/channels/410126604237406209/1240763673346183279/1245000173890043975 new LensError lua sample
+- https://github.com/LensError/CVRLuaTesting
+- https://stackoverflow.com/questions/69405331/how-to-convert-string-to-boolean-in-lua
+- https://wiki.netio-products.com/index.php?title=Function_toboolean()
+- https://www.lua.org/pil/2.2.html
