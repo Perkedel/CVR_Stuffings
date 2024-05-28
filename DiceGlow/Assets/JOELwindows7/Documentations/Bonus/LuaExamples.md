@@ -647,6 +647,50 @@ Start = UpdateUIText
 
 > Note: It appears you can instead set variable `Start` which is by default `function Start()` into another function (`UpdateUIText()`). Huh??
 
+## Synced Value using Animator
+
+Sauce: [JOELwindows7](https://discord.com/channels/410126604237406209/1240763673346183279/1244876798165254176)
+
+Tutorial How to sync some variable: using animator. e.g., sync an integer
+- Prepare a `UnityEngine.Animator` component of this prop. Create its animator controller, & put it inside the `UnityEngine.Animator`!
+- In this animator controller, add Parameter! e.g., `randIntTest` type `Integer`. Put this parameter into Prop Sync Values!
+- Make doing something that changes this Parameter value. e.g., when I clicked this (`OnInteractDown` Interactible), it sets random integer for certain range to this Paramter (`SetAnimatorIntRandom`).
+
+Now, onto the code how to read it. There is method `GetInteger(v)` in this `UnityEngine.Animator` class instance.
+```lua
+-- You will need to assign this prop itself as bound object! e.g., this bound is titled `OwnSelf`. oh & also, Animator component! & stuffs
+local ownSelf
+local animCompo
+local randomIntSay = '999999999999' -- we'll talk about this later.
+-- on `function Start()`, capture it!
+ownSelf = BoundObjects.OwnSelf
+-- still on `Start()`, you can now do anything! In this case, get its Animator component
+if ownSelf then
+    print('obtain self')
+    animCompo = ownSelf.GetComponent("UnityEngine.Animator")
+else
+    print('forgor assign this self')
+end
+
+-- Now, onto the `function Update()`. Because we already created the code on `CVRInteractible`, no need to do anymore things. Just read its value!
+if animCompo then
+    randomIntSay = tostring(animCompo.GetInteger('randIntTest'))
+end
+-- Notice there is `tostring(v)` meta methods! If you'd like to insert Number into a string variable, you must first convert it!
+-- Now you can put this `randomIntSay` to whatever you want. e.g., still in `Update()`, I can insert it to
+local installSay = 'bla blabla random int: ' .. randomIntSay
+-- cool and good
+```
+
+with that, everyone else should see the value same. hopefully. Oh, also, maybe you can also use this variable to say.. select a cell in Array? yess! everyone will view the same selection!
+[Full code](https://github.com/Perkedel/CVR_Stuffings/blob/main/DiceGlow/Assets/JOELwindows7/AnhaLua/Scripts/AnhaTest.lua)
+
+The method also has been used on Shin's MoonClicker (Cookie Clicker clone CVR)
+
+> Fearless7: interesting, imma mess with this tomorrow. If i have issues, imma bug you <:CVRchanHehe:713475383499948145>
+
+oh, thancc LensError too, for that figure out. yess.
+
 ## Dummy Extended
 
 Want some overbloated dummy starter script? okay, here we go..

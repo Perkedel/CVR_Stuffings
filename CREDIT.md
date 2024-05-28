@@ -7834,3 +7834,20 @@ https://youtu.be/qzhuWRQWK5I?si=PygoI274O32LWD5a
 - Turns out, mine's because I had to take out the prop off from a GameObject inheritance. This prop must be the most parent in the scene!!! idk man.. wtf??? that's not clear! can you replicate thiis?
 - https://discord.com/channels/410126604237406209/1240763673346183279/1244365537484607488 Noachi had found this..
 - https://github.com/davidm/lua-matrix/blob/master/lua/matrix.lua
+- https://discord.com/channels/734976349994876928/734978945858142373/1244819414621098095 TJOC Lukasz Borges
+- https://discord.com/channels/410126604237406209/1240763673346183279/1244727826641584128 Raiu made reference lua metatable
+- https://pastebin.com/Kf8LxzE9
+- https://discord.com/channels/410126604237406209/1237590087781584958/1244840780976099409
+- https://discord.com/channels/410126604237406209/1237590087781584958/1244844414699049031
+- https://github.com/NotAKidOnSteam/NAK_CVR_Mods/tree/main/RelativeSync
+- https://discord.com/channels/1001388809184870441/1001388951099150336/1242564252112388289
+- https://discord.com/channels/410126604237406209/797279576459968555/1244693061343383591 fearless7...
+- ![spray](https://cdn.discordapp.com/attachments/797279576459968555/1244693061066428507/image.png?ex=66560a3f&is=6654b8bf&hm=4d1a2bfcde5dfa5e8889bc3ebcae8b07ff5dad74f0dd73cc41e47cafc0dd24b9&)
+- https://discord.com/channels/410126604237406209/1004342533964439592/1244760880290205817
+- https://forum.unity.com/threads/get-parameter-from-the-animator.202938/
+- https://docs.unity3d.com/ScriptReference/Animator.GetInteger.html
+- https://docs.unity3d.com/Manual/class-Animator.html
+- https://techcommunity.microsoft.com/t5/modern-work-app-consult-blog/running-16-bit-applications-on-windows-10-64-bit/ba-p/1671418
+- https://youtu.be/vX4398Htp2w?si=QpHiUWWHw73bohwV jiggly pudding Blender Demo
+- https://www.blender.org/download/demo-files/#simulation here file
+- https://youtube.com/shorts/snC5GfVoiz0?si=fmM_xC4embTYzl-7
