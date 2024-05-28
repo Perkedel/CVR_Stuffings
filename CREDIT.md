@@ -7851,3 +7851,7 @@ https://youtu.be/qzhuWRQWK5I?si=PygoI274O32LWD5a
 - https://youtu.be/vX4398Htp2w?si=QpHiUWWHw73bohwV jiggly pudding Blender Demo
 - https://www.blender.org/download/demo-files/#simulation here file
 - https://youtube.com/shorts/snC5GfVoiz0?si=fmM_xC4embTYzl-7
+- https://discord.com/channels/410126604237406209/1195601585720528976/1244851043574222888
+- https://docs.unity3d.com/2021.3/Documentation/ScriptReference/Transform.GetChild.html
+- https://discord.com/channels/410126604237406209/1237590087781584958/1244969220610199642
+- https://docs.coherent-labs.com/unity-gameface/content_development/supported_features_tables/cssproperties/
