@@ -11,9 +11,10 @@
 local UnityEngine = require("UnityEngine")
 
 local ownSelf
+local animCompo
 local fakeButton
 local textOut
-local textOutCompo
+local textOutCompo = nil
 local nhieList = {
     'Programmed `Hello, world!` in Rust',
     'Messed up settings causing PC unbootable',
@@ -78,7 +79,11 @@ local refreshRate = .1
 local refreshRemains = .1
 
 function Regenerate()
-    selectNhie = nhieList[math.random(#nhieList)]
+    selectNum = math.random(#nhieList)
+    if animCompo then
+        animCompo.SetInteger('SelectQuote',selectNum)
+    end
+    selectNhie = nhieList[selectNum]
     -- if textOutCompo then
     --     textOutCompo.text = selectNhie
     -- end
@@ -91,11 +96,12 @@ function Regenerate()
         -- end
         
     end
-    local bugText = BoundObjects.zaza:GetComponent('UnityEngine.UI.Text')
-    if bugText then
-        bugText.text = selectNhie
+    
+    if animCompo then
+        animCompo.SetBool('IsDelaying',true)
     end
     isDelaying = true
+    RefreshDisplay()
 end
 
 function OnMouseDown()
@@ -104,12 +110,44 @@ function OnMouseDown()
     end
 end
 
+function RefreshDisplay()
+    if animCompo then
+        isDelaying = animCompo.GetBool('IsDelaying')
+        selectNum = animCompo.GetInteger('SelectQuote')
+        selectNhie = nhieList[selectNum]
+    end
+    
+    if textOut then
+        -- HOW COME THE TEXT REFERENCE UNRELIABLE!?!?!?
+        --[[
+            [Unity] /CVRSpawnable_7978dda3-291d-49d0-be01-29f50cff6106_58974140(Clone):Client Lua[CVRSpawnable_7978dda3-291d-49d0-be01-29f50cff6106_58974140(Clone)]: Script Runtime Exception: Assets/JOELwindows7/AnhaLua/Scripts/NHIEGenerator.lua:(149,8-66): cannot convert clr type ABI.Scripting.CVRSTL.Common.UnityEngine.UI._LUAINSTANCE_ScriptedText
+        ]]--
+        -- textOut:GetComponent("UnityEngine.UI.Text").text = selectNhie
+        -- textOut.GameObject:GetComponent("UnityEngine.UI.Text").text = selectNhie
+    end
+    if textOutCompo then
+        textOutCompo.text = selectNhie
+    end
+    -- local bugText = BoundObjects.Zaza.GetComponent('UnityEngine.UI.Text')
+    -- if bugText then
+    --     bugText.text = selectNhie
+    -- end
+end
+
 -- Start is called before the first frame update
 function Start()
     ownSelf = BoundObjects.OwnSelf
+    textOut = BoundObjects.TitlerOld
     fakeButton = BoundObjects.GenerateFakeButton
     luaDisabledWarn = BoundObjects.LuaDisabledWarning
-    textOut = BoundObjects.zaza
+
+    if ownSelf then
+        print('obtain self')
+        animCompo = ownSelf.GetComponent("UnityEngine.Animator")
+        -- textOut = ownSelf.transform.GetChild(0).GetChild(0).GetChild(0).gameObject
+    else
+        print('forgor assign this self')
+    end
 
     -- wtf whyn't work????
     -- if textOut then
@@ -122,12 +160,13 @@ function Start()
         print('Forgor textOut')
     else
         -- textOutCompo = textOut:GetComponent('UnityEngine.UI.Text')
+        -- textOutCompo = textOut.GetComponent('UnityEngine.UI.Text')
     end
     -- textOutCompo = textOut:GetComponent("UnityEngine.UI.Text")
     -- textOutCompo = BoundObjects.zaza:GetComponent('UnityEngine.UI.Text')
     -- trouble: if it's on a GameObject, it won't work! get it out of it!
 
-    Regenerate()
+    -- Regenerate()
 
     if luaDisabledWarn then
         luaDisabledWarn.SetActive(false)
@@ -136,15 +175,13 @@ end
 
 -- Update is called once per frame
 function Update()
-    refreshRemains = refreshRemains - UnityEngine.Time.deltaTime
-    if refreshRemains <= 0 then
-        refreshRemains = refreshRate
-    end
+    
 
     if isDelaying then
         delayRemains = delayRemains - UnityEngine.Time.deltaTime
         if delayRemains <= 0 then
             delayRemains = delaysButtonIn
+            animCompo.SetBool('IsDelaying',false)
             isDelaying = false
         end
     else
@@ -152,7 +189,16 @@ function Update()
         --     fakeButton.SetActive(true)
         -- end    
     end
+
     if fakeButton then
         fakeButton.SetActive(not isDelaying)
+    end
+end
+
+function LateUpdate()
+    refreshRemains = refreshRemains - UnityEngine.Time.deltaTime
+    if refreshRemains <= 0 then
+        refreshRemains = refreshRate
+        RefreshDisplay()
     end
 end
