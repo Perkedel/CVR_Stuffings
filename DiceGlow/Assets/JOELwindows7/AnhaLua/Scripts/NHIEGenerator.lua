@@ -10,6 +10,7 @@
 ]]--
 local UnityEngine = require("UnityEngine")
 
+local ownSelf
 local fakeButton
 local textOut
 local textOutCompo
@@ -68,10 +69,13 @@ local nhieList = {
     'Graduated on college',
 }
 local selectNhie = 'halo'
+local selectNum = 0
 local delaysButtonIn = 5
 local delayRemains = 5
 local isDelaying = false
 local luaDisabledWarn
+local refreshRate = .1
+local refreshRemains = .1
 
 function Regenerate()
     selectNhie = nhieList[math.random(#nhieList)]
@@ -102,6 +106,7 @@ end
 
 -- Start is called before the first frame update
 function Start()
+    ownSelf = BoundObjects.OwnSelf
     fakeButton = BoundObjects.GenerateFakeButton
     luaDisabledWarn = BoundObjects.LuaDisabledWarning
     textOut = BoundObjects.zaza
@@ -131,6 +136,11 @@ end
 
 -- Update is called once per frame
 function Update()
+    refreshRemains = refreshRemains - UnityEngine.Time.deltaTime
+    if refreshRemains <= 0 then
+        refreshRemains = refreshRate
+    end
+
     if isDelaying then
         delayRemains = delayRemains - UnityEngine.Time.deltaTime
         if delayRemains <= 0 then

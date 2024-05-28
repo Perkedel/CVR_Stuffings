@@ -1,0 +1,546 @@
+(Downloaded from https://pastebin.com/Kf8LxzE9 as in discussion from https://discord.com/channels/410126604237406209/1240763673346183279/1244727826641584128)
+
+This is a guide for metatables, metamethods, and what they do in Lua.
+Metatables allow you to change the behavior of tables.
+Metamethods are the functions that control the behaviors.
+
+You need 2 tables to create a metatable.
+The main table is the parent that is publicly exposed to the user.
+The second table is the metatable that will contain your metamethods.
+
+You set a metatable by calling the setmetatable function.
+
+    Usage: tab = setmetatable(parent, metatable)
+
+To get the contents of a metatable you call getmetatable().
+
+    Usage: getmetatable(table)
+
+Most metamethods are functions, and the first argument to the functions is
+always the parent table.
+Not all metamethods are available in every version of Lua. The ones I know of
+will be noted in the "Known Lua Versions" sections below each metamethod.
+I don't fully understand how to use every metamethod. The ones I don't
+understand will be noted below each metamethod.
+I did my best to explain and demonstrate how everything works. Let me know if I
+need to clarify anything.
+
+
+
++--------------------------------------+
+| Table of Contents                    |
++-----+--------------------------------+
+|  46 | Known Lua Versions             |
++-----+-----------+--------------------+
+|  55 | Operators | Calculation        |
+| 152 | Operators | Bitwise            |
+| 236 | Operators | Comparison         |
+| 308 | Operators | Misc.              |
+| 346 | Behavior  | Indexing           |
+| 415 | Behavior  | Calling            |
+| 445 | Behavior  | Iteration          |
+| 518 | Behavior  | Garbage Collection |
++-----+-----------+--------------------+
+
+
+
++--------------------+
+| Known Lua Versions |
++--------------------+
+Lua 5.4
+ComputerCraft - Lua 5.0, 5.2, 5.3
+ChilloutVR - Lua 5.2
+
+
+
++-----------+-------------+
+| Operators | Calculation |
++-----------+-------------+
+
+
+
+__unm = <function>
+--------------------------------------------------------------------------------
+http://www.lua.org/manual/5.4/manual.html#2.4
+This method runs when negation is performed on the parent table.
+
+    Usage: -tab
+    Function: __unm(self)
+    Return: <any value>
+
+
+
+__add = <function>
+--------------------------------------------------------------------------------
+http://www.lua.org/manual/5.4/manual.html#2.4
+This method runs when addition is performed on the parent table.
+
+    Usage: tab + n
+    Function: __add(self, n)
+    Return: <any value>
+
+
+
+__sub = <function>
+--------------------------------------------------------------------------------
+http://www.lua.org/manual/5.4/manual.html#2.4
+This method runs when subtraction is performed on the parent table.
+
+    Usage: tab - n
+    Function: __sub(self, n)
+    Return: <any value>
+
+
+
+__mul = <function>
+--------------------------------------------------------------------------------
+http://www.lua.org/manual/5.4/manual.html#2.4
+This method runs when multiplication is performed on the parent.
+
+    Usage: tab * n
+    Function: __mul(self, n)
+    Return: <any value>
+
+
+
+__div = <function>
+--------------------------------------------------------------------------------
+http://www.lua.org/manual/5.4/manual.html#2.4
+This method runs when division is performed on the parent.
+
+    Usage: tab / n
+    Function: __div(self, n)
+    Return: <any value>
+
+
+
+__mod = <function>
+--------------------------------------------------------------------------------
+http://www.lua.org/manual/5.4/manual.html#2.4
+This method runs when modulus is performed on the parent.
+
+    Usage: tab % n
+    Function: __mod(self, n)
+    Return: <any value>
+
+
+
+__idiv = <function>
+--------------------------------------------------------------------------------
+http://www.lua.org/manual/5.4/manual.html#2.4
+This method runs when floor division is performed on the parent.
+
+    Usage: tab // n
+    Function: __idiv(self, n)
+    Return: <any value>
+
+Floor division is equal to math.floor(num1 / num2).
+(Currently not present in ComputerCraft.)
+
+
+
+__pow = <function>
+--------------------------------------------------------------------------------
+http://www.lua.org/manual/5.4/manual.html#2.4
+This method runs when power is performed on the parent.
+
+    Usage: tab ^ n
+    Function: __pow(self, n)
+    Return: <any value>
+
+
+
++-----------+---------+
+| Operators | Bitwise |
++-----------+---------+
+
+
+
+__band = <function>
+--------------------------------------------------------------------------------
+http://www.lua.org/manual/5.4/manual.html#2.4
+This method runs when bitwise AND is performed on the parent.
+
+    Usage: tab & n
+    Function: __band(self, n)
+    Return: <any value>
+
+(Currently not present in ComputerCraft and Lua 5.2 or lower.)
+
+
+
+__bor = <function>
+--------------------------------------------------------------------------------
+http://www.lua.org/manual/5.4/manual.html#2.4
+This method runs when bitwise OR is performed on the parent.
+
+    Usage: tab | n
+    Function: __bor(self, n)
+    Return: <any value>
+
+(Currently not present in ComputerCraft and Lua 5.2 or lower.)
+
+
+
+__bxor = <function>
+--------------------------------------------------------------------------------
+http://www.lua.org/manual/5.4/manual.html#2.4
+This method runs when bitwise XOR is performed on the parent.
+
+    Usage: tab ~ n
+    Function: __bxor(self, n)
+    Return: <any value>
+
+(Currently not present in ComputerCraft and Lua 5.2 or lower.)
+
+
+
+__bnot = <function>
+--------------------------------------------------------------------------------
+http://www.lua.org/manual/5.4/manual.html#2.4
+This method runs when bitwise NOT is performed on the parent.
+
+    Usage: ~tab
+    Function: __bnot(self)
+    Return: <any value>
+
+(Currently not present in ComputerCraft and Lua 5.2 or lower.)
+
+
+
+__shl = <function>
+--------------------------------------------------------------------------------
+http://www.lua.org/manual/5.4/manual.html#2.4
+This method runs when bitwise left shift is performed on the parent.
+
+    Usage: tab << n
+    Function: __shl(self, n)
+    Return: <any value>
+
+(Currently not present in ComputerCraft and Lua 5.2 or lower.)
+
+
+
+__shr = <function>
+--------------------------------------------------------------------------------
+http://www.lua.org/manual/5.4/manual.html#2.4
+This method runs when bitwise right shift is performed on the parent.
+
+    Usage: tab >> n
+    Function: __shr(self, n)
+    Return: <any value>
+
+(Currently not present in ComputerCraft and Lua 5.2 or lower.)
+
+
+
++-----------+------------+
+| Operators | Comparison |
++-----------+------------+
+
+
+
+__eq = <function>
+--------------------------------------------------------------------------------
+http://www.lua.org/manual/5.4/manual.html#2.4
+This method runs when equality is performed on the parent and another table
+with the same metatable.
+
+    Usage: tab == tab2
+    Function: __eq(self, tab2)
+    Return: <boolean>
+
+Don't use 'self ==' in the function. It will cause a stack overflow because it
+calls the comparison operator on itself, which calls __eq() again, which calls
+the comparison again, which calls the function again, etc. This also wouldn't
+return anything useful for this metamethod anyway.
+Instead use '==' on a property of self.
+
+
+
+__lt = <function>
+--------------------------------------------------------------------------------
+http://www.lua.org/manual/5.4/manual.html#2.4
+This method runs when "less than" or "greater than" is performed on the parent
+and another table with the same metatable.
+
+    Usage: tab < tab2 or tab > tab2
+    Function: __lt(self, tab2)
+    Return: <boolean>
+
+If greater than is used, the two tables are automatically swapped, so
+    tab > tab2
+automatically becomes
+    tab2 < tab
+which is why both tables need to be using the same metatable.
+
+Don't use 'self <' or 'self >' in the function. It will cause a stack overflow
+because it calls the comparison operator on itself, which calls __lt() again,
+which calls the comparison again, which calls the function again, etc.
+This also wouldn't return anything useful for this metamethod anyway.
+Instead use '<' or '>' on a property of self.
+
+
+
+__le = <function>
+--------------------------------------------------------------------------------
+http://www.lua.org/manual/5.4/manual.html#2.4
+This method runs when "less than or equal" or "greater than or equal" is
+performed on the parent and another table with the same metatable.
+
+    Usage: tab <= tab2 or tab >= tab2
+    Function: __le(self, tab2)
+    Return: <boolean>
+
+If greater than or equal is used, the two tables are automatically swapped, so
+    tab >= tab2
+automatically becomes
+    tab2 <= tab
+which is why both tables need to be using the same metatable.
+
+Don't use 'self <=' or 'self >=' in the function. It will cause a stack overflow
+because it calls the comparison operator on itself, which calls __le() again,
+which calls the comparison again, which calls the function again, etc.
+This also wouldn't return anything useful for this metamethod anyway.
+Instead use '<=' or '>=' on a property of self.
+
+
+
++-----------+-------+
+| Operators | Misc. |
++-----------+-------+
+
+
+
+__concat = <function>
+--------------------------------------------------------------------------------
+http://www.lua.org/manual/5.4/manual.html#2.4
+This method runs when concatenation is performed on the parent.
+
+    Usage: tab .. s
+    Function: __concat(self, s)
+    Return: <any value>
+
+
+
+__len = <function>
+-------------------------------------------------------------------------------
+http://www.lua.org/manual/5.4/manual.html#2.4
+This method runs when getting the length/size of the table.
+
+    Usage: #tab
+    Function: __len(self)
+    Return: <any value>
+
+Don't use #self in the function. It will cause a stack overflow because it calls
+the length of itself, which runs __len() again, which gets the length of itself
+again, which calls the function again, etc.
+Instead, create the table and metatable as seperate variables, then use __len to
+return the length of the parent, then use setmetatable() to put them
+together.
+Alternatively, you can get the length of a property of the parent table, a
+property of the metatable, or return a completely different value.
+This metamethod can only return a single value.
+
+
+
++----------+----------+
+| Behavior | Indexing |
++----------+----------+
+
+
+__index = <any value>
+--------------------------------------------------------------------------------
+http://www.lua.org/manual/5.4/manual.html#2.4
+You can set this to any data type.
+The most useful way to use this is to set it as a table. For example:
+
+    tab = {a = 1}
+    meta = {__index = {b = 2}}
+    tab = setmetatable(tab, meta)
+
+tab.a is completely exposed, it can be read and overwritten by the user.
+If you call tab.b it will return the 2 that's in the metatable.
+This value is read only. If you try to overwrite b by doing:
+
+    tab.b = 3
+
+it will simply create 'b = 3' in the public table.
+The 'b' in the metatable will still be there, but you will not be able to read
+it with 'tab.b' anymore.
+To get full access to the contents of __index you have to use:
+
+    getmetatable(tab).__index
+
+This exposes the metatable just like its public members.
+
+
+
+__metatable = <any value>
+--------------------------------------------------------------------------------
+http://www.lua.org/manual/5.4/manual.html#pdf-getmetatable
+Use this metamethod to hide your metatable behind a facade.
+getmetatable(tab) will return __metatable instead of the real metatable, making
+the real one completely immutable.
+The real metatable becomes protected, and cannot be changed with setmetatable().
+__metatable is completely inaccessible without the use of getmetatable().
+
+This metamethod can be of any type.
+The metamethod itself is completely immutable, however, if you set this to
+a table, you can manipulate the table by adding and changing elements.
+Setting this to nil would be the same as not setting it at all.
+
+
+
+__newindex = <function>
+--------------------------------------------------------------------------------
+http://www.lua.org/manual/5.4/manual.html#2.4
+This method runs when elements in the parent are being added with 'table.insert'
+or with the assignment operator. It also runs when elements are being removed
+with 'table.remove'.
+One example of how to use this metamethod is to prevent new elements from being
+added to the parent table, like so:
+
+    __newindex = function(self, key, value)
+        error("attempted to update a protected object", 2)
+    end
+
+'self' is the parent table, 'key' is the key or index in the parent, 'value' is
+the value being assigned to the key or index. If you set this to an empty
+function, it will do absolutely nothing, including changing the table.
+This function does not prevent existing elements from being changed, including
+setting elements to 'nil' which removes them from the table.
+
+
+
++----------+---------+
+| Behavior | Calling |
++----------+---------+
+
+
+
+__call = <function>
+--------------------------------------------------------------------------------
+http://www.lua.org/manual/5.4/manual.html#2.4
+This method runs when a function call is performed on the parent.
+
+    Usage: tab(...)
+    Function: __call(self, ...)
+    Return: <any value>
+
+
+
+__tostring = <function>
+--------------------------------------------------------------------------------
+This method runs when printing/writing the parent.
+
+    Usage: print(tab)
+    Function: __tostring()
+    Return: <any value>
+
+When returning values, it only really works with strings, numbers, booleans and
+nil, and even then, strings are the only real use case.
+
+
+
++----------+-----------+
+| Behavior | Iteration |
++----------+-----------+
+
+
+
+__name = <string>
+--------------------------------------------------------------------------------
+http://www.lua.org/manual/5.4/manual.html#luaL_newmetatable
+Sets the name of the parent in Lua's registry.
+(I need help finding examples of how to use this metamethod.)
+
+
+
+__pairs = <function>
+--------------------------------------------------------------------------------
+http://www.lua.org/manual/5.4/manual.html#pdf-pairs
+This metamethod is used for iterating over a table of any type of keys.
+
+    Usage: for i, v in pairs(tab) do ... end
+    Function: __pairs = function(self) return next, self, nil end
+
+The return values of this function are only used by the 'pairs' function and are
+never passed to the user except through the iterators and values of the for
+loop.
+The third value, 'nil' represents the key that the 'next' function starts
+with, which returns the key/value pair in the table. While it technically isn't
+necessary to write 'nil' here, it's kept to show the significance of the third
+value as you might want to start with an element other than the very first one.
+If you have elements in both the parent table and the '__index' table, you can
+iterate over both by doing something like this:
+
+    __pairs = function(self)
+        local meta = getmetatable(self).__index
+        local allkeys = {}
+
+        for _, t in pairs({self, meta})
+            for k, v in next, t do
+                allkeys[k] = v
+            end
+        end
+
+        return next, allkeys
+    end
+
+The 'next' function in the second for loop does basically the same thing as the
+'pairs' function. We use it in this context because the 'pairs' function would
+cause a stack overflow error, due to the fact that 'pairs' runs this metamethod
+every time it's used on the parent, whereas 'next' doesn't.
+
+
+
+__ipairs = <function>
+--------------------------------------------------------------------------------
+http://www.lua.org/manual/5.4/manual.html#pdf-ipairs
+This metamethod is used for iterating over a table of indicies.
+
+    Usage: for i, v in ipairs(tab) do ... end
+    Function: __ipairs = function(self)
+        local function iter(tbl, i)
+            i = i + 1
+            local v = tbl[i]
+            if v ~= nil then return i, v end
+        end
+        return iter, self, 0
+    end
+
+This does the same thing as '__pairs', except it's for iterating over indecies
+in numerical order instead of all elements in an arbitrary order.
+(Doesn't work or is removed in Lua 5.3+ or ComputerCraft? Need confirmation.)
+
+
+
++----------+--------------------+
+| Behavior | Garbage Collection |
++----------+--------------------+
+
+
+
+__close
+--------------------------------------------------------------------------------
+http://www.lua.org/manual/5.4/manual.html#3.3.8
+This method marks a value to be released from memory as soon as it goes out of
+scope.
+(I need help finding examples of how to use this metamethod.)
+
+
+
+__gc
+--------------------------------------------------------------------------------
+http://www.lua.org/manual/5.4/manual.html#2.5.3
+This method marks a value to be collected by the garbage collector.
+(I need help finding examples of how to use this metamethod.)
+
+
+
+__mode = "k" or "v" or "kv"
+--------------------------------------------------------------------------------
+http://www.lua.org/manual/5.4/manual.html#2.5.4
+This method makes the table a "weak" table which means marking keys, values or
+both for garbage collection.

@@ -645,6 +645,8 @@ GameObject:
   - component: {fileID: 144212127805233890}
   - component: {fileID: 4953290340566104613}
   - component: {fileID: 4980243811054788348}
+  - component: {fileID: 4327080599719326571}
+  - component: {fileID: 6219260241926149192}
   m_Layer: 0
   m_Name: NHIEGenerator
   m_TagString: Untagged
@@ -711,6 +713,8 @@ MonoBehaviour:
     boundThing: {fileID: 3820129603953507233}
   - name: LuaDisabledWarning
     boundThing: {fileID: 4324722969678232726}
+  - name: OwnSelf
+    boundThing: {fileID: 6137162304381049160}
 --- !u!114 &106908113437696888
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -744,8 +748,20 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   spawnHeight: 1
-  useAdditionalValues: 0
-  syncValues: []
+  useAdditionalValues: 1
+  syncValues:
+  - name: SelectQuote
+    startValue: 0
+    updatedBy: 0
+    updateMethod: 1
+    animator: {fileID: 4327080599719326571}
+    animatorParameterName: SelectQuote
+  - name: IsDelaying
+    startValue: 0
+    updatedBy: 0
+    updateMethod: 1
+    animator: {fileID: 4327080599719326571}
+    animatorParameterName: IsDelaying
   propPrivacy: 1
   subSyncs: []
   spawnableType: 0
@@ -780,6 +796,72 @@ BoxCollider:
   serializedVersion: 2
   m_Size: {x: 0.51, y: 0.05, z: 0.51}
   m_Center: {x: 0, y: 0, z: 0}
+--- !u!95 &4327080599719326571
+Animator:
+  serializedVersion: 5
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6137162304381049160}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 5ff736c5abf48a24b9342d15841a3961, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_StabilizeFeet: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorStateOnDisable: 0
+  m_WriteDefaultValuesOnDisable: 0
+--- !u!114 &6219260241926149192
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6137162304381049160}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a45fb99111d54dba84a8ff33016b93fd, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  tooltip: 
+  actions:
+  - delay: 0
+    operations: []
+    actionType: 3
+    execType: 1
+    layerMask:
+      serializedVersion: 2
+      m_Bits: 0
+    floatVal: 10
+    floatVal2: 0
+    floatVal3: 0
+    boolVal: 0
+    boolVal2: 0
+    varBufferVal: {fileID: 0}
+    varBufferVal2: {fileID: 0}
+    stringVal: 
+    allowedPointer: []
+    allowedPointerCollapse: 0
+    allowedTypes: []
+    allowedTypesCollapse: 0
+    specificParticleSystems: []
+    specificParticleSystemsCollapse: 0
+    interactionFilter: 0
+    interactionInput: 48
+    interactionInputModifier: 0
+    guid: 
+  onEnterSeat:
+    m_PersistentCalls:
+      m_Calls: []
+  onExitSeat:
+    m_PersistentCalls:
+      m_Calls: []
 --- !u!1 &6137162304978503790
 GameObject:
   m_ObjectHideFlags: 0

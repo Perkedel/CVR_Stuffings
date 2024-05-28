@@ -229,6 +229,7 @@ GameObject:
   - component: {fileID: 2593186904241057723}
   - component: {fileID: 1310377827391953519}
   - component: {fileID: 4976762283609963576}
+  - component: {fileID: 2789124568743652989}
   - component: {fileID: 3677132415523780663}
   - component: {fileID: 8905448938209665238}
   m_Layer: 0
@@ -346,6 +347,8 @@ MonoBehaviour:
     boundThing: {fileID: 8300000, guid: ae6cf6cc2d6be51419c5616bb0a3c21d, type: 3}
   - name: PlayBeingSteppedOn
     boundThing: {fileID: 8300000, guid: ae6cf6cc2d6be51419c5616bb0a3c21d, type: 3}
+  - name: OwnSelf
+    boundThing: {fileID: 2593186904241057722}
 --- !u!114 &1310377827391953519
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -379,12 +382,39 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   spawnHeight: 0.74
-  useAdditionalValues: 0
-  syncValues: []
+  useAdditionalValues: 1
+  syncValues:
+  - name: randIntTest
+    startValue: 43453244
+    updatedBy: 0
+    updateMethod: 1
+    animator: {fileID: 2789124568743652989}
+    animatorParameterName: randIntTest
   propPrivacy: 1
   subSyncs: []
   spawnableType: 0
   preGeneratedInstanceId: 
+--- !u!95 &2789124568743652989
+Animator:
+  serializedVersion: 5
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2593186904241057722}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 48560aca883438547aba5a29d7fd2f40, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_StabilizeFeet: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorStateOnDisable: 0
+  m_WriteDefaultValuesOnDisable: 0
 --- !u!114 &3677132415523780663
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -451,6 +481,27 @@ MonoBehaviour:
               m_StringArgument: IdkWhat
               m_BoolArgument: 0
             m_CallState: 2
+    - type: 19
+      targets:
+      - {fileID: 2593186904241057722}
+      floatVal: 0
+      stringVal: randIntTest
+      stringVal2: 
+      stringVal3: 
+      stringVal4: 
+      boolVal: 0
+      boolVal2: 0
+      gameObjectVal: {fileID: 0}
+      floatVal2: 10000
+      floatVal3: 0
+      floatVal4: 0
+      varBufferVal: {fileID: 0}
+      varBufferVal2: {fileID: 0}
+      varBufferVal3: {fileID: 0}
+      animationVal: {fileID: 0}
+      customEvent:
+        m_PersistentCalls:
+          m_Calls: []
     actionType: 3
     execType: 1
     layerMask:

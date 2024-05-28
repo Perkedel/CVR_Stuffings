@@ -4,6 +4,8 @@
     https://github.com/NotAKidOnSteam/NAK_CVR_Prefabs/blob/main/LuaExamples/CubeFactory/Script/CubeFactory.lua
     https://discord.com/channels/410126604237406209/1240763673346183279/1241233382487228478 to get component according to DDAkebono: `GetComponent("[full class name]")` like `gameObject.GetComponent("UnityEngine.RigidBody")`
     https://github.com/NotAKidOnSteam/NAK_CVR_Prefabs/blob/c7d1ce6c5925f2375e7b37f29c4d86be521f8b57/LuaExamples/PlayerWall/PlayerWall.lua#L34
+    https://forum.unity.com/threads/get-parameter-from-the-animator.202938/
+    https://docs.unity3d.com/ScriptReference/Animator.GetInteger.html
     I got sample snippet from LensError
     ```
     PlrCount.GetComponent("UnityEngine.UI.Text").text = "Player Count:".. playerCount
@@ -54,6 +56,7 @@ TM = UnityEngine.TextMesh
 
 local DEBUG_MODE = false
 
+local ownSelf
 local isSpun = false
 local spounThingy
 local yikYukThingy
@@ -61,6 +64,7 @@ local tmpThingy
 local tmpTextItself
 local tmThingy
 local tmTextItself
+local animCompo
 local aSpeaker
 local aSpeakerCompo
 local aAudioStream
@@ -111,6 +115,9 @@ local quotes = {
 local selectQuote = 'haha hihi'
 local quoteMovesIn = 10
 local quoteTimeRemaining = 10
+local randomIntSay = '999999999999'
+local refreshRate = .1
+local refreshRemains = .1
 
 function DebugPrint(message)
     if DEBUG_MODE then
@@ -142,12 +149,13 @@ function OnCollisionEnter(collision)
 end
 
 function UpdateInstallSay()
-    installSay = title .. "\n" .. selectQuote .. "\n" .. "World: " .. InstancesAPI.InstanceName .. "(" .. InstancesAPI.InstancePrivacy .. ")\n" .. "Rules: " .. ruleSays .. "\n" .. "Connection: " .. areWeOnline .. " (" .. InstancesAPI.Ping .. " ms)\n" .. sayWelcomeHome .. "\n" .. "Players (" .. playerCount .. "):\n" .. sayPlayersFuzzy
+    installSay = title .. "\n" .. selectQuote .. "\n" .. "World: " .. InstancesAPI.InstanceName .. "(" .. InstancesAPI.InstancePrivacy .. ")\n" .. "Rules: " .. ruleSays .. "\n" .. "Connection: " .. areWeOnline .. " (" .. InstancesAPI.Ping .. " ms)\n" .. sayWelcomeHome .. "\n" .. "Players (" .. playerCount .. "):\n" .. sayPlayersFuzzy .. "\n\nRandom Int Test: " .. randomIntSay
 end
 
 -- Start is called before the first frame update
 function Start()
     print "Hello world!"
+    ownSelf = BoundObjects.OwnSelf
     spounThingy = BoundObjects.Spoun
     yikYukThingy = BoundObjects.IyakYikYuk
     tmpThingy = BoundObjects.Titler
@@ -157,6 +165,14 @@ function Start()
     aSpeaker = BoundObjects.Speaker
     aAudioStream = BoundObjects.PlayThisAudio
     aSteppedOnStream = BoundObjects.PlayBeingSteppedOn
+
+    if ownSelf then
+        print('obtain self')
+        animCompo = ownSelf.GetComponent("UnityEngine.Animator")
+    else
+        print('forgor assign this self')
+    end
+
     if not tmThingy then
         print('WERROR! tmThingy not bounded!!!')
     else
@@ -271,4 +287,8 @@ function Update()
     -- spounThingy.transform.Rotate(0,angle,0)
     spounThingy.transform.localRotation = UnityEngine.Quaternion.Euler(UnityEngine.NewVector3(0,angle,0))
     yikYukThingy.transform.localPosition = UnityEngine.NewVector3(.75,toMoveAt,0)
+
+    if animCompo then
+        randomIntSay = tostring(animCompo.GetInteger('randIntTest'))
+    end
 end
