@@ -8056,3 +8056,5 @@ https://youtu.be/qzhuWRQWK5I?si=PygoI274O32LWD5a
 - https://discord.com/channels/410126604237406209/682645682968199168/1245229039019626538
 - https://discord.com/channels/410126604237406209/682645682968199168/1245218237453570129
 - https://skfb.ly/oPGKQ straw bag used in Keiannai corn bag toss
+- present cvr?
+- https://docs.unity3d.com/ScriptReference/Time-time.html

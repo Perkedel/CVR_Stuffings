@@ -16,8 +16,9 @@
     Assets: CC4.0-BY-SA
 ]]--
 local UnityEngine = require("UnityEngine")
--- CCK = require("ABI.CCK")
-local UI = require("UnityEngine.UI")
+local CCK = require("ABI.CCK")
+local CVRSpawnwable = require("ABI.CCK.Components.CVRSpawnable")
+local UI = require("UnityEngine.UI") -- you must have this?
 
 local ownSelf = BoundObjects.OwnSelf
 local animCompo
@@ -136,7 +137,8 @@ function Regenerate()
     -- unworking!!!?????!!!!????!!!!????
     -- if spawnableCompo then
     --     -- spawnableCompo.SetValue('SelectQuote',selectNum)
-    --     spawnableCompo:SetValue(0,selectNum)
+    --     -- spawnableCompo:SetValue(0,selectNum)
+    --     spawnableCompo.SetValue(0,selectNum)
     -- end
     selectNhie = nhieList[selectNum]
     -- if textOutCompo then
@@ -157,7 +159,8 @@ function Regenerate()
     end
     -- if spawnableCompo then
     --     -- spawnableCompo.SetValue('IsDelaying',1)
-    --     spawnableCompo:SetValue(1,1.0)
+    --     -- spawnableCompo:SetValue(1,1.0)
+    --     spawnableCompo.SetValue(1,1.0)
     -- end
     isDelaying = true
     RefreshDisplay()
@@ -175,11 +178,15 @@ function RefreshDisplay()
         selectNum = animCompo.GetInteger('SelectQuote')
         selectNhie = nhieList[selectNum]
     end
+    -- WHYN'T GET VALUE WORK??!??!
+    -- `cannot access field GetValue of userdata<ABI.Scripting.CVRSTL.Common.CVR.CCK._LUAINSTANCE_ScriptedCVRSpawnable>`
     -- if spawnableCompo then
     --     -- isDelaying = NumBool(spawnableCompo.GetValue('IsDelaying'))
-    --     isDelaying = NumBool(spawnableCompo:GetValue(1))
+    --     -- isDelaying = NumBool(spawnableCompo:GetValue(1))
+    --     isDelaying = NumBool(spawnableCompo.GetValue(1))
     --     -- selectNum = spawnableCompo.GetValue('SelectQuote')
-    --     selectNum = spawnableCompo:GetValue(0)
+    --     -- selectNum = spawnableCompo:GetValue(0)
+    --     selectNum = spawnableCompo.GetValue(0)
     --     selectNhie = nhieList[selectNum]
     -- end
     
@@ -192,7 +199,11 @@ function RefreshDisplay()
         -- textOut.GameObject:GetComponent("UnityEngine.UI.Text").text = selectNhie
     end
     if textOutCompo then
-        textOutCompo.text = selectNhie
+        if selectNum > 0 then
+            textOutCompo.text = selectNhie
+        else
+            textOutCompo.text = 'Click this prop to begin'
+        end
     end
     -- local bugText = BoundObjects.Zaza.GetComponent('UnityEngine.UI.Text')
     -- if bugText then
@@ -206,6 +217,9 @@ function Start()
     -- textOut = BoundObjects.TitlerOld
     -- fakeButton = BoundObjects.GenerateFakeButton
     -- luaDisabledWarn = BoundObjects.LuaDisabledWarning
+
+    -- firstly, init random seed! Documentation Funny Cube example!
+    math.randomseed(UnityEngine.Time.time)
 
     if ownSelf then
         print('obtain self')
@@ -252,9 +266,9 @@ function Start()
         luaDisabledWarn.SetActive(false)
     end
 
-    -- if textOutCompo then
-    --     textOutCompo.text = 'Click this prop to begin'
-    -- end
+    if textOutCompo then
+        textOutCompo.text = 'Click this prop to begin'
+    end
 end
 
 -- Update is called once per frame
@@ -265,11 +279,14 @@ function Update()
         delayRemains = delayRemains - UnityEngine.Time.deltaTime
         if delayRemains <= 0 then
             delayRemains = delaysButtonIn
-            -- animCompo.SetBool('IsDelaying',false)
-            if spawnableCompo then
-                -- spawnableCompo.SetValue('IsDelaying',0)
-                spawnableCompo:SetValue(1,0.0)
+            if animCompo then
+                animCompo.SetBool('IsDelaying',false)
             end
+            -- if spawnableCompo then
+            --     -- spawnableCompo.SetValue('IsDelaying',0)
+            --     -- spawnableCompo:SetValue(1,0.0)
+            --     spawnableCompo.SetValue(1,0.0)
+            -- end
             isDelaying = false
         end
     else
