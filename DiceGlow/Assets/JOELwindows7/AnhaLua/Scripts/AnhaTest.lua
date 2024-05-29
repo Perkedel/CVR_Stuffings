@@ -154,6 +154,10 @@ end
 
 -- Start is called before the first frame update
 function Start()
+    -- firstly, init random seed! Documentation Funny Cube example!
+    math.randomseed(UnityEngine.Time.time)
+
+
     print "Hello world!"
     ownSelf = BoundObjects.OwnSelf
     spounThingy = BoundObjects.Spoun
