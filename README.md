@@ -537,6 +537,8 @@ Here are the UUIDs of all these assets we uploaded to CVR:
 | `d2498a2c-dad3-4fa0-8761-3f6712f28e6f` | The Power of the Sun | JOELwindows7 | In the palm of my hand |
 | `07799d34-1333-4d9e-ab99-557faa694e47` | The Absolver | JOELwindows7 | In the palm of my hand |
 | `34243d71-25b5-4c65-9119-29a206918835` | Portable YuTub | JOELwindows7 | Portable Video player     |
+| `65dffce0-7866-47a6-9a34-b8033498d9ca` | Lampu Senter | JOELwindows7 | Lua Flashlight |
+| `442c4abe-3ae3-4cce-a7ec-2294751ceca9` | Pointer Blinker | JOELwindows7 | Lua index finger pointer blink rapidly |
 | `7ad7e4d5-89e1-4ddf-82e6-e5587e18c3cc` | VoyVivika Portable Tutorial Prop Edit Bahasa Indonesia | JOELwindows7 | VoyVivika Tutorial Prefab edited to add Bahasa Indonesia |
 | `140ca808-7a9a-49c3-9296-3f49127f04ea` | Sex Dice Tutorial card | JOELwindows7 | **NSFW** How to DIY Lewd dice. |
 | `cae8af07-97be-4595-a5a8-1114caf6eec5` | Soklong Clock | JOELwindows7 | **Experimental** Aesthetically minimalist clock |
