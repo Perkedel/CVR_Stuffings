@@ -8047,3 +8047,12 @@ https://youtu.be/qzhuWRQWK5I?si=PygoI274O32LWD5a
 - https://wiki.netio-products.com/index.php?title=Function_toboolean()
 - https://www.lua.org/pil/2.2.html
 - https://discord.com/channels/410126604237406209/1237590087781584958/1245059890037264475
+- https://youtu.be/1iUDcT5coNU
+- https://discord.com/channels/410126604237406209/682645682968199168/1244411041547423745
+- https://youtu.be/4YbKcbWeVHc?si=WyWqXigwpddmGqIO
+- https://discord.com/channels/410126604237406209/682645682968199168/1244692614381305856
+- https://discord.com/channels/410126604237406209/682645682968199168/1244751950029787207
+- https://discord.com/channels/410126604237406209/1240763673346183279/1245069858874458173
+- https://discord.com/channels/410126604237406209/682645682968199168/1245229039019626538
+- https://discord.com/channels/410126604237406209/682645682968199168/1245218237453570129
+- https://skfb.ly/oPGKQ straw bag used in Keiannai corn bag toss

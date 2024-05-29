@@ -6,12 +6,18 @@
     Sauce:
     - https://discord.com/channels/410126604237406209/1240763673346183279/1245066584066752625 thancc Shin for get spawnable value instead
 
+    Sync Value Index:
+    0. Select Quote
+    1. Is delaying
+
     by JOELwindows7
     Perkedel Technologies
     Code: GNU GPL v3
     Assets: CC4.0-BY-SA
 ]]--
 local UnityEngine = require("UnityEngine")
+-- CCK = require("ABI.CCK")
+-- UI = require("UnityEngine.UI")
 
 local ownSelf = BoundObjects.OwnSelf
 local animCompo
@@ -90,11 +96,13 @@ end
 function Regenerate()
     selectNum = math.random(#nhieList)
     if animCompo then
-        -- animCompo.SetInteger('SelectQuote',selectNum)
+        animCompo.SetInteger('SelectQuote',selectNum)
     end
-    if spawnableCompo then
-        spawnableCompo.SetValue('SelectQuote',selectNum)
-    end
+    -- unworking!!!?????!!!!????!!!!????
+    -- if spawnableCompo then
+    --     -- spawnableCompo.SetValue('SelectQuote',selectNum)
+    --     spawnableCompo:SetValue(0,selectNum)
+    -- end
     selectNhie = nhieList[selectNum]
     -- if textOutCompo then
     --     textOutCompo.text = selectNhie
@@ -110,11 +118,12 @@ function Regenerate()
     end
     
     if animCompo then
-        -- animCompo.SetBool('IsDelaying',true)
+        animCompo.SetBool('IsDelaying',true)
     end
-    if spawnableCompo then
-        spawnableCompo.SetValue('IsDelaying',1)
-    end
+    -- if spawnableCompo then
+    --     -- spawnableCompo.SetValue('IsDelaying',1)
+    --     spawnableCompo:SetValue(1,1.0)
+    -- end
     isDelaying = true
     RefreshDisplay()
 end
@@ -127,15 +136,17 @@ end
 
 function RefreshDisplay()
     if animCompo then
-        -- isDelaying = animCompo.GetBool('IsDelaying')
-        -- selectNum = animCompo.GetInteger('SelectQuote')
-        -- selectNhie = nhieList[selectNum]
-    end
-    if spawnableCompo then
-        isDelaying = NumBool(spawnableCompo.GetValue('IsDelaying'))
-        selectNum = spawnableCompo.GetValue('SelectQuote')
+        isDelaying = animCompo.GetBool('IsDelaying')
+        selectNum = animCompo.GetInteger('SelectQuote')
         selectNhie = nhieList[selectNum]
     end
+    -- if spawnableCompo then
+    --     -- isDelaying = NumBool(spawnableCompo.GetValue('IsDelaying'))
+    --     isDelaying = NumBool(spawnableCompo:GetValue(1))
+    --     -- selectNum = spawnableCompo.GetValue('SelectQuote')
+    --     selectNum = spawnableCompo:GetValue(0)
+    --     selectNhie = nhieList[selectNum]
+    -- end
     
     if textOut then
         -- HOW COME THE TEXT REFERENCE UNRELIABLE!?!?!?
@@ -163,11 +174,12 @@ function Start()
 
     if ownSelf then
         print('obtain self')
-        animCompo = ownSelf.GetComponent("UnityEngine.Animator")
+        animCompo = ownSelf:GetComponent("UnityEngine.Animator")
         -- textOut = ownSelf.transform.GetChild(0).GetChild(0).GetChild(0).gameObject
-        spawnableCompo = ownSelf.GetComponent("ABI.CCK.Components.CVRSpawnable") 
+        -- spawnableCompo = ownSelf.GetComponent("ABI.CCK.Components.CVRSpawnable")
         -- or from Shin's:
-        -- spawnableCompo = gameObject.GetComponentInParent("ABI.CCK.Components.CVRSpawnable")
+        spawnableCompo = gameObject:GetComponentInParent("ABI.CCK.Components.CVRSpawnable")
+        print(tostring(spawnableCompo))
     else
         print('forgor assign this self')
     end
@@ -179,12 +191,16 @@ function Start()
     -- else
     --     print('Forgor textOut')
     -- end
+    print('get text '..tostring(textOut))
     if not textOut then
         print('Forgor textOut')
     else
-        textOutCompo = textOut:GetComponent('UnityEngine.UI.Text')
+        -- textOutCompo = textOut.gameObject:GetComponent('UnityEngine.UI.text')
         -- textOutCompo = textOut.GetComponent('UnityEngine.UI.Text')
+        textOutCompo = textOut:GetComponent('UnityEngine.UI.Text')
+        -- textOutCompo = textOut
     end
+    
     -- textOutCompo = textOut:GetComponent("UnityEngine.UI.Text")
     -- textOutCompo = BoundObjects.zaza:GetComponent('UnityEngine.UI.Text')
     -- trouble: if it's on a GameObject, it won't work! get it out of it!
@@ -206,7 +222,8 @@ function Update()
             delayRemains = delaysButtonIn
             -- animCompo.SetBool('IsDelaying',false)
             if spawnableCompo then
-                spawnableCompo.SetValue('IsDelaying',0)
+                -- spawnableCompo.SetValue('IsDelaying',0)
+                spawnableCompo:SetValue(1,0.0)
             end
             isDelaying = false
         end
@@ -217,7 +234,7 @@ function Update()
     end
 
     if fakeButton then
-        fakeButton.SetActive(not isDelaying)
+        fakeButton:SetActive(not isDelaying)
     end
 end
 
