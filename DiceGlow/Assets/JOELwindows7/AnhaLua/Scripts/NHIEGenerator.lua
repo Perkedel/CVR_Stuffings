@@ -17,7 +17,7 @@
 ]]--
 local UnityEngine = require("UnityEngine")
 -- CCK = require("ABI.CCK")
--- UI = require("UnityEngine.UI")
+local UI = require("UnityEngine.UI")
 
 local ownSelf = BoundObjects.OwnSelf
 local animCompo
@@ -79,6 +79,41 @@ local nhieList = {
     'played modded Minecraft',
     'Graduated on college',
     'Dropped out of college',
+    'ask to borrow money to someone (family or friend or bank)',
+    'loan stuck for more than 3 months',
+    'tried other OS platform than yours (e.g. Android user tries iOS, or vice versa)',
+    'felt your own left chest pushing from inside (hand feel hearbeat)',
+    'roleplayed manually (not video game RPG)',
+    'yeeted correct impostor in Among Us',
+    'got yeeted and you\'re impostor in Among Us',
+    '100%ed Henry Stickmin Collection',
+    'been the only one who obeyed school homework',
+    'been the only one who disobeyed school homework',
+    'been the only one at certain event',
+    'forgot to turn on stream while you should\'ve',
+    'forgot to turn off stream after finish & reunlock true character with it',
+    'forgot to switch to supposed scene (you are streaming the game but selected scene still on break blind scene instead of your game capture)',
+    'victim of draw UNO for total over 10 cards, while you\'re just being <= 2 left',
+    'fatally drew this one opponent in UNO for 10 cards or more, while they\'re just being <= 2 left',
+    'won UNO in less than 2 turns',
+    'bio-clock flipped from standard (overnight people, did not sleep at night, work at night shift)',
+    'still live with parent(s) / guardian(s), married or not',
+    'live fully alone, not even pets',
+    'own at least 1 Rolls-Royce',
+    'own at least 1 supercar / hypercar',
+    'own at least 1 ancient vehicle',
+    'have best of the best VR kit (e.g. Valve Index)',
+    'have no VR kit',
+    'still on potato PC of this era',
+    'has been on best of the best PC of this era',
+    'own a Fairphone',
+    'own a Framework laptop',
+    'NHIE all move forward once',
+    'NHIE all stays',
+    'NHIE all go backward once',
+    'NHIE all nearest to danger zone go back 2 step',
+    'NHIE all nearest from start zone go forward 3 step',
+    'NHIE all in start zone to 1st middle gray go forward 2 step, all 2nd middle gray to danger zone side go back 2 step',
 }
 local selectNhie = 'halo'
 local selectNum = 0
@@ -195,12 +230,18 @@ function Start()
     if not textOut then
         print('Forgor textOut')
     else
+        -- UNRELIABLE! HOW COME THE TEXT REFERENCE UNRELIABLE!?!?!?
+        -- print('PLS TEXT ' .. tostring(textOut:GetComponent('UnityEngine.UI.Text')))
+        -- print('PLS TEXT ' .. tostring(BoundObjects.TitlerOld:GetComponent('UnityEngine.UI.Text')))
         -- textOutCompo = textOut.gameObject:GetComponent('UnityEngine.UI.text')
         -- textOutCompo = textOut.GetComponent('UnityEngine.UI.Text')
+        -- textOutCompo = textOut.GetComponent('')
+        -- textOutCompo = textOut:GetComponent('UnityEngine.UI.Text')
         textOutCompo = textOut:GetComponent('UnityEngine.UI.Text')
         -- textOutCompo = textOut
+        
     end
-    
+    print('get text '..tostring(textOut))
     -- textOutCompo = textOut:GetComponent("UnityEngine.UI.Text")
     -- textOutCompo = BoundObjects.zaza:GetComponent('UnityEngine.UI.Text')
     -- trouble: if it's on a GameObject, it won't work! get it out of it!
@@ -210,6 +251,10 @@ function Start()
     if luaDisabledWarn then
         luaDisabledWarn.SetActive(false)
     end
+
+    -- if textOutCompo then
+    --     textOutCompo.text = 'Click this prop to begin'
+    -- end
 end
 
 -- Update is called once per frame
