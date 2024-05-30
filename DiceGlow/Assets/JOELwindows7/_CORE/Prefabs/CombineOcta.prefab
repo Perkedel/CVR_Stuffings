@@ -1,5 +1,36 @@
 %YAML 1.1
 %TAG !u! tag:unity3d.com,2011:
+--- !u!1 &528071218432799352
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2938325360523037420}
+  m_Layer: 0
+  m_Name: rwtrhg4rthrthfg
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2938325360523037420
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 528071218432799352}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 7893869884185533267}
+  m_RootOrder: 3
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &2556749282925116696
 GameObject:
   m_ObjectHideFlags: 0
@@ -1160,6 +1191,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 7893869884185533267}
+  - component: {fileID: 58558293642434878}
   m_Layer: 0
   m_Name: CombineOcta
   m_TagString: Untagged
@@ -1182,6 +1214,27 @@ Transform:
   - {fileID: 8055668386893725586}
   - {fileID: 1308105948201291967}
   - {fileID: 1309479953519352944}
+  - {fileID: 2938325360523037420}
   m_Father: {fileID: 0}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &58558293642434878
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 9105129413390379005}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d2671fd98209432cb55b51e323e54140, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  distance3D: 1
+  Groups:
+  - GameObject: {fileID: 4817312967087934749}
+    MinDistance: 0
+    MaxDistance: 500
+  - GameObject: {fileID: 2556749282925116696}
+    MinDistance: 0
+    MaxDistance: 500

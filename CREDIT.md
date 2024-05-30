@@ -8059,3 +8059,19 @@ https://youtu.be/qzhuWRQWK5I?si=PygoI274O32LWD5a
 - present cvr?
 - https://docs.unity3d.com/ScriptReference/Time-time.html
 - pls find model chinese bright cob led flash light & make it here!
+- https://skfb.ly/6QZzC studio greenscreen light. V-TOL prop
+- https://discord.com/channels/410126604237406209/1240763673346183279/1245437419159949422
+- https://discord.com/channels/410126604237406209/1240763673346183279/1245477400289087621
+- 29th may. Garrin & Hordini hbd
+- taw alot
+- https://polygoncherub.gumroad.com/
+- https://polygoncherub.gumroad.com/l/PoNwK **JACKPOT SODA!!!**
+- https://diefrog.booth.pm/
+- https://valkress.booth.pm/
+- https://www.reddit.com/r/Unity3D/comments/13vsv66/3d_slime_monster_creator_for_unity_ive_listened/
+- https://www.shadertoy.com/view/lllBDM
+- https://github.com/smkplus/ShaderMan
+- https://www.twitch.tv/mynttiefresh
+- https://twitch.tv/robinbirdgaming This person is newcomer here in CVR, welcome!
+- https://discord.com/channels/969594520901664779/1034608320843108443/1244956794833600603
+- https://youtu.be/RSBU9MwJNLY
