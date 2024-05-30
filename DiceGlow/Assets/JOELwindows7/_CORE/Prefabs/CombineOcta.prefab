@@ -894,7 +894,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &1309479953519352944
 Transform:
@@ -1191,7 +1191,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 7893869884185533267}
-  - component: {fileID: 58558293642434878}
+  - component: {fileID: 6570098629111753214}
   m_Layer: 0
   m_Name: CombineOcta
   m_TagString: Untagged
@@ -1218,23 +1218,24 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &58558293642434878
-MonoBehaviour:
+--- !u!205 &6570098629111753214
+LODGroup:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 9105129413390379005}
+  serializedVersion: 2
+  m_LocalReferencePoint: {x: 0.82000035, y: 0.5, z: -1.6150458}
+  m_Size: 1.0089577
+  m_FadeMode: 0
+  m_AnimateCrossFading: 0
+  m_LastLODIsBillboard: 0
+  m_LODs:
+  - screenRelativeHeight: 0.03
+    fadeTransitionWidth: 0
+    renderers:
+    - renderer: {fileID: 8104846988466953903}
+    - renderer: {fileID: 6116675617143071668}
+    - renderer: {fileID: 8959786673529354980}
   m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: d2671fd98209432cb55b51e323e54140, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  distance3D: 1
-  Groups:
-  - GameObject: {fileID: 4817312967087934749}
-    MinDistance: 0
-    MaxDistance: 500
-  - GameObject: {fileID: 2556749282925116696}
-    MinDistance: 0
-    MaxDistance: 500

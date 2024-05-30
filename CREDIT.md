@@ -8075,3 +8075,36 @@ https://youtu.be/qzhuWRQWK5I?si=PygoI274O32LWD5a
 - https://twitch.tv/robinbirdgaming This person is newcomer here in CVR, welcome!
 - https://discord.com/channels/969594520901664779/1034608320843108443/1244956794833600603
 - https://youtu.be/RSBU9MwJNLY
+- https://docs.unity3d.com/Manual/DrawCallBatching.html
+- https://docs.unity3d.com/ScriptReference/MaterialPropertyBlock.html
+- https://www.youtube.com/watch?v=8D8A6gabwlU
+- https://docs.unity3d.com/Manual/DrawCallBatching.html
+- https://www.youtube.com/watch?v=8D8A6gabwlU
+- https://assetstore.unity.com/packages/essentials/tutorial-projects/viking-village-urp-29140 Viking Village Unity sample URP
+- https://youtube.com/shorts/JPzzDnxML5w?si=11HkCaNpZyAMLXPj
+- https://youtube.com/shorts/DE_WSF1H-Ks?si=iihFtbDKZbQJFkpC
+- https://youtube.com/shorts/BZ6UJbNCgY0?si=ssPGFmhlylU4AIhG
+- https://youtube.com/shorts/PgfdALThB3A?si=23nhWChlNLXMNP8u
+- https://youtube.com/shorts/S1_ZWeIn_sg?si=wDZSF0EETotbM_LK
+- https://youtube.com/shorts/f2rvI6t8CEM?si=rzVpF85g8AAza8Z6
+- https://youtube.com/shorts/pT0PJDvrJNc?si=kTO_egZZHuMUDCZD
+- https://youtu.be/AVsTVxNHz8I?si=0AOfi9O-e6Ou1LTs
+- https://youtu.be/vU3au56UV_E?si=cwRhRU5x4MHNhJw2
+- https://youtu.be/vU3au56UV_E?si=ATYGCLZzaobvbsHw
+- https://discord.com/channels/410126604237406209/1240763673346183279/1245643447277457408 SDraw Texture2D
+- https://discord.com/channels/410126604237406209/1240763673346183279/1245712333473321004
+- https://discord.com/channels/410126604237406209/1240763673346183279/1245755406106759238
+- https://discord.com/channels/410126604237406209/797279576459968555/1244770036309164082
+- https://discord.com/channels/410126604237406209/588350770777161748/1245105921554907297
+- https://discord.com/channels/410126604237406209/588350770777161748/1245387492807671920
+- https://discord.com/channels/410126604237406209/1004342104383815681/1245434048281837568
+- https://discord.com/channels/410126604237406209/1004342104383815681/1245434328339447898
+- https://discord.com/channels/410126604237406209/588350726841827358/1245374520965992580
+- https://github.com/triazo/immersive_scaler
+- https://discord.com/channels/410126604237406209/682645682968199168/1245331925984481351
+- https://discord.com/channels/410126604237406209/682645682968199168/1245479466650832956
+- https://discord.com/channels/410126604237406209/682645682968199168/1245682061147373580
+- https://discord.com/channels/889254205532024832/889261391050067969/1245315423243862056
+- https://x.com/Maebbie/status/1793031525987909712
+- https://discord.com/channels/489476457647570954/489525741927530496/1242609826098446418
+- https://discord.com/channels/410126604237406209/766087403609391165/1233810782974771362
