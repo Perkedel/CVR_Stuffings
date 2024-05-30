@@ -14,10 +14,22 @@ CCK = require("ABI.CCK")
 local ownSelf = BoundObjects.OwnSelf
 local pointer = BoundObjects.PointerBeBlink
 local animCompo
+-- local blinkMode = false
+
+function OnMouseDown()
+    -- blinkMode = not blinkMode
+    if animCompo then
+        animCompo.SetBool('BlinkMode', not animCompo.GetBool('BlinkMode'))
+    end
+end
 
 function Refresh()
     if animCompo then
-        animCompo.SetBool('Blink',not animCompo.GetBool('Blink'))
+        if animCompo.GetBool('BlinkMode') then
+            animCompo.SetBool('Blink',not animCompo.GetBool('Blink'))
+        else
+            animCompo.SetBool('Blink',true)
+        end
         if pointer then
             pointer:SetActive(animCompo.GetBool('Blink'))
         end
