@@ -53,6 +53,7 @@ UnityUI = require("UnityEngine.UI")
 TMP = require("TextMeshPro")
 TM = UnityEngine.TextMesh
 -- UITextOld = UnityEngine.UI
+AudioSource = require("UnityEngine.AudioSource")
 
 local DEBUG_MODE = false
 
@@ -67,6 +68,8 @@ local tmTextItself
 local animCompo
 local aSpeaker
 local aSpeakerCompo
+local brokSpeaker
+local brokSpeakerCompo
 local aAudioStream
 local aSteppedOnStream
 local angle = 0
@@ -113,6 +116,7 @@ local quotes = {
     '',
 }
 local selectQuote = 'haha hihi'
+local selectQuoteNum = 0
 local quoteMovesIn = 10
 local quoteTimeRemaining = 10
 local randomIntSay = '999999999999'
@@ -135,20 +139,57 @@ end
 
 function OnMouseDown()
     DebugPrint('Click!!!')
-    if aSpeakerCompo then
-        -- https://docs.unity3d.com/ScriptReference/AudioSource.PlayOneShot.html
-        aSpeakerCompo.PlayOneShot(aAudioStream,1)
+
+    -- Play one shot broke in ex2
+    -- if aSpeakerCompo then
+    --     -- https://docs.unity3d.com/ScriptReference/AudioSource.PlayOneShot.html
+    --     aSpeakerCompo.PlayOneShot(aAudioStream,1.0)
+    -- end
+
+    if brokSpeakerCompo then
+        brokSpeakerCompo:Play()
     end
 end
 
 function OnCollisionEnter(collision)
-    if aSpeakerCompo then
-        -- https://docs.unity3d.com/ScriptReference/AudioSource.PlayOneShot.html
-        aSpeakerCompo.PlayOneShot(aSteppedOnStream,1)
+    -- if aSpeakerCompo then
+    --     -- https://docs.unity3d.com/ScriptReference/AudioSource.PlayOneShot.html
+    --     aSpeakerCompo.PlayOneShot(aSteppedOnStream,1.0)
+    -- end
+
+    if brokSpeakerCompo then
+        brokSpeakerCompo:Play()
     end
 end
 
 function UpdateInstallSay()
+    sayPlayersFuzzy = ''
+
+    if InstancesAPI.IsHomeInstance then
+        sayWelcomeHome = "Welcome Home"
+    else
+        sayWelcomeHome = ""
+    end
+
+    -- let us write player list
+    for i = 1, #playersYouHave do
+        local isFriendSay = ''
+        if PlayerAPI.IsFriendsWith(playersYouHave[i].UserID) then
+            isFriendSay = ">>"
+        end
+        sayPlayersFuzzy = sayPlayersFuzzy .. playersYouHave[i].Username .. " " .. isFriendSay .. ", "
+    end
+
+    -- fly check
+    if PlayerAPI.LocalPlayer.IsFlightAllowed then
+        flyAllowed = ""
+    else
+        flyAllowed = "NoFlying"
+    end
+
+    ruleSays = ''
+    ruleSays = ruleSays .. flyAllowed .. ' '
+
     installSay = title .. "\n" .. selectQuote .. "\n" .. "World: " .. InstancesAPI.InstanceName .. "(" .. InstancesAPI.InstancePrivacy .. ")\n" .. "Rules: " .. ruleSays .. "\n" .. "Connection: " .. areWeOnline .. " (" .. InstancesAPI.Ping .. " ms)\n" .. sayWelcomeHome .. "\n" .. "Players (" .. playerCount .. "):\n" .. sayPlayersFuzzy .. "\n\nRandom Int Test: " .. randomIntSay
 end
 
@@ -159,23 +200,30 @@ function Start()
 
 
     print "Hello world!"
-    ownSelf = BoundObjects.OwnSelf
+    -- ownSelf = BoundObjects.OwnSelf
     spounThingy = BoundObjects.Spoun
     yikYukThingy = BoundObjects.IyakYikYuk
     tmpThingy = BoundObjects.Titler
-    -- tmpTextItself = tmpThingy.GetComponent(TMP)
-    -- tmpTextItself = tmpThingy:GetComponent("TextMeshPro.TMP")
+    if tmpThingy then
+        -- tmpTextItself = tmpThingy.GetComponent(TMP)
+        -- tmpTextItself = tmpThingy:GetComponent("TextMeshPro.TMP")
+        tmpTextItself = tmpThingy:GetComponent("TMPro.TMP_Text")
+    end
     tmThingy = BoundObjects.TitlerOld
     aSpeaker = BoundObjects.Speaker
+    brokSpeaker = BoundObjects.SpeakerTemp
     aAudioStream = BoundObjects.PlayThisAudio
     aSteppedOnStream = BoundObjects.PlayBeingSteppedOn
 
-    if ownSelf then
-        print('obtain self')
-        animCompo = ownSelf.GetComponent("UnityEngine.Animator")
-    else
-        print('forgor assign this self')
-    end
+    print('Sounds are: '.. tostring(aAudioStream) .. ' and ' .. tostring(aSteppedOnStream))
+
+    -- if ownSelf then
+    --     print('obtain self')
+    --     animCompo = ownSelf.GetComponent("UnityEngine.Animator")
+    -- else
+    --     print('forgor assign this self')
+    -- end
+    animCompo = gameObject:GetComponentInParent("UnityEngine.Animator")
 
     if not tmThingy then
         print('WERROR! tmThingy not bounded!!!')
@@ -188,6 +236,14 @@ function Start()
 
     if aSpeaker then
         aSpeakerCompo = aSpeaker.GetComponent("UnityEngine.AudioSource")
+        print('Speaker is ' .. tostring(aSpeakerCompo))
+    end
+
+    if brokSpeaker then
+        brokSpeakerCompo = brokSpeaker.GetComponent("UnityEngine.AudioSource")
+        print('temp Speaker is ' .. tostring(brokSpeakerCompo))
+    else
+        print('forgot temp speaker')
     end
 
     -- installSay = title .. "\n" .. "Ping: " .. InstancesAPI.Ping .. "\n" .. sayWelcomeHome .. "\n"
@@ -229,7 +285,6 @@ function Update()
         quoteTimeRemaining = quoteMovesIn
     end
 
-    sayPlayersFuzzy = ''
     playerCount = PlayerAPI.PlayerCount
     playersYouHave = PlayerAPI.AllPlayers
     
@@ -250,26 +305,7 @@ function Update()
         end
     end
 
-    if InstancesAPI.IsHomeInstance then
-        sayWelcomeHome = "Welcome Home"
-    else
-        sayWelcomeHome = ""
-    end
-
-    -- let us write player list
-    for i = 1, #playersYouHave do
-        sayPlayersFuzzy = sayPlayersFuzzy .. playersYouHave[i].Username .. ", "
-    end
-
-    -- fly check
-    if PlayerAPI.LocalPlayer.IsFlightAllowed then
-        flyAllowed = ""
-    else
-        flyAllowed = "NoFlying"
-    end
-
-    ruleSays = ''
-    ruleSays = ruleSays .. flyAllowed .. ' '
+    
 
     UpdateInstallSay()
     -- installSay = 'test'
@@ -284,6 +320,12 @@ function Update()
 
     if tmTextItself then
         tmTextItself.text = installSay
+    else
+        -- print('AH PECK NECK NO TEXT!')
+    end
+
+    if tmpTextItself then
+        tmpTextItself.text = installSay
     else
         -- print('AH PECK NECK NO TEXT!')
     end
