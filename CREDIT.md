@@ -8108,3 +8108,89 @@ https://youtu.be/qzhuWRQWK5I?si=PygoI274O32LWD5a
 - https://x.com/Maebbie/status/1793031525987909712
 - https://discord.com/channels/489476457647570954/489525741927530496/1242609826098446418
 - https://discord.com/channels/410126604237406209/766087403609391165/1233810782974771362
+- https://discord.com/channels/410126604237406209/795882566968279091/1245833772788875294
+- https://discord.com/channels/410126604237406209/795882566968279091/1245836640165957712
+- https://discord.com/channels/410126604237406209/795882566968279091/1245837343190024294
+- https://discord.com/channels/410126604237406209/795882566968279091/1245840516306964563 ![isWornByMe](https://cdn.discordapp.com/attachments/795882566968279091/1245840516449435658/image.png?ex=665a36e5&is=6658e565&hm=68794528b5991e65030f1aaffb957474bab1a42200d8d617baad26975c9e8127&)
+- https://discord.com/channels/410126604237406209/795882566968279091/1245844933215129692
+- https://discord.com/channels/410126604237406209/795882566968279091/1245900308182339677
+- https://discord.com/channels/410126604237406209/795882566968279091/1245891048572457042
+- https://discord.com/channels/410126604237406209/795882566968279091/1245855975077056534 SDraw. Arithmetic today will not work such as `Vector3`
+- https://youtu.be/kOam8gsFYEU?si=23cc42UP_pzED0nx
+- https://discord.com/channels/1001388809184870441/1001388951099150336/1245460981526565096
+- https://youtube.com/shorts/H8NEm9QQu0g?si=yepowo4VbGdKCewm BlenderUstad - easy trick to make cloths in blender. how to clothing
+- https://youtu.be/Y1oJXyd_GmU?si=wSBbJernbZcsInUA
+- https://skfb.ly/onnRz
+- https://skfb.ly/oK9yH
+- https://skfb.ly/oL8uA
+- https://skfb.ly/ourSO
+- https://skfb.ly/oqEPI
+- https://skfb.ly/6z78B
+- https://skfb.ly/owwoC
+- https://x.com/chained_tan
+- a
+- https://www.shadertoy.com/view/ltySRt
+- https://www.shadertoy.com/view/WtBGDz
+- https://github.com/kafeijao/Kafe_CVR_Mods/releases/tag/r70
+- https://discord.com/channels/1001388809184870441/1001388951099150336/1245845313600884796
+- https://youtube.com/shorts/6XDVfRPv6C4?si=ro8jCJD4F-__gLzV
+- https://youtube.com/shorts/NUAKdkutvdQ?si=JY5CtHuhZZF9H5QU
+- https://docs.unity3d.com/2021.3/Documentation/ScriptReference/AudioSource.PlayOneShot.html
+- https://docs.unity3d.com/2021.3/Documentation/Manual/class-AudioSource.html
+- https://docs.unity3d.com/2021.3/Documentation/ScriptReference/AudioSource.html
+- https://discord.com/channels/410126604237406209/1240763673346183279/1245844483837263932
+- https://discord.com/channels/410126604237406209/1240763673346183279/1245900463224651817
+- https://steamcommunity.com/sharedfiles/filedetails/?id=2899246949
+- https://steamcommunity.com/sharedfiles/filedetails/?id=3243808115&searchtext=
+- https://docs.unity3d.com/2021.3/Documentation/ScriptReference/AudioSource.html
+- https://discord.com/channels/410126604237406209/588350770777161748/1245878810952470529 Solacian Allie. AutoLOD?!??!?
+- https://assetstore.unity.com/packages/tools/utilities/autolod-mesh-decimator-185662 **PAID** I don't think it's this one
+- https://github.com/Unity-Technologies/AutoLOD maybe this one?
+- https://blog.unity.com/engine-platform/unity-labs-autolod-experimenting-with-automatic-performance-improvements
+- https://discord.com/channels/410126604237406209/588350726841827358/1245855313693900821
+- https://discord.com/channels/410126604237406209/588350726841827358/1245914268998828122
+- https://feedback.abinteractive.net/p/implement-realistic-hovercraft-controller
+- https://assetstore.unity.com/packages/tools/physics/realistic-hovercraft-controller-44792#description **PAID** hmmm, yess.
+- https://feedback.abinteractive.net/p/2024r176ex1-modern-procedural-ui-kit-is-not-whitelisted-in-props MPUI not whitelistes. Shin
+- The mod MPUI whitelist is available on CVRMG Melon Assistant!
+- Prop: `test prop mpgui` from Shin `1c06cbb3-6aec-4a0b-b8f9-a339eee4a7be`
+- World `Modern Procedural UI Kit Test` from Shin `b62c1eb4-9b0e-4d6b-b854-b13aafd9e2d9`
+- https://docs.abinteractive.net/cck/third-party-assets/#modern-procedural-ui-kit
+- https://assetstore.unity.com/packages/tools/gui/modern-procedural-ui-kit-163041 **PAID**
+- https://github.com/thisotherthing/ui-shapes-kit
+- http://uishapeskit.thisotherthing.co/home/
+- https://www.tutorialspoint.com/lua/lua_operators.htm
+- https://www.lua.org/pil/3.2.html
+- http://lua-users.org/wiki/BitwiseOperators
+- https://www.lua.org/manual/5.4/manual.html#3.4.2
+- https://www.tutorialspoint.com/lua/lua_logical_operators.htm
+- https://www.lua.org/pil/3.3.html
+- https://fixupx.com/Fiddle0131/status/1796592252309196941?t=XQONRKvQ9SNbAi2WA_0_3A&s=19
+- https://discord.com/channels/784990546779045920/1139817163172094033/1246171456681803957
+- https://discord.com/channels/410126604237406209/588350726841827358/1246140656125214720
+- https://github.com/Whinarn/UnityMeshSimplifier/
+- https://github.com/Unity-Technologies/AutoLOD/wiki/Scenelod
+- https://github.com/Unity-Technologies/AutoLOD/wiki
+- https://github.com/Unity-Technologies/AutoLOD/wiki
+- https://youtu.be/EuBeZvzVwrw?si=SCI-jh9TsI8ftQ70
+- https://discord.com/channels/410126604237406209/588350726841827358/1246181103765553242
+- https://cvr.lonewolfawoo.com
+- https://github.com/rrazgriz/RATS thancc MrTactical for info about this!
+- https://github.com/s-m-k/Unity-Animation-Hierarchy-Editor
+- https://silentdreams.gumroad.com
+- https://boovr.gumroad.com
+- https://booth.pm/en/items/4611431
+- https://yamuvr.gumroad.com
+- quit countdown. when press quit, countdown delay to give chance say goodbye, avoid abrupt quit for politeness sake.
+- https://discord.com/channels/762908352493256714/762908352949780502/1246240055043948687
+- https://github.com/pardeike/Harmony/releases/tag/v2.2.2.0
+- https://github.com/pardeike/Harmony
+- https://skfb.ly/ouAro
+- https://discord.com/channels/410126604237406209/588350770777161748/1246045790430822420
+- https://discord.com/channels/867567549858971669/1103131692945911869/1244981443361505432
+- disengage movement parent to jump boost
+- anime boxes
+- https://youtube.com/shorts/HD2TtU9RcaE?si=G_L8od03m25BDhlS Blender flatten mesh tool. BlenderUstad
+- https://youtube.com/shorts/f2rUyt7aaXY?si=BzBB07KpgXNYC7Yf
+- https://youtube.com/shorts/kxnsci2l3sU?si=3PtlRp5lZiFTHIPC
+- https://xeofrios.gumroad.com

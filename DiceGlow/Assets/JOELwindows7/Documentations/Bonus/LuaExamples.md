@@ -374,7 +374,7 @@ function Start()
 
 ## Launch player upward when doing `Thumbs Up` gesture
 
-Sauce: [Official CVR documentation](https://documentation.abinteractive.net/cck/lua/api/player-api/#example-1)
+Sauce: [Official CVR documentation](https://documentation.abinteractive.net/cck/lua/api/player-api/#example-1), [Page](https://documentation.abinteractive.net/cck/lua/examples/player-thumbs-up-launch/)
 
 ```lua
 UnityEngine = require("UnityEngine")
@@ -398,7 +398,7 @@ end
 
 ## Teleport player when fully immmersed in water a.k.a. `Fluid Volume`
 
-Sauce: [Official CVR Documentation](https://documentation.abinteractive.net/cck/lua/api/player-api/#example-2)
+Sauce: [Official CVR Documentation](https://documentation.abinteractive.net/cck/lua/api/player-api/#example-2), [Page](https://documentation.abinteractive.net/cck/lua/examples/player-teleport-away-from-water/)
 
 ```lua
 UnityEngine = require("UnityEngine")
@@ -421,7 +421,7 @@ end
 
 ## Disable certain GameObject if current instance is Home instance
 
-Sauce: [Official CVR Documentation](https://documentation.abinteractive.net/cck/lua/api/instances-api/#examples)
+Sauce: [Official CVR Documentation](https://documentation.abinteractive.net/cck/lua/api/instances-api/#examples), [Page](https://documentation.abinteractive.net/cck/lua/examples/instances-disable-go-in-home/)
 
 ```lua
 -- Start is called before the first frame update
@@ -710,6 +710,21 @@ spawnable = gameObject.GetComponentInParent("ABI.CCK.Components.CVRSpawnable")
 Want some overbloated dummy starter script? okay, here we go..
 
 ```lua
+--[[
+    Description
+
+    Author
+]]--
+System = require('System')
+UnityEngine = require('UnityEngine')
+AI = require('UnityEngine.AI')
+UI = require('UnityEngine.UI')
+CVR = require('CVR')
+Network = require('CVR.Network')
+CCK = require('ABI.CCK')
+TMP = require('TextMeshPro')
+RCC = require('RCC')
+
 -- Awake is called when this script is being loaded
 function Awake()
 

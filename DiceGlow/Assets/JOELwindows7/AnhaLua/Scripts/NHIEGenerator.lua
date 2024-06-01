@@ -19,13 +19,18 @@ local UnityEngine = require("UnityEngine")
 local CCK = require("ABI.CCK")
 local CVRSpawnwable = require("ABI.CCK.Components.CVRSpawnable")
 local UI = require("UnityEngine.UI") -- you must have this?
+-- local TMP_Text = require("TMPro.TMP_Text")
+-- local TMPro = require("TMPro")
+local TMP = require("TextMeshPro")
 
-local ownSelf = BoundObjects.OwnSelf
+local ownSelf --= BoundObjects.OwnSelf
 local animCompo
 local spawnableCompo
-local fakeButton = BoundObjects.GenerateFakeButton
-local textOut = BoundObjects.TitlerOld
+local fakeButton --= BoundObjects.GenerateFakeButton
+local textOut --= BoundObjects.TitlerOld
 local textOutCompo = nil
+local textNew --= BoundObjects.Titler
+local textNewCompo = nil
 local nhieList = {
     'Programmed `Hello, world!` in Rust',
     'Messed up settings causing PC unbootable',
@@ -109,6 +114,9 @@ local nhieList = {
     'has been on best of the best PC of this era',
     'own a Fairphone',
     'own a Framework laptop',
+    'AFK for more than 12 hours',
+    'AFK for more than 3 hours',
+    'AFK for more than 30 minutes',
     'NHIE all move forward once',
     'NHIE all stays',
     'NHIE all go backward once',
@@ -209,14 +217,25 @@ function RefreshDisplay()
     -- if bugText then
     --     bugText.text = selectNhie
     -- end
+
+    if textNewCompo then
+        if selectNum > 0 then
+            textNewCompo.text = selectNhie
+        else
+            textNewCompo.text = 'Click this prop to begin'
+        end
+    end
 end
 
 -- Start is called before the first frame update
 function Start()
-    -- ownSelf = BoundObjects.OwnSelf
-    -- textOut = BoundObjects.TitlerOld
-    -- fakeButton = BoundObjects.GenerateFakeButton
-    -- luaDisabledWarn = BoundObjects.LuaDisabledWarning
+    -- helped by Codeium lol
+
+    ownSelf = BoundObjects.OwnSelf
+    textOut = BoundObjects.TitlerOld
+    textNew = BoundObjects.Titler
+    fakeButton = BoundObjects.GenerateFakeButton
+    luaDisabledWarn = BoundObjects.LuaDisabledWarning
 
     -- firstly, init random seed! Documentation Funny Cube example!
     math.randomseed(UnityEngine.Time.time)
@@ -227,11 +246,12 @@ function Start()
         -- textOut = ownSelf.transform.GetChild(0).GetChild(0).GetChild(0).gameObject
         -- spawnableCompo = ownSelf.GetComponent("ABI.CCK.Components.CVRSpawnable")
         -- or from Shin's:
-        spawnableCompo = gameObject:GetComponentInParent("ABI.CCK.Components.CVRSpawnable")
+        
         print(tostring(spawnableCompo))
     else
         print('forgor assign this self')
     end
+    spawnableCompo = gameObject:GetComponentInParent("ABI.CCK.Components.CVRSpawnable")
 
     -- wtf whyn't work????
     -- if textOut then
@@ -259,6 +279,13 @@ function Start()
     -- textOutCompo = textOut:GetComponent("UnityEngine.UI.Text")
     -- textOutCompo = BoundObjects.zaza:GetComponent('UnityEngine.UI.Text')
     -- trouble: if it's on a GameObject, it won't work! get it out of it!
+    if textNew then
+        textNewCompo = textNew:GetComponent("TMPro.TMP_Text")
+        print('Get New Text ' .. tostring(textNewCompo))
+    else
+        print('Forgor textNew')
+    end
+
 
     -- Regenerate()
 
@@ -268,6 +295,10 @@ function Start()
 
     if textOutCompo then
         textOutCompo.text = 'Click this prop to begin'
+    end
+
+    if textNewCompo then
+        textNewCompo.text = 'Click this prop to begin'
     end
 end
 
