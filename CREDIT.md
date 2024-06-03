@@ -8194,3 +8194,20 @@ https://youtu.be/qzhuWRQWK5I?si=PygoI274O32LWD5a
 - https://youtube.com/shorts/f2rUyt7aaXY?si=BzBB07KpgXNYC7Yf
 - https://youtube.com/shorts/kxnsci2l3sU?si=3PtlRp5lZiFTHIPC
 - https://xeofrios.gumroad.com
+- https://youtube.com/shorts/uSDRPiRmlQo?si=LMQdy3lZheoHKkkP
+- https://youtube.com/shorts/-Q1xmWVVqc0?si=Nu53EanL2SSyTjPx
+- https://youtu.be/TVl03qt7sCs?si=vgldB3dHMQGhrlm3 hey!
+- https://bowlroll.net/user/351809 yes
+- https://bowlroll.net/user/117806 yes
+- OK
+- http://gamehole.itch.io/spinbreak
+- https://youtu.be/XBg0wk_UQS4?si=Xwsx-mYh5PuRjT8P
+- https://mirin-setokuma.booth.pm/items/5022736 **PAID** blue archive
+- https://youtu.be/K0C2XZ-U4dA?si=j3fevwfc4BJNNn7w
+- https://youtube.com/shorts/589n6HZ-q0E?si=qNCGdbGgWm9a4O8t
+- https://discord.com/channels/410126604237406209/1240763673346183279/1247094006282977280
+- https://youtube.com/shorts/jUfyPMkvH5M?si=NFOSFq_7xfuY1O2U
+- https://80.lv/articles/this-cool-add-on-lets-you-instantly-generate-retopology-in-blender
+- https://payhip.com/b/97jVc **paid** Quick Wrap Blender addon
+- https://www.thebasemesh.com/model-library
+- https://youtube.com/shorts/4cPfL177_Lk?si=PWWrgJaaWzntI9Ge
