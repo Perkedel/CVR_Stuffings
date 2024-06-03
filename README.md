@@ -542,6 +542,7 @@ Here are the UUIDs of all these assets we uploaded to CVR:
 | `7ad7e4d5-89e1-4ddf-82e6-e5587e18c3cc` | VoyVivika Portable Tutorial Prop Edit Bahasa Indonesia | JOELwindows7 | VoyVivika Tutorial Prefab edited to add Bahasa Indonesia |
 | `140ca808-7a9a-49c3-9296-3f49127f04ea` | Sex Dice Tutorial card | JOELwindows7 | **NSFW** How to DIY Lewd dice. |
 | `cae8af07-97be-4595-a5a8-1114caf6eec5` | Soklong Clock | JOELwindows7 | **Experimental** Aesthetically minimalist clock |
+| `d2fe9f84-0ee1-49aa-93b0-574040c17731` | Laron P7-K | JOELwindows7 | **Experimental** Moving Head Stage Light |
 | `2e76dbdf-7f52-425d-8eac-4a80fe3398ff` | DigiClock Beckadam | JOELwindows7 | **Experimental** Just digital clock test with Beckadam's Value Display shader |
 | `78fd86cd-fe4e-4a26-afd3-541a309fdebc` | DigiClock Khodrin | JOELwindows7 | **Experimental** Just digital clock test with Khodrin's HUD shader |
 | `d644128b-c448-42d6-9768-b17ed2d1c583` | DigiClock RED_SIM | JOELwindows7 | **Experimental** Just digital clock test with RED_SIM's Simple Counter shader |
