@@ -16,7 +16,7 @@
 CCK = require("CVR.CCK")
 UnityEngine = require("UnityEngine")
 TMP = require("TextMeshPro")
-TM = UnityEngine.TextMesh
+-- TM = require("UnityEngine.UI.Text")
 
 -- Variables
 local playerCounts = PlayerAPI.PlayerCount
@@ -25,6 +25,7 @@ local privacyType = ''
 local dialogText = BoundObjects.DialogText
 local dialogTextOld = BoundObjects.DialogTextOld
 local dialogTextOldCompo
+local dialogTextCompo
 local assembleParagraph = ''
 local welcomeHomeSay = ''
 local areWeOnline = "no"
@@ -37,14 +38,14 @@ function Start()
     playerCounts = PlayerAPI.PlayerCount
     worldName = InstancesAPI.InstanceName
     privacyType = InstancesAPI.InstancePrivacy
-    -- local textOld = dialogTextOld.GetComponent(TM)
-    dialogTextOldCompo = dialogTextOld:GetComponent("UnityEngine.TextMesh")
-
-    if InstancesAPI.IsHomeInstance then
-        welcomeHomeSay = "Welcome Home"
-    else
-        welcomeHomeSay = ""
+    if dialogTextOld then
+        -- local textOld = dialogTextOld.GetComponent(TM)
+        dialogTextOldCompo = dialogTextOld:GetComponent("UnityEngine.TextMesh")
     end
+    if dialogText then
+        dialogTextCompo = dialogText:GetComponent("TMPro.TMP_Text")
+    end
+    
 
     if InstancesAPI.IsConnected then
         areWeOnline = "yes"
@@ -70,9 +71,20 @@ function Update()
         areWeOnline = "no"
     end
 
+    if InstancesAPI.IsHomeInstance then
+        welcomeHomeSay = "Welcome Home"
+    else
+        welcomeHomeSay = ""
+    end
+
     -- Sorry, Codeium likes to help!
     -- assembleParagraph = worldName .. "\n" .. "Privacy" .. privacyType .. "\n" .. "Players: " .. playerCounts .. "\n" .. "Connected: " .. CVR.InstancesApi.IsConnected .. CVR.InstancesApi.Ping .. "\n"
-    assembleParagraph = worldName .. "\n" .. "Privacy: " .. privacyType .. "\n" .. "Players: " .. playerCounts .. "\n" .. "Connected: " .. areWeOnline .. " (".. InstancesAPI.Ping .. " ms)\n" .. welcomeHomeSay .. "\n" .. lewdVerdict .. "\n"
+    assembleParagraph = "<b>Welcome to:</b>\n" .. worldName .. "\n" .. "Privacy: " .. privacyType .. "\n" .. "Players: " .. playerCounts .. "\n" .. "Connected: " .. areWeOnline .. " (".. InstancesAPI.Ping .. " ms)\n" .. welcomeHomeSay .. "\n" .. lewdVerdict .. "\n"
     -- dialogTextOld.text = assembleParagraph
-    dialogTextOldCompo.text = assembleParagraph
+    if dialogTextOldCompo then
+        dialogTextOldCompo.text = assembleParagraph
+    end
+    if dialogTextCompo then
+        dialogTextCompo.text = assembleParagraph
+    end
 end

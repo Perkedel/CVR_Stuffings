@@ -8231,3 +8231,8 @@ https://youtu.be/qzhuWRQWK5I?si=PygoI274O32LWD5a
 - ture
 - https://discord.com/channels/867567549858971669/1025641564330000404/1247307340558893179
 - https://benjamin.kuperberg.fr/chataigne/en#download Use this tool to broadcast OSC!
+- https://assetstore.unity.com/packages/3d/props/exterior/animated-flags-mobile-29041 **PAID**
+- https://skfb.ly/o8PKU Desk Flag yey
+- https://youtube.com/shorts/n4n6t3NG-7Q?si=akLQinQcDxwreU96
+- https://discord.com/channels/410126604237406209/682645682968199168/1247581851649052785
+- https://discord.com/channels/410126604237406209/1195601585720528976/1247376400692936785 V-TOL made beat saber prop!
