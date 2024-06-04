@@ -7113,7 +7113,7 @@ https://youtu.be/qzhuWRQWK5I?si=PygoI274O32LWD5a
 - https://youtu.be/_Cd6F5_FUt4?si=Z8w4V3Jyys0d9BG1
 - https://github.com/NotAKidOnSteam/NAK_CVR_Prefabs
 - https://github.com/VoyVivika/VivikaShader NEW UPDATE
-- https://www.patreon.com/posts/simple-counter-62864361 Uhh sir, there is RED_SIM's counter here. also just shader, & it's $0..
+- https://www.patreon.com/posts/simple-counter-62864361 Uhh sir, there is RED_SIM's counter here. also just shader, & it's $0.. VALUE DISPLAY
 - https://github.com/vard88508/vrc-osc-miband-hrm pls download example
 - https://github.com/Sonic853/Pulsoid-to-VRChat-OSC which referenced from here. heartbeat cardiophilia tool
 - Tagline controvercy test: Cut the string, forget the past.
@@ -8229,3 +8229,5 @@ https://youtu.be/qzhuWRQWK5I?si=PygoI274O32LWD5a
 - https://discord.com/channels/716536783621587004/1220944586361536683/1241479756353114243
 - https://discord.com/channels/410126604237406209/1240763673346183279/1246395566666022912
 - ture
+- https://discord.com/channels/867567549858971669/1025641564330000404/1247307340558893179
+- https://benjamin.kuperberg.fr/chataigne/en#download Use this tool to broadcast OSC!
