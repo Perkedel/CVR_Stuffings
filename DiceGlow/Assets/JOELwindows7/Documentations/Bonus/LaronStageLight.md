@@ -47,3 +47,11 @@ Follow this step to configure your Chataigne session against CVR
 To install Prop-prespawn per instance, you may also install Bluescream's Prop Spawner mod.
 - Install our config file into `C:\Program Files (x86)\Steam\steamapps\common\ChilloutVR\UserData\PropConfigs\`
 - Edit the files to your liking. The file format is in `json`.
+
+> Did you know: Chataigne supports various protocol, **including DMX**? You can also make Chataigne bridge DMX into OSC, so to technically make our lights DMX controlled!
+
+## Enjoy iyey
+
+by JOELwindows7  
+Perkedel Technologies  
+CC4.0-BY-SA
