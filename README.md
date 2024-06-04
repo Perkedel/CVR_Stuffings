@@ -416,6 +416,7 @@ Here are the UUIDs of all these assets we uploaded to CVR:
 | `dd4303c8-3f5c-4fed-9d37-21e8836310e3` | iPoly3D Low Poly Server Room | JOELwindows7 | . |
 | `d55da2f2-6349-4558-ad6e-f74ce92945af` | Minimum World | JOELwindows7 | . |
 | `56925a80-f3d7-40c3-ab06-3d2b299ab77b` | Zuuljedus' homeworld | JOELwindows7 | . |
+| `9917f31f-90ef-45bd-9980-8ce640b90dba` | NestDNB | JOELwindows7 | Church building |
 | `9d1b1385-6e80-4a2a-a2a4-7d081daef12b` | ClubDNB | JOELwindows7 | Gravity Zone Night club |
 | `76c4d45f-8490-4c03-98bc-1949b5660b7c` | CafeDNB | JOELwindows7 | Small Cafe usually found in office building clusters around residence like Pantai Indah Kapuk or similar |
 | `60c50664-1c58-4a8f-8e82-b4242b29f8bc` | Planet Sample | JOELwindows7 | How to Gravity Zone?! |
