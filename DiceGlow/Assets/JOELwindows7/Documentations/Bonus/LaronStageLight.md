@@ -1,6 +1,6 @@
 # Laron Stage Light
 
-![Four Laron P7-K moving head stage lights mounted on ceiling shining bright in teal at Garrin's Nardorian Underground](https://raw.githubusercontent.com/Perkedel/CVR_Stuffings/main/DiceGlow/Assets/JOELwindows7/_CORE/Sprites/Screenshots/attempt_laron_nardorian.jpg)
+![Four Laron P7-K moving head stage lights mounted on ceiling shining bright in teal at Garrin's Nardorian Underground](https://raw.githubusercontent.com/Perkedel/CVR_Stuffings/main/DiceGlow/Assets/JOELwindows7/_CORE/Sprites/Screenshots/attempt_laron_nardorian.png)
 
 Laron is a sub-brand of Perkedel focusing on lighting for stages. In this version, these lights are controlled by OSC.
 
