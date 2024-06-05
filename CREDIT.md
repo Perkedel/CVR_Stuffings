@@ -8250,3 +8250,13 @@ https://youtu.be/qzhuWRQWK5I?si=PygoI274O32LWD5a
 - https://skfb.ly/NXVO Trojan Horse
 - https://youtu.be/77dWGDFqcps?si=1eD9e4gexduX3DOU
 - https://youtube.com/shorts/Jk5SFLVoP7s?si=d7o3eAnwVyHNk2l8
+- https://youtube.com/shorts/VGvVog-J9YM?si=LibZDUC7LIgLkqQF halo,
+- https://printables.com/model/429173 Jjshankles tests toothpaste thickness 3d printing
+- https://docs.unity3d.com/Manual/class-Transition.html#TransitionInterruption
+- https://github.com/univrsal/spectralizer/releases/tag/v1.3.4
+- https://ideas.obsproject.com/posts/30/an-audio-visualizer
+- https://obsproject.com/forum/resources/spectralizer.861/
+- https://discord.com/channels/410126604237406209/1195601585720528976/1247799947739271168 Hanz made blend tree 8x8 based on left & right hand gesture selection button top row number
+- https://discord.com/channels/613461480129560587/1205000755044425809/1247961263791804416
+- https://noctua.at/en/noctua-launches-home-product-line-for-home-office-and-multi-purpose-ventilation
+- https://noctua.at/en/nv-fs1
