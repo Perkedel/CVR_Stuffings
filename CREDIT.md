@@ -8240,3 +8240,13 @@ https://youtu.be/qzhuWRQWK5I?si=PygoI274O32LWD5a
 - https://discord.com/channels/410126604237406209/795882566968279091/1247269114968408094
 - https://discord.com/channels/410126604237406209/1004342533964439592/1247475644321894431
 - https://x.com/orzeeee/status/1797920119349502257
+- https://discord.com/channels/410126604237406209/1195601585720528976/1247653544882868224
+- https://discord.com/channels/410126604237406209/1195601585720528976/1247653544882868224
+- https://discord.com/channels/410126604237406209/1195601585720528976/1247592586755969116
+- https://discord.com/channels/410126604237406209/1195601585720528976/1247592586755969116 here it is! my new laron spotlight
+- pls spotlight pre-animation
+- oculus dashboard killer. Thancc KatouOhashi
+- https://discord.com/channels/410126604237406209/1195601585720528976/1247722798840025098
+- https://skfb.ly/NXVO Trojan Horse
+- https://youtu.be/77dWGDFqcps?si=1eD9e4gexduX3DOU
+- https://youtube.com/shorts/Jk5SFLVoP7s?si=d7o3eAnwVyHNk2l8
