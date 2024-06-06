@@ -1,3 +1,7 @@
+## Note from Momo:
+
+This Is planned to be Used to give more Poses avaiable by default. We Don't have a Great Solution for a Great Animator base so I'm Modifying one that Will better Use what we have. Will do something similar to another Project going about, but much more Simplified as I am a bit Smooth Brain.
+
 ## Notice:
 This will not be receiving any updates until ChilloutVR's IKSystem is fixed. 
 
@@ -50,6 +54,8 @@ ABI.CCK - original crouch animation [(link)](https://cck.cvr.gg/)
 Xiexie - jump/fall animations [(link)](https://github.com/Xiexe/OldPatreonExclusiveThings)
 
 Blender - constraints and bake action features that both drove me mad and made my shit actually not shit
+
+Mixamo-modified - AFK Animation - Modified Male Sit Animation [(link)](https://helpx.adobe.com/creative-cloud/faq/mixamo-faq.html)
 
 ---
 

@@ -63,3 +63,13 @@ Basically:
 - Right click this `.shadergraph`, `Create`, `Material` to create new material using this new `.shadergraph` shader.
 - You can now drag & drop this `.material` onto any mesh you'd like. You can even adjust each of the 2 colors to your desire on this `.material`.
 - Test now by pressing top `Play`. If you upload this object to CVR, your object should looks like this, where each of your eyes render different color.
+
+## Iyey
+
+by JOELwindows7  
+Perkedel Technologies  
+CC4.0-BY-SA
+
+## Extra
+
+- https://github.com/z3y/shaders.git#v3.3.1 z3y's shader stuck on `v3.3.1` in 2021.3! Above this, errors!!! `flipgreenchannel`
