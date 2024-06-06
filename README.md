@@ -26,11 +26,21 @@ In event of any presence of sponsorship in any form, no works & creations includ
 
 ## Announcements
 
+### DNB Community Schedules
+
+> Image from DiceGlow team
+
+<!-- DiceGlow/Assets/JOELwindows7/_CORE/Sprites/Memes/CommunityEventSchedule.png -->
+
+![DNB's Unofficial Community Schedules Always Up to date](https://raw.githubusercontent.com/Perkedel/CVR_Stuffings/main/DiceGlow/Assets/JOELwindows7/_CORE/Sprites/Memes/CommunityEventSchedule.png)
+
 ### CVR Unofficial Community Schedules
 
 > Image from CVR Community Leader. ... pls invite me, we yoinked it from VoyVivika's Discord (I think).. yeah syndicated.
 
-![CVR Unofficial Community Schedules March 2024](https://raw.githubusercontent.com/Perkedel/CVR_Stuffings/main/DiceGlow/Assets/JOELwindows7/_CORE/Sprites/Memes/ThirdParty/CVR%20Community%20Leaders/APRILLIVE.1.2024_14.2.1.jpg)
+<!-- ![CVR Unofficial Community Schedules March 2024](https://raw.githubusercontent.com/Perkedel/CVR_Stuffings/main/DiceGlow/Assets/JOELwindows7/_CORE/Sprites/Memes/ThirdParty/CVR%20Community%20Leaders/APRILLIVE.1.2024_14.2.1.jpg) -->
+![CVR Unofficial Community Schedules May 2024](https://raw.githubusercontent.com/Perkedel/CVR_Stuffings/main/DiceGlow/Assets/JOELwindows7/_CORE/Sprites/Memes/ThirdParty/CVR%20Community%20Leaders/STAGNANT_CALENDAR_MAY_7.2.1.jpg)
+<!-- ![CVR Unofficial Community Schedules March 2024](https://raw.githubusercontent.com/Perkedel/CVR_Stuffings/main/DiceGlow/Assets/JOELwindows7/_CORE/Sprites/Memes/ThirdParty/CVR%20Community%20Leaders/STAGNANT_CALENDAR_MAY_7.2.1.jpg) -->
 
 ## Instructions
 
