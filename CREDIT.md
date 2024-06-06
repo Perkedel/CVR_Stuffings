@@ -8286,3 +8286,6 @@ https://youtu.be/qzhuWRQWK5I?si=PygoI274O32LWD5a
 - https://www.reddit.com/r/Unity3D/comments/uubfkx/shader_help_single_pass_instancing_for_vr_on/
 - https://github.com/z3y/ShaderGraph.git
 - https://docs.unity3d.com/2021.3/Documentation/Manual/SinglePassInstancing.html
+- https://github.com/z3y/shaders.git
+- https://docs.unity3d.com/2021.3/Documentation/Manual/SinglePassInstancing.html
+- https://github.com/Momofier/CVR-Custom-UIs Yey Momo had new custom GUI on GitHub ieyey cool and good amazing awesome thancc

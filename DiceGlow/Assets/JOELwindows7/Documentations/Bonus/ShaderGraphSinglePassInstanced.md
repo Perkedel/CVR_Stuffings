@@ -6,6 +6,7 @@ It is possible to make your ShaderGraph automatically support & generate the SPS
 
 ## Before you begin
 
+- Install ShaderGraph. the name is `com.unity.shadergraph`. It should be there built-in the Package Manager at registry `Unity Registry`.
 - Ensure your VR debugger render mode is set to something like `Single Pass Instanced`  ![as shown](https://raw.githubusercontent.com/Perkedel/CVR_Stuffings/main/DiceGlow/Assets/JOELwindows7/_CORE/Sprites/Screenshots/make_sure_mockHMD_spsi.png)
 - Know how to install Package out of GitHub / GitLab / GitIdk repo (basically repository that has `package.json` file in its root directory)
     - Open sub-window tab `Package Manager` (Top menu `Window`, `Package Manager`)
