@@ -47,3 +47,18 @@ Assuming your 2019 project haven't had ShaderGraph, Install the following in ord
 > PLS CONTINUE & CONFIRM BELOW
 
 You can now create ShaderGraph using z3y's modified built-in target (`Builtin (z3y)` options which are set to `Built-In (z3y)` active target)
+
+## Different color per eye??
+
+You can set which color to render for each different eyes, following [this Unity's documentation about Stereo rendering](https://docs.unity3d.com/2021.3/Documentation/Manual/SinglePassInstancing.html), at the last section of the ShaderGraph debuggin.
+
+Basically: 
+- you need to have a `Custom Node` (right click on field, `Add Node`, search `Custom` & pick `Custom Node`).
+- Ensuring that `Custom Node` still selected, in its `Graph Inspector`, scroll down & change the type to `String`.
+- `Name` the function properly & insert the content field beneath with `Out = lerp(LeftColor, RightColor, unity_StereoEyeIndex);`. This will lerp the color from one to another between 2 different eyes per `unity_StereoEyeIndex` indexing.
+- Add Input of Vector4 `LeftColor` & `RightColor`. as in the function content
+- Add Output of Vector `Out`. as in the function content
+- **`Save Asset`**
+- Right click this `.shadergraph`, `Create`, `Material` to create new material using this new `.shadergraph` shader.
+- You can now drag & drop this `.material` onto any mesh you'd like. You can even adjust each of the 2 colors to your desire on this `.material`.
+- Test now by pressing top `Play`. If you upload this object to CVR, your object should looks like this, where each of your eyes render different color.

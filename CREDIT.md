@@ -8285,3 +8285,4 @@ https://youtu.be/qzhuWRQWK5I?si=PygoI274O32LWD5a
 - https://forum.unity.com/threads/render-different-color-depending-on-stereo-eye-index.1037215/
 - https://www.reddit.com/r/Unity3D/comments/uubfkx/shader_help_single_pass_instancing_for_vr_on/
 - https://github.com/z3y/ShaderGraph.git
+- https://docs.unity3d.com/2021.3/Documentation/Manual/SinglePassInstancing.html
