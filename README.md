@@ -34,6 +34,8 @@ In event of any presence of sponsorship in any form, no works & creations includ
 
 ![DNB's Unofficial Community Schedules Always Up to date](https://raw.githubusercontent.com/Perkedel/CVR_Stuffings/main/DiceGlow/Assets/JOELwindows7/_CORE/Sprites/Memes/CommunityEventSchedule.png)
 
+> [**Click here to obtain event calendar reservation form**](https://github.com/Perkedel/CVR_Stuffings/issues/new?assignees=JOELwindows7&labels=event&projects=&template=reserve_calendar.yaml&title=%5BWants+to+Event%5D+)
+
 ### CVR Unofficial Community Schedules
 
 > Image from CVR Community Leader. ... pls invite me, we yoinked it from VoyVivika's Discord (I think).. yeah syndicated.
