@@ -27,9 +27,9 @@ Now, all you have to do, if you'd like to make new ShaderGraph, pick `Builtin (z
 For existing ShaderGraph:
 - open up the graph file (your shader graph file in `.shadergraph` here in Unity). A new sub-window tab of the file will open.
 - In `Graph Inspector`, open up tab `Graph Settings`. 
-- Delete internal `Built-in` active target & replace with `Built-in (z3y)`.  ![image shown](https://raw.githubusercontent.com/Perkedel/CVR_Stuffings/main/DiceGlow/Assets/JOELwindows7/_CORE/Sprites/Screenshots/replace_with_z3y.png)
+- Delete internal `Built-in` active target & replace with `Built-In (z3y)`.  ![image shown](https://raw.githubusercontent.com/Perkedel/CVR_Stuffings/main/DiceGlow/Assets/JOELwindows7/_CORE/Sprites/Screenshots/replace_with_z3y.png)
 
-> **WARNING!**: Do not mix & match active target between z3y's & internal! You will corrupt the entire graph! If you already closed tab of this file with this condition & unable to open your `.shadergraph` anymmore, you must temporarily disable or uninstall the extension, re-open the `.shadergraph` file, & remove the unecessary active target (just the internal `Built-in`).
+> **WARNING!**: Do not mix & match active target between z3y's & internal! You will corrupt the entire graph! If you already closed tab of this file with this condition & unable to open your `.shadergraph` anymmore, you must temporarily disable or uninstall the extension, re-open the `.shadergraph` file, & remove the unecessary active target (just the internal `Built-In`).
 
 ## 2019
 
@@ -46,4 +46,4 @@ Assuming your 2019 project haven't had ShaderGraph, Install the following in ord
 
 > PLS CONTINUE & CONFIRM BELOW
 
-You can now create ShaderGraph using z3y's modified built-in target (`Builtin (z3y)` options which are set to `Built-in (z3y)` active target)
+You can now create ShaderGraph using z3y's modified built-in target (`Builtin (z3y)` options which are set to `Built-In (z3y)` active target)
