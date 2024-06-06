@@ -63,7 +63,6 @@ Shader "Shader Forge/TryCombineFaile" {
             struct VertexOutput {
                 float4 pos : SV_POSITION;
                 UNITY_VERTEX_INPUT_INSTANCE_ID
-                UNITY_VERTEX_OUTPUT_STEREO  // inserted by FixShadersRightEye.cs
                 float2 uv0 : TEXCOORD0;
                 float2 uv1 : TEXCOORD1;
                 float2 uv2 : TEXCOORD2;
@@ -79,7 +78,6 @@ Shader "Shader Forge/TryCombineFaile" {
             };
             VertexOutput vert (VertexInput v) {
                 VertexOutput o = (VertexOutput)0;
-                UNITY_INITIALIZE_VERTEX_OUTPUT_STEREO(o);  // inserted by FixShadersRightEye.cs
                 UNITY_SETUP_INSTANCE_ID( v );
                 UNITY_TRANSFER_INSTANCE_ID( v, o );
                 o.uv0 = v.texcoord0;
@@ -171,8 +169,7 @@ Shader "Shader Forge/TryCombineFaile" {
                 float LdotH = saturate(dot(lightDirection, halfDirection));
                 float4 _BaseMetallic_var = tex2D(_BaseMetallic,TRANSFORM_TEX(i.uv0, _BaseMetallic));
                 float _Metallic_var = UNITY_ACCESS_INSTANCED_PROP( Props, _Metallic );
-                float node_3034 = (max(max(_BaseMetallic_var.r,_BaseMetallic_var.g),_BaseMetallic_var.b)*_Metallic_var);
-                float3 specularColor = node_3034;
+                float3 specularColor = (max(max(_BaseMetallic_var.r,_BaseMetallic_var.g),_BaseMetallic_var.b)*_Metallic_var);
                 float specularMonochrome;
                 float4 _MainTex_var = tex2D(_MainTex,TRANSFORM_TEX(i.uv0, _MainTex));
                 float4 _Color_var = UNITY_ACCESS_INSTANCED_PROP( Props, _Color );
@@ -273,7 +270,6 @@ Shader "Shader Forge/TryCombineFaile" {
             struct VertexOutput {
                 float4 pos : SV_POSITION;
                 UNITY_VERTEX_INPUT_INSTANCE_ID
-                UNITY_VERTEX_OUTPUT_STEREO  // inserted by FixShadersRightEye.cs
                 float2 uv0 : TEXCOORD0;
                 float2 uv1 : TEXCOORD1;
                 float2 uv2 : TEXCOORD2;
@@ -286,7 +282,6 @@ Shader "Shader Forge/TryCombineFaile" {
             };
             VertexOutput vert (VertexInput v) {
                 VertexOutput o = (VertexOutput)0;
-                UNITY_INITIALIZE_VERTEX_OUTPUT_STEREO(o);  // inserted by FixShadersRightEye.cs
                 UNITY_SETUP_INSTANCE_ID( v );
                 UNITY_TRANSFER_INSTANCE_ID( v, o );
                 o.uv0 = v.texcoord0;
@@ -329,8 +324,7 @@ Shader "Shader Forge/TryCombineFaile" {
                 float LdotH = saturate(dot(lightDirection, halfDirection));
                 float4 _BaseMetallic_var = tex2D(_BaseMetallic,TRANSFORM_TEX(i.uv0, _BaseMetallic));
                 float _Metallic_var = UNITY_ACCESS_INSTANCED_PROP( Props, _Metallic );
-                float node_3034 = (max(max(_BaseMetallic_var.r,_BaseMetallic_var.g),_BaseMetallic_var.b)*_Metallic_var);
-                float3 specularColor = node_3034;
+                float3 specularColor = (max(max(_BaseMetallic_var.r,_BaseMetallic_var.g),_BaseMetallic_var.b)*_Metallic_var);
                 float specularMonochrome;
                 float4 _MainTex_var = tex2D(_MainTex,TRANSFORM_TEX(i.uv0, _MainTex));
                 float4 _Color_var = UNITY_ACCESS_INSTANCED_PROP( Props, _Color );
@@ -413,7 +407,6 @@ Shader "Shader Forge/TryCombineFaile" {
             struct VertexOutput {
                 float4 pos : SV_POSITION;
                 UNITY_VERTEX_INPUT_INSTANCE_ID
-                UNITY_VERTEX_OUTPUT_STEREO  // inserted by FixShadersRightEye.cs
                 float2 uv0 : TEXCOORD0;
                 float2 uv1 : TEXCOORD1;
                 float2 uv2 : TEXCOORD2;
@@ -421,7 +414,6 @@ Shader "Shader Forge/TryCombineFaile" {
             };
             VertexOutput vert (VertexInput v) {
                 VertexOutput o = (VertexOutput)0;
-                UNITY_INITIALIZE_VERTEX_OUTPUT_STEREO(o);  // inserted by FixShadersRightEye.cs
                 UNITY_SETUP_INSTANCE_ID( v );
                 UNITY_TRANSFER_INSTANCE_ID( v, o );
                 o.uv0 = v.texcoord0;
@@ -448,8 +440,7 @@ Shader "Shader Forge/TryCombineFaile" {
                 float3 specColor;
                 float4 _BaseMetallic_var = tex2D(_BaseMetallic,TRANSFORM_TEX(i.uv0, _BaseMetallic));
                 float _Metallic_var = UNITY_ACCESS_INSTANCED_PROP( Props, _Metallic );
-                float node_3034 = (max(max(_BaseMetallic_var.r,_BaseMetallic_var.g),_BaseMetallic_var.b)*_Metallic_var);
-                diffColor = DiffuseAndSpecularFromMetallic( diffColor, node_3034, specColor, specularMonochrome );
+                diffColor = DiffuseAndSpecularFromMetallic( diffColor, (max(max(_BaseMetallic_var.r,_BaseMetallic_var.g),_BaseMetallic_var.b)*_Metallic_var), specColor, specularMonochrome );
                 float _Glossiness_var = UNITY_ACCESS_INSTANCED_PROP( Props, _Glossiness );
                 float roughness = 1.0 - _Glossiness_var;
                 o.Albedo = diffColor + specColor * roughness * roughness * 0.5;
