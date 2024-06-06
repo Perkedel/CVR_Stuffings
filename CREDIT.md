@@ -8260,3 +8260,28 @@ https://youtu.be/qzhuWRQWK5I?si=PygoI274O32LWD5a
 - https://discord.com/channels/613461480129560587/1205000755044425809/1247961263791804416
 - https://noctua.at/en/noctua-launches-home-product-line-for-home-office-and-multi-purpose-ventilation
 - https://noctua.at/en/nv-fs1
+- https://discord.com/channels/867567549858971669/1247673015274307615/1247673945688244334 Viviklub now has minecraft server!
+- mc.viviklub.com
+- using Modpack: [`Chosen's Modded Adventure`](https://www.modpackindex.com/modpack/69537/chosens-modded-adventure)
+- Pls unrealtime the lighting
+- 1.02 z3y shadergraph pls. thancc V-TOL
+- https://github.com/z3y/ShaderGraphZ
+- https://github.com/V-TOL is this one????
+- Try very latest before incompatibility. Or perhaps just go straight with V-TOL's snapshots.
+- https://github.com/z3y/ShaderGraph/tree/2019 original file found
+- https://www.curseforge.com/minecraft/mc-mods/villagers-sell-animals
+- https://github.com/z3y/ShaderGraph/tree/2019
+- https://docs.unity3d.com/Manual/shader-graph.html
+- https://docs.unity3d.com/Packages/com.unity.shadergraph@17.0/manual/index.html
+- https://docs.unity3d.com/Packages/com.unity.shadergraph@17.0/manual/Shader-Graph-Window.html
+- https://discord.com/channels/410126604237406209/1240763673346183279/1245844483837263932
+- I can't. this requires separate project. idk man.
+- return to Amplify.
+- https://forum.unity.com/threads/how-to-make-shader-graph-compatible-with-single-pass-instancing-or-multiview.1353302/
+- https://docs.unity.cn/Manual//SinglePassInstancing.html
+- https://github.com/z3y/ShaderGraph/blob/2019/com.unity.shadergraph/package.json
+- https://docs.unity3d.com/2021.3/Documentation/Manual/shader-graph.html
+- https://docs.unity3d.com/Packages/com.unity.shadergraph@12.1/manual/index.html
+- https://forum.unity.com/threads/render-different-color-depending-on-stereo-eye-index.1037215/
+- https://www.reddit.com/r/Unity3D/comments/uubfkx/shader_help_single_pass_instancing_for_vr_on/
+- https://github.com/z3y/ShaderGraph.git
