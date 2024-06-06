@@ -8289,3 +8289,11 @@ https://youtu.be/qzhuWRQWK5I?si=PygoI274O32LWD5a
 - https://github.com/z3y/shaders.git
 - https://docs.unity3d.com/2021.3/Documentation/Manual/SinglePassInstancing.html
 - https://github.com/Momofier/CVR-Custom-UIs Yey Momo had new custom GUI on GitHub ieyey cool and good amazing awesome thancc
+- https://github.com/Momofier/Time-Keeper-CVR
+- https://github.com/Momofier/CCK.BaseAnimatorPatch-poses
+- https://github.com/z3y/shaders.git#v3.3.1 z3y's shader stuck on `v3.3.1` in 2021.3! Above this, errors!!! 
+- https://github.com/Momofier/CCK.BaseAnimatorPatch-poses **NEW** Momo's patch of NAK's Base Animator patch!
+- https://github.com/Momofier/PFP-Pac-Animations
+- https://github.com/Momofier/CVR-Custom-UIs?tab=readme-ov-file
+- gamepad which is actually chair. click it to activate gamepad (sitting). you are controlling gamepad, all control goes to gamepad instead of locomotion. ESC to put gamepad back to its cradle & locomotion returns
+- https://github.com/vrm-c/UniVRM.git
