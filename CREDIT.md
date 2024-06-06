@@ -8297,3 +8297,4 @@ https://youtu.be/qzhuWRQWK5I?si=PygoI274O32LWD5a
 - https://github.com/Momofier/CVR-Custom-UIs?tab=readme-ov-file
 - gamepad which is actually chair. click it to activate gamepad (sitting). you are controlling gamepad, all control goes to gamepad instead of locomotion. ESC to put gamepad back to its cradle & locomotion returns
 - https://github.com/vrm-c/UniVRM.git
+- https://apexminecrafthosting.com/how-to-allocate-more-ram/
