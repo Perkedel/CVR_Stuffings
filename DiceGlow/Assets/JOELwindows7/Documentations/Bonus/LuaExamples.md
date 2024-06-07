@@ -89,6 +89,191 @@ CCK = require("CVR.CCK") -- Access to CCK component bindings
 local coolVector = UnityEngine.NewVector3(1, 2, 3)
 ```
 
+## Viewpoint Raycaster
+
+Sauce: [Official CVR Documentation](https://documentation.abinteractive.net/cck/lua/examples/viewpoint-raycast/)
+
+This shows how to perform a Raycast. For the example we're using the player's Viewpoint as the source of the ray.
+
+This script is meant to be run on an Avatar and only for the Wearer, it will self-destruct otherwise.
+
+We're setting the Raycast to only hit the Remote Player colliders, and the Water Layer.
+
+The Raycast is only active if you set your Toggle to `1`, you can do this on the Big Menu.
+
+```lua
+-- Import necessary UnityEngine components
+UnityEngine = require "UnityEngine"
+local CVR   = require "CVR"
+
+function Start()
+    -- Check if this script is running on an Avatar
+    if not RunningInAvatar then 
+        -- If not, lets destroy the script to prevent wasting resources
+        Script.Destroy("This script is only meant to run on Avatars only!")
+        return;
+    end
+
+    -- Also check if we're the one wearing the avatar, no point in spamming other people's consoles
+    if not IsWornByMe then 
+        -- If not, lets destroy the script to prevent wasting resources
+        Script.Destroy("This script is only meant to run on for the Avatar Wearer!")
+        return;
+    end
+
+    print("Starting the Viewpoint Raycaster example!")
+end
+
+-- The bit32 is exposed without importing. It's useful to calculate bit operations
+
+-- Calculate the layer mask for water
+local onlyWaterMask = bit32.lshift(1, CVR.CVRLayers.Water)
+
+-- Calculate the layer mask for the remote players
+local onlyRemotePlayerMask = bit32.lshift(1, CVR.CVRLayers.PlayerNetwork)
+
+-- Combine both masks into a single one
+local onlyWaterAndRemotePlayerMask = bit32.bor(onlyWaterMask, onlyRemotePlayerMask)
+
+-- Define the maximum distance for the raycast
+local maxDistance = 100.0
+
+function Update()
+
+    -- Lets only fire raycasts when the Core parameter toggle is 1
+    -- You can set the toggles on the Big Menu
+    if PlayerAPI.LocalPlayer.Core.Toggle ~= 1 then return end
+
+    -- Only raycast every 200 frames (let's not create a lot of spam)
+    if UnityEngine.Time.frameCount % 200 ~= 0 then return end
+
+    -- Get the position of the local player view point, since that's where we're going to shoot the raycast from
+    local origin = PlayerAPI.LocalPlayer.GetViewPointPosition()
+
+    -- Get the local player viewpoint Rotation and convert into a forward direction
+    -- We can do this by multiplying the Quaternion with the forward vector
+    -- This result in a Vector3 with with the direction of where the player is looking at
+    local forward = PlayerAPI.LocalPlayer.GetViewPointRotation() * UnityEngine.Vector3.forward
+
+    -- Shoot a raycast from the playe's view point, that can hit the layers water and remotePlayers, and hits colliders with IsTrigger enabled
+    local hit, hitInfo = UnityEngine.Physics.Raycast(origin, forward, maxDistance, onlyWaterAndRemotePlayerMask, UnityEngine.QueryTriggerInteraction.Collide)
+
+    -- Other examples:
+
+    -- Shoot a raycast from the playe's view point, that can hit ONLY the water layers, and hits colliders with IsTrigger enabled
+    -- local hit, hitInfo = UnityEngine.Physics.Raycast(origin, forward, maxDistance, onlyWaterMask, UnityEngine.QueryTriggerInteraction.Collide)
+
+    -- Shoot a raycast from the playe's view point, that can hit all layers, and ignores colliders with IsTrigger enabled
+    -- local hit, hitInfo = UnityEngine.Physics.Raycast(origin, forward, maxDistance, UnityEngine.Physics.AllLayers, UnityEngine.QueryTriggerInteraction.Ignore)
+
+    print("Shooting the Raycast...")
+
+    -- Check if the raycast hit something
+    if hit then
+
+        print("Raycast hit an object!")
+
+        -- Access the hit information
+        local hitPoint = hitInfo.point
+        local hitNormal = hitInfo.normal
+        local hitDistance = hitInfo.distance
+
+        print("Hit point: " .. hitPoint.ToString() .. " | Hit normal: " .. hitNormal.ToString() .. " | Hit distance: " .. hitDistance)
+
+    end
+end
+```
+
+### Expected Output
+
+```log
+print: Starting the Viewpoint Raycaster example!
+print: Shooting the Raycast...
+print: Shooting the Raycast...
+print: Shooting the Raycast...
+print: Raycast hit an object!
+print: Hit point: (-1.61, 1.72, 5.73) | Hit normal: (-0.86, 0.00, -0.51) | Hit distance: 1,0413384437561
+print: Shooting the Raycast...
+```
+
+## Listening to Events
+
+Sauce: [Official CVR Documentation](https://documentation.abinteractive.net/cck/lua/recipes/listen-game-events/)
+
+This script will log some of the game events. You can check all available events at [Events](https://documentation.abinteractive.net/cck/lua/api/events/)
+
+This script can be placed on `Worlds`, `Props`, and `Avatars`. But for `Props`, and `Avatars` it will only run for the avatar wearer, and the prop spawned because of the `if` placed on each function.
+
+The `--#region` and `--#endregion` are not needed, but some code editors might recognize them as blocks that you can collapse and expand for better organization.
+
+```lua
+function Start()
+    print("Starting the Listening to Events example script")
+end
+
+--#region Instances Events
+
+function OnInstanceConnected()
+    if (RunningInProp and not IsSpawnedByMe) or (RunningInAvatar and not IsWornByMe) then return end
+    print("We have Connected to an instance.")
+end
+
+function OnInstanceDisconnected()
+    if (RunningInProp and not IsSpawnedByMe) or (RunningInAvatar and not IsWornByMe) then return end
+    print("We have Disconnected to an instance.")
+end
+
+function OnInstanceConnectionLost()
+    if (RunningInProp and not IsSpawnedByMe) or (RunningInAvatar and not IsWornByMe) then return end
+    print("We have Lost Connection to an instance.")
+end
+
+function OnInstanceConnectionRecovered()
+    if (RunningInProp and not IsSpawnedByMe) or (RunningInAvatar and not IsWornByMe) then return end
+    print("We have Recovered Connection to an instance.")
+end
+
+--#endregion
+
+--#region Player Events
+
+function OnPlayerJoined(remotePlayer)
+    if (RunningInProp and not IsSpawnedByMe) or (RunningInAvatar and not IsWornByMe) then return end
+    print("A remote player has joined instance: " .. remotePlayer.Username)
+end
+
+function OnPlayerLeft(remotePlayer)
+    if (RunningInProp and not IsSpawnedByMe) or (RunningInAvatar and not IsWornByMe) then return end
+    print("A remote player has left the Instance: " .. remotePlayer.Username)
+end
+
+--#endregion
+
+--#region Avatar Events
+
+function OnLocalPlayerAvatarLoaded(avatar, localPlayer)
+    if (RunningInProp and not IsSpawnedByMe) or (RunningInAvatar and not IsWornByMe) then return end
+    print("The local player " .. localPlayer.Username .. " has Loaded INTO the avatar with the ID: " .. avatar.AvatarID)
+end
+
+function OnLocalPlayerAvatarClear(avatar, localPlayer)
+    if (RunningInProp and not IsSpawnedByMe) or (RunningInAvatar and not IsWornByMe) then return end
+    print("The local player " .. localPlayer.Username .. " has Cleared OUT of the avatar with the ID: " .. avatar.AvatarID)
+end
+
+function OnRemotePlayerAvatarLoaded(avatar, remotePlayer)
+    if (RunningInProp and not IsSpawnedByMe) or (RunningInAvatar and not IsWornByMe) then return end
+    print("The remote player " .. remotePlayer.Username .. " has Loaded INTO the avatar with the ID: " .. avatar.AvatarID)
+end
+
+function OnRemotePlayerAvatarClear(avatar, remotePlayer)
+    if (RunningInProp and not IsSpawnedByMe) or (RunningInAvatar and not IsWornByMe) then return end
+    print("The remote player " .. remotePlayer.Username .. " has Cleared OUT of the avatar with the ID: " .. avatar.AvatarID)
+end
+
+--#endregion
+```
+
 ## Play an audio file simple
 
 Sauce: [JOELwindows7](https://discord.com/channels/410126604237406209/1240763673346183279/1243523877536141312)

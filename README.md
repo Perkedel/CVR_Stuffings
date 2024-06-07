@@ -542,6 +542,7 @@ Here are the UUIDs of all these assets we uploaded to CVR:
 | `75eb9b0f-474a-444d-a2d9-77946b994f13` | Botol Spin | JOELwindows7 | Bottle Spinner |
 | `e7490010-549c-4eb5-a220-eca276686249` | Virtual Prop Room | JOELwindows7 | Portable test room |
 | `b95873c0-f09d-4fc8-8dbe-be6f716dbc2c` | Bridge Carryover | JOELwindows7 | The broken bridge game |
+| `bdb2d310-951c-44c6-901e-6bdb29ae8320` | Thin Bridge | JOELwindows7 | The thin bridge game, popular VR demo |
 | `cd1cd0f6-d62d-4f5c-9d84-0567378a1d28` | Pontoon Square | JOELwindows7 | For Bridge Carryover game |
 | `7298ba18-cf8d-4478-b6d5-035c6e59f861` | Pontoon Circle | JOELwindows7 | For Bridge Carryover game |
 | `89a7a56a-f391-4e5b-90f9-240ef72cd4d5` | Duarsplode | JOELwindows7 | Lagsplode Grenade with particle & ragdoller |

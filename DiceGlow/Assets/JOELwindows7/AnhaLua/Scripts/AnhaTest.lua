@@ -48,9 +48,13 @@
     ```
 ]]--
 -- JOELwindows7
+CVR = require('CVR')
+CCK = require('CVR.CCK')
+Network = require('CVR.Network')
 UnityEngine = require("UnityEngine")
 UnityUI = require("UnityEngine.UI")
 TMP = require("TextMeshPro")
+RCC = require("RCC")
 TM = UnityEngine.TextMesh
 -- UITextOld = UnityEngine.UI
 AudioSource = require("UnityEngine.AudioSource")
@@ -80,10 +84,11 @@ local title = 'Halo Lua from JOELwindows7\nAlso thancc LensError for example sni
 local installSay = ''
 local sayWelcomeHome = ''
 local sayPlayersFuzzy = ''
-local flyAllowed = 'no'
+local flyAllowed = ''
 local ruleSays = ''
 local playerCount = 0
 local playersYouHave = {}
+local memorizePlayer = {}
 local areWeOnline = 'No'
 local quotes = {
     'Haha hihi',
@@ -122,6 +127,20 @@ local quoteTimeRemaining = 10
 local randomIntSay = '999999999999'
 local refreshRate = .1
 local refreshRemains = .1
+local luaStatusSay = ''
+local runsOnSay = {
+    '', -- 1 server
+    '', -- 2 client
+    '', -- 3 avatar
+    '', -- 4 prop
+    '', -- 5 world
+    '', -- 6 worn by me
+    '', -- 7 spawn by me
+    '', -- 8 connection
+}
+local whoLeft = ''
+local lastAvatarLoadEventSay = ''
+
 
 function DebugPrint(message)
     if DEBUG_MODE then
@@ -162,8 +181,68 @@ function OnCollisionEnter(collision)
     end
 end
 
+function OnInstanceConnected()
+    runsOnSay[8] = "Connected"
+end
+
+function OnInstanceDisconnected()
+    runsOnSay[8] = "Disconnected"
+end
+
+function OnInstanceConnectionLost()
+    runsOnSay[8] = "ConnectionLost"
+end
+
+function OnInstanceConnectionRecovered()
+    runsOnSay[8] = "ConnectionRecovered"
+end
+
+function OnPlayerJoined(remotePlayer)
+    table.insert(memorizePlayer,remotePlayer)
+end
+
+function OnPlayerLeft(remotePlayer)
+    whoLeft = ''
+    for i=1,#memorizePlayer do
+        for j=1,#playersYouHave do
+            if memorizePlayer[i].UserID == playersYouHave[j].UserID then
+                -- player still exist here
+               break 
+            end
+            -- welp not found.
+            whoLeft = whoLeft .. ', ' .. memorizePlayer[j].Username
+        end
+        -- if memorizePlayer[i].UserID == remotePlayer.UserID then
+        --     whoLeft = whoLeft .. ', ' .. remotePlayer.Username
+        -- end
+    end
+    -- whoLeft = whoLeft .. ', ' .. remotePlayer.Username
+end
+
+function OnLocalPlayerAvatarLoaded(avatar, localPlayer)
+    -- https://documentation.abinteractive.net/cck/lua/recipes/listen-game-events/
+    if (RunningInProp and not IsSpawnedByMe) or (RunningInAvatar and not IsWornByMe) then return end
+    lastAvatarLoadEventSay = 'Local Player Avatar Loaded: ' .. localPlayer.Username .. ' wearing ' .. avatar.AvatarID
+end
+
+function OnLocalPlayerAvatarClear(avatar, localPlayer)
+    if (RunningInProp and not IsSpawnedByMe) or (RunningInAvatar and not IsWornByMe) then return end
+    lastAvatarLoadEventSay = 'Local Player Avatar Cleared: ' .. localPlayer.Username .. ' dropped ' .. avatar.AvatarID
+end
+
+function OnRemotePlayerAvatarLoaded(avatar, remotePlayer)
+    if (RunningInProp and not IsSpawnedByMe) or (RunningInAvatar and not IsWornByMe) then return end
+    lastAvatarLoadEventSay = 'Remote Player Avatar Loaded: ' .. remotePlayer.Username .. ' wearing ' .. avatar.AvatarID
+end
+
+function OnRemotePlayerAvatarClear(avatar, remotePlayer)
+    if (RunningInProp and not IsSpawnedByMe) or (RunningInAvatar and not IsWornByMe) then return end
+    lastAvatarLoadEventSay = 'Remote Player Avatar Cleared: ' .. remotePlayer.Username .. ' dropped ' .. avatar.AvatarID
+end
+
 function UpdateInstallSay()
     sayPlayersFuzzy = ''
+    luaStatusSay = ''
 
     if InstancesAPI.IsHomeInstance then
         sayWelcomeHome = "Welcome Home"
@@ -181,16 +260,59 @@ function UpdateInstallSay()
     end
 
     -- fly check
-    if PlayerAPI.LocalPlayer.IsFlightAllowed then
-        flyAllowed = ""
+    -- if PlayerAPI.LocalPlayer.IsFlightAllowed then
+    --     flyAllowed = ""
+    -- else
+    --     flyAllowed = "NoFlying"
+    -- end
+
+    -- statuses
+    if RunningOnServer then
+        runsOnSay[1] = "Server"
     else
-        flyAllowed = "NoFlying"
+        runsOnSay[1] = ""
+    end
+    if RunningOnClient then
+        runsOnSay[2] = "Client"
+    else
+        runsOnSay[2] = ""
+    end
+    if RunningInAvatar then
+        runsOnSay[3] = "Avatar"
+    else
+        runsOnSay[3] = ""
+    end
+    if RunningInProp then
+        runsOnSay[4] = "Prop"
+    else
+        runsOnSay[4] = ""
+    end
+    if RunningInWorld then
+        runsOnSay[5] = "World"
+    else
+        runsOnSay[5] = ""
+    end
+
+    if IsWornByMe then
+        runsOnSay[6] = "WornByMe"
+    else
+        runsOnSay[6] = ""
+    end
+    if IsSpawnedByMe then
+        runsOnSay[7] = "SpawnedByMe"
+    else
+        runsOnSay[7] = ""
+    end
+
+    -- assemble the say!
+    for i = 1, #runsOnSay do
+        luaStatusSay = luaStatusSay .. " " .. runsOnSay[i]
     end
 
     ruleSays = ''
     ruleSays = ruleSays .. flyAllowed .. ' '
 
-    installSay = title .. "\n" .. selectQuote .. "\n" .. "World: " .. InstancesAPI.InstanceName .. "(" .. InstancesAPI.InstancePrivacy .. ")\n" .. "Rules: " .. ruleSays .. "\n" .. "Connection: " .. areWeOnline .. " (" .. InstancesAPI.Ping .. " ms)\n" .. sayWelcomeHome .. "\n" .. "Players (" .. playerCount .. "):\n" .. sayPlayersFuzzy .. "\n\nRandom Int Test: " .. randomIntSay
+    installSay = title .. "\n" .. selectQuote .. "\n" .. "World: " .. InstancesAPI.InstanceName .. "(" .. InstancesAPI.InstancePrivacy .. ")\n" .. "Rules: " .. ruleSays .. "\n" .. "Status: " .. luaStatusSay .. "\n" .. "Connection: " .. areWeOnline .. " (" .. InstancesAPI.Ping .. " ms)\n" .. sayWelcomeHome .. "\n" .. "Players (" .. playerCount .. "):\n" .. sayPlayersFuzzy .. "\n\nWho Left: " .. whoLeft .. "\n\nRandom Int Test: " .. randomIntSay .. "\n Avatar Last Event: " .. lastAvatarLoadEventSay .. "\n\n"
 end
 
 -- Start is called before the first frame update

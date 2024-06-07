@@ -8298,3 +8298,83 @@ https://youtu.be/qzhuWRQWK5I?si=PygoI274O32LWD5a
 - gamepad which is actually chair. click it to activate gamepad (sitting). you are controlling gamepad, all control goes to gamepad instead of locomotion. ESC to put gamepad back to its cradle & locomotion returns
 - https://github.com/vrm-c/UniVRM.git
 - https://apexminecrafthosting.com/how-to-allocate-more-ram/
+- https://www.twitch.tv/garrinvr
+- https://discord.com/channels/969594520901664779/1016554342788104252/1248487421511864411
+- https://www.twitch.tv/furality
+- https://furality.online/
+- https://www.youtube.com/watch?v=k_ao07oSO8A
+- https://discord.com/channels/410126604237406209/1240763673346183279/1248409707589140652
+- https://discord.com/channels/410126604237406209/1237590087781584958/1248429169096785950
+- https://discord.com/channels/410126604237406209/1237590087781584958/1248429703216500827
+- https://discord.com/channels/410126604237406209/1237590087781584958/1248448981730721886
+- https://discord.com/channels/410126604237406209/766086942005526579/1248255809234927718
+- https://discord.com/channels/410126604237406209/766086942005526579/1248255809234927718
+- https://youtu.be/2imG9KqplLc
+- https://discord.com/channels/410126604237406209/797279576459968555/1247970603252842688
+- https://dly.to/BxSCKugTiyf
+- https://dly.to/x6alI1bizeV
+- https://dly.to/3E4V8JfBYtI
+- https://furality.org/register **PAID**
+- https://dly.to/ExEz6C8DxlQ
+- https://dly.to/eLiddmsLW92
+- https://dev.to/sm0ke/astro-framework-resources-free-starters-3jae
+- https://api.daily.dev/r/pfOtLn813
+- https://astro.build/blog/astro-4100/
+- https://discord.com/channels/410126604237406209/797279576459968555/1247974372157816832
+- https://discord.com/channels/410126604237406209/795882566968279091/1248380256457457774
+- https://discord.com/channels/410126604237406209/795882566968279091/1248373059761475616
+- https://discord.com/channels/410126604237406209/795882566968279091/1248372557879447665
+- https://discord.com/channels/410126604237406209/795882566968279091/1248403527756284076
+- https://discord.com/channels/410126604237406209/795882566968279091/1248448768563609722
+- https://discord.com/channels/410126604237406209/795882566968279091/1248463097916686396
+- flaugh
+- Pinball Agung is doing audit again. By standard, companies reviews the audit bot from internal & 3 third parties, as well as the manual auditing the accounting systems.
+- Iobal: Okay folks. Today's meeting is timely audit. ..., We're going to discuss our accounting events we had so far. This audit, here are our 3rd parties.
+- Darul: 👋
+- Nork: hi..
+- Supish: (nod)..
+- Iobal: Alright, let's get to the point. Ours first. How's the accounting?
+- Trinkel (Accountant, Pinball Agung): Still working. (press takeover big screen button) Aaand..
+- everyone look screen
+- Trinkel: Our profit margin seems to be reduced. Significantly. It is not even the COVID. But funny, COVID last time profits us..
+- Iobal: Huh... Any suspicious activity?
+- Trinkel: (Dirty event not found over the past 18 and past months) Nope. It's clean.
+- Iobal: Right. What about you?.
+- Darul: We have discovered that there was frightening influx numbers on `Prive`.., iin.. January 2024.
+- Prive is pulling money from the company account back to your your personal account
+- Iobal: Whoah, what is it? (trying to remember) why..
+- Darul: And that's all. That January you had 3 events like that. What did you do?
+- Iobal: Uh.. what did I do here... (found remember) **OOH!!**, Yess... Vacation. We do vacations. And this time.... we bought alot. .. .. What?
+- Darul: We have to warn you sir, that in event that you added 2 additional events, you'd be subject to a violation in Sloantim Business law which the bill recently has passed last March.
+- Iobal: (stiff & upset)!??!?!?........... **WHAT?!?!??!** ........ No. Can you please refer me the rule that pertains to it??!..
+- Darul: (open up copy of Sloantim business law article to it online) Here is, sir. Chapter 34, Section 10, about Prive. Maximum is 5 a month.
+- Iobal: ... I mean.. I am not syphoner, but this is.. this is annoying!..
+- Trinkel: I also have heard, the contributor for the finanancial rule improvement involves our people, here Dasandim.
+- Iobal: Huh??? Okay. We gotta ask them. Is there any of you who directly comes from Sloantim as well?
+- Darul: Yes we are sir. You just hired Sloantim associates.
+- Iobal: Okay. .. You got complain form?
+- Darul: Absolutely, sir. (take out printed template of Sloantim complain form).... (out from bag)
+- Iobal: (take rudely)!!, (write upsetly)!....... (done & give)!. You got complain like this too?
+- Darul: Yes, sir. We have received numbers of complains like this in the past 3 months
+- Iobal: Ah.. you see? So am I not allowed to have fun? I mean, you know.. But.. Point I built this business right here.. is for me to livE. ... and have fun sometimes.
+- Darul: We apologize sir. We'll hand this over to our superior.
+- Iobal: Good, coz I don't wanna hear any of my friend got arrested.., only because one employee wanted some vacation which say that my friend, the boss, which also is his friend as a friend help him to it. You understand that?
+- Darul: Yes sir. We very apologize.
+- And then Iobal requested small meeting against few members of the parliament in a multifunction room
+- Antorosh: You may now speak your word. What's your favour?.
+- Iobal: Okay, ahem! ....... Prive 5 max, really?
+- Yurdo: Oh... Uh.. our saying was only `To curb abusive profitism done by company that harms customer wellbeing`. That's all. The Prive rules was not coming from us.
+- Iobal: Then who? .. nah doesn't matter. You're not the one that talks about Prive right?
+- Yurdo: I can assure you that we did not. In event a member was caught, we'll process them promptly.
+- Iobal: Good. .. That was just frightening.
+- Yurdo: Rest assured. All members have been trained to think critically on contributing solution ideas, to ensure ideas that would be spoken keep wellbeing for the good people remains unharmed.
+- Maqhui: I have found his word. Our member Uturui, whose attended the convention said `To curb this abusive behaviour, we shall implement a rule that prevent any company owner that seeks numbers of usage to be used e.g. tallying for charging fees`.
+- Iobal: (that's Anti-Runtime Fee).. Hey that's even better. Any other member?
+- Maqhui: We have 10 Dasandimians there. Only Uturui happens to tell everyone to look at the companies who charge up based on customer usage, .. that time.
+- Iobal: (felt this bill that instead didn't pass) And it went horribly doesn't it?
+- Maqhui: I would say yes.., for now, (remember the bills are passed by batch numbers) but we must monitor further before doing any conclusion.
+- Iobal: Yeah. That is too bad. Why this (Prive) one?
+- Maqhui: (no idea) Again, we are still currently monitoring. I am pretty sure this shall pass eventually, and the troubled one gets revoked.
+- ok
+- .
+- .
