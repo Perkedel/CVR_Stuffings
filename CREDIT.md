@@ -8378,3 +8378,26 @@ https://youtu.be/qzhuWRQWK5I?si=PygoI274O32LWD5a
 - ok
 - .
 - .
+- https://github.com/SDraw/driver_leap
+- https://discord.com/channels/410126604237406209/1237590087781584958/1248703260387315722
+- https://discord.com/channels/410126604237406209/588350770777161748/1247975719938560102
+- https://vsk.lox9973.com/abstat/
+- https://discord.com/channels/410126604237406209/588350770777161748/1247679204913319936    
+- https://discord.com/channels/410126604237406209/588350770777161748/1248439361238732882
+- https://discord.com/channels/410126604237406209/588350726841827358/1248279611364872303
+- https://discord.com/channels/410126604237406209/588350726841827358/1247408662100836395
+- https://notes.sleightly.dev/dbt-combining/
+- https://discord.com/channels/410126604237406209/588350726841827358/1247400318682005595
+- https://stackoverflow.com/questions/3524970/why-does-lua-have-no-continue-statement
+- https://www.lua.org/pil/19.2.html
+- https://stackoverflow.com/questions/27434142/how-do-i-append-to-a-table-in-lua
+- https://www.lua.org/pil/11.1.html
+- https://stackoverflow.com/questions/27434142/how-do-i-append-to-a-table-in-lua
+- https://www.codecademy.com/resources/docs/lua/strings/find
+- https://discord.com/channels/410126604237406209/588350726841827358/1247751232097878138 Zettai https://streamable.com/dweiyl
+- a
+- https://discord.com/channels/410126604237406209/1004342533964439592/1248619909785587892
+- https://discord.com/channels/410126604237406209/682645682968199168/1247799197701247037
+- https://discord.com/channels/410126604237406209/682645682968199168/1248122182106611793
+- https://discord.com/channels/410126604237406209/682645682968199168/1248681685571338331
+- https://discord.com/channels/410126604237406209/588350685255565344/1248388476181680289
