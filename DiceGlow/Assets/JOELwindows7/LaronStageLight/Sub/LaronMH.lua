@@ -19,8 +19,10 @@ TMP = require("TextMeshPro")
 System = require('System')
 RCC = require("RCC")
 
-local statusText = BoundObjects.StatusTexter
+local statusText --= BoundObjects.StatusTexter
+local brandText --= BoundObjects.TitleBrand
 local statusTextCompo
+local brandTextCompo
 local animCompo
 local poseLabel = {
     'T-POSE',
@@ -32,6 +34,8 @@ local poseLabel = {
 
 local firmwareVersion = '2024.06'
 local totalAboutSay = ''
+local customOEMBrand = 'Laron' -- OEM Custom Commissionable! replace with your own brand!
+local modelNumber = 'P7-K' -- Pusing 7 Keliling
 
 function AdjustYaw(toAngle)
 
@@ -76,9 +80,9 @@ function WriteAbout()
 
     -- random word
     if IsSpawnedByMe then
-        totalAboutSay = totalAboutSay .. 'Use Chataigne to control! \n'
+        totalAboutSay = totalAboutSay .. 'Use Chataigne OR any OSC controller to control! \n'
     else
-        totalAboutSay = totalAboutSay .. 'Ask who spawned OR spawn this yourself! \n'
+        totalAboutSay = totalAboutSay .. 'To control, ask who spawned this OR spawn this yourself! \n'
     end
 
     -- firmware
@@ -91,8 +95,18 @@ end
 
 -- Start is called before the first frame update
 function Start()
+    statusText = BoundObjects.StatusTexter
+    brandText = BoundObjects.TitleBrand
+
     if statusText then
         statusTextCompo = statusText.GetComponent("TMPro.TMP_Text")
+    end
+    if brandText then
+        brandTextCompo = brandText.GetComponent("TMPro.TMP_Text")
+    end
+
+    if brandTextCompo then
+        brandTextCompo.text = customOEMBrand .. ' ' .. modelNumber
     end
     animCompo = gameObject.GetComponentInParent("UnityEngine.Animator") -- Shin's technique
 end
