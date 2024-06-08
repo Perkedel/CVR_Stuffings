@@ -8401,3 +8401,37 @@ https://youtu.be/qzhuWRQWK5I?si=PygoI274O32LWD5a
 - https://discord.com/channels/410126604237406209/682645682968199168/1248122182106611793
 - https://discord.com/channels/410126604237406209/682645682968199168/1248681685571338331
 - https://discord.com/channels/410126604237406209/588350685255565344/1248388476181680289
+- https://www.instructables.com/How-to-Make-a-Cobblestone-Generator-in-Minecraft/
+- https://minecraft.fandom.com/wiki/Tutorials/Cobblestone_farming
+- https://discord.com/channels/410126604237406209/1195601585720528976/1248804123323666472 NAK made persistent jail
+- https://discord.com/channels/410126604237406209/1195601585720528976/1248801380567744522
+- a
+- https://discord.com/channels/410126604237406209/682645682968199168/1248714101530558464
+- https://booth.pm/en/items/1068362 **PAID**
+- https://booth.pm/en/items/2847496 **PAID** led neoled
+- https://github.com/Unity-Technologies/2d-gamedemo-robodash
+- https://www.youtube.com/watch?v=mGd3nYXj1Oc how to laser shadergraph
+- https://www.patreon.com/posts/unity-shader-26309560
+- https://www.patreon.com/posts/shader-graph-26291666 **PAID**, or
+- https://www.gabrielaguiarprod.com/product-page/shader-graph-laser-beams-project **PAID**
+- https://assetstore.unity.com/packages/vfx/shaders/laser-beam-tripwire-shader-41680 **PAID**
+- https://aacreations.booth.pm/items/5644969 **PAID**        
+- https://kryptonite.booth.pm/ **JACKPOT**
+- https://booth.pm/en/items/2764661 **PAID** vectorflow shader
+- https://armadillon.booth.pm/
+- https://kyubihome.booth.pm/
+- https://komado.booth.pm/
+- https://ryuhga.booth.pm/
+- https://web.archive.org/web/20180628174410/http://ghostfiregames.com/helixhome.html
+- https://www.silverjuke.net/en/
+- https://discord.com/channels/410126604237406209/588350726841827358/1248758890829582386
+- https://discord.com/channels/410126604237406209/588350726841827358/1248751593604780143
+- https://discord.com/channels/410126604237406209/588350726841827358/1248872113352347719
+- https://discord.com/channels/1130463164161601687/1130914946222403686/1246188584218791957
+- https://fxtwitter.com/furality/status/1796624049537470723
+- https://youtu.be/eZToKIhfN24?si=VaE1RGBAkC3fk_4I
+- https://docs.unity3d.com/2018.3/Documentation/ScriptReference/UI.Slider.html
+- https://discussions.unity.com/t/how-to-play-an-animation-when-a-slider-is-at-a-certain-value/189673v
+- https://stackoverflow.com/questions/18313171/lua-rounding-numbers-and-then-truncate
+- https://stackoverflow.com/questions/10962085/lua-string-to-int
+- https://docs.unity3d.com/ScriptReference/GameObject.SendMessage.html
