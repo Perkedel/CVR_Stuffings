@@ -95,6 +95,12 @@ end
 
 -- Start is called before the first frame update
 function Start()
+    if RunningInProp or RunningInWorld then
+    elseif RunningInAvatar then
+        Script.Destroy("Sorry, this script Laron P7-K was meant for that prop, not Avatar.")
+    else
+    end
+
     statusText = BoundObjects.StatusTexter
     brandText = BoundObjects.TitleBrand
 

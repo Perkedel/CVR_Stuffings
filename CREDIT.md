@@ -8435,3 +8435,5 @@ https://youtu.be/qzhuWRQWK5I?si=PygoI274O32LWD5a
 - https://stackoverflow.com/questions/18313171/lua-rounding-numbers-and-then-truncate
 - https://stackoverflow.com/questions/10962085/lua-string-to-int
 - https://docs.unity3d.com/ScriptReference/GameObject.SendMessage.html
+- https://learn.microsoft.com/en-us/dotnet/api/system.datetime.now?view=net-8.0
+- https://discord.com/channels/410126604237406209/795882566968279091/1249100368403763251
