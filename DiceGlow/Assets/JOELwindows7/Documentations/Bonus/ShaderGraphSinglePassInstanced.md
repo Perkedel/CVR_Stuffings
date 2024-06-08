@@ -4,6 +4,14 @@
 
 It is possible to make your ShaderGraph automatically support & generate the SPS-I directive onto the shader code result, to ensure this shader renders for both eyes.
 
+Single Pass Instanced rendering mode, draws a shader **just once** then sent to all eyes. It is much more performant since it only does the draw call one time, unlike its Multi-pass counterpart. It helps remove lags due to numbers of eyes added as in before Single Pass, where for every eyes the shader got redrawn
+
+ChilloutVR exclusively uses Single Pass rendering mode, meaning all shaders must do support this Stereo Rendering mode. Otherwise, the shader will appear only on the first eye (left eye).
+
+To make the shader support Single Pass, one can simply implement serveral Stereo Rendering directives, into the `.shader` code. However, fiddling with these files are finicky & very risky, as every files are different for where to exactly implement the directives, among other functions & properties that would not be relevant resolving this problem.
+
+Thankfully, a solution was provided in particular for ShaderGraph where one can simply replace the render target with the modified ones that adds such Stereo Rendering directives, making workflows done intuitively with minimal risk.
+
 ## Before you begin
 
 - Install ShaderGraph. the name is `com.unity.shadergraph`. It should be there built-in the Package Manager at registry `Unity Registry`.
@@ -38,7 +46,7 @@ For existing ShaderGraph:
 
 For Unity 2019 series, you can use following ShaderGraph packages which versions have been caught & locked by z3y, including the extension
 
-Take a look at [this `2019` tree of the same repo](https://github.com/z3y/ShaderGraph/tree/2019)
+Take a look at [this `2019` tree of the same repo](https://github.com/z3y/ShaderGraph/tree/2019) OR [V-TOL's copy](https://github.com/Perkedel/CVR_Stuffings/blob/main/ThirdParty/V-TOL/share/shadergraphex.zip).
 
 Assuming your 2019 project haven't had ShaderGraph, Install the following in order:
 - `https://github.com/z3y/ShaderGraph.git?path=/com.unity.render-pipelines.core#2019` The Rendering pipeline core
@@ -51,7 +59,7 @@ You can now create ShaderGraph using z3y's modified built-in target (`Builtin (z
 
 ## Different color per eye??
 
-You can set which color to render for each different eyes, following [this Unity's documentation about Stereo rendering](https://docs.unity3d.com/2021.3/Documentation/Manual/SinglePassInstancing.html), at the last section of the ShaderGraph debuggin.
+You can set which color to render for each different eyes, following [this Unity's documentation about Stereo rendering](https://docs.unity3d.com/2021.3/Documentation/Manual/SinglePassInstancing.html), at the last section of the ShaderGraph debugging.
 
 Basically: 
 - you need to have a `Custom Node` (right click on field, `Add Node`, search `Custom` & pick `Custom Node`).
@@ -62,7 +70,8 @@ Basically:
 - **`Save Asset`**
 - Right click this `.shadergraph`, `Create`, `Material` to create new material using this new `.shadergraph` shader.
 - You can now drag & drop this `.material` onto any mesh you'd like. You can even adjust each of the 2 colors to your desire on this `.material`.
-- Test now by pressing top `Play`. If you upload this object to CVR, your object should looks like this, where each of your eyes render different color.
+- Test now by pressing top `Play`. If your Mock-HMD (Ensure `Single Pass Instanced` mode on `Project Setting` is selected in that dropdown) is used, you'll see a simulated VR split screen that shows each eyes gets different color according to what you've had selected each in your `.material` properties.
+- If you upload this object to CVR, your object should looks like this, where each of your eyes render different color.
 
 ## Iyey
 

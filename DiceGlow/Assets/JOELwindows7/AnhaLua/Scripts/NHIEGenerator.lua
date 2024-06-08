@@ -246,6 +246,8 @@ function Start()
         -- textOut = ownSelf.transform.GetChild(0).GetChild(0).GetChild(0).gameObject
         -- spawnableCompo = ownSelf.GetComponent("ABI.CCK.Components.CVRSpawnable")
         -- or from Shin's:
+        -- @type UnityEngine.Animator
+        -- animCompo = gameObject.GetComponentInParent("UnityEngine.Animator")
         
         print(tostring(spawnableCompo))
     else

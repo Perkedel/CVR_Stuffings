@@ -129,6 +129,34 @@ AnimatorState:
   m_MirrorParameter: 
   m_CycleOffsetParameter: 
   m_TimeParameter: 
+--- !u!1101 &-8401591169238627222
+AnimatorStateTransition:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: 
+  m_Conditions:
+  - m_ConditionMode: 1
+    m_ConditionEvent: tPose
+    m_EventTreshold: 0
+  - m_ConditionMode: 3
+    m_ConditionEvent: isReady
+    m_EventTreshold: 0.5
+  m_DstStateMachine: {fileID: 0}
+  m_DstState: {fileID: -6567897486894860866}
+  m_Solo: 0
+  m_Mute: 0
+  m_IsExit: 0
+  serializedVersion: 3
+  m_TransitionDuration: 0
+  m_TransitionOffset: 0
+  m_ExitTime: 0
+  m_HasExitTime: 0
+  m_HasFixedDuration: 1
+  m_InterruptionSource: 1
+  m_OrderedInterruption: 1
+  m_CanTransitionToSelf: 0
 --- !u!1102 &-8391025109409244839
 AnimatorState:
   serializedVersion: 6
@@ -262,6 +290,31 @@ AnimatorStateMachine:
   m_ExitPosition: {x: 800, y: 120, z: 0}
   m_ParentStateMachinePosition: {x: 800, y: 20, z: 0}
   m_DefaultState: {fileID: -8405521982879611961}
+--- !u!1101 &-7606603214975951601
+AnimatorStateTransition:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: 
+  m_Conditions:
+  - m_ConditionMode: 1
+    m_ConditionEvent: goToHomeMenu
+    m_EventTreshold: 0
+  m_DstStateMachine: {fileID: 0}
+  m_DstState: {fileID: 7974967087198664382}
+  m_Solo: 0
+  m_Mute: 0
+  m_IsExit: 0
+  serializedVersion: 3
+  m_TransitionDuration: 0
+  m_TransitionOffset: 0
+  m_ExitTime: 0
+  m_HasExitTime: 0
+  m_HasFixedDuration: 1
+  m_InterruptionSource: 1
+  m_OrderedInterruption: 1
+  m_CanTransitionToSelf: 0
 --- !u!1101 &-7482712472821441588
 AnimatorStateTransition:
   m_ObjectHideFlags: 1
@@ -510,6 +563,19 @@ MonoBehaviour:
     op: 0
     aType: 0
     aValue: 1
+    aMax: 1
+    aParamType: 0
+    aName: 
+    bType: 0
+    bValue: 0
+    bMax: 1
+    bParamType: 0
+    bName: 
+  - targetType: 1
+    targetName: selectPose
+    op: 0
+    aType: 0
+    aValue: 0
     aMax: 1
     aParamType: 0
     aName: 
@@ -866,6 +932,33 @@ MonoBehaviour:
     bParamType: 0
     bName: 
   localOnly: 0
+--- !u!1102 &-5296771373092457447
+AnimatorState:
+  serializedVersion: 6
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: LaronMHMenuAt1
+  m_Speed: 1
+  m_CycleOffset: 0
+  m_Transitions: []
+  m_StateMachineBehaviours:
+  - {fileID: 7360639458487182634}
+  m_Position: {x: 50, y: 50, z: 0}
+  m_IKOnFeet: 0
+  m_WriteDefaultValues: 0
+  m_Mirror: 0
+  m_SpeedParameterActive: 0
+  m_MirrorParameterActive: 0
+  m_CycleOffsetParameterActive: 0
+  m_TimeParameterActive: 0
+  m_Motion: {fileID: 7400000, guid: e4cff6d88083c7749a1361f0ac10fc3a, type: 2}
+  m_Tag: 
+  m_SpeedParameter: 
+  m_MirrorParameter: 
+  m_CycleOffsetParameter: 
+  m_TimeParameter: 
 --- !u!1101 &-5267195481589588220
 AnimatorStateTransition:
   m_ObjectHideFlags: 1
@@ -1096,6 +1189,31 @@ AnimatorState:
   m_MirrorParameter: 
   m_CycleOffsetParameter: 
   m_TimeParameter: 
+--- !u!1101 &-3673498061965218451
+AnimatorStateTransition:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: 
+  m_Conditions:
+  - m_ConditionMode: 1
+    m_ConditionEvent: resetPose
+    m_EventTreshold: 0
+  m_DstStateMachine: {fileID: 0}
+  m_DstState: {fileID: 153855012292197554}
+  m_Solo: 0
+  m_Mute: 0
+  m_IsExit: 0
+  serializedVersion: 3
+  m_TransitionDuration: 0
+  m_TransitionOffset: 0
+  m_ExitTime: 0
+  m_HasExitTime: 0
+  m_HasFixedDuration: 1
+  m_InterruptionSource: 0
+  m_OrderedInterruption: 1
+  m_CanTransitionToSelf: 0
 --- !u!1101 &-3542657593061075013
 AnimatorStateTransition:
   m_ObjectHideFlags: 1
@@ -1217,6 +1335,31 @@ AnimatorStateTransition:
     m_EventTreshold: 0.5
   m_DstStateMachine: {fileID: 0}
   m_DstState: {fileID: 153855012292197554}
+  m_Solo: 0
+  m_Mute: 0
+  m_IsExit: 0
+  serializedVersion: 3
+  m_TransitionDuration: 0
+  m_TransitionOffset: 0
+  m_ExitTime: 0
+  m_HasExitTime: 0
+  m_HasFixedDuration: 1
+  m_InterruptionSource: 1
+  m_OrderedInterruption: 1
+  m_CanTransitionToSelf: 0
+--- !u!1101 &-3121284501218243587
+AnimatorStateTransition:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: 
+  m_Conditions:
+  - m_ConditionMode: 1
+    m_ConditionEvent: goToMainMenu
+    m_EventTreshold: 0
+  m_DstStateMachine: {fileID: 0}
+  m_DstState: {fileID: -5296771373092457447}
   m_Solo: 0
   m_Mute: 0
   m_IsExit: 0
@@ -1410,6 +1553,73 @@ AnimatorStateTransition:
   m_InterruptionSource: 1
   m_OrderedInterruption: 1
   m_CanTransitionToSelf: 0
+--- !u!114 &-2572178991742403462
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6007a7c7844c4bcc994fd9111bf4d5a5, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  EnterTasks:
+  - targetType: 1
+    targetName: menuWhereAt
+    op: 0
+    aType: 0
+    aValue: 2
+    aMax: 1
+    aParamType: 0
+    aName: 
+    bType: 0
+    bValue: 0
+    bMax: 1
+    bParamType: 0
+    bName: 
+  - targetType: 4
+    targetName: goToHomeMenu
+    op: 0
+    aType: 0
+    aValue: 0
+    aMax: 1
+    aParamType: 0
+    aName: 
+    bType: 0
+    bValue: 0
+    bMax: 1
+    bParamType: 0
+    bName: 
+  - targetType: 4
+    targetName: goToMainMenu
+    op: 0
+    aType: 0
+    aValue: 0
+    aMax: 1
+    aParamType: 0
+    aName: 
+    bType: 0
+    bValue: 0
+    bMax: 1
+    bParamType: 0
+    bName: 
+  - targetType: 4
+    targetName: goToAdjustMenu
+    op: 0
+    aType: 0
+    aValue: 0
+    aMax: 1
+    aParamType: 0
+    aName: 
+    bType: 0
+    bValue: 0
+    bMax: 1
+    bParamType: 0
+    bName: 
+  ExitTasks: []
+  localOnly: 0
 --- !u!1102 &-2537441529806214134
 AnimatorState:
   serializedVersion: 6
@@ -1582,7 +1792,20 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6007a7c7844c4bcc994fd9111bf4d5a5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  EnterTasks: []
+  EnterTasks:
+  - targetType: 1
+    targetName: selectPose
+    op: 0
+    aType: 0
+    aValue: 1
+    aMax: 1
+    aParamType: 0
+    aName: 
+    bType: 0
+    bValue: 0
+    bMax: 1
+    bParamType: 0
+    bName: 
   ExitTasks: []
   localOnly: 0
 --- !u!1101 &-982026087392937538
@@ -1669,6 +1892,40 @@ AnimatorStateTransition:
   m_InterruptionSource: 0
   m_OrderedInterruption: 1
   m_CanTransitionToSelf: 0
+--- !u!1107 &-310531458692607595
+AnimatorStateMachine:
+  serializedVersion: 6
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: MenuInterface
+  m_ChildStates:
+  - serializedVersion: 1
+    m_State: {fileID: 7974967087198664382}
+    m_Position: {x: 310, y: 100, z: 0}
+  - serializedVersion: 1
+    m_State: {fileID: -5296771373092457447}
+    m_Position: {x: 320, y: 30, z: 0}
+  - serializedVersion: 1
+    m_State: {fileID: 908538298563237702}
+    m_Position: {x: 330, y: -40, z: 0}
+  m_ChildStateMachines: []
+  m_AnyStateTransitions:
+  - {fileID: 8787173472171935061}
+  - {fileID: 2419836290079074654}
+  - {fileID: -3121284501218243587}
+  - {fileID: -7606603214975951601}
+  - {fileID: 1134047550934240152}
+  - {fileID: 5012158444746603665}
+  m_EntryTransitions: []
+  m_StateMachineTransitions: {}
+  m_StateMachineBehaviours: []
+  m_AnyStatePosition: {x: 50, y: 20, z: 0}
+  m_EntryPosition: {x: 50, y: 120, z: 0}
+  m_ExitPosition: {x: 800, y: 120, z: 0}
+  m_ParentStateMachinePosition: {x: 800, y: 20, z: 0}
+  m_DefaultState: {fileID: 7974967087198664382}
 --- !u!1107 &-285800856873463105
 AnimatorStateMachine:
   serializedVersion: 6
@@ -1864,7 +2121,49 @@ AnimatorController:
     m_DefaultInt: 0
     m_DefaultBool: 0
     m_Controller: {fileID: 0}
+  - m_Name: resetPose
+    m_Type: 9
+    m_DefaultFloat: 0
+    m_DefaultInt: 0
+    m_DefaultBool: 0
+    m_Controller: {fileID: 0}
+  - m_Name: tPose
+    m_Type: 9
+    m_DefaultFloat: 0
+    m_DefaultInt: 0
+    m_DefaultBool: 0
+    m_Controller: {fileID: 0}
+  - m_Name: swingPose
+    m_Type: 9
+    m_DefaultFloat: 0
+    m_DefaultInt: 0
+    m_DefaultBool: 0
+    m_Controller: {fileID: 0}
   - m_Name: pressUpdatePose
+    m_Type: 9
+    m_DefaultFloat: 0
+    m_DefaultInt: 0
+    m_DefaultBool: 0
+    m_Controller: {fileID: 0}
+  - m_Name: menuWhereAt
+    m_Type: 1
+    m_DefaultFloat: 0
+    m_DefaultInt: 0
+    m_DefaultBool: 0
+    m_Controller: {fileID: 0}
+  - m_Name: goToHomeMenu
+    m_Type: 9
+    m_DefaultFloat: 0
+    m_DefaultInt: 0
+    m_DefaultBool: 0
+    m_Controller: {fileID: 0}
+  - m_Name: goToMainMenu
+    m_Type: 9
+    m_DefaultFloat: 0
+    m_DefaultInt: 0
+    m_DefaultBool: 0
+    m_Controller: {fileID: 0}
+  - m_Name: goToAdjustMenu
     m_Type: 9
     m_DefaultFloat: 0
     m_DefaultInt: 0
@@ -2003,6 +2302,18 @@ AnimatorController:
     m_IKPass: 0
     m_SyncedLayerAffectsTiming: 0
     m_Controller: {fileID: 9100000}
+  - serializedVersion: 5
+    m_Name: MenuInterface
+    m_StateMachine: {fileID: -310531458692607595}
+    m_Mask: {fileID: 0}
+    m_Motions: []
+    m_Behaviours: []
+    m_BlendingMode: 0
+    m_SyncedLayerIndex: -1
+    m_DefaultWeight: 1
+    m_IKPass: 0
+    m_SyncedLayerAffectsTiming: 0
+    m_Controller: {fileID: 9100000}
 --- !u!1102 &153855012292197554
 AnimatorState:
   serializedVersion: 6
@@ -2027,6 +2338,33 @@ AnimatorState:
   m_CycleOffsetParameterActive: 0
   m_TimeParameterActive: 0
   m_Motion: {fileID: 7400000, guid: a705702d1292ae5408152844f31f6d6a, type: 2}
+  m_Tag: 
+  m_SpeedParameter: 
+  m_MirrorParameter: 
+  m_CycleOffsetParameter: 
+  m_TimeParameter: 
+--- !u!1102 &908538298563237702
+AnimatorState:
+  serializedVersion: 6
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: LaronMHMenuAt2
+  m_Speed: 1
+  m_CycleOffset: 0
+  m_Transitions: []
+  m_StateMachineBehaviours:
+  - {fileID: -2572178991742403462}
+  m_Position: {x: 50, y: 50, z: 0}
+  m_IKOnFeet: 0
+  m_WriteDefaultValues: 0
+  m_Mirror: 0
+  m_SpeedParameterActive: 0
+  m_MirrorParameterActive: 0
+  m_CycleOffsetParameterActive: 0
+  m_TimeParameterActive: 0
+  m_Motion: {fileID: 7400000, guid: 3df7e29c6439d334fb7117d38d085e72, type: 2}
   m_Tag: 
   m_SpeedParameter: 
   m_MirrorParameter: 
@@ -2086,6 +2424,31 @@ AnimatorStateTransition:
   m_HasExitTime: 1
   m_HasFixedDuration: 1
   m_InterruptionSource: 0
+  m_OrderedInterruption: 1
+  m_CanTransitionToSelf: 0
+--- !u!1101 &1134047550934240152
+AnimatorStateTransition:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: 
+  m_Conditions:
+  - m_ConditionMode: 1
+    m_ConditionEvent: goToAdjustMenu
+    m_EventTreshold: 0
+  m_DstStateMachine: {fileID: 0}
+  m_DstState: {fileID: 908538298563237702}
+  m_Solo: 0
+  m_Mute: 0
+  m_IsExit: 0
+  serializedVersion: 3
+  m_TransitionDuration: 0
+  m_TransitionOffset: 0
+  m_ExitTime: 0
+  m_HasExitTime: 0
+  m_HasFixedDuration: 1
+  m_InterruptionSource: 1
   m_OrderedInterruption: 1
   m_CanTransitionToSelf: 0
 --- !u!1101 &1239526888910361812
@@ -2209,7 +2572,20 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6007a7c7844c4bcc994fd9111bf4d5a5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  EnterTasks: []
+  EnterTasks:
+  - targetType: 1
+    targetName: selectPose
+    op: 0
+    aType: 0
+    aValue: 0
+    aMax: 1
+    aParamType: 0
+    aName: 
+    bType: 0
+    bValue: 0
+    bMax: 1
+    bParamType: 0
+    bName: 
   ExitTasks: []
   localOnly: 0
 --- !u!1107 &1975475795785517780
@@ -2236,6 +2612,9 @@ AnimatorStateMachine:
   - {fileID: -3172841276335728777}
   - {fileID: -859582151867005987}
   - {fileID: 1094096503568459391}
+  - {fileID: -8401591169238627222}
+  - {fileID: -3673498061965218451}
+  - {fileID: 6525677889271349726}
   m_EntryTransitions: []
   m_StateMachineTransitions: {}
   m_StateMachineBehaviours: []
@@ -2319,6 +2698,101 @@ AnimatorStateTransition:
   m_InterruptionSource: 0
   m_OrderedInterruption: 1
   m_CanTransitionToSelf: 1
+--- !u!1101 &2419836290079074654
+AnimatorStateTransition:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: 
+  m_Conditions:
+  - m_ConditionMode: 3
+    m_ConditionEvent: menuWhereAt
+    m_EventTreshold: 0.5
+  - m_ConditionMode: 4
+    m_ConditionEvent: menuWhereAt
+    m_EventTreshold: 1.5
+  m_DstStateMachine: {fileID: 0}
+  m_DstState: {fileID: -5296771373092457447}
+  m_Solo: 0
+  m_Mute: 0
+  m_IsExit: 0
+  serializedVersion: 3
+  m_TransitionDuration: 0
+  m_TransitionOffset: 0
+  m_ExitTime: 0
+  m_HasExitTime: 0
+  m_HasFixedDuration: 1
+  m_InterruptionSource: 1
+  m_OrderedInterruption: 1
+  m_CanTransitionToSelf: 0
+--- !u!114 &2526186355429186742
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6007a7c7844c4bcc994fd9111bf4d5a5, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  EnterTasks:
+  - targetType: 1
+    targetName: menuWhereAt
+    op: 0
+    aType: 0
+    aValue: 0
+    aMax: 1
+    aParamType: 0
+    aName: 
+    bType: 0
+    bValue: 0
+    bMax: 1
+    bParamType: 0
+    bName: 
+  - targetType: 4
+    targetName: goToHomeMenu
+    op: 0
+    aType: 0
+    aValue: 0
+    aMax: 1
+    aParamType: 0
+    aName: 
+    bType: 0
+    bValue: 0
+    bMax: 1
+    bParamType: 0
+    bName: 
+  - targetType: 4
+    targetName: goToMainMenu
+    op: 0
+    aType: 0
+    aValue: 0
+    aMax: 1
+    aParamType: 0
+    aName: 
+    bType: 0
+    bValue: 0
+    bMax: 1
+    bParamType: 0
+    bName: 
+  - targetType: 4
+    targetName: goToAdjustMenu
+    op: 0
+    aType: 0
+    aValue: 0
+    aMax: 1
+    aParamType: 0
+    aName: 
+    bType: 0
+    bValue: 0
+    bMax: 1
+    bParamType: 0
+    bName: 
+  ExitTasks: []
+  localOnly: 0
 --- !u!1102 &2590432854843104548
 AnimatorState:
   serializedVersion: 6
@@ -2818,6 +3292,19 @@ MonoBehaviour:
     bMax: 1
     bParamType: 0
     bName: 
+  - targetType: 1
+    targetName: selectPose
+    op: 0
+    aType: 0
+    aValue: 0
+    aMax: 1
+    aParamType: 0
+    aName: 
+    bType: 0
+    bValue: 0
+    bMax: 1
+    bParamType: 0
+    bName: 
   ExitTasks:
   - targetType: 1
     targetName: dummyTester
@@ -2858,6 +3345,34 @@ AnimatorStateTransition:
   m_InterruptionSource: 0
   m_OrderedInterruption: 1
   m_CanTransitionToSelf: 1
+--- !u!1101 &5012158444746603665
+AnimatorStateTransition:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: 
+  m_Conditions:
+  - m_ConditionMode: 3
+    m_ConditionEvent: menuWhereAt
+    m_EventTreshold: 1.5
+  - m_ConditionMode: 4
+    m_ConditionEvent: menuWhereAt
+    m_EventTreshold: 2.5
+  m_DstStateMachine: {fileID: 0}
+  m_DstState: {fileID: 908538298563237702}
+  m_Solo: 0
+  m_Mute: 0
+  m_IsExit: 0
+  serializedVersion: 3
+  m_TransitionDuration: 0
+  m_TransitionOffset: 0
+  m_ExitTime: 0
+  m_HasExitTime: 0
+  m_HasFixedDuration: 1
+  m_InterruptionSource: 1
+  m_OrderedInterruption: 1
+  m_CanTransitionToSelf: 0
 --- !u!1102 &5111651011446218820
 AnimatorState:
   serializedVersion: 6
@@ -3039,7 +3554,20 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6007a7c7844c4bcc994fd9111bf4d5a5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  EnterTasks: []
+  EnterTasks:
+  - targetType: 1
+    targetName: selectPose
+    op: 0
+    aType: 0
+    aValue: 2
+    aMax: 1
+    aParamType: 0
+    aName: 
+    bType: 0
+    bValue: 0
+    bMax: 1
+    bParamType: 0
+    bName: 
   ExitTasks: []
   localOnly: 0
 --- !u!1102 &6433505898982753945
@@ -3071,6 +3599,34 @@ AnimatorState:
   m_MirrorParameter: 
   m_CycleOffsetParameter: 
   m_TimeParameter: 
+--- !u!1101 &6525677889271349726
+AnimatorStateTransition:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: 
+  m_Conditions:
+  - m_ConditionMode: 1
+    m_ConditionEvent: swingPose
+    m_EventTreshold: 0
+  - m_ConditionMode: 3
+    m_ConditionEvent: isReady
+    m_EventTreshold: 0.5
+  m_DstStateMachine: {fileID: 0}
+  m_DstState: {fileID: 6751069139082637783}
+  m_Solo: 0
+  m_Mute: 0
+  m_IsExit: 0
+  serializedVersion: 3
+  m_TransitionDuration: 0
+  m_TransitionOffset: 0
+  m_ExitTime: 0
+  m_HasExitTime: 0
+  m_HasFixedDuration: 1
+  m_InterruptionSource: 1
+  m_OrderedInterruption: 1
+  m_CanTransitionToSelf: 0
 --- !u!114 &6545121632355779385
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -3274,6 +3830,73 @@ MonoBehaviour:
     bParamType: 0
     bName: 
   localOnly: 0
+--- !u!114 &7360639458487182634
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6007a7c7844c4bcc994fd9111bf4d5a5, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  EnterTasks:
+  - targetType: 1
+    targetName: menuWhereAt
+    op: 0
+    aType: 0
+    aValue: 1
+    aMax: 1
+    aParamType: 0
+    aName: 
+    bType: 0
+    bValue: 0
+    bMax: 1
+    bParamType: 0
+    bName: 
+  - targetType: 4
+    targetName: goToHomeMenu
+    op: 0
+    aType: 0
+    aValue: 0
+    aMax: 1
+    aParamType: 0
+    aName: 
+    bType: 0
+    bValue: 0
+    bMax: 1
+    bParamType: 0
+    bName: 
+  - targetType: 4
+    targetName: goToMainMenu
+    op: 0
+    aType: 0
+    aValue: 0
+    aMax: 1
+    aParamType: 0
+    aName: 
+    bType: 0
+    bValue: 0
+    bMax: 1
+    bParamType: 0
+    bName: 
+  - targetType: 4
+    targetName: goToAdjustMenu
+    op: 0
+    aType: 0
+    aValue: 0
+    aMax: 1
+    aParamType: 0
+    aName: 
+    bType: 0
+    bValue: 0
+    bMax: 1
+    bParamType: 0
+    bName: 
+  ExitTasks: []
+  localOnly: 0
 --- !u!1101 &7749062944954250289
 AnimatorStateTransition:
   m_ObjectHideFlags: 1
@@ -3324,6 +3947,33 @@ AnimatorStateTransition:
   m_InterruptionSource: 0
   m_OrderedInterruption: 1
   m_CanTransitionToSelf: 1
+--- !u!1102 &7974967087198664382
+AnimatorState:
+  serializedVersion: 6
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: LaronMHMenuAt0
+  m_Speed: 1
+  m_CycleOffset: 0
+  m_Transitions: []
+  m_StateMachineBehaviours:
+  - {fileID: 2526186355429186742}
+  m_Position: {x: 50, y: 50, z: 0}
+  m_IKOnFeet: 0
+  m_WriteDefaultValues: 0
+  m_Mirror: 0
+  m_SpeedParameterActive: 0
+  m_MirrorParameterActive: 0
+  m_CycleOffsetParameterActive: 0
+  m_TimeParameterActive: 0
+  m_Motion: {fileID: 7400000, guid: ccb87b6e4a9887f40980e7b104eaacab, type: 2}
+  m_Tag: 
+  m_SpeedParameter: 
+  m_MirrorParameter: 
+  m_CycleOffsetParameter: 
+  m_TimeParameter: 
 --- !u!1102 &8098335731478486125
 AnimatorState:
   serializedVersion: 6
@@ -3537,6 +4187,34 @@ AnimatorStateTransition:
   m_InterruptionSource: 0
   m_OrderedInterruption: 1
   m_CanTransitionToSelf: 1
+--- !u!1101 &8787173472171935061
+AnimatorStateTransition:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: 
+  m_Conditions:
+  - m_ConditionMode: 3
+    m_ConditionEvent: menuWhereAt
+    m_EventTreshold: -0.5
+  - m_ConditionMode: 4
+    m_ConditionEvent: menuWhereAt
+    m_EventTreshold: 0.5
+  m_DstStateMachine: {fileID: 0}
+  m_DstState: {fileID: 7974967087198664382}
+  m_Solo: 0
+  m_Mute: 0
+  m_IsExit: 0
+  serializedVersion: 3
+  m_TransitionDuration: 0
+  m_TransitionOffset: 0
+  m_ExitTime: 0
+  m_HasExitTime: 0
+  m_HasFixedDuration: 1
+  m_InterruptionSource: 1
+  m_OrderedInterruption: 1
+  m_CanTransitionToSelf: 0
 --- !u!114 &8923716290648037507
 MonoBehaviour:
   m_ObjectHideFlags: 1
