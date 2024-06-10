@@ -8437,3 +8437,46 @@ https://youtu.be/qzhuWRQWK5I?si=PygoI274O32LWD5a
 - https://docs.unity3d.com/ScriptReference/GameObject.SendMessage.html
 - https://learn.microsoft.com/en-us/dotnet/api/system.datetime.now?view=net-8.0
 - https://discord.com/channels/410126604237406209/795882566968279091/1249100368403763251
+- https://discord.com/channels/410126604237406209/797279576459968555/1249119393359855716
+- https://discord.com/channels/410126604237406209/797279576459968555/1249124280734842952
+- https://battlebunnymods.booth.pm/items/5788438 **PAID**
+- https://battlebunnymods.booth.pm/items pls don't forget the last ones!
+- https://ambientcg.com/view?id=WoodFloorSubstance007
+- https://ambientcg.com/view?id=WoodFloor054
+- https://ambientcg.com/view?id=Carpet005
+- https://assetstore.unity.com/packages/tools/modeling/umodeler-80868 **PAID**
+- https://docs.unity3d.com/Packages/com.unity.probuilder@4.0/manual/uv-editor.html
+- https://ambientcg.com/view?id=RoofingTiles012A
+- https://discord.com/channels/410126604237406209/795882566968279091/1249379782844747818
+- https://discord.com/channels/410126604237406209/795882566968279091/1249385889583595580 CoconutCapybara lua moment
+- https://discord.com/channels/410126604237406209/795882566968279091/1249387307807674478 ye
+- https://discord.com/channels/410126604237406209/795882566968279091/1249401534572265483
+- https://stackoverflow.com/questions/4891259/get-number-of-seconds-since
+- https://learn.microsoft.com/en-us/dotnet/api/system.timespan.totalseconds?view=net-8.0
+- https://www.geeksforgeeks.org/converting-seconds-into-days-hours-minutes-and-seconds/
+- https://stackoverflow.com/questions/2655771/c-sharp-seconds-since-specific-date
+- https://stackoverflow.com/questions/55472873/how-to-get-local-time-as-a-formatted-string-in-lua
+- https://www.lua.org/pil/22.1.html
+- https://forum.rainmeter.net/viewtopic.php?t=27625
+- https://stackoverflow.com/questions/17872997/how-do-i-convert-seconds-since-epoch-to-current-date-and-time
+- https://forum.rainmeter.net/viewtopic.php?t=23486
+- https://computercraft.info/wiki/Os.time
+- https://www.gammon.com.au/scripts/doc.php?lua=os.clock
+- https://stackoverflow.com/questions/463101/lua-current-time-in-milliseconds
+- https://www.lua.org/pil/22.1.html
+- https://computercraft.info/wiki/Os.time
+- https://forum.rainmeter.net/viewtopic.php?t=23486
+- https://stackoverflow.com/questions/17872997/how-do-i-convert-seconds-since-epoch-to-current-date-and-time
+- https://www.patreon.com/posts/xmas-lights-32030551 RED_SIM
+- Project Draqhsel (Codename) is an initiative assembling people around the universe that look-alike or similar or resembles other people from other franchises. You are here for a reason.
+- Draqhsel = D'ah tseul.
+- https://youtube.com/shorts/bl3UAgVswqo?si=GOtG2hEuX1tJEcZM
+- https://printables.com/model/864339-box-with-sliding-door
+- https://discord.com/channels/410126604237406209/1240763673346183279/1249580396241485924 Fearles7 ask help for raycasting
+- https://discord.com/channels/410126604237406209/1240763673346183279/1249596362585145437 SDraw ask about look rotation. NAK tells Gravity
+- https://discord.com/channels/867567549858971669/867567551809716226/1247783073802616852
+- https://discord.com/channels/867567549858971669/867567551809716226/1247832507127169104
+- https://ambientCG.com/a/Wood092
+- https://ambientcg.com/view?id=Fabric032
+- https://ambientcg.com/view?id=Fabric019
+- https://feedback.abinteractive.net/p/official-prop-version-of-the-ui
