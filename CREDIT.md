@@ -8480,3 +8480,12 @@ https://youtu.be/qzhuWRQWK5I?si=PygoI274O32LWD5a
 - https://ambientcg.com/view?id=Fabric032
 - https://ambientcg.com/view?id=Fabric019
 - https://feedback.abinteractive.net/p/official-prop-version-of-the-ui
+- https://www.thebasemesh.com/model-library We began downloading Base Mesh now!
+- https://basemeshtim.artstation.com/
+- https://www.bbc.co.uk/cbbc/games/danger-mouse-full-speed-game
+- https://basemeshtim.artstation.com/projects/lk0kG
+- https://basemeshtim.artstation.com/projects/gEZkG
+- https://www.thebasemesh.com/blog
+- https://www.thebasemesh.com/post/a-new-tutorial
+- https://github.com/Nirv-git/CVRMods-Nirv/tree/main/SitLaydown
+- https://github.com/Dervali-git/VRC-Tips/blob/main/LaySittingPrefab.md
