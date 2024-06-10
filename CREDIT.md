@@ -8489,3 +8489,4 @@ https://youtu.be/qzhuWRQWK5I?si=PygoI274O32LWD5a
 - https://www.thebasemesh.com/post/a-new-tutorial
 - https://github.com/Nirv-git/CVRMods-Nirv/tree/main/SitLaydown
 - https://github.com/Dervali-git/VRC-Tips/blob/main/LaySittingPrefab.md
+- https://discord.com/channels/410126604237406209/1195601585720528976/1249817530110054550
