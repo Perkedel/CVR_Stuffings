@@ -16,7 +16,7 @@
 CCK = require("CVR.CCK")
 UnityEngine = require("UnityEngine")
 TMP = require("TextMeshPro")
--- TM = require("UnityEngine.UI.Text")
+TM = require("UnityEngine.UI.Text")
 
 -- Variables
 local playerCounts = PlayerAPI.PlayerCount
