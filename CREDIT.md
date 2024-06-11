@@ -8490,3 +8490,28 @@ https://youtu.be/qzhuWRQWK5I?si=PygoI274O32LWD5a
 - https://github.com/Nirv-git/CVRMods-Nirv/tree/main/SitLaydown
 - https://github.com/Dervali-git/VRC-Tips/blob/main/LaySittingPrefab.md
 - https://discord.com/channels/410126604237406209/1195601585720528976/1249817530110054550
+- https://discord.com/channels/410126604237406209/1240763673346183279/1249853947263455312 Gin found solution to change texture color!!!!!
+- https://discord.com/channels/410126604237406209/1240763673346183279/1249854686370988114
+- https://docs.unity3d.com/ScriptReference/Color.HSVToRGB.html
+- https://discord.com/channels/410126604237406209/1240763673346183279/1249994862921519134 get component. Tomb furhub
+- https://discord.com/channels/410126604237406209/1240763673346183279/1249998428763590676
+- https://discord.com/channels/410126604237406209/766086942005526579/1249850824373440613
+- https://discord.com/channels/410126604237406209/766086942005526579/1249960788626636810
+- https://discord.com/channels/410126604237406209/1004342533964439592/1249199782669582436
+- https://discord.com/channels/410126604237406209/1004342533964439592/1249871893650210896
+- https://blendermarket.com/products/retopoflow **PAID** Special promo 100% OFF today (11 Juni 2024)
+- https://github.com/CGCookie/retopoflow actually it's free. & this repo is entire add-on you can clone right to addon folder in Blender.
+- https://discord.com/channels/410126604237406209/1004342533964439592/1249896344823533680 yess. Noachi.
+- caveats tho that it maybe versions behind.
+- https://therpgslayer.gumroad.com/ Pls kemono furry!
+- https://store.steampowered.com/app/1959580/Supermoves/
+- https://assetstore.unity.com/packages/3d/props/industrial/gas-cylinder-pbr-pack-free-194471 GAS CYLINDER
+- https://assetstore.unity.com/packages/3d/props/high-poly-gas-cylinders-131593 & the high poly one.
+- https://assetstore.unity.com/packages/3d/props/high-poly-barrels-141114 HIGH POLY BARRELS?!??!?!?!??!?!
+- https://youtube.com/shorts/HUMzzag5qbM?si=pb-wARdeLXGEjqYX model grenade Dovolo
+- https://discord.com/channels/410126604237406209/1240763673346183279/1250130532327493783 SDraw. pairs loop
+- https://discord.com/channels/410126604237406209/1240763673346183279/1250139340580061284
+- https://discord.com/channels/410126604237406209/1240763673346183279/1250139882005856439
+- https://discord.com/channels/410126604237406209/1240763673346183279/1250139882005856439 script interchange.
+- https://discord.com/channels/762908352493256714/762908352949780502/1250173556919111780
+- https://discord.com/channels/410126604237406209/1195601585720528976/1250167184089546802 NAK floating origin lua script
