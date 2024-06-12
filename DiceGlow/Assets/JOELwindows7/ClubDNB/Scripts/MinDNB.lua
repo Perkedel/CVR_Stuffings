@@ -7,6 +7,11 @@
     - https://github.com/NotAKidOnSteam/NAK_CVR_Prefabs/blob/c7d1ce6c5925f2375e7b37f29c4d86be521f8b57/LuaExamples/PlayerWall/PlayerWall.lua
     - https://github.com/NotAKidOnSteam/NAK_CVR_Prefabs/blob/main/LuaExamples/PlayerWall/PlayerWall.lua
 
+    Inspiration Sauce:
+    - SketchFoxsky's Bar
+    - Gas Station
+    - EV Charging Station
+
     by JOELwindows7
     Perkedel Technologies
     Code: GNU GPL v3

@@ -8515,3 +8515,37 @@ https://youtu.be/qzhuWRQWK5I?si=PygoI274O32LWD5a
 - https://discord.com/channels/410126604237406209/1240763673346183279/1250139882005856439 script interchange.
 - https://discord.com/channels/762908352493256714/762908352949780502/1250173556919111780
 - https://discord.com/channels/410126604237406209/1195601585720528976/1250167184089546802 NAK floating origin lua script
+- laron mh troubled! pls reupdate
+- https://markcreator.gumroad.com/l/Polytool **PAID** PolyTool 
+- https://github.com/googlearchive/poly-toolkit-unity no, not this one. different.
+- https://event.vket.com/en
+- https://vket.com
+- johny realname nikki
+- https://furality.org/umbra/assets
+- https://furality.github.io/vcc-packages/
+- https://github.com/furality/vcc-packages
+- You need Unity 2022 VRChat SDK VCC!!!
+- https://github.com/kafeijao/Kafe_CVR_Mods/releases/tag/r71
+- Beckadam laser tag fixed
+- https://github.com/Searaphim/CVR-PlayTogether?tab=readme-ov-file What is this??? interesting!
+- https://github.com/Searaphim/CVR-PlayTogether/wiki/How-To-Play HMMMM?!??!
+- https://discord.com/channels/410126604237406209/1240763673346183279/1250182651395051553 trouble range. SDraw    
+- https://discord.com/channels/410126604237406209/1240763673346183279/1250183531515088927
+- https://discord.com/channels/410126604237406209/1240763673346183279/1250183531515088927 explodos. NAK
+- https://youtube.com/playlist?list=PLjEaoINr3zgEt_DatH4t_A3u1PpLkK4Lm&si=ctEaHU6wXoLaNMJk hey, Blender Guru had this! Look:
+- https://www.dropbox.com/s/he3yg1zsvoevfqp/CCO_Male_base_mesh_standing.blend?dl=0
+- https://www.poliigon.com/search/%22bird%20is%20the%20word%22?utm_campaign=fguy&utm_source=youtube&utm_medium=bg
+- https://www.poliigon.com/blender?utm_campaign=fguy&utm_source=youtube&utm_medium=bg
+- https://www.reallusion.com/character-creator
+- OK
+- https://discord.com/channels/410126604237406209/1240763673346183279/1250414580958494812 Influencer. SDraw
+- https://discord.com/channels/410126604237406209/1240763673346183279/1250438874082316329 SDraw Gyro test UnityPackage. New function `getCVRGravityDirection()` 👉 `return (BoundObjects.gyroTarget.position - BoundObjects.gyroRoot.position).normalized`. Put this `Gyro` thingy into your prop & then add 2 above BoundObjects.
+- https://assetstore.unity.com/packages/tools/particles-effects/mudbun-volumetric-vfx-modeling-177891 **PAID**
+- https://discord.com/channels/410126604237406209/1240763673346183279/1250445005169103021
+- https://docs.unity3d.com/ScriptReference/Vector3-normalized.html
+- https://simulationcorner.net/index.php?page=sam
+- https://youtu.be/BPe0j_5g-m4?si=byeiY3y6MfwHqibs
+- https://discord.com/channels/722818587475050577/755348017799888927/1250506046183702539
+- https://www.youtube.com/watch?v=bMmNPp3U9iE
+- https://github.com/hisprofile/blenderstuff/blob/main/Creations/Source%20Engine%20Blender%20Collection.md **PLS DOWNLOAD**
+- https://feedback.abinteractive.net/p/scripting-isvalid-function-to-verify-wrapped-object-wrapper-are-alive
