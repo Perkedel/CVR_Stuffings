@@ -430,12 +430,13 @@ Here are the UUIDs of all these assets we uploaded to CVR:
 | `56925a80-f3d7-40c3-ab06-3d2b299ab77b` | Zuuljedus' homeworld | JOELwindows7 | . |
 | `9917f31f-90ef-45bd-9980-8ce640b90dba` | NestDNB | JOELwindows7 | Church building |
 | `9d1b1385-6e80-4a2a-a2a4-7d081daef12b` | ClubDNB | JOELwindows7 | Gravity Zone Night club |
+| `64c4bbc0-f773-43ed-a8b6-60a4529258ab` | FloatDNB | JOELwindows7 | Gravity Zone Night club Smaller |
 | `76c4d45f-8490-4c03-98bc-1949b5660b7c` | CafeDNB | JOELwindows7 | Small Cafe usually found in office building clusters around residence like Pantai Indah Kapuk or similar |
 | `60c50664-1c58-4a8f-8e82-b4242b29f8bc` | Planet Sample | JOELwindows7 | How to Gravity Zone?! |
 | `dec62aa9-9f9f-48e8-98a7-8f2591de2511` | Inverse Gravity houses | JOELwindows7 | Residence full of houses with inverse gravity |
 | `9a708c96-2f39-47e5-a49e-79ae97e193f5` | Water Box Planet Sample | JOELwindows7 | The planet is box & it's all water |
 | `d038e9a9-26b5-4503-b8be-e6232d9fa747` | Fancy Integrity | JOELwindows7 | Studio Apartment |
-| `` | Optimized Outcome | JOELwindows7 | Studio Dormitory |
+| `5ac6fda1-69bc-445e-afac-af5ea577064c` | Optimized Outcome | JOELwindows7 | Studio Dormitory |
 | `3fe2b7c3-129a-418e-87ad-c3931657f843` | UCC Cinema | MilchZocker | (**NOT PERKEDEL**) |
 | `af0f00bc-0702-46ce-9441-bcce0ad6c813` | UCC Avatars | MilchZocker | (**NOT PERKEDEL**) |
 | `9d0677a5-b88f-4994-901b-7b91c99e8cd8` | UCC Bird Island | MilchZocker | (**NOT PERKEDEL**) |

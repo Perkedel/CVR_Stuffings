@@ -10,8 +10,9 @@
     Code: GNU GPL v3
     Assets: CC4.0-BY-SA
 ]]--
+print('HALO LARON')
 CVR = require('CVR')
-CCK = require('CVR.CCK')
+CCK = require('ABI.CCK')
 Network = require('CVR.Network')
 UnityEngine = require("UnityEngine")
 UnityUI = require("UnityEngine.UI")
@@ -97,7 +98,7 @@ end
 function Start()
     if RunningInProp or RunningInWorld then
     elseif RunningInAvatar then
-        Script.Destroy("Sorry, this script Laron P7-K was meant for that prop, not Avatar.")
+        -- Script.Destroy("Sorry, this script Laron P7-K was meant for that prop, not Avatar.")
     else
     end
 

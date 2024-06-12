@@ -48,18 +48,21 @@
     ```
 ]]--
 -- JOELwindows7
-CVR = require('CVR')
-CCK = require('CVR.CCK')
-Network = require('CVR.Network')
+print('HALO ANHA')
+print ('Pls work require wtf ' .. tostring(require('UnityEngine')))
 UnityEngine = require("UnityEngine")
+CVR = require('CVR')
+CCK = require('ABI.CCK')
+Network = require('CVR.Network')
 UnityUI = require("UnityEngine.UI")
 TMP = require("TextMeshPro")
 RCC = require("RCC")
-TM = UnityEngine.TextMesh
--- UITextOld = UnityEngine.UI
+TM = require('UnityEngine.TextMesh')
 AudioSource = require("UnityEngine.AudioSource")
+-- UITextOld = UnityEngine.UI
 
 local DEBUG_MODE = false
+local perInit = false
 
 local ownSelf
 local isSpun = false
@@ -140,6 +143,7 @@ local runsOnSay = {
 }
 local whoLeft = ''
 local lastAvatarLoadEventSay = ''
+local sdrawGravitySay = ''
 
 
 function DebugPrint(message)
@@ -154,6 +158,11 @@ end
 
 function RandomizeQuote()
     selectQuote = quotes[math.random(#quotes)]
+end
+
+function GetCVRGravityDirection()
+    -- SDraw. https://discord.com/channels/410126604237406209/1240763673346183279/1250438874082316329
+    return (BoundObjects.gyroTarget.transform.position - BoundObjects.gyroRoot.transform.position).normalized
 end
 
 function OnMouseDown()
@@ -309,16 +318,21 @@ function UpdateInstallSay()
         luaStatusSay = luaStatusSay .. " " .. runsOnSay[i]
     end
 
+    sdrawGravitySay = 'Gravity Pos SDraw: <color=red>X = ' .. GetCVRGravityDirection().x .. '</color>; <color=green>Y = ' .. GetCVRGravityDirection().y .. '</color>; <color=blue>Z = ' .. GetCVRGravityDirection().z .. '</color>'
+    -- listen up codeium, are you oke? you forgot to `..`.
+
     ruleSays = ''
     ruleSays = ruleSays .. flyAllowed .. ' '
 
-    installSay = title .. "\n" .. selectQuote .. "\n" .. "World: " .. InstancesAPI.InstanceName .. "(" .. InstancesAPI.InstancePrivacy .. ")\n" .. "Rules: " .. ruleSays .. "\n" .. "Status: " .. luaStatusSay .. "\n" .. "Connection: " .. areWeOnline .. " (" .. InstancesAPI.Ping .. " ms)\n" .. sayWelcomeHome .. "\n" .. "Players (" .. playerCount .. "):\n" .. sayPlayersFuzzy .. "\n\nWho Left: " .. whoLeft .. "\n\nRandom Int Test: " .. randomIntSay .. "\n Avatar Last Event: " .. lastAvatarLoadEventSay .. "\n\n"
+    installSay = title .. "\n" .. selectQuote .. "\n" .. "World: " .. InstancesAPI.InstanceName .. "(" .. InstancesAPI.InstancePrivacy .. ")\n" .. "Rules: " .. ruleSays .. "\n" .. "Status: " .. luaStatusSay .. "\n" .. "Connection: " .. areWeOnline .. " (" .. InstancesAPI.Ping .. " ms)\n" .. sayWelcomeHome .. "\n" .. sdrawGravitySay .. "\n" .. "Players (" .. playerCount .. "):\n" .. sayPlayersFuzzy .. "\n\nWho Left: " .. whoLeft .. "\n\nRandom Int Test: " .. randomIntSay .. "\n Avatar Last Event: " .. lastAvatarLoadEventSay .. "\n\n"
 end
 
 -- Start is called before the first frame update
 function Start()
+    print('Starta')
+    -- UnityEngine = require("UnityEngine")
     -- firstly, init random seed! Documentation Funny Cube example!
-    math.randomseed(UnityEngine.Time.time)
+    -- math.randomseed(UnityEngine.Time.time)
 
 
     print "Hello world!"
@@ -386,6 +400,11 @@ function Start()
     else
         print('AH PECK NECK NO TEXT!')
     end
+    if tmpTextItself then
+        tmpTextItself.text = 'HEy Hey Hey'
+    else
+        print('AH PECK NECK NO TMP!')
+    end
     print('huhu')
 
     RandomizeQuote()
@@ -393,6 +412,12 @@ end
 
 -- Update is called once per frame
 function Update()
+    if not perInit then
+        -- UnityEngine = require('UnityEngine')
+        print(' latoid')
+        perInit = true
+    end
+
     -- Sorry, Codeium is also here.
     if InstancesAPI.IsConnected then
         areWeOnline = "yes"
@@ -429,7 +454,7 @@ function Update()
 
     
 
-    UpdateInstallSay()
+    
     -- installSay = 'test'
     -- tmpThingy.gameObject.TMP_Text.text = installSay
     -- tmpTextItself.text = installSay
@@ -459,4 +484,8 @@ function Update()
     if animCompo then
         randomIntSay = tostring(animCompo.GetInteger('randIntTest'))
     end
+end
+
+function LateUpdate()
+    UpdateInstallSay()
 end
