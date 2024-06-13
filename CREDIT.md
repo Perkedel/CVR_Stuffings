@@ -8549,3 +8549,24 @@ https://youtu.be/qzhuWRQWK5I?si=PygoI274O32LWD5a
 - https://www.youtube.com/watch?v=bMmNPp3U9iE
 - https://github.com/hisprofile/blenderstuff/blob/main/Creations/Source%20Engine%20Blender%20Collection.md **PLS DOWNLOAD**
 - https://feedback.abinteractive.net/p/scripting-isvalid-function-to-verify-wrapped-object-wrapper-are-alive
+- Interparoutness vending machine. myself vending machine
+- https://senpailui.gumroad.com/ senpaidll?? no??
+- https://nekozakisenpai.gumroad.com/
+- https://hoizen.gumroad.com/ hoizen
+- https://skullco.gumroad.com/ SkullCO
+- senpaidll gone!!!
+- https://assetstore.unity.com/publishers/28391 HOVL studio pls download free files
+- https://assetstore.unity.com/packages/vfx/particles/fire-explosions/fireworks-pack-with-sounds-3d-2d-123720 **PAID**
+- https://irix.gumroad.com/l/Gloopin **PAID**
+- https://irix.gumroad.com/
+- https://github.com/alvr-org/ALVR Virtual desktop but open source & gratis    
+- https://github.com/polygraphene/ALVR old
+- https://github.com/alvr-org/ALVR/wiki/Installation-guide
+- https://sketchfab.com/3d-models/lop-e70ad05862214a81ad868a11fc37f121 no download
+- https://starwars.fandom.com/wiki/Lop
+- https://www.deviantart.com/thhypercombine12/art/Lop-by-Warfaremachine-Download-in-desc-913906178 Lop star wars vision warfaremachine gmod
+- https://discord.com/channels/410126604237406209/682645682968199168/1250561122155761684 acelled records gin in ghostrobot pole dancing
+- https://starwars.fandom.com/wiki/Lop
+- https://sketchfab.com/novikto
+- https://www.printables.com/model/903531-bringus-studios-xbox2pc-conversion
+- https://discord.com/channels/410126604237406209/682645682968199168/1250673789914841140 panduh nut training
