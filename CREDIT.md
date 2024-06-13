@@ -8572,3 +8572,10 @@ https://youtu.be/qzhuWRQWK5I?si=PygoI274O32LWD5a
 - https://discord.com/channels/410126604237406209/682645682968199168/1250673789914841140 panduh nut training
 - https://store.steampowered.com/app/2156810/Rhythm_Bang/
 - https://www.facebook.com/share/p/SiJHAcMf9ZcPiBrC/ monitor dead pixel again & again
+- https://discord.com/channels/410126604237406209/797279576459968555/1250207962870448269 Garrin ask how to particle sound on hit. Fearles7 answers, use `CVRParticleSound`: *Make it use a sub emitter particle system, that emits on death of another particle. to detect when a particle collides.*
+- https://discord.com/channels/410126604237406209/797279576459968555/1249764833440825464
+- https://discord.com/channels/410126604237406209/795882566968279091/1250896670519197799
+- https://discord.com/channels/410126604237406209/795882566968279091/1250900279428124704
+- https://discord.com/channels/410126604237406209/795882566968279091/1250896670519197799 Fearles7 found how to gravity direction with `CVR.CCK.PhysicsInfluencer.GetAppliedGravityDirection()`
+- https://discord.com/channels/410126604237406209/795882566968279091/1250897582889107539 yes. `RaycastRoot.transform.up = -JetboardRoot.CVR.CCK.PhysicsInfluencer.GetAppliedGravityDirection()` & `cannot access field CVR of userdata<ABI.Scripting.CVRSTL.Common.UnityEngine._LUAINSTANCE_ScriptedGameObject>`
+- https://discord.com/channels/410126604237406209/795882566968279091/1250898750264709242 Kafeijao: *You have to get the component. Also you should be able to drag the component (not the game object (requires 2 inspectors and locking the one with the lua behaviour)) into the bound objects. Then you don't even need to do GetComponent. You can get a reference to the PhysicsInfluencer component directly. And then you can just use `BoundObjects.myPhysicsInfluencer.GetAppliedGravityDirection()`*
