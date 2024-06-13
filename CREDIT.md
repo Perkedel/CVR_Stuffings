@@ -8570,3 +8570,5 @@ https://youtu.be/qzhuWRQWK5I?si=PygoI274O32LWD5a
 - https://sketchfab.com/novikto
 - https://www.printables.com/model/903531-bringus-studios-xbox2pc-conversion
 - https://discord.com/channels/410126604237406209/682645682968199168/1250673789914841140 panduh nut training
+- https://store.steampowered.com/app/2156810/Rhythm_Bang/
+- https://www.facebook.com/share/p/SiJHAcMf9ZcPiBrC/ monitor dead pixel again & again
