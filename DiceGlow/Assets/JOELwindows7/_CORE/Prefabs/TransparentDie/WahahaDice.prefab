@@ -7,6 +7,14 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: -9162540451760570719, guid: 0dc51cd141f69b5408ae9e743f7cf1d7, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8755126697125889154, guid: 0dc51cd141f69b5408ae9e743f7cf1d7, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 0dc51cd141f69b5408ae9e743f7cf1d7, type: 3}
       propertyPath: m_RootOrder
       value: 0
@@ -71,6 +79,14 @@ PrefabInstance:
       propertyPath: m_Materials.Array.data[3]
       value: 
       objectReference: {fileID: 2100000, guid: 664866e7bb7d937489d6075f5f2c437f, type: 2}
+    - target: {fileID: -3821256918032907860, guid: 0dc51cd141f69b5408ae9e743f7cf1d7, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -2374664459948697648, guid: 0dc51cd141f69b5408ae9e743f7cf1d7, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 0dc51cd141f69b5408ae9e743f7cf1d7, type: 3}
       propertyPath: m_Icon
       value: 
@@ -83,8 +99,17 @@ PrefabInstance:
       propertyPath: m_StaticEditorFlags
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 4265957350127913519, guid: 0dc51cd141f69b5408ae9e743f7cf1d7, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 0dc51cd141f69b5408ae9e743f7cf1d7, type: 3}
+--- !u!23 &293237387192533327 stripped
+MeshRenderer:
+  m_CorrespondingSourceObject: {fileID: -7511558181221131132, guid: 0dc51cd141f69b5408ae9e743f7cf1d7, type: 3}
+  m_PrefabInstance: {fileID: 1427742753564597707}
+  m_PrefabAsset: {fileID: 0}
 --- !u!4 &1466736439212800544 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: 0dc51cd141f69b5408ae9e743f7cf1d7, type: 3}
@@ -103,7 +128,7 @@ Rigidbody:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2238629492645306522}
   serializedVersion: 2
-  m_Mass: 1
+  m_Mass: 3999.9998
   m_Drag: 0
   m_AngularDrag: 0.05
   m_UseGravity: 1
@@ -124,7 +149,26 @@ MeshCollider:
   serializedVersion: 4
   m_Convex: 1
   m_CookingOptions: 30
-  m_Mesh: {fileID: -2931423059110308369, guid: 0dc51cd141f69b5408ae9e743f7cf1d7, type: 3}
+  m_Mesh: {fileID: 1805436195657275248, guid: 0dc51cd141f69b5408ae9e743f7cf1d7, type: 3}
+--- !u!205 &2559611472506857698
+LODGroup:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2238629492645306522}
+  serializedVersion: 2
+  m_LocalReferencePoint: {x: 0, y: 0, z: 0}
+  m_Size: 0.02000001
+  m_FadeMode: 0
+  m_AnimateCrossFading: 0
+  m_LastLODIsBillboard: 0
+  m_LODs:
+  - screenRelativeHeight: 0.01
+    fadeTransitionWidth: 0
+    renderers:
+    - renderer: {fileID: 293237387192533327}
+  m_Enabled: 1
 --- !u!114 &577505664512154383
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -175,7 +219,7 @@ MonoBehaviour:
               m_BoolArgument: 0
             m_CallState: 2
     actionType: 1
-    execType: 2
+    execType: 1
     layerMask:
       serializedVersion: 2
       m_Bits: 0
@@ -183,6 +227,7 @@ MonoBehaviour:
     floatVal2: 0
     floatVal3: 0
     boolVal: 0
+    boolVal2: 0
     varBufferVal: {fileID: 0}
     varBufferVal2: {fileID: 0}
     stringVal: 
@@ -232,7 +277,7 @@ MonoBehaviour:
               m_BoolArgument: 0
             m_CallState: 2
     actionType: 2
-    execType: 2
+    execType: 1
     layerMask:
       serializedVersion: 2
       m_Bits: 0
@@ -240,6 +285,7 @@ MonoBehaviour:
     floatVal2: 0
     floatVal3: 0
     boolVal: 0
+    boolVal2: 0
     varBufferVal: {fileID: 0}
     varBufferVal2: {fileID: 0}
     stringVal: 
@@ -276,14 +322,14 @@ MonoBehaviour:
   centerOfMass: {fileID: 0}
   updateContinuously: 0
   guiBuoyancyFoldout: 1
-  enableBuoyancy: 0
-  density: 0.00012551184
-  volume: 7.9673758
+  enableBuoyancy: 1
+  density: 0.50243044
+  volume: 7.9613004
   airDrag: 0
   airAngularDrag: 0.05
   fluidDrag: 3
   fluidAngularDrag: 1
-  guiGravityFoldout: 0
+  guiGravityFoldout: 1
   enableLocalGravity: 1
   forceAlignUpright: 0
   guiMovementParentFoldout: 0
@@ -324,7 +370,7 @@ MonoBehaviour:
   objectId: e93b46ac-a385-43bc-8458-1ba48f1341db
   randomNum: 
   unityVersion: 2021.3.23f1
-  cckVersion: 3.8:104
+  cckVersion: 3.10:129
 --- !u!114 &4031395396991649084
 MonoBehaviour:
   m_ObjectHideFlags: 0

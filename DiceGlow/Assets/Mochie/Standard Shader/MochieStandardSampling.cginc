@@ -18,11 +18,12 @@ SamplerState 	sampler_DetailMetallicMap;
 
 float4      	_MainTex_ST;
 float4      	_DetailAlbedoMap_ST;
+float3			worldSpacePos;
 
 #include "../Standard Shader/MochieStandardKeyDefines.cginc"
 
 struct SampleData {
-	float4 localPos;
+	float3 localPos;
 	float3 objPos;
 	float3 depthNormal;
 	float3 worldPixelPos;
@@ -35,6 +36,17 @@ float _TriplanarFalloff;
 
 // Based on Xiexe's implementation
 // https://github.com/Xiexe/XSEnvironmentShaders/blob/bf992e8e292a0562ce4164964f16b3abdc97f078/XSEnvironment/LightingFunctions.cginc#L213
+
+float2 Rotate2DStandard(float2 coords, float rot){
+	rot *= (UNITY_PI/180.0);
+	float sinVal = sin(rot);
+	float cosX = cos(rot);
+	float2x2 mat = float2x2(cosX, -sinVal, sinVal, cosX);
+	coords -= 0.5;
+	coords = mul(coords, mat);
+	coords += 0.5;
+	return coords;
+}
 
 float4 tex2Dtri(Texture2D tex, SampleData sd, float falloff) {
 	float3 surfaceNormal = sd.normal;

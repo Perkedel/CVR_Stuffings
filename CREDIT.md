@@ -8579,3 +8579,20 @@ https://youtu.be/qzhuWRQWK5I?si=PygoI274O32LWD5a
 - https://discord.com/channels/410126604237406209/795882566968279091/1250896670519197799 Fearles7 found how to gravity direction with `CVR.CCK.PhysicsInfluencer.GetAppliedGravityDirection()`
 - https://discord.com/channels/410126604237406209/795882566968279091/1250897582889107539 yes. `RaycastRoot.transform.up = -JetboardRoot.CVR.CCK.PhysicsInfluencer.GetAppliedGravityDirection()` & `cannot access field CVR of userdata<ABI.Scripting.CVRSTL.Common.UnityEngine._LUAINSTANCE_ScriptedGameObject>`
 - https://discord.com/channels/410126604237406209/795882566968279091/1250898750264709242 Kafeijao: *You have to get the component. Also you should be able to drag the component (not the game object (requires 2 inspectors and locking the one with the lua behaviour)) into the bound objects. Then you don't even need to do GetComponent. You can get a reference to the PhysicsInfluencer component directly. And then you can just use `BoundObjects.myPhysicsInfluencer.GetAppliedGravityDirection()`*
+- https://youtube.com/shorts/5Ori7X6XJDs?si=pNFackcZSUZ6N4SL
+- https://youtu.be/k9-L6KazSII?si=QtNuIGxOMNPUmKUK
+- `pls improve model to stop lagging` jewgles outta nowhere lags everyone with our dice 1000!!! wtf?!?!?
+- Jkk used `FBX All` transform export Blender! this should help scale
+- `Okay, pls collider too    `.
+- https://youtu.be/vubyXC4pWIw?si=eHghM1D1oJOZvKjy
+- https://bunnynaut.itch.io/modern-modern-chef
+- go 25
+- https://speldosainteractive.itch.io/project-shoreline
+- https://bunnynaut.itch.io/modern-modern-chef
+- https://bilgetbd.itch.io/pager-prototype
+- https://store.steampowered.com/app/2810550/PAGER/
+- https://kajik.itch.io/mourningtide
+- https://iced-lemon.itch.io/ballet-of-steel
+- https://kultisti.itch.io/frogfall
+- https://docs.unity3d.com/ScriptReference/Transform.Rotate.html
+- https://polyhaven.com/a/street_rat Rat realistic!

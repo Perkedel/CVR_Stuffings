@@ -49,6 +49,13 @@
 ]]--
 -- JOELwindows7
 print('HALO ANHA')
+
+if IsValid() then
+    print("VALID WRAPPER")
+else
+    print('WERROR! WRAPPER IS NOT VALID')
+end
+
 print ('Pls work require wtf ' .. tostring(require('UnityEngine')))
 UnityEngine = require("UnityEngine")
 CVR = require('CVR')
@@ -79,6 +86,7 @@ local brokSpeaker
 local brokSpeakerCompo
 local aAudioStream
 local aSteppedOnStream
+local physInfluencerCompo
 local angle = 0
 local toMoveAt = 0
 local isBacking = false
@@ -160,9 +168,14 @@ function RandomizeQuote()
     selectQuote = quotes[math.random(#quotes)]
 end
 
-function GetCVRGravityDirection()
-    -- SDraw. https://discord.com/channels/410126604237406209/1240763673346183279/1250438874082316329
-    return (BoundObjects.gyroTarget.transform.position - BoundObjects.gyroRoot.transform.position).normalized
+function GetCVRGravityDirection(legacy)
+    if legacy then
+        -- SDraw. https://discord.com/channels/410126604237406209/1240763673346183279/1250438874082316329
+        return (BoundObjects.gyroTarget.transform.position - BoundObjects.gyroRoot.transform.position).normalized
+    else
+        -- Fearless7, Kafeijao, https://discord.com/channels/410126604237406209/795882566968279091/1250898750264709242
+        return gameObject:GetComponentInParent('ABI.CCK.Components.PhysicsInfluencer').GetAppliedGravityDirection()
+    end
 end
 
 function OnMouseDown()
@@ -318,7 +331,7 @@ function UpdateInstallSay()
         luaStatusSay = luaStatusSay .. " " .. runsOnSay[i]
     end
 
-    sdrawGravitySay = 'Gravity Pos SDraw: <color=red>X = ' .. GetCVRGravityDirection().x .. '</color>; <color=green>Y = ' .. GetCVRGravityDirection().y .. '</color>; <color=blue>Z = ' .. GetCVRGravityDirection().z .. '</color>'
+    sdrawGravitySay = 'Gravity Pos SDraw: <color=red>X = ' .. GetCVRGravityDirection(true).x .. '</color>; <color=green>Y = ' .. GetCVRGravityDirection(true).y .. '</color>; <color=blue>Z = ' .. GetCVRGravityDirection(true).z .. '</color>\nGravity Pos PhysInfluencer: <color=red>X = ' .. GetCVRGravityDirection(false).x .. '</color>; <color=green>Y = ' .. GetCVRGravityDirection(false).y .. '</color>; <color=blue>Z = ' .. GetCVRGravityDirection(false).z .. '</color>'
     -- listen up codeium, are you oke? you forgot to `..`.
 
     ruleSays = ''

@@ -15,6 +15,12 @@
     Code: GNU GPL v3
     Assets: CC4.0-BY-SA
 ]]--
+print('HALO NHIE')
+if IsValid() then
+    print("VALID WRAPPER")
+else
+    print('WERROR! WRAPPER IS NOT VALID')
+end
 local UnityEngine = require("UnityEngine")
 local CCK = require("ABI.CCK")
 local CVRSpawnwable = require("ABI.CCK.Components.CVRSpawnable")
