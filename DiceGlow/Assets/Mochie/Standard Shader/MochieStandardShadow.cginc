@@ -81,6 +81,8 @@ int _UVAlphaMaskSwizzle;
 int _UVRainMaskSwizzle;
 int _UVRimMaskSwizzle;
 int _UVDetailMaskSwizzle;
+int _TriplanarSpace;
+int _TriplanarSpaceDetail;
 
 Texture2D _PackedMap;
 int _RoughnessMult, _MetallicMult, _OcclusionMult, _HeightMult;
@@ -158,7 +160,7 @@ float2 SelectUVSet(VertexInput v, int selection, int swizzle, float3 worldPos){
 
 float2 GetAlphaMaskUV(VertexInput v, float3 worldPos){
 	#ifdef _ALPHAMASK_ON
-		float2 coords = Rotate2D(SelectUVSet(v, _UVAlphaMask, _UVAlphaMaskSwizzle, worldPos), _UV4Rotate);
+		float2 coords = Rotate2DStandard(SelectUVSet(v, _UVAlphaMask, _UVAlphaMaskSwizzle, worldPos), _UV4Rotate);
 		coords = TRANSFORM_TEX(coords.xy, _AlphaMask);
 		coords += _Time.y * _UV4Scroll;
 	#else
@@ -168,7 +170,7 @@ float2 GetAlphaMaskUV(VertexInput v, float3 worldPos){
 }
 
 float2 GetMainTexUV(VertexInput v, float3 worldPos){
-	float2 coords = Rotate2D(SelectUVSet(v, _UVPri, _UVPriSwizzle, worldPos), _UV0Rotate);
+	float2 coords = Rotate2DStandard(SelectUVSet(v, _UVPri, _UVPriSwizzle, worldPos), _UV0Rotate);
 	coords = TRANSFORM_TEX(coords.xy, _MainTex);
 	coords += _Time.y * _UV0Scroll;
 	return coords;
@@ -230,7 +232,10 @@ SampleData SampleDataSetup(UNITY_POSITION(vpos)
 		i.localPos = vpos;
 	#endif
 
-	sd.localPos = i.localPos;
+    if (_TriplanarSpace == 1)
+	    sd.localPos = mul(unity_ObjectToWorld, i.localPos);
+	else
+        sd.localPos = i.localPos;
 	sd.normal = i.normal;
 	sd.scaleTransform = _MainTex_ST;
 	return sd;

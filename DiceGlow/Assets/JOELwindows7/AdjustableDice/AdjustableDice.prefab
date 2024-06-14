@@ -226,6 +226,10 @@ MonoBehaviour:
     syncedValues: -1
     precision: 4
     syncBoundary: 0
+  - transform: {fileID: 3758554686049864261}
+    syncedValues: 0
+    precision: 4
+    syncBoundary: 0.5
   spawnableType: 0
   preGeneratedInstanceId: 
 --- !u!114 &2418481929927299431
@@ -244,7 +248,7 @@ MonoBehaviour:
   objectId: 6772ae27-7913-472b-9ef4-29d687a19f37
   randomNum: 
   unityVersion: 2021.3.23f1
-  cckVersion: 3.8:104
+  cckVersion: 3.10:129
 --- !u!95 &7968401344088249271
 Animator:
   serializedVersion: 5
@@ -280,12 +284,12 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   referenceType: 2
   entries:
-  - type: 0
+  - type: 10
     targetType: 0
     applicationType: 0
     staticValue: 0
-    target: {fileID: 0}
-    parameterName: 
+    target: {fileID: 2524873950334787822}
+    parameterName: SecondUTC
   onlyUpdateWhenHeld: 0
   onlyUpdateWhenAttached: 0
   onlyUpdateWhenControlled: 0
@@ -551,7 +555,7 @@ Rigidbody:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 7138453922580668256}
   serializedVersion: 2
-  m_Mass: 1
+  m_Mass: 499.99997
   m_Drag: 0
   m_AngularDrag: 0.05
   m_UseGravity: 1
@@ -622,9 +626,9 @@ MonoBehaviour:
   changeCenterOfMass: 0
   centerOfMass: {fileID: 0}
   updateContinuously: 0
-  guiBuoyancyFoldout: 0
-  enableBuoyancy: 0
-  density: 0.001
+  guiBuoyancyFoldout: 1
+  enableBuoyancy: 1
+  density: 0.49999997
   volume: 1
   airDrag: 0
   airAngularDrag: 0.05
@@ -643,6 +647,14 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 2822417198379558135}
     m_Modifications:
+    - target: {fileID: -9162540451760570719, guid: 0dc51cd141f69b5408ae9e743f7cf1d7, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8755126697125889154, guid: 0dc51cd141f69b5408ae9e743f7cf1d7, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 0dc51cd141f69b5408ae9e743f7cf1d7, type: 3}
       propertyPath: m_RootOrder
       value: 1
@@ -719,9 +731,21 @@ PrefabInstance:
       propertyPath: m_Materials.Array.data[3]
       value: 
       objectReference: {fileID: 2100000, guid: 295e4c4d2bc0c774d8512be8e276b07e, type: 2}
+    - target: {fileID: -3821256918032907860, guid: 0dc51cd141f69b5408ae9e743f7cf1d7, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -2374664459948697648, guid: 0dc51cd141f69b5408ae9e743f7cf1d7, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 0dc51cd141f69b5408ae9e743f7cf1d7, type: 3}
       propertyPath: m_Name
       value: MainDice
+      objectReference: {fileID: 0}
+    - target: {fileID: 4265957350127913519, guid: 0dc51cd141f69b5408ae9e743f7cf1d7, type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 0dc51cd141f69b5408ae9e743f7cf1d7, type: 3}
@@ -743,7 +767,7 @@ Rigidbody:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 993079802762530686}
   serializedVersion: 2
-  m_Mass: 1
+  m_Mass: 499.99997
   m_Drag: 0
   m_AngularDrag: 0.05
   m_UseGravity: 1
@@ -800,10 +824,10 @@ MonoBehaviour:
   changeCenterOfMass: 0
   centerOfMass: {fileID: 0}
   updateContinuously: 0
-  guiBuoyancyFoldout: 0
-  enableBuoyancy: 0
-  density: 0.0009999999
-  volume: 1.0000001
+  guiBuoyancyFoldout: 1
+  enableBuoyancy: 1
+  density: 0.5000003
+  volume: 0.000007999995
   airDrag: 0
   airAngularDrag: 0.05
   fluidDrag: 3
@@ -882,6 +906,7 @@ MonoBehaviour:
     floatVal2: 0
     floatVal3: 0
     boolVal: 0
+    boolVal2: 0
     varBufferVal: {fileID: 0}
     varBufferVal2: {fileID: 0}
     stringVal: 
@@ -1398,6 +1423,14 @@ PrefabInstance:
       propertyPath: actions.Array.data[0].operations.Array.data[0].targets.Array.data[0]
       value: 
       objectReference: {fileID: 2524873950334787822}
+    - target: {fileID: 7193663735444628502, guid: ce4897654b063344aa738331dccb3edb, type: 3}
+      propertyPath: actions.Array.data[0].operations.Array.data[0].targets.Array.data[0]
+      value: 
+      objectReference: {fileID: 993079802762530686}
+    - target: {fileID: 7193663735444628502, guid: ce4897654b063344aa738331dccb3edb, type: 3}
+      propertyPath: actions.Array.data[0].operations.Array.data[0].targets.Array.data[1]
+      value: 
+      objectReference: {fileID: 7138453922580668256}
     - target: {fileID: 8394888012412858300, guid: ce4897654b063344aa738331dccb3edb, type: 3}
       propertyPath: actions.Array.data[0].operations.Array.data[0].type
       value: 22
@@ -1457,6 +1490,11 @@ GameObject:
   m_CorrespondingSourceObject: {fileID: 146387472882326987, guid: ce4897654b063344aa738331dccb3edb, type: 3}
   m_PrefabInstance: {fileID: 1657228213909407650}
   m_PrefabAsset: {fileID: 0}
+--- !u!4 &3758554686049864261 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 2510398168851713511, guid: ce4897654b063344aa738331dccb3edb, type: 3}
+  m_PrefabInstance: {fileID: 1657228213909407650}
+  m_PrefabAsset: {fileID: 0}
 --- !u!4 &3762541427934709743 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 2506415069033529421, guid: ce4897654b063344aa738331dccb3edb, type: 3}
@@ -1469,6 +1507,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 2923652094868806795}
     m_Modifications:
+    - target: {fileID: -9162540451760570719, guid: 0dc51cd141f69b5408ae9e743f7cf1d7, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 0dc51cd141f69b5408ae9e743f7cf1d7, type: 3}
       propertyPath: m_RootOrder
       value: 0
@@ -1545,6 +1587,10 @@ PrefabInstance:
       propertyPath: m_Materials.Array.data[3]
       value: 
       objectReference: {fileID: 2100000, guid: 295e4c4d2bc0c774d8512be8e276b07e, type: 2}
+    - target: {fileID: -3821256918032907860, guid: 0dc51cd141f69b5408ae9e743f7cf1d7, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 0dc51cd141f69b5408ae9e743f7cf1d7, type: 3}
       propertyPath: m_Name
       value: MainDice
