@@ -545,7 +545,7 @@ New Sauce lists
 - https://github.com/PiMaker/VRChatUnityThings#aurora Pls Shaders heere
 - https://github.com/CyanLaser/CyanEmu
 - https://github.com/vrchat-community/ClientSim
-- https://github.com/89Mods/1802-Namebadge/
+- https://github.com/89Mods/1802-Namebadge/ Tholin
 - https://github.com/89Mods/1802-Namebadge/releases/ This too aswell will ya?
 - https://github.com/89Mods/AvalonPlanetPack
 - https://github.com/89Mods/Keppy-s-MIDI-Converter-Multiplatform whoa
@@ -8618,3 +8618,9 @@ https://youtu.be/qzhuWRQWK5I?si=PygoI274O32LWD5a
 - https://ko-fi.com/rakurri/shop
 - https://helpx.adobe.com/substance-3d-player/home.html
 - https://github.com/jll123567/VR-Content Jill the Something CVR Assets
+- https://github.com/89Mods/ShaderPlayground Tholin's Shaders
+- https://github.com/89Mods/VRCVerilog Verilog to Unity Shader!!!
+- https://github.com/89Mods/InfiniteBackrooms HAAH?!??!?!? VRC infinite backroom!?!??!
+- https://forum.unity.com/threads/my-script-changes-enum-values-but-the-shader-doesnt-change-in-the-engine.1391044/
+- https://forum.unity.com/threads/my-script-changes-enum-values-but-the-shader-doesnt-change-in-the-engine.1391044/
+- Alien World!?!??!?!?!
