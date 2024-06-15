@@ -225,19 +225,19 @@ end
 
 function OnPlayerLeft(remotePlayer)
     whoLeft = ''
-    for i=1,#memorizePlayer do
-        for j=1,#playersYouHave do
-            if memorizePlayer[i].UserID == playersYouHave[j].UserID then
-                -- player still exist here
-               break 
-            end
-            -- welp not found.
-            whoLeft = whoLeft .. ', ' .. memorizePlayer[j].Username
-        end
-        -- if memorizePlayer[i].UserID == remotePlayer.UserID then
-        --     whoLeft = whoLeft .. ', ' .. remotePlayer.Username
-        -- end
-    end
+    -- for i=1,#memorizePlayer do
+    --     for j=1,#playersYouHave do
+    --         if memorizePlayer[i].UserID == playersYouHave[j].UserID then
+    --             -- player still exist here
+    --            break 
+    --         end
+    --         -- welp not found.
+    --         whoLeft = whoLeft .. ', ' .. memorizePlayer[j].Username
+    --     end
+    --     -- if memorizePlayer[i].UserID == remotePlayer.UserID then
+    --     --     whoLeft = whoLeft .. ', ' .. remotePlayer.Username
+    --     -- end
+    -- end
     -- whoLeft = whoLeft .. ', ' .. remotePlayer.Username
 end
 

@@ -451,7 +451,7 @@ New Sauce lists
 - https://hitl.washington/ what?? what did you say? it's cut off!
 - world `headroom` JillTheSomething
 - https://avislime.gumroad.com/
-- https://github.com/jll123567/VR-Content
+- https://github.com/jll123567/VR-Content Jill the Something CVR Assets
 - https://github.com/jll123567?tab=repositories
 - https://github.com/Neradon/Dasui
 - https://github.com/topics/chilloutvr
@@ -8596,3 +8596,24 @@ https://youtu.be/qzhuWRQWK5I?si=PygoI274O32LWD5a
 - https://kultisti.itch.io/frogfall
 - https://docs.unity3d.com/ScriptReference/Transform.Rotate.html
 - https://polyhaven.com/a/street_rat Rat realistic!
+- https://www.youtube.com/watch?v=_5Ojx9SbhPc NAK: avatar scaling
+- https://discord.com/channels/1001388809184870441/1001388951099150336/1250578210136002581
+- pls
+- hbd green man
+- https://discord.com/channels/410126604237406209/682645682968199168/1251228056383782932
+- https://youtu.be/ig0TDBewKsc
+- https://discord.com/channels/410126604237406209/682645682968199168/1250997097583476806
+- https://publicdomaintextures.com/elementor-112/
+- BLA
+- IS FLYING DETECTOR PLS
+- https://ambientcg.com/view?id=IndoorEnvironmentHDRI011
+- wait. login steam to germany purges all lewd games library???? forever??? Pls clarify!!! make alt account for this experiment! make in Indonesia, VPN Germany, relog-in. logout, off VPN. test lewd!
+- https://www.reddit.com/r/CC0Textures/comments/91pxvk/the_rcc0textures_list_of_public_domain_texture/
+- https://docs.google.com/spreadsheets/d/1Z8lYDYRvj-OkJkMrxPP6HwqOnzi-44fYWDxuvAGBa2I/edit?gid=0#gid=0
+- https://kronbits.itch.io/matriax-free-cg-textures
+- https://assetstore.unity.com/packages/3d/environments/urban/urban-city-pack-34832
+- https://youtube.com/shorts/60ok7DZfDPo?si=hIOWiCAQ7hUgj0Zs animate brush krita
+- https://youtube.com/shorts/0KIg5wmK0y0?si=JaIPletOYgjC8-oK pls download
+- https://ko-fi.com/s/8b17a544d5
+- https://ko-fi.com/rakurri/shop
+- https://helpx.adobe.com/substance-3d-player/home.html
