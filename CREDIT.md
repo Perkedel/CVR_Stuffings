@@ -8617,3 +8617,4 @@ https://youtu.be/qzhuWRQWK5I?si=PygoI274O32LWD5a
 - https://ko-fi.com/s/8b17a544d5
 - https://ko-fi.com/rakurri/shop
 - https://helpx.adobe.com/substance-3d-player/home.html
+- https://github.com/jll123567/VR-Content Jill the Something CVR Assets
