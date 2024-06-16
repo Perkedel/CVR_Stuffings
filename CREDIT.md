@@ -8624,3 +8624,20 @@ https://youtu.be/qzhuWRQWK5I?si=PygoI274O32LWD5a
 - https://forum.unity.com/threads/my-script-changes-enum-values-but-the-shader-doesnt-change-in-the-engine.1391044/
 - https://forum.unity.com/threads/my-script-changes-enum-values-but-the-shader-doesnt-change-in-the-engine.1391044/
 - Alien World!?!??!?!?!
+- Tiangbaru district
+- INTERNATIONAL LATEX DAY 15-16 JUNE 2024?!??!?!?!?!??!?!??!??! 16 june..?
+- hbd mr greenman fri 14 june 2024
+- https://discord.com/channels/410126604237406209/1240763673346183279/1251636613109387316
+- https://discord.com/channels/410126604237406209/1195601585720528976/1251708653757665300
+- https://ambientcg.com/view?id=Asphalt015
+- https://ambientcg.com/view?id=Asphalt025C
+- https://ambientcg.com/view?id=Asphalt024A
+- Welcome to another videos from [ExplainingComputers.com](https://explainingcomputers.com). This time..
+- https://skfb.ly/oUQVK moorhun kart
+- https://gamefromscratch.com/blender-market-10-days-of-blender-asset-giveaways
+- https://youtu.be/4hfy5YPO5Eg?si=hvDhxPJlhcrY-t_e
+- https://gamefromscratch.com/epic-games-release-500-free-aaa-quality-game-animations
+- https://gamefromscratch.com/epic-games-release-500-free-aaa-quality-game-animations
+- https://youtu.be/5-Vk97L-tY0?si=8ZLXrwOR5NOcEK9u
+- https://youtube.com/shorts/VzD7AcjzcFw?si=8IJ2ikgGAfnUzLYE
+- https://youtu.be/zCocC_x8URE?si=UKXKPq_pEP_o3-IS
