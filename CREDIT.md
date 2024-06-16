@@ -8641,3 +8641,4 @@ https://youtu.be/qzhuWRQWK5I?si=PygoI274O32LWD5a
 - https://youtu.be/5-Vk97L-tY0?si=8ZLXrwOR5NOcEK9u
 - https://youtube.com/shorts/VzD7AcjzcFw?si=8IJ2ikgGAfnUzLYE
 - https://youtu.be/zCocC_x8URE?si=UKXKPq_pEP_o3-IS
+- pls pls pls make DNB VIP card pointer!!!
