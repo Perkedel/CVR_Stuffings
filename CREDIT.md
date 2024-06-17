@@ -8642,3 +8642,26 @@ https://youtu.be/qzhuWRQWK5I?si=PygoI274O32LWD5a
 - https://youtube.com/shorts/VzD7AcjzcFw?si=8IJ2ikgGAfnUzLYE
 - https://youtu.be/zCocC_x8URE?si=UKXKPq_pEP_o3-IS
 - pls pls pls make DNB VIP card pointer!!!
+- https://discord.gg/z7pYBAsB8Z DDakebono discord Bono's movie night. finally fixed. thancc Midnight Blade for join iyey cool and good
+- https://discord.com/channels/410126604237406209/1240763673346183279/1252042255389294624 NAK
+- https://discord.com/channels/410126604237406209/1240763673346183279/1252058702442270720 VoyVivika: you can put a spawnable component inside of a world iirc, i was told being able to do so is intentional
+- https://discord.com/channels/410126604237406209/1240763673346183279/1252048881932570715 Fearles7. Put `CVRSpawnable` to use sync. use the Parameter sync
+- https://discord.com/channels/410126604237406209/682645682968199168/1252077197775081586
+- https://discord.com/channels/410126604237406209/1195601585720528976/1252148585248587816
+- https://www.dafont.com/kredit.font kredit font cc0. credit card font
+- https://terrycavanagh.itch.io/bosca-ceoil okay this is the original Bosca Ceoil right?
+- https://github.com/TerryCavanagh/boscaceoil the source code..
+- https://boscaceoil.net/ website
+- https://gamefromscratch.com/bosca-ceoil-blue/ there's new one
+- https://youtu.be/VBd_WdL8FFY yes
+- https://yurisizov.itch.io/boscaceoil-blue here new one. made by former Godot maintainer, **IN GODOT**!!!
+- https://github.com/YuriSizov/boscaceoil-blue **IYEAAAAAAAAAAAAAAAAAAAAAAAAAAAY!!!!!**
+- https://www.youtube.com/watch?v=PRsWVO8NkAM
+- https://www.youtube.com/watch?v=_7DOwOVeyvA
+- https://www.youtube.com/watch?v=2LpR9zhEl2A
+- https://freesound.org/people/Breviceps/sounds/448081/ breviceps toc click!!!
+- https://freesound.org/people/Breviceps/packs/25371/ WHOLE UI PACK SFX
+- https://freesound.org/people/DrMinky/sounds/166186/ DR Minky hover mouse sound
+- https://freesound.org/people/Leszek_Szary/sounds/133283/ Game over
+- https://freesound.org/people/moogy73/packs/24153/ Pack click!
+- https://convertio.co oh man.. why..
