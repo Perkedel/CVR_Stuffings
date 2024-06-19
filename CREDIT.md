@@ -8668,3 +8668,18 @@ https://youtu.be/qzhuWRQWK5I?si=PygoI274O32LWD5a
 - Pls try the Lua Execute function in interactible
 - pls update all 1000 scale die as we have set collider to only discrete
 - pls psl psllsosopsoipsposdposdpodsopdsposdposdposdpopsdposdpsdposdpsd
+- https://gum.co/Nardoragon
+- https://discord.com/channels/410126604237406209/766086942005526579/1252796998877315193
+- Here Background city
+- https://assetstore.unity.com/packages/3d/environments/dynamic-city-background-178182 **PAID**
+- https://assetstore.unity.com/packages/3d/environments/urban/background-city-buildings-pack-vol-1-1-100-227214 **PAID**
+- https://assetstore.unity.com/packages/2d/environments/pixel-art-city-backgrounds-203049 **PAID** wait this is for 2D!
+- https://www.vrcarena.com/assets/0a25c-unity-background-procedural-city **PAID**
+- https://poofy1.gumroad.com/l/ProceduralCity? **PAID** yeah.
+- https://assetstore.unity.com/packages/3d/environments/city-terrace-pack-38412 **PAID**
+- https://assetstore.unity.com/publishers/5578
+- PC parts picker list
+- https://www.youtube.com/watch?v=RBI9hQWD_xY
+- https://learn.unity.com/tutorial/post-processing-effects-deferred-fog
+- https://learn.unity.com/tutorial/creating-volumetric-fog-18
+- https://discord.gg/VAQffNayZ7 Safe haven Zoophobia. Found in nyankee's `Safe Haven: Zoophobia` world
