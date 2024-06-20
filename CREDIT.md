@@ -8683,3 +8683,49 @@ https://youtu.be/qzhuWRQWK5I?si=PygoI274O32LWD5a
 - https://learn.unity.com/tutorial/post-processing-effects-deferred-fog
 - https://learn.unity.com/tutorial/creating-volumetric-fog-18
 - https://discord.gg/VAQffNayZ7 Safe haven Zoophobia. Found in nyankee's `Safe Haven: Zoophobia` world
+- https://github.com/NicoNicoNiih/ChilloutVR-Theme Inazumanotenshi's new theme for Discord!!! make it looks like CVR inspired. Vencord & BetterDiscord
+- https://blendermarket.com/products/auto-rig-pro **PAID**, **TODAY WAS THE DAY IN BLENDER MARKET BIRTHDAY!!!** wHEW, ALmost missed it. thancc IndigoQueen. damn! birthday blender market!!
+- Indigo Queen hbd! 20th Juni 2024 event.
+- Dippy had 3DS. I think this goes like, a video, basically video streaming, splice the texture, put into shaders respectively, for stereoscoping, lerp left & right screen.
+- vrc kerie pls
+- two thousand twenty three ad glasses stl pls
+- dare or drink game! drink is instead sdexm tea. last who did not cum wins. sdexm tea makes you horny and even over dosage causes cum.
+- https://app.daily.dev/posts/yjy0Ea9SY?utm_source=notification&utm_medium=email&utm_campaign=squad_post_added
+- https://blog.unity.com/games/first-guide-animation-in-unity?ref=dailydev ebook free
+- Awesome was CoconutCapybara
+- .
+- .
+- .
+- .
+- .
+- .
+- NEW WORD
+- Unfortunalasly
+- Alasfortunately
+- .
+- .
+- .
+- .
+- .
+- .
+- pls look game dev guy new YouTube video
+- .
+- ..
+- .....
+- a
+- ..
+- .
+- https://freesound.org/people/Unicornaphobist/sounds/332409
+- https://fullmontis.itch.io/summon-a-succubus
+- https://discord.com/channels/410126604237406209/1240763673346183279/1253229299478040596 SDraw. how to check is friend or not. avatar check for other user seeing that avatar
+- https://blender.stackexchange.com/questions/126324/import-step-file-to-blender
+- https://www.opencascade.com/products/cad-assistant/
+- https://addons.mozilla.org/en-US/firefox/addon/humble-store-filters/
+- https://www.reddit.com/r/humblebundles/comments/13a3mye/i_made_an_extension_to_show_which_games_you_own/
+- that's a Humble Bundle Choice membership.
+- https://www.pagetable.com/?p=64
+- https://discord.com/channels/627168678471008269/627264673817034752/1253199010504769577
+- https://sketchfab.com/3d-models/sydler-pi4-polyhedron-final-70cf6dda7f6545dcb827bcec87fb526b
+- https://sketchfab.com/3d-models/single-angle-15-coloured-8230e145f97c4daba4cfbaf317f0a55b
+- https://www.youtube.com/watch?v=tH6vLXMaCwQ&t=0s
+- https://youtu.be/daVny9y72UE?si=wA3-qfIyXfkFzWrX
