@@ -8749,3 +8749,7 @@ https://youtu.be/qzhuWRQWK5I?si=PygoI274O32LWD5a
 - https://www.abeck.pw/ beckadam website
 - https://comms.abeck.pw/ commission to beck
 - https://beckadam.gumroad.com/
+- pls mark fancy particle!
+- PLS TEST LUA EXECUTE INTERACT
+- PLS REINSTALL MELONLOADER TO IDEAL VERSION
+- https://tickets.godotengine.org/foundation/godotcon-24/ TOO FAR!!! BERLIN.. oh noes
