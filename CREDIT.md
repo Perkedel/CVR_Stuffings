@@ -8729,3 +8729,23 @@ https://youtu.be/qzhuWRQWK5I?si=PygoI274O32LWD5a
 - https://sketchfab.com/3d-models/single-angle-15-coloured-8230e145f97c4daba4cfbaf317f0a55b
 - https://www.youtube.com/watch?v=tH6vLXMaCwQ&t=0s
 - https://youtu.be/daVny9y72UE?si=wA3-qfIyXfkFzWrX
+- https://discord.com/channels/410126604237406209/1240763673346183279/1253539224905580564
+- https://discord.com/channels/410126604237406209/1195601585720528976/1253518715862126603 sketch's custom flight animation concept
+- https://www.youtube.com/watch?v=QqrGt5GrGfw    
+- https://www.youtube.com/watch?v=rCEyNeWfcss
+- https://www.youtube.com/watch?v=CjG724nsgm0
+- https://assetstore.unity.com/packages/tools/physics/prometeo-car-controller-209444?aid=1101l9Bhe
+- https://www.youtube.com/watch?v=jr4eb4F9PSQ&list=PLyh3AdCGPTSLg0PZuD1ykJJDnC1mThI42
+- https://gist.github.com/VanshMillion/9d69fc11f4bb3899ee779e23e7b34abb pls port to lua!
+- https://www.youtube.com/watch?v=jr4eb4F9PSQ&list=PLyh3AdCGPTSLg0PZuD1ykJJDnC1mThI42 based in here
+- https://youtu.be/DU-yminXEX0?si=UDNW6FLV9YDvB8KH THERE YOU ARE!!
+- https://github.com/PrismYoutube/Unity-Car-Controller here.
+- https://moonsharp.org/
+- https://youtu.be/uhrPVT_ATH0?si=jiOR53jaNmeILFDj
+- https://youtu.be/PuXywOOJl-4?si=fYJ8qSUqtXfRFJz2
+- https://youtu.be/9zq3mcFcofk?si=NWhxyHOYMcNzWnmn interior mapping shader
+- https://discord.com/channels/212250894228652034/212637094194053121/1253741494318137346 Godot plushie!
+- https://www.makeship.com/products/godot-robot-plush
+- https://www.abeck.pw/ beckadam website
+- https://comms.abeck.pw/ commission to beck
+- https://beckadam.gumroad.com/
