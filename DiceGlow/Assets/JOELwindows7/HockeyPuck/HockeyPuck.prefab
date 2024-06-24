@@ -182,6 +182,7 @@ GameObject:
   - component: {fileID: 4781077268673836458}
   - component: {fileID: 541900312226872164}
   - component: {fileID: 4318561552723133004}
+  - component: {fileID: 2236973498173239274}
   m_Layer: 0
   m_Name: HockeyPuck
   m_TagString: Untagged
@@ -215,7 +216,7 @@ Rigidbody:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 5669659288992804061}
   serializedVersion: 2
-  m_Mass: 1
+  m_Mass: 1.2
   m_Drag: 0
   m_AngularDrag: 0.05
   m_UseGravity: 1
@@ -268,10 +269,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   type: 3
-  objectId: 
+  objectId: 7a75148c-cdbf-4585-a44a-c28904958ef8
   randomNum: 
   unityVersion: 2021.3.23f1
-  cckVersion: 3.8:104
+  cckVersion: 3.10:129
 --- !u!114 &4781077268673836458
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -322,10 +323,10 @@ MonoBehaviour:
   changeCenterOfMass: 0
   centerOfMass: {fileID: 0}
   updateContinuously: 0
-  guiBuoyancyFoldout: 0
-  enableBuoyancy: 0
-  density: 0.42133024
-  volume: 0.002373435
+  guiBuoyancyFoldout: 1
+  enableBuoyancy: 1
+  density: 0.5055968
+  volume: 0.0023734327
   airDrag: 0
   airAngularDrag: 0.05
   fluidDrag: 3
@@ -336,6 +337,19 @@ MonoBehaviour:
   guiMovementParentFoldout: 0
   enableMovementParent: 0
   ignoreForcesWhileParented: 0
+--- !u!114 &2236973498173239274
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5669659288992804061}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 39d87b8783794dfd81ce396483019cbb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  type: hockey
 --- !u!1001 &5508951542197134597
 PrefabInstance:
   m_ObjectHideFlags: 0
