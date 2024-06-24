@@ -8526,7 +8526,7 @@ https://youtu.be/qzhuWRQWK5I?si=PygoI274O32LWD5a
 - https://github.com/furality/vcc-packages
 - You need Unity 2022 VRChat SDK VCC!!!
 - https://github.com/kafeijao/Kafe_CVR_Mods/releases/tag/r71
-- Beckadam laser tag fixed
+- Beckadam laser tag fixed. OK
 - https://github.com/Searaphim/CVR-PlayTogether?tab=readme-ov-file What is this??? interesting!
 - https://github.com/Searaphim/CVR-PlayTogether/wiki/How-To-Play HMMMM?!??!
 - https://discord.com/channels/410126604237406209/1240763673346183279/1250182651395051553 trouble range. SDraw    
@@ -8689,7 +8689,7 @@ https://youtu.be/qzhuWRQWK5I?si=PygoI274O32LWD5a
 - Dippy had 3DS. I think this goes like, a video, basically video streaming, splice the texture, put into shaders respectively, for stereoscoping, lerp left & right screen.
 - vrc kerie pls
 - two thousand twenty three ad glasses stl pls
-- dare or drink game! drink is instead sdexm tea. last who did not cum wins. sdexm tea makes you horny and even over dosage causes cum.
+- dare or drink game! drink is instead sdexm tea. last who did not cum wins. sdexm tea makes you horny and even over dosage causes cum. variant of NHIE generator!
 - https://app.daily.dev/posts/yjy0Ea9SY?utm_source=notification&utm_medium=email&utm_campaign=squad_post_added
 - https://blog.unity.com/games/first-guide-animation-in-unity?ref=dailydev ebook free
 - Awesome was CoconutCapybara
@@ -8749,14 +8749,14 @@ https://youtu.be/qzhuWRQWK5I?si=PygoI274O32LWD5a
 - https://www.abeck.pw/ beckadam website
 - https://comms.abeck.pw/ commission to beck
 - https://beckadam.gumroad.com/
-- pls mark fancy particle!
+- pls mark fancy particle! ragdoldfskldjfaslkd fkasdjf
 - PLS TEST LUA EXECUTE INTERACT
-- PLS REINSTALL MELONLOADER TO IDEAL VERSION
+- PLS REINSTALL MELONLOADER TO IDEAL VERSION. FAIL, mod broke, latest version in fact works it
 - https://tickets.godotengine.org/foundation/godotcon-24/ TOO FAR!!! BERLIN.. oh noes
 - https://discord.com/channels/410126604237406209/588350726841827358/1253871188736741499
 - https://discord.com/channels/410126604237406209/795882566968279091/1253849816740528248
 - https://discord.com/channels/410126604237406209/1240763673346183279/1254075162974883987 NAK isFriend detection
-- pls install pointer `hockey` to our hockey puck in tribute for Inside Out 2.
+- pls install pointer `hockey` to our hockey puck in tribute for Inside Out 2. OK
 - https://sketchfab.com/Northwodearts
 - https://classic.minecraft.net
 - https://discord.com/channels/410126604237406209/797279576459968555/1252277599699210364
