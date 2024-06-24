@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 78b2425a2284af743826c689403a4924, type: 3}
+  m_Name: VVGetVertexUV
+  m_EditorClassIdentifier: 
+  m_functionInfo: "// Made with Amplify Shader Editor v1.9.3.3\n// Available at the
+    Unity Asset Store - http://u3d.as/y3X \n/*ASEBEGIN\nVersion=19303\nNode;AmplifyShaderEditor.CommentaryNode;1;-2097.045,-768;Inherit;False;1713.606;1779.543;Selection
+    of UV Maps to Use for UV Tile Discarding;19;26;25;23;22;21;20;19;17;16;15;14;13;11;10;9;7;6;4;0;Discard
+    UV;1,1,1,1;0;0\nNode;AmplifyShaderEditor.FunctionNode;19;-1200,-192;Inherit;False;If
+    Float Equal;-1;;535;bdca1c28487c8a1418e72579bec63589;0;4;7;FLOAT;0;False;8;FLOAT;0;False;9;FLOAT2;0,0;False;10;FLOAT2;0,0;False;1;FLOAT2;0\nNode;AmplifyShaderEditor.FunctionNode;20;-1200,208;Inherit;False;If
+    Float Equal;-1;;536;bdca1c28487c8a1418e72579bec63589;0;4;7;FLOAT;0;False;8;FLOAT;0;False;9;FLOAT2;0,0;False;10;FLOAT2;0,0;False;1;FLOAT2;0\nNode;AmplifyShaderEditor.FunctionNode;21;-1136,608;Inherit;False;If
+    Float Equal;-1;;537;bdca1c28487c8a1418e72579bec63589;0;4;7;FLOAT;0;False;8;FLOAT;0;False;9;FLOAT2;0,0;False;10;FLOAT2;0,0;False;1;FLOAT2;0\nNode;AmplifyShaderEditor.FunctionNode;22;-1184,-624;Inherit;False;If
+    Float Equal;-1;;538;bdca1c28487c8a1418e72579bec63589;0;4;7;FLOAT;0;False;8;FLOAT;0;False;9;FLOAT2;0,0;False;10;FLOAT2;0,0;False;1;FLOAT2;0\nNode;AmplifyShaderEditor.SimpleAddOpNode;23;-768,80;Inherit;False;4;4;0;FLOAT2;0,0;False;1;FLOAT2;0,0;False;2;FLOAT2;0,0;False;3;FLOAT2;0,0;False;1;FLOAT2;0\nNode;AmplifyShaderEditor.FunctionInput;26;-1808,-704;Inherit;False;Input;1;0;False;1;0;FLOAT;0;False;1;FLOAT;0\nNode;AmplifyShaderEditor.TexCoordVertexDataNode;4;-1872,-528;Inherit;False;0;2;0;5;FLOAT2;0;FLOAT;1;FLOAT;2;FLOAT;3;FLOAT;4\nNode;AmplifyShaderEditor.RangedFloatNode;6;-1808,-592;Inherit;False;Constant;_Float2;Float
+    2;54;0;Create;True;0;0;0;False;0;False;0;0;0;0;0;1;FLOAT;0\nNode;AmplifyShaderEditor.TexCoordVertexDataNode;10;-1872,-128;Inherit;False;1;2;0;5;FLOAT2;0;FLOAT;1;FLOAT;2;FLOAT;3;FLOAT;4\nNode;AmplifyShaderEditor.RangedFloatNode;9;-1808,-192;Inherit;False;Constant;_Float3;Float
+    2;54;0;Create;True;0;0;0;False;0;False;1;0;0;0;0;1;FLOAT;0\nNode;AmplifyShaderEditor.Vector2Node;11;-1808,-16;Inherit;False;Constant;_Vector17;Vector
+    16;54;0;Create;True;0;0;0;False;0;False;0,0;0,0;0;3;FLOAT2;0;FLOAT;1;FLOAT;2\nNode;AmplifyShaderEditor.Vector2Node;7;-1808,-416;Inherit;False;Constant;_Vector16;Vector
+    16;54;0;Create;True;0;0;0;False;0;False;0,0;0,0;0;3;FLOAT2;0;FLOAT;1;FLOAT;2\nNode;AmplifyShaderEditor.Vector2Node;16;-1824,816;Inherit;False;Constant;_Vector19;Vector
+    16;54;0;Create;True;0;0;0;False;0;False;0,0;0,0;0;3;FLOAT2;0;FLOAT;1;FLOAT;2\nNode;AmplifyShaderEditor.TexCoordVertexDataNode;25;-1888,704;Inherit;False;3;2;0;5;FLOAT2;0;FLOAT;1;FLOAT;2;FLOAT;3;FLOAT;4\nNode;AmplifyShaderEditor.RangedFloatNode;17;-1824,640;Inherit;False;Constant;_Float6;Float
+    2;54;0;Create;True;0;0;0;False;0;False;3;0;0;0;0;1;FLOAT;0\nNode;AmplifyShaderEditor.Vector2Node;14;-1808,368;Inherit;False;Constant;_Vector18;Vector
+    16;54;0;Create;True;0;0;0;False;0;False;0,0;0,0;0;3;FLOAT2;0;FLOAT;1;FLOAT;2\nNode;AmplifyShaderEditor.TexCoordVertexDataNode;15;-1872,256;Inherit;False;2;2;0;5;FLOAT2;0;FLOAT;1;FLOAT;2;FLOAT;3;FLOAT;4\nNode;AmplifyShaderEditor.RangedFloatNode;13;-1808,192;Inherit;False;Constant;_Float4;Float
+    2;54;0;Create;True;0;0;0;False;0;False;2;0;0;0;0;1;FLOAT;0\nNode;AmplifyShaderEditor.FunctionOutput;0;-640,80;Inherit;False;True;-1;Output;0;False;1;0;FLOAT2;0,0;False;1;FLOAT2;0\nWireConnection;19;7;26;0\nWireConnection;19;8;9;0\nWireConnection;19;9;10;0\nWireConnection;19;10;11;0\nWireConnection;20;7;26;0\nWireConnection;20;8;13;0\nWireConnection;20;9;15;0\nWireConnection;20;10;14;0\nWireConnection;21;7;26;0\nWireConnection;21;8;17;0\nWireConnection;21;9;25;0\nWireConnection;21;10;16;0\nWireConnection;22;7;26;0\nWireConnection;22;8;6;0\nWireConnection;22;9;4;0\nWireConnection;22;10;7;0\nWireConnection;23;0;22;0\nWireConnection;23;1;19;0\nWireConnection;23;2;20;0\nWireConnection;23;3;21;0\nWireConnection;0;0;23;0\nASEEND*/\n//CHKSM=E8522C14578B7033AB01696FD8108B284920C74B"
+  m_functionName: 
+  m_description: 
+  m_additionalIncludes:
+    m_additionalIncludes: []
+    m_outsideIncludes: []
+  m_additionalPragmas:
+    m_additionalPragmas: []
+    m_outsidePragmas: []
+  m_additionalDirectives:
+    m_validData: 0
+    m_isDirty: 0
+    m_moduleName: ' Additional Directives'
+    m_independentModule: 1
+    m_customEdited: 0
+    m_additionalDirectives: []
+    m_shaderFunctionDirectives: []
+    m_nativeDirectives: []
+    m_nativeDirectivesIndex: -1
+    m_nativeDirectivesFoldout: 0
+    m_directivesSaveItems: []
+  m_nodeCategory: 0
+  m_headerStyle: 2
+  m_headerColor: {r: 0, g: 0.6666665, b: 1, a: 1}
+  m_customNodeCategory: Vivika Shading
+  m_previewPosition: 0
+  m_hidden: 0
+  m_url: 

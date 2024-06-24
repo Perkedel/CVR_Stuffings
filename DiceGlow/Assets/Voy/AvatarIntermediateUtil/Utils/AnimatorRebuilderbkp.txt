@@ -1,0 +1,557 @@
+using System.Collections;
+using System.Collections.Generic;
+using System.Linq;
+using UnityEngine;
+using UnityEditor;
+using UnityEditor.Animations;
+using Voy.IntermediateAvatar;
+
+namespace Voy.IntermediateAvatar.Utils
+{
+    public static class AnimatorRebuilder
+    {
+        // Lists that exist outside functions so I can just access them
+        private static List<string> alreadyProcessedParameterNames = new List<string>();
+        private static List<RenameDefinition> Renames = new List<RenameDefinition>();
+        //private static List<StateAssociation> stateAssociations = new List<StateAssociation>();
+        //private static List<StateMachineAssociation> stateMachineAssociations = new List<StateMachineAssociation>();
+        public static List<AnimatorData> DataGroups = new List<AnimatorData>();
+        private static Components.AnimatorType tempType;
+
+
+        public static RenameDefinition[] GetRenames()
+        {
+            return Renames.ToArray();
+        }
+
+        public static AnimatorController ProcessAndMerge(List<AnimatorController> animators, List<Components.AnimatorType> types, List<RenameDefinition> renameDefinitions)
+        {
+
+            Renames = renameDefinitions;
+
+            AnimatorController animatorNew = new AnimatorController();
+
+            int idx = 0;
+            foreach (AnimatorController animator in animators)
+            {
+                DataGroups.Add(
+                    ProcessAnimator(animator, types[idx])
+                    );
+
+                idx++;
+            }
+
+            List<AnimatorControllerLayer> layers = new List<AnimatorControllerLayer>();
+
+            List<AnimatorControllerParameter> parameters = new List<AnimatorControllerParameter>();
+
+            List<string> parameterTracker = new List<string>();
+
+            foreach (AnimatorData data in DataGroups)
+            {
+                foreach (AnimatorControllerParameter parameter in data.parameters)
+                {
+                    if (!parameterTracker.Contains(parameter.name))
+                    {
+                        parameters.Add(parameter);
+                        parameterTracker.Add(parameter.name);
+                    }
+                }
+
+                foreach (AnimatorControllerLayer layer in data.layers)
+                {
+                    string compareString = GetUniqueLayerName(layers, layer.name);
+
+                    if (compareString != null)
+                    {
+                        layer.name = compareString;
+                        layers.Add(layer);
+                    }
+                }
+            }
+
+            foreach (AnimatorControllerParameter parameter in parameters)
+            {
+                animatorNew.AddParameter(parameter);
+            }
+
+            foreach (AnimatorControllerLayer layer in layers)
+            {
+                animatorNew.AddLayer(layer);
+            }
+
+            //Cleanup
+            Renames.Clear();
+            //stateAssociations.Clear();
+            //stateMachineAssociations.Clear();
+            alreadyProcessedParameterNames.Clear();
+            uniqueNameAttempts = 0;
+            DataGroups.Clear();
+            tempType = 0;
+
+            return animatorNew;
+
+        }
+
+        // Declare this outside of the function so it can accumulate.
+        private static int uniqueNameAttempts = 0;
+        private static string GetUniqueLayerName(List<AnimatorControllerLayer> layers, string layerName)
+        {
+            int maxAttempts = 10;
+            string returnString = layerName;
+            bool canReturn = true;
+            int increment = 0;
+
+            foreach (AnimatorControllerLayer layer in layers)
+            {
+                if (layerName == layer.name) canReturn = false;
+            }
+
+            if (!canReturn && uniqueNameAttempts < maxAttempts)
+            {
+                uniqueNameAttempts++;
+                returnString = GetUniqueLayerName(layers, (layerName + " " + increment));
+            }
+            else if (uniqueNameAttempts >= maxAttempts)
+            {
+                returnString = null;
+            }
+
+            uniqueNameAttempts = 0;
+            return returnString;
+        }
+
+        private static AnimatorData ProcessAnimator(AnimatorController animator, Components.AnimatorType type)
+        {
+            tempType = type;
+            //Declare this, add to it, return later
+            AnimatorData animatorData = new AnimatorData();
+
+            foreach (AnimatorControllerParameter parameter in animator.parameters)
+            {
+                string parameterName = parameter.name;
+
+                foreach (RenameDefinition rename in Renames)
+                    if ((parameterName == rename.oldName) & (tempType != rename.ignoreAnimatorType)) parameterName = rename.newName;
+
+                if (alreadyProcessedParameterNames.Contains(parameterName)) continue;
+
+                AnimatorControllerParameter newParam = ProcessParameter(parameter);
+
+                if (newParam == null) continue;
+
+                animatorData.parameters.Add(newParam);
+                alreadyProcessedParameterNames.Add(newParam.name);
+            }
+
+            bool isFirstLayer = true;
+            foreach (AnimatorControllerLayer layer in animator.layers)
+            {
+                AnimatorControllerLayer newLayer = ProcessLayer(layer, type, isFirstLayer);
+
+                isFirstLayer = false;
+
+                if (newLayer == null) continue;
+
+                animatorData.layers.Add(newLayer);
+            }
+
+            tempType = 0;
+
+            return animatorData;
+        }
+
+        private static AnimatorControllerParameter ProcessParameter(AnimatorControllerParameter parameter)
+        {
+            AnimatorControllerParameter newParam = new AnimatorControllerParameter()
+            {
+                defaultBool = parameter.defaultBool,
+                defaultFloat = parameter.defaultFloat,
+                defaultInt = parameter.defaultInt,
+                name = parameter.name,
+                type = parameter.type
+            };
+
+            foreach (RenameDefinition rename in Renames)
+            {
+                if ((newParam.name == rename.oldName) & (tempType != rename.ignoreAnimatorType))
+                    newParam.name = rename.newName;
+            }
+
+            return newParam;
+        }
+
+        private static AnimatorControllerLayer ProcessLayer(AnimatorControllerLayer layer, Components.AnimatorType type, bool isFirst = false)
+        {
+
+            // No point in processing a state machine
+            if (layer.stateMachine == null) return null;
+
+            {
+                bool noBehaviours = layer.stateMachine.behaviours.Length <= 0;
+                bool noStatesOrMachines = layer.stateMachine.states.Length + layer.stateMachine.states.Length <= 0;
+
+                if (noBehaviours & noStatesOrMachines) return null;
+            }
+
+            AnimatorControllerLayer newLayer = new AnimatorControllerLayer();
+
+            newLayer.avatarMask = layer.avatarMask;
+            newLayer.blendingMode = layer.blendingMode;
+            newLayer.defaultWeight = layer.defaultWeight;
+            newLayer.iKPass = layer.iKPass;
+            newLayer.name = "[" + type.ToString() + "] " + layer.name;
+            newLayer.syncedLayerAffectsTiming = layer.syncedLayerAffectsTiming;
+            newLayer.syncedLayerIndex = layer.syncedLayerIndex;
+
+            if (isFirst) newLayer.defaultWeight = 1f;
+
+            AnimatorStateMachine newStateMachine = ProcessStateMachine(layer.stateMachine);
+
+            if (newStateMachine == null) Debug.LogError("newStateMachine returned null");
+
+            //AnimatorStateMachine newNewStateMachine = ProcessStateMachineTransitions(newStateMachine, layer.stateMachine);
+
+            //if (newNewStateMachine == null) Debug.LogError("newNewStateMachine returned null");
+
+            newLayer.stateMachine = newStateMachine;
+
+            if (newLayer.stateMachine == null)
+                return null;
+
+            return newLayer;
+
+        }
+
+        private static AnimatorStateMachine ProcessStateMachine(AnimatorStateMachine stateMachine)
+        {
+            AnimatorStateMachine newStateMachine = new AnimatorStateMachine();
+
+            newStateMachine.anyStatePosition = stateMachine.anyStatePosition;
+            newStateMachine.entryPosition = stateMachine.entryPosition;
+            newStateMachine.exitPosition = stateMachine.exitPosition;
+            newStateMachine.name = stateMachine.name;
+
+            newStateMachine.behaviours = ProcessBehaviors(stateMachine.behaviours);
+
+            List<AnimatorStateTransition> anyStateTransitions = new List<AnimatorStateTransition>();
+            List<AnimatorTransition> entryTransitions = new List<AnimatorTransition>();
+            
+            foreach (AnimatorStateTransition transition in stateMachine.anyStateTransitions)
+            {
+                AnimatorStateTransition newTransition = new AnimatorStateTransition()
+                {
+                    canTransitionToSelf = transition.canTransitionToSelf,
+                    destinationState = transition.destinationState,
+                    destinationStateMachine = transition.destinationStateMachine,
+                    duration = transition.duration,
+                    exitTime = transition.exitTime,
+                    hasExitTime = transition.hasExitTime,
+                    hasFixedDuration = transition.hasFixedDuration,
+                    interruptionSource = transition.interruptionSource,
+                    isExit = transition.isExit,
+                    mute = transition.mute,
+                    name = transition.name,
+                    offset = transition.offset,
+                    orderedInterruption = transition.orderedInterruption,
+                    solo = transition.solo
+                };
+
+                foreach (AnimatorCondition condition in transition.conditions)
+                {
+                    string parameter = condition.parameter;
+                    AnimatorConditionMode mode = condition.mode;
+                    float threshold = condition.threshold;
+
+                    foreach (RenameDefinition rename in Renames)
+                    {
+                        if ((parameter == rename.oldName) & (tempType != rename.ignoreAnimatorType))
+                            parameter = rename.newName;
+                    }
+
+                    newTransition.AddCondition(mode, threshold, parameter);
+                }
+
+                anyStateTransitions.Add(newTransition);
+            }
+
+            foreach (AnimatorTransition transition in stateMachine.entryTransitions)
+            {
+                AnimatorTransition newTransition = new AnimatorTransition()
+                {
+                    destinationState = transition.destinationState,
+                    destinationStateMachine = transition.destinationStateMachine,
+                    isExit = transition.isExit,
+                    mute = transition.mute,
+                    name = transition.name,
+                    solo = transition.solo
+                };
+
+                foreach (AnimatorCondition condition in transition.conditions)
+                {
+                    string parameter = condition.parameter;
+                    AnimatorConditionMode mode = condition.mode;
+                    float threshold = condition.threshold;
+
+                    foreach (RenameDefinition rename in Renames)
+                    {
+                        if ((parameter == rename.oldName) & (tempType != rename.ignoreAnimatorType)) parameter = rename.newName;
+                    }
+
+                    newTransition.AddCondition(mode, threshold, parameter);
+                }
+
+                entryTransitions.Add(newTransition);
+            }
+
+            newStateMachine.anyStateTransitions = anyStateTransitions.ToArray();
+            newStateMachine.entryTransitions = entryTransitions.ToArray();
+
+            List<ChildAnimatorStateMachine> newStateMachines = new List<ChildAnimatorStateMachine>();
+
+            // Process Child State Machines
+            foreach (ChildAnimatorStateMachine childStateMachine in stateMachine.stateMachines)
+            {
+                ChildAnimatorStateMachine newChildStateMachine = new ChildAnimatorStateMachine();
+
+                newChildStateMachine.position = childStateMachine.position;
+
+                newChildStateMachine.stateMachine = childStateMachine.stateMachine;
+
+                newStateMachines.Add(newChildStateMachine);
+            }
+            newStateMachine.stateMachines = newStateMachines.ToArray();
+
+            List<ChildAnimatorState> newStates = new List<ChildAnimatorState>();
+
+            // Process Child States
+            foreach (ChildAnimatorState state in stateMachine.states)
+            {
+                ChildAnimatorState newState = new ChildAnimatorState();
+
+                newState.position = state.position;
+
+                newState.state = ProcessState(state.state);
+
+                if (newState.state != null) newStates.Add(newState);
+            }
+
+            newStateMachine.states = newStates.ToArray();
+
+            return newStateMachine;
+        }
+
+        private static AnimatorState ProcessState(AnimatorState state)
+        {
+            state.motion = state.motion;
+
+            foreach (RenameDefinition rename in Renames)
+            {
+                if ((state.cycleOffsetParameter == rename.oldName) & (tempType != rename.ignoreAnimatorType)) state.cycleOffsetParameter = rename.newName;
+                if ((state.mirrorParameter == rename.oldName) & (tempType != rename.ignoreAnimatorType)) state.speedParameter = rename.newName;
+                if ((state.timeParameter == rename.oldName) & (tempType != rename.ignoreAnimatorType)) state.timeParameter = rename.newName;
+            }
+
+            if (state.motion != null)
+            {
+                if (state.motion.GetType() == typeof(BlendTree))
+                {
+                    state.motion = (Motion)ProcessBlendTree((BlendTree)state.motion);
+                }
+            }
+
+            List<AnimatorStateTransition> newTransitions = new List<AnimatorStateTransition>();
+
+            foreach (AnimatorStateTransition transition in state.transitions)
+            {
+                AnimatorStateTransition newTransition = new AnimatorStateTransition()
+                {
+                    destinationState = transition.destinationState,
+                    destinationStateMachine = transition.destinationStateMachine,
+                    isExit = transition.isExit,
+                    mute = transition.mute,
+                    name = transition.name,
+                    solo = transition.solo
+                };
+
+                foreach (AnimatorCondition condition in transition.conditions)
+                {
+                    string parameter = condition.parameter;
+                    AnimatorConditionMode mode = condition.mode;
+                    float threshold = condition.threshold;
+
+                    foreach (RenameDefinition rename in Renames)
+                    {
+                        if ((parameter == rename.oldName) & (tempType != rename.ignoreAnimatorType))
+                        {
+                            parameter = rename.newName;
+                        }
+                    }
+
+                    newTransition.AddCondition(mode, threshold, parameter);
+                }
+
+                newTransitions.Add(newTransition);
+            }
+
+            state.transitions = newTransitions.ToArray();
+
+            state.behaviours = ProcessBehaviors(state.behaviours);
+
+            return state;
+        }
+
+        private static StateMachineBehaviour[] ProcessBehaviors(StateMachineBehaviour[] behaviours)
+        {
+
+#if CVR_CCK_EXISTS
+
+            return Converter.FromIA.ChilloutVR.ProcessBehaviors(behaviours).ToArray();
+
+#endif //CVR_CCK_EXISTS
+
+        }
+
+        private static BlendTree ProcessBlendTree(BlendTree blendTree)
+        {
+            BlendTree _blendTree = new BlendTree()
+            {
+                name = blendTree.name,
+                blendParameter = blendTree.blendParameter,
+                blendParameterY = blendTree.blendParameterY,
+                blendType = blendTree.blendType,
+                maxThreshold = blendTree.maxThreshold,
+                minThreshold = blendTree.minThreshold,
+                useAutomaticThresholds = blendTree.useAutomaticThresholds
+            };
+
+            foreach (RenameDefinition rename in Renames)
+            {
+                if ((_blendTree.blendParameter == rename.oldName) & (tempType != rename.ignoreAnimatorType))
+                {
+                    _blendTree.blendParameter = rename.newName;
+                }
+                if ((_blendTree.blendParameterY == rename.oldName) & (tempType != rename.ignoreAnimatorType))
+                {
+                    _blendTree.blendParameterY = rename.newName;
+                }
+            }
+
+            List<ChildMotion> ChildMotions = new List<ChildMotion>();
+
+            foreach (ChildMotion childMotion in blendTree.children)
+            {
+                ChildMotion newChildMotion = childMotion;
+
+                if (childMotion.directBlendParameter != null | childMotion.directBlendParameter != "")
+                {
+                    foreach (RenameDefinition rename in Renames)
+                    {
+                        if ((childMotion.directBlendParameter == rename.oldName) & (tempType != rename.ignoreAnimatorType))
+                        {
+                            newChildMotion.directBlendParameter = rename.newName;
+                        }
+                    }
+                }
+
+                ChildMotions.Add(newChildMotion);
+            }
+
+            _blendTree.children = ChildMotions.ToArray();
+
+            return _blendTree;
+
+        }
+
+        private static bool hasParameterOfName(List<AnimatorData> DataGroups, string name)
+        {
+            foreach (AnimatorData data in DataGroups)
+            {
+                if (data.hasParameterOfName(name))
+                    return true;
+            }
+
+            return false;
+        }
+
+        private static AnimatorControllerParameter getParameterOfName(List<AnimatorData> DataGroups, string name)
+        {
+            foreach (AnimatorData data in DataGroups)
+            {
+                return data.getParameterOfName(name);
+            }
+
+            return null;
+        }
+
+    }
+
+
+    public class AnimatorData
+    {
+        public List<AnimatorControllerLayer> layers = new List<AnimatorControllerLayer>();
+        public List<AnimatorControllerParameter> parameters = new List<AnimatorControllerParameter>();
+
+        public bool hasParameterOfName(string name)
+        {
+            bool result = false;
+            foreach (AnimatorControllerParameter parameter in parameters)
+            {
+                if (parameter.name == name)
+                    result = true;
+            }
+
+            return result;
+        }
+
+        public AnimatorControllerParameter getParameterOfName(string name)
+        {
+            foreach (AnimatorControllerParameter parameter in parameters)
+            {
+                if (parameter.name == name)
+                    return parameter;
+            }
+
+            return null;
+        }
+    }
+
+    public class RenameDefinition
+    {
+        public string oldName;
+        public string newName;
+        public AnimatorControllerParameterType type;
+        public Components.AnimatorType ignoreAnimatorType = Components.AnimatorType.FX;
+
+        public MenuSystem.Parameter.ParameterType GetIntermParameterType()
+        {
+            switch (type)
+            {
+                case AnimatorControllerParameterType.Float:
+                    return MenuSystem.Parameter.ParameterType.Float;
+                case AnimatorControllerParameterType.Int:
+                    return MenuSystem.Parameter.ParameterType.Int;
+                default:
+                    return MenuSystem.Parameter.ParameterType.Bool;
+            }
+        }
+
+        public void SetParameterTypeFromInterm(MenuSystem.Parameter.ParameterType iaType)
+        {
+            switch (iaType)
+            {
+                case MenuSystem.Parameter.ParameterType.Float:
+                    type = AnimatorControllerParameterType.Float;
+                    break;
+                case MenuSystem.Parameter.ParameterType.Int:
+                    type = AnimatorControllerParameterType.Int;
+                    break;
+                default:
+                    type = AnimatorControllerParameterType.Bool;
+                    break;
+            }
+        }
+
+    }
+
+}

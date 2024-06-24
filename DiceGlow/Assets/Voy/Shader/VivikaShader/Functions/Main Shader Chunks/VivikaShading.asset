@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 78b2425a2284af743826c689403a4924, type: 3}
+  m_Name: VivikaShading
+  m_EditorClassIdentifier: 
+  m_functionInfo: "// Made with Amplify Shader Editor v1.9.3.3\n// Available at the
+    Unity Asset Store - http://u3d.as/y3X \n/*ASEBEGIN\nVersion=19303\nNode;AmplifyShaderEditor.FunctionInput;5;-832,-224;Inherit;False;Indirect
+    Light Max;1;1;False;1;0;FLOAT;0;False;1;FLOAT;0\nNode;AmplifyShaderEditor.FunctionInput;9;-864,96;Inherit;False;Indirect
+    Light Scale;1;5;False;1;0;FLOAT;0;False;1;FLOAT;0\nNode;AmplifyShaderEditor.FunctionInput;10;-864,176;Inherit;False;Min
+    Brightness;1;6;False;1;0;FLOAT;0;False;1;FLOAT;0\nNode;AmplifyShaderEditor.FunctionInput;12;-832,384;Inherit;False;Smoothness;1;8;False;1;0;FLOAT;0;False;1;FLOAT;0\nNode;AmplifyShaderEditor.FunctionInput;13;-832,464;Inherit;False;Metallic;1;9;False;1;0;FLOAT;0;False;1;FLOAT;0\nNode;AmplifyShaderEditor.FunctionInput;16;-832,544;Inherit;False;Metallic
+    Fresnel Scale;1;10;False;1;0;FLOAT;0;False;1;FLOAT;0\nNode;AmplifyShaderEditor.FunctionInput;17;-832,624;Inherit;False;Metallic
+    Fresnel Power;1;11;False;1;0;FLOAT;0;False;1;FLOAT;0\nNode;AmplifyShaderEditor.FunctionInput;18;-736,704;Inherit;False;Main
+    Tex;5;12;False;1;0;COLOR;0,0,0,0;False;1;COLOR;0\nNode;AmplifyShaderEditor.RangedFloatNode;15;-1024,464;Inherit;False;Constant;_Float4;Float
+    4;0;0;Create;True;0;0;0;False;0;False;0.4;0;0;0;0;1;FLOAT;0\nNode;AmplifyShaderEditor.RangedFloatNode;14;-1024,384;Inherit;False;Constant;_Float3;Float
+    3;0;0;Create;True;0;0;0;False;0;False;1;0;0;0;0;1;FLOAT;0\nNode;AmplifyShaderEditor.RangedFloatNode;21;-1024,544;Inherit;False;Constant;_Float5;Float
+    5;0;0;Create;True;0;0;0;False;0;False;1;0;0;0;0;1;FLOAT;0\nNode;AmplifyShaderEditor.RangedFloatNode;22;-1024,624;Inherit;False;Constant;_Float6;Float
+    6;0;0;Create;True;0;0;0;False;0;False;3;0;0;0;0;1;FLOAT;0\nNode;AmplifyShaderEditor.ColorNode;20;-1008,720;Inherit;False;Constant;_Color0;Color
+    0;0;0;Create;True;0;0;0;False;0;False;1,1,1,1;0,0,0,0;True;0;5;COLOR;0;FLOAT;1;FLOAT;2;FLOAT;3;FLOAT;4\nNode;AmplifyShaderEditor.SimpleMultiplyOpNode;19;-16,160;Inherit;False;2;2;0;COLOR;0,0,0,0;False;1;COLOR;0,0,0,0;False;1;COLOR;0\nNode;AmplifyShaderEditor.FunctionInput;11;-832,240;Inherit;False;Normal
+    Map;3;7;False;1;0;FLOAT3;0,0,0;False;1;FLOAT3;0\nNode;AmplifyShaderEditor.FunctionNode;25;-464,368;Inherit;True;VVReflections;-1;;22;18b00ccbe60e97a4c9739b6e69fed41d;0;7;1;FLOAT3;0,0,0;False;3;FLOAT3;0,0,0;False;5;FLOAT;0;False;10;FLOAT;0;False;11;FLOAT;0;False;13;FLOAT;0;False;17;COLOR;0,0,0,0;False;1;COLOR;0\nNode;AmplifyShaderEditor.FunctionInput;7;-832,-64;Inherit;False;Indir
+    Limiter Mode;1;3;False;1;0;FLOAT;0;False;1;FLOAT;0\nNode;AmplifyShaderEditor.FunctionInput;4;-832,-304;Inherit;False;Indirect
+    Light Min;1;0;False;1;0;FLOAT;0;False;1;FLOAT;0\nNode;AmplifyShaderEditor.FunctionInput;6;-832,-144;Inherit;False;Use
+    MIn for Max;1;2;False;1;0;FLOAT;0;False;1;FLOAT;0\nNode;AmplifyShaderEditor.FunctionInput;8;-832,16;Inherit;False;Wrap
+    Value;1;4;False;1;0;FLOAT;3;False;1;FLOAT;0\nNode;AmplifyShaderEditor.FunctionNode;34;-448,-160;Inherit;True;VVLighting;-1;;27;2a52553c3257f6347bce925e26a857b9;0;10;42;FLOAT;0;False;43;COLOR;0,0,0,0;False;2;FLOAT3;0,0,0;False;3;FLOAT;0;False;9;FLOAT;0;False;10;FLOAT;0;False;11;FLOAT;0;False;13;FLOAT;3;False;30;FLOAT;0;False;38;FLOAT;0;False;2;FLOAT3;53;COLOR;0\nNode;AmplifyShaderEditor.LightAttenuation;35;-676.2664,-537.8992;Inherit;False;0;1;FLOAT;0\nNode;AmplifyShaderEditor.LightColorNode;36;-738.2664,-440.8992;Inherit;False;0;3;COLOR;0;FLOAT3;1;FLOAT;2\nNode;AmplifyShaderEditor.FunctionOutput;0;176,176;Inherit;False;True;-1;Output;1;False;1;0;COLOR;0,0,0,0;False;1;COLOR;0\nNode;AmplifyShaderEditor.FunctionOutput;32;-48,-176;Inherit;False;False;-1;Max
+    Indir Light;0;False;1;0;FLOAT3;0,0,0;False;1;FLOAT3;0\nWireConnection;12;0;14;0\nWireConnection;13;0;15;0\nWireConnection;16;0;21;0\nWireConnection;17;0;22;0\nWireConnection;18;0;20;0\nWireConnection;19;0;34;0\nWireConnection;19;1;25;0\nWireConnection;25;1;11;0\nWireConnection;25;5;12;0\nWireConnection;25;10;13;0\nWireConnection;25;11;16;0\nWireConnection;25;13;17;0\nWireConnection;25;17;18;0\nWireConnection;34;42;35;0\nWireConnection;34;43;36;0\nWireConnection;34;2;11;0\nWireConnection;34;3;4;0\nWireConnection;34;9;5;0\nWireConnection;34;10;6;0\nWireConnection;34;11;7;0\nWireConnection;34;13;8;0\nWireConnection;34;30;9;0\nWireConnection;34;38;10;0\nWireConnection;0;0;19;0\nWireConnection;32;0;34;53\nASEEND*/\n//CHKSM=92014045BC5B2B27110D1AB2E0C5B2168542C533"
+  m_functionName: 
+  m_description: 
+  m_additionalIncludes:
+    m_additionalIncludes: []
+    m_outsideIncludes: []
+  m_additionalPragmas:
+    m_additionalPragmas: []
+    m_outsidePragmas: []
+  m_additionalDirectives:
+    m_validData: 0
+    m_isDirty: 0
+    m_moduleName: ' Additional Directives'
+    m_independentModule: 1
+    m_customEdited: 0
+    m_additionalDirectives: []
+    m_shaderFunctionDirectives: []
+    m_nativeDirectives: []
+    m_nativeDirectivesIndex: -1
+    m_nativeDirectivesFoldout: 0
+    m_directivesSaveItems: []
+  m_nodeCategory: 0
+  m_headerStyle: 2
+  m_headerColor: {r: 0, g: 0.6666665, b: 1, a: 1}
+  m_customNodeCategory: Vivika Shading
+  m_previewPosition: 0
+  m_hidden: 0
+  m_url: 

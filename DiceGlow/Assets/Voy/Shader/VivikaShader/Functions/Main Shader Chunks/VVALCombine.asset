@@ -1,0 +1,54 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 78b2425a2284af743826c689403a4924, type: 3}
+  m_Name: VVALCombine
+  m_EditorClassIdentifier: 
+  m_functionInfo: "// Made with Amplify Shader Editor v1.9.3.3\n// Available at the
+    Unity Asset Store - http://u3d.as/y3X \n/*ASEBEGIN\nVersion=19303\nNode;AmplifyShaderEditor.CommentaryNode;1;-704,-320;Inherit;False;616.9475;230.4527;Comment;2;24;28;AudioLink
+    Treble;1,1,1,1;0;0\nNode;AmplifyShaderEditor.CommentaryNode;2;-704,-608;Inherit;False;623.729;240.9653;Comment;2;23;26;AudioLink
+    HighMid;1,1,1,1;0;0\nNode;AmplifyShaderEditor.CommentaryNode;3;-704,-1216;Inherit;False;605.9648;260.0342;Comment;3;22;25;57;AudioLink
+    Bass;1,1,1,1;0;0\nNode;AmplifyShaderEditor.CommentaryNode;4;-704,-912;Inherit;False;634.8427;257.2679;Comment;2;21;27;AudioLink
+    LowMid;1,1,1,1;0;0\nNode;AmplifyShaderEditor.FunctionInput;27;-672,-848;Inherit;False;Low
+    Mid Color;5;3;False;1;0;COLOR;1,0.9294118,0,1;False;1;COLOR;0\nNode;AmplifyShaderEditor.FunctionInput;25;-672,-1152;Inherit;False;Bass
+    Color;5;2;False;1;0;COLOR;1,0,0,1;False;1;COLOR;0\nNode;AmplifyShaderEditor.FunctionInput;28;-688,-272;Inherit;False;Treble
+    Color;5;5;False;1;0;COLOR;0,0,1,1;False;1;COLOR;0\nNode;AmplifyShaderEditor.FunctionInput;26;-688,-560;Inherit;False;High
+    Mid Color;5;4;False;1;0;COLOR;0,0.8196079,0,1;False;1;COLOR;0\nNode;AmplifyShaderEditor.SimpleMultiplyOpNode;36;208,-1104;Inherit;False;2;2;0;COLOR;0,0,0,0;False;1;FLOAT3;1,1,1;False;1;COLOR;0\nNode;AmplifyShaderEditor.SimpleMultiplyOpNode;37;224,-864;Inherit;False;2;2;0;COLOR;0,0,0,0;False;1;FLOAT3;1,1,1;False;1;COLOR;0\nNode;AmplifyShaderEditor.SimpleMultiplyOpNode;38;240,-624;Inherit;False;2;2;0;COLOR;0,0,0,0;False;1;FLOAT3;1,1,1;False;1;COLOR;0\nNode;AmplifyShaderEditor.SimpleMultiplyOpNode;39;256,-416;Inherit;False;2;2;0;COLOR;0,0,0,0;False;1;FLOAT3;1,1,1;False;1;COLOR;0\nNode;AmplifyShaderEditor.FunctionNode;40;736,-1104;Inherit;False;IsAudioLink;-1;;681;ff5333ab7aa196b46b61532e86c1a947;0;0;1;FLOAT;0\nNode;AmplifyShaderEditor.SimpleAddOpNode;41;528,-816;Inherit;False;4;4;0;COLOR;0,0,0,0;False;1;COLOR;0,0,0,0;False;2;COLOR;0,0,0,0;False;3;COLOR;0,0,0,0;False;1;COLOR;0\nNode;AmplifyShaderEditor.SimpleAddOpNode;42;976,-1088;Inherit;False;2;2;0;FLOAT;0;False;1;FLOAT;0;False;1;FLOAT;0\nNode;AmplifyShaderEditor.SimpleMultiplyOpNode;44;784,-832;Inherit;False;2;2;0;FLOAT;0;False;1;COLOR;0,0,0,0;False;1;COLOR;0\nNode;AmplifyShaderEditor.SaturateNode;45;1088,-1008;Inherit;False;1;0;FLOAT;0;False;1;FLOAT;0\nNode;AmplifyShaderEditor.SimpleMultiplyOpNode;46;1216,-832;Inherit;False;2;2;0;COLOR;0,0,0,0;False;1;FLOAT;0;False;1;COLOR;0\nNode;AmplifyShaderEditor.FunctionInput;51;-48,-752;Inherit;False;Mask;5;6;False;1;0;COLOR;0,0,0,0;False;1;COLOR;0\nNode;AmplifyShaderEditor.FunctionInput;52;440.3275,-1082.741;Inherit;False;Enable
+    AudioLink;1;7;False;1;0;FLOAT;0;False;1;FLOAT;0\nNode;AmplifyShaderEditor.FunctionInput;53;736,-1024;Inherit;False;Emit
+    if Inactive;1;8;False;1;0;FLOAT;0;False;1;FLOAT;0\nNode;AmplifyShaderEditor.FunctionInput;54;-1008,-832;Inherit;False;Time;1;0;False;1;0;FLOAT;0;False;1;FLOAT;0\nNode;AmplifyShaderEditor.FunctionInput;55;-1008,-704;Inherit;False;Delay;0;1;False;1;0;INT;0;False;1;INT;0\nNode;AmplifyShaderEditor.RangedFloatNode;57;-672,-1056;Inherit;False;Constant;_Float1;Float
+    1;0;0;Create;True;0;0;0;False;0;False;1;0;0;0;0;1;FLOAT;0\nNode;AmplifyShaderEditor.FunctionNode;22;-528,-1152;Inherit;False;VVAudioLinkBand;-1;;666;21c75c7b8d1a0944a922b65e836efa4e;0;5;12;COLOR;1,0,0,1;False;13;FLOAT;0;False;14;INT;0;False;15;INT;0;False;16;FLOAT;0;False;1;FLOAT3;0\nNode;AmplifyShaderEditor.FunctionNode;23;-512,-560;Inherit;False;VVAudioLinkBand;-1;;671;21c75c7b8d1a0944a922b65e836efa4e;0;5;12;COLOR;1,0,0,1;False;13;FLOAT;0;False;14;INT;0;False;15;INT;2;False;16;FLOAT;0;False;1;FLOAT3;0\nNode;AmplifyShaderEditor.FunctionNode;21;-496,-848;Inherit;False;VVAudioLinkBand;-1;;661;21c75c7b8d1a0944a922b65e836efa4e;0;5;12;COLOR;1,0,0,1;False;13;FLOAT;0;False;14;INT;0;False;15;INT;1;False;16;FLOAT;0;False;1;FLOAT3;0\nNode;AmplifyShaderEditor.FunctionNode;24;-512,-272;Inherit;False;VVAudioLinkBand;-1;;676;21c75c7b8d1a0944a922b65e836efa4e;0;5;12;COLOR;1,0,0,1;False;13;FLOAT;0;False;14;INT;0;False;15;INT;3;False;16;FLOAT;0;False;1;FLOAT3;0\nNode;AmplifyShaderEditor.FunctionOutput;0;1376,-832;Inherit;False;True;-1;Output;0;False;1;0;COLOR;0,0,0,0;False;1;COLOR;0\nWireConnection;36;0;51;0\nWireConnection;36;1;22;0\nWireConnection;37;0;51;0\nWireConnection;37;1;23;0\nWireConnection;38;0;51;0\nWireConnection;38;1;21;0\nWireConnection;39;0;51;0\nWireConnection;39;1;24;0\nWireConnection;41;0;36;0\nWireConnection;41;1;37;0\nWireConnection;41;2;38;0\nWireConnection;41;3;39;0\nWireConnection;42;0;40;0\nWireConnection;42;1;53;0\nWireConnection;44;0;52;0\nWireConnection;44;1;41;0\nWireConnection;45;0;42;0\nWireConnection;46;0;44;0\nWireConnection;46;1;45;0\nWireConnection;22;12;25;0\nWireConnection;22;13;54;0\nWireConnection;22;14;55;0\nWireConnection;22;16;57;0\nWireConnection;23;12;26;0\nWireConnection;23;13;54;0\nWireConnection;23;14;55;0\nWireConnection;21;12;27;0\nWireConnection;21;13;54;0\nWireConnection;21;14;55;0\nWireConnection;24;12;28;0\nWireConnection;24;13;54;0\nWireConnection;24;14;55;0\nWireConnection;0;0;46;0\nASEEND*/\n//CHKSM=C4A2B7C727E173BA4E280EB9859C0EEDB4DC0209"
+  m_functionName: 
+  m_description: 
+  m_additionalIncludes:
+    m_additionalIncludes: []
+    m_outsideIncludes: []
+  m_additionalPragmas:
+    m_additionalPragmas: []
+    m_outsidePragmas: []
+  m_additionalDirectives:
+    m_validData: 0
+    m_isDirty: 0
+    m_moduleName: ' Additional Directives'
+    m_independentModule: 1
+    m_customEdited: 0
+    m_additionalDirectives: []
+    m_shaderFunctionDirectives: []
+    m_nativeDirectives: []
+    m_nativeDirectivesIndex: -1
+    m_nativeDirectivesFoldout: 0
+    m_directivesSaveItems: []
+  m_nodeCategory: 0
+  m_headerStyle: 2
+  m_headerColor: {r: 0, g: 0.6666665, b: 1, a: 1}
+  m_customNodeCategory: Vivika Shading
+  m_previewPosition: 0
+  m_hidden: 0
+  m_url: 

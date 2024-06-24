@@ -8753,3 +8753,84 @@ https://youtu.be/qzhuWRQWK5I?si=PygoI274O32LWD5a
 - PLS TEST LUA EXECUTE INTERACT
 - PLS REINSTALL MELONLOADER TO IDEAL VERSION
 - https://tickets.godotengine.org/foundation/godotcon-24/ TOO FAR!!! BERLIN.. oh noes
+- https://discord.com/channels/410126604237406209/588350726841827358/1253871188736741499
+- https://discord.com/channels/410126604237406209/795882566968279091/1253849816740528248
+- https://discord.com/channels/410126604237406209/1240763673346183279/1254075162974883987 NAK isFriend detection
+- pls install pointer `hockey` to our hockey puck in tribute for Inside Out 2.
+- https://sketchfab.com/Northwodearts
+- https://classic.minecraft.net
+- https://discord.com/channels/410126604237406209/797279576459968555/1252277599699210364
+- https://tori-nyan.booth.pm/
+- https://calbia.booth.pm/items/5267966
+- https://sporadic-e.booth.pm/
+- https://tsunamoo.booth.pm/
+- https://booth.pm/en/items/3127194 **PAID**
+- https://bananabread291.booth.pm/
+- https://polybunny.booth.pm/
+- https://booth.pm/en/items/4852692 **PAID**
+- https://booth.pm/en/items/5559870 **PAID** meme man audiolinked
+- https://picomarche.booth.pm/
+- https://booth.pm/en/items/3462959 PARTY FX Milk Deluxe
+- https://nyakome-garage.booth.pm/
+- https://tasoremi.booth.pm/
+- https://iskullyi.booth.pm/
+- https://ironbiscuit.booth.pm/
+- https://dekishisan.booth.pm/
+- https://namanonamako.booth.pm/
+- https://lightbulb.booth.pm/
+- https://lightbulb.booth.pm/
+- https://kareeda.booth.pm/
+- https://kareeda.booth.pm/
+- https://aliced.booth.pm/
+- https://aliced.booth.pm/
+- https://ham-am.booth.pm/
+- https://jangxx.booth.pm/
+- https://paruchansan.booth.pm/
+- https://booth.pm/en/items/4503044 **PAID**
+- https://goat-cannery.booth.pm/
+- https://mayune.booth.pm/
+- https://mayune.booth.pm/
+- https://kenjung.booth.pm/
+- https://kenjung.booth.pm/
+- https://kodamaaltanative.booth.pm/
+- https://myanon.booth.pm/
+- https://booth.pm/en/items/3661886 **PAID** lcd    
+- https://lua8556.booth.pm/
+- https://tori-nyan.booth.pm/
+- https://codealdnoah.booth.pm/
+- https://kljp.booth.pm/
+- https://ironbiscuit.booth.pm/
+- https://esska.booth.pm/
+- https://oblivionvr.booth.pm/    
+- https://mdcrtv.booth.pm/
+- https://electrovrc.booth.pm/
+- https://electrovrc.booth.pm/
+- https://dimono.booth.pm/
+- https://jaizzu.booth.pm/
+- https://cornfather.booth.pm/items/4031264 **PAID**
+- https://cornfather.booth.pm/
+- https://candeez.booth.pm/
+- https://januzuzu.booth.pm/
+- https://januzuzu.booth.pm/
+- https://booth.pm/en/items/5588759 **PAID**
+- https://kisaragi-koubou.booth.pm/
+- https://almostawake.booth.pm/
+- https://kisaragi-koubou.booth.pm/
+- https://dynamus.booth.pm/
+- https://shadowshinobi.booth.pm/
+- https://koturn.booth.pm/
+- https://sidega.booth.pm/
+- https://sidega.booth.pm/
+- https://rabbitutch.booth.pm/
+- https://umishop.booth.pm/
+- https://morioh.booth.pm/
+- https://gitlab.com/xMorioh/moriohs-toon-shader/
+- https://rotea.booth.pm/
+- VoyVivika likes Drum and Bass
+- https://github.com/VoyVivika/CVR-Avatar-Performance-Tools
+- Incoming Searaphim file CVRPlayTogether mod!
+- `/DiceGlow/Assets/Props/PropScreen.prefab`
+- `/DiceGlow/Assets/Props/Materials/ScreenOff.mat`
+- `/DiceGlow/Assets/Scenes/PropScene.unity`
+- `/DiceGlow/Assets/uWindowCapture/CVRPlayTogetherLib.dll`
+- OK

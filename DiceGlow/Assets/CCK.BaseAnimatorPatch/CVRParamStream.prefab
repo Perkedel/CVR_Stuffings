@@ -1,6 +1,6 @@
 %YAML 1.1
 %TAG !u! tag:unity3d.com,2011:
---- !u!1 &8076886405073508083
+--- !u!1 &8354530601473211725
 GameObject:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -8,8 +8,12 @@ GameObject:
   m_PrefabAsset: {fileID: 0}
   serializedVersion: 6
   m_Component:
-  - component: {fileID: 8076886405073508081}
-  - component: {fileID: 8076886405073508082}
+  - component: {fileID: 5737393394112414913}
+  - component: {fileID: 2394909285709313713}
+  - component: {fileID: 5643451627645131805}
+  - component: {fileID: 2807725890235148483}
+  - component: {fileID: 8699746789068508450}
+  - component: {fileID: 1797270106439313486}
   m_Layer: 0
   m_Name: CVRParamStream
   m_TagString: Untagged
@@ -17,13 +21,13 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
---- !u!4 &8076886405073508081
+--- !u!4 &5737393394112414913
 Transform:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 8076886405073508083}
+  m_GameObject: {fileID: 8354530601473211725}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
@@ -32,44 +36,342 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &8076886405073508082
+--- !u!95 &2394909285709313713
+Animator:
+  serializedVersion: 5
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8354530601473211725}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 22100000, guid: 84b6bc21b639d784e9d638237f57741f, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_StabilizeFeet: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorStateOnDisable: 0
+  m_WriteDefaultValuesOnDisable: 0
+--- !u!114 &5643451627645131805
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 8076886405073508083}
+  m_GameObject: {fileID: 8354530601473211725}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e197bf28ecd22dd4ea1528dbc81dfe70, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  viewPosition: {x: 0, y: 0.1, z: 0}
+  voicePosition: {x: 0, y: 0.15, z: 0}
+  voiceParent: 0
+  overrides: {fileID: 22100000, guid: b3bab480854d3564caa1252163ccfd68, type: 2}
+  bodyMesh: {fileID: 0}
+  useEyeMovement: 1
+  eyeMovementInterval: {x: 5, y: 10}
+  eyeMovementInfo:
+    type: 0
+    eyes: []
+  useBlinkBlendshapes: 0
+  blinkBlendshape:
+  - 
+  - 
+  - 
+  - 
+  blinkGap: {x: 0.4, y: 8}
+  blinkDuration: {x: 0.25, y: 0.35}
+  useVisemeLipsync: 0
+  visemeMode: 0
+  visemeSmoothing: 50
+  visemeBlendshapes:
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  enableCustomFPR: 0
+  fprSettingsList: []
+  enableAdvancedTagging: 0
+  advancedTaggingList: []
+  avatarUsesAdvancedSettings: 1
+  avatarSettings:
+    initialized: 1
+    baseController: {fileID: 9100000, guid: 641d99014d6ae1645a7fa0addf80bec5, type: 2}
+    baseOverrideController: {fileID: 22100000, guid: 84b6bc21b639d784e9d638237f57741f, type: 2}
+    animator: {fileID: 9100000, guid: c43cd6ac6377a5d48b042ad0c7e4afa8, type: 2}
+    overrides: {fileID: 22100000, guid: b3bab480854d3564caa1252163ccfd68, type: 2}
+    settings:
+    - type: 1
+      toggleSettings:
+        usedType: 3
+        isCollapsed: 1
+        defaultValue: 0
+        useAnimationClip: 0
+        animationClip: {fileID: 0}
+        offAnimationClip: {fileID: 0}
+        gameObjectTargets: []
+      materialColorSettings:
+        usedType: 0
+        isCollapsed: 0
+        defaultValue: {r: 0, g: 0, b: 0, a: 0}
+        materialColorTargets: []
+      dropDownSettings:
+        usedType: 2
+        isCollapsed: 0
+        defaultValue: 0
+        options:
+        - name: Default
+          isCollapsed: 0
+          useAnimationClip: 0
+          animationClip: {fileID: 0}
+          gameObjectTargets: []
+        - name: Casual Lay
+          isCollapsed: 0
+          useAnimationClip: 0
+          animationClip: {fileID: 0}
+          gameObjectTargets: []
+        - name: Casual Sit
+          isCollapsed: 0
+          useAnimationClip: 0
+          animationClip: {fileID: 0}
+          gameObjectTargets: []
+        - name: Feminine Sit
+          isCollapsed: 0
+          useAnimationClip: 0
+          animationClip: {fileID: 0}
+          gameObjectTargets: []
+        - name: Grasspatch Sit
+          isCollapsed: 0
+          useAnimationClip: 0
+          animationClip: {fileID: 0}
+          gameObjectTargets: []
+        - name: Knee Sit
+          isCollapsed: 0
+          useAnimationClip: 0
+          animationClip: {fileID: 0}
+          gameObjectTargets: []
+        - name: Leg Kick Laydown
+          isCollapsed: 0
+          useAnimationClip: 0
+          animationClip: {fileID: 0}
+          gameObjectTargets: []
+        - name: MoonGazing
+          isCollapsed: 0
+          useAnimationClip: 0
+          animationClip: {fileID: 0}
+          gameObjectTargets: []
+        - name: Normal Sit
+          isCollapsed: 0
+          useAnimationClip: 0
+          animationClip: {fileID: 0}
+          gameObjectTargets: []
+        - name: Relaxing
+          isCollapsed: 0
+          useAnimationClip: 0
+          animationClip: {fileID: 0}
+          gameObjectTargets: []
+        - name: Seductive Lay
+          isCollapsed: 0
+          useAnimationClip: 0
+          animationClip: {fileID: 0}
+          gameObjectTargets: []
+        - name: Slouch Sit
+          isCollapsed: 0
+          useAnimationClip: 0
+          animationClip: {fileID: 0}
+          gameObjectTargets: []
+        - name: StarGazing
+          isCollapsed: 0
+          useAnimationClip: 0
+          animationClip: {fileID: 0}
+          gameObjectTargets: []
+        - name: Sunset Sit
+          isCollapsed: 0
+          useAnimationClip: 0
+          animationClip: {fileID: 0}
+          gameObjectTargets: []
+        - name: Waist Laydown
+          isCollapsed: 0
+          useAnimationClip: 0
+          animationClip: {fileID: 0}
+          gameObjectTargets: []
+      sliderSettings:
+        usedType: 0
+        isCollapsed: 0
+        defaultValue: 0
+        materialPropertyTargets: []
+        useAnimationClip: 0
+        minAnimationClip: {fileID: 0}
+        maxAnimationClip: {fileID: 0}
+      joystick2DSetting:
+        usedType: 0
+        isCollapsed: 0
+        defaultValue: {x: 0, y: 0}
+        rangeMin: {x: 0, y: 0}
+        rangeMax: {x: 0, y: 0}
+      joystick3DSetting:
+        usedType: 0
+        isCollapsed: 0
+        defaultValue: {x: 0, y: 0, z: 0}
+        rangeMin: {x: 0, y: 0, z: 0}
+        rangeMax: {x: 0, y: 0, z: 0}
+      inputSingleSettings:
+        usedType: 0
+        isCollapsed: 0
+        defaultValue: 0
+      inputVector2Settings:
+        usedType: 0
+        isCollapsed: 0
+        defaultValue: {x: 0, y: 0}
+      inputVector3Settings:
+        usedType: 0
+        isCollapsed: 0
+        defaultValue: {x: 0, y: 0, z: 0}
+      name: BMP/Pose
+      machineName: BMP/Pose
+    - type: 0
+      toggleSettings:
+        usedType: 3
+        isCollapsed: 0
+        defaultValue: 0
+        useAnimationClip: 0
+        animationClip: {fileID: 0}
+        offAnimationClip: {fileID: 0}
+        gameObjectTargets: []
+      materialColorSettings:
+        usedType: 0
+        isCollapsed: 0
+        defaultValue: {r: 0, g: 0, b: 0, a: 0}
+        materialColorTargets: []
+      dropDownSettings:
+        usedType: 0
+        isCollapsed: 0
+        defaultValue: 0
+        options: []
+      sliderSettings:
+        usedType: 0
+        isCollapsed: 0
+        defaultValue: 0
+        materialPropertyTargets: []
+        useAnimationClip: 0
+        minAnimationClip: {fileID: 0}
+        maxAnimationClip: {fileID: 0}
+      joystick2DSetting:
+        usedType: 0
+        isCollapsed: 0
+        defaultValue: {x: 0, y: 0}
+        rangeMin: {x: 0, y: 0}
+        rangeMax: {x: 0, y: 0}
+      joystick3DSetting:
+        usedType: 0
+        isCollapsed: 0
+        defaultValue: {x: 0, y: 0, z: 0}
+        rangeMin: {x: 0, y: 0, z: 0}
+        rangeMax: {x: 0, y: 0, z: 0}
+      inputSingleSettings:
+        usedType: 0
+        isCollapsed: 0
+        defaultValue: 0
+      inputVector2Settings:
+        usedType: 0
+        isCollapsed: 0
+        defaultValue: {x: 0, y: 0}
+      inputVector3Settings:
+        usedType: 0
+        isCollapsed: 0
+        defaultValue: {x: 0, y: 0, z: 0}
+      name: BMP/Mirrored Pose
+      machineName: BMP/MirroredPose
+  references:
+    version: 2
+    RefIds: []
+--- !u!114 &2807725890235148483
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8354530601473211725}
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 943b2a67b8ad4877b53caadebe4d8d00, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  referenceType: 0
+  referenceType: 1
   entries:
   - type: 20
-    targetType: 0
+    targetType: 2
     applicationType: 0
     staticValue: 0
     target: {fileID: 0}
     parameterName: InVR
   - type: 260
-    targetType: 0
+    targetType: 2
     applicationType: 0
     staticValue: 0
     target: {fileID: 0}
     parameterName: InFBT
   - type: 401
-    targetType: 0
+    targetType: 2
     applicationType: 0
     staticValue: 0
     target: {fileID: 0}
     parameterName: Upright
   - type: 30
-    targetType: 0
-    applicationType: 81
-    staticValue: -1
+    targetType: 2
+    applicationType: 111
+    staticValue: 0
     target: {fileID: 0}
     parameterName: AFK
   onlyUpdateWhenHeld: 0
   onlyUpdateWhenAttached: 0
   onlyUpdateWhenControlled: 0
+--- !u!114 &8699746789068508450
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8354530601473211725}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 990f6f4efb7f4ec98ad99f6dff1bc6f6, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  type: 1
+  objectId: 
+  randomNum: 
+  unityVersion: 2021.3.23f1
+  cckVersion: 3.9:107
+--- !u!114 &1797270106439313486
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8354530601473211725}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8976b99a90888f74bbcaafc733199572, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  avatar: {fileID: 5643451627645131805}
+  simpleAASParameters:
+  - {fileID: 11400000, guid: ca324a2df55df8f458d8dfbe4c98a907, type: 2}
