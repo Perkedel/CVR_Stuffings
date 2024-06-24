@@ -890,6 +890,43 @@ spawnable = gameObject.GetComponentInParent("ABI.CCK.Components.CVRSpawnable")
                 end
 ```
 
+## Friend Detection
+
+Sauce: [NotAKidOnSteam](https://discord.com/channels/410126604237406209/1240763673346183279/1254075162974883987), [SDraw](https://discord.com/channels/410126604237406209/1240763673346183279/1253229299478040596), [Zeia Nala](https://discord.com/channels/410126604237406209/1240763673346183279/1254056420408561708), [Hans](https://discord.com/channels/410126604237406209/1240763673346183279/1253187284925415455)
+
+> Zeia Nala: so, im messing with scripting finally.  
+> yay
+> is there a way to detect if a friend is in the lobby with you, and depending on who it is, it can set a specific profile, or parameter on my avatar?
+
+```lua
+function Start()
+local isFriend = PlayerAPI:IsFriendsWith(Avatar.Wearer.UserID) or IsWornByMe
+Avatar:SetParameter(“#IsFriend”, isFriend)
+end
+```
+
+> NAK: something like that  
+> (am on mobile, may have messed something up)
+
+Explain: If you saw this avatar where the wearer is your friend, their `#isFriend` shows up `true` to you, only at your screen (& every other friends screen. `#` prefixed parameter name means local in Animator).
+
+### Other Friend Detection
+
+> Hans: query. how would one go about, if at all, making a game object on your avatar 'turn off' if the viewer is not your friend? I know there's some bits and bobs relating to avatar wearer and friend status with regards to that but I'm a dumb dumb at times.  
+> ...  
+> ...  
+> SDraw: should work, give it a try
+
+```lua
+function Start()
+  if(Script.RunningInAvatar and not Script.IsWornByMe and not PlayerAPI.IsFriendsWith(AvatarAPI.Wearer.UserID)) then
+    BoundObjects.funnyObj:SetActive(false) -- or do something else, idk :3
+  end
+end
+```
+
+Explain: similar as above but this one disables target / Bound Object inside their Avatar if the wearer **is not your friend**.
+
 ## Dummy Extended
 
 Want some overbloated dummy starter script? okay, here we go..
@@ -900,6 +937,8 @@ Want some overbloated dummy starter script? okay, here we go..
 
     Author
 ]]--
+print('HALO LUA POWERED OBJECT')
+
 System = require('System')
 UnityEngine = require('UnityEngine')
 AI = require('UnityEngine.AI')
