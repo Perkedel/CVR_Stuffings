@@ -8834,3 +8834,24 @@ https://youtu.be/qzhuWRQWK5I?si=PygoI274O32LWD5a
 - `/DiceGlow/Assets/Scenes/PropScene.unity`
 - `/DiceGlow/Assets/uWindowCapture/CVRPlayTogetherLib.dll`
 - OK
+- https://youtu.be/BVs_hXYho6U?si=uTI9TwJswiC-QtE5 Toy Story but Oppenheimer
+- https://sketchfab.com/3d-models/kingdom-hearts-iii-woody-ca9cb4686304487298bc68dc23d2d4c8
+- https://sketchfab.com/3d-models/buzz-lightyear-e914bf92026b4fd096fc34dc2760fecc
+- https://sketchfab.com/3d-models/toy-story-alien-1f0fc51e24bd4203a472a2cee7358b75
+- https://sketchfab.com/3d-models/wii-toy-story-3-hamm-ea66abbc30754b2ebc5df14bb8e10107
+- https://sketchfab.com/3d-models/emperor-zurg-b17f39b97d644d8c8a0a2701c651daee
+- https://sketchfab.com/3d-models/wii-toy-story-3-jessie-acee5d98b7ac428c98e1ccdef65fe39b
+- https://sketchfab.com/3d-models/mr-potato-head-56909c8cb27a4de7a4c5273ed13e8a80
+- https://sketchfab.com/3d-models/slinky-dog-8344e5e6ea0d45e890d0b8f3585549ec
+- OK
+- https://youtu.be/eOeu-9HoDnA?si=R0UCTwGIMDILEwdp that one unity dev
+- https://rb.gy/07nwjd a
+- ok
+- o
+- https://github.com/lilxyzw/lilToon.git?path=Assets/lilToon#master
+- https://lilxyzw.github.io/lilToon/#/en-us/first?id=how-to-distribute-your-works-that-use-liltoon
+- https://github.com/lilxyzw/lilFurGenerator/releases
+- https://github.com/lilxyzw/lilTextureUtil
+- https://github.com/lilxyzw/lilMiscAssets
+- https://discord.com/channels/722818587475050577/755348017799888927/1254953859479109682
+- https://github.com/DomNomNomVR/cvr-audio-link/
