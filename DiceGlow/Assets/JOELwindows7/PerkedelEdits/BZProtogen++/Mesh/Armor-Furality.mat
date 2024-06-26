@@ -10,7 +10,10 @@ Material:
   m_Name: Armor-Furality
   m_Shader: {fileID: 4800000, guid: fd46671929b20c7479986a4e2fd9a834, type: 3}
   m_ValidKeywords:
+  - _CLEARCOAT_ON
   - _EMISSION
+  - _GLINT_HIGHLIGHT_ON
+  - _GLINT_ON
   m_InvalidKeywords:
   - _METALLICGLOSSMAP
   - _NORMALMAP
@@ -100,7 +103,7 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _MaskMap01:
-        m_Texture: {fileID: 0}
+        m_Texture: {fileID: 2800000, guid: 09071d3c9e0a5ca479f03ad6eef8c89d, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _MaskMap02:
@@ -235,10 +238,10 @@ Material:
     - _BlueChReactivePulseScale: 127
     - _BumpScale: 1
     - _BumpScale1: 1
-    - _ClearCoat: 0
+    - _ClearCoat: 1
     - _ClearCoatChannel: 2
     - _ClearCoatDetailNormalScale: 1
-    - _ClearCoatHighlight: 0.9
+    - _ClearCoatHighlight: 0.635
     - _ClearCoatHighlightChannel: 0
     - _ClearCoatHighlightMap: 4
     - _ClearCoatMap: 0
@@ -331,7 +334,7 @@ Material:
     - _GlintHighlight: 0.5
     - _GlintHighlightChannel: 0
     - _GlintHighlightMap: 4
-    - _GlintHighlightToggle: 0
+    - _GlintHighlightToggle: 1
     - _GlintIgnoreNormals: 0
     - _GlintIntensity: 1
     - _GlintMap: 4
@@ -500,7 +503,7 @@ Material:
     - _SparkleThreshold: 0.047
     - _SparkleTiling: 100
     - _Sparkles: 0
-    - _SpecularGlint: 0
+    - _SpecularGlint: 1
     - _SpecularHaltoneRotation: 45
     - _SpecularHaltoneScale: 100
     - _SpecularHighlights: 1
