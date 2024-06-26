@@ -1,0 +1,173 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 78b2425a2284af743826c689403a4924, type: 3}
+  m_Name: Glinty BDRF
+  m_EditorClassIdentifier: 
+  m_functionInfo: "// Made with Amplify Shader Editor v1.9.3.2\n// Available at the
+    Unity Asset Store - http://u3d.as/y3X \n/*ASEBEGIN\nVersion=19302\nNode;AmplifyShaderEditor.CustomExpressionNode;21;-762.2219,-1451.707;Inherit;False;   
+    float x = sigma * 1.414213f * erfinv(2.0f * U - 1.0f) + mu@$    return x@;1;Create;3;True;U;FLOAT;0;In;uint;Inherit;False;True;mu;FLOAT;0;In;;Inherit;False;True;sigma;FLOAT;0;In;;Inherit;False;sampleNormalDistribution;False;True;1;22;;False;3;0;FLOAT;0;False;1;FLOAT;0;False;2;FLOAT;0;False;1;FLOAT;0\nNode;AmplifyShaderEditor.CustomExpressionNode;22;-741.3839,-1572.917;Inherit;False;float
+    w, p@$    w = -log((1.0 - x) * (1.0 + x))@$    if (w < 5.000000)$    {$       
+    w = w - 2.500000@$        p = 2.81022636e-08@$        p = 3.43273939e-07 + p
+    * w@$        p = -3.5233877e-06 + p * w@$        p = -4.39150654e-06 + p * w@$       
+    p = 0.00021858087 + p * w@$        p = -0.00125372503 + p * w@$        p = -0.00417768164
+    + p * w@$        p = 0.246640727 + p * w@$        p = 1.50140941 + p * w@$   
+    }$    else$    {$        w = sqrt(w) - 3.000000@$        p = -0.000200214257@$       
+    p = 0.000100950558 + p * w@$        p = 0.00134934322 + p * w@$        p = -0.00367342844
+    + p * w@$        p = 0.00573950773 + p * w@$        p = -0.0076224613 + p * w@$       
+    p = 0.00943887047 + p * w@$        p = 1.00167406 + p * w@$        p = 2.83297682
+    + p * w@$    }$    return p * x@$;1;Create;1;True;x;FLOAT;0;In;;Inherit;False;erfinv;False;True;0;;False;1;0;FLOAT;0;False;1;FLOAT;0\nNode;AmplifyShaderEditor.CustomExpressionNode;19;-1180.428,-1441.124;Inherit;False;//
+    integer hash copied from Hugo Elias$n = (n << 13) ^ n@$n = n * (n * n * 15731
+    + 789221) + 1376312589@$uint3 k = n * uint3(n, n * 16807, n * 48271)@$return
+    float3(k & uint3(0x7fffffff,0x7fffffff,0x7fffffff))/float(0x7fffffff)@$;3;Create;1;True;n;OBJECT;;In;uint;Inherit;False;hashIQ;False;True;0;;False;1;0;OBJECT;;False;1;FLOAT3;0\nNode;AmplifyShaderEditor.CustomExpressionNode;17;-821.6273,-1278.623;Inherit;False;return
+    int(pow(2., float(NLevels - 1 - level)))@;1;Create;2;True;level;INT;0;In;;Inherit;False;True;NLevels;FLOAT;0;In;;Inherit;False;pyramidSize;False;True;0;;False;2;0;INT;0;False;1;FLOAT;0;False;1;FLOAT;0\nNode;AmplifyShaderEditor.CustomExpressionNode;20;-1010.52,-1442.607;Inherit;False;   
+    float x_sqr = x * x@$    float y_sqr = y * y@$    float sigma_x = alpha_x * 0.707106@$   
+    float sigma_y = alpha_y * 0.707106@$    float sigma_x_sqr = sigma_x * sigma_x@$   
+    float sigma_y_sqr = sigma_y * sigma_y@$    return exp(-0.5 * ((x_sqr / sigma_x_sqr)
+    + (y_sqr / sigma_y_sqr))) / (2. * UNITY_PI * sigma_x * sigma_y)@;1;Create;4;True;x;FLOAT;0;In;uint;Inherit;False;True;y;FLOAT;0;In;;Inherit;False;True;alpha_x;FLOAT;0;In;;Inherit;False;True;alpha_y;FLOAT;0;In;;Inherit;False;p22_beckmann_anisotropic;False;True;0;;False;4;0;FLOAT;0;False;1;FLOAT;0;False;2;FLOAT;0;False;3;FLOAT;0;False;1;FLOAT;0\nNode;AmplifyShaderEditor.CustomExpressionNode;23;-514.2115,-1452.829;Inherit;False;   
+    float slope_x = -(omega_h.x / omega_h.z)@$    float slope_y = -(omega_h.y / omega_h.z)@$   
+    float cos_theta = omega_h.z@$    float cos_2_theta = cos_theta * cos_theta@$   
+    float cos_4_theta = cos_2_theta * cos_2_theta@$    float beckmann_p22 = p22_beckmann_anisotropic(slope_x,
+    slope_y, alpha_x, alpha_y)@$    return beckmann_p22 / cos_4_theta@;1;Create;3;True;omega_h;FLOAT3;0,0,0;In;uint;Inherit;False;True;alpha_x;FLOAT;0;In;;Inherit;False;True;alpha_y;FLOAT;0;In;;Inherit;False;ndf_beckmann_anisotropic;False;True;1;20;;False;3;0;FLOAT3;0,0,0;False;1;FLOAT;0;False;2;FLOAT;0;False;1;FLOAT;0\nNode;AmplifyShaderEditor.CustomExpressionNode;18;-1205.42,-1290.05;Inherit;False;   
+    // Coherent index$    // Eq. 8, Alg. 3, line 1$    int twoToTheL = int(pow(2.,float(l)))@$   
+    s0 *= twoToTheL@$    t0 *= twoToTheL@$$    // Seed pseudo random generator$   
+    // Alg. 3, line 2$    uint rngSeed = uint(s0 + 1549 * t0)@$$    // Alg.3, line
+    3$    float uMicrofacetRelativeArea = hashIQ(rngSeed * 13)@$    // Discard cells
+    by using microfacet relative area$    // Alg.3, line 4$    if (uMicrofacetRelativeArea
+    > MicrofacetRelativeArea)$        return 0@$$    // Number of microfacets in
+    a cell$    // Alg. 3, line 5$    float n = pow(2., float(2 * l - (2 * (NLevels
+    - 1))))@$    n *= exp(LogMicrofacetDensity)@$$    // Corresponding continuous
+    distribution LOD$    // Alg. 3, line 6$    float l_dist = log(n) / 1.38629@ //
+    2. * log(2) = 1.38629$$    // Alg. 3, line 7$    float uDensityRandomisation
+    = hashIQ(rngSeed * 2171)@$$    // Fix density randomisation to 2 to have better
+    appearance$    // Notation in the paper: zeta$    float densityRandomisation
+    = 2.@$$    // Sample a Gaussian to randomise the distribution LOD around the
+    distribution level l_dist$    // Alg. 3, line 8$    l_dist = sampleNormalDistribution(uDensityRandomisation,
+    l_dist, densityRandomisation)@$$    // Alg. 3, line 9$    int il_dist = clamp(int(round(l_dist)),
+    0, NLevels)@$    l_dist = float(il_dist)@$$    // Alg. 3, line 10$    if (il_dist
+    == NLevels)$        return p22_beckmann_anisotropic(slope_h.x, slope_h.y, Alpha_x,
+    Alpha_y)@$$    // Alg. 3, line 13$    float uTheta = hashIQ(rngSeed)@$    float
+    theta = 2.0 * UNITY_PI * uTheta@$$    // Uncomment to remove random distribution
+    rotation$    // Lead to glint alignments$    // theta = 0.@$$    float cosTheta
+    = cos(theta)@$    float sinTheta = sin(theta)@$$    float2 scaleFactor = float2(Alpha_x
+    / Alpha,$                            Alpha_y / Alpha)@$$    // Rotate and scale
+    slope$    // Alg. 3, line 16$    slope_h = float2(slope_h.x * cosTheta / scaleFactor.x
+    + slope_h.y * sinTheta / scaleFactor.y,$                   -slope_h.x * sinTheta
+    / scaleFactor.x + slope_h.y * cosTheta / scaleFactor.y)@$$    float2 abs_slope_h
+    = float2(abs(slope_h.x), abs(slope_h.y))@$$    int distPerChannel = 192 / 3@$   
+    float alpha_dist_isqrt2_4 = Alpha * 0.707106 * 4@$$    if (abs_slope_h.x > alpha_dist_isqrt2_4
+    || abs_slope_h.y > alpha_dist_isqrt2_4)$        return 0@$$    // Alg. 3, line
+    17$    float u1 = hashIQ(rngSeed * 16807)@$    float u2 = hashIQ(rngSeed * 48271)@$$   
+    // Alg. 3, line 18$    int i = int(u1 * float(192))@$    int j = int(u2 * float(192))@$$   
+    // 3 distributions values in one texel$    int distIdxXOver3 = i / 3@$    int
+    distIdxYOver3 = j / 3@$$    float texCoordX = abs_slope_h.x / alpha_dist_isqrt2_4@$   
+    float texCoordY = abs_slope_h.y / alpha_dist_isqrt2_4@$$    //texCoordX += frac(_Time*_Timescale)@$   
+    //texCoordY += frac(_Time*_Timescale)@$$    float3 P_i = UNITY_SAMPLE_TEX2DARRAY_LOD(_DictionaryTex,
+    float3(texCoordX,0, float(il_dist * 192 / 3 + distIdxXOver3)), 0).rgb@$    float3
+    P_j = UNITY_SAMPLE_TEX2DARRAY_LOD(_DictionaryTex, float3(texCoordY,0, float(il_dist
+    * 192 / 3 + distIdxYOver3)), 0).rgb@$$    // Alg. 3, line 19$    return P_i[i%3]
+    * P_j[j%3] / (scaleFactor.x * scaleFactor.y)@;1;Create;10;True;slope_h;FLOAT2;0,0;In;;Inherit;False;True;l;INT;0;In;;Inherit;False;True;s0;INT;0;In;;Inherit;False;True;t0;INT;0;In;;Inherit;False;True;NLevels;FLOAT;0;In;;Inherit;False;True;MicrofacetRelativeArea;FLOAT;0;In;;Inherit;False;True;LogMicrofacetDensity;FLOAT;0;In;;Inherit;False;True;Alpha_x;FLOAT;0;In;;Inherit;False;True;Alpha_y;FLOAT;0;In;;Inherit;False;True;Alpha;FLOAT;0;In;;Inherit;False;P22_theta_alpha;False;True;3;21;20;19;;False;10;0;FLOAT2;0,0;False;1;INT;0;False;2;INT;0;False;3;INT;0;False;4;FLOAT;0;False;5;FLOAT;0;False;6;FLOAT;0;False;7;FLOAT;0;False;8;FLOAT;0;False;9;FLOAT;0;False;1;FLOAT;0\nNode;AmplifyShaderEditor.CustomExpressionNode;16;-566.6527,-1274.036;Inherit;False;$   
+    // Convert surface coordinates to appropriate scale for level$    float pyrSize
+    = float(pyramidSize(l,NLevels))@$    st[0] = st[0] * pyrSize - 0.5f@$    st[1]
+    = st[1] * pyrSize - 0.5f@$$    dst0 *= pyrSize@$    dst1 *= pyrSize@$$    float
+    A = dst0[1] * dst0[1] + dst1[1] * dst1[1] + 1.@$    float B = -2. * (dst0[0]
+    * dst0[1] + dst1[0] * dst1[1])@$    float C = dst0[0] * dst0[0] + dst1[0] * dst1[0]
+    + 1.@$    float invF = 1. / (A * C - B * B * 0.25f)@$    A *= invF@$    B *=
+    invF@$    C *= invF@$$    // Compute the ellipse's bounding box in texture space$   
+    float det = -B * B + 4.0 * A * C@$    float invDet = 1.0 / det@$    float uSqrt
+    = sqrt(det * C)@$    float vSqrt = sqrt(A * det)@$    int s0 = int(ceil(st[0]
+    - 2. * invDet * uSqrt))@$    int s1 = int(floor(st[0] + 2. * invDet * uSqrt))@$   
+    int t0 = int(ceil(st[1] - 2. * invDet * vSqrt))@$    int t1 = int(floor(st[1]
+    + 2. * invDet * vSqrt))@$$    // Scan over ellipse bound and compute quadratic
+    equation$    float sum = 0.f@$    float sumWts = 0.0@$    int nbrOfIter = 0@$   
+    for (int it = t0@ it <= t1@ ++it)$    {$        float tt = float(it) - st[1]@$       
+    for (int is = s0@ is <= s1@ ++is)$        {$            float ss = float(is)
+    - st[0]@$            // Compute squared radius and filter SDF if inside ellipse$           
+    float r2 = A * ss * ss + B * ss * tt + C * tt * tt@$            if (r2 < 1.0)$           
+    {$                // Weighting function used in pbrt-v3 EWA function$               
+    float alpha = 2.0@$                float W_P = exp(-alpha * r2) - exp(-alpha)@$               
+    // Alg. 2, line 3$                sum += P22_theta_alpha(slope_h, l, is, it,
+    NLevels, MicrofacetRelativeArea, LogMicrofacetDensity, Alpha_x, Alpha_y, Alpha)
+    * W_P@$                sumWts += W_P@$            }$            nbrOfIter++@$           
+    // Guardrail (Extremely rare case.)$            if (nbrOfIter > 100)$               
+    break@$        }$        // Guardrail (Extremely rare case.)$        if (nbrOfIter
+    > 100)$            break@$    }$    return sum / sumWts@;3;Create;11;True;l;INT;0;In;;Inherit;False;True;slope_h;FLOAT2;0,0;In;;Inherit;False;True;st;FLOAT2;0,0;In;;Inherit;False;True;dst0;FLOAT2;0,0;In;;Inherit;False;True;dst1;FLOAT2;0,0;In;;Inherit;False;True;NLevels;FLOAT;0;In;;Inherit;False;True;MicrofacetRelativeArea;FLOAT;0;In;;Inherit;False;True;LogMicrofacetDensity;FLOAT;0;In;;Inherit;False;True;Alpha_x;FLOAT;0;In;;Inherit;False;True;Alpha_y;FLOAT;0;In;;Inherit;False;True;Alpha;FLOAT;0;In;;Inherit;False;P22xxP_;False;True;2;17;18;;False;11;0;INT;0;False;1;FLOAT2;0,0;False;2;FLOAT2;0,0;False;3;FLOAT2;0,0;False;4;FLOAT2;0,0;False;5;FLOAT;0;False;6;FLOAT;0;False;7;FLOAT;0;False;8;FLOAT;0;False;9;FLOAT;0;False;10;FLOAT;0;False;1;FLOAT3;0\nNode;AmplifyShaderEditor.TransformDirectionNode;8;-765.9779,1120.144;Inherit;False;World;Tangent;True;Fast;False;1;0;FLOAT3;0,0,0;False;4;FLOAT3;0;FLOAT;1;FLOAT;2;FLOAT;3\nNode;AmplifyShaderEditor.RegisterLocalVarNode;59;-1019.999,1246.716;Inherit;False;Ignore
+    Normals;-1;True;1;0;FLOAT;0;False;1;FLOAT;0\nNode;AmplifyShaderEditor.GetLocalVarNode;60;-751.198,1267.516;Inherit;False;59;Ignore
+    Normals;1;0;OBJECT;;False;1;FLOAT;0\nNode;AmplifyShaderEditor.LerpOp;51;-382.726,1055.485;Inherit;False;3;0;FLOAT3;0,0,0;False;1;FLOAT3;0,0,0;False;2;FLOAT;0;False;1;FLOAT3;0\nNode;AmplifyShaderEditor.SimpleMultiplyOpNode;4;-178.6762,983.1395;Inherit;False;2;2;0;FLOAT;0;False;1;FLOAT3;0,0,0;False;1;FLOAT3;0\nNode;AmplifyShaderEditor.GetLocalVarNode;58;-378.0911,980.3071;Inherit;False;9;face;1;0;OBJECT;;False;1;FLOAT;0\nNode;AmplifyShaderEditor.RegisterLocalVarNode;2;-30.37662,989.3439;Inherit;False;wi;-1;True;1;0;FLOAT3;0,0,0;False;1;FLOAT3;0\nNode;AmplifyShaderEditor.RegisterLocalVarNode;5;228.6814,1610.74;Inherit;False;wo;-1;True;1;0;FLOAT3;0,0,0;False;1;FLOAT3;0\nNode;AmplifyShaderEditor.SimpleMultiplyOpNode;6;-5.513421,1607.472;Inherit;False;2;2;0;FLOAT3;0,0,0;False;1;FLOAT;0;False;1;FLOAT3;0\nNode;AmplifyShaderEditor.GetLocalVarNode;62;-234.7403,1728.312;Inherit;False;9;face;1;0;OBJECT;;False;1;FLOAT;0\nNode;AmplifyShaderEditor.LerpOp;52;-1045.458,1613.944;Inherit;False;3;0;FLOAT3;0,0,0;False;1;FLOAT3;0,0,0;False;2;FLOAT;0;False;1;FLOAT3;0\nNode;AmplifyShaderEditor.GetLocalVarNode;61;-1332.657,1795.36;Inherit;False;59;Ignore
+    Normals;1;0;OBJECT;;False;1;FLOAT;0\nNode;AmplifyShaderEditor.ViewDirInputsCoordNode;50;-1328.132,1640.714;Inherit;False;Tangent;False;0;4;FLOAT3;0;FLOAT;1;FLOAT;2;FLOAT;3\nNode;AmplifyShaderEditor.GetLocalVarNode;64;-1560.366,1494.837;Inherit;False;63;TangentMatrix;1;0;OBJECT;;False;1;FLOAT3x3;0\nNode;AmplifyShaderEditor.NormalizeNode;45;-869.4904,1616.686;Inherit;False;False;1;0;FLOAT3;0,0,0;False;1;FLOAT3;0\nNode;AmplifyShaderEditor.SimpleMultiplyOpNode;42;-1278.944,1513.487;Inherit;False;2;2;0;FLOAT3x3;0,0,0,0,1,1,1,0,1;False;1;FLOAT3;0,1,1;False;1;FLOAT3;0\nNode;AmplifyShaderEditor.SamplerNode;24;-196.9651,-1250.819;Inherit;True;Property;_DictionaryTex;DictionaryTex;1;0;Create;False;0;0;0;True;0;False;-1;4b624298ee57ca94db9cb2f3dfc13869;4b624298ee57ca94db9cb2f3dfc13869;True;0;False;white;LockedToTexture2DArray;False;Object;-1;Auto;Texture2DArray;8;0;SAMPLER2DARRAY;;False;1;FLOAT2;0,0;False;2;FLOAT;0;False;3;FLOAT2;0,0;False;4;FLOAT2;0,0;False;5;FLOAT;1;False;6;FLOAT;0;False;7;SAMPLERSTATE;;False;5;COLOR;0;FLOAT;1;FLOAT;2;FLOAT;3;FLOAT;4\nNode;AmplifyShaderEditor.CustomExpressionNode;1;934.1237,-1363.202;Inherit;False;   
+    if (wo.z <= 0.)$        return float3(0., 0., 0.)@$    if (wi.z <= 0.)$       
+    return float3(0., 0., 0.)@$$Smoothness = Smoothness-1@$float Alpha_x = Smoothness@$float
+    Alpha_y = Smoothness@$float NLevels = 16@$float Alpha = Intensity@$$    // Alg.
+    1, line 1$    float3 wh = normalize(wo + wi)@$    if (wh.z <= 0.)$        return
+    float3(0., 0., 0.)@$$    // Local masking shadowing$    if (max((dot(wo, wh)
+    <= 0.),0) || max((dot(wi, wh) <= 0.),0))$        return 0@$$    // Eq. 1, Alg.
+    1, line 2$    float2 slope_h = float2(-wh.x / wh.z, -wh.y / wh.z)@$$    float2
+    texCoord = UV@$$    // Uncomment for anisotropic glints$     //texCoord *= float2(1.,
+    35.)@$$    float D_P = 0.@$    float P22_P = 0.@$$    // --------------------------------------------------------------------$   
+    // Similar to pbrt-v3 MIPMap::Lookup function, $    //http://www.pbr-book.org/3ed-2018/Texture/$   
+    //Image_Texture.html#EllipticallyWeightedAverage$$    // Alg. 1, line 3$    float2
+    dst0 = ddx(texCoord)@$    float2 dst1 = ddy(texCoord)@$$    // Compute ellipse
+    minor and major axes$    if ( max((dot(dst0,dst0)),0) < max ((dot(dst1,dst1)),0))$   
+    {$        // Swap dst0 and dst1$        float2 tmp = dst0@$        dst0 = dst1@$       
+    dst1 = tmp@$    }$$    float majorLength = length(dst0)@$    // Alg. 1, line
+    5$    float minorLength = length(dst1)@$$    // Clamp ellipse eccentricity if
+    too large$    // Alg. 1, line 4$    if (minorLength * 8 < majorLength && minorLength
+    > 0.)$    {$        float scale = majorLength / (minorLength * 8)@$        dst1
+    *= scale@$        minorLength *= scale@$    }$    // --------------------------------------------------------------------$$   
+    // Without footprint, we evaluate the Cook Torrance BRDF$    if (minorLength
+    == 0.0)$    {$        D_P = ndf_beckmann_anisotropic(wh, Alpha_x, Alpha_y)@$   
+    }$    else$    {$        // Choose LOD$        // Alg. 1, line 6$        float
+    l = max(0., float(NLevels) - 1. + log2(minorLength))@$        int il = int(floor(l))@$$       
+    // Alg. 1, line 7$        float w = l - float(il)@$$        // Alg. 1, line 8$       
+    P22_P = lerp(P22xxP_(il, slope_h, texCoord, dst0, dst1, NLevels, MicrofacetRelativeArea,
+    LogMicrofacetDensity, Alpha_x, Alpha_y, Alpha),$                    P22xxP_(il
+    + 1, slope_h, texCoord, dst0, dst1, NLevels, MicrofacetRelativeArea, LogMicrofacetDensity,
+    Alpha_x, Alpha_y, Alpha),$                    w)@$$        // Eq. 6, Alg. 1,
+    line 10$        D_P = P22_P / (wh.z * wh.z * wh.z * wh.z)@$    }$$    // V-cavity
+    masking shadowing$    float G1wowh = min(1., 2. * wh.z * wo.z / max((dot(wo,
+    wh)),0))@$    float G1wiwh = min(1., 2. * wh.z * wi.z / max((dot(wi, wh)),0))@$   
+    float G = G1wowh * G1wiwh@$$    // Fresnel is set to one for simplicity here$   
+    // but feel free to use \"real\" Fresnel term$    float3 F = float3(1., 1., 1.)@$$   
+    // Eq. 14, Alg. 1, line 14$    // (wi dot wg) is cancelled by$    // the cosine
+    weight in the rendering equation$//float origSpec = ndf_beckmann_anisotropic(wh,
+    Alpha_x, Alpha_y)@$    //return  D_P / (4. * wo.z)@$   return (F * G * D_P) /
+    (4 *wo.z)@$$//return D_P@;3;Create;7;True;wo;FLOAT3;0,0,0;In;;Inherit;False;True;wi;FLOAT3;0,0,0;In;;Inherit;False;True;UV;FLOAT2;0,0;In;;Inherit;False;True;Smoothness;FLOAT;0;In;;Inherit;False;True;Intensity;FLOAT;0;In;;Inherit;False;True;MicrofacetRelativeArea;FLOAT;0;In;;Inherit;False;True;LogMicrofacetDensity;FLOAT;0;In;;Inherit;False;f_P;False;True;2;23;16;;False;7;0;FLOAT3;0,0,0;False;1;FLOAT3;0,0,0;False;2;FLOAT2;0,0;False;3;FLOAT;0;False;4;FLOAT;0;False;5;FLOAT;0;False;6;FLOAT;0;False;1;FLOAT3;0\nNode;AmplifyShaderEditor.FunctionInput;28;620.9608,-888.174;Inherit;False;LogMicrofacetDensity;1;6;False;1;0;FLOAT;0;False;1;FLOAT;0\nNode;AmplifyShaderEditor.FunctionInput;27;606.4821,-969.8671;Inherit;False;MicrofacetRelativeArea;1;5;False;1;0;FLOAT;0;False;1;FLOAT;0\nNode;AmplifyShaderEditor.FunctionInput;26;684.5019,-1060.824;Inherit;False;Intensity;1;4;False;1;0;FLOAT;0;False;1;FLOAT;0\nNode;AmplifyShaderEditor.SimpleMinOpNode;30;714.338,-1157.802;Inherit;False;2;0;FLOAT;0;False;1;FLOAT;0.99;False;1;FLOAT;0\nNode;AmplifyShaderEditor.FunctionInput;25;531.4523,-1166.174;Inherit;False;Smoothness;1;3;False;1;0;FLOAT;0;False;1;FLOAT;0\nNode;AmplifyShaderEditor.TextureCoordinatesNode;3;297.3217,-1239.482;Inherit;False;0;-1;2;3;2;SAMPLER2D;;False;0;FLOAT2;1,1;False;1;FLOAT2;0,0;False;5;FLOAT2;0;FLOAT;1;FLOAT;2;FLOAT;3;FLOAT;4\nNode;AmplifyShaderEditor.FunctionInput;31;539.0656,-1239.822;Inherit;False;UV;2;1;False;1;0;FLOAT2;0,0;False;1;FLOAT2;0\nNode;AmplifyShaderEditor.GetLocalVarNode;56;526.5662,-1320.669;Inherit;False;2;wi;1;0;OBJECT;;False;1;FLOAT3;0\nNode;AmplifyShaderEditor.GetLocalVarNode;57;532.4805,-1396.075;Inherit;False;5;wo;1;0;OBJECT;;False;1;FLOAT3;0\nNode;AmplifyShaderEditor.GetLocalVarNode;65;-1178.525,1009.405;Inherit;False;63;TangentMatrix;1;0;OBJECT;;False;1;FLOAT3x3;0\nNode;AmplifyShaderEditor.SimpleMultiplyOpNode;40;-737.8921,1005.452;Inherit;False;2;2;0;FLOAT3x3;0,0,0,0,1,1,1,0,1;False;1;FLOAT3;0,1,1;False;1;FLOAT3;0\nNode;AmplifyShaderEditor.VertexTangentNode;74;-3354.383,1443.453;Inherit;False;0;4;FLOAT3;0;FLOAT;1;FLOAT;2;FLOAT;3\nNode;AmplifyShaderEditor.MatrixFromVectors;77;-2747.013,1550.741;Inherit;False;FLOAT3x3;True;4;0;FLOAT3;0,0,0;False;1;FLOAT3;0,0,0;False;2;FLOAT3;0,0,0;False;3;FLOAT3;0,0,0;False;1;FLOAT3x3;0\nNode;AmplifyShaderEditor.TransposeOpNode;78;-2501.18,1546.036;Inherit;False;1;0;FLOAT3x3;0,0,0,1,1,1,1,0,1;False;1;FLOAT3x3;0\nNode;AmplifyShaderEditor.SimpleAddOpNode;7;-646.3933,2375.791;Inherit;False;2;2;0;FLOAT3;0,0,0;False;1;FLOAT3;0,0,0;False;1;FLOAT3;0\nNode;AmplifyShaderEditor.NormalizeNode;32;-515.8691,2369.147;Inherit;False;False;1;0;FLOAT3;0,0,0;False;1;FLOAT3;0\nNode;AmplifyShaderEditor.FunctionSwitch;48;-310.1782,2292.823;Inherit;False;ExtraNormal;True;0;2;-1;In
+    0;In 1;Object;-1;10;0;FLOAT3;0,0,0;False;1;FLOAT3;0,0,0;False;2;FLOAT;0;False;3;FLOAT;0;False;4;FLOAT;0;False;5;FLOAT;0;False;6;FLOAT;0;False;7;FLOAT;0;False;8;FLOAT;0;False;9;FLOAT;0;False;1;FLOAT3;0\nNode;AmplifyShaderEditor.DynamicAppendNode;11;-980.9836,2555.06;Inherit;False;FLOAT3;4;0;FLOAT2;0,0;False;1;FLOAT;0;False;2;FLOAT;0;False;3;FLOAT;0;False;1;FLOAT3;0\nNode;AmplifyShaderEditor.SwizzleNode;12;-1127.984,2554.06;Inherit;False;FLOAT2;0;1;2;3;1;0;FLOAT3;0,0,0;False;1;FLOAT2;0\nNode;AmplifyShaderEditor.CrossProductOpNode;79;-3097.781,1578.326;Inherit;False;2;0;FLOAT3;0,0,0;False;1;FLOAT3;0,0,0;False;1;FLOAT3;0\nNode;AmplifyShaderEditor.RegisterLocalVarNode;63;-2373.546,1547.314;Inherit;False;TangentMatrix;-1;True;1;0;FLOAT3x3;0,0,0,1,1,1,1,0,1;False;1;FLOAT3x3;0\nNode;AmplifyShaderEditor.ViewDirInputsCoordNode;10;-1536.517,1585.987;Inherit;False;World;False;0;4;FLOAT3;0;FLOAT;1;FLOAT;2;FLOAT;3\nNode;AmplifyShaderEditor.WorldNormalVector;75;-3356.547,1589.406;Inherit;False;False;1;0;FLOAT3;0,0,1;False;4;FLOAT3;0;FLOAT;1;FLOAT;2;FLOAT;3\nNode;AmplifyShaderEditor.FunctionInput;29;-3524.921,1590.886;Inherit;False;Normal;3;2;False;1;0;FLOAT3;0,0,0;False;1;FLOAT3;0\nNode;AmplifyShaderEditor.Vector3Node;80;-3716.209,1590.882;Inherit;False;Constant;_Vector0;Vector
+    0;2;0;Create;True;0;0;0;False;0;False;0,0,1;0,0,0;0;4;FLOAT3;0;FLOAT;1;FLOAT;2;FLOAT;3\nNode;AmplifyShaderEditor.RegisterLocalVarNode;9;-169.0083,740.6767;Inherit;False;face;-1;True;1;0;FLOAT;0;False;1;FLOAT;0\nNode;AmplifyShaderEditor.TFHCRemapNode;13;-386.6886,741.3268;Inherit;False;5;0;FLOAT;0;False;1;FLOAT;0;False;2;FLOAT;1;False;3;FLOAT;-1;False;4;FLOAT;1;False;1;FLOAT;0\nNode;AmplifyShaderEditor.FaceVariableNode;14;-551.7862,750.4271;Inherit;False;0;1;FLOAT;0\nNode;AmplifyShaderEditor.WorldSpaceLightDirHlpNode;15;-1754.51,1087.125;Inherit;False;False;1;0;FLOAT;0;False;4;FLOAT3;0;FLOAT;1;FLOAT;2;FLOAT;3\nNode;AmplifyShaderEditor.FunctionInput;81;-1441.437,1093.812;Inherit;False;Light
+    Dir;3;0;False;1;0;FLOAT3;0,0,0;False;1;FLOAT3;0\nNode;AmplifyShaderEditor.RangedFloatNode;53;-1230.149,1243.871;Inherit;False;Property;_GlintIgnoreNormals;Glint
+    Ignore Normals;0;1;[ToggleUI];Create;True;0;0;0;True;0;False;0;0;0;0;0;1;FLOAT;0\nNode;AmplifyShaderEditor.FunctionOutput;0;1284.263,-1386.098;Inherit;False;True;-1;Output;0;False;1;0;FLOAT3;0,0,0;False;1;FLOAT3;0\nWireConnection;8;0;81;0\nWireConnection;59;0;53;0\nWireConnection;51;0;40;0\nWireConnection;51;1;8;0\nWireConnection;51;2;60;0\nWireConnection;4;0;58;0\nWireConnection;4;1;51;0\nWireConnection;2;0;4;0\nWireConnection;5;0;6;0\nWireConnection;6;0;45;0\nWireConnection;6;1;62;0\nWireConnection;52;0;42;0\nWireConnection;52;1;50;0\nWireConnection;52;2;61;0\nWireConnection;45;0;52;0\nWireConnection;42;0;64;0\nWireConnection;42;1;10;0\nWireConnection;1;0;57;0\nWireConnection;1;1;56;0\nWireConnection;1;2;31;0\nWireConnection;1;3;30;0\nWireConnection;1;4;26;0\nWireConnection;1;5;27;0\nWireConnection;1;6;28;0\nWireConnection;30;0;25;0\nWireConnection;31;0;3;0\nWireConnection;40;0;65;0\nWireConnection;40;1;81;0\nWireConnection;77;0;74;0\nWireConnection;77;1;79;0\nWireConnection;77;2;75;0\nWireConnection;78;0;77;0\nWireConnection;7;1;11;0\nWireConnection;32;0;7;0\nWireConnection;48;1;32;0\nWireConnection;11;0;12;0\nWireConnection;79;0;75;0\nWireConnection;79;1;74;0\nWireConnection;63;0;77;0\nWireConnection;75;0;29;0\nWireConnection;29;0;80;0\nWireConnection;9;0;13;0\nWireConnection;13;0;14;0\nWireConnection;81;0;15;0\nWireConnection;0;0;1;0\nASEEND*/\n//CHKSM=6692F65DE27BC560E681898478C35B1822658697"
+  m_functionName: 
+  m_description: 
+  m_additionalIncludes:
+    m_additionalIncludes: []
+    m_outsideIncludes: []
+  m_additionalPragmas:
+    m_additionalPragmas: []
+    m_outsidePragmas: []
+  m_additionalDirectives:
+    m_validData: 0
+    m_isDirty: 0
+    m_moduleName: ' Additional Directives'
+    m_independentModule: 1
+    m_customEdited: 0
+    m_additionalDirectives: []
+    m_shaderFunctionDirectives: []
+    m_nativeDirectives: []
+    m_nativeDirectivesIndex: -1
+    m_nativeDirectivesFoldout: 0
+    m_directivesSaveItems: []
+  m_nodeCategory: 3
+  m_headerStyle: 0
+  m_headerColor: {r: 1, g: 0.4, b: 0, a: 1}
+  m_customNodeCategory: 
+  m_previewPosition: 0
+  m_hidden: 0
+  m_url: 

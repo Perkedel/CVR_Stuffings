@@ -8855,3 +8855,40 @@ https://youtu.be/qzhuWRQWK5I?si=PygoI274O32LWD5a
 - https://github.com/lilxyzw/lilMiscAssets
 - https://discord.com/channels/722818587475050577/755348017799888927/1254953859479109682
 - https://github.com/DomNomNomVR/cvr-audio-link/
+- https://ambientcg.com/view?id=Ground077
+- https://ambientcg.com/view?id=Bricks092
+- https://ambientcg.com/view?id=Metal034
+- https://ambientcg.com/view?id=Grass001
+- https://ambientcg.com/view?id=Rock035
+- https://ambientcg.com/view?id=Road007
+- https://ambientcg.com/view?id=Fabric048
+- https://ambientcg.com/view?id=Tiles032
+- https://ambientcg.com/view?id=Tiles124
+- https://ambientcg.com/view?id=WoodSiding009
+- https://ambientcg.com/view?id=Porcelain003
+- https://ambientcg.com/view?id=Rope001
+- https://ambientcg.com/view?id=PavingStones075
+- https://ambientcg.com/view?id=Facade018A
+- https://ambientcg.com/view?id=Fabric049
+- https://ambientcg.com/view?id=Facade018C
+- https://ambientcg.com/view?id=Facade018B
+- https://www.twitch.tv/craze
+- https://github.com/v-sekai/renik
+- https://leonardoambrosini.gumroad.com/l/xlpkw
+- https://discord.com/channels/471446618156040210/978091731805417492/1233924686203850856
+- https://discord.com/channels/471446618156040210/471734527312789505/1254468911739572264
+- https://learn.microsoft.com/id-id/windows/win32/api/winioctl/ni-winioctl-fsctl_set_compression?redirectedfrom=MSDN
+- https://ss64.com/nt/compact.html
+- https://superuser.com/questions/1719973/what-exactly-does-ntfs-compression-do-to-files
+- https://winaero.com/ntfs-lzx-compress-algorithm-windows-10/
+- https://serverfault.com/questions/977673/how-to-enable-ntfs-folder-compression-on-windows-server-core
+- https://learn.microsoft.com/id-id/archive/blogs/ntdebugging/understanding-ntfs-compression
+- https://fonts.google.com/specimen/Rowdies Furality Sylva font
+- https://assetstore.unity.com/packages/tools/animation/pose-editor-146667 We have installed Sator Imaging Pose Editor
+- https://assetstore.unity.com/packages/tools/animation/umotion-community-animation-editor-95986 also this too from Soxware
+- https://www.youtube.com/watch?v=bZW2IEmwOEg
+- https://github.com/s-m-k/Unity-Animation-Hierarchy-Editor
+- https://www.youtube.com/watch?v=hfBdtkC-nLg
+- https://www.patreon.com/posts/60094720 **PAID**
+- https://skfb.ly/oSuZS plague doctor mask sui
+- https://docs.unity3d.com/Manual/shader-built-in.html
