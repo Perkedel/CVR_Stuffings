@@ -8892,3 +8892,5 @@ https://youtu.be/qzhuWRQWK5I?si=PygoI274O32LWD5a
 - https://www.patreon.com/posts/60094720 **PAID**
 - https://skfb.ly/oSuZS plague doctor mask sui
 - https://docs.unity3d.com/Manual/shader-built-in.html
+- https://docs.unity3d.com/Manual/shader-error.html
+- https://dkrevel.com/failed-to-open-source-file/

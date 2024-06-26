@@ -23,14 +23,11 @@
 
             struct v2f { 
                 V2F_SHADOW_CASTER;
-                UNITY_VERTEX_OUTPUT_STEREO
             };
 
             v2f vert(appdata_base v)
             {
                 v2f o;
-                UNITY_SETUP_INSTANCE_ID(v);
-                UNITY_INITIALIZE_VERTEX_OUTPUT_STEREO(o);
                 TRANSFER_SHADOW_CASTER_NORMALOFFSET(o)
                 return o;
             }
@@ -55,8 +52,8 @@
 
         #pragma target 5.0
 		
-		#include "/Assets/AudioLink/Shaders/AudioLink.cginc"
-		#include "/Assets/AudioLink/Shaders/SmoothPixelFont.cginc"
+		#include "Packages/com.llealloo.audiolink/Runtime/Shaders/AudioLink.cginc"
+		#include "Packages/com.llealloo.audiolink/Runtime/Shaders/SmoothPixelFont.cginc"
 
         sampler2D _MainTex;
 

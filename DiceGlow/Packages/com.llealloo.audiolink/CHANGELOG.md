@@ -1,5 +1,76 @@
 # Changelog
 
+## 1.4.0 - May 10th, 2024
+### New features
+- Added support for exposing a global video texture (_Udon_VideoTex) via the ytdlpPlayer avatar testing prefab. This functionality intended for testing avatar shaders that use a global video texture. The global video texture is **not** something provided by AudioLink outside of in-editor testing - this must be done by a video player. (techanon)
+
+### Changes
+- We've changed the default song in the example scene, and the avatar testing prefab, to ["Shibuya"](https://www.youtube.com/watch?v=vGXyAKy-X6s) by [Rollthered](https://linktr.ee/Rollthered). We remain forever thankful to [Lamp](https://twitter.com/LampDX) for letting us previously use their unreleased track, "Sludge Bath".
+- Reduced the sizes of various icon textures used by AudioLink. (Teeh)
+- Changed the controller to use MSDF-based textures for the icons. (Vistanz)
+- Improved the logic that searches for a yt-dlp excecutable in ytdlpPlayer avatar testing prefab. It should more consistently find the executable accross platforms now. Additionally, the ability to override which executable is used has been added under `Tools > AudioLink > Select Custom YTDL Location`. (techanon)
+- The "Upgrade AudioLink compatible shaders" popup will no longer display on first import, as shader authors have had plenty of time to upgrade their shaders at this point. It can still be run manually via the `Tools > AudioLink > Update AudioLink Compatible Shaders` menu item. (pema)
+
+### Bugfixes
+- Fixed an issue where the AudioLink texture was flipped when using OpenGL. (fundale)
+- Fixed an issue where the ytdlpPlayer avatar testing prefab was selecting an incompatible format at certain resolution settings, resulting in the video failing to play. (pema)
+- Fixed an issue where the ytdlpPlayer avatar testing prefab restarted the video about ~3 seconds in. (techanon)
+- Fixed an issue where the AudioLink controller was z-fighting on mobile platforms. (pema)
+- Fixed issue #299, where modifying the settings on the AudioLink prefab wouldn't properly apply to the control. (pema)
+
+## 1.3.0 - February 18th, 2024
+### Changes
+- Deprecated various static properties in AudioLink.DataAPI in favor of static functions to work around a miscompilation bug in UdonSharp.
+- Deprecated the underused "AudioLink extra packages", which contains a single "AudioLinkZone" script. The script is now in the main package.
+
+### Bugfixes
+- Fixed an issue where an exception would be thrown when leaving a world with AudioLink enabled. (@ShingenPizza)
+- Fixed a bug where theme colors would reset when someone joins the instance. (Teeh, orels1, pema)
+
+## 1.2.1 - December 9th, 2023
+### Changes
+- Enabled Async GPU readbacks on mobile platforms, including Quest. This let's you access data via Udon much more cheaply. To facilitate this, AudioLink now requires Unity 2022.3 or newer. (pema)
+- Moved the AudioLink menu in the top menu bar into the "Tools" submenu, to bring it in line with other similar packages. (techanon)
+- Updated the "Add AudioLink Prefab to Scene" button to check for the existence of a prefab before adding a new one. (techanon)
+- Made the controller call `AudioLink.AudioLinkEnable` and `AudioLink.AudioLinkDisable` instead of toggling the AudioLink GameObject. (Nestorboy)
+
+### Bugfixes
+- Fixed normals being incorrectly flipped on the logo of the AudioLink controller. (llealloo)
+- Fixed a bug where shader ID's used by AudioLink weren't properly initialized in some cases. (Nestorboy)
+- Updated the shader used for the AudioLink controller logo to support single pass stereo instanced rendering. (Nestorboy)
+- Fix an issue where shader ID's were initialized too late when AudioLink API was used too early in the script execution cycle. (pema)
+
+## 1.2.0 - October 9th, 2023
+### Changes
+- **Important for shader developers:** Deprecated AudioLinkGetVersion() and replaced it with AudioLinkGetVersionMajor() and AudioLinkGetVersionMinor(). For this current release, major will read 1.0f, and minor will read 2.0f. Unfortunately, the recent 1.0.0 and 1.1.0 versions will be detected as 0 on the major version due to an oversight. These should be the only versions in existence with an incorrect version number. For all other versions, these 2 functions are backwards compatible. Any shaders going forward should use these 2 functions, or read directly from green (major version) and alpha (minor version) of the pixel at `ALPASS_GENERALVU`.
+
+## 1.1.0 - October 8th, 2023
+### Changes
+- Made the logo on the new AudioLink controller audio reactive.
+- Changed the recently added [C# Data API](https://github.com/llealloo/vrc-udon-audio-link/blob/master/Packages/com.llealloo.audiolink/Runtime/Scripts/AudioLink.DataAPI.cs) to not use Vector2Int. This type does not work correctly in UdonSharp.
+
+## 1.0.0 - September 29th, 2023
+### New features
+- Added a new AudioLink Controller, with a completely revamped design. The old controller is still included, if you don't want to change. (Thanks to everyone who helped, including Pema, Lea, Teeh, Sacred, TechAnon and more)
+- Added automatic gain adjustment. It's enabled by default, but you can disable it on the AudioLink controller. (Thanks, cnlohr)
+- Added Async GPU Readback, you can toggle it on the AudioLink prefab. This means you can read data from AudioLink in Udon, without having to pay a heavy performance penalty! Note that this feature only works on PC. Quest (and other mobile platforms) will continue to use the old slow synchronous readbacks, which we advise against.
+- Added [a new C# API](https://github.com/llealloo/vrc-udon-audio-link/blob/master/Packages/com.llealloo.audiolink/Runtime/Scripts/AudioLink.DataAPI.cs) for reading audio data in Udon, to better accomodate the new Async Readbacks.
+- Added Media Playback States, which provide information about the currently playing track. ([See Docs](https://github.com/llealloo/vrc-udon-audio-link/tree/master/Docs)). (Thanks, fundale)
+- Added Media States Udon API [VideoPlayer API](https://github.com/llealloo/vrc-udon-audio-link/tree/master/Docs/PlayerAPI.md), to control the aforementioned Playback States.  (Thanks, fundale)
+- Added an AudioLink prefab for ChilloutVR.
+### Changes
+- We have switched to using [Semantic Versioning](https://semver.org/), marking this release as 1.0.0. This may break shaders written for very old versions of AudioLink. The version will now read as `1.00f` to AudioLink shaders.
+- The "VRCAudioLink" namespace has been renamed to "AudioLink". This is a breaking change. We've added a new scripting define, `AUDIOLINK_V1`, which will be present for future versions of AudioLink, to aid with backwards compatability.
+- Removed the dependency on the VPM package resolver.
+### Improvements
+- Made yt-dlp integration resolve URLs asynchronously.
+- Improved the yt-dlp integration UI in a number of ways. (Thanks, rRazgriz)
+- Improved the "Add Audiolink Prefab to Scene" button.
+- Improved logging, with less meaningless warning spam.
+- Cache the local player in AudioLink scripts for slightly improved performance. (Thanks, Nessie)
+- Fixed null reference exceptions being fired when a player leaves the world. (Thanks, Nessie)
+- Fixed an issue where theme colors would reset to the defaults on world start (https://github.com/llealloo/vrc-udon-audio-link/issues/281).
+
 ## 0.3.2 - March 12th, 2023
 ### New features
 - Added integration with ytdlp for easy testing of AudioLink shaders in avatar projects. The AudioLinkAvatar prefab now has an UI that lets you paste in a YouTube link, the audio of which will be used to drive AudioLink. (Thanks, rRazgriz)
