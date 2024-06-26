@@ -1,17 +1,12 @@
-#define AUDIOLINK_STANDALONE
-﻿using System.IO;
+﻿using System.Collections.Generic;
+using System.IO;
+using System.Linq;
 using UnityEditor;
+using UnityEditor.Experimental.SceneManagement;
 using UnityEditor.SceneManagement;
 using UnityEngine;
 
-// This define is inserted into the file in CI.
-// We can't rely on regular scripting defines so early in the import process.
-#if !AUDIOLINK_STANDALONE
-using VRC.PackageManagement.Core.Types;
-using VRC.PackageManagement.Core.Types.Packages;
-#endif
-
-namespace VRCAudioLink.Editor
+namespace AudioLink.Editor
 {
     [InitializeOnLoad]
     public class AudioLinkAssetManager
@@ -31,25 +26,8 @@ namespace VRCAudioLink.Editor
                 }
                 else
                 {
-                    #if !AUDIOLINK_STANDALONE
-                    if (IsWorldProjectWithoutUdonSharp())
-                    {
-                        if (EditorUtility.DisplayDialog(
-                            "Install missing UdonSharp dependency",
-                            "It looks like you are trying to use AudioLink in a world project, but don't have UdonSharp 1.x installed.\n" +
-                            "AudioLink will not function correctly without UdonSharp 1.x. Would you like to install it now?",
-                            "Yes", "No"))
-                        {
-                            InstallUdonSharp();
-                        }
-                    }
-                    else
-                    #endif
-                    {
-                        ReimportPackage();
-                    }
+                    ReimportPackage();
                     File.WriteAllText(canaryFilePath, audioLinkReimportedKey);
-                    AudioLinkShaderCompatabilityUtility.UpgradeShaders();
                 }
             }
         }
@@ -60,13 +38,13 @@ namespace VRCAudioLink.Editor
             SessionState.SetBool(audioLinkReimportedKey, true);
         }
 
-        #if !AUDIOLINK_STANDALONE
-        [MenuItem("AudioLink/Open AudioLink Example Scene")]
+#if !AUDIOLINK_STANDALONE
+        [MenuItem("Tools/AudioLink/Open AudioLink Example Scene")]
         public static void OpenExampleScene()
         {
             if (EditorSceneManager.SaveCurrentModifiedScenesIfUserWantsTo())
             {
-                string baseAssetsPath = "Samples/AudioLink/0.3.2";
+                string baseAssetsPath = "Samples/AudioLink/1.4.0";
                 string packagePath = "Packages/com.llealloo.audiolink/Samples~/AudioLinkExampleScene";
                 string assetsPath = Path.Combine("Assets", baseAssetsPath, "AudioLinkExampleScene");
                 if (!Directory.Exists(Path.Combine(Application.dataPath, baseAssetsPath, "AudioLinkExampleScene")))
@@ -75,55 +53,80 @@ namespace VRCAudioLink.Editor
                     FileUtil.CopyFileOrDirectory(packagePath, assetsPath);
                     AssetDatabase.Refresh();
                 }
+
                 EditorSceneManager.OpenScene(Path.Combine(assetsPath, "AudioLink_ExampleScene.unity"));
             }
         }
+#endif
 
-        [MenuItem("AudioLink/Install UdonSharp dependency", true)]
-        public static bool IsWorldProjectWithoutUdonSharp()
-        {
-            var path = new DirectoryInfo(Application.dataPath).Parent?.FullName;
-            var project = new UnityProject(path);
-            return project.VPMProvider.HasPackage(VRCPackageNames.WORLDS) && !project.VPMProvider.HasPackage(VRCAddonPackageNames.UDONSHARP);
-        }
+        private const string _audioLinkPath = "Packages/com.llealloo.audiolink/Runtime/AudioLink.prefab";
+        private const string _audioLinkControllerPath = "Packages/com.llealloo.audiolink/Runtime/AudioLinkController.prefab";
+        private const string _audioLinkAvatarPath = "Packages/com.llealloo.audiolink/Runtime/AudioLinkAvatar.prefab";
+        private const string _audioLinkCVRPath = "Packages/com.llealloo.audiolink/Runtime/CVRAudioLink.prefab";
+        private const string _audioLinkCVRControllerPath = "Packages/com.llealloo.audiolink/Runtime/CVRAudioLinkController.prefab";
 
-        [MenuItem("AudioLink/Install UdonSharp dependency")]
-        public static void InstallUdonSharp()
-        {
-            var path = new DirectoryInfo(Application.dataPath).Parent?.FullName;
-            var project = new UnityProject(path);
-            project.AddVPMPackage(VRCAddonPackageNames.UDONSHARP, "1.x");
-            ReimportPackage();
-        }
-        #endif
-
-        [MenuItem("AudioLink/Add AudioLink Prefab to Scene", false)]
+        [MenuItem("Tools/AudioLink/Add AudioLink Prefab to Scene", false)]
         [MenuItem("GameObject/AudioLink/Add AudioLink Prefab to Scene", false, 49)]
         public static void AddAudioLinkToScene()
         {
-            #if VRC_SDK_VRCSDK3 && !UDONSHARP //VRC AVATAR
-            string[] paths = new string[]
+            GameObject audiolink = null;
+
+#if UDONSHARP // VRC World        
+            var alInstance = GetComponentsInScene<AudioLink>().FirstOrDefault();
+            audiolink = alInstance != null ? alInstance.gameObject : AddPrefabInstance(_audioLinkPath);
+
+            var alcInstance = GetComponentsInScene<AudioLinkController>().FirstOrDefault();
+            if (alcInstance == null) AddPrefabInstance(_audioLinkControllerPath);
+#elif VRC_SDK_VRCSDK3 // VRC AVATAR
+            var alInstance = GetComponentsInScene<AudioLink>().FirstOrDefault();
+            audiolink = alInstance != null ? alInstance.gameObject : AddPrefabInstance(_audioLinkAvatarPath);
+#elif CVR_CCK_EXISTS // CVR
+            audiolink = GetGameObjectsInScene("CVRAudioLink").FirstOrDefault();
+            if (audiolink == null) audiolink = AddPrefabInstance(_audioLinkCVRPath);
+
+            var controller = GetGameObjectsInScene("CVRAudioLinkController").FirstOrDefault();
+            if (controller == null) AddPrefabInstance(_audioLinkCVRControllerPath);
+#else // Standalone
+            var alInstance = GetComponentsInScene<AudioLink>().FirstOrDefault();
+            audiolink = alInstance != null ? alInstance.gameObject : AddPrefabInstance(_audioLinkPath);
+#endif
+
+            if (audiolink != null)
             {
-                "Packages/com.llealloo.audiolink/Runtime/AudioLinkAvatar.prefab"
-            };
-            #else  //VRC WORLD or STANDALONE
-            string[] paths = new string[]
-            {
-                #if UDONSHARP
-                "Packages/com.llealloo.audiolink/Runtime/AudioLinkController.prefab",
-                #endif
-                "Packages/com.llealloo.audiolink/Runtime/AudioLink.prefab"
-            };
-            #endif
-            foreach (string path in paths)
-            {
-                GameObject asset = AssetDatabase.LoadAssetAtPath<GameObject>(path);
-                if (asset != null)
-                {
-                    GameObject instance = (GameObject)PrefabUtility.InstantiatePrefab(asset);
-                    EditorGUIUtility.PingObject(instance);
-                }
+                AudioLinkEditor.LinkAll(audiolink.GetComponent<AudioLink>());
+                EditorGUIUtility.PingObject(audiolink);
             }
+        }
+
+        private static GameObject AddPrefabInstance(string assetPath)
+        {
+            var sourceAsset = AssetDatabase.LoadAssetAtPath<GameObject>(assetPath);
+            GameObject instance = null;
+            if (sourceAsset != null)
+            {
+                instance = (GameObject)PrefabUtility.InstantiatePrefab(sourceAsset);
+                Undo.RegisterCreatedObjectUndo(instance, "Undo create prefab instance");
+            }
+
+            return instance;
+        }
+
+        private static T[] GetComponentsInScene<T>(bool includeInactive = true) where T : Component
+        {
+            var stage = PrefabStageUtility.GetCurrentPrefabStage();
+            GameObject[] roots = stage == null ? UnityEngine.SceneManagement.SceneManager.GetActiveScene().GetRootGameObjects() : new[] { stage.prefabContentsRoot };
+            List<T> objects = new List<T>();
+            foreach (GameObject root in roots) objects.AddRange(root.GetComponentsInChildren<T>(includeInactive));
+            return objects.ToArray();
+        }
+
+        private static GameObject[] GetGameObjectsInScene(string name, bool includeInactive = true)
+        {
+            var stage = PrefabStageUtility.GetCurrentPrefabStage();
+            GameObject[] roots = stage == null ? UnityEngine.SceneManagement.SceneManager.GetActiveScene().GetRootGameObjects() : new[] { stage.prefabContentsRoot };
+            List<Transform> objects = new List<Transform>();
+            foreach (GameObject root in roots) objects.AddRange(root.GetComponentsInChildren<Transform>(includeInactive));
+            return objects.Where(t => t.gameObject.name == name).Select(t => t.gameObject).ToArray();
         }
     }
 }

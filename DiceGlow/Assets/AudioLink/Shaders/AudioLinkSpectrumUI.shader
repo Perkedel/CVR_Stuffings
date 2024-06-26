@@ -57,9 +57,9 @@ Shader "AudioLink/Internal/AudioLinkSpectrumUI"
 
             struct v2f
             {
+                float4 vertex : SV_POSITION;
                 float2 uv : TEXCOORD0;
                 UNITY_FOG_COORDS(1)
-                float4 vertex : SV_POSITION;
                 UNITY_VERTEX_OUTPUT_STEREO
             };
 
@@ -90,11 +90,14 @@ Shader "AudioLink/Internal/AudioLinkSpectrumUI"
             float _BandDelayPulse;
             float _BandDelayPulseOpacity;
 
-            v2f vert(appdata v)
+            v2f vert (appdata v)
             {
                 v2f o;
+
                 UNITY_SETUP_INSTANCE_ID(v);
+                UNITY_INITIALIZE_OUTPUT(v2f, o);
                 UNITY_INITIALIZE_VERTEX_OUTPUT_STEREO(o);
+                
                 o.vertex = UnityObjectToClipPos(v.vertex);
                 o.uv = v.uv;
                 UNITY_TRANSFER_FOG(o,o.vertex);
@@ -186,12 +189,7 @@ Shader "AudioLink/Internal/AudioLinkSpectrumUI"
                 } else {
                     c = 1. - 2. * (1. - a) * (1. - b);
                 }
-
-                // Draw the raw samples.
-                float sample = AudioLinkLerpMultiline(ALPASS_WAVEFORM + float2(200. * iuv.x, 0)).r;
-                float close_to_waveform = clamp(1 - 50 * abs(sample - iuv.y* 2. + 1), 0, 1);
-                c = lerp(c, .5, close_to_waveform);
-
+                
                 float4 finalColor = (segment + threshold) * _SeparatorColor + c;
                 UNITY_APPLY_FOG(IN.fogCoord, finalColor);
                 return finalColor;

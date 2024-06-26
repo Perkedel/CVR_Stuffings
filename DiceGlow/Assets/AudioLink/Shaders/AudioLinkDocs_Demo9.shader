@@ -22,7 +22,7 @@ Shader "AudioLink/Examples/Demo9"
 
             #include "UnityCG.cginc"
 
-            #include "/Assets/AudioLink/Shaders/AudioLink.cginc"
+            #include "Packages/com.llealloo.audiolink/Runtime/Shaders/AudioLink.cginc"
 
 
             uniform uint _AudioLinkBand;
@@ -41,12 +41,15 @@ Shader "AudioLink/Examples/Demo9"
                 UNITY_VERTEX_OUTPUT_STEREO
             };
 
+
             v2f vert (appdata v)
             {
-                // This is just the template vertex shader.
                 v2f o;
+
                 UNITY_SETUP_INSTANCE_ID(v);
+                UNITY_INITIALIZE_OUTPUT(v2f, o);
                 UNITY_INITIALIZE_VERTEX_OUTPUT_STEREO(o);
+                
                 o.vertex = UnityObjectToClipPos(v.vertex);
                 o.uv = v.uv;
                 return o;

@@ -3,13 +3,13 @@ using System.IO;
 using UnityEditor;
 using UnityEngine;
 
-namespace VRCAudioLink.Editor
+namespace AudioLink.Editor
 {
     public class AudioLinkShaderCompatabilityUtility
     {
         private const string OldAbsolutePath = "Assets/AudioLink/Shaders/AudioLink.cginc";
         private const string NewAbsolutePath = "Packages/com.llealloo.audiolink/Runtime/Shaders/AudioLink.cginc";
-        private const string MenuItemPath = "AudioLink/Update AudioLink compatible shaders";
+        private const string MenuItemPath = "Tools/AudioLink/Update AudioLink Compatible Shaders";
 
         private const string DialogText =
             "Do you want to check all shaders in this project for AudioLink 0.3.x compatibility and update them if necessary? This is useful for upgrading projects using AudioLink 0.2.x or below."

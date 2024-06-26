@@ -15,7 +15,7 @@
 
             #include "UnityCG.cginc"
 
-            #include "/Assets/AudioLink/Shaders/AudioLink.cginc"
+            #include "Packages/com.llealloo.audiolink/Runtime/Shaders/AudioLink.cginc"
 
             struct appdata
             {
@@ -36,8 +36,11 @@
             v2f vert (appdata v)
             {
                 v2f o;
+
                 UNITY_SETUP_INSTANCE_ID(v);
+                UNITY_INITIALIZE_OUTPUT(v2f, o);
                 UNITY_INITIALIZE_VERTEX_OUTPUT_STEREO(o);
+                
                 float3 vp = v.vertex;
 
                 o.vpOrig = vp;
