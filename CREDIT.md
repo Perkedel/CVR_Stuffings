@@ -8900,4 +8900,4 @@ https://youtu.be/qzhuWRQWK5I?si=PygoI274O32LWD5a
 - https://forum.unity.com/threads/built-in-shaders-package.1409421/
 - https://unity.com/releases/editor/whats-new/2022.3.22#installs
 - check dippy tv
-- 
+- https://stackoverflow.com/questions/43762338/how-to-remove-file-from-git-history
