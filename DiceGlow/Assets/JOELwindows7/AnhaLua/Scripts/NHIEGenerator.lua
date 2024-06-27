@@ -190,7 +190,11 @@ function RefreshDisplay()
     if animCompo then
         isDelaying = animCompo.GetBool('IsDelaying')
         selectNum = animCompo.GetInteger('SelectQuote')
-        selectNhie = nhieList[selectNum]
+        if selectNum > 0 then
+            selectNhie = nhieList[selectNum]
+        else
+            selectNhie = initText
+        end
     end
     -- WHYN'T GET VALUE WORK??!??!
     -- `cannot access field GetValue of userdata<ABI.Scripting.CVRSTL.Common.CVR.CCK._LUAINSTANCE_ScriptedCVRSpawnable>`

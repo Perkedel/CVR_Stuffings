@@ -2,7 +2,7 @@
     Dare Drink Game NSFW generator
 
     Generate Dare actions for such game! with cum!
-    Drink is SDEXM tea. This tea cause horniness & enough dosage cause you instant cum. Who cums last wins.
+    Drink is SDEXM tea. This tea originated from Vatastora contains natural chemical that causes horniness & enough dosage grants you instant cum. Who cums last wins.
     Typically, Homo sapiens cums by about 2 tea cups.
     Use small shot cup instead!
     If the prompt caused you to cum, then you still lose
@@ -11,6 +11,10 @@
 
     Sauce:
     - https://discord.com/channels/410126604237406209/1240763673346183279/1245066584066752625 thancc Shin for get spawnable value instead
+    - https://furality.org NEW UMBRA SHADER! with Glint Latex look!
+    
+    Inspiration Sauce:
+    - Kat Senpai (OK). `Drinking Tabletop Games (WIP)` world, there is the card game about that! `Let's get legless` & `Kinkies get legless` pack
 
     Sync Value Index:
     0. Select Quote
@@ -21,7 +25,7 @@
     Code: GNU GPL v3
     Assets: CC4.0-BY-SA
 ]]--
-print('HALO NHIE')
+print('HALO MANIS')
 if IsValid() then
     print("VALID WRAPPER")
 else
@@ -51,15 +55,33 @@ local sdexmDareList = {
     {'Feel your heartbeat in your chest for at least 5 seconds',1},
     {'stimulate both of your nipples for 10 seconds',1},
     {'dance in the pole! if you don\'t see any cylinder erecting around, pretend the pole is there!',1},
-    {'Ponder at your own genitalia for 30 seconds. Uncover your pants!',2},
-    {'Guess other player genitalia size (either length or diameter). \nWrong answer drinks 1 cup.',2},
+    {'Twerk butt 30 seconds. If the pair has Dynamic Bone OR Magica Cloth 1 / 2, that player gives 5 cups',1},
+    {'Shake chest 30 seconds. If the pair has Dynamic Bone OR Magica Cloth 1 / 2, that player gives 5 cups',1},
+    {'Swing / shake genitalia 30 seconds. If it has Dynamic Bone OR Magica Cloth 1 / 2, that player gives 5 cups. And if it has Raliv DPS, give another 5 cups',1},
+    {'(Temperature Vest) Attach moderate cold (MINIMUM ALLOWED -1 C, MAXIMUM ONCE THIS GAME, GET AGAIN TAKES 0 CUP) H2O ice cube to your nipples, keep until melts',1},
+    {'(Temperature Vest) Attach moderate cold (MINIMUM ALLOWED -1 C, MAXIMUM ONCE THIS GAME, GET AGAIN TAKES 0 CUP) H2O ice cube to your genitalia, keep until melts',1},
+    {'Enable Ugandan Knuckle behaviour until the turn goes back to you again. Stopping behaviour prematurely terminates this challenge and take 2 cups',1},
+    {'(Ragdoll) Ragdoll until the turn goes back to you. \nIf you cum by any mean (& lost), give 25 cups. Stopping ragdolling prematurely terminates this challenge and take 2 cups',1},
+    {'(CVRFT / VRCFT) Lick the cut sliced lemon RAW OR pretend you did so. If your avatar has such face tracking system AND your VR setup contains face tracking (hence your funny expression got broadcasted), give 5 cups',1},
+    {'Do sexy pose, & photo yourself posing that. Send the photo to at least quarter amount of players here by DM, Airdrop, Quick Share, Legacy Pager Reborn, etc. \n<b>AND</b>\n to at least 3 Communities, at NSFW Media channel (NEVER  SEND TO SFW ONLY COMMUNITIES!).',1},
+    {'ZONK! You were hit by ZONK! take 1 cup.',1},
+    {'ZNOK! Zonk fortunately has miscalculated & hit someone else instead. Choose one player to be given 1 cup',1},
+    {'Abused Critical Thinking! Describe your recent days & activities with just 1 word.',1},
+    {'Rate all chests (including yours) from aspects: Jiggliness, Volume (Maximum it has or set AAS slider of it to Max), Firmness, Elasticity. \nIf the chest contains Unity Particle System about it, that player gives 5 cups',2},
+    {'Rate all butt cheeks (including yours) from aspects: Jiggliness, Volume (Maximum it has or set AAS slider of it to Max), Firmness, Elasticity. \nNO CUP GIVING DUE TO UNITY PARTICLE SYSTEMM!!! EW!',2},
+    {'Rate all genitalia (including yours) from aspects: Plumpiness, Volume / Length (Maximum it has or set AAS slider of it to Max), Firmness, Sensitivity. \nIf the genitalia contains Unity Particle System about it (NOT THE YELLOW ONE, THE WHITE ONES YESS!!), that player gives 5 cups',2},
+    {'Rate other player props. Other players pick just <b>ONE</b> prop to be spawned here (either own or someone else). Use overall subjective scoring worst favourite to best favourite. Players who did not uploaded any prop at all take 0 cup, but still be scored with whatever they spawned.',2},
+    {'Rate other player overall avatar. Other players keep or change avatar (either own or someone else). Use overall subjective scoring worst favourite to best favourite. Players who did not uploaded their own avatar at all take 0 cup, but still be scored with whatever they wear.',2},
+    {'Rate other player voice audio. Other players open mic OR type any TTS prompt to be scored. Use overall subjective scoring worst favourite to best favourite. Players who did not have mic or IRL mute, NOR even type any TTS takes 0 cup',2},
+    {'Start friend request to all players here if you haven\'t been friend OR revoked recently. Accepting gives 0 cups to each player here. Rejecting the request OR this turn ends without accepting, that player takes 10 cups. Already friends, each player takes 0 cup',0},
+    {'Guess other player Avatar genitalia size (either length or diameter). \nWrong answer drinks 1 cup.',2},
     {'Guess other player chest size (pecs included). \nWrong answer drinks 1 cup.',2},
     {'Listen to other player heartbeat (act like you\'re earstething or stethoscope their chest) for 12 seconds. \n5 ATTEMPT ONLY! Asked player refused drinks how many cups below. Ultimate fail (all 5 refused), drinks 0 cup.\nBONUS: Target Player avatar that contains heartbeat sound gives 10 cups from that target. Each players whose their heartbeat sound rate linked to their IRL heart rate gives additional 20 cups.',2},
     {'Attempt bend yourself so you can lick your own genitalia. Attempt in 60 seconds. \ntimeout failure drinks 0 cup.',3},
     {'Act the regular genitalia to genitalia sex. \n5 ATTEMPT ONLY! Asked player refused drinks how many cups below. Ultimate fail (all 5 refused), drinks 0 cup.\nNOT IN REAL LIFE! YOUR AVATARS!! IN THE GAME.',3},
     {'Act the regular genitalia to oral sex (blow job). \n5 ATTEMPT ONLY! Asked player refused drinks how many cups below. Ultimate fail (all 5 refused), drinks 0 cup.\nNOT IN REAL LIFE! YOUR AVATARS!! IN THE GAME.',3},
-    {'Act the regular genitalia to back sex (anal). \n5 ATTEMPT ONLY! Asked player refused drinks how many cups below. Ultimate fail (all 5 refused), drinks 0 cup.\nNOT IN REAL LIFE! YOUR AVATARS!! IN THE GAME.',3},
-    {'Act the regular oral to back sex (anal lick). \n5 ATTEMPT ONLY! Asked player refused drinks how many cups below. Ultimate fail (all 5 refused), drinks 0 cup.\nNOT IN REAL LIFE! YOUR AVATARS!! IN THE GAME.',3},
+    {'Act the regular genitalia to back sex (anal). \n5 ATTEMPT ONLY! Asked player refused drinks how many cups below. Ultimate fail (all 5 refused), drinks 0 cup.\nNOT IN REAL LIFE! YOUR AVATARS!! IN THE GAME.',0},
+    {'Act the regular oral to back sex (anal lick). \n5 ATTEMPT ONLY! Asked player refused drinks how many cups below. Ultimate fail (all 5 refused), drinks 0 cup.\nNOT IN REAL LIFE! YOUR AVATARS!! IN THE GAME.',0},
     {'Act the regular oral to oral sex (kissing EXtended). \n5 ATTEMPT ONLY! Asked player refused drinks how many cups below. Ultimate fail (all 5 refused), drinks 0 cup.\nNOT IN REAL LIFE! YOUR AVATARS!! IN THE GAME.',3},
     {'Act the regular chest to chest sex (boob slide). \n5 ATTEMPT ONLY! Asked player refused drinks how many cups below. Ultimate fail (all 5 refused), drinks 0 cup.\nNOT IN REAL LIFE! YOUR AVATARS!! IN THE GAME.',3},
     {'Act the regular genitalia to chest sex (paizuri). \n5 ATTEMPT ONLY! Asked player refused drinks how many cups below. Ultimate fail (all 5 refused), drinks 0 cup.\nNOT IN REAL LIFE! YOUR AVATARS!! IN THE GAME.',3},
@@ -81,15 +103,16 @@ local sdexmDareList = {
     {'Assemble sexosome (minimum you and 5 others) and sex with that for 15 seconds',4},
     {'Assemble septosome (minimum you and 6 others) and sex with that for 15 seconds',4},
     {'Assemble octasome (minimum you and 7 others) and sex with that for 15 seconds',4},
-    {'Assemble octasome (minimum you and 7 others) and sex with that for 15 seconds',4},
     {'Assemble nonasome (minimum you and 8 others) and sex with that for 15 seconds',4},
     {'Assemble decasome (minimum you and 9 others) and sex with that for 15 seconds',4},
+    {'Assemble monokaidecasome (minimum you and 10 others) and sex with that for 15 seconds',4},
+    {'Assemble duokaidecasome (minimum you and 11 others) and sex with that for 15 seconds',4},
     {'Assemble trikaidecasome (minimum you and 12 others) and sex with that for 15 seconds',4},
     {'Assemble all players and sex with that for 15 seconds',4},
-    {'Assemble all players to worm (oral anal train chaining) atleast 3 players. Other offered players refused takes how many cups below. Ultimate fail (less than 3 players) drinks 0 cup. \nNOT IN REAL LIFE! YOUR AVATARS!! IN THE GAME.',5},
+    {'Assemble all players to worm (oral anal train chaining) atleast 3 players. Other offered players refused takes how many cups below. Ultimate fail (less than 3 players) drinks 0 cup. \nNOT IN REAL LIFE! YOUR AVATARS!! IN THE GAME.',0},
     {'Headpat 5 players. Each players avatar that reacts to the headpat gives 5 cups. Other offered players refused takes how many cups below. Ultimate fail (less than 5 players) drinks 0 cup.',5},
-    {'Ragdoll yourself and let others do something to you for maximum 60 seconds. If you cum by any mean (& lost), give 25 cups',5},
-    {'Ragdoll other player and let yourself & rest do something to them for maximum 60 seconds. If they cum by any mean (& lost), that player gives 25 cups',5},
+    {'(Ragdoll) Ragdoll yourself and let others do something to you for maximum 60 seconds. If you cum by any mean (& lost), give 25 cups',5},
+    {'(Ragdoll) Ragdoll other player and let yourself & rest do something to them for maximum 60 seconds. If they cum by any mean (& lost), that player gives 25 cups',5},
     {'(for VR) Do stretching arc bend outward OR (for desktop) Do crazy mouse CS:GO swinging. Do for 20 seconds',5},
     {'(for VR) Push up 20 times OR (for desktop) Rapid `X` & `C` repeatedly for 20 seconds accumulatively.',5},
     {'(for VR) Jumping Jack 20 times OR (for desktop) Hold Space for 20 seconds accumulatively.',5},
@@ -160,8 +183,13 @@ function RefreshDisplay()
     if animCompo then
         isDelaying = animCompo.GetBool('IsDelaying')
         selectNum = animCompo.GetInteger('SelectQuote')
-        selectSdexmPrompt = sdexmDareList[selectNum][1]
-        drinkCupCounter = sdexmDareList[selectNum][2]
+        if selectNum > 0 then
+            selectSdexmPrompt = sdexmDareList[selectNum][1]
+            drinkCupCounter = sdexmDareList[selectNum][2]
+        else
+            selectSdexmPrompt = initText
+            drinkCupCounter = 0
+        end
     end
     -- WHYN'T GET VALUE WORK??!??!
     -- `cannot access field GetValue of userdata<ABI.Scripting.CVRSTL.Common.CVR.CCK._LUAINSTANCE_ScriptedCVRSpawnable>`
@@ -185,7 +213,7 @@ function RefreshDisplay()
     end
     if textOutCompo then
         if selectNum > 0 then
-            textOutCompo.text = selectSdexmPrompt + '\n\n' + 'Or drink: ' + tostring(drinkCupCounter) + ' cups'
+            textOutCompo.text = selectSdexmPrompt .. '\n\n' .. 'Or take: ' .. tostring(drinkCupCounter) .. ' cups'
         else
             textOutCompo.text = initText
         end
@@ -197,7 +225,7 @@ function RefreshDisplay()
 
     if textNewCompo then
         if selectNum > 0 then
-            textNewCompo.text = selectSdexmPrompt + '\n\n' + 'Or drink: ' + tostring(drinkCupCounter) + ' cups'
+            textNewCompo.text = selectSdexmPrompt .. '\n\n' .. 'Or take: ' .. tostring(drinkCupCounter) .. ' cups'
         else
             textNewCompo.text = initText
         end
