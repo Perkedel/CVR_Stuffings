@@ -8901,3 +8901,4 @@ https://youtu.be/qzhuWRQWK5I?si=PygoI274O32LWD5a
 - https://unity.com/releases/editor/whats-new/2022.3.22#installs
 - check dippy tv
 - https://stackoverflow.com/questions/43762338/how-to-remove-file-from-git-history
+- https://forum.unity.com/threads/all-shaders-fails-to-open-source-file-custom-cginc.523184/#post-7461139
