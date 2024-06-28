@@ -54,6 +54,8 @@ Luma Glow is a special Emission control feature introduced since Furality Luma. 
 
 You can install the driver for CVR with this [prefab from Thorinair](https://github.com/Thorinair/LumaDriver-for-ChilloutVR).
 
+Once you have installed all the Luma related features, you can either test your Avatar & Props with your World with the prefab or go to Thorinair's `Luminescent Ledge` World. Out there, you can play some video provided and enable the `Luma` features to test your Luma in your Avatar & Props.
+
 ## Which Shader I have to use!?
 
 Latest: `Umbra`

@@ -8902,3 +8902,7 @@ https://youtu.be/qzhuWRQWK5I?si=PygoI274O32LWD5a
 - check dippy tv
 - https://stackoverflow.com/questions/43762338/how-to-remove-file-from-git-history
 - https://forum.unity.com/threads/all-shaders-fails-to-open-source-file-custom-cginc.523184/#post-7461139
+- https://github.com/NoachiCode/shader-knowledge/blob/main/attachments/RaymarchingExample.shader
+- https://discord.com/channels/410126604237406209/766086942005526579/1255085667176808488 yey thancc Noachi!
+- https://github.com/pema99/shader-knowledge also pema99 iyeah
+- https://github.com/cnlohr/shadertrixx#mrt
