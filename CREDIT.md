@@ -8911,3 +8911,47 @@ https://youtu.be/qzhuWRQWK5I?si=PygoI274O32LWD5a
 - muon booth prefab
 - installllsdkjfklasjdklf
 - remove bad shader from protogen! the Crystal!
+- https://youtu.be/7ZDwMzjVBi0?si=HhfrhII8W1rU0RL6
+- https://www.youtube.com/watch?v=XdnMvujzIJU
+- dreamboys sketchfab
+- https://www.youtube.com/watch?v=qtfXQLF16WQ&t=239s&pp=ygUPdW5pdHkgZW5saWdodGVu
+- https://docs.unity3d.com/Manual/realtime-gi-using-enlighten.html
+- https://tsunamoo.booth.pm/items/3466641
+- Blender. Put objects uneeded in a collection. disable that collection, and Unity will ignore those objects.
+- https://youtu.be/3aFYEyCoC4A
+- https://www.youtube.com/watch?v=XdnMvujzIJU
+- https://forum.unity.com/threads/how-to-check-polygon-count-in-a-unity-scene.817236/
+- https://discussions.unity.com/t/how-could-i-count-my-poly-tri/164226
+- https://forum.unity.com/threads/how-to-check-polygon-count-in-a-unity-scene.817236/
+- https://www.youtube.com/watch?v=qtfXQLF16WQ
+- https://www.siliconstudio.co.jp/middleware/enlighten/en/
+- Unity Realtime GI is Englighten.
+- Thancc MilchZocker
+- https://github.com/nicoversity/unity_polyextruder
+- https://www.youtube.com/watch?v=qtfXQLF16WQ&pp=ygUPdW5pdHkgZW5saWdodGVu
+- https://docs.unity3d.com/Packages/com.unity.probuilder@4.0/manual/Face_Extrude.html
+- https://forum.unity.com/threads/use-texture-to-extrude-verts.627961/
+- https://forum.unity.com/threads/texture-to-3d-weapon.118588/
+- https://forum.unity.com/threads/texture-to-3d-weapon.118588/
+- https://forum.unity.com/threads/trying-extrude-a-2d-polygon-to-create-a-mesh.102629/
+- https://github.com/nicoversity/unity_polyextruder
+- https://shaders.orels.sh/docs/vfx/holographic-parallax
+- https://youtu.be/3aFYEyCoC4A
+- https://www.youtube.com/watch?v=XdnMvujzIJU
+- https://forum.unity.com/threads/how-to-check-polygon-count-in-a-unity-scene.817236/
+- https://discussions.unity.com/t/how-could-i-count-my-poly-tri/164226
+- https://forum.unity.com/threads/how-to-check-polygon-count-in-a-unity-scene.817236/
+- https://www.youtube.com/watch?v=qtfXQLF16WQ
+- https://www.siliconstudio.co.jp/middleware/enlighten/en/
+- https://docs.unity3d.com/Manual/LightProbes.html
+- https://discord.com/channels/410126604237406209/588350770777161748/1254325519126630471
+- https://discord.com/channels/410126604237406209/797279576459968555/1252277599699210364
+- https://discord.com/channels/410126604237406209/588350726841827358/1256206544144568358
+- https://assetstore.unity.com/packages/tools/level-design/bakery-gpu-lightmapper-122218 **PAID** Oh God pls. We got to mmove away from Enlighten I guess?? Coz it did lag on me last time I left it Auto-Generate..
+- https://design.tutsplus.com/tutorials/repeating-patterns-made-easy-in-inkscape--cms-20284
+- https://wiki.inkscape.org/wiki/Tiling_tool
+- https://shaders.orels.sh/docs/vfx/holographic-parallax
+- https://www.reddit.com/r/editors/comments/16o7c87/the_vegas_sphere_deliverable_format/
+- https://x.com/LasVegasLocally/status/1694390498780430726
+- https://www.pufferfishdisplays.com/
+- https://dribbble.com/shots/23399224-Las-Vegas-Sphere-Mockup-FREE-DOWNLOAD
