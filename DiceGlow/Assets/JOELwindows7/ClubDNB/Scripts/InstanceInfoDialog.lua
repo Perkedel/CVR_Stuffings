@@ -32,20 +32,10 @@ local areWeOnline = "no"
 local lewdVerdict = "..."
 
 -- Functions
-
--- Start is called before the first frame update
-function Start()
+function RefreshDisplay()
     playerCounts = PlayerAPI.PlayerCount
     worldName = InstancesAPI.InstanceName
     privacyType = InstancesAPI.InstancePrivacy
-    if dialogTextOld then
-        -- local textOld = dialogTextOld.GetComponent(TM)
-        dialogTextOldCompo = dialogTextOld:GetComponent("UnityEngine.TextMesh")
-    end
-    if dialogText then
-        dialogTextCompo = dialogText:GetComponent("TMPro.TMP_Text")
-    end
-    
 
     if InstancesAPI.IsConnected then
         areWeOnline = "yes"
@@ -59,16 +49,6 @@ function Start()
         lewdVerdict = 'Private instance, NSFW allowed'
     else
         lewdVerdict = '...'
-    end
-end
-
--- Update is called once per frame
-function Update()
-    playerCounts = PlayerAPI.PlayerCount
-    if InstancesAPI.IsConnected then
-        areWeOnline = "yes"
-    else
-        areWeOnline = "no"
     end
 
     if InstancesAPI.IsHomeInstance then
@@ -87,4 +67,23 @@ function Update()
     if dialogTextCompo then
         dialogTextCompo.text = assembleParagraph
     end
+end
+
+-- Start is called before the first frame update
+function Start()
+    if dialogTextOld then
+        -- local textOld = dialogTextOld.GetComponent(TM)
+        dialogTextOldCompo = dialogTextOld:GetComponent("UnityEngine.TextMesh")
+    end
+    if dialogText then
+        dialogTextCompo = dialogText:GetComponent("TMPro.TMP_Text")
+    end
+    
+
+    -- RefreshDisplay()
+end
+
+-- Update is called once per frame
+function Update()
+    RefreshDisplay()
 end

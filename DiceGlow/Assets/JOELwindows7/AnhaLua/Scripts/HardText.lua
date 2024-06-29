@@ -17,11 +17,13 @@
 -- CVR = require("CVR")
 -- CCK = require("CVR.CCK")
 UnityEngine = require("UnityEngine")
--- TMP = require("TextMeshPro")
+TMP = require("TextMeshPro")
 -- TM = UnityEngine.TextMesh
 
 local aTextThing
 local textCompo
+local aTMPThing
+local tmpCompo
 local installSay = ''
 local title = 'Halo Lua from JOELwindows7'
 local sayWelcomeHome = ''
@@ -31,9 +33,17 @@ local areWeOnline = 'No'
 function Start()
     -- Codeium incoming!
     aTextThing = BoundObjects.haText
-    textCompo = aTextThing.GetComponent("UnityEngine.TextMesh")
+    aTMPThing = BoundObjects.hiText
+    if aTextThing then
+        textCompo = aTextThing.GetComponent("UnityEngine.TextMesh")
+    end
+    if aTMPThing then
+        tmpCompo = aTMPThing.GetComponent("TMPro.TMP_Text")
+    end
 
-    textCompo.text = "hello world! askdjhflkjashdkljghajkrhgkjlhadsfjklhjkalsd"
+    if textCompo then
+        textCompo.text = "hello world! askdjhflkjashdkljghajkrhgkjlhadsfjklhjkalsd"
+    end
 
     if InstancesAPI.IsHomeInstance then
         sayWelcomeHome = "Welcome Home"
@@ -57,5 +67,11 @@ function Update()
     end
 
     installSay = title .. "\n" .. "World: " .. InstancesAPI.InstanceName .. "\n" .. "\n" .. "Privacy: ".. InstancesAPI.InstancePrivacy .. "\n" .. "Players: " .. PlayerAPI.PlayerCount .. "\n" .. "Conntected: " .. areWeOnline .. " (" .. InstancesAPI.Ping .. " ms)\n" .. sayWelcomeHome .. "\n"
-    textCompo.text = installSay
+
+    if textCompo then
+        textCompo.text = installSay
+    end
+    if tmpCompo then
+        tmpCompo.text = installSay
+    end
 end
