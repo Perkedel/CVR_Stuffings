@@ -8906,3 +8906,8 @@ https://youtu.be/qzhuWRQWK5I?si=PygoI274O32LWD5a
 - https://discord.com/channels/410126604237406209/766086942005526579/1255085667176808488 yey thancc Noachi!
 - https://github.com/pema99/shader-knowledge also pema99 iyeah
 - https://github.com/cnlohr/shadertrixx#mrt
+- https://discord.gg/vhcfQyAj5U NSFW The Hydrators. Found in LensError Social Spot
+- https://discord.com/channels/410126604237406209/795882566968279091/1256365868523458630
+- muon booth prefab
+- installllsdkjfklasjdklf
+- remove bad shader from protogen! the Crystal!
