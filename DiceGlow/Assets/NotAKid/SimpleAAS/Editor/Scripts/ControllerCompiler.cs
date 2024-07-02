@@ -76,8 +76,12 @@ namespace NAK.SimpleAAS
 
                 NAKSimpleAAS targetAvatar =
                     allAASComponents.FirstOrDefault(aas => aas.avatar.gameObject == uploadedObject);
-
-                if (targetAvatar != null) CompileControllers(targetAvatar);
+                
+                // if disabled, don't compile
+                if (targetAvatar == null || !targetAvatar.isActiveAndEnabled) 
+                    return;
+                
+                CompileControllers(targetAvatar);
             }
         }
     }

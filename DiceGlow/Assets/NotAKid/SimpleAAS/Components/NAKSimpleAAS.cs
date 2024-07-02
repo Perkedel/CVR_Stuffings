@@ -130,7 +130,6 @@ namespace NAK.SimpleAAS.Components
             if (!IsValidParameter(entry.machineName))
                 return;
 
-            // JOELwindows7: I must do another hacky ways here too for CCK 3.10. Idk if the stable (if it's released) kept be like that from now on.
             switch (entry.type)
             {
                 case CVRAdvancedSettingsEntry.SettingsType.Toggle:

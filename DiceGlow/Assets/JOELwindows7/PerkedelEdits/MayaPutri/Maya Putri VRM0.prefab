@@ -1,5 +1,36 @@
 %YAML 1.1
 %TAG !u! tag:unity3d.com,2011:
+--- !u!1 &3811266335479117850
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6133288808065200188}
+  m_Layer: 0
+  m_Name: Ssvon
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6133288808065200188
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3811266335479117850}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 3931608100450932488}
+  m_RootOrder: 2
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &6030751934523651727
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -883,6 +914,11 @@ MonoBehaviour:
   m_ReferenceObject: {fileID: 0}
   m_DistanceToObject: 20
   m_Multithread: 1
+--- !u!4 &3931608100450932488 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 7295383148834398599, guid: 12d66a580e8924b408f8d768672117f0, type: 3}
+  m_PrefabInstance: {fileID: 6030751934523651727}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &3977341606828748337 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 7242865657658775742, guid: 12d66a580e8924b408f8d768672117f0, type: 3}
@@ -1128,6 +1164,47 @@ GameObject:
   m_CorrespondingSourceObject: {fileID: 142995777734968181, guid: 12d66a580e8924b408f8d768672117f0, type: 3}
   m_PrefabInstance: {fileID: 6030751934523651727}
   m_PrefabAsset: {fileID: 0}
+--- !u!114 &1812721427826305578
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5930551351318558202}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 943b2a67b8ad4877b53caadebe4d8d00, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  referenceType: 1
+  entries:
+  - type: 20
+    targetType: 2
+    applicationType: 0
+    staticValue: 0
+    target: {fileID: 0}
+    parameterName: InVR
+  - type: 260
+    targetType: 2
+    applicationType: 0
+    staticValue: 0
+    target: {fileID: 0}
+    parameterName: InFBT
+  - type: 401
+    targetType: 2
+    applicationType: 0
+    staticValue: 0
+    target: {fileID: 0}
+    parameterName: Upright
+  - type: 30
+    targetType: 2
+    applicationType: 111
+    staticValue: 0
+    target: {fileID: 0}
+    parameterName: AFK
+  onlyUpdateWhenHeld: 0
+  onlyUpdateWhenAttached: 0
+  onlyUpdateWhenControlled: 0
 --- !u!114 &2758563732687585922
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1144,7 +1221,7 @@ MonoBehaviour:
   objectId: b8e26010-8b21-4e97-b38b-5ec9cc8d9502
   randomNum: 
   unityVersion: 2021.3.23f1
-  cckVersion: 3.8:104
+  cckVersion: 3.10:129
 --- !u!114 &9190362389859011716
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1160,18 +1237,21 @@ MonoBehaviour:
   viewPosition: {x: 0, y: 1.5300896, z: 0.07134482}
   voicePosition: {x: 0, y: 1.4680003, z: 0.07425315}
   voiceParent: 0
-  overrides: {fileID: 0}
+  overrides: {fileID: 22100000, guid: eebc740a95a0f854d96790866640db85, type: 2}
   bodyMesh: {fileID: 2864816718456218624}
+  eyeMovementInterval: {x: 5, y: 10}
   useEyeMovement: 1
-  eyeLookMode: 0
+  eyeMovementInfo:
+    type: 0
+    eyes: []
   useBlinkBlendshapes: 1
   blinkBlendshape:
   - 
   - 
   - 
   - 
-  blinkDuration: 0.4
-  blinkGapRange: {x: 0.4, y: 8}
+  blinkGap: {x: 3, y: 8}
+  blinkDuration: {x: 0.25, y: 0.35}
   useVisemeLipsync: 1
   visemeMode: 0
   visemeSmoothing: 50
@@ -1195,14 +1275,382 @@ MonoBehaviour:
   fprSettingsList: []
   enableAdvancedTagging: 0
   advancedTaggingList: []
-  avatarUsesAdvancedSettings: 0
+  avatarUsesAdvancedSettings: 1
   avatarSettings:
+    settings:
+    - isCollapsed: 0
+      unlinkNameFromMachineName: 0
+      isAutogenCollapsed: 1
+      type: 3
+      toggleSettings:
+        usedType: 3
+        currentEntryIndex: 0
+        defaultValue: 0
+        useAnimationClip: 0
+        animationClip: {fileID: 0}
+        offAnimationClip: {fileID: 0}
+        gameObjectTargets: []
+      materialColorSettings:
+        usedType: 3
+        currentEntryIndex: 0
+        defaultValue: {r: 1, g: 1, b: 1, a: 1}
+        materialColorTargets: []
+      dropDownSettings:
+        usedType: 3
+        currentEntryIndex: 0
+        defaultValue: 0
+        options: []
+      sliderSettings:
+        usedType: 1
+        currentEntryIndex: 0
+        defaultValue: 0.03
+        materialPropertyTargets: []
+        useAnimationClip: 1
+        minAnimationClip: {fileID: 7400000, guid: 88654f6d22baa6e438f2e16f6a485fef, type: 2}
+        maxAnimationClip: {fileID: 7400000, guid: ae49416ce658359489413a76e3068cb1, type: 2}
+      joystick2DSetting:
+        usedType: 3
+        currentEntryIndex: 0
+        defaultValue: {x: 0, y: 0}
+        rangeMin: {x: 0, y: 0}
+        rangeMax: {x: 1, y: 1}
+      joystick3DSetting:
+        usedType: 3
+        currentEntryIndex: 0
+        defaultValue: {x: 0, y: 0, z: 0}
+        rangeMin: {x: 0, y: 0, z: 0}
+        rangeMax: {x: 1, y: 1, z: 1}
+      inputSingleSettings:
+        usedType: 3
+        currentEntryIndex: 0
+        defaultValue: 0
+      inputVector2Settings:
+        usedType: 3
+        currentEntryIndex: 0
+        defaultValue: {x: 0, y: 0}
+      inputVector3Settings:
+        usedType: 3
+        currentEntryIndex: 0
+        defaultValue: {x: 0, y: 0, z: 0}
+      name: AvatarScale
+      machineName: AvatarScale
+    - isCollapsed: 0
+      unlinkNameFromMachineName: 0
+      isAutogenCollapsed: 1
+      type: 1
+      toggleSettings:
+        usedType: 1
+        currentEntryIndex: 0
+        defaultValue: 0
+        useAnimationClip: 0
+        animationClip: {fileID: 0}
+        offAnimationClip: {fileID: 0}
+        gameObjectTargets: []
+      materialColorSettings:
+        usedType: 0
+        currentEntryIndex: 0
+        defaultValue: {r: 0, g: 0, b: 0, a: 0}
+        materialColorTargets: []
+      dropDownSettings:
+        usedType: 2
+        currentEntryIndex: 0
+        defaultValue: 0
+        options:
+        - name: Off
+          isAutogenCollapsed: 0
+          useAnimationClip: 1
+          animationClip: {fileID: 0}
+          gameObjectTargets: []
+        - name: Zoidberg Lethal Company
+          isAutogenCollapsed: 0
+          useAnimationClip: 1
+          animationClip: {fileID: 7400000, guid: 373e3cb7bfc683945a743c69fd4a6ec3, type: 2}
+          gameObjectTargets: []
+      sliderSettings:
+        usedType: 0
+        currentEntryIndex: 0
+        defaultValue: 0
+        materialPropertyTargets: []
+        useAnimationClip: 0
+        minAnimationClip: {fileID: 0}
+        maxAnimationClip: {fileID: 0}
+      joystick2DSetting:
+        usedType: 0
+        currentEntryIndex: 0
+        defaultValue: {x: 0, y: 0}
+        rangeMin: {x: 0, y: 0}
+        rangeMax: {x: 0, y: 0}
+      joystick3DSetting:
+        usedType: 0
+        currentEntryIndex: 0
+        defaultValue: {x: 0, y: 0, z: 0}
+        rangeMin: {x: 0, y: 0, z: 0}
+        rangeMax: {x: 0, y: 0, z: 0}
+      inputSingleSettings:
+        usedType: 0
+        currentEntryIndex: 0
+        defaultValue: 0
+      inputVector2Settings:
+        usedType: 0
+        currentEntryIndex: 0
+        defaultValue: {x: 0, y: 0}
+      inputVector3Settings:
+        usedType: 0
+        currentEntryIndex: 0
+        defaultValue: {x: 0, y: 0, z: 0}
+      name: Permanent Pose
+      machineName: PermanentPose
+    - isCollapsed: 1
+      unlinkNameFromMachineName: 0
+      isAutogenCollapsed: 1
+      type: 1
+      toggleSettings:
+        usedType: 0
+        currentEntryIndex: 0
+        defaultValue: 0
+        useAnimationClip: 0
+        animationClip: {fileID: 0}
+        offAnimationClip: {fileID: 0}
+        gameObjectTargets: []
+      materialColorSettings:
+        usedType: 0
+        currentEntryIndex: 0
+        defaultValue: {r: 0, g: 0, b: 0, a: 0}
+        materialColorTargets: []
+      dropDownSettings:
+        usedType: 1
+        currentEntryIndex: 0
+        defaultValue: 0
+        options:
+        - name: Default
+          isAutogenCollapsed: 0
+          useAnimationClip: 1
+          animationClip: {fileID: 0}
+          gameObjectTargets: []
+        - name: Casual Lay
+          isAutogenCollapsed: 0
+          useAnimationClip: 1
+          animationClip: {fileID: 7400000, guid: 35e6232f44b9482429d8abac914bcd0e, type: 2}
+          gameObjectTargets: []
+        - name: Casual Sit
+          isAutogenCollapsed: 0
+          useAnimationClip: 1
+          animationClip: {fileID: 7400000, guid: 90ccdc5b76c2a934ba786a3eca891a65, type: 2}
+          gameObjectTargets: []
+        - name: Feminine Sit
+          isAutogenCollapsed: 0
+          useAnimationClip: 1
+          animationClip: {fileID: 7400000, guid: cd676da88ebe3e54185a221fc064c5a9, type: 2}
+          gameObjectTargets: []
+        - name: Grasspatch Sit
+          isAutogenCollapsed: 0
+          useAnimationClip: 1
+          animationClip: {fileID: 7400000, guid: 7a7cdbdf71f1de44f8c2abe2de44dbf8, type: 2}
+          gameObjectTargets: []
+        - name: Knee Sit
+          isAutogenCollapsed: 0
+          useAnimationClip: 1
+          animationClip: {fileID: 7400000, guid: 31eaab2b05741514ca257ca096136c8f, type: 2}
+          gameObjectTargets: []
+        - name: Leg Kick Laydown
+          isAutogenCollapsed: 0
+          useAnimationClip: 1
+          animationClip: {fileID: 7400000, guid: 5e9209cce890c6343b2acfe1a5be5bb7, type: 2}
+          gameObjectTargets: []
+        - name: MoonGazing
+          isAutogenCollapsed: 0
+          useAnimationClip: 1
+          animationClip: {fileID: 7400000, guid: 5416ce5e9a8e0a543a062ff46edab5ef, type: 2}
+          gameObjectTargets: []
+        - name: Normal Sit
+          isAutogenCollapsed: 0
+          useAnimationClip: 1
+          animationClip: {fileID: 7400000, guid: 9e54f6102306ccb468204180d8a95b3e, type: 2}
+          gameObjectTargets: []
+        - name: Relaxing
+          isAutogenCollapsed: 0
+          useAnimationClip: 1
+          animationClip: {fileID: 7400000, guid: fa244ce2ced860c48bef447ea3f79e84, type: 2}
+          gameObjectTargets: []
+        - name: Seductive Lay
+          isAutogenCollapsed: 0
+          useAnimationClip: 1
+          animationClip: {fileID: 7400000, guid: dcdeb5d03d1595742b4f2960f6300b0f, type: 2}
+          gameObjectTargets: []
+        - name: Slouch Sit
+          isAutogenCollapsed: 0
+          useAnimationClip: 1
+          animationClip: {fileID: 7400000, guid: eb9c06f5e16f8644185bb3469c1f1aa7, type: 2}
+          gameObjectTargets: []
+        - name: StarGazing
+          isAutogenCollapsed: 0
+          useAnimationClip: 1
+          animationClip: {fileID: 7400000, guid: f01e672716f33fb4e8cdb41dd7c46362, type: 2}
+          gameObjectTargets: []
+        - name: Sunset Sit
+          isAutogenCollapsed: 0
+          useAnimationClip: 1
+          animationClip: {fileID: 7400000, guid: 76b94b0666c5da34a8bd25b56dbf2a19, type: 2}
+          gameObjectTargets: []
+        - name: Waist Laydown
+          isAutogenCollapsed: 0
+          useAnimationClip: 1
+          animationClip: {fileID: 7400000, guid: cb822e6151204484097736869a8918d3, type: 2}
+          gameObjectTargets: []
+      sliderSettings:
+        usedType: 0
+        currentEntryIndex: 0
+        defaultValue: 0
+        materialPropertyTargets: []
+        useAnimationClip: 0
+        minAnimationClip: {fileID: 0}
+        maxAnimationClip: {fileID: 0}
+      joystick2DSetting:
+        usedType: 0
+        currentEntryIndex: 0
+        defaultValue: {x: 0, y: 0}
+        rangeMin: {x: 0, y: 0}
+        rangeMax: {x: 0, y: 0}
+      joystick3DSetting:
+        usedType: 0
+        currentEntryIndex: 0
+        defaultValue: {x: 0, y: 0, z: 0}
+        rangeMin: {x: 0, y: 0, z: 0}
+        rangeMax: {x: 0, y: 0, z: 0}
+      inputSingleSettings:
+        usedType: 0
+        currentEntryIndex: 0
+        defaultValue: 0
+      inputVector2Settings:
+        usedType: 0
+        currentEntryIndex: 0
+        defaultValue: {x: 0, y: 0}
+      inputVector3Settings:
+        usedType: 0
+        currentEntryIndex: 0
+        defaultValue: {x: 0, y: 0, z: 0}
+      name: BMP/Pose
+      machineName: BMP/Pose
+    - isCollapsed: 1
+      unlinkNameFromMachineName: 0
+      isAutogenCollapsed: 1
+      type: 0
+      toggleSettings:
+        usedType: 1
+        currentEntryIndex: 0
+        defaultValue: 0
+        useAnimationClip: 0
+        animationClip: {fileID: 0}
+        offAnimationClip: {fileID: 0}
+        gameObjectTargets: []
+      materialColorSettings:
+        usedType: 0
+        currentEntryIndex: 0
+        defaultValue: {r: 0, g: 0, b: 0, a: 0}
+        materialColorTargets: []
+      dropDownSettings:
+        usedType: 0
+        currentEntryIndex: 0
+        defaultValue: 0
+        options: []
+      sliderSettings:
+        usedType: 0
+        currentEntryIndex: 0
+        defaultValue: 0
+        materialPropertyTargets: []
+        useAnimationClip: 0
+        minAnimationClip: {fileID: 0}
+        maxAnimationClip: {fileID: 0}
+      joystick2DSetting:
+        usedType: 0
+        currentEntryIndex: 0
+        defaultValue: {x: 0, y: 0}
+        rangeMin: {x: 0, y: 0}
+        rangeMax: {x: 0, y: 0}
+      joystick3DSetting:
+        usedType: 0
+        currentEntryIndex: 0
+        defaultValue: {x: 0, y: 0, z: 0}
+        rangeMin: {x: 0, y: 0, z: 0}
+        rangeMax: {x: 0, y: 0, z: 0}
+      inputSingleSettings:
+        usedType: 0
+        currentEntryIndex: 0
+        defaultValue: 0
+      inputVector2Settings:
+        usedType: 0
+        currentEntryIndex: 0
+        defaultValue: {x: 0, y: 0}
+      inputVector3Settings:
+        usedType: 0
+        currentEntryIndex: 0
+        defaultValue: {x: 0, y: 0, z: 0}
+      name: BMP/Mirrored Pose
+      machineName: BMP/MirroredPose
+    - isCollapsed: 0
+      unlinkNameFromMachineName: 0
+      isAutogenCollapsed: 0
+      type: 3
+      toggleSettings:
+        usedType: 1
+        currentEntryIndex: 0
+        defaultValue: 0
+        useAnimationClip: 0
+        animationClip: {fileID: 0}
+        offAnimationClip: {fileID: 0}
+        gameObjectTargets: []
+      materialColorSettings:
+        usedType: 0
+        currentEntryIndex: 0
+        defaultValue: {r: 0, g: 0, b: 0, a: 0}
+        materialColorTargets: []
+      dropDownSettings:
+        usedType: 0
+        currentEntryIndex: 0
+        defaultValue: 0
+        options: []
+      sliderSettings:
+        usedType: 1
+        currentEntryIndex: 0
+        defaultValue: 0.9
+        materialPropertyTargets: []
+        useAnimationClip: 1
+        minAnimationClip: {fileID: 7400000, guid: 7c8148ef5026d7d47bf81bfbf0a7af6b, type: 2}
+        maxAnimationClip: {fileID: 7400000, guid: d6f4e999050e85f4fb03af3d5119334e, type: 2}
+      joystick2DSetting:
+        usedType: 0
+        currentEntryIndex: 0
+        defaultValue: {x: 0, y: 0}
+        rangeMin: {x: 0, y: 0}
+        rangeMax: {x: 0, y: 0}
+      joystick3DSetting:
+        usedType: 0
+        currentEntryIndex: 0
+        defaultValue: {x: 0, y: 0, z: 0}
+        rangeMin: {x: 0, y: 0, z: 0}
+        rangeMax: {x: 0, y: 0, z: 0}
+      inputSingleSettings:
+        usedType: 0
+        currentEntryIndex: 0
+        defaultValue: 0
+      inputVector2Settings:
+        usedType: 0
+        currentEntryIndex: 0
+        defaultValue: {x: 0, y: 0}
+      inputVector3Settings:
+        usedType: 0
+        currentEntryIndex: 0
+        defaultValue: {x: 0, y: 0, z: 0}
+      name: Shade Toony
+      machineName: ShadeToony
     initialized: 1
-    baseController: {fileID: 9100000, guid: ff926e022d914b84e8975ba6188a26f0, type: 2}
+    baseController: {fileID: 9100000, guid: 03625cf0d5bda584fa89fa5ddde1072e, type: 2}
     baseOverrideController: {fileID: 0}
-    animator: {fileID: 0}
-    overrides: {fileID: 0}
-    settings: []
+    animator: {fileID: 9100000, guid: 406a595f20f0fcf489d73d39f593e88f, type: 2}
+    overrides: {fileID: 22100000, guid: eebc740a95a0f854d96790866640db85, type: 2}
+  references:
+    version: 2
+    RefIds: []
 --- !u!1 &6011316988304510344 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 62474376215362311, guid: 12d66a580e8924b408f8d768672117f0, type: 3}

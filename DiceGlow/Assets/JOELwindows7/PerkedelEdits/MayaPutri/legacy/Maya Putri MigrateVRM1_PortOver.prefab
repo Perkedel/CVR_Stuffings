@@ -99,8 +99,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   type: 1
-  objectId: 
+  objectId: b8e26010-8b21-4e97-b38b-5ec9cc8d9502
   randomNum: 
+  unityVersion: 2021.3.23f1
+  cckVersion: 3.10:129
 --- !u!114 &507114701
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -118,31 +120,39 @@ MonoBehaviour:
   voiceParent: 0
   overrides: {fileID: 0}
   bodyMesh: {fileID: 6734570534042488136}
+  eyeMovementInterval: {x: 5, y: 10}
   useEyeMovement: 1
-  eyeLookMode: 0
+  eyeMovementInfo:
+    type: 0
+    eyes: []
   useBlinkBlendshapes: 0
   blinkBlendshape:
   - 
   - 
   - 
   - 
-  blinkDuration: 0.4
-  blinkGapRange: {x: 0.4, y: 8}
+  blinkGap: {x: 3, y: 8}
+  blinkDuration: {x: 0.25, y: 0.35}
   useVisemeLipsync: 1
   visemeMode: 2
   visemeSmoothing: 50
   visemeBlendshapes:
   - 
+  enableCustomFPR: 0
+  fprSettingsList: []
   enableAdvancedTagging: 0
   advancedTaggingList: []
   avatarUsesAdvancedSettings: 0
   avatarSettings:
+    settings: []
     initialized: 0
     baseController: {fileID: 0}
     baseOverrideController: {fileID: 0}
     animator: {fileID: 0}
     overrides: {fileID: 0}
-    settings: []
+  references:
+    version: 2
+    RefIds: []
 --- !u!137 &6734570534042488136 stripped
 SkinnedMeshRenderer:
   m_CorrespondingSourceObject: {fileID: -613343738824799770, guid: 5d1c26adb6e270943b4f3acafd83fbc2, type: 3}

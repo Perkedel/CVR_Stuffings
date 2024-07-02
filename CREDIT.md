@@ -8955,3 +8955,14 @@ https://youtu.be/qzhuWRQWK5I?si=PygoI274O32LWD5a
 - https://x.com/LasVegasLocally/status/1694390498780430726
 - https://www.pufferfishdisplays.com/
 - https://dribbble.com/shots/23399224-Las-Vegas-Sphere-Mockup-FREE-DOWNLOAD
+- https://github.com/dooly123/BasisServer
+- https://github.com/dooly123/Basis
+- https://github.com/AstroDogeDX/astro-blender-tools
+- https://imgur.com/cy6ath8 MOCHIESHADER UPDATED!!!!!!!!!!!!!!
+- https://github.com/MochiesCode/Mochies-Unity-Shaders/releases/tag/v1.50 ieyeye!
+- Base Animator patch forgot untransition to self for swimming. Either Momo or NAK forgor?
+- https://youtu.be/Zl60yoZXJFA?si=xga7_sQKUI5DKnlb    
+- https://youtu.be/Q-Wgu_omsnI?si=Ty05Y4mhWEU1X0B6
+- https://www.deviantart.com/desperative/art/MMD-Niko-Download-891705841
+- https://bowlroll.net/user/173714
+- https://discussions.unity.com/t/animation-add-property-button-greyed-out/189107/2

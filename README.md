@@ -496,8 +496,8 @@ Here are the UUIDs of all these assets we uploaded to CVR:
 | `28c3750e-ea72-4634-a8b9-06c098c8d9c6` | Eyea Dice micro1 1 AudioLink | JOELwindows7 | . |
 | `0b8fd851-6bae-4b3c-8800-92eee08ab3a9` | Ludo Game | JOELwindows7 | Board game with core from Keiannai Board Game System |
 | `5cd17bd6-10a3-4d76-9045-478f416368d4` | Never Have I ever board Game | JOELwindows7 | Board game with core from Keiannai Board Game System |
-| `7978dda3-291d-49d0-be01-29f50cff6106` | Never Have I ever generator | JOELwindows7 | **NSFW** Generator for NHIE game above & other NHIE games. |
-| `d12f6826-893b-4171-9238-c0d7edaef48a` | SDEXM Dare generator | JOELwindows7 | Generator for Dare or Truth pls NSFW. |
+| `7978dda3-291d-49d0-be01-29f50cff6106` | Never Have I ever generator | JOELwindows7 | Generator for NHIE game above & other NHIE games. |
+| `d12f6826-893b-4171-9238-c0d7edaef48a` | SDEXM Dare generator | JOELwindows7 | **NSFW** Generator for Dare or Truth pls NSFW. |
 | `c7a0bd47-3ece-485f-a994-d3eddbc2b4c1` | Anjay Button | JOELwindows7 | Powered by [Dippy's push Button](https://dippythefoxderg.gumroad.com/l/DippyPushButt) |
 | `8f094998-b863-4bc6-b3c9-726eb82f1e24` | Fart Reverb Button | JOELwindows7 | Powered by [Dippy's push Button](https://dippythefoxderg.gumroad.com/l/DippyPushButt) |
 | `2b7ef53d-a4aa-457d-b613-6a542fb385d0` | Fart Origin Button | JOELwindows7 | Powered by [Dippy's push Button](https://dippythefoxderg.gumroad.com/l/DippyPushButt) |
@@ -559,6 +559,8 @@ Here are the UUIDs of all these assets we uploaded to CVR:
 | `65dffce0-7866-47a6-9a34-b8033498d9ca` | Lampu Senter | JOELwindows7 | Lua Flashlight |
 | `442c4abe-3ae3-4cce-a7ec-2294751ceca9` | Pointer Blinker | JOELwindows7 | Lua index finger pointer blink rapidly |
 | `7ad7e4d5-89e1-4ddf-82e6-e5587e18c3cc` | VoyVivika Portable Tutorial Prop Edit Bahasa Indonesia | JOELwindows7 | VoyVivika Tutorial Prefab edited to add Bahasa Indonesia |
+| `b46651c8-10f4-4569-8bd8-77b8b62ae59a` | DNB VIP Card | JOELwindows7 | Little John's VIP Card he used to access secret facilities around DNB & affiliates |
+| `b946477f-b126-4bf0-9dfc-106a198d4ea0` | Emergency Unlock Card | JOELwindows7 | (Evil Betty Keycard) Force Unlock a room. **For emergency purpose only!** |
 | `140ca808-7a9a-49c3-9296-3f49127f04ea` | Sex Dice Tutorial card | JOELwindows7 | **NSFW** How to DIY Lewd dice. |
 | `cae8af07-97be-4595-a5a8-1114caf6eec5` | Soklong Clock | JOELwindows7 | **Experimental** Aesthetically minimalist clock |
 | `d2fe9f84-0ee1-49aa-93b0-574040c17731` | Laron P7-K | JOELwindows7 | **Experimental** Moving Head Stage Light |
