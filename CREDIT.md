@@ -3084,7 +3084,6 @@ New Sauce lists
 - https://www.tumblr.com/cardiomason1/735752897037565952/miss-varn-the-school-human-biology-teacher-has no reblog
 - https://www.tumblr.com/cardiomason1/726823403241324544/heres-the-comic-adaptation-originally-uploaded-to
 - https://www.tumblr.com/cardiomason1/726823256882053120/a-comic-im-adapting-need-voice-actors-though
-- https://www.tumblr.com/prismgenixz70/737714993495261184 dyingheartbeats blocked me
 - https://youtube.com/shorts/QbeqW1NVr2g?si=LJXzLr0FZFeSeWLd
 - https://youtu.be/OzBlU-DCltY?si=Tcmudg9W-cfm0EFx goat story katy
 - https://youtu.be/2hdu0YXOh9s?si=CF_zWHYXvUC4B8Dl
@@ -8966,3 +8965,30 @@ https://youtu.be/qzhuWRQWK5I?si=PygoI274O32LWD5a
 - https://www.deviantart.com/desperative/art/MMD-Niko-Download-891705841
 - https://bowlroll.net/user/173714
 - https://discussions.unity.com/t/animation-add-property-button-greyed-out/189107/2
+- Pls fix Ajavook!!! Check is mine not working!!!!!!!!!! Ajavook is supposedly stick to spawner only!!!! TRY AGAIN OK
+- https://discord.com/channels/848401393701748787/1060560641003364384/1258029436968898581 new course
+- https://www.youtube.com/watch?v=4fi4vy0yKyY Nevermore workflow
+- https://ambientcg.com/view?id=Tiles132A
+- https://ambientcg.com/view?id=TilesSubstance017
+- https://ambientcg.com/view?id=Tiles133D
+- https://ambientcg.com/view?id=Tiles135A
+- https://ambientcg.com/view?id=Tiles136B
+- https://ambientcg.com/view?id=Tiles134A
+- https://ambientcg.com/view?id=Rubber004
+- https://ambientcg.com/view?id=DayEnvironmentHDRI047
+- https://ambientcg.com/view?id=Metal046B
+- https://ambientcg.com/view?id=Metal041A
+- https://ambientcg.com/view?id=Leather034D
+- https://ambientcg.com/view?id=Leather011
+- https://ambientcg.com/view?id=Leather034A
+- https://ambientcg.com/view?id=Leather035C
+- https://ambientcg.com/view?id=Leather010
+- https://ambientcg.com/view?id=Leather036B
+- https://ambientcg.com/view?id=Leather036A
+- https://ambientcg.com/view?id=Porcelain001
+- https://ambientcg.com/view?id=Plastic010
+- https://ambientcg.com/view?id=DiamondPlate008C
+- https://ambientcg.com/view?id=Metal036
+- https://ambientcg.com/view?id=Porcelain002
+- https://ambientcg.com/view?id=Porcelain003
+- https://ambientcg.com/view?id=PorcelainSubstance001

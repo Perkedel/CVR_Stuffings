@@ -11,6 +11,7 @@ GameObject:
   - component: {fileID: 6896715222292715001}
   - component: {fileID: 6896715222292715003}
   - component: {fileID: 6896715222292715000}
+  - component: {fileID: 4192977634877832249}
   m_Layer: 0
   m_Name: LeftFilmSpeaker
   m_TagString: Untagged
@@ -52,8 +53,8 @@ AudioSource:
   Spatialize: 1
   SpatializePostEffects: 1
   Priority: 128
-  DopplerLevel: 1
-  MinDistance: 1
+  DopplerLevel: 0
+  MinDistance: 25
   MaxDistance: 250
   Pan2D: 0
   rolloffMode: 1
@@ -143,10 +144,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   directBinaural: 1
   interpolation: 0
-  distanceAttenuation: 0
+  distanceAttenuation: 1
   distanceAttenuationInput: 0
   distanceAttenuationValue: 1
-  airAbsorption: 0
+  airAbsorption: 1
   airAbsorptionInput: 0
   airAbsorptionLow: 1
   airAbsorptionMid: 1
@@ -156,22 +157,22 @@ MonoBehaviour:
   dipoleWeight: 0.518
   dipolePower: 0.03
   directivityValue: 1
-  occlusion: 0
+  occlusion: 1
   occlusionInput: 0
-  occlusionType: 0
+  occlusionType: 1
   occlusionRadius: 1
   occlusionSamples: 16
   occlusionValue: 1
-  transmission: 0
+  transmission: 1
   transmissionType: 0
   transmissionInput: 0
   transmissionLow: 1
   transmissionMid: 1
   transmissionHigh: 1
   directMixLevel: 1
-  reflections: 0
+  reflections: 1
   reflectionsType: 0
-  useDistanceCurveForReflections: 0
+  useDistanceCurveForReflections: 1
   currentBakedSource: {fileID: 0}
   reverbTimeLow: 0
   reverbTimeMid: 0
@@ -180,8 +181,8 @@ MonoBehaviour:
   hybridReverbEQMid: 1
   hybridReverbEQHigh: 1
   hybridReverbDelay: 0
-  applyHRTFToReflections: 0
-  reflectionsMixLevel: 1
+  applyHRTFToReflections: 1
+  reflectionsMixLevel: 0.1
   pathing: 0
   pathingProbeBatch: {fileID: 0}
   pathValidation: 1
@@ -209,3 +210,30 @@ MonoBehaviour:
   - 0
   applyHRTFToPathing: 0
   pathingMixLevel: 1
+--- !u!114 &4192977634877832249
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6896715222292715006}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8ea378497d2d9e847898c57b9eb3fb94, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  influenceRadius: 1000
+  useAllProbeBatches: 1
+  probeBatches: []
+  mTotalDataSize: 0
+  mProbeDataSizes: 
+  mIdentifier:
+    type: 0
+    variation: 0
+    endpointInfluence:
+      center:
+        x: 0
+        y: 0
+        z: 0
+      radius: 0
+  mProbeBatchesUsed: []
