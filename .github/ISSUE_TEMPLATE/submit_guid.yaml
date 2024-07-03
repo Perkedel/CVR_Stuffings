@@ -1,0 +1,115 @@
+# https://docs.github.com/en/communities/using-templates-to-encourage-useful-issues-and-pull-requests/configuring-issue-templates-for-your-repository
+
+name: Submit GUIDs
+description: Submit Avatars, Props, and/or Worlds
+title: "[Vending Machine] "
+labels: ["VendingMachine"]
+# projects: ["octo-org/1", "octo-org/44"]
+assignees:
+  - JOELwindows7
+body:
+  - type: markdown
+    attributes:
+      value: |
+        # Submit Avatars, Props, and/or Worlds
+        Thanks for taking the time to submit your Avatars, Props, and/or Worlds!
+
+        > Submitting RAW Assets? Go back & choose `Submit Assets`.
+  # - type: input
+  #   id: contact
+  #   attributes:
+  #     label: Contact Details
+  #     description: How can we get in touch with you if we need more info?
+  #     placeholder: ex. email@example.com
+  #   validations:
+  #     required: false
+  # - type: textarea
+  #   id: what-happened
+  #   attributes:
+  #     label: What happened?
+  #     description: Also tell us, what did you expect to happen?
+  #     placeholder: Tell us what you see!
+  #     value: "A bug happened!"
+  #   validations:
+  #     required: true
+  - type: markdown
+    attributes:
+      value: |
+        ## Rules
+        - Issues with your &/or someone else's uploads must be resolved
+          - Shaders: SPS-I (Right Eye issues), etc.
+          - Performance: Poly counts, etc.
+        - **NSFW** submission must be separated!
+          - If you'd like to submit both SFW & NSFW, **you'll need to make 2 separate issues of this template**, one for SFW & one for NSFW.
+          - `nudity`
+          - If the avatar does have jiggle jiggle or `suggestive` but does not contain / poly discarded the chest nor butt nor crotch skin **100%**, Sizes of any of those does not exceed `B` cup in proportion, it goes to SFW.
+        - Malicious submission is forbidden! Never submit:
+          - Lag
+          - Crash
+          - Exploit (e.g. exploit that taps into the game reserved memory)
+        - Annoying submission must be explicitly marked as such, `**ANNOYING**` in the description. This goes such as
+          - Screen Effects (including weapons with charging & pulse effects)
+          - Constantly flashing lights & colors (If the flashing is not constant, it's not annoying).
+          - Ultra Bright beyond perceptions
+        - Gory submission must be explicitly marked as such, `**GORY**` in the description. This goes such as
+          - Gore
+          - significantly sized wounds & skin tears
+          - biological Mutilations (not foods like bacon or burgers, unless sized large such as beef qurbans & butcheries)
+        - Promotions allowed at appropriate levels!
+          - Branding & logos
+          - Communities
+  - type: textarea
+    id: guids_worlds
+    attributes:
+      label: Please Attach your **WORLD** GUIDs here
+      description: Attach GUIDs of Worlds to here. Please attach your own GUIDs (**you must credit their name & original URL where did you get it from**). If you'd like to attach someone's GUID, you may typically may need consents for some legal reasons.
+      value: |
+        | GUID | Name | Uploader | Description |
+        | --- | --- | --- | --- |
+        | `???` | NAME | AUTHOR | DESC |
+        ...
+      render: markdown
+    validations:
+      required: true
+  - type: textarea
+    id: guids_props
+    attributes:
+      label: Please Attach your **AVATAR** GUIDs here
+      description: Attach GUIDs of Avatarss to here. Please attach your own GUIDs (**you must credit their name & original URL where did you get it from**). If you'd like to attach someone's GUID, you may typically may need consents for some legal reasons.
+      value: |
+        | GUID | Name | Uploader | Description |
+        | --- | --- | --- | --- |
+        | `???` | NAME | AUTHOR | DESC |
+        ...
+      render: markdown
+    validations:
+      required: true
+  - type: textarea
+    id: guids_props
+    attributes:
+      label: Please Attach your **AVATAR** GUIDs here
+      description: Attach GUIDs of Avatarss to here. Please attach your own GUIDs (**you must credit their name & original URL where did you get it from**). If you'd like to attach someone's GUID, you may typically may need consents for some legal reasons.
+      value: |
+        | GUID | Name | Uploader | Description |
+        | --- | --- | --- | --- |
+        | `???` | NAME | AUTHOR | DESC |
+        ...
+      render: markdown
+    validations:
+      required: true
+  - type: checkboxes
+    id: nsfw
+    attributes:
+      label: These GUIDs are NSFW
+      description: Please check this box if these all are NSFW. 
+      options:
+        - label: These are NSFW GUIDs
+          required: false
+  - type: checkboxes
+    id: terms
+    attributes:
+      label: Code of Conduct
+      description: By submitting this issue, you agree to follow our [Code of Conduct](https://perkedel.netlify.app/terms_of_service)
+      options:
+        - label: I agree to follow this project's Code of Conduct
+          required: true
