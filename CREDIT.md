@@ -8992,3 +8992,64 @@ https://youtu.be/qzhuWRQWK5I?si=PygoI274O32LWD5a
 - https://ambientcg.com/view?id=Porcelain002
 - https://ambientcg.com/view?id=Porcelain003
 - https://ambientcg.com/view?id=PorcelainSubstance001
+- https://valvesoftware.github.io/steam-audio/doc/unity/baked-source.html
+- https://discord.com/channels/410126604237406209/682645682968199168/1256493973552234527
+- https://discord.com/channels/410126604237406209/682645682968199168/1257416685720436776
+- https://discord.com/channels/410126604237406209/588350685255565344/1258136418937602048
+- serato view
+- https://discord.com/channels/410126604237406209/797279576459968555/1257683756437737532
+- https://discord.com/channels/410126604237406209/797279576459968555/1010904476418326650
+- https://discord.com/channels/410126604237406209/588350770777161748/1257748853000507442
+- microsoft playfab
+- https://discord.com/channels/410126604237406209/1240763673346183279/1258271191802708019 Fearless7
+- https://www.twitch.tv/thaphlash
+- https://booth.pm/en/items/3188504 wrong loink
+- https://booth.pm/en/items/3818504 haolan
+- WarVet sketchfab
+- prepare Milk Deluxe!
+- https://tsunamoo.booth.pm/items/3524470
+- https://tsunamoo.booth.pm/items/3506572
+- https://tsunamoo.booth.pm/items/3480091
+- https://tsunamoo.booth.pm/items/3469500
+- https://tsunamoo.booth.pm/items/3469326
+- https://tsunamoo.booth.pm/items/3466641
+- https://tsunamoo.booth.pm/items/3462959
+- https://tsunamoo.booth.pm/items/3259425
+- https://tsunamoo.booth.pm/items/3092199
+- https://tsunamoo.booth.pm/items/3092199
+- https://tsunamoo.booth.pm/items/2899626
+- https://tsunamoo.booth.pm/items/2804316
+- https://tsunamoo.booth.pm/items/2612631
+- https://tsunamoo.booth.pm
+- Done
+- https://en.wikipedia.org/wiki/Acid3
+- https://en.wikipedia.org/wiki/Potemkin_village
+- https://www.acidtests.org/
+- https://rockylinux.org/about
+- https://scientificlinux.org/category/uncategorized/scientific-linux-end-of-life/
+- http://www.slackware.com/
+- https://www.backbox.org/
+- https://store.steampowered.com/app/1962890/IN_HEAT_Lustful_Nights/
+- https://store.steampowered.com/app/1495320/Carnal_Instinct/
+- https://store.steampowered.com/app/1996010/Crow_Country/
+- https://store.steampowered.com/app/1451860/Cyber_Badminton_2020/
+- https://store.steampowered.com/app/829280/Kaze_and_the_Wild_Masks/
+- https://store.steampowered.com/app/2074750/AllInOne_Summer_Sports_VR/
+- https://www.backbox.org/
+- https://blackarch.org/
+- https://mixxx.org/download/#stable Don't forget MIXXX!!!!
+- https://www.clearesult.com/80plus/
+- https://www.clearesult.com/80plus/program-details#program-details-table
+- https://en.wikipedia.org/wiki/80_Plus
+- https://discord.com/channels/410126604237406209/766086942005526579/1075090431760674869 bluethefox shader sps-i fix
+- https://discord.com/channels/410126604237406209/766086942005526579/1075471405161926717 hah? RedMage
+- https://github.com/AkaiMage/VRC-Cancerspace/commit/7ae023518cbbaacaa3de879259548b2bdcf53bba cool and good thancc
+- https://tabletopsimulator.nolt.io/
+- https://steamcommunity.com/sharedfiles/filedetails/?id=3244651431
+- https://skfb.ly/o8pRw low poly blahaj
+- https://steamcommunity.com/sharedfiles/filedetails/?id=851339587&searchtext=card+counter card counter Schokolabbi
+- http://www.nexusmods.com/tabletopsimulator/mods/263/?
+- https://steamcommunity.com/sharedfiles/filedetails/?id=647361085 backup Table Top Simulator
+- https://steamcommunity.com/sharedfiles/filedetails/?id=1288709388&tscn=1718938907
+- https://steamcommunity.com/sharedfiles/filedetails/?id=3272236943
+- https://steamcommunity.com/sharedfiles/filedetails/?id=2435093381&searchtext=8ball ulia magic 8 ball

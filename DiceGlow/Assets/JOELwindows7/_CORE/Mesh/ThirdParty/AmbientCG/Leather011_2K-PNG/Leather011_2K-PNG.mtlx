@@ -1,0 +1,42 @@
+<?xml version="1.0"?>
+<materialx version="1.38" fileprefix="./">
+  <standard_surface type="surfaceshader" name="Leather011_2K_PNG_StandardSurface" xpos="6.159420" ypos="-1.879310">
+    <input type="float" value="0" name="specular" />
+    <input type="float" value="1" name="coat" />
+    <input type="color3" value="1, 1, 1" name="coat_color" />
+    <input type="float" value="1" name="base" />
+    <input type="color3" nodename="Leather011_2K_PNG_Color" name="base_color" />
+    <input type="vector3" nodename="normalmap" name="normal" />
+    <input type="vector3" nodename="normalmap" name="coat_normal" />
+    <input type="float" nodename="Leather011_2K_PNG_Roughness" name="specular_roughness" />
+    <input type="float" nodename="Leather011_2K_PNG_Roughness" name="coat_roughness" />
+  </standard_surface>
+  <surfacematerial type="material" name="Leather011_2K_PNG" xpos="8.695652" ypos="0.000000">
+    <input type="surfaceshader" nodename="Leather011_2K_PNG_StandardSurface" name="surfaceshader" />
+    <input type="displacementshader" nodename="displacement" name="displacementshader" />
+  </surfacematerial>
+  <tiledimage type="color3" name="Leather011_2K_PNG_Color" xpos="3.623188" ypos="-3.103448">
+    <input type="filename" value="Leather011_2K-PNG_Color.png" name="file" colorspace="srgb_texture" />
+    <input type="vector2" value="1.0, 1.0" name="uvtiling" />
+  </tiledimage>
+  <tiledimage type="float" name="Leather011_2K_PNG_Displacement" xpos="3.623188" ypos="5.163793">
+    <input type="filename" value="Leather011_2K-PNG_Displacement.png" name="file" />
+    <input type="vector2" value="1.0, 1.0" name="uvtiling" />
+  </tiledimage>
+  <displacement type="displacementshader" name="displacement" xpos="6.159420" ypos="1.879310">
+    <input type="float" nodename="Leather011_2K_PNG_Displacement" name="displacement" />
+    <input type="float" value="1.0" name="scale" />
+  </displacement>
+  <tiledimage type="vector3" name="Leather011_2K_PNG_NormalGL" xpos="1.086957" ypos="0.879310">
+    <input type="filename" value="Leather011_2K-PNG_NormalGL.png" name="file" />
+    <input type="vector2" value="1.0, 1.0" name="uvtiling" />
+  </tiledimage>
+  <normalmap type="vector3" name="normalmap" xpos="3.623188" ypos="3.586207">
+    <input type="vector3" nodename="Leather011_2K_PNG_NormalGL" name="in" />
+    <input type="float" value="1.0" name="scale" />
+  </normalmap>
+  <tiledimage type="float" name="Leather011_2K_PNG_Roughness" xpos="3.623188" ypos="-0.413793">
+    <input type="filename" value="Leather011_2K-PNG_Roughness.png" name="file" />
+    <input type="vector2" value="1.0, 1.0" name="uvtiling" />
+  </tiledimage>
+</materialx>

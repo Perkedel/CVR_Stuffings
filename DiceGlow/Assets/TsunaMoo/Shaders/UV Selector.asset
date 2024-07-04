@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 78b2425a2284af743826c689403a4924, type: 3}
+  m_Name: UV Selector
+  m_EditorClassIdentifier: 
+  m_functionInfo: "// Made with Amplify Shader Editor\n// Available at the Unity
+    Asset Store - http://u3d.as/y3X \n/*ASEBEGIN\nVersion=18912\n936;286.4;2180;1175;1799.989;346.0853;1;True;False\nNode;AmplifyShaderEditor.FunctionInput;15;-796.9098,-18.66333;Inherit;False;Set;0;0;False;1;0;INT;0;False;1;INT;0\nNode;AmplifyShaderEditor.FunctionInput;16;-530.8064,-68.0954;Inherit;False;Tiling;2;1;False;1;0;FLOAT2;0,0;False;1;FLOAT2;0\nNode;AmplifyShaderEditor.FunctionInput;17;-337.8064,-169.0954;Inherit;False;Offset;2;2;False;1;0;FLOAT2;0,0;False;1;FLOAT2;0\nNode;AmplifyShaderEditor.SimpleMultiplyOpNode;46;-327.9769,-60.222;Inherit;False;2;2;0;FLOAT2;0,0;False;1;FLOAT2;0,0;False;1;FLOAT2;0\nNode;AmplifyShaderEditor.SimpleAddOpNode;47;-140.9769,-118.222;Inherit;False;2;2;0;FLOAT2;0,0;False;1;FLOAT2;0,0;False;1;FLOAT2;0\nNode;AmplifyShaderEditor.TexCoordVertexDataNode;30;-1056.757,334.0287;Inherit;False;2;2;0;5;FLOAT2;0;FLOAT;1;FLOAT;2;FLOAT;3;FLOAT;4\nNode;AmplifyShaderEditor.TexCoordVertexDataNode;29;-1055.757,216.0287;Inherit;False;1;2;0;5;FLOAT2;0;FLOAT;1;FLOAT;2;FLOAT;3;FLOAT;4\nNode;AmplifyShaderEditor.DynamicAppendNode;40;-790.0232,540.3603;Inherit;False;FLOAT2;4;0;FLOAT;0;False;1;FLOAT;0;False;2;FLOAT;0;False;3;FLOAT;0;False;1;FLOAT2;0\nNode;AmplifyShaderEditor.DynamicAppendNode;42;-790.0232,732.3603;Inherit;False;FLOAT2;4;0;FLOAT;0;False;1;FLOAT;0;False;2;FLOAT;0;False;3;FLOAT;0;False;1;FLOAT2;0\nNode;AmplifyShaderEditor.TexCoordVertexDataNode;28;-1059.757,92.02869;Inherit;False;0;2;0;5;FLOAT2;0;FLOAT;1;FLOAT;2;FLOAT;3;FLOAT;4\nNode;AmplifyShaderEditor.DynamicAppendNode;41;-788.0232,635.3603;Inherit;False;FLOAT2;4;0;FLOAT;0;False;1;FLOAT;0;False;2;FLOAT;0;False;3;FLOAT;0;False;1;FLOAT2;0\nNode;AmplifyShaderEditor.TexCoordVertexDataNode;31;-1052.757,461.0287;Inherit;False;3;2;0;5;FLOAT2;0;FLOAT;1;FLOAT;2;FLOAT;3;FLOAT;4\nNode;AmplifyShaderEditor.BreakToComponentsNode;55;-1002.694,643.1379;Inherit;False;FLOAT3;1;0;FLOAT3;0,0,0;False;16;FLOAT;0;FLOAT;1;FLOAT;2;FLOAT;3;FLOAT;4;FLOAT;5;FLOAT;6;FLOAT;7;FLOAT;8;FLOAT;9;FLOAT;10;FLOAT;11;FLOAT;12;FLOAT;13;FLOAT;14;FLOAT;15\nNode;AmplifyShaderEditor.WorldPosInputsNode;59;-1200.954,607.1177;Inherit;False;0;4;FLOAT3;0;FLOAT;1;FLOAT;2;FLOAT;3\nNode;AmplifyShaderEditor.CustomExpressionNode;9;-519.5776,133.173;Inherit;False;float2
+    UvSet[7]@$UvSet[0] = UV0@$UvSet[1] = UV1@$UvSet[2] = UV2@$UvSet[3] = UV3@$$UvSet[4]
+    = UV4@$UvSet[5] = UV5@$UvSet[6] = UV6@$$return UvSet[Set]@;2;Create;8;True;Set;INT;0;In;;Inherit;False;True;UV0;FLOAT2;0,0;In;;Inherit;False;True;UV1;FLOAT2;0,0;In;;Inherit;False;True;UV2;FLOAT2;0,0;In;;Inherit;False;True;UV3;FLOAT2;0,0;In;Tex;Inherit;False;True;UV4;FLOAT2;0,0;In;;Inherit;False;True;UV5;FLOAT2;0,0;In;;Inherit;False;True;UV6;FLOAT2;0,0;In;;Inherit;False;UV
+    Selector;True;False;0;;False;8;0;INT;0;False;1;FLOAT2;0,0;False;2;FLOAT2;0,0;False;3;FLOAT2;0,0;False;4;FLOAT2;0,0;False;5;FLOAT2;0,0;False;6;FLOAT2;0,0;False;7;FLOAT2;0,0;False;1;FLOAT2;0\nNode;AmplifyShaderEditor.FunctionOutput;0;91.22729,-42.27796;Inherit;False;True;-1;Output;0;False;1;0;FLOAT2;0,0;False;1;FLOAT2;0\nWireConnection;46;0;16;0\nWireConnection;46;1;9;0\nWireConnection;47;0;17;0\nWireConnection;47;1;46;0\nWireConnection;40;0;55;0\nWireConnection;41;0;55;0\nWireConnection;55;0;59;0\nWireConnection;9;0;15;0\nWireConnection;9;1;28;0\nWireConnection;9;2;29;0\nWireConnection;9;3;30;0\nWireConnection;9;4;31;0\nWireConnection;9;5;40;0\nWireConnection;9;6;41;0\nWireConnection;9;7;42;0\nWireConnection;0;0;47;0\nASEEND*/\n//CHKSM=959481744E33EBA741162BAAD008D40D47195956"
+  m_functionName: 
+  m_description: 
+  m_additionalIncludes:
+    m_additionalIncludes: []
+    m_outsideIncludes: []
+  m_additionalPragmas:
+    m_additionalPragmas: []
+    m_outsidePragmas: []
+  m_additionalDirectives:
+    m_validData: 0
+    m_isDirty: 0
+    m_moduleName: ' Additional Directives'
+    m_independentModule: 1
+    m_customEdited: 0
+    m_additionalDirectives: []
+    m_shaderFunctionDirectives: []
+    m_nativeDirectives: []
+    m_nativeDirectivesIndex: -1
+    m_nativeDirectivesFoldout: 0
+    m_directivesSaveItems: []
+  m_nodeCategory: 15
+  m_customNodeCategory: 
+  m_previewPosition: 0
+  m_hidden: 0
