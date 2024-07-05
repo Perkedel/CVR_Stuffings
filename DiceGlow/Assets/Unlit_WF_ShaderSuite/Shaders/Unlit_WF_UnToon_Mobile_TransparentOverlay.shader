@@ -34,6 +34,7 @@ Shader "UnlitWF/UnToon_Mobile/WF_UnToon_Mobile_TransparentOverlay" {
         [ToggleUI]
             _AL_InvMaskVal          ("[AL] Invert Mask Value", Range(0, 1)) = 0
             _AL_Power               ("[AL] Power", Range(0, 2)) = 1.0
+            _AL_PowerMin            ("[AL] Power(Min)", Range(0, 2)) = 0
             _AL_Fresnel             ("[AL] Fresnel Power", Range(0, 2)) = 0
         [Enum(OFF,0,ON,1)]
             _AL_ZWrite              ("[AL] ZWrite", int) = 0
@@ -81,13 +82,16 @@ Shader "UnlitWF/UnToon_Mobile/WF_UnToon_Mobile_TransparentOverlay" {
 
         [HideInInspector]
         [WF_FixFloat(0.0)]
-            _CurrentVersion         ("2024/01/01 (1.8.0)", Float) = 0
+            _CurrentVersion         ("2024/06/12 (2.1.0)", Float) = 0
         [HideInInspector]
         [WF_FixFloat(0.0)]
             _ClearBgSupported       ("True", Float) = 0
         [HideInInspector]
         [WF_FixFloat(0.0)]
             _QuestSupported         ("True", Float) = 0
+        [HideInInspector]
+        [WF_FixFloat(0.0)]
+            _VRCFallback            ("UnlitTransparent", Float) = 0
     }
 
     SubShader {

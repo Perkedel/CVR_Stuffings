@@ -33,6 +33,7 @@ Shader "UnlitWF/UnToon_Outline/WF_UnToon_OutlineOnly_Transparent" {
         [ToggleUI]
             _AL_InvMaskVal          ("[AL] Invert Mask Value", Range(0, 1)) = 0
             _AL_Power               ("[AL] Power", Range(0, 2)) = 1.0
+            _AL_PowerMin            ("[AL] Power(Min)", Range(0, 2)) = 0
 
         [WFHeaderAlwaysOn(Outline)]
             _TL_Enable              ("[TL] Enable", Float) = 1
@@ -79,6 +80,8 @@ Shader "UnlitWF/UnToon_Outline/WF_UnToon_OutlineOnly_Transparent" {
         [Gamma]
             _GL_LevelMax            ("Saturate Intensity", Range(0, 1)) = 0.8
             _GL_BlendPower          ("Chroma Reaction", Range(0, 1)) = 0.8
+        [ToggleUI]
+            _GL_CastShadow          ("Cast Shadows", Range(0, 1)) = 1
 
         [WFHeader(Lit Advance)]
         [WF_Enum(UnlitWF.SunSourceMode)]
@@ -94,7 +97,10 @@ Shader "UnlitWF/UnToon_Outline/WF_UnToon_OutlineOnly_Transparent" {
 
         [HideInInspector]
         [WF_FixFloat(0.0)]
-            _CurrentVersion         ("2024/01/01 (1.8.0)", Float) = 0
+            _CurrentVersion         ("2024/06/12 (2.1.0)", Float) = 0
+        [HideInInspector]
+        [WF_FixFloat(0.0)]
+            _VRCFallback            ("Hidden", Float) = 0
     }
 
     SubShader {
@@ -178,6 +184,7 @@ Shader "UnlitWF/UnToon_Outline/WF_UnToon_OutlineOnly_Transparent" {
             ENDCG
         }
 
+        UsePass "UnlitWF/UnToon_Outline/WF_UnToon_Outline_Transparent/SHADOWCASTER"
         UsePass "Hidden/UnlitWF/WF_UnToon_Hidden/META"
     }
 

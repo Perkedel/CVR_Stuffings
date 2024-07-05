@@ -22,6 +22,7 @@ using System.Collections.Generic;
 using System.Linq;
 using UnityEditor;
 using UnityEngine;
+using UnityEditor.SceneManagement;
 
 namespace UnlitWF
 {
@@ -105,13 +106,16 @@ namespace UnlitWF
                         }
                         else
                         {
-                            if (WFAccessor.GetBool(target, "_TS_Enable", false) && !WFAccessor.GetBool(target, "_TS_DisableBackLit", true))
+                            if (WFEditorSetting.GetOneOfSettings().GetDisableBackLitInCurrentEnvironment() == MatForceSettingMode3.PerMaterial)
                             {
-                                return true;
-                            }
-                            if (WFAccessor.GetBool(target, "_TR_Enable", false) && !WFAccessor.GetBool(target, "_TR_DisableBackLit", true))
-                            {
-                                return true;
+                                if (WFAccessor.GetBool(target, "_TS_Enable", false) && !WFAccessor.GetBool(target, "_TS_DisableBackLit", true))
+                                {
+                                    return true;
+                                }
+                                if (WFAccessor.GetBool(target, "_TR_Enable", false) && !WFAccessor.GetBool(target, "_TR_DisableBackLit", true))
+                                {
+                                    return true;
+                                }
                             }
                         }
                         // それ以外は設定不要
@@ -130,14 +134,18 @@ namespace UnlitWF
                     {
                         WFAccessor.SetBool(mat, "_GL_DisableBackLit", true);
                         WFAccessor.SetBool(mat, "_GL_DisableBasePos", true);
-                        if (WFAccessor.GetBool(mat, "_TS_Enable", false))
+                        if (WFEditorSetting.GetOneOfSettings().GetDisableBackLitInCurrentEnvironment() == MatForceSettingMode3.PerMaterial)
                         {
-                            WFAccessor.SetBool(mat, "_TS_DisableBackLit", true);
+                            if (WFAccessor.GetBool(mat, "_TS_Enable", false))
+                            {
+                                WFAccessor.SetBool(mat, "_TS_DisableBackLit", true);
+                            }
+                            if (WFAccessor.GetBool(mat, "_TR_Enable", false))
+                            {
+                                WFAccessor.SetBool(mat, "_TR_DisableBackLit", true);
+                            }
                         }
-                        if (WFAccessor.GetBool(mat, "_TR_Enable", false))
-                        {
-                            WFAccessor.SetBool(mat, "_TR_DisableBackLit", true);
-                        }
+                        EditorUtility.SetDirty(mat);
                     }
                 }
             ),
@@ -170,6 +178,7 @@ namespace UnlitWF
                     {
                         WFAccessor.SetBool(mat, "_AO_Enable", true);
                         WFAccessor.SetBool(mat, "_AO_UseLightMap", true);
+                        EditorUtility.SetDirty(mat);
                     }
                 }
             ),
@@ -187,9 +196,13 @@ namespace UnlitWF
                     foreach (var mat in targets)
                     {
                         mat.renderQueue = -1;
+                        EditorUtility.SetDirty(mat);
                     }
                 }
             ),
+
+            WFMaterialDepthTexValidator.Validator,
+            WFMaterialParticleValidator.Validator,
 
             // 今後削除される予定の機能を使っている場合に警告
             new WFMaterialValidator(
@@ -202,6 +215,16 @@ namespace UnlitWF
                 targets => targets.Where(mat => WFAccessor.GetInt(mat, "_MT_Enable", 0) != 0 && WFAccessor.GetInt(mat, "_MT_MetallicMapType", 0) != 0).ToArray(),
                 MessageType.Warning,
                 targets => WFI18N.Translate(WFMessageText.PlzDeprecatedFeature) + ": " + WFI18N.Translate("MT", "MetallicMap Type"),
+                null // アクションなし
+            ),
+            new WFMaterialValidator(
+                targets => targets.Where(mat => WFAccessor.GetInt(mat, "_TR_Enable", 0) != 0 && WFAccessor.GetInt(mat, "_TR_BlendType", 0) == 3).ToArray(),
+                MessageType.Warning,
+                targets => WFI18N.Translate(WFMessageText.PlzDeprecatedFeature) + ": " + 
+                    string.Format("{0}.{1} == {2}", 
+                        WFI18N.Translate("RimLight"),
+                        WFI18N.Translate("TR", "Blend Type"), 
+                        WFI18N.TryTranslate("UnlitWF.BlendModeTR.MUL", out var after) ? after : "MUL"),
                 null // アクションなし
             ),
 
@@ -224,6 +247,7 @@ namespace UnlitWF
                     foreach (var mat in targets)
                     {
                         mat.doubleSidedGI = true;
+                        EditorUtility.SetDirty(mat);
                     }
                 }
             ),
@@ -270,7 +294,7 @@ namespace UnlitWF
         /// <returns></returns>
         private static Material[] FilterBatchingStaticMaterials(Material[] mats)
         {
-            var scene = UnityEditor.SceneManagement.EditorSceneManager.GetActiveScene();
+            var scene = EditorSceneManager.GetActiveScene();
 
             // 現在のシーンにある BatchingStatic の付いた MeshRenderer が使っているマテリアルを整理
             var matsInScene = scene.GetRootGameObjects()
@@ -289,7 +313,7 @@ namespace UnlitWF
         /// <returns></returns>
         private static Material[] FilterLightmapStaticMaterials(Material[] mats)
         {
-            var scene = UnityEditor.SceneManagement.EditorSceneManager.GetActiveScene();
+            var scene = EditorSceneManager.GetActiveScene();
 
             // 現在のシーンにある LightmapStatic の付いた MeshRenderer が使っているマテリアルを整理
             var matsInScene = scene.GetRootGameObjects()
@@ -371,6 +395,233 @@ namespace UnlitWF
             var mats = values.Where(mat => mat != null).ToArray();
             oldMaterialVersionCache.RemoveAll(mats);
             newMaterialVersionCache.RemoveAll(mats);
+        }
+    }
+
+    class WFMaterialParticleValidator : ScriptableSingleton<WFMaterialParticleValidator>
+    {
+        public static readonly WFMaterialValidator Validator = new WFMaterialValidator(
+                ValidateMaterials,
+                MessageType.Warning,
+                targets => WFI18N.Translate(WFMessageText.PlzFixParticleVertexStreams),
+                FixParticleSystems
+            );
+
+        private readonly HierarchyComponentWatcher<ParticleSystemRenderer> watcher = new HierarchyComponentWatcher<ParticleSystemRenderer>(true);
+
+        public void OnEnable()
+        {
+            watcher.OnEnable();
+        }
+
+        public void OnDestroy()
+        {
+            watcher.OnDestroy();
+        }
+
+        private ParticleSystemRenderer[] GetRenderers(Material mat)
+        {
+            var all = watcher.GetComponents();
+            return all.Where(r => r != null && r.sharedMaterial == mat).ToArray();
+        }
+
+        private static Material[] ValidateMaterials(params Material[] targets)
+        {
+            // パーティクル系シェーダを使っているマテリアルに対して
+            targets = targets.Where(mat => mat.shader.name.Contains("Particle")).ToArray();
+            if (targets.Length == 0)
+            {
+                // パーティクル系ではないときは何もしない
+                return targets;
+            }
+
+            var renderers = instance.watcher.GetComponents();
+            if (renderers.Length == 0)
+            {
+                return new Material[0];
+            }
+
+            return targets.Where(mat =>
+            {
+                GetRequiredStream(mat, out var streams, out var instancedStreams);
+                return instance.GetRenderers(mat).Any(r =>
+                {
+                    var st = new List<ParticleSystemVertexStream>();
+                    r.GetActiveVertexStreams(st);
+                    if (IsUseMeshInstancing(r))
+                        return !st.SequenceEqual(instancedStreams);
+                    else
+                        return !st.SequenceEqual(streams);
+                });
+            }).ToArray();
+        }
+
+        private static void FixParticleSystems(params Material[] targets)
+        {
+            var renderers = instance.watcher.GetComponents();
+            if (renderers.Length == 0)
+            {
+                return;
+            }
+
+            Undo.RecordObjects(renderers.ToArray(), "Apply custom vertex streams from material");
+
+            foreach(var mat in targets)
+            {
+                GetRequiredStream(mat, out var streams, out var instancedStreams);
+                foreach(var r in instance.GetRenderers(mat))
+                {
+                    if (IsUseMeshInstancing(r))
+                        r.SetActiveVertexStreams(instancedStreams);
+                    else
+                        r.SetActiveVertexStreams(streams);
+                    EditorUtility.SetDirty(r);
+                }
+            }
+        }
+
+        private static bool IsUseMeshInstancing(ParticleSystemRenderer r)
+        {
+#if UNITY_2019_4_OR_NEWER
+            return r.renderMode == ParticleSystemRenderMode.Mesh && r.supportsMeshInstancing;
+#else
+            return false;
+#endif
+        }
+
+        private static void GetRequiredStream(Material mat, out List<ParticleSystemVertexStream> streams, out List<ParticleSystemVertexStream> instancedStreams)
+        {
+            streams = new List<ParticleSystemVertexStream>();
+            streams.Add(ParticleSystemVertexStream.Position);
+            streams.Add(ParticleSystemVertexStream.Color);
+            streams.Add(ParticleSystemVertexStream.UV);
+
+            instancedStreams = new List<ParticleSystemVertexStream>(streams);
+
+            if (WFAccessor.GetBool(mat, "_PA_UseFlipBook", false))
+            {
+                streams.Add(ParticleSystemVertexStream.UV2);
+                streams.Add(ParticleSystemVertexStream.AnimBlend);
+            }
+
+            // Instancing時はFlipBook使用しているか否かに関わらずAnimFrameを含める必要がある
+            instancedStreams.Add(ParticleSystemVertexStream.AnimFrame);
+        }
+
+        public static WFMaterialValidator.Advice Validate(params Material[] targets)
+        {
+            return Validator.Validate(targets);
+        }
+
+        public static IEnumerable<string> GetRequiredStreamText(Material[] mat)
+        {
+            var rs = mat.SelectMany(instance.GetRenderers).ToArray();
+            var useGPUInstancing = rs.Any(IsUseMeshInstancing);
+            var useFlipBookBlending = mat.Any(m => WFAccessor.GetBool(m, "_PA_UseFlipBook", false));
+
+            var result = new List<string>();
+            
+            if (!useGPUInstancing)
+            {
+                result.Add("Position (POSITION.xyz)");
+                result.Add("Color(COLOR.xyzw)");
+                result.Add("UV (TEXCOORD0.xy)");
+                if (useFlipBookBlending)
+                {
+                    result.Add("UV2 (TEXCOORD0.zw)");
+                    result.Add("AnimBlend (TEXCOORD1.x)");
+                }
+            }
+            else
+            {
+                result.Add("Position (POSITION.xyz)");
+                result.Add("Color(INSTANCED0.xyzw)");
+                result.Add("UV (TEXCOORD0.xy)");
+                result.Add("AnimFrame (INSTANCED1.x)"); // Instancing時はFlipBook使用しているか否かに関わらずAnimFrameを含める必要がある
+            }
+
+            return result;
+        }
+    }
+
+    class WFMaterialDepthTexValidator : ScriptableSingleton<WFMaterialDepthTexValidator>
+    {
+        public static readonly WFMaterialValidator Validator = new WFMaterialValidator(
+                ValidateMaterials,
+                MessageType.Warning,
+                targets => WFI18N.Translate(WFMessageText.PlzFixCameraDepthTexture),
+                targets => {
+                    // メニュー作成
+                    var menu = new GenericMenu();
+                    menu.AddItem(WFI18N.GetGUIContent(WFMessageText.MenuCreateDepthLight), false, () => FixAddLightInScene(targets));
+                    if (WFEditorSetting.GetOneOfSettings().GetUseDepthTexInCurrentEnvironment() == MatForceSettingMode2.PerMaterial)
+                    {
+                        menu.AddItem(WFI18N.GetGUIContent(WFMessageText.MenuWithoutDepthTex), false, () => FixMaterialTakeDown(targets));
+                    }
+                    menu.ShowAsContext();
+                }
+            );
+
+        private readonly HierarchyComponentWatcher<Light> watcher = new HierarchyComponentWatcher<Light>(false);
+
+        public void OnEnable()
+        {
+            watcher.OnEnable();
+        }
+
+        public void OnDestroy()
+        {
+            watcher.OnDestroy();
+        }
+
+        private static Material[] ValidateMaterials(params Material[] targets)
+        {
+            if (WFEditorSetting.GetOneOfSettings().GetUseDepthTexInCurrentEnvironment() == MatForceSettingMode2.ForceOFF)
+            {
+                return new Material[0];
+            }
+
+            targets = targets.Where(mat => WFAccessor.GetBool(mat, "_CRF_UseDepthTex", false) || WFAccessor.GetBool(mat, "_CGL_UseDepthTex", false)).ToArray();
+            if (targets.Length == 0)
+            {
+                return targets;
+            }
+
+            var lights = instance.watcher.GetComponents();
+            if (lights.Where(lit => lit != null && lit.enabled && lit.lightmapBakeType != LightmapBakeType.Baked).Any(lit => lit.shadows != LightShadows.None))
+            {
+                return new Material[0];
+            }
+
+            return targets;
+        }
+
+        private static void FixAddLightInScene(Material[] targets)
+        {
+            var go = new GameObject("DepthGenLight");
+            var light = go.AddComponent<Light>();
+
+            light.type = LightType.Directional;
+            light.lightmapBakeType = LightmapBakeType.Realtime;
+            light.color = Color.black;
+            light.intensity = 0.2f;
+            light.bounceIntensity = 0;
+            light.renderMode = LightRenderMode.ForcePixel;
+            light.shadows = LightShadows.Hard;
+            light.cullingMask = LayerMask.GetMask("TransparentFX", "Ignore Raycast");
+
+            Undo.RegisterCreatedObjectUndo(go, "Create DepthGenLight");
+        }
+
+        private static void FixMaterialTakeDown(Material[] targets)
+        {
+            Undo.RecordObjects(targets, "Fix UseCameraDepthTex");
+            foreach(var mat in targets)
+            {
+                WFAccessor.SetBool(mat, "_CRF_UseDepthTex", false);
+                WFAccessor.SetBool(mat, "_CGL_UseDepthTex", false);
+                EditorUtility.SetDirty(mat);
+            }
         }
     }
 }

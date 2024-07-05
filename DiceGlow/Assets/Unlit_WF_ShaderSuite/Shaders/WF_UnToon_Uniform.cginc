@@ -37,9 +37,9 @@
     DECL_SUB_TEX2D      (_SpecGlossMap);
     DECL_SUB_TEX2D      (_TS_MaskTex);
     DECL_SUB_TEX2D      (_TR_MaskTex);
+    DECL_SUB_TEX2D      (_TM_MaskTex);
     DECL_SUB_TEX2D      (_OVL_MaskTex);
     DECL_SUB_TEX2D      (_TL_CustomColorTex);
-    DECL_SUB_TEX2D      (_CHM_3chMaskTex);
 #ifndef _WF_AO_ONLY_LMAP
     DECL_SUB_TEX2D      (_OcclusionMap);
 #endif
@@ -79,6 +79,11 @@
     DECL_GRAB_TEX2D(_WF_PB_GRAB_TEXTURE);   // URPではGrabがサポートされていないのでここで宣言する
 #endif
 
+    // CameraDepthTexture ======================================
+
+#if defined(_CRF_DEPTH_ENABLE) || defined(_CGL_DEPTH_ENABLE) || defined(_WF_LEGACY_FEATURE_SWITCH)
+        UNITY_DECLARE_DEPTH_TEXTURE(_CameraDepthTexture);
+#endif
 
     ////////////////////////////
     // Other uniform variable
@@ -104,6 +109,7 @@
 
     uint            _AL_Source;
     half            _AL_Power;
+    half            _AL_PowerMin;
     half            _AL_Fresnel;
     half            _AL_AlphaToMask;
     half            _AL_Z_Offset;
@@ -134,15 +140,6 @@
     // -------------------------
 
 #ifndef _WF_MOBILE
-    FEATURE_TGL    (_CHM_Enable);
-    half4           _CHM_ColorR;
-    half4           _CHM_ColorG;
-    half4           _CHM_ColorB;
-#endif
-
-    // -------------------------
-
-#ifndef _WF_MOBILE
     FEATURE_TGL    (_CGR_Enable);
     half            _CGR_InvMaskVal;
 #endif
@@ -164,6 +161,7 @@
     FEATURE_TGL    (_ES_Enable);
     half4           _EmissionColor;
     uint            _ES_BlendType;
+    half            _ES_ChangeAlpha;
 
     half            _ES_ScrollEnable;
     uint            _ES_SC_Shape;
@@ -202,7 +200,6 @@
     half            _MT_Brightness;
     half            _MT_Monochrome;
     half            _MT_GeomSpecAA;
-    uint            _MT_MetallicMapType;
     half            _MT_Specular;
     half            _MT_SpecSmooth;
     half            _MT_InvMaskVal;
@@ -295,15 +292,30 @@
     FEATURE_TGL    (_TR_Enable);
     half3           _TR_Color;
     uint            _TR_BlendType;
-    half            _TR_Power;
+    half            _TR_Width;
     half            _TR_Feather;
+    half            _TR_Exponent;
     half            _TR_InvMaskVal;
     half            _TR_BlendNormal;
     half            _TR_BlendNormal2;
-    half            _TR_PowerTop;
-    half            _TR_PowerSide;
-    half            _TR_PowerBottom;
+    half            _TR_WidthTop;
+    half            _TR_WidthSide;
+    half            _TR_WidthBottom;
     half            _TR_DisableBackLit;
+
+    // -------------------------
+
+    FEATURE_TGL    (_TM_Enable);
+    half3           _TM_Color;
+    half            _TM_Width;
+    half            _TM_Feather;
+    half            _TM_Exponent;
+    half            _TM_InvMaskVal;
+    half            _TM_BlendNormal;
+    half            _TM_BlendNormal2;
+    half            _TM_WidthTop;
+    half            _TM_WidthSide;
+    half            _TM_WidthBottom;
 
     // -------------------------
 
@@ -386,6 +398,7 @@
     half            _CRF_Distance;
     half3           _CRF_Tint;
     half            _CRF_BlendNormal;
+    half            _CRF_UseDepthTex;
 #endif
 
     // -------------------------
@@ -400,6 +413,8 @@
     half            _CGL_Blur;
     half            _CGL_BlurMin;
     uint            _CGL_BlurMode;
+    half            _CGL_BlurRandom;
+    half            _CGL_UseDepthTex;
 #endif
 
     // -------------------------

@@ -35,6 +35,7 @@ Shader "UnlitWF/WF_Water_Surface_Transparent" {
         [ToggleUI]
             _AL_InvMaskVal          ("[AL] Invert Mask Value", Range(0, 1)) = 0
             _AL_Power               ("[AL] Power", Range(0, 2)) = 1.0
+            _AL_PowerMin            ("[AL] Power(Min)", Range(0, 2)) = 0
             _Cutoff                 ("[AL] Cutoff Threshold", Range(0, 1)) = 0.05
             _AL_Fresnel             ("[AL] Fresnel Power", Range(0, 2)) = 0
         [Enum(OFF,0,ON,1)]
@@ -123,7 +124,7 @@ Shader "UnlitWF/WF_Water_Surface_Transparent" {
 
         [HideInInspector]
         [WF_FixFloat(0.0)]
-            _CurrentVersion         ("2024/01/01 (1.8.0)", Float) = 0
+            _CurrentVersion         ("2024/06/12 (2.1.0)", Float) = 0
         [HideInInspector]
         [WF_FixFloat(0.0)]
             _QuestSupported         ("True", Float) = 0

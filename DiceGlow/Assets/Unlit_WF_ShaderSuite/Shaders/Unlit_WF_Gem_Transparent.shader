@@ -66,6 +66,7 @@ Shader "UnlitWF/WF_Gem_Transparent" {
         [WF_FixFloat(0.0)]
             _AL_InvMaskVal          ("[AL] Invert Mask Value", Range(0, 1)) = 0
             _AL_Power               ("[AL] Power", Range(0, 2)) = 0.8
+            _AL_PowerMin            ("[AL] Power(Min)", Range(0, 2)) = 0
             _AL_Fresnel             ("[AL] Fresnel Power", Range(0, 2)) = 1
         [Enum(OFF,0,ON,1)]
             _AL_ZWrite              ("[AL] ZWrite", int) = 0
@@ -90,6 +91,8 @@ Shader "UnlitWF/WF_Gem_Transparent" {
             _EmissionMap            ("[ES] Emission Texture", 2D) = "white" {}
         [WF_Enum(UnlitWF.BlendModeES,ADD,ALPHA,LEGACY_ALPHA)]
             _ES_BlendType           ("[ES] Blend Type", Float) = 0
+        [ToggleUI]
+            _ES_ChangeAlpha         ("[ES] Change Alpha Transparency", Range(0, 1)) = 0
 
         [Header(Emissive Scroll)]
         [ToggleUI]
@@ -154,13 +157,16 @@ Shader "UnlitWF/WF_Gem_Transparent" {
 
         [HideInInspector]
         [WF_FixFloat(0.0)]
-            _CurrentVersion         ("2024/01/01 (1.8.0)", Float) = 0
+            _CurrentVersion         ("2024/06/12 (2.1.0)", Float) = 0
         [HideInInspector]
         [WF_FixFloat(0.0)]
             _FallBack               ("UnlitWF/UnToon_Mobile/WF_UnToon_Mobile_Transparent", Float) = 0
         [HideInInspector]
         [WF_FixFloat(0.0)]
             _QuestSupported         ("True", Float) = 0
+        [HideInInspector]
+        [WF_FixFloat(0.0)]
+            _VRCFallback            ("UnlitTransparent", Float) = 0
     }
 
     SubShader {

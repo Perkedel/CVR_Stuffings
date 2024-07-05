@@ -2,14 +2,19 @@
 %TAG !u! tag:unity3d.com,2011:
 --- !u!21 &2100000
 Material:
-  serializedVersion: 6
+  serializedVersion: 8
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: SolidRed
   m_Shader: {fileID: 4800000, guid: a3678756e883b9349ac22fce33313139, type: 3}
-  m_ShaderKeywords: _AO_ENABLE _GL_WSDIR_ENABLE _TS_ENABLE _TS_STEP2_ENABLE
+  m_ValidKeywords:
+  - _AO_ENABLE
+  - _GL_WSDIR_ENABLE
+  - _TS_ENABLE
+  - _TS_STEP2_ENABLE
+  m_InvalidKeywords: []
   m_LightmapFlags: 0
   m_EnableInstancingVariants: 0
   m_DoubleSidedGI: 0
@@ -27,7 +32,23 @@ Material:
         m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
+    - _CGR_GradMapTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _CGR_MaskTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
     - _CHM_3chMaskTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _CLC_MaskTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DFD_ColorTex:
         m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
@@ -99,6 +120,10 @@ Material:
         m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
+    - _TM_MaskTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
     - _TR_MaskTex:
         m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
@@ -123,6 +148,7 @@ Material:
         m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
+    m_Ints: []
     m_Floats:
     - _AO_Brightness: 0
     - _AO_Contrast: 1
@@ -133,11 +159,15 @@ Material:
     - _BKT_Enable: 0
     - _BKT_UVType: 0
     - _BumpScale: 1
+    - _CGR_Enable: 0
+    - _CGR_InvMaskVal: 0
     - _CHM_Enable: 0
     - _CLC_DeltaH: 0
     - _CLC_DeltaS: 0
     - _CLC_DeltaV: 0
     - _CLC_Enable: 0
+    - _CLC_Gamma: 1
+    - _CLC_InvMaskVal: 0
     - _CLC_Monochrome: 0
     - _CullMode: 2
     - _CurrentVersion: 0
@@ -228,6 +258,7 @@ Material:
     - _MT_SpecSmooth: 0.8
     - _MT_Specular: 0
     - _NM_Enable: 0
+    - _NM_InvConvex: 0
     - _NM_Power: 0.25
     - _NS_Enable: 0
     - _NS_InvMaskVal: 0
@@ -241,17 +272,28 @@ Material:
     - _OVL_UVType: 0
     - _OVL_VertColToDecal: 0
     - _OVL_VertColToMask: 0
+    - _TM_BlendNormal: 0
+    - _TM_BlendNormal2: 0
+    - _TM_Enable: 0
+    - _TM_Exponent: 1
+    - _TM_Feather: 0.1
+    - _TM_InvMaskVal: 0
+    - _TM_Width: 0
+    - _TM_WidthBottom: 1
+    - _TM_WidthSide: 1
+    - _TM_WidthTop: 0.5
     - _TR_BlendNormal: 0
     - _TR_BlendNormal2: 0
     - _TR_BlendType: 0
     - _TR_DisableBackLit: 0
     - _TR_Enable: 0
+    - _TR_Exponent: 1
     - _TR_Feather: 0.05
     - _TR_InvMaskVal: 0
-    - _TR_Power: 1
-    - _TR_PowerBottom: 0.1
-    - _TR_PowerSide: 0.1
-    - _TR_PowerTop: 0.05
+    - _TR_Width: 0.1
+    - _TR_WidthBottom: 1
+    - _TR_WidthSide: 1
+    - _TR_WidthTop: 0.5
     - _TS_1stBorder: 0.5
     - _TS_1stFeather: 0
     - _TS_2ndBorder: 0.3
@@ -269,6 +311,7 @@ Material:
     - _TS_Power: 1.5
     - _TS_Steps: 2
     - _UseVertexColor: 0
+    - _VRCFallback: 0
     m_Colors:
     - _AO_TintColor: {r: 0, g: 0, b: 0, a: 1}
     - _BKT_BackColor: {r: 1, g: 1, b: 1, a: 1}
@@ -289,8 +332,10 @@ Material:
     - _LME_RandColor: {r: 0, g: 0, b: 0, a: 1}
     - _OVL_Color: {r: 1, g: 1, b: 1, a: 1}
     - _OVL_UVScroll: {r: 0, g: 0, b: 0, a: 0}
+    - _TM_Color: {r: 0, g: 0, b: 0, a: 1}
     - _TR_Color: {r: 0.8, g: 0.8, b: 0.8, a: 1}
     - _TS_1stColor: {r: 0.81, g: 0.81, b: 0.9, a: 1}
     - _TS_2ndColor: {r: 0.68, g: 0.68, b: 0.8, a: 1}
     - _TS_3rdColor: {r: 0.5, g: 0.5, b: 0.7, a: 1}
     - _TS_BaseColor: {r: 1, g: 1, b: 1, a: 1}
+  m_BuildTextureStacks: []

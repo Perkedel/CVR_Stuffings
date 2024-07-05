@@ -2,7 +2,7 @@ Shader "Hidden/Locked/.poiyomi/Poiyomi Toon/80148176cf016644d87d45345297084a"
 {
 	Properties
 	{
-		[HideInInspector] shader_master_label ("<color=#E75898ff>Poiyomi 9.0.40</color>", Float) = 0
+		[HideInInspector] shader_master_label ("<color=#E75898ff>Poiyomi 9.0.57</color>", Float) = 0
 		[HideInInspector] shader_is_using_thry_editor ("", Float) = 0
 		[HideInInspector] shader_locale ("0db0b86376c3dca4b9a6828ef8615fe0", Float) = 0
 		[HideInInspector] footer_youtube ("{texture:{name:icon-youtube,height:16},action:{type:URL,data:https://www.youtube.com/poiyomi},hover:YOUTUBE}", Float) = 0
@@ -73,21 +73,9 @@ Shader "Hidden/Locked/.poiyomi/Poiyomi Toon/80148176cf016644d87d45345297084a"
 		[ThryWideEnum(Off, 0, 1R, 1, 1G, 2, 1B, 3, 1A, 4, 2R, 5, 2G, 6, 2B, 7, 2A, 8, 3R, 9, 3G, 10, 3B, 11, 3A, 12, 4R, 13, 4G, 14, 4B, 15, 4A, 16)] _AlphaGlobalMask ("Global Mask--{reference_property:_AlphaGlobalMaskBlendType}", Int) = 0
 		[HideInInspector][ThryWideEnum(Add, 7, Subtract, 1, Multiply, 2, Divide, 3, Min, 4, Max, 5, Average, 6, Replace, 0)] _AlphaGlobalMaskBlendType ("Blending", Int) = 2
 		[HideInInspector] m_end_Alpha ("Alpha Options", Float) = 0
-		[HideInInspector] m_start_DecalSection ("Decals--{button_help:{text:Tutorial,action:{type:URL,data:https://www.poiyomi.com/color-and-normals/decals},hover:YouTube}}", Float) = 0
-		[sRGBWarning][ThryRGBAPacker(Decal 0 Mask, Decal 1 Mask, Decal 2 Mask, Decal 3 Mask, Linear, false)]_DecalMask ("Decal RGBA Mask--{reference_properties:[_DecalMaskPan, _DecalMaskUV]}", 2D) = "white" { }
-		[HideInInspector][Vector2]_DecalMaskPan ("Panning", Vector) = (0, 0, 0, 0)
-		[HideInInspector][ThryWideEnum(UV0, 0, UV1, 1, UV2, 2, UV3, 3, Panosphere, 4, World Pos, 5, Local Pos, 8, Polar UV, 6, Distorted UV, 7)] _DecalMaskUV ("UV", Int) = 0
-		[HideInInspector] s_start_DecalTPSMaskGroup ("--{condition_showS:(_TPSPenetratorEnabled==1)}", Float) = 0
-		[ThryToggleUI(true)] _DecalTPSDepthMaskEnabled ("<size=13><b>  TPS Depth Enabled</b></size>", Float) = 0
-		_Decal0TPSMaskStrength ("Mask r Strength--{condition_showS:(_DecalTPSDepthMaskEnabled==1)}", Range(0, 1)) = 1
-		_Decal1TPSMaskStrength ("Mask g Strength--{condition_showS:(_DecalTPSDepthMaskEnabled==1)}", Range(0, 1)) = 1
-		_Decal2TPSMaskStrength ("Mask b Strength--{condition_showS:(_DecalTPSDepthMaskEnabled==1)}", Range(0, 1)) = 1
-		_Decal3TPSMaskStrength ("Mask a Strength--{condition_showS:(_DecalTPSDepthMaskEnabled==1)}", Range(0, 1)) = 1
-		[HideInInspector] s_end_DecalTPSMaskGroup ("", Float) = 0
-		[HideInInspector] m_end_DecalSection ("Decal", Float) = 0
 		[HideInInspector] m_lightingCategory ("Shading", Float) = 0
 		[HideInInspector] m_start_PoiLightData ("Light Data--{button_help:{text:Tutorial,action:{type:URL,data:https://www.poiyomi.com/shading/light-data},hover:Documentation}}", Float) = 0
-		[sRGBWarning]_LightingAOMaps ("AO Maps (expand)--{reference_properties:[_LightingAOMapsPan, _LightingAOMapsUV,_LightDataAOStrengthR,_LightDataAOStrengthG,_LightDataAOStrengthB,_LightDataAOStrengthA, _LightDataAOGlobalMaskR]}", 2D) = "white" { }
+		[sRGBWarning][ThryRGBAPacker(R, G, B, A, Linear, false)]_LightingAOMaps ("AO Maps (expand)--{reference_properties:[_LightingAOMapsPan, _LightingAOMapsUV,_LightDataAOStrengthR,_LightDataAOStrengthG,_LightDataAOStrengthB,_LightDataAOStrengthA, _LightDataAOGlobalMaskR]}", 2D) = "white" { }
 		[HideInInspector][Vector2]_LightingAOMapsPan ("Panning", Vector) = (0, 0, 0, 0)
 		[HideInInspector][ThryWideEnum(UV0, 0, UV1, 1, UV2, 2, UV3, 3, Panosphere, 4, World Pos, 5, Local Pos, 8, Polar UV, 6, Distorted UV, 7)] _LightingAOMapsUV ("UV", Int) = 0
 		[HideInInspector]_LightDataAOStrengthR ("R Strength", Range(0, 1)) = 1
@@ -96,7 +84,7 @@ Shader "Hidden/Locked/.poiyomi/Poiyomi Toon/80148176cf016644d87d45345297084a"
 		[HideInInspector]_LightDataAOStrengthA ("A Strength", Range(0, 1)) = 0
 		[HideInInspector][ThryWideEnum(Off, 0, 1R, 1, 1G, 2, 1B, 3, 1A, 4, 2R, 5, 2G, 6, 2B, 7, 2A, 8, 3R, 9, 3G, 10, 3B, 11, 3A, 12, 4R, 13, 4G, 14, 4B, 15, 4A, 16)] _LightDataAOGlobalMaskR ("Global Mask--{reference_property:_LightDataAOGlobalMaskBlendTypeR}", Int) = 0
 		[HideInInspector][ThryWideEnum(Add, 7, Subtract, 1, Multiply, 2, Divide, 3, Min, 4, Max, 5, Average, 6, Replace, 0)] _LightDataAOGlobalMaskBlendTypeR ("Blending", Range(0, 1)) = 2
-		[sRGBWarning]_LightingDetailShadowMaps ("Shadow Map (expand)--{reference_properties:[_LightingDetailShadowMapsPan, _LightingDetailShadowMapsUV,_LightingDetailShadowStrengthR,_LightingDetailShadowStrengthG,_LightingDetailShadowStrengthB,_LightingDetailShadowStrengthA,_LightingAddDetailShadowStrengthR,_LightingAddDetailShadowStrengthG,_LightingAddDetailShadowStrengthB,_LightingAddDetailShadowStrengthA, _LightDataDetailShadowGlobalMaskR]}", 2D) = "white" { }
+		[sRGBWarning][ThryRGBAPacker(R, G, B, A, Linear, false)]_LightingDetailShadowMaps ("Shadow Map (expand)--{reference_properties:[_LightingDetailShadowMapsPan, _LightingDetailShadowMapsUV,_LightingDetailShadowStrengthR,_LightingDetailShadowStrengthG,_LightingDetailShadowStrengthB,_LightingDetailShadowStrengthA,_LightingAddDetailShadowStrengthR,_LightingAddDetailShadowStrengthG,_LightingAddDetailShadowStrengthB,_LightingAddDetailShadowStrengthA, _LightDataDetailShadowGlobalMaskR]}", 2D) = "white" { }
 		[HideInInspector][Vector2]_LightingDetailShadowMapsPan ("Panning", Vector) = (0, 0, 0, 0)
 		[HideInInspector][ThryWideEnum(UV0, 0, UV1, 1, UV2, 2, UV3, 3, Panosphere, 4, World Pos, 5, Local Pos, 8, Polar UV, 6, Distorted UV, 7)] _LightingDetailShadowMapsUV ("UV", Int) = 0
 		[HideInInspector]_LightingDetailShadowStrengthR ("R Strength", Range(0, 1)) = 1
@@ -109,7 +97,7 @@ Shader "Hidden/Locked/.poiyomi/Poiyomi Toon/80148176cf016644d87d45345297084a"
 		[HideInInspector]_LightingAddDetailShadowStrengthA ("Additive A Strength", Range(0, 1)) = 0
 		[HideInInspector][ThryWideEnum(Off, 0, 1R, 1, 1G, 2, 1B, 3, 1A, 4, 2R, 5, 2G, 6, 2B, 7, 2A, 8, 3R, 9, 3G, 10, 3B, 11, 3A, 12, 4R, 13, 4G, 14, 4B, 15, 4A, 16)] _LightDataDetailShadowGlobalMaskR ("Global Mask--{reference_property:_LightDataDetailShadowGlobalMaskBlendTypeR}", Int) = 0
 		[HideInInspector][ThryWideEnum(Add, 7, Subtract, 1, Multiply, 2, Divide, 3, Min, 4, Max, 5, Average, 6, Replace, 0)] _LightDataDetailShadowGlobalMaskBlendTypeR ("Blending", Range(0, 1)) = 2
-		[sRGBWarning]_LightingShadowMasks ("Shadow Masks (expand)--{reference_properties:[_LightingShadowMasksPan, _LightingShadowMasksUV,_LightingShadowMaskStrengthR,_LightingShadowMaskStrengthG,_LightingShadowMaskStrengthB,_LightingShadowMaskStrengthA, _LightDataShadowMaskGlobalMaskR]}", 2D) = "white" { }
+		[sRGBWarning][ThryRGBAPacker(R, G, B, A, Linear, false)]_LightingShadowMasks ("Shadow Masks (expand)--{reference_properties:[_LightingShadowMasksPan, _LightingShadowMasksUV,_LightingShadowMaskStrengthR,_LightingShadowMaskStrengthG,_LightingShadowMaskStrengthB,_LightingShadowMaskStrengthA, _LightDataShadowMaskGlobalMaskR]}", 2D) = "white" { }
 		[HideInInspector][Vector2]_LightingShadowMasksPan ("Panning", Vector) = (0, 0, 0, 0)
 		[HideInInspector][ThryWideEnum(UV0, 0, UV1, 1, UV2, 2, UV3, 3, Panosphere, 4, World Pos, 5, Local Pos, 8, Polar UV, 6, Distorted UV, 7)] _LightingShadowMasksUV ("UV", Int) = 0
 		[HideInInspector]_LightingShadowMaskStrengthR ("R Strength", Range(0, 1)) = 1
@@ -136,7 +124,7 @@ Shader "Hidden/Locked/.poiyomi/Poiyomi Toon/80148176cf016644d87d45345297084a"
 		_LightingCastedShadows ("Receive Casted Shadows", Range(0, 1)) = 0
 		_LightingMonochromatic ("Grayscale Lighting", Range(0, 1)) = 0
 		[ToggleUI]_LightingVertexLightingEnabled ("Vertex lights (Non-Important)", Float) = 1
-		[ToggleUI]_LightingMirrorVertexLightingEnabled ("Mirror Vertex lights (Non-Important)", Float) = 0
+		[ToggleUI]_LightingMirrorVertexLightingEnabled ("Mirror Vertex lights (Non-Important)", Float) = 1
 		[HideInInspector] s_end_LightDataBasePass ("Base Pass", Float) = 1
 		[HideInInspector] s_start_LightDataAddPass ("Add Pass (Point & Spot lights)--{persistent_expand:true,default_expand:true}", Float) = 1
 		[ToggleUI]_LightingAdditiveEnable ("Pixel lights (Important)", Float) = 1
@@ -252,8 +240,9 @@ Shader "Hidden/Locked/.poiyomi/Poiyomi Toon/80148176cf016644d87d45345297084a"
 		_EmissionStrength ("Emission Strength", Range(0, 20)) = 0
 		[ToggleUI]_EmissionBaseColorAsMap ("Use Base Colors", Float) = 0
 		[ToggleUI]_EmissionReplace0 ("Override Base Color", Float) = 0
-		[HideInInspector] s_start_EmissionHueShift0 ("Hue Shift--{reference_property:_EmissionHueShiftEnabled,persistent_expand:true,default_expand:false}", Float) = 0
+		[HideInInspector] s_start_EmissionHueShift0 ("Color Adjust--{reference_property:_EmissionHueShiftEnabled,persistent_expand:true,default_expand:false}", Float) = 0
 		[HideInInspector][ToggleUI]_EmissionHueShiftEnabled ("Hue Shift", Float) = 0
+		_EmissionSaturation("Saturation", Range(-1, 10)) = 0
 		_EmissionHueShift ("Hue Shift", Range(0, 1)) = 0
 		_EmissionHueShiftSpeed ("Hue Shift Speed", Float) = 0
 		[HideInInspector] s_end_EmissionHueShift0 ("", Float) = 0
@@ -367,7 +356,7 @@ Shader "Hidden/Locked/.poiyomi/Poiyomi Toon/80148176cf016644d87d45345297084a"
 		_ALDecalVolumeColorHigh ("Volume Color High--{reference_property:_ALDecalVolumeColorHighThemeIndex}", Color) = (1, 0, 0)
 		[HideInInspector][ThryWideEnum(Off, 0, Theme Color 0, 1, Theme Color 1, 2, Theme Color 2, 3, Theme Color 3, 4, ColorChord 0, 5, ColorChord 1, 6, ColorChord 2, 7, ColorChord 3, 8, AL Theme 0, 9, AL Theme 1, 10, AL Theme 2, 11, AL Theme 3, 12)] _ALDecalVolumeColorHighThemeIndex ("", Int) = 0
 		_ALDecalHighEmission ("High Emission", Range(0, 20)) = 0
-		[ThryWideEnum(Replace, 0, Multiply, 2, Screen, 6, Subtract, 7, Add, 8, Overlay, 9, Mixed, 20)]_ALDecalBlendType ("Blend Type", Range(0, 1)) = 0
+		[ThryWideEnum(Replace, 0, Darken, 1, Multiply, 2, Lighten, 5, Screen, 6, Subtract, 7, Add, 8, Overlay, 9, Mixed, 20)]_ALDecalBlendType ("Blend Type", Range(0, 1)) = 0
 		_ALDecalBlendAlpha ("Alpha", Range(0, 1)) = 1
 		_ALDecalControlsAlpha ("Override Alpha", Range(0, 1)) = 0
 		[ThryWideEnum(Off, 0, 1R, 1, 1G, 2, 1B, 3, 1A, 4, 2R, 5, 2G, 6, 2B, 7, 2A, 8, 3R, 9, 3G, 10, 3B, 11, 3A, 12, 4R, 13, 4G, 14, 4B, 15, 4A, 16)] _ALDecalGlobalMask ("Global Mask--{reference_property:_ALDecalGlobalMaskBlendType}", Int) = 0
@@ -377,7 +366,7 @@ Shader "Hidden/Locked/.poiyomi/Poiyomi Toon/80148176cf016644d87d45345297084a"
 		[HideInInspector][ThryToggle(POI_AL_VOLUMECOLOR)]_EnableVolumeColor ("Enable AL Volume Color", Float) = 0
 		[Enum(UV0, 0, UV1, 1, UV2, 2, UV3, 3)] _ALVolumeColorUV ("UV", Int) = 0
 		[Enum(X, 0, Y, 1)] _ALVolumeColorDirection ("UV Direction", Int) = 0
-		[ThryWideEnum(Replace, 0, Multiply, 2, Screen, 6, Subtract, 7, Add, 8, Overlay, 9, Mixed, 20)]_ALVolumeColorBlendType ("Blend Type", Range(0, 1)) = 0
+		[ThryWideEnum(Replace, 0, Darken, 1, Multiply, 2, Lighten, 5, Screen, 6, Subtract, 7, Add, 8, Overlay, 9, Mixed, 20)]_ALVolumeColorBlendType ("Blend Type", Range(0, 1)) = 0
 		_ALVolumeColorBlendAlpha ("Alpha", Range(0,1)) = 1
 		_ALVolumeColorLow ("Volume Color Low--{reference_property:_ALVolumeColorLowThemeIndex}", Color) = (0, 0, 1)
 		[HideInInspector][ThryWideEnum(Off, 0, Theme Color 0, 1, Theme Color 1, 2, Theme Color 2, 3, Theme Color 3, 4, ColorChord 0, 5, ColorChord 1, 6, ColorChord 2, 7, ColorChord 3, 8, AL Theme 0, 9, AL Theme 1, 10, AL Theme 2, 11, AL Theme 3, 12)] _ALVolumeColorLowThemeIndex ("", Int) = 0
@@ -584,6 +573,7 @@ Shader "Hidden/Locked/.poiyomi/Poiyomi Toon/80148176cf016644d87d45345297084a"
 			#pragma fragment frag
 			#define DielectricSpec float4(0.04, 0.04, 0.04, 1.0 - 0.04)
 			#define PI float(3.14159265359)
+			#define Epsilon float(1e-10)
 			#define POI2D_SAMPLE_TEX2D_SAMPLERGRAD(tex, samplertex, coord, dx, dy) tex.SampleGrad(sampler##samplertex, coord, dx, dy)
 			#define POI2D_SAMPLE_TEX2D_SAMPLERGRADD(tex, samp, uv, pan, dx, dy) tex.SampleGrad(samp, POI_PAN_UV(uv, pan), dx, dy)
 			#define POI_PAN_UV(uv, pan) (uv + _Time.x * pan)
@@ -622,33 +612,34 @@ Shader "Hidden/Locked/.poiyomi/Poiyomi Toon/80148176cf016644d87d45345297084a"
 			#define POI_MODE_MULTIPLICATIVE 6
 			#define POI_MODE_2XMULTIPLICATIVE 7
 			#define POI_MODE_TRANSCLIPPING 9
-			#define ALPASS_DFT                      uint2(0,4)   //Size: 128, 2
-			#define ALPASS_WAVEFORM                 uint2(0,6)   //Size: 128, 16
-			#define ALPASS_AUDIOLINK                uint2(0,0)   //Size: 128, 4
-			#define ALPASS_AUDIOBASS                uint2(0,0)   //Size: 128, 1
-			#define ALPASS_AUDIOLOWMIDS             uint2(0,1)   //Size: 128, 1
-			#define ALPASS_AUDIOHIGHMIDS            uint2(0,2)   //Size: 128, 1
-			#define ALPASS_AUDIOTREBLE              uint2(0,3)   //Size: 128, 1
-			#define ALPASS_AUDIOLINKHISTORY         uint2(1,0)   //Size: 127, 4
-			#define ALPASS_GENERALVU                uint2(0,22)  //Size: 12, 1
-			#define ALPASS_CCINTERNAL               uint2(12,22) //Size: 12, 2
-			#define ALPASS_CCCOLORS                 uint2(25,22) //Size: 11, 1
-			#define ALPASS_CCSTRIP                  uint2(0,24)  //Size: 128, 1
-			#define ALPASS_CCLIGHTS                 uint2(0,25)  //Size: 128, 2
-			#define ALPASS_AUTOCORRELATOR           uint2(0,27)  //Size: 128, 1
-			#define ALPASS_GENERALVU_INSTANCE_TIME  uint2(2,22)
-			#define ALPASS_GENERALVU_LOCAL_TIME     uint2(3,22)
-			#define ALPASS_GENERALVU_NETWORK_TIME   uint2(4,22)
-			#define ALPASS_GENERALVU_PLAYERINFO     uint2(6,22)
-			#define ALPASS_FILTEREDAUDIOLINK        uint2(0,28)  //Size: 16, 4
-			#define ALPASS_CHRONOTENSITY            uint2(16,28) //Size: 8, 4
-			#define ALPASS_THEME_COLOR0             uint2(0,23)
-			#define ALPASS_THEME_COLOR1             uint2(1,23)
-			#define ALPASS_THEME_COLOR2             uint2(2,23)
-			#define ALPASS_THEME_COLOR3             uint2(3,23)
-			#define ALPASS_FILTEREDVU               uint2(24,28) //Size: 4, 4
-			#define ALPASS_FILTEREDVU_INTENSITY     uint2(24,28) //Size: 4, 1
-			#define ALPASS_FILTEREDVU_MARKER        uint2(24,29) //Size: 4, 1
+			#ifdef POI_AUDIOLINK
+			#define ALPASS_DFT                      uint2(0, 4)   //Size: 128, 2
+			#define ALPASS_WAVEFORM                 uint2(0, 6)   //Size: 128, 16
+			#define ALPASS_AUDIOLINK                uint2(0, 0)   //Size: 128, 4
+			#define ALPASS_AUDIOBASS                uint2(0, 0)   //Size: 128, 1
+			#define ALPASS_AUDIOLOWMIDS             uint2(0, 1)   //Size: 128, 1
+			#define ALPASS_AUDIOHIGHMIDS            uint2(0, 2)   //Size: 128, 1
+			#define ALPASS_AUDIOTREBLE              uint2(0, 3)   //Size: 128, 1
+			#define ALPASS_AUDIOLINKHISTORY         uint2(1, 0)   //Size: 127, 4
+			#define ALPASS_GENERALVU                uint2(0, 22)  //Size: 12, 1
+			#define ALPASS_CCINTERNAL               uint2(12, 22) //Size: 12, 2
+			#define ALPASS_CCCOLORS                 uint2(25, 22) //Size: 11, 1
+			#define ALPASS_CCSTRIP                  uint2(0, 24)  //Size: 128, 1
+			#define ALPASS_CCLIGHTS                 uint2(0, 25)  //Size: 128, 2
+			#define ALPASS_AUTOCORRELATOR           uint2(0, 27)  //Size: 128, 1
+			#define ALPASS_GENERALVU_INSTANCE_TIME  uint2(2, 22)
+			#define ALPASS_GENERALVU_LOCAL_TIME     uint2(3, 22)
+			#define ALPASS_GENERALVU_NETWORK_TIME   uint2(4, 22)
+			#define ALPASS_GENERALVU_PLAYERINFO     uint2(6, 22)
+			#define ALPASS_FILTEREDAUDIOLINK        uint2(0, 28)  //Size: 16, 4
+			#define ALPASS_CHRONOTENSITY            uint2(16, 28) //Size: 8, 4
+			#define ALPASS_THEME_COLOR0             uint2(0, 23)
+			#define ALPASS_THEME_COLOR1             uint2(1, 23)
+			#define ALPASS_THEME_COLOR2             uint2(2, 23)
+			#define ALPASS_THEME_COLOR3             uint2(3, 23)
+			#define ALPASS_FILTEREDVU               uint2(24, 28) //Size: 4, 4
+			#define ALPASS_FILTEREDVU_INTENSITY     uint2(24, 28) //Size: 4, 1
+			#define ALPASS_FILTEREDVU_MARKER        uint2(24, 29) //Size: 4, 1
 			#define AUDIOLINK_SAMPHIST              3069        // Internal use for algos, do not change.
 			#define AUDIOLINK_SAMPLEDATA24          2046
 			#define AUDIOLINK_EXPBINS               24
@@ -687,7 +678,7 @@ Shader "Hidden/Locked/.poiyomi/Poiyomi Toon/80148176cf016644d87d45345297084a"
 			#endif
 			uniform sampler2D _Stored;
 			uniform float4 _Stored_TexelSize;
-			#define LumaData(x,y) tex2Dlod(_Stored, float4(x, y, 0, 0))
+			#endif
 			float _GrabMode;
 			float _Mode;
 			float _StochasticDeliotHeitzDensity;
@@ -970,6 +961,7 @@ Shader "Hidden/Locked/.poiyomi/Poiyomi Toon/80148176cf016644d87d45345297084a"
 			float _EmissionBaseColorAsMap;
 			float _EmissionStrength;
 			float _EmissionHueShiftEnabled;
+			float _EmissionSaturation;
 			float _EmissionHueShift;
 			float _EmissionHueShiftSpeed;
 			float _EmissionCenterOutEnabled;
@@ -1136,7 +1128,6 @@ Shader "Hidden/Locked/.poiyomi/Poiyomi Toon/80148176cf016644d87d45345297084a"
 				float audioLinkAvailable;
 				float audioLinkVersion;
 				float4 audioLinkTexture;
-				float audioLinkViaLuma;
 				float2 detailMask;
 				float2 backFaceDetailIntensity;
 				float globalEmission;
@@ -1184,7 +1175,7 @@ Shader "Hidden/Locked/.poiyomi/Poiyomi Toon/80148176cf016644d87d45345297084a"
 				float3 vColor[4];
 				float4 vCorrectedDotNL;
 				float4 vAttenuation;
-				float4 vAttenuationDotNL;
+				float4 vSaturatedDotNL;
 				float3 vPosition[4];
 				float3 vDirection[4];
 				float3 vFinalLighting;
@@ -1626,7 +1617,9 @@ Shader "Hidden/Locked/.poiyomi/Poiyomi Toon/80148176cf016644d87d45345297084a"
 				switch(blendType)
 				{
 					case 0: output = lerp(base, blend, alpha); break;
+					case 1: output = lerp(base, blendDarken(base, blend), alpha); break;
 					case 2: output = base * lerp(1, blend, alpha); break;
+					case 5: output = lerp(base, blendLighten(base, blend), alpha); break;
 					case 6: output = lerp(base, blendScreen(base, blend), alpha); break;
 					case 7: output = blendSubtract(base, blend * alpha); break;
 					case 8: output = lerp(base, blendLinearDodge(base, blend), alpha); break;
@@ -1643,6 +1636,7 @@ Shader "Hidden/Locked/.poiyomi/Poiyomi Toon/80148176cf016644d87d45345297084a"
 				{
 					case 0: output = lerp(base, blend, alpha); break;
 					case 2: output = base * lerp(1, blend, alpha); break;
+					case 5: output = lerp(base, blendLighten(base, blend), alpha); break;
 					case 6: output = lerp(base, blendScreen(base, blend), alpha); break;
 					case 7: output = blendSubtract(base, blend * alpha); break;
 					case 8: output = lerp(base, blendLinearDodge(base, blend), alpha); break;
@@ -1741,7 +1735,6 @@ Shader "Hidden/Locked/.poiyomi/Poiyomi Toon/80148176cf016644d87d45345297084a"
 				uint index = (uint(uv.x) % 4) * 4 + uint(uv.y) % 4;
 				Out = In - DITHER_THRESHOLDS[index];
 			}
-			static const float Epsilon = 1e-10;
 			static const float3 HCYwts = float3(0.299, 0.587, 0.114);
 			static const float HCLgamma = 3;
 			static const float HCLy0 = 100;
@@ -2074,19 +2067,25 @@ Shader "Hidden/Locked/.poiyomi/Poiyomi Toon/80148176cf016644d87d45345297084a"
 			}
 			float3 poiThemeColor(in PoiMods poiMods, in float3 srcColor, in float themeIndex)
 			{
-				if (themeIndex == 0) return srcColor;
-				themeIndex -= 1;
-				if (themeIndex <= 3)
+				float3 outputColor = srcColor;
+				if (themeIndex != 0)
 				{
-					return poiMods.globalColorTheme[themeIndex];
+					themeIndex = max(themeIndex - 1, 0);
+					if (themeIndex <= 3)
+					{
+						outputColor = poiMods.globalColorTheme[themeIndex];
+					}
+					else
+					{
+						#ifdef POI_AUDIOLINK
+						if (poiMods.audioLinkAvailable)
+						{
+							outputColor = poiMods.globalColorTheme[themeIndex];
+						}
+						#endif
+					}
 				}
-				#ifdef POI_AUDIOLINK
-				if (poiMods.audioLinkAvailable)
-				{
-					return poiMods.globalColorTheme[themeIndex];
-				}
-				#endif
-				return srcColor;
+				return outputColor;
 			}
 			float3 lilToneCorrection(float3 c, float4 hsvg)
 			{
@@ -2103,11 +2102,11 @@ Shader "Hidden/Locked/.poiyomi/Poiyomi Toon/80148176cf016644d87d45345297084a"
 			{
 				float3 ad = dstCol + srcCol;
 				float3 mu = dstCol * srcCol;
-				float3 outCol;
-				if (blendMode == 0) outCol = srcCol;               // Normal
-				if (blendMode == 1) outCol = ad;                   // Add
+				float3 outCol = float3(0, 0, 0);
+				if (blendMode == 0) outCol = srcCol; // Normal
+				if (blendMode == 1) outCol = ad; // Add
 				if (blendMode == 2) outCol = max(ad - mu, dstCol); // Screen
-				if (blendMode == 3) outCol = mu;                   // Multiply
+				if (blendMode == 3) outCol = mu; // Multiply
 				return lerp(dstCol, outCol, srcA);
 			}
 			float lilIsIn0to1(float f)
@@ -2225,7 +2224,7 @@ Shader "Hidden/Locked/.poiyomi/Poiyomi Toon/80148176cf016644d87d45345297084a"
 			float3 MaxLuminance(float3 rgb, float maxLuminance)
 			{
 				float currentLuminance = dot(rgb, float3(0.299, 0.587, 0.114));
-				float luminanceRatio = (currentLuminance != 0) ? maxLuminance / currentLuminance : 1.0;
+				float luminanceRatio = (currentLuminance != 0) ? maxLuminance / max(currentLuminance, 0.00001) : 1.0;
 				return lerp(rgb, rgb * luminanceRatio, currentLuminance > maxLuminance);
 			}
 			float OpenLitGray(float3 rgb)
@@ -2359,9 +2358,9 @@ Shader "Hidden/Locked/.poiyomi/Poiyomi Toon/80148176cf016644d87d45345297084a"
 			}
 			float snoise(float2 v)
 			{
-				const float4 C = float4(0.211324865405187, // (3.0-sqrt(3.0))/6.0
-				0.366025403784439, // 0.5*(sqrt(3.0)-1.0)
-				- 0.577350269189626, // -1.0 + 2.0 * C.x
+				const float4 C = float4(0.211324865405187, // (3.0 - sqrt(3.0)) / 6.0
+				0.366025403784439, // 0.5 * (sqrt(3.0) - 1.0)
+				- 0.577350269189626, // - 1.0 + 2.0 * C.x
 				0.024390243902439); // 1.0 / 41.0
 				float2 i = floor(v + dot(v, C.yy));
 				float2 x0 = v - i + dot(i, C.xx);
@@ -2415,9 +2414,18 @@ Shader "Hidden/Locked/.poiyomi/Poiyomi Toon/80148176cf016644d87d45345297084a"
 				return float2(width, height);
 			}
 			#ifdef POI_AUDIOLINK
-			float4 AudioLinkDataMultiline(uint2 xycoord) { return AudioLinkData(uint2(xycoord.x % AUDIOLINK_WIDTH, xycoord.y + xycoord.x/AUDIOLINK_WIDTH)); }
-			float4 AudioLinkLerp(float2 xy) { return lerp( AudioLinkData(xy), AudioLinkData(xy+int2(1,0)), frac( xy.x ) ); }
-			float4 AudioLinkLerpMultiline(float2 xy) { return lerp(AudioLinkDataMultiline(xy), AudioLinkDataMultiline(xy+float2(1,0)), frac(xy.x)); }
+			float4 AudioLinkDataMultiline(uint2 xycoord)
+			{
+				return AudioLinkData(uint2(xycoord.x % AUDIOLINK_WIDTH, xycoord.y + xycoord.x / AUDIOLINK_WIDTH));
+			}
+			float4 AudioLinkLerp(float2 xy)
+			{
+				return lerp(AudioLinkData(xy), AudioLinkData(xy + int2(1, 0)), frac(xy.x));
+			}
+			float4 AudioLinkLerpMultiline(float2 xy)
+			{
+				return lerp(AudioLinkDataMultiline(xy), AudioLinkDataMultiline(xy + float2(1, 0)), frac(xy.x));
+			}
 			bool AudioLinkIsAvailable()
 			{
 				#if !defined(AUDIOLINK_STANDARD_INDEXING)
@@ -2447,16 +2455,19 @@ Shader "Hidden/Locked/.poiyomi/Poiyomi Toon/80148176cf016644d87d45345297084a"
 			uint AudioLinkDecodeDataAsUInt(uint2 indexloc)
 			{
 				uint4 rpx = AudioLinkData(indexloc);
-				return rpx.r + rpx.g*1024 + rpx.b * 1048576 + rpx.a * 1073741824;
+				return rpx.r + rpx.g * 1024 + rpx.b * 1048576 + rpx.a * 1073741824;
 			}
 			float AudioLinkDecodeDataAsSeconds(uint2 indexloc)
 			{
 				uint time = AudioLinkDecodeDataAsUInt(indexloc) & 0x7ffffff;
-				return float(time / 1000) + float( time % 1000 ) / 1000.;
+				return float(time / 1000) + float(time % 1000) / 1000.;
 			}
-			#define ALDecodeDataAsSeconds( x ) AudioLinkDecodeDataAsSeconds( x )
-			#define ALDecodeDataAsUInt( x ) AudioLinkDecodeDataAsUInt( x )
-			float AudioLinkRemap(float t, float a, float b, float u, float v) { return ((t-a) / (b-a)) * (v-u) + u; }
+			#define ALDecodeDataAsSeconds(x) AudioLinkDecodeDataAsSeconds(x)
+			#define ALDecodeDataAsUInt(x) AudioLinkDecodeDataAsUInt(x)
+			float AudioLinkRemap(float t, float a, float b, float u, float v)
+			{
+				return ((t - a) / (b - a)) * (v - u) + u;
+			}
 			float3 AudioLinkHSVtoRGB(float3 HSV)
 			{
 				float3 RGB = 0;
@@ -2466,12 +2477,30 @@ Shader "Hidden/Locked/.poiyomi/Poiyomi Toon/80148176cf016644d87d45345297084a"
 				if (HSV.y != 0)
 				{
 					float I = floor(H);
-					if (I == 0) { RGB = float3(C, X, 0); }
-					else if (I == 1) { RGB = float3(X, C, 0); }
-					else if (I == 2) { RGB = float3(0, C, X); }
-					else if (I == 3) { RGB = float3(0, X, C); }
-					else if (I == 4) { RGB = float3(X, 0, C); }
-					else { RGB = float3(C, 0, X); }
+					if (I == 0)
+					{
+						RGB = float3(C, X, 0);
+					}
+					else if (I == 1)
+					{
+						RGB = float3(X, C, 0);
+					}
+					else if (I == 2)
+					{
+						RGB = float3(0, C, X);
+					}
+					else if (I == 3)
+					{
+						RGB = float3(0, X, C);
+					}
+					else if (I == 4)
+					{
+						RGB = float3(X, 0, C);
+					}
+					else
+					{
+						RGB = float3(C, 0, X);
+					}
 				}
 				float M = HSV.z - C;
 				return RGB + M;
@@ -2483,13 +2512,13 @@ Shader "Hidden/Locked/.poiyomi/Poiyomi Toon/80148176cf016644d87d45345297084a"
 				note *= 12.0;
 				note = glsl_mod(4. - note + rootNote, 12.0);
 				{
-					if(note < 4.0)
+					if (note < 4.0)
 					{
 						hue = (note) / 24.0;
 					}
-					else if(note < 8.0)
+					else if (note < 8.0)
 					{
-						hue = (note-2.0) / 12.0;
+						hue = (note - 2.0) / 12.0;
 					}
 					else
 					{
@@ -2523,20 +2552,14 @@ Shader "Hidden/Locked/.poiyomi/Poiyomi Toon/80148176cf016644d87d45345297084a"
 			}
 			float getBandAtTime(float band, float time, float size = 1.0f)
 			{
-				return remapClamped(min(size,.9999), 1, AudioLinkData(ALPASS_AUDIOBASS + uint2(time * AUDIOLINK_WIDTH,band)).r);
+				return remapClamped(min(size, .9999), 1, AudioLinkData(ALPASS_AUDIOBASS + uint2(time * AUDIOLINK_WIDTH, band)).r);
 			}
-			fixed3 maximize(fixed3 c) {
+			fixed3 maximize(fixed3 c)
+			{
 				if (c.x == 0 && c.y == 0 && c.z == 0)
 				return fixed3(1.0, 1.0, 1.0);
 				else
 				return c / max(c.r, max(c.g, c.b));
-			}
-			bool LumaIsAvailable()
-			{
-				return LumaData(0.629, 0.511).r > 0.9;
-			}
-			float3 getLumaGradient(uint index, float offset) {
-				return LumaData(0.57 + (index * 0.11) + lerp(0, 0.107, offset), 0.493);
 			}
 			void initPoiAudioLink(inout PoiMods poiMods)
 			{
@@ -2545,22 +2568,22 @@ Shader "Hidden/Locked/.poiyomi/Poiyomi Toon/80148176cf016644d87d45345297084a"
 				{
 					poiMods.audioLinkAvailable = true;
 					poiMods.audioLinkVersion = AudioLinkGetVersion();
-					poiMods.audioLink[0] = (0.0 /*_AudioLinkSmoothingBass*/)    == 0 ? AudioLinkData(ALPASS_AUDIOLINK + float2(0, 0))[0] : AudioLinkData(ALPASS_FILTEREDAUDIOLINK + float2((1 - (0.0 /*_AudioLinkSmoothingBass*/)   ) * 15.95, 0))[0];
-					poiMods.audioLink[1] = (0.0 /*_AudioLinkSmoothingLowMid*/)  == 0 ? AudioLinkData(ALPASS_AUDIOLINK + float2(0, 1))[0] : AudioLinkData(ALPASS_FILTEREDAUDIOLINK + float2((1 - (0.0 /*_AudioLinkSmoothingLowMid*/) ) * 15.95, 1))[0];
+					poiMods.audioLink[0] = (0.0 /*_AudioLinkSmoothingBass*/) == 0 ? AudioLinkData(ALPASS_AUDIOLINK + float2(0, 0))[0] : AudioLinkData(ALPASS_FILTEREDAUDIOLINK + float2((1 - (0.0 /*_AudioLinkSmoothingBass*/)) * 15.95, 0))[0];
+					poiMods.audioLink[1] = (0.0 /*_AudioLinkSmoothingLowMid*/) == 0 ? AudioLinkData(ALPASS_AUDIOLINK + float2(0, 1))[0] : AudioLinkData(ALPASS_FILTEREDAUDIOLINK + float2((1 - (0.0 /*_AudioLinkSmoothingLowMid*/)) * 15.95, 1))[0];
 					poiMods.audioLink[2] = (0.0 /*_AudioLinkSmoothingHighMid*/) == 0 ? AudioLinkData(ALPASS_AUDIOLINK + float2(0, 2))[0] : AudioLinkData(ALPASS_FILTEREDAUDIOLINK + float2((1 - (0.0 /*_AudioLinkSmoothingHighMid*/)) * 15.95, 2))[0];
-					poiMods.audioLink[3] = (0.0 /*_AudioLinkSmoothingTreble*/)  == 0 ? AudioLinkData(ALPASS_AUDIOLINK + float2(0, 3))[0] : AudioLinkData(ALPASS_FILTEREDAUDIOLINK + float2((1 - (0.0 /*_AudioLinkSmoothingTreble*/) ) * 15.95, 3))[0];
+					poiMods.audioLink[3] = (0.0 /*_AudioLinkSmoothingTreble*/) == 0 ? AudioLinkData(ALPASS_AUDIOLINK + float2(0, 3))[0] : AudioLinkData(ALPASS_FILTEREDAUDIOLINK + float2((1 - (0.0 /*_AudioLinkSmoothingTreble*/)) * 15.95, 3))[0];
 					poiMods.audioLink[4] = AudioLinkData(ALPASS_GENERALVU + float2(8, 0))[0];
-					poiMods.globalColorTheme[4] =  float4(AudioLinkCCtoRGB(glsl_mod(AudioLinkData(ALPASS_CCINTERNAL + uint2(2, 0))[0], AUDIOLINK_EXPBINS), 1, AUDIOLINK_ROOTNOTE), 1.0);
-					poiMods.globalColorTheme[5] =  float4(AudioLinkCCtoRGB(glsl_mod(AudioLinkData(ALPASS_CCINTERNAL + uint2(3, 0))[0], AUDIOLINK_EXPBINS), 1, AUDIOLINK_ROOTNOTE), 1.0);
-					poiMods.globalColorTheme[6] =  float4(AudioLinkCCtoRGB(glsl_mod(AudioLinkData(ALPASS_CCINTERNAL + uint2(4, 0))[0], AUDIOLINK_EXPBINS), 1, AUDIOLINK_ROOTNOTE), 1.0);
-					poiMods.globalColorTheme[7] =  float4(AudioLinkCCtoRGB(glsl_mod(AudioLinkData(ALPASS_CCINTERNAL + uint2(5, 0))[0], AUDIOLINK_EXPBINS), 1, AUDIOLINK_ROOTNOTE), 1.0);
+					poiMods.globalColorTheme[4] = float4(AudioLinkCCtoRGB(glsl_mod(AudioLinkData(ALPASS_CCINTERNAL + uint2(2, 0))[0], AUDIOLINK_EXPBINS), 1, AUDIOLINK_ROOTNOTE), 1.0);
+					poiMods.globalColorTheme[5] = float4(AudioLinkCCtoRGB(glsl_mod(AudioLinkData(ALPASS_CCINTERNAL + uint2(3, 0))[0], AUDIOLINK_EXPBINS), 1, AUDIOLINK_ROOTNOTE), 1.0);
+					poiMods.globalColorTheme[6] = float4(AudioLinkCCtoRGB(glsl_mod(AudioLinkData(ALPASS_CCINTERNAL + uint2(4, 0))[0], AUDIOLINK_EXPBINS), 1, AUDIOLINK_ROOTNOTE), 1.0);
+					poiMods.globalColorTheme[7] = float4(AudioLinkCCtoRGB(glsl_mod(AudioLinkData(ALPASS_CCINTERNAL + uint2(5, 0))[0], AUDIOLINK_EXPBINS), 1, AUDIOLINK_ROOTNOTE), 1.0);
 					poiMods.globalColorTheme[8] = AudioLinkData(ALPASS_THEME_COLOR0);
 					poiMods.globalColorTheme[9] = AudioLinkData(ALPASS_THEME_COLOR1);
 					poiMods.globalColorTheme[10] = AudioLinkData(ALPASS_THEME_COLOR2);
 					poiMods.globalColorTheme[11] = AudioLinkData(ALPASS_THEME_COLOR3);
 					return;
 				}
-				if((0.0 /*_AudioLinkBandOverridesEnabled*/))
+				if ((0.0 /*_AudioLinkBandOverridesEnabled*/))
 				{
 					poiMods.audioLinkAvailable = true;
 					poiMods.audioLink[0] = float4(0,0,0,0).x;
@@ -2568,69 +2591,62 @@ Shader "Hidden/Locked/.poiyomi/Poiyomi Toon/80148176cf016644d87d45345297084a"
 					poiMods.audioLink[2] = float4(0,0,0,0).z;
 					poiMods.audioLink[3] = float4(0,0,0,0).w;
 				}
-				if (LumaIsAvailable())
-				{
-					float4 audioPixel = LumaData(0.578, 0.515);
-					float audioLows = audioPixel.r;
-					float audioHighs = audioPixel.g;
-					float4 zone1 = LumaData(0.856, 0.522);
-					float4 zone2 = LumaData(0.856, 0.507);
-					float4 zone3 = LumaData(0.864, 0.522);
-					float4 zone4 = LumaData(0.864, 0.507);
-					poiMods.audioLinkAvailable = true;
-					poiMods.audioLinkViaLuma = true;
-					poiMods.audioLink[0] = audioLows;
-					poiMods.audioLink[1] = audioLows;
-					poiMods.audioLink[2] = audioHighs;
-					poiMods.audioLink[3] = audioHighs;
-					poiMods.globalColorTheme[8] = zone1;
-					poiMods.globalColorTheme[9] = zone2;
-					poiMods.globalColorTheme[10] = zone3;
-					poiMods.globalColorTheme[11] = zone4;
-				}
 			}
-			void DebugVisualizer(inout PoiFragData poiFragData, in PoiMesh poiMesh, in PoiMods poiMods){
-				if (_DebugWaveform){
-					float waveform = AudioLinkLerpMultiline(ALPASS_WAVEFORM + float2( 500. * poiMesh.uv[0].x, 0)).r;
+			void DebugVisualizer(inout PoiFragData poiFragData, in PoiMesh poiMesh, in PoiMods poiMods)
+			{
+				if (_DebugWaveform)
+				{
+					float waveform = AudioLinkLerpMultiline(ALPASS_WAVEFORM + float2(500. * poiMesh.uv[0].x, 0)).r;
 					poiFragData.emission += clamp(1 - 50 * abs(waveform - poiMesh.uv[0].y * 2. + 1), 0, 1);
 				}
-				if (_DebugDFT){
+				if (_DebugDFT)
+				{
 					poiFragData.emission += AudioLinkLerpMultiline(ALPASS_DFT + uint2(poiMesh.uv[0].x * AUDIOLINK_ETOTALBINS, 0)).rrr;
 				}
-				if (_DebugBass){
+				if (_DebugBass)
+				{
 					poiFragData.emission += poiMods.audioLink[0];
 				}
-				if (_DebugLowMids){
+				if (_DebugLowMids)
+				{
 					poiFragData.emission += poiMods.audioLink[1];
 				}
-				if (_DebugHighMids){
+				if (_DebugHighMids)
+				{
 					poiFragData.emission += poiMods.audioLink[2];
 				}
-				if (_DebugTreble){
+				if (_DebugTreble)
+				{
 					poiFragData.emission += poiMods.audioLink[3];
 				}
-				if (_DebugCCColors){
+				if (_DebugCCColors)
+				{
 					poiFragData.emission += AudioLinkData(ALPASS_CCCOLORS + uint2(3 + 1, 0));
 				}
-				if (_DebugCCStrip){
+				if (_DebugCCStrip)
+				{
 					poiFragData.emission += AudioLinkLerp(ALPASS_CCSTRIP + float2(poiMesh.uv[0].x * AUDIOLINK_WIDTH, 0));
 				}
-				if (_DebugCCLights){
+				if (_DebugCCLights)
+				{
 					poiFragData.emission += AudioLinkData(ALPASS_CCLIGHTS + uint2(uint(poiMesh.uv[0].x * 8) + uint(poiMesh.uv[0].y * 16) * 8, 0));
 				}
-				if (_DebugAutocorrelator){
+				if (_DebugAutocorrelator)
+				{
 					poiFragData.emission += saturate(AudioLinkLerp(ALPASS_AUTOCORRELATOR + float2((abs(1. - poiMesh.uv[0].x * 2.)) * AUDIOLINK_WIDTH, 0)).rrr);
 				}
-				if (_DebugChronotensity){
-					poiFragData.emission += (AudioLinkDecodeDataAsUInt(ALPASS_CHRONOTENSITY  + uint2(1, 0)) % 1000000) / 1000000.0;
+				if (_DebugChronotensity)
+				{
+					poiFragData.emission += (AudioLinkDecodeDataAsUInt(ALPASS_CHRONOTENSITY + uint2(1, 0)) % 1000000) / 1000000.0;
 				}
 			}
-			void SetupAudioLink(inout PoiFragData poiFragData, inout PoiMods poiMods, in PoiMesh poiMesh){
+			void SetupAudioLink(inout PoiFragData poiFragData, inout PoiMods poiMods, in PoiMesh poiMesh)
+			{
 				initPoiAudioLink(poiMods);
 				DebugVisualizer(poiFragData, poiMesh, poiMods);
-				if(_AudioLinkCCStripY)
+				if (_AudioLinkCCStripY)
 				{
-					poiFragData.emission += AudioLinkLerp( ALPASS_CCSTRIP + float2( poiMesh.uv[0].y * AUDIOLINK_WIDTH, 0 ) ).rgb * .5;
+					poiFragData.emission += AudioLinkLerp(ALPASS_CCSTRIP + float2(poiMesh.uv[0].y * AUDIOLINK_WIDTH, 0)).rgb * .5;
 				}
 			}
 			#endif
@@ -2859,6 +2875,15 @@ Shader "Hidden/Locked/.poiyomi/Poiyomi Toon/80148176cf016644d87d45345297084a"
 					default: return 0; break;
 				}
 			}
+			void handleGlobalMaskDistance(int index, bool enable, bool type, float minAlpha, float maxAlpha, float min, float max, int blendType, in PoiMesh poiMesh, inout PoiMods poiMods)
+			{
+				if (enable)
+				{
+					float3 position = type ? poiMesh.worldPos : poiMesh.objectPosition;
+					float val = lerp(minAlpha, maxAlpha, smoothstep(min, max, distance(position, _WorldSpaceCameraPos)));
+					poiMods.globalMask[index] = saturate(customDistanceBlend(poiMods.globalMask[index], val, blendType));
+				}
+			}
 			void ApplyGlobalMaskModifiers(in PoiMesh poiMesh, inout PoiMods poiMods, in PoiCam poiCam)
 			{
 			}
@@ -3011,28 +3036,38 @@ Shader "Hidden/Locked/.poiyomi/Poiyomi Toon/80148176cf016644d87d45345297084a"
 				float attenuation = 1;
 				#if defined(POINT) || defined(SPOT)
 				shadowAttenuation = lerp(1, poiLight.additiveShadow, poiLight.attenuationStrength);
-				attenuation = poiLight.attenuation;
 				#endif
-				#ifdef UNITY_PASS_FORWARDADD
-				if ((3.0 /*_LightingAdditiveType*/) == 0) // Realistic
+				#ifdef POI_PASS_ADD
+				if ((3.0 /*_LightingAdditiveType*/) == 3)
+				{
+					#if defined(POINT) || defined(SPOT)
+					#if defined(_LIGHTINGMODE_REALISTIC) || defined(_LIGHTINGMODE_CLOTH) || defined(_LIGHTINGMODE_WRAPPED)
+					poiLight.rampedLightMap = max(0, poiLight.nDotL);
+					poiLight.finalLighting = poiLight.directColor * attenuation * max(0, poiLight.nDotL) * poiLight.detailShadow * shadowAttenuation;
+					return;
+					#endif
+					#endif
+				}
+				if ((3.0 /*_LightingAdditiveType*/) == 0)
 				{
 					poiLight.rampedLightMap = max(0, poiLight.nDotL);
 					poiLight.finalLighting = poiLight.directColor * attenuation * max(0, poiLight.nDotL) * poiLight.detailShadow * shadowAttenuation;
 					return;
 				}
-				else if ((3.0 /*_LightingAdditiveType*/) == 1) // Toon
+				if ((3.0 /*_LightingAdditiveType*/) == 1)
 				{
 					#if defined(POINT_COOKIE) || defined(DIRECTIONAL_COOKIE)
 					float passthrough = 0;
 					#else
 					float passthrough = (0.5 /*_LightingAdditivePassthrough*/);
 					#endif
-					if ((0.5 /*_LightingAdditiveGradientEnd*/) == (0.0 /*_LightingAdditiveGradientStart*/)) (0.5 /*_LightingAdditiveGradientEnd*/) += 0.001;
-					poiLight.rampedLightMap = smoothstep((0.5 /*_LightingAdditiveGradientEnd*/), (0.0 /*_LightingAdditiveGradientStart*/), 1 - (.5 * poiLight.nDotL + .5));
+					float2 ToonAddGradient = float2((0.0 /*_LightingAdditiveGradientStart*/), (0.5 /*_LightingAdditiveGradientEnd*/));
+					if (ToonAddGradient.x == ToonAddGradient.y) ToonAddGradient.y += 0.0001;
+					poiLight.rampedLightMap = smoothstep(ToonAddGradient.y, ToonAddGradient.x, 1 - (.5 * poiLight.nDotL + .5));
 					#if defined(POINT) || defined(SPOT)
-					poiLight.finalLighting = lerp(poiLight.directColor * max(min(poiLight.additiveShadow, poiLight.detailShadow), passthrough), poiLight.indirectColor, smoothstep((0.0 /*_LightingAdditiveGradientStart*/), (0.5 /*_LightingAdditiveGradientEnd*/), 1 - (.5 * poiLight.nDotL + .5))) * poiLight.attenuation;
+					poiLight.finalLighting = lerp(poiLight.directColor * max(min(poiLight.additiveShadow, poiLight.detailShadow), passthrough), poiLight.indirectColor, smoothstep(ToonAddGradient.x, ToonAddGradient.y, 1 - (.5 * poiLight.nDotL + .5)));
 					#else
-					poiLight.finalLighting = lerp(poiLight.directColor * max(min(poiLight.attenuation, poiLight.detailShadow), passthrough), poiLight.indirectColor, smoothstep((0.0 /*_LightingAdditiveGradientStart*/), (0.5 /*_LightingAdditiveGradientEnd*/), 1 - (.5 * poiLight.nDotL + .5)));
+					poiLight.finalLighting = lerp(poiLight.directColor * max(min(poiLight.attenuation, poiLight.detailShadow), passthrough), poiLight.indirectColor, smoothstep(ToonAddGradient.x, ToonAddGradient.y, 1 - (.5 * poiLight.nDotL + .5)));
 					#endif
 					return;
 				}
@@ -3076,11 +3111,13 @@ Shader "Hidden/Locked/.poiyomi/Poiyomi Toon/80148176cf016644d87d45345297084a"
 						}
 						if (lightingMode == 0)
 						{
-							vertexLighting = max(vertexLighting, poiLight.vColor[index] * poiLight.vAttenuationDotNL[index] * poiLight.detailShadow); // Realistic
+							vertexLighting = max(vertexLighting, poiLight.vColor[index] * poiLight.vSaturatedDotNL[index] * poiLight.detailShadow); // Realistic
 						}
-						if (lightingMode == 1) // Toon
+						if (lightingMode == 1)
 						{
-							vertexLighting = max(vertexLighting,lerp(poiLight.vColor[index] * poiLight.vAttenuation[index], poiLight.vColor[index] * (0.5 /*_LightingAdditivePassthrough*/) * poiLight.vAttenuation[index], smoothstep((0.0 /*_LightingAdditiveGradientStart*/), (0.5 /*_LightingAdditiveGradientEnd*/), 1 - (.5 * poiLight.vDotNL[index] + .5))) * poiLight.detailShadow);
+							float2 ToonAddGradient = float2((0.0 /*_LightingAdditiveGradientStart*/), (0.5 /*_LightingAdditiveGradientEnd*/));
+							if (ToonAddGradient.x == ToonAddGradient.y) ToonAddGradient.y += 0.0001;
+							vertexLighting = max(vertexLighting, lerp(poiLight.vColor[index], poiLight.vColor[index] * (0.5 /*_LightingAdditivePassthrough*/), smoothstep(ToonAddGradient.x, ToonAddGradient.y, 1 - (.5 * poiLight.vDotNL[index] + .5))) * poiLight.detailShadow);
 						}
 					}
 					float3 mixedLight = poiLight.finalLighting;
@@ -3145,7 +3182,7 @@ Shader "Hidden/Locked/.poiyomi/Poiyomi Toon/80148176cf016644d87d45345297084a"
 				half m_DecalRotationSpeed;
 				float m_DecalEmissionStrength;
 				float m_DecalBlendAlpha;
-				float m_DecalOverrideAlpha;
+				float m_DecalAlphaBlendMode;
 				float m_DecalHueShiftEnabled;
 				float m_DecalHueShift;
 				float m_DecalHueShiftSpeed;
@@ -3158,6 +3195,7 @@ Shader "Hidden/Locked/.poiyomi/Poiyomi Toon/80148176cf016644d87d45345297084a"
 				float m_DecalChannelSeparationVertical;
 				float m_DecalChannelSeparationAngleStrength;
 				float m_DecalOverrideAlphaMode;
+				float m_DecalOverrideAlpha;
 				#if defined(POI_AUDIOLINK)
 				half m_AudioLinkDecalScaleBand;
 				float4 m_AudioLinkDecalScale;
@@ -3210,17 +3248,32 @@ Shader "Hidden/Locked/.poiyomi/Poiyomi Toon/80148176cf016644d87d45345297084a"
 					decalColor.rgb = decalHueShift(m_DecalHueShiftEnabled, decalColor.rgb, m_DecalHueShift + poiLight.nDotV * m_DecalHueAngleStrength, m_DecalHueShiftSpeed);
 					decalColor.a *= decalMask[m_DecalMaskChannel] * applyTilingClipping(m_DecalTiled, uv);
 				}
-				void SampleDecal(sampler2D decalTexture, in PoiMods poiMods, in PoiLight poiLight, in PoiMesh poiMesh, in PoiCam poiCam)
+				void SampleDecal(sampler2D decalTexture, in PoiMods poiMods, in PoiLight poiLight, in PoiMesh poiMesh, in PoiCam poiCam, float2 scaleMultiplier = float2(1, 1))
 				{
-					uv = decalUV(m_DecalTextureUV, m_DecalPosition, m_DecalRotation + decalRotation, m_DecalRotationSpeed, decalScale, m_DecalSideOffset +sideMod, m_DecalDepth, poiMesh, poiCam);
+					uv = decalUV(m_DecalTextureUV, m_DecalPosition, m_DecalRotation + decalRotation, m_DecalRotationSpeed, decalScale * scaleMultiplier, m_DecalSideOffset +sideMod, m_DecalDepth, poiMesh, poiCam);
 					float4 dduv = any(fwidth(uv) > .5) ? 0.001 : float4(ddx(uv) * m_DecalTexture_ST.x, ddy(uv) * m_DecalTexture_ST.y);
 					decalColor = tex2D(decalTexture, poiUV(uv, m_DecalTexture_ST) + m_DecalTexturePan * _Time.x, dduv.xy, dduv.zw) * float4(poiThemeColor(poiMods, m_DecalColor.rgb, m_DecalColorThemeIndex), m_DecalColor.a);
 					decalColor.rgb = decalHueShift(m_DecalHueShiftEnabled, decalColor.rgb, m_DecalHueShift + poiLight.nDotV * m_DecalHueAngleStrength, m_DecalHueShiftSpeed);
 					decalColor.a *= decalMask[m_DecalMaskChannel] * applyTilingClipping(m_DecalTiled, uv);
 				}
+				void SampleDecalNoAlpha(sampler2D decalTexture, in PoiMods poiMods, in PoiLight poiLight, in PoiMesh poiMesh, in PoiCam poiCam, float2 scaleMultiplier = float2(1, 1))
+				{
+					uv = decalUV(m_DecalTextureUV, m_DecalPosition, m_DecalRotation + decalRotation, m_DecalRotationSpeed, decalScale * scaleMultiplier, m_DecalSideOffset +sideMod, m_DecalDepth, poiMesh, poiCam);
+					float4 dduv = any(fwidth(uv) > .5) ? 0.001 : float4(ddx(uv) * m_DecalTexture_ST.x, ddy(uv) * m_DecalTexture_ST.y);
+					decalColor.rgb = tex2D(decalTexture, poiUV(uv, m_DecalTexture_ST) + m_DecalTexturePan * _Time.x, dduv.xy, dduv.zw) * float4(poiThemeColor(poiMods, m_DecalColor.rgb, m_DecalColorThemeIndex), m_DecalColor.a).rgb;
+					decalColor.rgb = decalHueShift(m_DecalHueShiftEnabled, decalColor.rgb, m_DecalHueShift + poiLight.nDotV * m_DecalHueAngleStrength, m_DecalHueShiftSpeed);
+					decalColor.a *= decalMask[m_DecalMaskChannel] * applyTilingClipping(m_DecalTiled, uv);
+				}
+				void SampleDecalAlphaOnly(sampler2D decalTexture, in PoiMods poiMods, in PoiLight poiLight, in PoiMesh poiMesh, in PoiCam poiCam, float2 scaleMultiplier = float2(1, 1))
+				{
+					uv = decalUV(m_DecalTextureUV, m_DecalPosition, m_DecalRotation + decalRotation, m_DecalRotationSpeed, decalScale * scaleMultiplier, m_DecalSideOffset +sideMod, m_DecalDepth, poiMesh, poiCam);
+					float4 dduv = any(fwidth(uv) > .5) ? 0.001 : float4(ddx(uv) * m_DecalTexture_ST.x, ddy(uv) * m_DecalTexture_ST.y);
+					decalColor = tex2D(decalTexture, poiUV(uv, m_DecalTexture_ST) + m_DecalTexturePan * _Time.x, dduv.xy, dduv.zw) * float4(poiThemeColor(poiMods, m_DecalColor.rgb, m_DecalColorThemeIndex), m_DecalColor.a);
+					decalColor.a *= decalMask[m_DecalMaskChannel] * applyTilingClipping(m_DecalTiled, uv);
+				}
 				void SampleDecalChannelSeparation(sampler2D decalTexture, in PoiMods poiMods, in PoiLight poiLight, in PoiMesh poiMesh, in PoiCam poiCam)
 				{
-					decalColor = 0;
+					decalColor = float4(0, 0, 0, 1);
 					decalChannelOffset += m_DecalChannelSeparation + m_DecalChannelSeparationAngleStrength * (m_DecalChannelSeparationAngleStrength > 0 ? (1 - poiLight.nDotV) : poiLight.nDotV);
 					float2 positionOffset = decalChannelOffset * 0.01 * (decalScale.x + decalScale.y) * float2(cos(m_DecalChannelSeparationVertical), sin(m_DecalChannelSeparationVertical));
 					float2 uvSample0 = decalUV(m_DecalTextureUV, m_DecalPosition + positionOffset, m_DecalRotation + decalRotation, m_DecalRotationSpeed, decalScale, m_DecalSideOffset +sideMod, m_DecalDepth, poiMesh, poiCam);
@@ -3268,17 +3321,27 @@ Shader "Hidden/Locked/.poiyomi/Poiyomi Toon/80148176cf016644d87d45345297084a"
 					#endif
 					if (m_DecalOverrideAlpha)
 					{
-						alphaOverride += 1;
+						float finalAlpha = lerp(1, min(decalAlpha, decalColor.a), decalMask[m_DecalMaskChannel]);
 						if (m_DecalOverrideAlphaMode != 0 && !m_DecalTiled)
 						{
 							if (uv.x > 0 && uv.x < 1 && uv.y > 0 && uv.y < 1)
 							{
-								decalAlpha = lerp(decalAlpha, min(decalAlpha, decalColor.a), decalMask[m_DecalMaskChannel]);
+								if (m_DecalOverrideAlpha == 1) poiFragData.alpha = finalAlpha;
+								if (m_DecalOverrideAlpha == 2) poiFragData.alpha = saturate(poiFragData.alpha * finalAlpha);
+								if (m_DecalOverrideAlpha == 3) poiFragData.alpha = saturate(poiFragData.alpha + finalAlpha);
+								if (m_DecalOverrideAlpha == 4) poiFragData.alpha = saturate(poiFragData.alpha - finalAlpha);
+								if (m_DecalOverrideAlpha == 5) poiFragData.alpha = min(poiFragData.alpha, finalAlpha);
+								if (m_DecalOverrideAlpha == 6) poiFragData.alpha = max(poiFragData.alpha, finalAlpha);
 							}
 						}
 						else
 						{
-							decalAlpha = lerp(decalAlpha, min(decalAlpha, decalColor.a), decalMask[m_DecalMaskChannel]);
+							if (m_DecalOverrideAlpha == 1) poiFragData.alpha = finalAlpha;
+							if (m_DecalOverrideAlpha == 2) poiFragData.alpha = saturate(poiFragData.alpha * finalAlpha);
+							if (m_DecalOverrideAlpha == 3) poiFragData.alpha = saturate(poiFragData.alpha + finalAlpha);
+							if (m_DecalOverrideAlpha == 4) poiFragData.alpha = saturate(poiFragData.alpha - finalAlpha);
+							if (m_DecalOverrideAlpha == 5) poiFragData.alpha = min(poiFragData.alpha, finalAlpha);
+							if (m_DecalOverrideAlpha == 6) poiFragData.alpha = max(poiFragData.alpha, finalAlpha);
 						}
 					}
 					if (m_DecalFaceMask > 0)
@@ -3300,9 +3363,57 @@ Shader "Hidden/Locked/.poiyomi/Poiyomi Toon/80148176cf016644d87d45345297084a"
 					poiFragData.baseColor.rgb = lerp(poiFragData.baseColor.rgb, customBlend(poiFragData.baseColor.rgb, decalColor.rgb, m_DecalBlendType), decalAlphaMixed);
 					poiFragData.emission += decalColor.rgb * decalColor.a * max(m_DecalEmissionStrength + audioLinkDecalEmission, 0);
 				}
+				float2 GetVideoAspectRatio(float2 videoDimensions, float CorrectionType, float fitToScale)
+				{
+					float2 AspectRatioMultiplier = float2(1, 1);
+					if (fitToScale)
+					{
+						float2 decalScale = m_DecalScale.xy + float2(m_DecalSideOffset.x + m_DecalSideOffset.y, m_DecalSideOffset.z + m_DecalSideOffset.w);
+						if (decalScale.x > decalScale.y)
+						{
+							videoDimensions.xy *= float2((decalScale.y / decalScale.x), 1);
+						}
+						else
+						{
+							videoDimensions.xy *= float2(1, (decalScale.x / decalScale.y));
+						}
+					}
+					if (CorrectionType != 2)
+					{
+						if (CorrectionType == 0)
+						{
+							if (videoDimensions.x > videoDimensions.y)
+							{
+								AspectRatioMultiplier = float2(1, videoDimensions.y / videoDimensions.x);
+							}
+							else
+							{
+								AspectRatioMultiplier = float2(videoDimensions.x / videoDimensions.y, 1);
+							}
+						}
+						else if (CorrectionType == 1)
+						{
+							if (videoDimensions.x > videoDimensions.y)
+							{
+								AspectRatioMultiplier = float2(1 / (videoDimensions.y / videoDimensions.x), 1);
+							}
+							else
+							{
+								AspectRatioMultiplier = float2(1, 1 / (videoDimensions.x / videoDimensions.y));
+							}
+						}
+					}
+					return AspectRatioMultiplier;
+				}
 			};
 			void applyDecals(inout PoiFragData poiFragData, in PoiMesh poiMesh, in PoiCam poiCam, inout PoiMods poiMods, in PoiLight poiLight)
 			{
+				float udonVideoTexAvailable = 0;
+				float2 udonVideoAspectRatio = 1;
+				if (_Udon_VideoTex_TexelSize.z > 16)
+				{
+					udonVideoTexAvailable = 1;
+				}
 				float decalAlpha = 1;
 				float alphaOverride = 0;
 				#if defined(PROP_DECALMASK) || !defined(OPTIMIZER_ENABLED)
@@ -3321,10 +3432,6 @@ Shader "Hidden/Locked/.poiyomi/Poiyomi Toon/80148176cf016644d87d45345297084a"
 				#endif
 				float4 decalColor = 1;
 				float2 uv = 0;
-				if (alphaOverride)
-				{
-					poiFragData.alpha *= decalAlpha;
-				}
 			}
 			#endif
 			#ifdef POI_AUDIOLINK
@@ -3485,15 +3592,6 @@ Shader "Hidden/Locked/.poiyomi/Poiyomi Toon/80148176cf016644d87d45345297084a"
 				}
 				#endif
 			}
-			void applyLumaGradient(in PoiMods poiMods, inout float3 emissionColor, in float themeIndex, in float nDotV)
-			{
-				#ifdef POI_AUDIOLINK
-				if (poiMods.audioLinkAvailable && poiMods.audioLinkViaLuma && themeIndex >= 5 && themeIndex <= 7)
-				{
-					emissionColor = getLumaGradient(themeIndex - 5, saturate(1 - nDotV));
-				}
-				#endif
-			}
 			#ifdef _EMISSION
 			float3 applyEmission(inout PoiFragData poiFragData, in PoiMesh poiMesh, in PoiLight poiLight, in PoiCam poiCam, in PoiMods poiMods)
 			{
@@ -3537,8 +3635,8 @@ Shader "Hidden/Locked/.poiyomi/Poiyomi Toon/80148176cf016644d87d45345297084a"
 				{
 					emissionStrength0 *= calculateBlinkingEmission((0.0 /*_EmissiveBlink_Min*/), (1.0 /*_EmissiveBlink_Max*/), (4.0 /*_EmissiveBlink_Velocity*/), (0.0 /*_EmissionBlinkingOffset*/));
 				}
-				applyLumaGradient(poiMods, emissionColor0, (0.0 /*_EmissionColorThemeIndex*/), poiLight.nDotV);
 				emissionColor0 = hueShift(emissionColor0, frac((0.0 /*_EmissionHueShift*/) + (0.0 /*_EmissionHueShiftSpeed*/) * _Time.x) * (0.0 /*_EmissionHueShiftEnabled*/));
+				emissionColor0 = lerp(emissionColor0, dot(emissionColor0, float3(0.3, 0.59, 0.11)), - ((0.0 /*_EmissionSaturation*/)) * (0.0 /*_EmissionHueShiftEnabled*/));
 				#if defined(PROP_EMISSIONMASK) || !defined(OPTIMIZER_ENABLED)
 				float emissionMask0 = UNITY_SAMPLE_TEX2D_SAMPLER(_EmissionMask, _MainTex, poiUV(poiMesh.uv[(0.0 /*_EmissionMaskUV*/)], float4(1,1,0,0)) + _Time.x * float4(0,0,0,0))[(0.0 /*_EmissionMaskChannel*/)];
 				#else
@@ -3794,9 +3892,10 @@ Shader "Hidden/Locked/.poiyomi/Poiyomi Toon/80148176cf016644d87d45345297084a"
 				float3 vSpecular2 = 0;
 				float3 reflections = 0;
 				float3 environment = 0;
+				#if defined(POINT) || defined(SPOT)
+				float attenuation = lerp(poiLight.additiveShadow, 1, (0.0 /*_IgnoreCastedShadows*/));
+				#else
 				float attenuation = min(poiLight.nDotLSaturated, lerp(poiLight.attenuation, 1, (0.0 /*_IgnoreCastedShadows*/)));
-				#ifdef POI_PASS_ADD
-				attenuation *= lerp(poiLight.additiveShadow, 1, (0.0 /*_IgnoreCastedShadows*/));
 				#endif
 				float3 fresnelTerm = 1;
 				float3 specularTerm = 1;
@@ -3816,7 +3915,7 @@ Shader "Hidden/Locked/.poiyomi/Poiyomi Toon/80148176cf016644d87d45345297084a"
 						float pbrVDotNL = lerp(poiLight.vertexVDotNL[index], poiLight.vDotNL[index], (1.0 /*_PBRNormalSelect*/));
 						float pbrVDotNH = lerp(poiLight.vertexVDotNH[index], poiLight.vDotNH[index], (1.0 /*_PBRNormalSelect*/));
 						GetSpecFresTerm(pbrVDotNL, pbrNDotV, pbrVDotNH, poiLight.vDotLH[index], specularTerm, fresnelTerm, specCol, brdfRoughness);
-						vSpecular += poiLight.vColor[index] * specularTerm * fresnelTerm * specularMask * poiThemeColor(poiMods, float4(1,1,1,1), (0.0 /*_MochieSpecularTintThemeIndex*/)) * poiLight.occlusion * poiLight.vAttenuation[index];
+						vSpecular += poiLight.vColor[index] * specularTerm * fresnelTerm * specularMask * poiThemeColor(poiMods, float4(1,1,1,1), (0.0 /*_MochieSpecularTintThemeIndex*/)) * poiLight.occlusion;
 					}
 					#endif
 				}
@@ -3836,7 +3935,7 @@ Shader "Hidden/Locked/.poiyomi/Poiyomi Toon/80148176cf016644d87d45345297084a"
 							float pbrVDotNL = lerp(poiLight.vertexVDotNL[index], poiLight.vDotNL[index], (1.0 /*_PBRNormalSelect*/));
 							float pbrVDotNH = lerp(poiLight.vertexVDotNH[index], poiLight.vDotNH[index], (1.0 /*_PBRNormalSelect*/));
 							GetSpecFresTerm(pbrVDotNL, pbrNDotV, pbrVDotNH, poiLight.vDotLH[index], specularTerm, fresnelTerm, specCol, brdfRoughness2);
-							vSpecular2 += poiLight.vColor[index] * specularTerm * fresnelTerm * specularMask * poiThemeColor(poiMods, float4(1,1,1,1), (0.0 /*_MochieSpecularTintThemeIndex*/)) * poiLight.occlusion * poiLight.vAttenuation[index] * (1.0 /*_MochieSpecularStrength2*/);
+							vSpecular2 += poiLight.vColor[index] * specularTerm * fresnelTerm * specularMask * poiThemeColor(poiMods, float4(1,1,1,1), (0.0 /*_MochieSpecularTintThemeIndex*/)) * poiLight.occlusion * (1.0 /*_MochieSpecularStrength2*/);
 						}
 						#endif
 					}
@@ -3854,9 +3953,6 @@ Shader "Hidden/Locked/.poiyomi/Poiyomi Toon/80148176cf016644d87d45345297084a"
 				}
 				reflections *= poiThemeColor(poiMods, float4(1,1,1,1), (0.0 /*_MochieReflectionTintThemeIndex*/));
 				reflections *= reflectionMask;
-				#ifdef POI_PASS_ADD
-				reflections *= poiLight.attenuation;
-				#endif
 				diffuse = lerp(diffuse, diffuse * omr, reflectionMask);
 				environment = max(specular + vSpecular, specular2 + vSpecular2);
 				environment += reflections;
@@ -3936,16 +4032,16 @@ Shader "Hidden/Locked/.poiyomi/Poiyomi Toon/80148176cf016644d87d45345297084a"
 				poiMesh.uv[5] = calculateWorldUV(poiMesh);
 				poiMesh.uv[6] = calculatePolarCoordinate(poiMesh);
 				poiMesh.uv[8] = calculatelocalUV(poiMesh);
-				poiMods.globalMask[0]  = 1;
-				poiMods.globalMask[1]  = 1;
-				poiMods.globalMask[2]  = 1;
-				poiMods.globalMask[3]  = 1;
-				poiMods.globalMask[4]  = 1;
-				poiMods.globalMask[5]  = 1;
-				poiMods.globalMask[6]  = 1;
-				poiMods.globalMask[7]  = 1;
-				poiMods.globalMask[8]  = 1;
-				poiMods.globalMask[9]  = 1;
+				poiMods.globalMask[0] = 1;
+				poiMods.globalMask[1] = 1;
+				poiMods.globalMask[2] = 1;
+				poiMods.globalMask[3] = 1;
+				poiMods.globalMask[4] = 1;
+				poiMods.globalMask[5] = 1;
+				poiMods.globalMask[6] = 1;
+				poiMods.globalMask[7] = 1;
+				poiMods.globalMask[8] = 1;
+				poiMods.globalMask[9] = 1;
 				poiMods.globalMask[10] = 1;
 				poiMods.globalMask[11] = 1;
 				poiMods.globalMask[12] = 1;
@@ -3964,6 +4060,12 @@ Shader "Hidden/Locked/.poiyomi/Poiyomi Toon/80148176cf016644d87d45345297084a"
 				#else
 				poiMesh.tangentSpaceNormal = UnpackNormal(float4(0.5, 0.5, 1, 1));
 				#endif
+				float3 tangentSpaceNormal = UnpackNormal(float4(0.5, 0.5, 1, 1));
+				poiMesh.normals[0] = normalize(
+				tangentSpaceNormal.x * poiMesh.tangent[0] +
+				tangentSpaceNormal.y * poiMesh.binormal[0] +
+				tangentSpaceNormal.z * poiMesh.normals[0]
+				);
 				poiMesh.normals[1] = normalize(
 				poiMesh.tangentSpaceNormal.x * poiMesh.tangent[0] +
 				poiMesh.tangentSpaceNormal.y * poiMesh.binormal[0] +
@@ -4065,14 +4167,14 @@ Shader "Hidden/Locked/.poiyomi/Poiyomi Toon/80148176cf016644d87d45345297084a"
 					poiLight.vertexVDotNL += toLightY * poiMesh.normals[0].y;
 					poiLight.vertexVDotNL += toLightZ * poiMesh.normals[0].z;
 					poiLight.vertexVDotNL = max(0, poiLight.vDotNL * corr);
-					poiLight.vAttenuationDotNL = saturate(poiLight.vAttenuation * saturate(poiLight.vDotNL));
+					poiLight.vSaturatedDotNL = saturate(poiLight.vDotNL);
 					[unroll]
 					for (int index = 0; index < 4; index++)
 					{
 						poiLight.vPosition[index] = float3(unity_4LightPosX0[index], unity_4LightPosY0[index], unity_4LightPosZ0[index]);
 						float3 vertexToLightSource = poiLight.vPosition[index] - poiMesh.worldPos;
 						poiLight.vDirection[index] = normalize(vertexToLightSource);
-						poiLight.vColor[index] = (1.0 /*_LightingAdditiveLimited*/) ? MaxLuminance(unity_LightColor[index].rgb, (1.0 /*_LightingAdditiveLimit*/)) : unity_LightColor[index].rgb;
+						poiLight.vColor[index] = (1.0 /*_LightingAdditiveLimited*/) ? MaxLuminance(unity_LightColor[index].rgb * poiLight.vAttenuation[index], (1.0 /*_LightingAdditiveLimit*/)) : unity_LightColor[index].rgb * poiLight.vAttenuation[index];
 						poiLight.vColor[index] = lerp(poiLight.vColor[index], dot(poiLight.vColor[index], float3(0.299, 0.587, 0.114)), (0.0 /*_LightingAdditiveMonochromatic*/));
 						poiLight.vHalfDir[index] = Unity_SafeNormalize(poiLight.vDirection[index] + poiCam.viewDir);
 						poiLight.vDotNL[index] = dot(poiMesh.normals[1], poiLight.vDirection[index]);
@@ -4282,7 +4384,7 @@ Shader "Hidden/Locked/.poiyomi/Poiyomi Toon/80148176cf016644d87d45345297084a"
 				#endif
 				poiLight.additiveShadow = UNITY_SHADOW_ATTENUATION(i, poiMesh.worldPos);
 				poiLight.attenuationStrength = (1.0 /*_LightingAdditiveCastedShadows*/);
-				poiLight.directColor = (1.0 /*_LightingAdditiveLimited*/) ? MaxLuminance(_LightColor0.rgb, (1.0 /*_LightingAdditiveLimit*/)) : _LightColor0.rgb;
+				poiLight.directColor = (1.0 /*_LightingAdditiveLimited*/) ? MaxLuminance(_LightColor0.rgb * poiLight.attenuation, (1.0 /*_LightingAdditiveLimit*/)) : _LightColor0.rgb  * poiLight.attenuation;
 				#if defined(POINT_COOKIE) || defined(DIRECTIONAL_COOKIE)
 				poiLight.indirectColor = 0;
 				#else
@@ -4478,6 +4580,7 @@ Shader "Hidden/Locked/.poiyomi/Poiyomi Toon/80148176cf016644d87d45345297084a"
 			#pragma fragment frag
 			#define DielectricSpec float4(0.04, 0.04, 0.04, 1.0 - 0.04)
 			#define PI float(3.14159265359)
+			#define Epsilon float(1e-10)
 			#define POI2D_SAMPLE_TEX2D_SAMPLERGRAD(tex, samplertex, coord, dx, dy) tex.SampleGrad(sampler##samplertex, coord, dx, dy)
 			#define POI2D_SAMPLE_TEX2D_SAMPLERGRADD(tex, samp, uv, pan, dx, dy) tex.SampleGrad(samp, POI_PAN_UV(uv, pan), dx, dy)
 			#define POI_PAN_UV(uv, pan) (uv + _Time.x * pan)
@@ -4516,33 +4619,34 @@ Shader "Hidden/Locked/.poiyomi/Poiyomi Toon/80148176cf016644d87d45345297084a"
 			#define POI_MODE_MULTIPLICATIVE 6
 			#define POI_MODE_2XMULTIPLICATIVE 7
 			#define POI_MODE_TRANSCLIPPING 9
-			#define ALPASS_DFT                      uint2(0,4)   //Size: 128, 2
-			#define ALPASS_WAVEFORM                 uint2(0,6)   //Size: 128, 16
-			#define ALPASS_AUDIOLINK                uint2(0,0)   //Size: 128, 4
-			#define ALPASS_AUDIOBASS                uint2(0,0)   //Size: 128, 1
-			#define ALPASS_AUDIOLOWMIDS             uint2(0,1)   //Size: 128, 1
-			#define ALPASS_AUDIOHIGHMIDS            uint2(0,2)   //Size: 128, 1
-			#define ALPASS_AUDIOTREBLE              uint2(0,3)   //Size: 128, 1
-			#define ALPASS_AUDIOLINKHISTORY         uint2(1,0)   //Size: 127, 4
-			#define ALPASS_GENERALVU                uint2(0,22)  //Size: 12, 1
-			#define ALPASS_CCINTERNAL               uint2(12,22) //Size: 12, 2
-			#define ALPASS_CCCOLORS                 uint2(25,22) //Size: 11, 1
-			#define ALPASS_CCSTRIP                  uint2(0,24)  //Size: 128, 1
-			#define ALPASS_CCLIGHTS                 uint2(0,25)  //Size: 128, 2
-			#define ALPASS_AUTOCORRELATOR           uint2(0,27)  //Size: 128, 1
-			#define ALPASS_GENERALVU_INSTANCE_TIME  uint2(2,22)
-			#define ALPASS_GENERALVU_LOCAL_TIME     uint2(3,22)
-			#define ALPASS_GENERALVU_NETWORK_TIME   uint2(4,22)
-			#define ALPASS_GENERALVU_PLAYERINFO     uint2(6,22)
-			#define ALPASS_FILTEREDAUDIOLINK        uint2(0,28)  //Size: 16, 4
-			#define ALPASS_CHRONOTENSITY            uint2(16,28) //Size: 8, 4
-			#define ALPASS_THEME_COLOR0             uint2(0,23)
-			#define ALPASS_THEME_COLOR1             uint2(1,23)
-			#define ALPASS_THEME_COLOR2             uint2(2,23)
-			#define ALPASS_THEME_COLOR3             uint2(3,23)
-			#define ALPASS_FILTEREDVU               uint2(24,28) //Size: 4, 4
-			#define ALPASS_FILTEREDVU_INTENSITY     uint2(24,28) //Size: 4, 1
-			#define ALPASS_FILTEREDVU_MARKER        uint2(24,29) //Size: 4, 1
+			#ifdef POI_AUDIOLINK
+			#define ALPASS_DFT                      uint2(0, 4)   //Size: 128, 2
+			#define ALPASS_WAVEFORM                 uint2(0, 6)   //Size: 128, 16
+			#define ALPASS_AUDIOLINK                uint2(0, 0)   //Size: 128, 4
+			#define ALPASS_AUDIOBASS                uint2(0, 0)   //Size: 128, 1
+			#define ALPASS_AUDIOLOWMIDS             uint2(0, 1)   //Size: 128, 1
+			#define ALPASS_AUDIOHIGHMIDS            uint2(0, 2)   //Size: 128, 1
+			#define ALPASS_AUDIOTREBLE              uint2(0, 3)   //Size: 128, 1
+			#define ALPASS_AUDIOLINKHISTORY         uint2(1, 0)   //Size: 127, 4
+			#define ALPASS_GENERALVU                uint2(0, 22)  //Size: 12, 1
+			#define ALPASS_CCINTERNAL               uint2(12, 22) //Size: 12, 2
+			#define ALPASS_CCCOLORS                 uint2(25, 22) //Size: 11, 1
+			#define ALPASS_CCSTRIP                  uint2(0, 24)  //Size: 128, 1
+			#define ALPASS_CCLIGHTS                 uint2(0, 25)  //Size: 128, 2
+			#define ALPASS_AUTOCORRELATOR           uint2(0, 27)  //Size: 128, 1
+			#define ALPASS_GENERALVU_INSTANCE_TIME  uint2(2, 22)
+			#define ALPASS_GENERALVU_LOCAL_TIME     uint2(3, 22)
+			#define ALPASS_GENERALVU_NETWORK_TIME   uint2(4, 22)
+			#define ALPASS_GENERALVU_PLAYERINFO     uint2(6, 22)
+			#define ALPASS_FILTEREDAUDIOLINK        uint2(0, 28)  //Size: 16, 4
+			#define ALPASS_CHRONOTENSITY            uint2(16, 28) //Size: 8, 4
+			#define ALPASS_THEME_COLOR0             uint2(0, 23)
+			#define ALPASS_THEME_COLOR1             uint2(1, 23)
+			#define ALPASS_THEME_COLOR2             uint2(2, 23)
+			#define ALPASS_THEME_COLOR3             uint2(3, 23)
+			#define ALPASS_FILTEREDVU               uint2(24, 28) //Size: 4, 4
+			#define ALPASS_FILTEREDVU_INTENSITY     uint2(24, 28) //Size: 4, 1
+			#define ALPASS_FILTEREDVU_MARKER        uint2(24, 29) //Size: 4, 1
 			#define AUDIOLINK_SAMPHIST              3069        // Internal use for algos, do not change.
 			#define AUDIOLINK_SAMPLEDATA24          2046
 			#define AUDIOLINK_EXPBINS               24
@@ -4581,7 +4685,7 @@ Shader "Hidden/Locked/.poiyomi/Poiyomi Toon/80148176cf016644d87d45345297084a"
 			#endif
 			uniform sampler2D _Stored;
 			uniform float4 _Stored_TexelSize;
-			#define LumaData(x,y) tex2Dlod(_Stored, float4(x, y, 0, 0))
+			#endif
 			float _GrabMode;
 			float _Mode;
 			float _StochasticDeliotHeitzDensity;
@@ -4965,7 +5069,6 @@ Shader "Hidden/Locked/.poiyomi/Poiyomi Toon/80148176cf016644d87d45345297084a"
 				float audioLinkAvailable;
 				float audioLinkVersion;
 				float4 audioLinkTexture;
-				float audioLinkViaLuma;
 				float2 detailMask;
 				float2 backFaceDetailIntensity;
 				float globalEmission;
@@ -5013,7 +5116,7 @@ Shader "Hidden/Locked/.poiyomi/Poiyomi Toon/80148176cf016644d87d45345297084a"
 				float3 vColor[4];
 				float4 vCorrectedDotNL;
 				float4 vAttenuation;
-				float4 vAttenuationDotNL;
+				float4 vSaturatedDotNL;
 				float3 vPosition[4];
 				float3 vDirection[4];
 				float3 vFinalLighting;
@@ -5455,7 +5558,9 @@ Shader "Hidden/Locked/.poiyomi/Poiyomi Toon/80148176cf016644d87d45345297084a"
 				switch(blendType)
 				{
 					case 0: output = lerp(base, blend, alpha); break;
+					case 1: output = lerp(base, blendDarken(base, blend), alpha); break;
 					case 2: output = base * lerp(1, blend, alpha); break;
+					case 5: output = lerp(base, blendLighten(base, blend), alpha); break;
 					case 6: output = lerp(base, blendScreen(base, blend), alpha); break;
 					case 7: output = blendSubtract(base, blend * alpha); break;
 					case 8: output = lerp(base, blendLinearDodge(base, blend), alpha); break;
@@ -5472,6 +5577,7 @@ Shader "Hidden/Locked/.poiyomi/Poiyomi Toon/80148176cf016644d87d45345297084a"
 				{
 					case 0: output = lerp(base, blend, alpha); break;
 					case 2: output = base * lerp(1, blend, alpha); break;
+					case 5: output = lerp(base, blendLighten(base, blend), alpha); break;
 					case 6: output = lerp(base, blendScreen(base, blend), alpha); break;
 					case 7: output = blendSubtract(base, blend * alpha); break;
 					case 8: output = lerp(base, blendLinearDodge(base, blend), alpha); break;
@@ -5570,7 +5676,6 @@ Shader "Hidden/Locked/.poiyomi/Poiyomi Toon/80148176cf016644d87d45345297084a"
 				uint index = (uint(uv.x) % 4) * 4 + uint(uv.y) % 4;
 				Out = In - DITHER_THRESHOLDS[index];
 			}
-			static const float Epsilon = 1e-10;
 			static const float3 HCYwts = float3(0.299, 0.587, 0.114);
 			static const float HCLgamma = 3;
 			static const float HCLy0 = 100;
@@ -5903,19 +6008,25 @@ Shader "Hidden/Locked/.poiyomi/Poiyomi Toon/80148176cf016644d87d45345297084a"
 			}
 			float3 poiThemeColor(in PoiMods poiMods, in float3 srcColor, in float themeIndex)
 			{
-				if (themeIndex == 0) return srcColor;
-				themeIndex -= 1;
-				if (themeIndex <= 3)
+				float3 outputColor = srcColor;
+				if (themeIndex != 0)
 				{
-					return poiMods.globalColorTheme[themeIndex];
+					themeIndex = max(themeIndex - 1, 0);
+					if (themeIndex <= 3)
+					{
+						outputColor = poiMods.globalColorTheme[themeIndex];
+					}
+					else
+					{
+						#ifdef POI_AUDIOLINK
+						if (poiMods.audioLinkAvailable)
+						{
+							outputColor = poiMods.globalColorTheme[themeIndex];
+						}
+						#endif
+					}
 				}
-				#ifdef POI_AUDIOLINK
-				if (poiMods.audioLinkAvailable)
-				{
-					return poiMods.globalColorTheme[themeIndex];
-				}
-				#endif
-				return srcColor;
+				return outputColor;
 			}
 			float3 lilToneCorrection(float3 c, float4 hsvg)
 			{
@@ -5932,11 +6043,11 @@ Shader "Hidden/Locked/.poiyomi/Poiyomi Toon/80148176cf016644d87d45345297084a"
 			{
 				float3 ad = dstCol + srcCol;
 				float3 mu = dstCol * srcCol;
-				float3 outCol;
-				if (blendMode == 0) outCol = srcCol;               // Normal
-				if (blendMode == 1) outCol = ad;                   // Add
+				float3 outCol = float3(0, 0, 0);
+				if (blendMode == 0) outCol = srcCol; // Normal
+				if (blendMode == 1) outCol = ad; // Add
 				if (blendMode == 2) outCol = max(ad - mu, dstCol); // Screen
-				if (blendMode == 3) outCol = mu;                   // Multiply
+				if (blendMode == 3) outCol = mu; // Multiply
 				return lerp(dstCol, outCol, srcA);
 			}
 			float lilIsIn0to1(float f)
@@ -6054,7 +6165,7 @@ Shader "Hidden/Locked/.poiyomi/Poiyomi Toon/80148176cf016644d87d45345297084a"
 			float3 MaxLuminance(float3 rgb, float maxLuminance)
 			{
 				float currentLuminance = dot(rgb, float3(0.299, 0.587, 0.114));
-				float luminanceRatio = (currentLuminance != 0) ? maxLuminance / currentLuminance : 1.0;
+				float luminanceRatio = (currentLuminance != 0) ? maxLuminance / max(currentLuminance, 0.00001) : 1.0;
 				return lerp(rgb, rgb * luminanceRatio, currentLuminance > maxLuminance);
 			}
 			float OpenLitGray(float3 rgb)
@@ -6188,9 +6299,9 @@ Shader "Hidden/Locked/.poiyomi/Poiyomi Toon/80148176cf016644d87d45345297084a"
 			}
 			float snoise(float2 v)
 			{
-				const float4 C = float4(0.211324865405187, // (3.0-sqrt(3.0))/6.0
-				0.366025403784439, // 0.5*(sqrt(3.0)-1.0)
-				- 0.577350269189626, // -1.0 + 2.0 * C.x
+				const float4 C = float4(0.211324865405187, // (3.0 - sqrt(3.0)) / 6.0
+				0.366025403784439, // 0.5 * (sqrt(3.0) - 1.0)
+				- 0.577350269189626, // - 1.0 + 2.0 * C.x
 				0.024390243902439); // 1.0 / 41.0
 				float2 i = floor(v + dot(v, C.yy));
 				float2 x0 = v - i + dot(i, C.xx);
@@ -6244,9 +6355,18 @@ Shader "Hidden/Locked/.poiyomi/Poiyomi Toon/80148176cf016644d87d45345297084a"
 				return float2(width, height);
 			}
 			#ifdef POI_AUDIOLINK
-			float4 AudioLinkDataMultiline(uint2 xycoord) { return AudioLinkData(uint2(xycoord.x % AUDIOLINK_WIDTH, xycoord.y + xycoord.x/AUDIOLINK_WIDTH)); }
-			float4 AudioLinkLerp(float2 xy) { return lerp( AudioLinkData(xy), AudioLinkData(xy+int2(1,0)), frac( xy.x ) ); }
-			float4 AudioLinkLerpMultiline(float2 xy) { return lerp(AudioLinkDataMultiline(xy), AudioLinkDataMultiline(xy+float2(1,0)), frac(xy.x)); }
+			float4 AudioLinkDataMultiline(uint2 xycoord)
+			{
+				return AudioLinkData(uint2(xycoord.x % AUDIOLINK_WIDTH, xycoord.y + xycoord.x / AUDIOLINK_WIDTH));
+			}
+			float4 AudioLinkLerp(float2 xy)
+			{
+				return lerp(AudioLinkData(xy), AudioLinkData(xy + int2(1, 0)), frac(xy.x));
+			}
+			float4 AudioLinkLerpMultiline(float2 xy)
+			{
+				return lerp(AudioLinkDataMultiline(xy), AudioLinkDataMultiline(xy + float2(1, 0)), frac(xy.x));
+			}
 			bool AudioLinkIsAvailable()
 			{
 				#if !defined(AUDIOLINK_STANDARD_INDEXING)
@@ -6276,16 +6396,19 @@ Shader "Hidden/Locked/.poiyomi/Poiyomi Toon/80148176cf016644d87d45345297084a"
 			uint AudioLinkDecodeDataAsUInt(uint2 indexloc)
 			{
 				uint4 rpx = AudioLinkData(indexloc);
-				return rpx.r + rpx.g*1024 + rpx.b * 1048576 + rpx.a * 1073741824;
+				return rpx.r + rpx.g * 1024 + rpx.b * 1048576 + rpx.a * 1073741824;
 			}
 			float AudioLinkDecodeDataAsSeconds(uint2 indexloc)
 			{
 				uint time = AudioLinkDecodeDataAsUInt(indexloc) & 0x7ffffff;
-				return float(time / 1000) + float( time % 1000 ) / 1000.;
+				return float(time / 1000) + float(time % 1000) / 1000.;
 			}
-			#define ALDecodeDataAsSeconds( x ) AudioLinkDecodeDataAsSeconds( x )
-			#define ALDecodeDataAsUInt( x ) AudioLinkDecodeDataAsUInt( x )
-			float AudioLinkRemap(float t, float a, float b, float u, float v) { return ((t-a) / (b-a)) * (v-u) + u; }
+			#define ALDecodeDataAsSeconds(x) AudioLinkDecodeDataAsSeconds(x)
+			#define ALDecodeDataAsUInt(x) AudioLinkDecodeDataAsUInt(x)
+			float AudioLinkRemap(float t, float a, float b, float u, float v)
+			{
+				return ((t - a) / (b - a)) * (v - u) + u;
+			}
 			float3 AudioLinkHSVtoRGB(float3 HSV)
 			{
 				float3 RGB = 0;
@@ -6295,12 +6418,30 @@ Shader "Hidden/Locked/.poiyomi/Poiyomi Toon/80148176cf016644d87d45345297084a"
 				if (HSV.y != 0)
 				{
 					float I = floor(H);
-					if (I == 0) { RGB = float3(C, X, 0); }
-					else if (I == 1) { RGB = float3(X, C, 0); }
-					else if (I == 2) { RGB = float3(0, C, X); }
-					else if (I == 3) { RGB = float3(0, X, C); }
-					else if (I == 4) { RGB = float3(X, 0, C); }
-					else { RGB = float3(C, 0, X); }
+					if (I == 0)
+					{
+						RGB = float3(C, X, 0);
+					}
+					else if (I == 1)
+					{
+						RGB = float3(X, C, 0);
+					}
+					else if (I == 2)
+					{
+						RGB = float3(0, C, X);
+					}
+					else if (I == 3)
+					{
+						RGB = float3(0, X, C);
+					}
+					else if (I == 4)
+					{
+						RGB = float3(X, 0, C);
+					}
+					else
+					{
+						RGB = float3(C, 0, X);
+					}
 				}
 				float M = HSV.z - C;
 				return RGB + M;
@@ -6312,13 +6453,13 @@ Shader "Hidden/Locked/.poiyomi/Poiyomi Toon/80148176cf016644d87d45345297084a"
 				note *= 12.0;
 				note = glsl_mod(4. - note + rootNote, 12.0);
 				{
-					if(note < 4.0)
+					if (note < 4.0)
 					{
 						hue = (note) / 24.0;
 					}
-					else if(note < 8.0)
+					else if (note < 8.0)
 					{
-						hue = (note-2.0) / 12.0;
+						hue = (note - 2.0) / 12.0;
 					}
 					else
 					{
@@ -6352,20 +6493,14 @@ Shader "Hidden/Locked/.poiyomi/Poiyomi Toon/80148176cf016644d87d45345297084a"
 			}
 			float getBandAtTime(float band, float time, float size = 1.0f)
 			{
-				return remapClamped(min(size,.9999), 1, AudioLinkData(ALPASS_AUDIOBASS + uint2(time * AUDIOLINK_WIDTH,band)).r);
+				return remapClamped(min(size, .9999), 1, AudioLinkData(ALPASS_AUDIOBASS + uint2(time * AUDIOLINK_WIDTH, band)).r);
 			}
-			fixed3 maximize(fixed3 c) {
+			fixed3 maximize(fixed3 c)
+			{
 				if (c.x == 0 && c.y == 0 && c.z == 0)
 				return fixed3(1.0, 1.0, 1.0);
 				else
 				return c / max(c.r, max(c.g, c.b));
-			}
-			bool LumaIsAvailable()
-			{
-				return LumaData(0.629, 0.511).r > 0.9;
-			}
-			float3 getLumaGradient(uint index, float offset) {
-				return LumaData(0.57 + (index * 0.11) + lerp(0, 0.107, offset), 0.493);
 			}
 			void initPoiAudioLink(inout PoiMods poiMods)
 			{
@@ -6374,22 +6509,22 @@ Shader "Hidden/Locked/.poiyomi/Poiyomi Toon/80148176cf016644d87d45345297084a"
 				{
 					poiMods.audioLinkAvailable = true;
 					poiMods.audioLinkVersion = AudioLinkGetVersion();
-					poiMods.audioLink[0] = (0.0 /*_AudioLinkSmoothingBass*/)    == 0 ? AudioLinkData(ALPASS_AUDIOLINK + float2(0, 0))[0] : AudioLinkData(ALPASS_FILTEREDAUDIOLINK + float2((1 - (0.0 /*_AudioLinkSmoothingBass*/)   ) * 15.95, 0))[0];
-					poiMods.audioLink[1] = (0.0 /*_AudioLinkSmoothingLowMid*/)  == 0 ? AudioLinkData(ALPASS_AUDIOLINK + float2(0, 1))[0] : AudioLinkData(ALPASS_FILTEREDAUDIOLINK + float2((1 - (0.0 /*_AudioLinkSmoothingLowMid*/) ) * 15.95, 1))[0];
+					poiMods.audioLink[0] = (0.0 /*_AudioLinkSmoothingBass*/) == 0 ? AudioLinkData(ALPASS_AUDIOLINK + float2(0, 0))[0] : AudioLinkData(ALPASS_FILTEREDAUDIOLINK + float2((1 - (0.0 /*_AudioLinkSmoothingBass*/)) * 15.95, 0))[0];
+					poiMods.audioLink[1] = (0.0 /*_AudioLinkSmoothingLowMid*/) == 0 ? AudioLinkData(ALPASS_AUDIOLINK + float2(0, 1))[0] : AudioLinkData(ALPASS_FILTEREDAUDIOLINK + float2((1 - (0.0 /*_AudioLinkSmoothingLowMid*/)) * 15.95, 1))[0];
 					poiMods.audioLink[2] = (0.0 /*_AudioLinkSmoothingHighMid*/) == 0 ? AudioLinkData(ALPASS_AUDIOLINK + float2(0, 2))[0] : AudioLinkData(ALPASS_FILTEREDAUDIOLINK + float2((1 - (0.0 /*_AudioLinkSmoothingHighMid*/)) * 15.95, 2))[0];
-					poiMods.audioLink[3] = (0.0 /*_AudioLinkSmoothingTreble*/)  == 0 ? AudioLinkData(ALPASS_AUDIOLINK + float2(0, 3))[0] : AudioLinkData(ALPASS_FILTEREDAUDIOLINK + float2((1 - (0.0 /*_AudioLinkSmoothingTreble*/) ) * 15.95, 3))[0];
+					poiMods.audioLink[3] = (0.0 /*_AudioLinkSmoothingTreble*/) == 0 ? AudioLinkData(ALPASS_AUDIOLINK + float2(0, 3))[0] : AudioLinkData(ALPASS_FILTEREDAUDIOLINK + float2((1 - (0.0 /*_AudioLinkSmoothingTreble*/)) * 15.95, 3))[0];
 					poiMods.audioLink[4] = AudioLinkData(ALPASS_GENERALVU + float2(8, 0))[0];
-					poiMods.globalColorTheme[4] =  float4(AudioLinkCCtoRGB(glsl_mod(AudioLinkData(ALPASS_CCINTERNAL + uint2(2, 0))[0], AUDIOLINK_EXPBINS), 1, AUDIOLINK_ROOTNOTE), 1.0);
-					poiMods.globalColorTheme[5] =  float4(AudioLinkCCtoRGB(glsl_mod(AudioLinkData(ALPASS_CCINTERNAL + uint2(3, 0))[0], AUDIOLINK_EXPBINS), 1, AUDIOLINK_ROOTNOTE), 1.0);
-					poiMods.globalColorTheme[6] =  float4(AudioLinkCCtoRGB(glsl_mod(AudioLinkData(ALPASS_CCINTERNAL + uint2(4, 0))[0], AUDIOLINK_EXPBINS), 1, AUDIOLINK_ROOTNOTE), 1.0);
-					poiMods.globalColorTheme[7] =  float4(AudioLinkCCtoRGB(glsl_mod(AudioLinkData(ALPASS_CCINTERNAL + uint2(5, 0))[0], AUDIOLINK_EXPBINS), 1, AUDIOLINK_ROOTNOTE), 1.0);
+					poiMods.globalColorTheme[4] = float4(AudioLinkCCtoRGB(glsl_mod(AudioLinkData(ALPASS_CCINTERNAL + uint2(2, 0))[0], AUDIOLINK_EXPBINS), 1, AUDIOLINK_ROOTNOTE), 1.0);
+					poiMods.globalColorTheme[5] = float4(AudioLinkCCtoRGB(glsl_mod(AudioLinkData(ALPASS_CCINTERNAL + uint2(3, 0))[0], AUDIOLINK_EXPBINS), 1, AUDIOLINK_ROOTNOTE), 1.0);
+					poiMods.globalColorTheme[6] = float4(AudioLinkCCtoRGB(glsl_mod(AudioLinkData(ALPASS_CCINTERNAL + uint2(4, 0))[0], AUDIOLINK_EXPBINS), 1, AUDIOLINK_ROOTNOTE), 1.0);
+					poiMods.globalColorTheme[7] = float4(AudioLinkCCtoRGB(glsl_mod(AudioLinkData(ALPASS_CCINTERNAL + uint2(5, 0))[0], AUDIOLINK_EXPBINS), 1, AUDIOLINK_ROOTNOTE), 1.0);
 					poiMods.globalColorTheme[8] = AudioLinkData(ALPASS_THEME_COLOR0);
 					poiMods.globalColorTheme[9] = AudioLinkData(ALPASS_THEME_COLOR1);
 					poiMods.globalColorTheme[10] = AudioLinkData(ALPASS_THEME_COLOR2);
 					poiMods.globalColorTheme[11] = AudioLinkData(ALPASS_THEME_COLOR3);
 					return;
 				}
-				if((0.0 /*_AudioLinkBandOverridesEnabled*/))
+				if ((0.0 /*_AudioLinkBandOverridesEnabled*/))
 				{
 					poiMods.audioLinkAvailable = true;
 					poiMods.audioLink[0] = float4(0,0,0,0).x;
@@ -6397,69 +6532,62 @@ Shader "Hidden/Locked/.poiyomi/Poiyomi Toon/80148176cf016644d87d45345297084a"
 					poiMods.audioLink[2] = float4(0,0,0,0).z;
 					poiMods.audioLink[3] = float4(0,0,0,0).w;
 				}
-				if (LumaIsAvailable())
-				{
-					float4 audioPixel = LumaData(0.578, 0.515);
-					float audioLows = audioPixel.r;
-					float audioHighs = audioPixel.g;
-					float4 zone1 = LumaData(0.856, 0.522);
-					float4 zone2 = LumaData(0.856, 0.507);
-					float4 zone3 = LumaData(0.864, 0.522);
-					float4 zone4 = LumaData(0.864, 0.507);
-					poiMods.audioLinkAvailable = true;
-					poiMods.audioLinkViaLuma = true;
-					poiMods.audioLink[0] = audioLows;
-					poiMods.audioLink[1] = audioLows;
-					poiMods.audioLink[2] = audioHighs;
-					poiMods.audioLink[3] = audioHighs;
-					poiMods.globalColorTheme[8] = zone1;
-					poiMods.globalColorTheme[9] = zone2;
-					poiMods.globalColorTheme[10] = zone3;
-					poiMods.globalColorTheme[11] = zone4;
-				}
 			}
-			void DebugVisualizer(inout PoiFragData poiFragData, in PoiMesh poiMesh, in PoiMods poiMods){
-				if (_DebugWaveform){
-					float waveform = AudioLinkLerpMultiline(ALPASS_WAVEFORM + float2( 500. * poiMesh.uv[0].x, 0)).r;
+			void DebugVisualizer(inout PoiFragData poiFragData, in PoiMesh poiMesh, in PoiMods poiMods)
+			{
+				if (_DebugWaveform)
+				{
+					float waveform = AudioLinkLerpMultiline(ALPASS_WAVEFORM + float2(500. * poiMesh.uv[0].x, 0)).r;
 					poiFragData.emission += clamp(1 - 50 * abs(waveform - poiMesh.uv[0].y * 2. + 1), 0, 1);
 				}
-				if (_DebugDFT){
+				if (_DebugDFT)
+				{
 					poiFragData.emission += AudioLinkLerpMultiline(ALPASS_DFT + uint2(poiMesh.uv[0].x * AUDIOLINK_ETOTALBINS, 0)).rrr;
 				}
-				if (_DebugBass){
+				if (_DebugBass)
+				{
 					poiFragData.emission += poiMods.audioLink[0];
 				}
-				if (_DebugLowMids){
+				if (_DebugLowMids)
+				{
 					poiFragData.emission += poiMods.audioLink[1];
 				}
-				if (_DebugHighMids){
+				if (_DebugHighMids)
+				{
 					poiFragData.emission += poiMods.audioLink[2];
 				}
-				if (_DebugTreble){
+				if (_DebugTreble)
+				{
 					poiFragData.emission += poiMods.audioLink[3];
 				}
-				if (_DebugCCColors){
+				if (_DebugCCColors)
+				{
 					poiFragData.emission += AudioLinkData(ALPASS_CCCOLORS + uint2(3 + 1, 0));
 				}
-				if (_DebugCCStrip){
+				if (_DebugCCStrip)
+				{
 					poiFragData.emission += AudioLinkLerp(ALPASS_CCSTRIP + float2(poiMesh.uv[0].x * AUDIOLINK_WIDTH, 0));
 				}
-				if (_DebugCCLights){
+				if (_DebugCCLights)
+				{
 					poiFragData.emission += AudioLinkData(ALPASS_CCLIGHTS + uint2(uint(poiMesh.uv[0].x * 8) + uint(poiMesh.uv[0].y * 16) * 8, 0));
 				}
-				if (_DebugAutocorrelator){
+				if (_DebugAutocorrelator)
+				{
 					poiFragData.emission += saturate(AudioLinkLerp(ALPASS_AUTOCORRELATOR + float2((abs(1. - poiMesh.uv[0].x * 2.)) * AUDIOLINK_WIDTH, 0)).rrr);
 				}
-				if (_DebugChronotensity){
-					poiFragData.emission += (AudioLinkDecodeDataAsUInt(ALPASS_CHRONOTENSITY  + uint2(1, 0)) % 1000000) / 1000000.0;
+				if (_DebugChronotensity)
+				{
+					poiFragData.emission += (AudioLinkDecodeDataAsUInt(ALPASS_CHRONOTENSITY + uint2(1, 0)) % 1000000) / 1000000.0;
 				}
 			}
-			void SetupAudioLink(inout PoiFragData poiFragData, inout PoiMods poiMods, in PoiMesh poiMesh){
+			void SetupAudioLink(inout PoiFragData poiFragData, inout PoiMods poiMods, in PoiMesh poiMesh)
+			{
 				initPoiAudioLink(poiMods);
 				DebugVisualizer(poiFragData, poiMesh, poiMods);
-				if(_AudioLinkCCStripY)
+				if (_AudioLinkCCStripY)
 				{
-					poiFragData.emission += AudioLinkLerp( ALPASS_CCSTRIP + float2( poiMesh.uv[0].y * AUDIOLINK_WIDTH, 0 ) ).rgb * .5;
+					poiFragData.emission += AudioLinkLerp(ALPASS_CCSTRIP + float2(poiMesh.uv[0].y * AUDIOLINK_WIDTH, 0)).rgb * .5;
 				}
 			}
 			#endif
@@ -6688,6 +6816,15 @@ Shader "Hidden/Locked/.poiyomi/Poiyomi Toon/80148176cf016644d87d45345297084a"
 					default: return 0; break;
 				}
 			}
+			void handleGlobalMaskDistance(int index, bool enable, bool type, float minAlpha, float maxAlpha, float min, float max, int blendType, in PoiMesh poiMesh, inout PoiMods poiMods)
+			{
+				if (enable)
+				{
+					float3 position = type ? poiMesh.worldPos : poiMesh.objectPosition;
+					float val = lerp(minAlpha, maxAlpha, smoothstep(min, max, distance(position, _WorldSpaceCameraPos)));
+					poiMods.globalMask[index] = saturate(customDistanceBlend(poiMods.globalMask[index], val, blendType));
+				}
+			}
 			void ApplyGlobalMaskModifiers(in PoiMesh poiMesh, inout PoiMods poiMods, in PoiCam poiCam)
 			{
 			}
@@ -6840,28 +6977,38 @@ Shader "Hidden/Locked/.poiyomi/Poiyomi Toon/80148176cf016644d87d45345297084a"
 				float attenuation = 1;
 				#if defined(POINT) || defined(SPOT)
 				shadowAttenuation = lerp(1, poiLight.additiveShadow, poiLight.attenuationStrength);
-				attenuation = poiLight.attenuation;
 				#endif
-				#ifdef UNITY_PASS_FORWARDADD
-				if ((3.0 /*_LightingAdditiveType*/) == 0) // Realistic
+				#ifdef POI_PASS_ADD
+				if ((3.0 /*_LightingAdditiveType*/) == 3)
+				{
+					#if defined(POINT) || defined(SPOT)
+					#if defined(_LIGHTINGMODE_REALISTIC) || defined(_LIGHTINGMODE_CLOTH) || defined(_LIGHTINGMODE_WRAPPED)
+					poiLight.rampedLightMap = max(0, poiLight.nDotL);
+					poiLight.finalLighting = poiLight.directColor * attenuation * max(0, poiLight.nDotL) * poiLight.detailShadow * shadowAttenuation;
+					return;
+					#endif
+					#endif
+				}
+				if ((3.0 /*_LightingAdditiveType*/) == 0)
 				{
 					poiLight.rampedLightMap = max(0, poiLight.nDotL);
 					poiLight.finalLighting = poiLight.directColor * attenuation * max(0, poiLight.nDotL) * poiLight.detailShadow * shadowAttenuation;
 					return;
 				}
-				else if ((3.0 /*_LightingAdditiveType*/) == 1) // Toon
+				if ((3.0 /*_LightingAdditiveType*/) == 1)
 				{
 					#if defined(POINT_COOKIE) || defined(DIRECTIONAL_COOKIE)
 					float passthrough = 0;
 					#else
 					float passthrough = (0.5 /*_LightingAdditivePassthrough*/);
 					#endif
-					if ((0.5 /*_LightingAdditiveGradientEnd*/) == (0.0 /*_LightingAdditiveGradientStart*/)) (0.5 /*_LightingAdditiveGradientEnd*/) += 0.001;
-					poiLight.rampedLightMap = smoothstep((0.5 /*_LightingAdditiveGradientEnd*/), (0.0 /*_LightingAdditiveGradientStart*/), 1 - (.5 * poiLight.nDotL + .5));
+					float2 ToonAddGradient = float2((0.0 /*_LightingAdditiveGradientStart*/), (0.5 /*_LightingAdditiveGradientEnd*/));
+					if (ToonAddGradient.x == ToonAddGradient.y) ToonAddGradient.y += 0.0001;
+					poiLight.rampedLightMap = smoothstep(ToonAddGradient.y, ToonAddGradient.x, 1 - (.5 * poiLight.nDotL + .5));
 					#if defined(POINT) || defined(SPOT)
-					poiLight.finalLighting = lerp(poiLight.directColor * max(min(poiLight.additiveShadow, poiLight.detailShadow), passthrough), poiLight.indirectColor, smoothstep((0.0 /*_LightingAdditiveGradientStart*/), (0.5 /*_LightingAdditiveGradientEnd*/), 1 - (.5 * poiLight.nDotL + .5))) * poiLight.attenuation;
+					poiLight.finalLighting = lerp(poiLight.directColor * max(min(poiLight.additiveShadow, poiLight.detailShadow), passthrough), poiLight.indirectColor, smoothstep(ToonAddGradient.x, ToonAddGradient.y, 1 - (.5 * poiLight.nDotL + .5)));
 					#else
-					poiLight.finalLighting = lerp(poiLight.directColor * max(min(poiLight.attenuation, poiLight.detailShadow), passthrough), poiLight.indirectColor, smoothstep((0.0 /*_LightingAdditiveGradientStart*/), (0.5 /*_LightingAdditiveGradientEnd*/), 1 - (.5 * poiLight.nDotL + .5)));
+					poiLight.finalLighting = lerp(poiLight.directColor * max(min(poiLight.attenuation, poiLight.detailShadow), passthrough), poiLight.indirectColor, smoothstep(ToonAddGradient.x, ToonAddGradient.y, 1 - (.5 * poiLight.nDotL + .5)));
 					#endif
 					return;
 				}
@@ -6905,11 +7052,13 @@ Shader "Hidden/Locked/.poiyomi/Poiyomi Toon/80148176cf016644d87d45345297084a"
 						}
 						if (lightingMode == 0)
 						{
-							vertexLighting = max(vertexLighting, poiLight.vColor[index] * poiLight.vAttenuationDotNL[index] * poiLight.detailShadow); // Realistic
+							vertexLighting = max(vertexLighting, poiLight.vColor[index] * poiLight.vSaturatedDotNL[index] * poiLight.detailShadow); // Realistic
 						}
-						if (lightingMode == 1) // Toon
+						if (lightingMode == 1)
 						{
-							vertexLighting = max(vertexLighting,lerp(poiLight.vColor[index] * poiLight.vAttenuation[index], poiLight.vColor[index] * (0.5 /*_LightingAdditivePassthrough*/) * poiLight.vAttenuation[index], smoothstep((0.0 /*_LightingAdditiveGradientStart*/), (0.5 /*_LightingAdditiveGradientEnd*/), 1 - (.5 * poiLight.vDotNL[index] + .5))) * poiLight.detailShadow);
+							float2 ToonAddGradient = float2((0.0 /*_LightingAdditiveGradientStart*/), (0.5 /*_LightingAdditiveGradientEnd*/));
+							if (ToonAddGradient.x == ToonAddGradient.y) ToonAddGradient.y += 0.0001;
+							vertexLighting = max(vertexLighting, lerp(poiLight.vColor[index], poiLight.vColor[index] * (0.5 /*_LightingAdditivePassthrough*/), smoothstep(ToonAddGradient.x, ToonAddGradient.y, 1 - (.5 * poiLight.vDotNL[index] + .5))) * poiLight.detailShadow);
 						}
 					}
 					float3 mixedLight = poiLight.finalLighting;
@@ -6974,7 +7123,7 @@ Shader "Hidden/Locked/.poiyomi/Poiyomi Toon/80148176cf016644d87d45345297084a"
 				half m_DecalRotationSpeed;
 				float m_DecalEmissionStrength;
 				float m_DecalBlendAlpha;
-				float m_DecalOverrideAlpha;
+				float m_DecalAlphaBlendMode;
 				float m_DecalHueShiftEnabled;
 				float m_DecalHueShift;
 				float m_DecalHueShiftSpeed;
@@ -6987,6 +7136,7 @@ Shader "Hidden/Locked/.poiyomi/Poiyomi Toon/80148176cf016644d87d45345297084a"
 				float m_DecalChannelSeparationVertical;
 				float m_DecalChannelSeparationAngleStrength;
 				float m_DecalOverrideAlphaMode;
+				float m_DecalOverrideAlpha;
 				#if defined(POI_AUDIOLINK)
 				half m_AudioLinkDecalScaleBand;
 				float4 m_AudioLinkDecalScale;
@@ -7039,17 +7189,32 @@ Shader "Hidden/Locked/.poiyomi/Poiyomi Toon/80148176cf016644d87d45345297084a"
 					decalColor.rgb = decalHueShift(m_DecalHueShiftEnabled, decalColor.rgb, m_DecalHueShift + poiLight.nDotV * m_DecalHueAngleStrength, m_DecalHueShiftSpeed);
 					decalColor.a *= decalMask[m_DecalMaskChannel] * applyTilingClipping(m_DecalTiled, uv);
 				}
-				void SampleDecal(sampler2D decalTexture, in PoiMods poiMods, in PoiLight poiLight, in PoiMesh poiMesh, in PoiCam poiCam)
+				void SampleDecal(sampler2D decalTexture, in PoiMods poiMods, in PoiLight poiLight, in PoiMesh poiMesh, in PoiCam poiCam, float2 scaleMultiplier = float2(1, 1))
 				{
-					uv = decalUV(m_DecalTextureUV, m_DecalPosition, m_DecalRotation + decalRotation, m_DecalRotationSpeed, decalScale, m_DecalSideOffset +sideMod, m_DecalDepth, poiMesh, poiCam);
+					uv = decalUV(m_DecalTextureUV, m_DecalPosition, m_DecalRotation + decalRotation, m_DecalRotationSpeed, decalScale * scaleMultiplier, m_DecalSideOffset +sideMod, m_DecalDepth, poiMesh, poiCam);
 					float4 dduv = any(fwidth(uv) > .5) ? 0.001 : float4(ddx(uv) * m_DecalTexture_ST.x, ddy(uv) * m_DecalTexture_ST.y);
 					decalColor = tex2D(decalTexture, poiUV(uv, m_DecalTexture_ST) + m_DecalTexturePan * _Time.x, dduv.xy, dduv.zw) * float4(poiThemeColor(poiMods, m_DecalColor.rgb, m_DecalColorThemeIndex), m_DecalColor.a);
 					decalColor.rgb = decalHueShift(m_DecalHueShiftEnabled, decalColor.rgb, m_DecalHueShift + poiLight.nDotV * m_DecalHueAngleStrength, m_DecalHueShiftSpeed);
 					decalColor.a *= decalMask[m_DecalMaskChannel] * applyTilingClipping(m_DecalTiled, uv);
 				}
+				void SampleDecalNoAlpha(sampler2D decalTexture, in PoiMods poiMods, in PoiLight poiLight, in PoiMesh poiMesh, in PoiCam poiCam, float2 scaleMultiplier = float2(1, 1))
+				{
+					uv = decalUV(m_DecalTextureUV, m_DecalPosition, m_DecalRotation + decalRotation, m_DecalRotationSpeed, decalScale * scaleMultiplier, m_DecalSideOffset +sideMod, m_DecalDepth, poiMesh, poiCam);
+					float4 dduv = any(fwidth(uv) > .5) ? 0.001 : float4(ddx(uv) * m_DecalTexture_ST.x, ddy(uv) * m_DecalTexture_ST.y);
+					decalColor.rgb = tex2D(decalTexture, poiUV(uv, m_DecalTexture_ST) + m_DecalTexturePan * _Time.x, dduv.xy, dduv.zw) * float4(poiThemeColor(poiMods, m_DecalColor.rgb, m_DecalColorThemeIndex), m_DecalColor.a).rgb;
+					decalColor.rgb = decalHueShift(m_DecalHueShiftEnabled, decalColor.rgb, m_DecalHueShift + poiLight.nDotV * m_DecalHueAngleStrength, m_DecalHueShiftSpeed);
+					decalColor.a *= decalMask[m_DecalMaskChannel] * applyTilingClipping(m_DecalTiled, uv);
+				}
+				void SampleDecalAlphaOnly(sampler2D decalTexture, in PoiMods poiMods, in PoiLight poiLight, in PoiMesh poiMesh, in PoiCam poiCam, float2 scaleMultiplier = float2(1, 1))
+				{
+					uv = decalUV(m_DecalTextureUV, m_DecalPosition, m_DecalRotation + decalRotation, m_DecalRotationSpeed, decalScale * scaleMultiplier, m_DecalSideOffset +sideMod, m_DecalDepth, poiMesh, poiCam);
+					float4 dduv = any(fwidth(uv) > .5) ? 0.001 : float4(ddx(uv) * m_DecalTexture_ST.x, ddy(uv) * m_DecalTexture_ST.y);
+					decalColor = tex2D(decalTexture, poiUV(uv, m_DecalTexture_ST) + m_DecalTexturePan * _Time.x, dduv.xy, dduv.zw) * float4(poiThemeColor(poiMods, m_DecalColor.rgb, m_DecalColorThemeIndex), m_DecalColor.a);
+					decalColor.a *= decalMask[m_DecalMaskChannel] * applyTilingClipping(m_DecalTiled, uv);
+				}
 				void SampleDecalChannelSeparation(sampler2D decalTexture, in PoiMods poiMods, in PoiLight poiLight, in PoiMesh poiMesh, in PoiCam poiCam)
 				{
-					decalColor = 0;
+					decalColor = float4(0, 0, 0, 1);
 					decalChannelOffset += m_DecalChannelSeparation + m_DecalChannelSeparationAngleStrength * (m_DecalChannelSeparationAngleStrength > 0 ? (1 - poiLight.nDotV) : poiLight.nDotV);
 					float2 positionOffset = decalChannelOffset * 0.01 * (decalScale.x + decalScale.y) * float2(cos(m_DecalChannelSeparationVertical), sin(m_DecalChannelSeparationVertical));
 					float2 uvSample0 = decalUV(m_DecalTextureUV, m_DecalPosition + positionOffset, m_DecalRotation + decalRotation, m_DecalRotationSpeed, decalScale, m_DecalSideOffset +sideMod, m_DecalDepth, poiMesh, poiCam);
@@ -7097,17 +7262,27 @@ Shader "Hidden/Locked/.poiyomi/Poiyomi Toon/80148176cf016644d87d45345297084a"
 					#endif
 					if (m_DecalOverrideAlpha)
 					{
-						alphaOverride += 1;
+						float finalAlpha = lerp(1, min(decalAlpha, decalColor.a), decalMask[m_DecalMaskChannel]);
 						if (m_DecalOverrideAlphaMode != 0 && !m_DecalTiled)
 						{
 							if (uv.x > 0 && uv.x < 1 && uv.y > 0 && uv.y < 1)
 							{
-								decalAlpha = lerp(decalAlpha, min(decalAlpha, decalColor.a), decalMask[m_DecalMaskChannel]);
+								if (m_DecalOverrideAlpha == 1) poiFragData.alpha = finalAlpha;
+								if (m_DecalOverrideAlpha == 2) poiFragData.alpha = saturate(poiFragData.alpha * finalAlpha);
+								if (m_DecalOverrideAlpha == 3) poiFragData.alpha = saturate(poiFragData.alpha + finalAlpha);
+								if (m_DecalOverrideAlpha == 4) poiFragData.alpha = saturate(poiFragData.alpha - finalAlpha);
+								if (m_DecalOverrideAlpha == 5) poiFragData.alpha = min(poiFragData.alpha, finalAlpha);
+								if (m_DecalOverrideAlpha == 6) poiFragData.alpha = max(poiFragData.alpha, finalAlpha);
 							}
 						}
 						else
 						{
-							decalAlpha = lerp(decalAlpha, min(decalAlpha, decalColor.a), decalMask[m_DecalMaskChannel]);
+							if (m_DecalOverrideAlpha == 1) poiFragData.alpha = finalAlpha;
+							if (m_DecalOverrideAlpha == 2) poiFragData.alpha = saturate(poiFragData.alpha * finalAlpha);
+							if (m_DecalOverrideAlpha == 3) poiFragData.alpha = saturate(poiFragData.alpha + finalAlpha);
+							if (m_DecalOverrideAlpha == 4) poiFragData.alpha = saturate(poiFragData.alpha - finalAlpha);
+							if (m_DecalOverrideAlpha == 5) poiFragData.alpha = min(poiFragData.alpha, finalAlpha);
+							if (m_DecalOverrideAlpha == 6) poiFragData.alpha = max(poiFragData.alpha, finalAlpha);
 						}
 					}
 					if (m_DecalFaceMask > 0)
@@ -7129,9 +7304,57 @@ Shader "Hidden/Locked/.poiyomi/Poiyomi Toon/80148176cf016644d87d45345297084a"
 					poiFragData.baseColor.rgb = lerp(poiFragData.baseColor.rgb, customBlend(poiFragData.baseColor.rgb, decalColor.rgb, m_DecalBlendType), decalAlphaMixed);
 					poiFragData.emission += decalColor.rgb * decalColor.a * max(m_DecalEmissionStrength + audioLinkDecalEmission, 0);
 				}
+				float2 GetVideoAspectRatio(float2 videoDimensions, float CorrectionType, float fitToScale)
+				{
+					float2 AspectRatioMultiplier = float2(1, 1);
+					if (fitToScale)
+					{
+						float2 decalScale = m_DecalScale.xy + float2(m_DecalSideOffset.x + m_DecalSideOffset.y, m_DecalSideOffset.z + m_DecalSideOffset.w);
+						if (decalScale.x > decalScale.y)
+						{
+							videoDimensions.xy *= float2((decalScale.y / decalScale.x), 1);
+						}
+						else
+						{
+							videoDimensions.xy *= float2(1, (decalScale.x / decalScale.y));
+						}
+					}
+					if (CorrectionType != 2)
+					{
+						if (CorrectionType == 0)
+						{
+							if (videoDimensions.x > videoDimensions.y)
+							{
+								AspectRatioMultiplier = float2(1, videoDimensions.y / videoDimensions.x);
+							}
+							else
+							{
+								AspectRatioMultiplier = float2(videoDimensions.x / videoDimensions.y, 1);
+							}
+						}
+						else if (CorrectionType == 1)
+						{
+							if (videoDimensions.x > videoDimensions.y)
+							{
+								AspectRatioMultiplier = float2(1 / (videoDimensions.y / videoDimensions.x), 1);
+							}
+							else
+							{
+								AspectRatioMultiplier = float2(1, 1 / (videoDimensions.x / videoDimensions.y));
+							}
+						}
+					}
+					return AspectRatioMultiplier;
+				}
 			};
 			void applyDecals(inout PoiFragData poiFragData, in PoiMesh poiMesh, in PoiCam poiCam, inout PoiMods poiMods, in PoiLight poiLight)
 			{
+				float udonVideoTexAvailable = 0;
+				float2 udonVideoAspectRatio = 1;
+				if (_Udon_VideoTex_TexelSize.z > 16)
+				{
+					udonVideoTexAvailable = 1;
+				}
 				float decalAlpha = 1;
 				float alphaOverride = 0;
 				#if defined(PROP_DECALMASK) || !defined(OPTIMIZER_ENABLED)
@@ -7150,10 +7373,6 @@ Shader "Hidden/Locked/.poiyomi/Poiyomi Toon/80148176cf016644d87d45345297084a"
 				#endif
 				float4 decalColor = 1;
 				float2 uv = 0;
-				if (alphaOverride)
-				{
-					poiFragData.alpha *= decalAlpha;
-				}
 			}
 			#endif
 			#ifdef POI_AUDIOLINK
@@ -7486,9 +7705,10 @@ Shader "Hidden/Locked/.poiyomi/Poiyomi Toon/80148176cf016644d87d45345297084a"
 				float3 vSpecular2 = 0;
 				float3 reflections = 0;
 				float3 environment = 0;
+				#if defined(POINT) || defined(SPOT)
+				float attenuation = lerp(poiLight.additiveShadow, 1, (0.0 /*_IgnoreCastedShadows*/));
+				#else
 				float attenuation = min(poiLight.nDotLSaturated, lerp(poiLight.attenuation, 1, (0.0 /*_IgnoreCastedShadows*/)));
-				#ifdef POI_PASS_ADD
-				attenuation *= lerp(poiLight.additiveShadow, 1, (0.0 /*_IgnoreCastedShadows*/));
 				#endif
 				float3 fresnelTerm = 1;
 				float3 specularTerm = 1;
@@ -7508,7 +7728,7 @@ Shader "Hidden/Locked/.poiyomi/Poiyomi Toon/80148176cf016644d87d45345297084a"
 						float pbrVDotNL = lerp(poiLight.vertexVDotNL[index], poiLight.vDotNL[index], (1.0 /*_PBRNormalSelect*/));
 						float pbrVDotNH = lerp(poiLight.vertexVDotNH[index], poiLight.vDotNH[index], (1.0 /*_PBRNormalSelect*/));
 						GetSpecFresTerm(pbrVDotNL, pbrNDotV, pbrVDotNH, poiLight.vDotLH[index], specularTerm, fresnelTerm, specCol, brdfRoughness);
-						vSpecular += poiLight.vColor[index] * specularTerm * fresnelTerm * specularMask * poiThemeColor(poiMods, float4(1,1,1,1), (0.0 /*_MochieSpecularTintThemeIndex*/)) * poiLight.occlusion * poiLight.vAttenuation[index];
+						vSpecular += poiLight.vColor[index] * specularTerm * fresnelTerm * specularMask * poiThemeColor(poiMods, float4(1,1,1,1), (0.0 /*_MochieSpecularTintThemeIndex*/)) * poiLight.occlusion;
 					}
 					#endif
 				}
@@ -7528,7 +7748,7 @@ Shader "Hidden/Locked/.poiyomi/Poiyomi Toon/80148176cf016644d87d45345297084a"
 							float pbrVDotNL = lerp(poiLight.vertexVDotNL[index], poiLight.vDotNL[index], (1.0 /*_PBRNormalSelect*/));
 							float pbrVDotNH = lerp(poiLight.vertexVDotNH[index], poiLight.vDotNH[index], (1.0 /*_PBRNormalSelect*/));
 							GetSpecFresTerm(pbrVDotNL, pbrNDotV, pbrVDotNH, poiLight.vDotLH[index], specularTerm, fresnelTerm, specCol, brdfRoughness2);
-							vSpecular2 += poiLight.vColor[index] * specularTerm * fresnelTerm * specularMask * poiThemeColor(poiMods, float4(1,1,1,1), (0.0 /*_MochieSpecularTintThemeIndex*/)) * poiLight.occlusion * poiLight.vAttenuation[index] * (1.0 /*_MochieSpecularStrength2*/);
+							vSpecular2 += poiLight.vColor[index] * specularTerm * fresnelTerm * specularMask * poiThemeColor(poiMods, float4(1,1,1,1), (0.0 /*_MochieSpecularTintThemeIndex*/)) * poiLight.occlusion * (1.0 /*_MochieSpecularStrength2*/);
 						}
 						#endif
 					}
@@ -7546,9 +7766,6 @@ Shader "Hidden/Locked/.poiyomi/Poiyomi Toon/80148176cf016644d87d45345297084a"
 				}
 				reflections *= poiThemeColor(poiMods, float4(1,1,1,1), (0.0 /*_MochieReflectionTintThemeIndex*/));
 				reflections *= reflectionMask;
-				#ifdef POI_PASS_ADD
-				reflections *= poiLight.attenuation;
-				#endif
 				diffuse = lerp(diffuse, diffuse * omr, reflectionMask);
 				environment = max(specular + vSpecular, specular2 + vSpecular2);
 				environment += reflections;
@@ -7628,16 +7845,16 @@ Shader "Hidden/Locked/.poiyomi/Poiyomi Toon/80148176cf016644d87d45345297084a"
 				poiMesh.uv[5] = calculateWorldUV(poiMesh);
 				poiMesh.uv[6] = calculatePolarCoordinate(poiMesh);
 				poiMesh.uv[8] = calculatelocalUV(poiMesh);
-				poiMods.globalMask[0]  = 1;
-				poiMods.globalMask[1]  = 1;
-				poiMods.globalMask[2]  = 1;
-				poiMods.globalMask[3]  = 1;
-				poiMods.globalMask[4]  = 1;
-				poiMods.globalMask[5]  = 1;
-				poiMods.globalMask[6]  = 1;
-				poiMods.globalMask[7]  = 1;
-				poiMods.globalMask[8]  = 1;
-				poiMods.globalMask[9]  = 1;
+				poiMods.globalMask[0] = 1;
+				poiMods.globalMask[1] = 1;
+				poiMods.globalMask[2] = 1;
+				poiMods.globalMask[3] = 1;
+				poiMods.globalMask[4] = 1;
+				poiMods.globalMask[5] = 1;
+				poiMods.globalMask[6] = 1;
+				poiMods.globalMask[7] = 1;
+				poiMods.globalMask[8] = 1;
+				poiMods.globalMask[9] = 1;
 				poiMods.globalMask[10] = 1;
 				poiMods.globalMask[11] = 1;
 				poiMods.globalMask[12] = 1;
@@ -7656,6 +7873,12 @@ Shader "Hidden/Locked/.poiyomi/Poiyomi Toon/80148176cf016644d87d45345297084a"
 				#else
 				poiMesh.tangentSpaceNormal = UnpackNormal(float4(0.5, 0.5, 1, 1));
 				#endif
+				float3 tangentSpaceNormal = UnpackNormal(float4(0.5, 0.5, 1, 1));
+				poiMesh.normals[0] = normalize(
+				tangentSpaceNormal.x * poiMesh.tangent[0] +
+				tangentSpaceNormal.y * poiMesh.binormal[0] +
+				tangentSpaceNormal.z * poiMesh.normals[0]
+				);
 				poiMesh.normals[1] = normalize(
 				poiMesh.tangentSpaceNormal.x * poiMesh.tangent[0] +
 				poiMesh.tangentSpaceNormal.y * poiMesh.binormal[0] +
@@ -7757,14 +7980,14 @@ Shader "Hidden/Locked/.poiyomi/Poiyomi Toon/80148176cf016644d87d45345297084a"
 					poiLight.vertexVDotNL += toLightY * poiMesh.normals[0].y;
 					poiLight.vertexVDotNL += toLightZ * poiMesh.normals[0].z;
 					poiLight.vertexVDotNL = max(0, poiLight.vDotNL * corr);
-					poiLight.vAttenuationDotNL = saturate(poiLight.vAttenuation * saturate(poiLight.vDotNL));
+					poiLight.vSaturatedDotNL = saturate(poiLight.vDotNL);
 					[unroll]
 					for (int index = 0; index < 4; index++)
 					{
 						poiLight.vPosition[index] = float3(unity_4LightPosX0[index], unity_4LightPosY0[index], unity_4LightPosZ0[index]);
 						float3 vertexToLightSource = poiLight.vPosition[index] - poiMesh.worldPos;
 						poiLight.vDirection[index] = normalize(vertexToLightSource);
-						poiLight.vColor[index] = (1.0 /*_LightingAdditiveLimited*/) ? MaxLuminance(unity_LightColor[index].rgb, (1.0 /*_LightingAdditiveLimit*/)) : unity_LightColor[index].rgb;
+						poiLight.vColor[index] = (1.0 /*_LightingAdditiveLimited*/) ? MaxLuminance(unity_LightColor[index].rgb * poiLight.vAttenuation[index], (1.0 /*_LightingAdditiveLimit*/)) : unity_LightColor[index].rgb * poiLight.vAttenuation[index];
 						poiLight.vColor[index] = lerp(poiLight.vColor[index], dot(poiLight.vColor[index], float3(0.299, 0.587, 0.114)), (0.0 /*_LightingAdditiveMonochromatic*/));
 						poiLight.vHalfDir[index] = Unity_SafeNormalize(poiLight.vDirection[index] + poiCam.viewDir);
 						poiLight.vDotNL[index] = dot(poiMesh.normals[1], poiLight.vDirection[index]);
@@ -7974,7 +8197,7 @@ Shader "Hidden/Locked/.poiyomi/Poiyomi Toon/80148176cf016644d87d45345297084a"
 				#endif
 				poiLight.additiveShadow = UNITY_SHADOW_ATTENUATION(i, poiMesh.worldPos);
 				poiLight.attenuationStrength = (1.0 /*_LightingAdditiveCastedShadows*/);
-				poiLight.directColor = (1.0 /*_LightingAdditiveLimited*/) ? MaxLuminance(_LightColor0.rgb, (1.0 /*_LightingAdditiveLimit*/)) : _LightColor0.rgb;
+				poiLight.directColor = (1.0 /*_LightingAdditiveLimited*/) ? MaxLuminance(_LightColor0.rgb * poiLight.attenuation, (1.0 /*_LightingAdditiveLimit*/)) : _LightColor0.rgb  * poiLight.attenuation;
 				#if defined(POINT_COOKIE) || defined(DIRECTIONAL_COOKIE)
 				poiLight.indirectColor = 0;
 				#else
@@ -8166,6 +8389,7 @@ Shader "Hidden/Locked/.poiyomi/Poiyomi Toon/80148176cf016644d87d45345297084a"
 			#pragma fragment frag
 			#define DielectricSpec float4(0.04, 0.04, 0.04, 1.0 - 0.04)
 			#define PI float(3.14159265359)
+			#define Epsilon float(1e-10)
 			#define POI2D_SAMPLE_TEX2D_SAMPLERGRAD(tex, samplertex, coord, dx, dy) tex.SampleGrad(sampler##samplertex, coord, dx, dy)
 			#define POI2D_SAMPLE_TEX2D_SAMPLERGRADD(tex, samp, uv, pan, dx, dy) tex.SampleGrad(samp, POI_PAN_UV(uv, pan), dx, dy)
 			#define POI_PAN_UV(uv, pan) (uv + _Time.x * pan)
@@ -8204,33 +8428,34 @@ Shader "Hidden/Locked/.poiyomi/Poiyomi Toon/80148176cf016644d87d45345297084a"
 			#define POI_MODE_MULTIPLICATIVE 6
 			#define POI_MODE_2XMULTIPLICATIVE 7
 			#define POI_MODE_TRANSCLIPPING 9
-			#define ALPASS_DFT                      uint2(0,4)   //Size: 128, 2
-			#define ALPASS_WAVEFORM                 uint2(0,6)   //Size: 128, 16
-			#define ALPASS_AUDIOLINK                uint2(0,0)   //Size: 128, 4
-			#define ALPASS_AUDIOBASS                uint2(0,0)   //Size: 128, 1
-			#define ALPASS_AUDIOLOWMIDS             uint2(0,1)   //Size: 128, 1
-			#define ALPASS_AUDIOHIGHMIDS            uint2(0,2)   //Size: 128, 1
-			#define ALPASS_AUDIOTREBLE              uint2(0,3)   //Size: 128, 1
-			#define ALPASS_AUDIOLINKHISTORY         uint2(1,0)   //Size: 127, 4
-			#define ALPASS_GENERALVU                uint2(0,22)  //Size: 12, 1
-			#define ALPASS_CCINTERNAL               uint2(12,22) //Size: 12, 2
-			#define ALPASS_CCCOLORS                 uint2(25,22) //Size: 11, 1
-			#define ALPASS_CCSTRIP                  uint2(0,24)  //Size: 128, 1
-			#define ALPASS_CCLIGHTS                 uint2(0,25)  //Size: 128, 2
-			#define ALPASS_AUTOCORRELATOR           uint2(0,27)  //Size: 128, 1
-			#define ALPASS_GENERALVU_INSTANCE_TIME  uint2(2,22)
-			#define ALPASS_GENERALVU_LOCAL_TIME     uint2(3,22)
-			#define ALPASS_GENERALVU_NETWORK_TIME   uint2(4,22)
-			#define ALPASS_GENERALVU_PLAYERINFO     uint2(6,22)
-			#define ALPASS_FILTEREDAUDIOLINK        uint2(0,28)  //Size: 16, 4
-			#define ALPASS_CHRONOTENSITY            uint2(16,28) //Size: 8, 4
-			#define ALPASS_THEME_COLOR0             uint2(0,23)
-			#define ALPASS_THEME_COLOR1             uint2(1,23)
-			#define ALPASS_THEME_COLOR2             uint2(2,23)
-			#define ALPASS_THEME_COLOR3             uint2(3,23)
-			#define ALPASS_FILTEREDVU               uint2(24,28) //Size: 4, 4
-			#define ALPASS_FILTEREDVU_INTENSITY     uint2(24,28) //Size: 4, 1
-			#define ALPASS_FILTEREDVU_MARKER        uint2(24,29) //Size: 4, 1
+			#ifdef POI_AUDIOLINK
+			#define ALPASS_DFT                      uint2(0, 4)   //Size: 128, 2
+			#define ALPASS_WAVEFORM                 uint2(0, 6)   //Size: 128, 16
+			#define ALPASS_AUDIOLINK                uint2(0, 0)   //Size: 128, 4
+			#define ALPASS_AUDIOBASS                uint2(0, 0)   //Size: 128, 1
+			#define ALPASS_AUDIOLOWMIDS             uint2(0, 1)   //Size: 128, 1
+			#define ALPASS_AUDIOHIGHMIDS            uint2(0, 2)   //Size: 128, 1
+			#define ALPASS_AUDIOTREBLE              uint2(0, 3)   //Size: 128, 1
+			#define ALPASS_AUDIOLINKHISTORY         uint2(1, 0)   //Size: 127, 4
+			#define ALPASS_GENERALVU                uint2(0, 22)  //Size: 12, 1
+			#define ALPASS_CCINTERNAL               uint2(12, 22) //Size: 12, 2
+			#define ALPASS_CCCOLORS                 uint2(25, 22) //Size: 11, 1
+			#define ALPASS_CCSTRIP                  uint2(0, 24)  //Size: 128, 1
+			#define ALPASS_CCLIGHTS                 uint2(0, 25)  //Size: 128, 2
+			#define ALPASS_AUTOCORRELATOR           uint2(0, 27)  //Size: 128, 1
+			#define ALPASS_GENERALVU_INSTANCE_TIME  uint2(2, 22)
+			#define ALPASS_GENERALVU_LOCAL_TIME     uint2(3, 22)
+			#define ALPASS_GENERALVU_NETWORK_TIME   uint2(4, 22)
+			#define ALPASS_GENERALVU_PLAYERINFO     uint2(6, 22)
+			#define ALPASS_FILTEREDAUDIOLINK        uint2(0, 28)  //Size: 16, 4
+			#define ALPASS_CHRONOTENSITY            uint2(16, 28) //Size: 8, 4
+			#define ALPASS_THEME_COLOR0             uint2(0, 23)
+			#define ALPASS_THEME_COLOR1             uint2(1, 23)
+			#define ALPASS_THEME_COLOR2             uint2(2, 23)
+			#define ALPASS_THEME_COLOR3             uint2(3, 23)
+			#define ALPASS_FILTEREDVU               uint2(24, 28) //Size: 4, 4
+			#define ALPASS_FILTEREDVU_INTENSITY     uint2(24, 28) //Size: 4, 1
+			#define ALPASS_FILTEREDVU_MARKER        uint2(24, 29) //Size: 4, 1
 			#define AUDIOLINK_SAMPHIST              3069        // Internal use for algos, do not change.
 			#define AUDIOLINK_SAMPLEDATA24          2046
 			#define AUDIOLINK_EXPBINS               24
@@ -8269,7 +8494,7 @@ Shader "Hidden/Locked/.poiyomi/Poiyomi Toon/80148176cf016644d87d45345297084a"
 			#endif
 			uniform sampler2D _Stored;
 			uniform float4 _Stored_TexelSize;
-			#define LumaData(x,y) tex2Dlod(_Stored, float4(x, y, 0, 0))
+			#endif
 			float _GrabMode;
 			float _Mode;
 			float _StochasticDeliotHeitzDensity;
@@ -8469,7 +8694,6 @@ Shader "Hidden/Locked/.poiyomi/Poiyomi Toon/80148176cf016644d87d45345297084a"
 				float audioLinkAvailable;
 				float audioLinkVersion;
 				float4 audioLinkTexture;
-				float audioLinkViaLuma;
 				float2 detailMask;
 				float2 backFaceDetailIntensity;
 				float globalEmission;
@@ -8517,7 +8741,7 @@ Shader "Hidden/Locked/.poiyomi/Poiyomi Toon/80148176cf016644d87d45345297084a"
 				float3 vColor[4];
 				float4 vCorrectedDotNL;
 				float4 vAttenuation;
-				float4 vAttenuationDotNL;
+				float4 vSaturatedDotNL;
 				float3 vPosition[4];
 				float3 vDirection[4];
 				float3 vFinalLighting;
@@ -8959,7 +9183,9 @@ Shader "Hidden/Locked/.poiyomi/Poiyomi Toon/80148176cf016644d87d45345297084a"
 				switch(blendType)
 				{
 					case 0: output = lerp(base, blend, alpha); break;
+					case 1: output = lerp(base, blendDarken(base, blend), alpha); break;
 					case 2: output = base * lerp(1, blend, alpha); break;
+					case 5: output = lerp(base, blendLighten(base, blend), alpha); break;
 					case 6: output = lerp(base, blendScreen(base, blend), alpha); break;
 					case 7: output = blendSubtract(base, blend * alpha); break;
 					case 8: output = lerp(base, blendLinearDodge(base, blend), alpha); break;
@@ -8976,6 +9202,7 @@ Shader "Hidden/Locked/.poiyomi/Poiyomi Toon/80148176cf016644d87d45345297084a"
 				{
 					case 0: output = lerp(base, blend, alpha); break;
 					case 2: output = base * lerp(1, blend, alpha); break;
+					case 5: output = lerp(base, blendLighten(base, blend), alpha); break;
 					case 6: output = lerp(base, blendScreen(base, blend), alpha); break;
 					case 7: output = blendSubtract(base, blend * alpha); break;
 					case 8: output = lerp(base, blendLinearDodge(base, blend), alpha); break;
@@ -9074,7 +9301,6 @@ Shader "Hidden/Locked/.poiyomi/Poiyomi Toon/80148176cf016644d87d45345297084a"
 				uint index = (uint(uv.x) % 4) * 4 + uint(uv.y) % 4;
 				Out = In - DITHER_THRESHOLDS[index];
 			}
-			static const float Epsilon = 1e-10;
 			static const float3 HCYwts = float3(0.299, 0.587, 0.114);
 			static const float HCLgamma = 3;
 			static const float HCLy0 = 100;
@@ -9407,19 +9633,25 @@ Shader "Hidden/Locked/.poiyomi/Poiyomi Toon/80148176cf016644d87d45345297084a"
 			}
 			float3 poiThemeColor(in PoiMods poiMods, in float3 srcColor, in float themeIndex)
 			{
-				if (themeIndex == 0) return srcColor;
-				themeIndex -= 1;
-				if (themeIndex <= 3)
+				float3 outputColor = srcColor;
+				if (themeIndex != 0)
 				{
-					return poiMods.globalColorTheme[themeIndex];
+					themeIndex = max(themeIndex - 1, 0);
+					if (themeIndex <= 3)
+					{
+						outputColor = poiMods.globalColorTheme[themeIndex];
+					}
+					else
+					{
+						#ifdef POI_AUDIOLINK
+						if (poiMods.audioLinkAvailable)
+						{
+							outputColor = poiMods.globalColorTheme[themeIndex];
+						}
+						#endif
+					}
 				}
-				#ifdef POI_AUDIOLINK
-				if (poiMods.audioLinkAvailable)
-				{
-					return poiMods.globalColorTheme[themeIndex];
-				}
-				#endif
-				return srcColor;
+				return outputColor;
 			}
 			float3 lilToneCorrection(float3 c, float4 hsvg)
 			{
@@ -9436,11 +9668,11 @@ Shader "Hidden/Locked/.poiyomi/Poiyomi Toon/80148176cf016644d87d45345297084a"
 			{
 				float3 ad = dstCol + srcCol;
 				float3 mu = dstCol * srcCol;
-				float3 outCol;
-				if (blendMode == 0) outCol = srcCol;               // Normal
-				if (blendMode == 1) outCol = ad;                   // Add
+				float3 outCol = float3(0, 0, 0);
+				if (blendMode == 0) outCol = srcCol; // Normal
+				if (blendMode == 1) outCol = ad; // Add
 				if (blendMode == 2) outCol = max(ad - mu, dstCol); // Screen
-				if (blendMode == 3) outCol = mu;                   // Multiply
+				if (blendMode == 3) outCol = mu; // Multiply
 				return lerp(dstCol, outCol, srcA);
 			}
 			float lilIsIn0to1(float f)
@@ -9558,7 +9790,7 @@ Shader "Hidden/Locked/.poiyomi/Poiyomi Toon/80148176cf016644d87d45345297084a"
 			float3 MaxLuminance(float3 rgb, float maxLuminance)
 			{
 				float currentLuminance = dot(rgb, float3(0.299, 0.587, 0.114));
-				float luminanceRatio = (currentLuminance != 0) ? maxLuminance / currentLuminance : 1.0;
+				float luminanceRatio = (currentLuminance != 0) ? maxLuminance / max(currentLuminance, 0.00001) : 1.0;
 				return lerp(rgb, rgb * luminanceRatio, currentLuminance > maxLuminance);
 			}
 			float OpenLitGray(float3 rgb)
@@ -9692,9 +9924,9 @@ Shader "Hidden/Locked/.poiyomi/Poiyomi Toon/80148176cf016644d87d45345297084a"
 			}
 			float snoise(float2 v)
 			{
-				const float4 C = float4(0.211324865405187, // (3.0-sqrt(3.0))/6.0
-				0.366025403784439, // 0.5*(sqrt(3.0)-1.0)
-				- 0.577350269189626, // -1.0 + 2.0 * C.x
+				const float4 C = float4(0.211324865405187, // (3.0 - sqrt(3.0)) / 6.0
+				0.366025403784439, // 0.5 * (sqrt(3.0) - 1.0)
+				- 0.577350269189626, // - 1.0 + 2.0 * C.x
 				0.024390243902439); // 1.0 / 41.0
 				float2 i = floor(v + dot(v, C.yy));
 				float2 x0 = v - i + dot(i, C.xx);
@@ -9748,9 +9980,18 @@ Shader "Hidden/Locked/.poiyomi/Poiyomi Toon/80148176cf016644d87d45345297084a"
 				return float2(width, height);
 			}
 			#ifdef POI_AUDIOLINK
-			float4 AudioLinkDataMultiline(uint2 xycoord) { return AudioLinkData(uint2(xycoord.x % AUDIOLINK_WIDTH, xycoord.y + xycoord.x/AUDIOLINK_WIDTH)); }
-			float4 AudioLinkLerp(float2 xy) { return lerp( AudioLinkData(xy), AudioLinkData(xy+int2(1,0)), frac( xy.x ) ); }
-			float4 AudioLinkLerpMultiline(float2 xy) { return lerp(AudioLinkDataMultiline(xy), AudioLinkDataMultiline(xy+float2(1,0)), frac(xy.x)); }
+			float4 AudioLinkDataMultiline(uint2 xycoord)
+			{
+				return AudioLinkData(uint2(xycoord.x % AUDIOLINK_WIDTH, xycoord.y + xycoord.x / AUDIOLINK_WIDTH));
+			}
+			float4 AudioLinkLerp(float2 xy)
+			{
+				return lerp(AudioLinkData(xy), AudioLinkData(xy + int2(1, 0)), frac(xy.x));
+			}
+			float4 AudioLinkLerpMultiline(float2 xy)
+			{
+				return lerp(AudioLinkDataMultiline(xy), AudioLinkDataMultiline(xy + float2(1, 0)), frac(xy.x));
+			}
 			bool AudioLinkIsAvailable()
 			{
 				#if !defined(AUDIOLINK_STANDARD_INDEXING)
@@ -9780,16 +10021,19 @@ Shader "Hidden/Locked/.poiyomi/Poiyomi Toon/80148176cf016644d87d45345297084a"
 			uint AudioLinkDecodeDataAsUInt(uint2 indexloc)
 			{
 				uint4 rpx = AudioLinkData(indexloc);
-				return rpx.r + rpx.g*1024 + rpx.b * 1048576 + rpx.a * 1073741824;
+				return rpx.r + rpx.g * 1024 + rpx.b * 1048576 + rpx.a * 1073741824;
 			}
 			float AudioLinkDecodeDataAsSeconds(uint2 indexloc)
 			{
 				uint time = AudioLinkDecodeDataAsUInt(indexloc) & 0x7ffffff;
-				return float(time / 1000) + float( time % 1000 ) / 1000.;
+				return float(time / 1000) + float(time % 1000) / 1000.;
 			}
-			#define ALDecodeDataAsSeconds( x ) AudioLinkDecodeDataAsSeconds( x )
-			#define ALDecodeDataAsUInt( x ) AudioLinkDecodeDataAsUInt( x )
-			float AudioLinkRemap(float t, float a, float b, float u, float v) { return ((t-a) / (b-a)) * (v-u) + u; }
+			#define ALDecodeDataAsSeconds(x) AudioLinkDecodeDataAsSeconds(x)
+			#define ALDecodeDataAsUInt(x) AudioLinkDecodeDataAsUInt(x)
+			float AudioLinkRemap(float t, float a, float b, float u, float v)
+			{
+				return ((t - a) / (b - a)) * (v - u) + u;
+			}
 			float3 AudioLinkHSVtoRGB(float3 HSV)
 			{
 				float3 RGB = 0;
@@ -9799,12 +10043,30 @@ Shader "Hidden/Locked/.poiyomi/Poiyomi Toon/80148176cf016644d87d45345297084a"
 				if (HSV.y != 0)
 				{
 					float I = floor(H);
-					if (I == 0) { RGB = float3(C, X, 0); }
-					else if (I == 1) { RGB = float3(X, C, 0); }
-					else if (I == 2) { RGB = float3(0, C, X); }
-					else if (I == 3) { RGB = float3(0, X, C); }
-					else if (I == 4) { RGB = float3(X, 0, C); }
-					else { RGB = float3(C, 0, X); }
+					if (I == 0)
+					{
+						RGB = float3(C, X, 0);
+					}
+					else if (I == 1)
+					{
+						RGB = float3(X, C, 0);
+					}
+					else if (I == 2)
+					{
+						RGB = float3(0, C, X);
+					}
+					else if (I == 3)
+					{
+						RGB = float3(0, X, C);
+					}
+					else if (I == 4)
+					{
+						RGB = float3(X, 0, C);
+					}
+					else
+					{
+						RGB = float3(C, 0, X);
+					}
 				}
 				float M = HSV.z - C;
 				return RGB + M;
@@ -9816,13 +10078,13 @@ Shader "Hidden/Locked/.poiyomi/Poiyomi Toon/80148176cf016644d87d45345297084a"
 				note *= 12.0;
 				note = glsl_mod(4. - note + rootNote, 12.0);
 				{
-					if(note < 4.0)
+					if (note < 4.0)
 					{
 						hue = (note) / 24.0;
 					}
-					else if(note < 8.0)
+					else if (note < 8.0)
 					{
-						hue = (note-2.0) / 12.0;
+						hue = (note - 2.0) / 12.0;
 					}
 					else
 					{
@@ -9856,20 +10118,14 @@ Shader "Hidden/Locked/.poiyomi/Poiyomi Toon/80148176cf016644d87d45345297084a"
 			}
 			float getBandAtTime(float band, float time, float size = 1.0f)
 			{
-				return remapClamped(min(size,.9999), 1, AudioLinkData(ALPASS_AUDIOBASS + uint2(time * AUDIOLINK_WIDTH,band)).r);
+				return remapClamped(min(size, .9999), 1, AudioLinkData(ALPASS_AUDIOBASS + uint2(time * AUDIOLINK_WIDTH, band)).r);
 			}
-			fixed3 maximize(fixed3 c) {
+			fixed3 maximize(fixed3 c)
+			{
 				if (c.x == 0 && c.y == 0 && c.z == 0)
 				return fixed3(1.0, 1.0, 1.0);
 				else
 				return c / max(c.r, max(c.g, c.b));
-			}
-			bool LumaIsAvailable()
-			{
-				return LumaData(0.629, 0.511).r > 0.9;
-			}
-			float3 getLumaGradient(uint index, float offset) {
-				return LumaData(0.57 + (index * 0.11) + lerp(0, 0.107, offset), 0.493);
 			}
 			void initPoiAudioLink(inout PoiMods poiMods)
 			{
@@ -9878,22 +10134,22 @@ Shader "Hidden/Locked/.poiyomi/Poiyomi Toon/80148176cf016644d87d45345297084a"
 				{
 					poiMods.audioLinkAvailable = true;
 					poiMods.audioLinkVersion = AudioLinkGetVersion();
-					poiMods.audioLink[0] = (0.0 /*_AudioLinkSmoothingBass*/)    == 0 ? AudioLinkData(ALPASS_AUDIOLINK + float2(0, 0))[0] : AudioLinkData(ALPASS_FILTEREDAUDIOLINK + float2((1 - (0.0 /*_AudioLinkSmoothingBass*/)   ) * 15.95, 0))[0];
-					poiMods.audioLink[1] = (0.0 /*_AudioLinkSmoothingLowMid*/)  == 0 ? AudioLinkData(ALPASS_AUDIOLINK + float2(0, 1))[0] : AudioLinkData(ALPASS_FILTEREDAUDIOLINK + float2((1 - (0.0 /*_AudioLinkSmoothingLowMid*/) ) * 15.95, 1))[0];
+					poiMods.audioLink[0] = (0.0 /*_AudioLinkSmoothingBass*/) == 0 ? AudioLinkData(ALPASS_AUDIOLINK + float2(0, 0))[0] : AudioLinkData(ALPASS_FILTEREDAUDIOLINK + float2((1 - (0.0 /*_AudioLinkSmoothingBass*/)) * 15.95, 0))[0];
+					poiMods.audioLink[1] = (0.0 /*_AudioLinkSmoothingLowMid*/) == 0 ? AudioLinkData(ALPASS_AUDIOLINK + float2(0, 1))[0] : AudioLinkData(ALPASS_FILTEREDAUDIOLINK + float2((1 - (0.0 /*_AudioLinkSmoothingLowMid*/)) * 15.95, 1))[0];
 					poiMods.audioLink[2] = (0.0 /*_AudioLinkSmoothingHighMid*/) == 0 ? AudioLinkData(ALPASS_AUDIOLINK + float2(0, 2))[0] : AudioLinkData(ALPASS_FILTEREDAUDIOLINK + float2((1 - (0.0 /*_AudioLinkSmoothingHighMid*/)) * 15.95, 2))[0];
-					poiMods.audioLink[3] = (0.0 /*_AudioLinkSmoothingTreble*/)  == 0 ? AudioLinkData(ALPASS_AUDIOLINK + float2(0, 3))[0] : AudioLinkData(ALPASS_FILTEREDAUDIOLINK + float2((1 - (0.0 /*_AudioLinkSmoothingTreble*/) ) * 15.95, 3))[0];
+					poiMods.audioLink[3] = (0.0 /*_AudioLinkSmoothingTreble*/) == 0 ? AudioLinkData(ALPASS_AUDIOLINK + float2(0, 3))[0] : AudioLinkData(ALPASS_FILTEREDAUDIOLINK + float2((1 - (0.0 /*_AudioLinkSmoothingTreble*/)) * 15.95, 3))[0];
 					poiMods.audioLink[4] = AudioLinkData(ALPASS_GENERALVU + float2(8, 0))[0];
-					poiMods.globalColorTheme[4] =  float4(AudioLinkCCtoRGB(glsl_mod(AudioLinkData(ALPASS_CCINTERNAL + uint2(2, 0))[0], AUDIOLINK_EXPBINS), 1, AUDIOLINK_ROOTNOTE), 1.0);
-					poiMods.globalColorTheme[5] =  float4(AudioLinkCCtoRGB(glsl_mod(AudioLinkData(ALPASS_CCINTERNAL + uint2(3, 0))[0], AUDIOLINK_EXPBINS), 1, AUDIOLINK_ROOTNOTE), 1.0);
-					poiMods.globalColorTheme[6] =  float4(AudioLinkCCtoRGB(glsl_mod(AudioLinkData(ALPASS_CCINTERNAL + uint2(4, 0))[0], AUDIOLINK_EXPBINS), 1, AUDIOLINK_ROOTNOTE), 1.0);
-					poiMods.globalColorTheme[7] =  float4(AudioLinkCCtoRGB(glsl_mod(AudioLinkData(ALPASS_CCINTERNAL + uint2(5, 0))[0], AUDIOLINK_EXPBINS), 1, AUDIOLINK_ROOTNOTE), 1.0);
+					poiMods.globalColorTheme[4] = float4(AudioLinkCCtoRGB(glsl_mod(AudioLinkData(ALPASS_CCINTERNAL + uint2(2, 0))[0], AUDIOLINK_EXPBINS), 1, AUDIOLINK_ROOTNOTE), 1.0);
+					poiMods.globalColorTheme[5] = float4(AudioLinkCCtoRGB(glsl_mod(AudioLinkData(ALPASS_CCINTERNAL + uint2(3, 0))[0], AUDIOLINK_EXPBINS), 1, AUDIOLINK_ROOTNOTE), 1.0);
+					poiMods.globalColorTheme[6] = float4(AudioLinkCCtoRGB(glsl_mod(AudioLinkData(ALPASS_CCINTERNAL + uint2(4, 0))[0], AUDIOLINK_EXPBINS), 1, AUDIOLINK_ROOTNOTE), 1.0);
+					poiMods.globalColorTheme[7] = float4(AudioLinkCCtoRGB(glsl_mod(AudioLinkData(ALPASS_CCINTERNAL + uint2(5, 0))[0], AUDIOLINK_EXPBINS), 1, AUDIOLINK_ROOTNOTE), 1.0);
 					poiMods.globalColorTheme[8] = AudioLinkData(ALPASS_THEME_COLOR0);
 					poiMods.globalColorTheme[9] = AudioLinkData(ALPASS_THEME_COLOR1);
 					poiMods.globalColorTheme[10] = AudioLinkData(ALPASS_THEME_COLOR2);
 					poiMods.globalColorTheme[11] = AudioLinkData(ALPASS_THEME_COLOR3);
 					return;
 				}
-				if((0.0 /*_AudioLinkBandOverridesEnabled*/))
+				if ((0.0 /*_AudioLinkBandOverridesEnabled*/))
 				{
 					poiMods.audioLinkAvailable = true;
 					poiMods.audioLink[0] = float4(0,0,0,0).x;
@@ -9901,69 +10157,62 @@ Shader "Hidden/Locked/.poiyomi/Poiyomi Toon/80148176cf016644d87d45345297084a"
 					poiMods.audioLink[2] = float4(0,0,0,0).z;
 					poiMods.audioLink[3] = float4(0,0,0,0).w;
 				}
-				if (LumaIsAvailable())
-				{
-					float4 audioPixel = LumaData(0.578, 0.515);
-					float audioLows = audioPixel.r;
-					float audioHighs = audioPixel.g;
-					float4 zone1 = LumaData(0.856, 0.522);
-					float4 zone2 = LumaData(0.856, 0.507);
-					float4 zone3 = LumaData(0.864, 0.522);
-					float4 zone4 = LumaData(0.864, 0.507);
-					poiMods.audioLinkAvailable = true;
-					poiMods.audioLinkViaLuma = true;
-					poiMods.audioLink[0] = audioLows;
-					poiMods.audioLink[1] = audioLows;
-					poiMods.audioLink[2] = audioHighs;
-					poiMods.audioLink[3] = audioHighs;
-					poiMods.globalColorTheme[8] = zone1;
-					poiMods.globalColorTheme[9] = zone2;
-					poiMods.globalColorTheme[10] = zone3;
-					poiMods.globalColorTheme[11] = zone4;
-				}
 			}
-			void DebugVisualizer(inout PoiFragData poiFragData, in PoiMesh poiMesh, in PoiMods poiMods){
-				if (_DebugWaveform){
-					float waveform = AudioLinkLerpMultiline(ALPASS_WAVEFORM + float2( 500. * poiMesh.uv[0].x, 0)).r;
+			void DebugVisualizer(inout PoiFragData poiFragData, in PoiMesh poiMesh, in PoiMods poiMods)
+			{
+				if (_DebugWaveform)
+				{
+					float waveform = AudioLinkLerpMultiline(ALPASS_WAVEFORM + float2(500. * poiMesh.uv[0].x, 0)).r;
 					poiFragData.emission += clamp(1 - 50 * abs(waveform - poiMesh.uv[0].y * 2. + 1), 0, 1);
 				}
-				if (_DebugDFT){
+				if (_DebugDFT)
+				{
 					poiFragData.emission += AudioLinkLerpMultiline(ALPASS_DFT + uint2(poiMesh.uv[0].x * AUDIOLINK_ETOTALBINS, 0)).rrr;
 				}
-				if (_DebugBass){
+				if (_DebugBass)
+				{
 					poiFragData.emission += poiMods.audioLink[0];
 				}
-				if (_DebugLowMids){
+				if (_DebugLowMids)
+				{
 					poiFragData.emission += poiMods.audioLink[1];
 				}
-				if (_DebugHighMids){
+				if (_DebugHighMids)
+				{
 					poiFragData.emission += poiMods.audioLink[2];
 				}
-				if (_DebugTreble){
+				if (_DebugTreble)
+				{
 					poiFragData.emission += poiMods.audioLink[3];
 				}
-				if (_DebugCCColors){
+				if (_DebugCCColors)
+				{
 					poiFragData.emission += AudioLinkData(ALPASS_CCCOLORS + uint2(3 + 1, 0));
 				}
-				if (_DebugCCStrip){
+				if (_DebugCCStrip)
+				{
 					poiFragData.emission += AudioLinkLerp(ALPASS_CCSTRIP + float2(poiMesh.uv[0].x * AUDIOLINK_WIDTH, 0));
 				}
-				if (_DebugCCLights){
+				if (_DebugCCLights)
+				{
 					poiFragData.emission += AudioLinkData(ALPASS_CCLIGHTS + uint2(uint(poiMesh.uv[0].x * 8) + uint(poiMesh.uv[0].y * 16) * 8, 0));
 				}
-				if (_DebugAutocorrelator){
+				if (_DebugAutocorrelator)
+				{
 					poiFragData.emission += saturate(AudioLinkLerp(ALPASS_AUTOCORRELATOR + float2((abs(1. - poiMesh.uv[0].x * 2.)) * AUDIOLINK_WIDTH, 0)).rrr);
 				}
-				if (_DebugChronotensity){
-					poiFragData.emission += (AudioLinkDecodeDataAsUInt(ALPASS_CHRONOTENSITY  + uint2(1, 0)) % 1000000) / 1000000.0;
+				if (_DebugChronotensity)
+				{
+					poiFragData.emission += (AudioLinkDecodeDataAsUInt(ALPASS_CHRONOTENSITY + uint2(1, 0)) % 1000000) / 1000000.0;
 				}
 			}
-			void SetupAudioLink(inout PoiFragData poiFragData, inout PoiMods poiMods, in PoiMesh poiMesh){
+			void SetupAudioLink(inout PoiFragData poiFragData, inout PoiMods poiMods, in PoiMesh poiMesh)
+			{
 				initPoiAudioLink(poiMods);
 				DebugVisualizer(poiFragData, poiMesh, poiMods);
-				if(_AudioLinkCCStripY)
+				if (_AudioLinkCCStripY)
 				{
-					poiFragData.emission += AudioLinkLerp( ALPASS_CCSTRIP + float2( poiMesh.uv[0].y * AUDIOLINK_WIDTH, 0 ) ).rgb * .5;
+					poiFragData.emission += AudioLinkLerp(ALPASS_CCSTRIP + float2(poiMesh.uv[0].y * AUDIOLINK_WIDTH, 0)).rgb * .5;
 				}
 			}
 			#endif
@@ -10177,6 +10426,15 @@ Shader "Hidden/Locked/.poiyomi/Poiyomi Toon/80148176cf016644d87d45345297084a"
 					case 0: return blendNormal(base, blend); break;
 					case 2: return blendMultiply(base, blend); break;
 					default: return 0; break;
+				}
+			}
+			void handleGlobalMaskDistance(int index, bool enable, bool type, float minAlpha, float maxAlpha, float min, float max, int blendType, in PoiMesh poiMesh, inout PoiMods poiMods)
+			{
+				if (enable)
+				{
+					float3 position = type ? poiMesh.worldPos : poiMesh.objectPosition;
+					float val = lerp(minAlpha, maxAlpha, smoothstep(min, max, distance(position, _WorldSpaceCameraPos)));
+					poiMods.globalMask[index] = saturate(customDistanceBlend(poiMods.globalMask[index], val, blendType));
 				}
 			}
 			void ApplyGlobalMaskModifiers(in PoiMesh poiMesh, inout PoiMods poiMods, in PoiCam poiCam)
@@ -10393,16 +10651,16 @@ Shader "Hidden/Locked/.poiyomi/Poiyomi Toon/80148176cf016644d87d45345297084a"
 				poiMesh.uv[5] = calculateWorldUV(poiMesh);
 				poiMesh.uv[6] = calculatePolarCoordinate(poiMesh);
 				poiMesh.uv[8] = calculatelocalUV(poiMesh);
-				poiMods.globalMask[0]  = 1;
-				poiMods.globalMask[1]  = 1;
-				poiMods.globalMask[2]  = 1;
-				poiMods.globalMask[3]  = 1;
-				poiMods.globalMask[4]  = 1;
-				poiMods.globalMask[5]  = 1;
-				poiMods.globalMask[6]  = 1;
-				poiMods.globalMask[7]  = 1;
-				poiMods.globalMask[8]  = 1;
-				poiMods.globalMask[9]  = 1;
+				poiMods.globalMask[0] = 1;
+				poiMods.globalMask[1] = 1;
+				poiMods.globalMask[2] = 1;
+				poiMods.globalMask[3] = 1;
+				poiMods.globalMask[4] = 1;
+				poiMods.globalMask[5] = 1;
+				poiMods.globalMask[6] = 1;
+				poiMods.globalMask[7] = 1;
+				poiMods.globalMask[8] = 1;
+				poiMods.globalMask[9] = 1;
 				poiMods.globalMask[10] = 1;
 				poiMods.globalMask[11] = 1;
 				poiMods.globalMask[12] = 1;
@@ -10421,6 +10679,12 @@ Shader "Hidden/Locked/.poiyomi/Poiyomi Toon/80148176cf016644d87d45345297084a"
 				#else
 				poiMesh.tangentSpaceNormal = UnpackNormal(float4(0.5, 0.5, 1, 1));
 				#endif
+				float3 tangentSpaceNormal = UnpackNormal(float4(0.5, 0.5, 1, 1));
+				poiMesh.normals[0] = normalize(
+				tangentSpaceNormal.x * poiMesh.tangent[0] +
+				tangentSpaceNormal.y * poiMesh.binormal[0] +
+				tangentSpaceNormal.z * poiMesh.normals[0]
+				);
 				poiMesh.normals[1] = normalize(
 				poiMesh.tangentSpaceNormal.x * poiMesh.tangent[0] +
 				poiMesh.tangentSpaceNormal.y * poiMesh.binormal[0] +

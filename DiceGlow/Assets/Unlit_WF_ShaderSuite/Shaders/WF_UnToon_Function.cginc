@@ -34,10 +34,6 @@
         #define WF_TEX2D_ALPHA_MASK_ALPHA(uv)   saturate( TGL_OFF(_AL_InvMaskVal) ? PICK_SUB_TEX2D(_AL_MaskTex, _MainTex, uv).a : 1 - PICK_SUB_TEX2D(_AL_MaskTex, _MainTex, uv).a )
     #endif
 
-    #ifndef WF_TEX2D_3CH_MASK
-        #define WF_TEX2D_3CH_MASK(uv)           PICK_SUB_TEX2D(_CHM_3chMaskTex, _MainTex, uv).rgb
-    #endif
-
     #ifndef WF_TEX2D_GRADMAP
         #define WF_TEX2D_GRADMAP(uv)            PICK_MAIN_TEX2D(_CGR_GradMapTex, uv)
     #endif
@@ -112,6 +108,10 @@
 
     #ifndef WF_TEX2D_RIM_MASK
         #define WF_TEX2D_RIM_MASK(uv)           SAMPLE_MASK_VALUE(_TR_MaskTex, uv, _TR_InvMaskVal).rgb
+    #endif
+
+    #ifndef WF_TEX2D_RIM_SHADOW_MASK
+        #define WF_TEX2D_RIM_SHADOW_MASK(uv)    SAMPLE_MASK_VALUE(_TM_MaskTex, uv, _TM_InvMaskVal).r
     #endif
 
     #ifndef WF_TEX2D_SCREEN_MASK
@@ -195,15 +195,41 @@ FEATURE_TGL_END
                  : WF_TEX2D_ALPHA_MAIN_ALPHA(uv);
         }
 
-        void drawAlphaMask(inout drawing d) {
-            float alpha = pickAlpha(d.uv_main, d.color.a) * _AL_CustomValue;
+        inline float remapAndClamp(float value, float min, float max) {
+            return lerp(min, max, saturate(value));
+        }
 
-            /*
-             * カットアウト処理
-             * cutoutに使うものは、pickAlpha と _AL_CustomValue の値。
-             * 一方、Fresnel は cutout には巻き込まない。
-             * _AL_CustomValue を使っている MaskOut_Blend は cutout を使わない。
-             */
+        void alphaCutoutOutline(inout float alpha) {
+#ifdef _TL_ENABLE
+            if (TGL_ON(_TL_UseCutout) && alpha < _Cutoff) {
+                discard;
+            }
+#endif
+            alpha = 1;
+        }
+
+        void alpha3PassCutout(inout float alpha) {
+            if (alpha < _Cutoff) {
+                discard;
+                alpha = 0;
+            }
+            else {
+                alpha = 1;
+            }
+        }
+
+        void alpha3PassFade(inout float alpha) {
+            if (alpha < _Cutoff) {
+                alpha = remapAndClamp(alpha, _AL_PowerMin, _AL_Power);
+            }
+            else {
+                discard;
+                alpha = 0;
+            }
+        }
+
+        void drawAlphaMask(inout drawing d) {
+            float alpha = pickAlpha(d.uv_main, d.color.a);
 
             #if defined(_WF_ALPHA_CUSTOM)
                 _WF_ALPHA_CUSTOM
@@ -222,7 +248,8 @@ FEATURE_TGL_END
                     }
                 #endif
             #else
-                alpha *= _AL_Power;
+                alpha = remapAndClamp(alpha, _AL_PowerMin, _AL_Power);
+                alpha *= _AL_CustomValue;
             #endif
 
             d.color.a = alpha;
@@ -235,9 +262,11 @@ FEATURE_TGL_END
                 float fa = 1 - abs( dot( d.ws_normal, d.ws_view_dir ) );
                 d.color.a = lerp( d.color.a, maxValue, fa * fa * fa * fa );
             #endif
-            if (d.color.a <= 0) {
-                discard;
-            }
+            #ifndef _WF_PB_GRAB_TEXTURE
+                if (d.color.a <= 0) {
+                    discard;
+                }
+            #endif
         }
     #else
         #define drawAlphaMask(d) d.color.a = 1.0
@@ -454,28 +483,6 @@ FEATURE_TGL_END
     #endif
 
     ////////////////////////////
-    // 3ch Color Mask
-    ////////////////////////////
-
-    #ifdef _CHM_ENABLE
-
-        void draw3chColorMask(inout drawing d) {
-FEATURE_TGL_ON_BEGIN(_CHM_Enable)
-            float3 mask  = WF_TEX2D_3CH_MASK(d.uv_main);
-            float4 c1 = d.color * _CHM_ColorR;
-            float4 c2 = d.color * _CHM_ColorG;
-            float4 c3 = d.color * _CHM_ColorB;
-            d.color = lerp(d.color, c1, mask.r);
-            d.color = lerp(d.color, c2, mask.g);
-            d.color = lerp(d.color, c3, mask.b);
-FEATURE_TGL_END
-        }
-
-    #else
-        #define draw3chColorMask(d)
-    #endif
-
-    ////////////////////////////
     // Emissive Scroll
     ////////////////////////////
 
@@ -484,9 +491,6 @@ FEATURE_TGL_END
     #if defined(_ES_SCROLL_ENABLE) || defined(_WF_LEGACY_FEATURE_SWITCH)
 
         float calcEmissiveWaving(inout drawing d) {
-            if (TGL_OFF(_ES_ScrollEnable)) {
-                return 1;
-            }
             float3 uv =
                     _ES_SC_DirType == 1 ? UnityWorldToObjectPos(d.ws_vertex)    // ローカル座標
                     : _ES_SC_DirType == 2 ? (                                   // UV
@@ -515,8 +519,13 @@ FEATURE_TGL_END
             return saturate(waving + _ES_SC_LevelOffset);
         }
 
+        half enableEmissiveScroll(inout drawing d) {
+            return TGL_ON(_ES_ScrollEnable);
+        }
+
     #else
         #define calcEmissiveWaving(d)       (1)
+        #define enableEmissiveScroll(d)     (0)
     #endif
 
     #if defined(_ES_AULINK_ENABLE) || defined(_WF_LEGACY_FEATURE_SWITCH)
@@ -538,7 +547,7 @@ FEATURE_TGL_END
             return lerp(_ES_AU_MinValue, _ES_AU_MaxValue, au);
         }
 
-        float enableEmissiveAudioLink(inout drawing d) {
+        half enableEmissiveAudioLink(inout drawing d) {
             return TGL_ON(_ES_AuLinkEnable) ? ( AudioLinkIsAvailable() ? 1 : ( TGL_ON(_ES_AU_BlackOut) ? -1 : 0 ) ) : 0;
         }
 
@@ -549,11 +558,22 @@ FEATURE_TGL_END
 
         void drawEmissiveScroll(inout drawing d) {
 FEATURE_TGL_ON_BEGIN(_ES_Enable)
-            float au_status = enableEmissiveAudioLink(d);
+            half au_status = enableEmissiveAudioLink(d);
             if (au_status < 0) {
                 return; // Emission自体を無効にする
             }
-            float waving    = 0 < au_status ? calcEmissiveAudioLink(d) : calcEmissiveWaving(d);
+            half es_status = enableEmissiveScroll(d);
+
+            float waving;
+            if (0 < au_status) {
+                waving = calcEmissiveAudioLink(d);
+            }
+            else if(0 < es_status) {
+                waving = calcEmissiveWaving(d);
+            }
+            else {
+                waving = 1;
+            }
 
             float4 es_mask  = WF_TEX2D_EMISSION(d.uv_main);
             float4 es_color = _EmissionColor * es_mask;
@@ -569,16 +589,27 @@ FEATURE_TGL_ON_BEGIN(_ES_Enable)
                 lerp(d.color.rgb, es_color.rgb, waving);
 
             // Alpha側の合成
-        #if defined(_WF_ALPHA_BLEND) && (defined(_ES_SCROLL_ENABLE) || defined(_WF_LEGACY_FEATURE_SWITCH))
-            if (TGL_ON(_ES_SC_AlphaScroll)) {
-                d.color.a = max(d.color.a, waving * es_power);
+#if defined(_WF_ALPHA_BLEND)
+            if (0 < au_status) {
+    #if defined(_ES_AULINK_ENABLE) || defined(_WF_LEGACY_FEATURE_SWITCH)
+                if (0 < au_status && TGL_ON(_ES_AU_AlphaLink)) {
+                    d.color.a = max(d.color.a, waving * es_power);
+                }
+    #endif
             }
-        #endif
-        #if defined(_WF_ALPHA_BLEND) && (defined(_ES_AULINK_ENABLE) || defined(_WF_LEGACY_FEATURE_SWITCH))
-            if (TGL_ON(_ES_AU_AlphaLink) && 0 < au_status) {
-                d.color.a = max(d.color.a, waving * es_power);
+            else if(0 < es_status) {
+    #if defined(_ES_SCROLL_ENABLE) || defined(_WF_LEGACY_FEATURE_SWITCH)
+                if (0 < es_status && TGL_ON(_ES_SC_AlphaScroll)) {
+                    d.color.a = max(d.color.a, waving * es_power);
+                }
+    #endif
             }
-        #endif
+            else {
+                if (TGL_ON(_ES_ChangeAlpha)) {
+                    d.color.a = max(d.color.a, es_color.a * es_power);
+                }
+            }
+#endif
 FEATURE_TGL_END
         }
 
@@ -611,7 +642,7 @@ FEATURE_TGL_END
 FEATURE_TGL_ON_BEGIN(_NM_Enable)
             // NormalMap は陰影として描画する
             // 影側を暗くしすぎないために、ws_normal と ws_bump_normal の差を乗算することで明暗を付ける
-            d.color.rgb *= max(0.0, 1.0 + (dot(d.ws_bump_normal, d.ws_light_dir.xyz) - dot(d.ws_normal, d.ws_light_dir.xyz)) * _NM_Power * 2);
+            d.color.rgb *= max(0.0, 1.0 + (dot(d.ws_bump_normal, d.ws_light_dir) - dot(d.ws_normal, d.ws_light_dir)) * _NM_Power * 2);
 FEATURE_TGL_END
         }
 
@@ -696,15 +727,8 @@ FEATURE_TGL_ON_BEGIN(_MT_Enable)
             float monochrome = _MT_Monochrome;
             float4 metalGlossMap = WF_TEX2D_METAL_GLOSS(d.uv_main);
 
-            // MetallicSmoothness をパラメータに反映
-            if (_MT_MetallicMapType == 0) {
-                // Metallic強度に反映する方式
-                metallic *= metalGlossMap.r;
-            }
-            else if (_MT_MetallicMapType == 1) {
-                // Metallic強度を固定して、モノクロ反射に反映する方式
-                monochrome = saturate(1 - (1 - monochrome) * metalGlossMap.r);
-            }
+            // MetallicSmoothness をMetallic強度に反映
+            metallic *= metalGlossMap.r;
 
             // Metallic描画
             if (0.01 < metallic) {
@@ -733,7 +757,7 @@ FEATURE_TGL_ON_BEGIN(_MT_Enable)
                 // スペキュラ
                 float3 specular = ZERO_VEC3;
                 if (0.01 < _MT_Specular) {
-                    specular = pickSpecular(d.ws_camera_dir, ws_metal_normal, d.ws_light_dir.xyz, d.light_color.rgb * d.color.rgb, specSmooth);
+                    specular = pickSpecular(d.ws_camera_dir, ws_metal_normal, d.ws_light_dir, d.light_color.rgb * d.color.rgb, specSmooth);
                 }
 
                 // 合成
@@ -943,7 +967,7 @@ FEATURE_TGL_ON_BEGIN(_LME_Enable)
                     for (int x = -1; x <= 1; x++) {
                         float2 neighbor = float2(x, y);
                         float3 pos;
-                        pos.xy  = 0.5 + 0.5 * sin( random2to2((ist + neighbor) * scale) * 2 - 1 );
+                        pos.xy  = sin(UNITY_TWO_PI * random2to2(ist + neighbor)) / 2 + 0.5;
                         pos.z   = length(neighbor + pos.xy - fst);
                         min_pos = pos.z < min_pos.z ? pos : min_pos;
                     }
@@ -956,7 +980,7 @@ FEATURE_TGL_ON_BEGIN(_LME_Enable)
                 // Glitter項
                 power = lerp(power, max(power, pow(power + 0.1, 32)), _LME_Glitter);
                 // 密度項
-                power *= step(1 - _LME_Dencity / 4, abs(min_pos.x));
+                power *= step(1 - _LME_Dencity / 4, random2to1(min_pos.xy));
                 // フレークのばらつき項
                 power *= random2to1(min_pos.xy);
                 // 距離フェード項
@@ -1055,7 +1079,7 @@ FEATURE_TGL_ON_BEGIN(_TS_Enable)
 #ifdef _NS_ENABLE
             ws_shade_normal = lerpNormals(ws_shade_normal, d.ws_detail_normal, _TS_BlendNormal2);
 #endif
-            float brightness = lerp(dot(ws_shade_normal, d.ws_light_dir.xyz), 1, 0.5);  // 0.0 ～ 1.0
+            float brightness = lerp(dot(ws_shade_normal, d.ws_light_dir), 1, 0.5);  // 0.0 ～ 1.0
 
             // アンチシャドウマスク加算
             float anti_shade = WF_TEX2D_SHADE_MASK(d.uv_main);
@@ -1103,32 +1127,75 @@ FEATURE_TGL_END
     #endif
 
     ////////////////////////////
+    // Rim Shadow
+    ////////////////////////////
+
+    #ifdef _TM_ENABLE
+
+        float calcRimShadowPower(float3 vs_normal) {
+            float rimPower = length(vs_normal.xy);
+            if (rimPower < NZF) {
+                return 0;
+            }
+            else {
+                float2 dir_vec = vs_normal.xy / rimPower;
+                dir_vec.x *= _TM_WidthSide * 2;
+                dir_vec.y *= (_TM_WidthTop + _TM_WidthBottom);
+                dir_vec.y += (_TM_WidthTop - _TM_WidthBottom);
+
+                float dir_pwr = length(dir_vec);
+                float width = _TM_Width * 0.1;
+                float rim_max = 1 - width * dir_pwr;
+                float rim_min = 1 - (width + _TM_Feather) * dir_pwr;
+
+                return pow(smoothstep(rim_min - NZF, rim_max, rimPower), max(NZF, _TM_Exponent));
+            }
+        }
+
+        void drawRimShadow(inout drawing d) {
+FEATURE_TGL_ON_BEGIN(_TM_Enable)
+            float rimPower = WF_TEX2D_RIM_SHADOW_MASK(d.uv_main);
+            // 合成
+            d.color.rgb = lerp(d.color.rgb, d.color.rgb * _TM_Color.rgb, rimPower * calcRimShadowPower(calcMatcapVector(d.matcapVector, _TM_BlendNormal, _TM_BlendNormal2, 0)));
+FEATURE_TGL_END
+        }
+
+    #else
+        #define drawRimShadow(d)
+    #endif
+
+    ////////////////////////////
     // Rim Light
     ////////////////////////////
 
     #ifdef _TR_ENABLE
 
         float calcRimLightPower(float3 vs_normal) {
-            float side      = _TR_Power * _TR_PowerSide;
-            float top       = _TR_Power * _TR_PowerTop;
-            float bottom    = _TR_Power * _TR_PowerBottom;
+            float rimPower = length(vs_normal.xy);
+            if (rimPower < NZF) {
+                return 0;
+            }
+            else {
+                float2 dir_vec = vs_normal.xy / rimPower;
+                dir_vec.x *= _TR_WidthSide * 2;
+                dir_vec.y *= (_TR_WidthTop + _TR_WidthBottom);
+                dir_vec.y += (_TR_WidthTop - _TR_WidthBottom);
 
-            half3x3 mat = 0;
-            mat[0][0] = side + 1;
-            mat[1][1] = (top + bottom) / 2 + 1;
-            mat[1][2] = (top - bottom) / 2;
+                float dir_pwr = length(dir_vec);
+                float width = _TR_Width * 0.1;
+                float rim_max = 1 - width * dir_pwr;
+                float rim_min = 1 - (width + _TR_Feather) * dir_pwr;
 
-            float2 rim_uv = mul(mat, float3(vs_normal.xy, 1)).xy;
-
-            return smoothstep(-NZF, _TR_Feather, length(rim_uv) - 1);
+                return pow(smoothstep(rim_min - NZF, rim_max, rimPower), max(NZF, _TR_Exponent));
+            }
         }
 
         float3 calcRimLightColor(float3 color) {
-            float3 rimColor = _TR_Color.rgb - (
-                    _TR_BlendType == 0 ? MEDIAN_GRAY    // ADD_AND_SUB
-                    : _TR_BlendType == 1 ? color        // ALPHA
-                    : ZERO_VEC3                         // ADD
-                );
+            float3 rimColor =
+                    _TR_BlendType == 0 ? (_TR_Color.rgb - MEDIAN_GRAY)  // ADD_AND_SUB
+                    : _TR_BlendType == 1 ? (_TR_Color.rgb - color)      // ALPHA
+                    : _TR_Color.rgb // ADD
+                ;
             return rimColor;
         }
 
@@ -1481,6 +1548,18 @@ FEATURE_TGL_END
 
     #ifdef _CRF_ENABLE
 
+        float isCancelEyeDepth(float2 grab_uv, float depth) {
+#ifdef _WF_LEGACY_FEATURE_SWITCH
+            return TGL_ON(_CRF_UseDepthTex) && LinearEyeDepth(SAMPLE_DEPTH_TEXTURE(_CameraDepthTexture, grab_uv)) < depth;
+#else
+    #if _CRF_DEPTH_ENABLE
+            return LinearEyeDepth(SAMPLE_DEPTH_TEXTURE(_CameraDepthTexture, grab_uv)) < depth;
+    #else
+            return 0;
+    #endif
+#endif
+        }
+
         void drawRefraction(inout drawing d) {
 FEATURE_TGL_ON_BEGIN(_CRF_Enable)
             float3 view_dir = normalize(d.ws_vertex - _WorldSpaceCameraPos.xyz);
@@ -1494,10 +1573,16 @@ FEATURE_TGL_ON_BEGIN(_CRF_Enable)
 
             float4 grab_uv = ComputeGrabScreenPos(refract_scr_pos);
             grab_uv.xy /= grab_uv.w;
+
+            float depth = -mul(UNITY_MATRIX_V, float4(d.ws_vertex.xyz, 1.0)).z;
+            if (isCancelEyeDepth(grab_uv, depth)) {
+                return;
+            }
+
             float4 grab_color = PICK_GRAB_TEX2D(_WF_PB_GRAB_TEXTURE, grab_uv.xy);
             float3 back_color = grab_color.rgb * (_CRF_Tint.rgb * unity_ColorSpaceDouble.rgb);
 
-            d.color.rgb = lerp(lerp(d.color.rgb, back_color.rgb, grab_color.a), d.color.rgb, d.color.a);
+            d.color.rgb = lerp(lerp(d.color.rgb, back_color.rgb, grab_color.a), d.color.rgb, saturate(d.color.a));
             d.color.a = lerp(d.color.a, 1, grab_color.a);
 FEATURE_TGL_END
         }
@@ -1512,7 +1597,19 @@ FEATURE_TGL_END
 
     #ifdef _CGL_ENABLE
 
-        float3 sampleScreenTextureBlur1(float2 uv, float2 scale) {    // NORMAL
+        float isCancelEyeDepth(float2 grab_uv, float depth) {
+#ifdef _WF_LEGACY_FEATURE_SWITCH
+            return TGL_ON(_CGL_UseDepthTex) && LinearEyeDepth(SAMPLE_DEPTH_TEXTURE(_CameraDepthTexture, grab_uv)) < depth;
+#else
+    #if _CGL_DEPTH_ENABLE
+            return LinearEyeDepth(SAMPLE_DEPTH_TEXTURE(_CameraDepthTexture, grab_uv)) < depth;
+    #else
+            return 0;
+    #endif
+#endif
+        }
+
+        float3 sampleScreenTextureBlur1(float2 uv, float2 scale, float depth) {    // GAUSSIAN
             static const int    BLUR_SAMPLE_COUNT = 7;
             static const float  BLUR_KERNEL[BLUR_SAMPLE_COUNT] = { -1, -2.0/3, -1.0/3, 0, 1.0/3, 2.0/3, 1 };
             static const half   BLUR_WEIGHTS[BLUR_SAMPLE_COUNT] = { 0.036, 0.113, 0.216, 0.269, 0.216, 0.113, 0.036 };
@@ -1520,14 +1617,18 @@ FEATURE_TGL_END
             float3 color = ZERO_VEC3;
             for (int j = 0; j < BLUR_SAMPLE_COUNT; j++) {
                 for (int k = 0; k < BLUR_SAMPLE_COUNT; k++) {
-                    float2 offset = float2(BLUR_KERNEL[j], BLUR_KERNEL[k]) * scale;
-                    color += PICK_GRAB_TEX2D(_WF_PB_GRAB_TEXTURE, uv + offset).rgb * BLUR_WEIGHTS[j] * BLUR_WEIGHTS[k];
+                    float2 offset = float2(BLUR_KERNEL[j], BLUR_KERNEL[k]) * scale * (1 - random2to1(uv + fixed2(j, k)) * _CGL_BlurRandom);
+                    float2 uv2 = uv + offset;
+                    if (isCancelEyeDepth(uv2, depth)) {
+                        uv2 = uv;
+                    }
+                    color += PICK_GRAB_TEX2D(_WF_PB_GRAB_TEXTURE, uv2).rgb * BLUR_WEIGHTS[j] * BLUR_WEIGHTS[k];
                 }
             }
             return color;
         }
 
-        float3 sampleScreenTextureBlur2(float2 uv, float2 scale) {    // FAST
+        float3 sampleScreenTextureBlur2(float2 uv, float2 scale, float depth) {    // FAST
             static const int    BLUR_SAMPLE_COUNT = 8;
             static const float2 BLUR_KERNEL[BLUR_SAMPLE_COUNT] = {
                 float2(-1.0, -1.0),
@@ -1543,11 +1644,111 @@ FEATURE_TGL_END
 
             float3 color = ZERO_VEC3;
             for (int j = 0; j < BLUR_SAMPLE_COUNT; j++) {
-                float2 offset = BLUR_KERNEL[j] * scale;
-                color += PICK_GRAB_TEX2D(_WF_PB_GRAB_TEXTURE, uv + offset).rgb * BLUR_WEIGHT;
+                float2 offset = BLUR_KERNEL[j] * scale * (1 - random2to1(uv + j.xx) * _CGL_BlurRandom);
+                float2 uv2 = uv + offset;
+                if (isCancelEyeDepth(uv2, depth)) {
+                    uv2 = uv;
+                }
+                color += PICK_GRAB_TEX2D(_WF_PB_GRAB_TEXTURE, uv2).rgb * BLUR_WEIGHT;
             }
             return color;
         }
+
+        float3 sampleScreenTextureBlur3(float2 uv, float2 scale, float depth) {    // OCTAGON
+            static const int    BLUR_SAMPLE_COUNT = 8;
+            static const float2 BLUR_KERNEL[BLUR_SAMPLE_COUNT] = {
+                float2(+0.0, +1.0),
+                float2(+1.0, +0.0),
+                float2(+0.0, -1.0),
+                float2(-1.0, +0.0),
+                float2(+0.7, +0.7),
+                float2(+0.7, -0.7),
+                float2(-0.7, +0.7),
+                float2(-0.7, -0.7),
+            };
+            static const float  BLUR_WEIGHT = 1.0 / BLUR_SAMPLE_COUNT;
+
+            float3 color = ZERO_VEC3;
+            for (int j = 0; j < BLUR_SAMPLE_COUNT; j++) {
+                float2 offset = BLUR_KERNEL[j] * scale * (1 - random2to1(uv + j.xx) * _CGL_BlurRandom);
+                float2 uv2 = uv + offset;
+                if (isCancelEyeDepth(uv2, depth)) {
+                    uv2 = uv;
+                }
+                color += PICK_GRAB_TEX2D(_WF_PB_GRAB_TEXTURE, uv2).rgb * BLUR_WEIGHT;
+            }
+            return color;
+        }
+
+        float3 sampleScreenTextureBlur4(float2 uv, float2 scale, float depth) {    // HEXAGON
+            static const int    BLUR_SAMPLE_COUNT = 6;
+            static const float2 BLUR_KERNEL[BLUR_SAMPLE_COUNT] = {
+                float2(0, 1),
+                float2(+0.866, +0.5),
+                float2(+0.866, -0.5),
+                float2(0, -1),
+                float2(-0.866, -0.5),
+                float2(-0.866, +0.5),
+            };
+            static const float  BLUR_WEIGHT = 1.0 / BLUR_SAMPLE_COUNT;
+
+            float3 color = ZERO_VEC3;
+            for (int j = 0; j < BLUR_SAMPLE_COUNT; j++) {
+                float2 offset = BLUR_KERNEL[j] * scale * (1 - random2to1(uv + j.xx) * _CGL_BlurRandom);
+                float2 uv2 = uv + offset;
+                if (isCancelEyeDepth(uv2, depth)) {
+                    uv2 = uv;
+                }
+                color += PICK_GRAB_TEX2D(_WF_PB_GRAB_TEXTURE, uv2).rgb * BLUR_WEIGHT;
+            }
+            return color;
+        }
+
+        float3 sampleScreenTextureBlur5(float2 uv, float2 scale, float depth) {    // SQUARE
+            static const int    BLUR_SAMPLE_COUNT = 4;
+            static const float2 BLUR_KERNEL[BLUR_SAMPLE_COUNT] = {
+                float2(+0.0, +1.0),
+                float2(+1.0, +0.0),
+                float2(+0.0, -1.0),
+                float2(-1.0, +0.0),
+            };
+            static const float  BLUR_WEIGHT = 1.0 / BLUR_SAMPLE_COUNT;
+
+            float3 color = ZERO_VEC3;
+            for (int j = 0; j < BLUR_SAMPLE_COUNT; j++) {
+                float2 offset = BLUR_KERNEL[j] * scale * (1 - random2to1(uv + j.xx) * _CGL_BlurRandom);
+                float2 uv2 = uv + offset;
+                if (isCancelEyeDepth(uv2, depth)) {
+                    uv2 = uv;
+                }
+                color += PICK_GRAB_TEX2D(_WF_PB_GRAB_TEXTURE, uv2).rgb * BLUR_WEIGHT;
+            }
+            return color;
+        }
+
+#ifdef _WF_LEGACY_FEATURE_SWITCH
+        float3 sampleScreenTextureBlur(float2 grab_uv, float2 scale, float depth) {
+            return
+                _CGL_BlurMode == 0 ? sampleScreenTextureBlur1(grab_uv, scale, depth).rgb :
+                _CGL_BlurMode == 1 ? sampleScreenTextureBlur2(grab_uv, scale, depth).rgb :
+                _CGL_BlurMode == 2 ? sampleScreenTextureBlur3(grab_uv, scale, depth).rgb :
+                _CGL_BlurMode == 3 ? sampleScreenTextureBlur4(grab_uv, scale, depth).rgb :
+                sampleScreenTextureBlur5(grab_uv, scale, depth).rgb;
+        }
+        #define SAMPLE_BLUR sampleScreenTextureBlur
+#else
+    #if defined(_CGL_BLURFAST_ENABLE)
+        #define SAMPLE_BLUR sampleScreenTextureBlur2
+    #elif defined(_CGL_BLUROCT_ENABLE)
+        #define SAMPLE_BLUR sampleScreenTextureBlur3
+    #elif defined(_CGL_BLURHEX_ENABLE)
+        #define SAMPLE_BLUR sampleScreenTextureBlur4
+    #elif defined(_CGL_BLURSQ_ENABLE)
+        #define SAMPLE_BLUR sampleScreenTextureBlur5
+    #else
+        #define SAMPLE_BLUR sampleScreenTextureBlur1
+    #endif
+#endif
 
         void drawFrostedGlass(inout drawing d) {
 FEATURE_TGL_ON_BEGIN(_CGL_Enable)
@@ -1558,24 +1759,15 @@ FEATURE_TGL_ON_BEGIN(_CGL_Enable)
             // Scale 計算
             float2 scale = max(_CGL_BlurMin.xx, _CGL_Blur.xx / max(1, length( d.ws_vertex.xyz - worldSpaceViewPointPos() )));
             scale *= UNITY_MATRIX_P._m11 / 100;
-            scale.y *= _ScreenParams.x / _ScreenParams.y
 #ifdef UNITY_SINGLE_PASS_STEREO
-                / 2
+            scale.x *= 0.5;
 #endif
-            ;
+            scale.y *= _ScreenParams.x / _ScreenParams.y;
 
-            float3 back_color =
-#ifdef _WF_LEGACY_FEATURE_SWITCH
-                _CGL_BlurMode == 0 ? sampleScreenTextureBlur1(grab_uv, scale).rgb : sampleScreenTextureBlur2(grab_uv, scale).rgb;
-#else
-    #ifdef _CGL_BLURFAST_ENABLE
-                sampleScreenTextureBlur2(grab_uv, scale).rgb;
-    #else
-                sampleScreenTextureBlur1(grab_uv, scale).rgb;
-    #endif
-#endif
+            float depth = -mul(UNITY_MATRIX_V, float4(d.ws_vertex.xyz, 1.0)).z;
+            float3 back_color = SAMPLE_BLUR(grab_uv, scale, depth).rgb;
 
-            d.color.rgb = lerp(back_color.rgb, d.color.rgb, d.color.a);
+            d.color.rgb = lerp(back_color.rgb, d.color.rgb, saturate(d.color.a));
             d.color.a = 1;
 FEATURE_TGL_END
         }

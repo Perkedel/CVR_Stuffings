@@ -405,7 +405,7 @@ New Sauce lists
 - https://feedback.abinteractive.net/p/nodegraph-block-coding-support
 - https://feedback.abinteractive.net/p/damage-and-object-heath-support-on-props-and-avatars
 - https://feedback.abinteractive.net/p/if-lua-is-chosen-as-the-scripting-language-consider-using-luau-instead
-- https://discord.com/invite/aNsMMhCTxM Can you please bring whatever this CVR Explore group has, thancc.
+- https://discord.com/invite/aNsMMhCTxM Can you please bring whatever this CVR Explore group has, thancc. Kazotsky, FFXIV, California Gurl 
 - https://uv-license.com/en/license?utf8=%E2%9C%93&pcu=true&ccu=true&ddw=true&seu=true&veu=true
 - https://booth.pm/en/items/1969082
 - https://signyamo.blog/vrchat_switch_en/
@@ -9063,3 +9063,10 @@ https://youtu.be/qzhuWRQWK5I?si=PygoI274O32LWD5a
 - https://booth.pm/en/items/2615713 **PAID** オリジナル3Dモデル【街狐さん】
 - https://skfb.ly/o8BSY Tiki lamp Duznot
 - https://sketchfab.com/duz_vr Duznot
+- https://winsounds.com/category/windows-sounds-schemes/ pls yoink these files!
+- https://winsounds.com/download-sounds-from-windows-11/
+- CVR Explore VR Showcase yoinked files pls!
+- https://vrcmods.com/item/1050-Team-Fortress-2-Kazotsky-kick-dance Pls Check Kazotsky TF2 animation packed by 8Yaron8. also found in VR Showcase CVR Explore
+- https://vrcmods.com/item?id=10305 OmNomNom packed the California Girl. wait, wrong file!
+- OK
+- https://vrcmods.com/item?id=9624 THEDAO77 Ankha Dance anim

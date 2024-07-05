@@ -35,6 +35,7 @@ Shader "UnlitWF/WF_Water_Surface_Transparent_Refracted" {
         [ToggleUI]
             _AL_InvMaskVal          ("[AL] Invert Mask Value", Range(0, 1)) = 0
             _AL_Power               ("[AL] Power", Range(0, 2)) = 1.0
+            _AL_PowerMin            ("[AL] Power(Min)", Range(0, 2)) = 0
             _Cutoff                 ("[AL] Cutoff Threshold", Range(0, 1)) = 0.05
             _AL_Fresnel             ("[AL] Fresnel Power", Range(0, 2)) = 0
         [Enum(OFF,0,ON,1)]
@@ -46,6 +47,8 @@ Shader "UnlitWF/WF_Water_Surface_Transparent_Refracted" {
             _CRF_Distance           ("[CRF] Distance", Range(0, 10)) = 1.0
             _CRF_Tint               ("[CRF] Tint Color", Color) = (0.5, 0.5, 0.5)
             _CRF_BlendNormal        ("[CRF] Blend Normal", Range(0, 1)) = 0.1
+        [ToggleUI]
+            _CRF_UseDepthTex        ("[CRF] Correct Refraction to exclude the foreground", Range(0, 1)) = 0
 
         [WFHeaderToggle(Distance Fade)]
             _WAD_Enable             ("[WAD] Enable", Float) = 0
@@ -130,7 +133,7 @@ Shader "UnlitWF/WF_Water_Surface_Transparent_Refracted" {
 
         [HideInInspector]
         [WF_FixFloat(0.0)]
-            _CurrentVersion         ("2024/01/01 (1.8.0)", Float) = 0
+            _CurrentVersion         ("2024/06/12 (2.1.0)", Float) = 0
         [HideInInspector]
         [WF_FixFloat(0.0)]
             _FallBack               ("UnlitWF/WF_Water_Surface_Transparent", Float) = 0
@@ -169,6 +172,7 @@ Shader "UnlitWF/WF_Water_Surface_Transparent_Refracted" {
             #pragma shader_feature_local _WAV_ENABLE_1
             #pragma shader_feature_local _WAV_ENABLE_2
             #pragma shader_feature_local _WAV_ENABLE_3
+            #pragma shader_feature_local_fragment _ _CRF_DEPTH_ENABLE
             #pragma shader_feature_local_fragment _CRF_ENABLE
 
             #define _WF_PB_GRAB_TEXTURE _UnToonWaterRefraction

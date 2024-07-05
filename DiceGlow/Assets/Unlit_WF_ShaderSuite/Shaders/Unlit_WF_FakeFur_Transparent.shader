@@ -26,6 +26,7 @@ Shader "UnlitWF/WF_FakeFur_Transparent" {
             _FUR_Height             ("[FUR] Fur Height", Range(0, 0.2)) = 0.02
         [IntRange]
             _FUR_Repeat             ("[FUR] Fur Repeat", Range(1, 6)) = 3
+
         [Header(Fur Shape)]
             _FUR_NoiseTex           ("[FUR] Fur Noise Texture", 2D) = "white" {}
         [WF_Vector3]
@@ -36,13 +37,19 @@ Shader "UnlitWF/WF_FakeFur_Transparent" {
             _FUR_BumpMap            ("[FUR] NormalMap Texture", 2D) = "bump" {}
         [Enum(NONE,0,X,1,Y,2,XY,3)]
             _FlipMirror             ("[FUR] Flip Mirror", Float) = 0
+
         [Header(Fur Color)]
             _FUR_ShadowPower        ("[FUR] Fur ShadowPower", Range(0, 1)) = 0
             _FUR_TintColorBase      ("[FUR] Tint Color (Base)", Color) = (1, 1, 1, 1)
             _FUR_TintColorTip       ("[FUR] Tint Color (Tip)", Color) = (1, 1, 1, 1)
+
         [Header(Fur Mask Texture)]
         [NoScaleOffset]
-            _FUR_MaskTex            ("[FUR] Mask Texture", 2D) = "white" {}
+            _FUR_LenMaskTex         ("[FUR] Length Mask Texture", 2D) = "white" {}
+        [ToggleUI]
+            _FUR_InvLenMaskVal      ("[FUR] Invert Mask Value", Range(0, 1)) = 0
+        [NoScaleOffset]
+            _FUR_MaskTex            ("[FUR] Alpha Mask Texture", 2D) = "white" {}
         [ToggleUI]
             _FUR_InvMaskVal         ("[FUR] Invert Mask Value", Range(0, 1)) = 0
 
@@ -77,11 +84,13 @@ Shader "UnlitWF/WF_FakeFur_Transparent" {
             _HL_MatcapTex           ("[HL] Matcap Sampler", 2D) = "gray" {}
             _HL_MedianColor         ("[HL] Matcap Base Color", Color) = (0.5, 0.5, 0.5, 1)
             _HL_Power               ("[HL] Power", Range(0, 2)) = 1
-            _HL_Parallax            ("[HL] Parallax", Range(0, 1)) = 0.75
         [NoScaleOffset]
             _HL_MaskTex             ("[HL] Mask Texture (RGB)", 2D) = "white" {}
         [ToggleUI]
             _HL_InvMaskVal          ("[HL] Invert Mask Value", Range(0, 1)) = 0
+        [Header(Matcap Advance)]
+            _HL_Parallax            ("[HL] Parallax", Range(0, 1)) = 0.75
+            _HL_MatcapMonochrome    ("[HL] Matcap Monochrome", Range(0, 1)) = 0
             _HL_MatcapColor         ("[HL] Matcap Tint Color", Color) = (0.5, 0.5, 0.5, 1)
 
         [WFHeaderToggle(Light Matcap 2)]
@@ -92,11 +101,13 @@ Shader "UnlitWF/WF_FakeFur_Transparent" {
             _HL_MatcapTex_1         ("[HA] Matcap Sampler", 2D) = "gray" {}
             _HL_MedianColor_1       ("[HA] Matcap Base Color", Color) = (0.5, 0.5, 0.5, 1)
             _HL_Power_1             ("[HA] Power", Range(0, 2)) = 1
-            _HL_Parallax_1          ("[HA] Parallax", Range(0, 1)) = 0.75
         [NoScaleOffset]
             _HL_MaskTex_1           ("[HA] Mask Texture", 2D) = "white" {}
         [ToggleUI]
             _HL_InvMaskVal_1        ("[HA] Invert Mask Value", Range(0, 1)) = 0
+        [Header(Matcap Advance)]
+            _HL_Parallax_1          ("[HA] Parallax", Range(0, 1)) = 0.75
+            _HL_MatcapMonochrome_1  ("[HA] Matcap Monochrome", Range(0, 1)) = 0
             _HL_MatcapColor_1       ("[HA] Matcap Tint Color", Color) = (0.5, 0.5, 0.5, 1)
 
         [WFHeaderToggle(ToonShade)]
@@ -140,16 +151,17 @@ Shader "UnlitWF/WF_FakeFur_Transparent" {
             _TR_Color               ("[TR] Rim Color", Color) = (0.8, 0.8, 0.8, 1)
         [WF_Enum(UnlitWF.BlendModeTR,ADD,ALPHA,ADD_AND_SUB)]
             _TR_BlendType           ("[TR] Blend Type", Float) = 0
-            _TR_Power               ("[TR] Power", Range(0, 2)) = 1
-            _TR_Feather             ("[TR] Feather", Range(0, 0.2)) = 0.05
+            _TR_Width               ("[TR] Width", Range(0, 1)) = 0.1
+            _TR_Feather             ("[TR] Feather", Range(0, 1)) = 0.05
+            _TR_Exponent            ("[TR] Exponent", Range(1, 8)) = 1
         [NoScaleOffset]
             _TR_MaskTex             ("[TR] Mask Texture (RGB)", 2D) = "white" {}
         [ToggleUI]
             _TR_InvMaskVal          ("[TR] Invert Mask Value", Range(0, 1)) = 0
         [Header(RimLight Advance)]
-            _TR_PowerTop            ("[TR] Power Top", Range(0, 0.5)) = 0.05
-            _TR_PowerSide           ("[TR] Power Side", Range(0, 0.5)) = 0.1
-            _TR_PowerBottom         ("[TR] Power Bottom", Range(0, 0.5)) = 0.1
+            _TR_WidthTop            ("[TR] Width Top", Range(0, 1)) = 0.5
+            _TR_WidthSide           ("[TR] Width Side", Range(0, 1)) = 1
+            _TR_WidthBottom         ("[TR] Width Bottom", Range(0, 1)) = 1
         [ToggleUI]
             _TR_DisableBackLit      ("[TR] Disable BackLit", Range(0, 1)) = 0
 
@@ -199,10 +211,13 @@ Shader "UnlitWF/WF_FakeFur_Transparent" {
 
         [HideInInspector]
         [WF_FixFloat(0.0)]
-            _CurrentVersion         ("2024/01/01 (1.8.0)", Float) = 0
+            _CurrentVersion         ("2024/06/12 (2.1.0)", Float) = 0
         [HideInInspector]
         [WF_FixFloat(0.0)]
             _FallBack               ("UnlitWF/UnToon_Mobile/WF_UnToon_Mobile_Opaque", Float) = 0
+        [HideInInspector]
+        [WF_FixFloat(0.0)]
+            _VRCFallback            ("UnlitCutout", Float) = 0
     }
 
     SubShader {
@@ -232,11 +247,11 @@ Shader "UnlitWF/WF_FakeFur_Transparent" {
             #pragma shader_feature_local_fragment _ _TS_STEP1_ENABLE _TS_STEP2_ENABLE _TS_STEP3_ENABLE
             #pragma shader_feature_local_fragment _CGR_ENABLE
             #pragma shader_feature_local_fragment _CLC_ENABLE
+            #pragma shader_feature_local_fragment _DFD_ENABLE
+            #pragma shader_feature_local_fragment _DSV_ENABLE
             #pragma shader_feature_local_fragment _HL_ENABLE
             #pragma shader_feature_local_fragment _HL_ENABLE_1
             #pragma shader_feature_local_fragment _TR_ENABLE
-            #pragma shader_feature_local_fragment _DFD_ENABLE
-            #pragma shader_feature_local_fragment _DSV_ENABLE
 
             #pragma multi_compile_fwdbase
             #pragma multi_compile_instancing

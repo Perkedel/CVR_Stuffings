@@ -46,8 +46,6 @@ Shader "UnlitWF/UnToon_Mobile/WF_UnToon_Mobile_Opaque" {
             _MT_Monochrome          ("[MT] Monochrome Reflection", Range(0, 1)) = 0
         [ToggleUI]
             _MT_GeomSpecAA          ("[MT] Geometric Specular AA", Range(0, 1)) = 1
-        [Enum(MASK,0,METALLIC,1)]
-            _MT_MetallicMapType     ("[MT] MetallicMap Type", Float) = 0
         [NoScaleOffset]
             _MetallicGlossMap       ("[MT] MetallicSmoothnessMap Texture", 2D) = "white" {}
         [ToggleUI]
@@ -115,23 +113,41 @@ Shader "UnlitWF/UnToon_Mobile/WF_UnToon_Mobile_Opaque" {
         [ToggleUI]
             _TS_DisableBackLit      ("[TS] Disable BackLit", Range(0, 1)) = 0
 
+        [WFHeaderToggle(RimShadow)]
+            _TM_Enable              ("[TM] Enable", Float) = 0
+            _TM_Color               ("[TM] Rim Color", Color) = (0, 0, 0, 1)
+            _TM_Width               ("[TM] Width", Range(0, 1)) = 0
+            _TM_Feather             ("[TM] Feather", Range(0, 1)) = 0.1
+            _TM_Exponent            ("[TM] Exponent", Range(1, 8)) = 1
+            _TM_BlendNormal         ("[TM] Blend Normal", Range(0, 1)) = 0
+            _TM_BlendNormal2        ("[TM] Blend Normal 2nd", Range(0, 1)) = 0
+        [NoScaleOffset]
+            _TM_MaskTex             ("[TM] Mask Texture (R)", 2D) = "white" {}
+        [ToggleUI]
+            _TM_InvMaskVal          ("[TM] Invert Mask Value", Range(0, 1)) = 0
+        [Header(RimShadow Advance)]
+            _TM_WidthTop            ("[TM] Width Top", Range(0, 1)) = 0.5
+            _TM_WidthSide           ("[TM] Width Side", Range(0, 1)) = 1
+            _TM_WidthBottom         ("[TM] Width Bottom", Range(0, 1)) = 1
+
         [WFHeaderToggle(RimLight)]
             _TR_Enable              ("[TR] Enable", Float) = 0
         [HDR]
             _TR_Color               ("[TR] Rim Color", Color) = (0.8, 0.8, 0.8, 1)
         [WF_Enum(UnlitWF.BlendModeTR,ADD,ALPHA,ADD_AND_SUB)]
             _TR_BlendType           ("[TR] Blend Type", Float) = 0
-            _TR_Power               ("[TR] Power", Range(0, 2)) = 1
-            _TR_Feather             ("[TR] Feather", Range(0, 0.2)) = 0.05
+            _TR_Width               ("[TR] Width", Range(0, 1)) = 0.1
+            _TR_Feather             ("[TR] Feather", Range(0, 1)) = 0.05
+            _TR_Exponent            ("[TR] Exponent", Range(1, 8)) = 1
             _TR_BlendNormal         ("[TR] Blend Normal", Range(0, 1)) = 0
         [NoScaleOffset]
             _TR_MaskTex             ("[TR] Mask Texture (RGB)", 2D) = "white" {}
         [ToggleUI]
             _TR_InvMaskVal          ("[TR] Invert Mask Value", Range(0, 1)) = 0
         [Header(RimLight Advance)]
-            _TR_PowerTop            ("[TR] Power Top", Range(0, 0.5)) = 0.05
-            _TR_PowerSide           ("[TR] Power Side", Range(0, 0.5)) = 0.1
-            _TR_PowerBottom         ("[TR] Power Bottom", Range(0, 0.5)) = 0.1
+            _TR_WidthTop            ("[TR] Width Top", Range(0, 1)) = 0.5
+            _TR_WidthSide           ("[TR] Width Side", Range(0, 1)) = 1
+            _TR_WidthBottom         ("[TR] Width Bottom", Range(0, 1)) = 1
         [ToggleUI]
             _TR_DisableBackLit      ("[TR] Disable BackLit", Range(0, 1)) = 0
 
@@ -208,10 +224,13 @@ Shader "UnlitWF/UnToon_Mobile/WF_UnToon_Mobile_Opaque" {
 
         [HideInInspector]
         [WF_FixFloat(0.0)]
-            _CurrentVersion         ("2024/01/01 (1.8.0)", Float) = 0
+            _CurrentVersion         ("2024/06/12 (2.1.0)", Float) = 0
         [HideInInspector]
         [WF_FixFloat(0.0)]
             _QuestSupported         ("True", Float) = 0
+        [HideInInspector]
+        [WF_FixFloat(0.0)]
+            _VRCFallback            ("Unlit", Float) = 0
     }
 
     SubShader {
@@ -237,8 +256,8 @@ Shader "UnlitWF/UnToon_Mobile/WF_UnToon_Mobile_Opaque" {
             #define _WF_AO_ONLY_LMAP
             #define _WF_MOBILE
 
-            #pragma shader_feature_local _ _ES_SCROLL_ENABLE
             #pragma shader_feature_local _ _ES_AULINK_ENABLE
+            #pragma shader_feature_local _ _ES_SCROLL_ENABLE
             #pragma shader_feature_local _ _GL_AUTO_ENABLE _GL_ONLYDIR_ENABLE _GL_ONLYPOINT_ENABLE _GL_WSDIR_ENABLE _GL_LSDIR_ENABLE _GL_WSPOS_ENABLE
             #pragma shader_feature_local _ _MT_NORHMAP_ENABLE
             #pragma shader_feature_local _ _MT_ONLY2ND_ENABLE
@@ -250,6 +269,7 @@ Shader "UnlitWF/UnToon_Mobile/WF_UnToon_Mobile_Opaque" {
             #pragma shader_feature_local _HL_ENABLE
             #pragma shader_feature_local _MT_ENABLE
             #pragma shader_feature_local _NM_ENABLE
+            #pragma shader_feature_local _TM_ENABLE
             #pragma shader_feature_local _TR_ENABLE
             #pragma shader_feature_local _TS_ENABLE
             #pragma shader_feature_local _VC_ENABLE
@@ -278,6 +298,7 @@ Shader "UnlitWF/UnToon_Mobile/WF_UnToon_Mobile_Opaque" {
             #pragma vertex vert_shadow
             #pragma fragment frag_shadow
 
+            #define _WF_MOBILE
             #define _GL_NCC_ENABLE
 
             #pragma multi_compile_shadowcaster

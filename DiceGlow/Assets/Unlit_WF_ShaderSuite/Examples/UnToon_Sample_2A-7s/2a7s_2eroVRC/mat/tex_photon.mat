@@ -2,15 +2,20 @@
 %TAG !u! tag:unity3d.com,2011:
 --- !u!21 &2100000
 Material:
-  serializedVersion: 6
+  serializedVersion: 8
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: tex_photon
   m_Shader: {fileID: 4800000, guid: 0a7a6cdca16a38548a5d81aca8d4e3ba, type: 3}
-  m_ShaderKeywords: _ES_AULINK_ENABLE _ES_ENABLE _ES_SCROLL_ENABLE _GL_AUTO_ENABLE
-    _GL_NCC_ENABLE
+  m_ValidKeywords:
+  - _ES_AULINK_ENABLE
+  - _ES_ENABLE
+  - _ES_SCROLL_ENABLE
+  - _GL_AUTO_ENABLE
+  - _GL_NCC_ENABLE
+  m_InvalidKeywords: []
   m_LightmapFlags: 2
   m_EnableInstancingVariants: 1
   m_DoubleSidedGI: 0
@@ -53,6 +58,10 @@ Material:
         m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
+    - _TM_MaskTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
     - _TR_MaskTex:
         m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
@@ -61,10 +70,12 @@ Material:
         m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
+    m_Ints: []
     m_Floats:
     - _AL_Fresnel: 0.5
     - _AL_InvMaskVal: 0
     - _AL_Power: 0.16
+    - _AL_PowerMin: 0
     - _AL_Source: 0
     - _AL_ZWrite: 0
     - _AO_Brightness: 0
@@ -84,6 +95,7 @@ Material:
     - _ES_AU_Slope: 0.2
     - _ES_AuLinkEnable: 1
     - _ES_BlendType: 0
+    - _ES_ChangeAlpha: 0
     - _ES_Enable: 1
     - _ES_SC_AlphaScroll: 1
     - _ES_SC_DirType: 0
@@ -127,15 +139,26 @@ Material:
     - _MT_SpecSmooth: 0.8
     - _MT_Specular: 0
     - _QuestSupported: 0
+    - _TM_BlendNormal: 0
+    - _TM_BlendNormal2: 0
+    - _TM_Enable: 0
+    - _TM_Exponent: 1
+    - _TM_Feather: 0.1
+    - _TM_InvMaskVal: 0
+    - _TM_Width: 0
+    - _TM_WidthBottom: 1
+    - _TM_WidthSide: 1
+    - _TM_WidthTop: 0.5
     - _TR_BlendType: 0
     - _TR_DisableBackLit: 0
     - _TR_Enable: 0
+    - _TR_Exponent: 1
     - _TR_Feather: 0.05
     - _TR_InvMaskVal: 0
-    - _TR_Power: 1
-    - _TR_PowerBottom: 0.1
-    - _TR_PowerSide: 0.1
-    - _TR_PowerTop: 0.05
+    - _TR_Width: 0.1
+    - _TR_WidthBottom: 1
+    - _TR_WidthSide: 1
+    - _TR_WidthTop: 0.5
     - _TS_1stBorder: 0.4
     - _TS_1stFeather: 0.05
     - _TS_2ndBorder: 0.2
@@ -151,6 +174,7 @@ Material:
     - _TS_Power: 1
     - _TS_Steps: 2
     - _UseVertexColor: 0
+    - _VRCFallback: 0
     m_Colors:
     - _Color: {r: 1, g: 1, b: 1, a: 1}
     - _ES_SC_Direction: {r: 0, g: 10, b: 0, a: 0}
@@ -158,8 +182,10 @@ Material:
     - _GL_CustomLitPos: {r: 0, g: 3, b: 0, a: 1}
     - _HL_MatcapColor: {r: 0.5, g: 0.5, b: 0.5, a: 1}
     - _HL_MedianColor: {r: 0.5, g: 0.5, b: 0.5, a: 1}
+    - _TM_Color: {r: 0, g: 0, b: 0, a: 1}
     - _TR_Color: {r: 0.8, g: 0.8, b: 0.8, a: 1}
     - _TS_1stColor: {r: 0.81, g: 0.81, b: 0.9, a: 1}
     - _TS_2ndColor: {r: 0.68, g: 0.68, b: 0.8, a: 1}
     - _TS_3rdColor: {r: 0.595, g: 0.595, b: 0.7, a: 1}
     - _TS_BaseColor: {r: 1, g: 1, b: 1, a: 1}
+  m_BuildTextureStacks: []

@@ -48,6 +48,9 @@ namespace UnlitWF
         public bool onlyOverrideBuiltinTextures = false;
         public bool copyMaterialColor = false;
 
+        [NonSerialized]
+        public Func<string, string> propNameReplacer = nm => nm;
+
         public static CopyPropParameter Create()
         {
             var result = ScriptableObject.CreateInstance<CopyPropParameter>();
@@ -424,7 +427,7 @@ namespace UnlitWF
                 var dst_props = ShaderMaterialProperty.AsDict(dst);
 
                 // コピー
-                if (CopyProperties(src_props, dst_props, param.onlyOverrideBuiltinTextures))
+                if (CopyProperties(src_props, dst_props, param.onlyOverrideBuiltinTextures, param.propNameReplacer))
                 {
                     // キーワードを整理する
                     WFCommonUtility.SetupMaterial(dst);
@@ -435,31 +438,37 @@ namespace UnlitWF
             AssetDatabase.SaveAssets();
         }
 
-        private static bool CopyProperties(List<ShaderMaterialProperty> src, Dictionary<string, ShaderMaterialProperty> dst, bool onlyOverrideBuiltinTextures)
+        private static bool CopyProperties(List<ShaderMaterialProperty> src, Dictionary<string, ShaderMaterialProperty> dst, bool onlyOverrideBuiltinTextures, Func<string, string> propNameReplacer)
         {
             var changed = false;
             foreach (var src_prop in src)
             {
-                ShaderMaterialProperty dst_prop;
-                if (dst.TryGetValue(src_prop.Name, out dst_prop))
+                var dst_prop_name = src_prop.Name;
+                dst_prop_name = propNameReplacer(dst_prop_name);
+                if (string.IsNullOrWhiteSpace(dst_prop_name))
                 {
+                    continue;
+                }
+                if (!dst.TryGetValue(dst_prop_name, out var dst_prop))
+                {
+                    continue;
+                }
 
-                    // もしテクスチャがAssetsフォルダ内にある場合は上書きしない
-                    if (onlyOverrideBuiltinTextures)
+                // もしテクスチャがAssetsフォルダ内にある場合は上書きしない
+                if (onlyOverrideBuiltinTextures)
+                {
+                    if (dst_prop.Type == ShaderUtil.ShaderPropertyType.TexEnv)
                     {
-                        if (dst_prop.Type == ShaderUtil.ShaderPropertyType.TexEnv)
+                        var tex = dst_prop.Material.GetTexture(dst_prop.Name);
+                        if (!string.IsNullOrEmpty(AssetDatabase.GetAssetPath(tex)))
                         {
-                            var tex = dst_prop.Material.GetTexture(dst_prop.Name);
-                            if (!string.IsNullOrEmpty(AssetDatabase.GetAssetPath(tex)))
-                            {
-                                continue;
-                            }
+                            continue;
                         }
                     }
-
-                    // コピー
-                    changed |= src_prop.CopyTo(dst_prop);
                 }
+
+                // コピー
+                changed |= src_prop.CopyTo(dst_prop);
             }
             return changed;
         }
@@ -509,7 +518,10 @@ namespace UnlitWF
         {
             if (mm != null && mm.shader != null)
             {
-                return mm.shader.name.Contains("UnlitWF") && !mm.shader.name.Contains("Debug");
+                if (mm.shader.name.Contains("UnlitWF") && !mm.shader.name.Contains("Debug"))
+                {
+                    return mm.shader.name.Contains("URP") == WFCommonUtility.IsURP();
+                }
             }
             return false;
         }
@@ -542,6 +554,8 @@ namespace UnlitWF
 
         private static void CleanUpForWFMaterial(Material material)
         {
+            int steps = WFAccessor.GetInt(material, "_TS_Steps", 3);
+
             var props = ShaderSerializedProperty.AsList(material);
 
             // 無効になってる機能のプレフィックスを集める
@@ -555,12 +569,33 @@ namespace UnlitWF
                 }
             }
 
-            var del_props = new HashSet<ShaderSerializedProperty>();
-
-            // プレフィックスに合致する設定値を消去
-            props.FindAll(p => IsDisabledProperty(p, delPrefix)).ForEach(p => del_props.Add(p));
-            // 未使用の値を削除
-            props.FindAll(p => !p.HasPropertyInShader).ForEach(p => del_props.Add(p));
+            var del_props = new List<ShaderSerializedProperty>();
+            foreach(var p in props)
+            {
+                // プレフィックスに合致する設定値を消去
+                if (IsDisabledProperty(p, delPrefix))
+                {
+                    del_props.Add(p);
+                    continue;
+                }
+                // 未使用の値を削除
+                if (!p.HasPropertyInShader)
+                {
+                    del_props.Add(p);
+                    continue;
+                }
+                // 使っていない影テクスチャ削除
+                if (steps < 3 && (p.name == "_TS_3rdTex" || p.name == "_TS_3rdColor"))
+                {
+                    del_props.Add(p);
+                    continue;
+                }
+                if (steps < 2 && (p.name == "_TS_2ndTex" || p.name == "_TS_2ndColor"))
+                {
+                    del_props.Add(p);
+                    continue;
+                }
+            }
 
             // 削除実行
             DeleteProperties(del_props, material);
@@ -718,7 +753,7 @@ namespace UnlitWF
                 if (WFAccessor.HasShaderPropertyTexture(shader, pn))
                 {
                     var tex = importer.GetDefaultTexture(pn);
-                    if (tex != null)
+                    if (tex != null && material.HasProperty(pn)) // ResetDefaultTextureの直前でSerializeObject.ApplyPropertyChangeした内容はHasPropertyなどでアクセスしないとコミットされない？
                     {
                         material.SetTexture(pn, tex);
                     }

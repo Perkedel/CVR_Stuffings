@@ -34,6 +34,7 @@ Shader "UnlitWF/Custom/WF_UnToon_Custom_ClearCoat_Transparent" {
         [ToggleUI]
             _AL_InvMaskVal          ("[AL] Invert Mask Value", Range(0, 1)) = 0
             _AL_Power               ("[AL] Power", Range(0, 2)) = 1.0
+            _AL_PowerMin            ("[AL] Power(Min)", Range(0, 2)) = 0
             _AL_Fresnel             ("[AL] Fresnel Power", Range(0, 2)) = 0
         [Enum(OFF,0,ON,1)]
             _AL_ZWrite              ("[AL] ZWrite", int) = 0
@@ -52,17 +53,6 @@ Shader "UnlitWF/Custom/WF_UnToon_Custom_ClearCoat_Transparent" {
             _BKT_BackTex            ("[BKT] Back Texture", 2D) = "white" {}
         [HDR]
             _BKT_BackColor          ("[BKT] Back Color", Color) = (1, 1, 1, 1)
-
-        [WFHeaderToggle(3ch Color Mask)]
-            _CHM_Enable             ("[CHM] Enable", Float) = 0
-        [NoScaleOffset]
-            _CHM_3chMaskTex         ("[CHM] 3ch Mask Texture", 2D) = "black" {}
-        [HDR]
-            _CHM_ColorR             ("[CHM] R ch Color", Color) = (1, 1, 1, 1)
-        [HDR]
-            _CHM_ColorG             ("[CHM] G ch Color", Color) = (1, 1, 1, 1)
-        [HDR]
-            _CHM_ColorB             ("[CHM] B ch Color", Color) = (1, 1, 1, 1)
 
         [WFHeaderToggle(Gradient Map)]
             _CGR_Enable             ("[CGR] Enable", Float) = 0
@@ -120,8 +110,6 @@ Shader "UnlitWF/Custom/WF_UnToon_Custom_ClearCoat_Transparent" {
             _MT_Monochrome          ("[MT] Monochrome Reflection", Range(0, 1)) = 0
         [ToggleUI]
             _MT_GeomSpecAA          ("[MT] Geometric Specular AA", Range(0, 1)) = 1
-        [Enum(MASK,0,METALLIC,1)]
-            _MT_MetallicMapType     ("[MT] MetallicMap Type", Float) = 0
         [NoScaleOffset]
             _MetallicGlossMap       ("[MT] MetallicSmoothnessMap Texture", 2D) = "white" {}
         [ToggleUI]
@@ -194,10 +182,8 @@ Shader "UnlitWF/Custom/WF_UnToon_Custom_ClearCoat_Transparent" {
             _LME_ChangeAlpha        ("[LME] Change Alpha Transparency", Range(0, 1)) = 0
         [Enum(POLYGON,0,POINT,1)]
             _LME_Shape              ("[LME] Shape", Float) = 0
-        [PowerSlider(4.0)]
             _LME_Scale              ("[LME] Scale", Range(0, 4)) = 0.5
-        [PowerSlider(4.0)]
-            _LME_Dencity            ("[LME] Dencity", Range(0.3, 4)) = 0.5
+            _LME_Dencity            ("[LME] Dencity", Range(0, 1)) = 0.2
             _LME_Glitter            ("[LME] Glitter", Range(0, 1)) = 0.5
             _LME_MinDist            ("[LME] FadeOut Distance (Near)", Range(0, 5)) = 2.0
             _LME_MaxDist            ("[LME] FadeOut Distance (Far)", Range(0, 5)) = 4.0
@@ -245,14 +231,32 @@ Shader "UnlitWF/Custom/WF_UnToon_Custom_ClearCoat_Transparent" {
         [ToggleUI]
             _TS_DisableBackLit      ("[TS] Disable BackLit", Range(0, 1)) = 0
 
+        [WFHeaderToggle(RimShadow)]
+            _TM_Enable              ("[TM] Enable", Float) = 0
+            _TM_Color               ("[TM] Rim Color", Color) = (0, 0, 0, 1)
+            _TM_Width               ("[TM] Width", Range(0, 1)) = 0
+            _TM_Feather             ("[TM] Feather", Range(0, 1)) = 0.1
+            _TM_Exponent            ("[TM] Exponent", Range(1, 8)) = 1
+            _TM_BlendNormal         ("[TM] Blend Normal", Range(0, 1)) = 0
+            _TM_BlendNormal2        ("[TM] Blend Normal 2nd", Range(0, 1)) = 0
+        [NoScaleOffset]
+            _TM_MaskTex             ("[TM] Mask Texture (R)", 2D) = "white" {}
+        [ToggleUI]
+            _TM_InvMaskVal          ("[TM] Invert Mask Value", Range(0, 1)) = 0
+        [Header(RimShadow Advance)]
+            _TM_WidthTop            ("[TM] Width Top", Range(0, 1)) = 0.5
+            _TM_WidthSide           ("[TM] Width Side", Range(0, 1)) = 1
+            _TM_WidthBottom         ("[TM] Width Bottom", Range(0, 1)) = 1
+
         [WFHeaderToggle(RimLight)]
             _TR_Enable              ("[TR] Enable", Float) = 0
         [HDR]
             _TR_Color               ("[TR] Rim Color", Color) = (0.8, 0.8, 0.8, 1)
         [WF_Enum(UnlitWF.BlendModeTR,ADD,ALPHA,ADD_AND_SUB)]
             _TR_BlendType           ("[TR] Blend Type", Float) = 0
-            _TR_Power               ("[TR] Power", Range(0, 2)) = 1
-            _TR_Feather             ("[TR] Feather", Range(0, 0.2)) = 0.05
+            _TR_Width               ("[TR] Width", Range(0, 1)) = 0.1
+            _TR_Feather             ("[TR] Feather", Range(0, 1)) = 0.05
+            _TR_Exponent            ("[TR] Exponent", Range(1, 8)) = 1
             _TR_BlendNormal         ("[TR] Blend Normal", Range(0, 1)) = 0
             _TR_BlendNormal2        ("[TR] Blend Normal 2nd", Range(0, 1)) = 0
         [NoScaleOffset]
@@ -260,9 +264,9 @@ Shader "UnlitWF/Custom/WF_UnToon_Custom_ClearCoat_Transparent" {
         [ToggleUI]
             _TR_InvMaskVal          ("[TR] Invert Mask Value", Range(0, 1)) = 0
         [Header(RimLight Advance)]
-            _TR_PowerTop            ("[TR] Power Top", Range(0, 0.5)) = 0.05
-            _TR_PowerSide           ("[TR] Power Side", Range(0, 0.5)) = 0.1
-            _TR_PowerBottom         ("[TR] Power Bottom", Range(0, 0.5)) = 0.1
+            _TR_WidthTop            ("[TR] Width Top", Range(0, 1)) = 0.5
+            _TR_WidthSide           ("[TR] Width Side", Range(0, 1)) = 1
+            _TR_WidthBottom         ("[TR] Width Bottom", Range(0, 1)) = 1
         [ToggleUI]
             _TR_DisableBackLit      ("[TR] Disable BackLit", Range(0, 1)) = 0
 
@@ -323,6 +327,8 @@ Shader "UnlitWF/Custom/WF_UnToon_Custom_ClearCoat_Transparent" {
             _EmissionMap            ("[ES] Emission Texture", 2D) = "white" {}
         [WF_Enum(UnlitWF.BlendModeES,ADD,ALPHA,LEGACY_ALPHA)]
             _ES_BlendType           ("[ES] Blend Type", Float) = 0
+        [ToggleUI]
+            _ES_ChangeAlpha         ("[ES] Change Alpha Transparency", Range(0, 1)) = 0
 
         [Header(Emissive Scroll)]
         [ToggleUI]
@@ -386,7 +392,7 @@ Shader "UnlitWF/Custom/WF_UnToon_Custom_ClearCoat_Transparent" {
 
         [HideInInspector]
         [WF_FixFloat(0.0)]
-            _CurrentVersion         ("2024/01/01 (1.8.0)", Float) = 0
+            _CurrentVersion         ("2024/06/12 (2.1.0)", Float) = 0
         [HideInInspector]
         [WF_FixFloat(0.0)]
             _ClearBgSupported       ("True", Float) = 0
@@ -396,6 +402,9 @@ Shader "UnlitWF/Custom/WF_UnToon_Custom_ClearCoat_Transparent" {
         [HideInInspector]
         [WF_FixFloat(0.0)]
             _Category               ("BRP|UnToon|Custom/ClearCoat|Transparent", Float) = 0
+        [HideInInspector]
+        [WF_FixFloat(0.0)]
+            _VRCFallback            ("UnlitTransparent", Float) = 0
     }
 
     SubShader {
@@ -460,16 +469,16 @@ Shader "UnlitWF/Custom/WF_UnToon_Custom_ClearCoat_Transparent" {
             #pragma shader_feature_local _OVL_ENABLE
             #pragma shader_feature_local _TS_ENABLE
             #pragma shader_feature_local _VC_ENABLE
-            #pragma shader_feature_local_fragment _ _ES_SCROLL_ENABLE
             #pragma shader_feature_local_fragment _ _ES_AULINK_ENABLE
+            #pragma shader_feature_local_fragment _ _ES_SCROLL_ENABLE
             #pragma shader_feature_local_fragment _ _TS_STEP1_ENABLE _TS_STEP2_ENABLE _TS_STEP3_ENABLE
             #pragma shader_feature_local_fragment _BKT_ENABLE
-            #pragma shader_feature_local_fragment _CHM_ENABLE
             #pragma shader_feature_local_fragment _CGR_ENABLE
             #pragma shader_feature_local_fragment _CLC_ENABLE
             #pragma shader_feature_local_fragment _DFD_ENABLE
             #pragma shader_feature_local_fragment _ES_ENABLE
             #pragma shader_feature_local_fragment _LME_ENABLE
+            #pragma shader_feature_local_fragment _TM_ENABLE
             #pragma shader_feature_local_fragment _TR_ENABLE
 
             #pragma multi_compile_fwdbase
@@ -526,51 +535,8 @@ Shader "UnlitWF/Custom/WF_UnToon_Custom_ClearCoat_Transparent" {
             ENDCG
         }
 
-        Pass {
-            Name "SHADOWCASTER"
-            Tags{ "LightMode" = "ShadowCaster" }
-
-            Cull OFF
-
-            CGPROGRAM
-
-            #pragma vertex vert_shadow
-            #pragma fragment frag_shadow
-
-            #define _WF_ALPHA_BLEND
-            #define _GL_NCC_ENABLE
-
-            #pragma multi_compile_shadowcaster
-            #pragma multi_compile_instancing
-            #pragma multi_compile _ LOD_FADE_CROSSFADE
-
-            #include "WF_UnToon_ShadowCaster.cginc"
-
-            ENDCG
-        }
-
-        Pass {
-            Name "META"
-            Tags { "LightMode" = "Meta" }
-
-            Cull OFF
-
-            CGPROGRAM
-
-            #pragma vertex vert_meta
-            #pragma fragment frag_meta
-
-            #define _WF_ALPHA_BLEND
-
-            #pragma shader_feature_local _ES_ENABLE
-            #pragma shader_feature_local _VC_ENABLE
-
-            #pragma shader_feature EDITOR_VISUALIZATION
-
-            #include "WF_UnToon_Meta.cginc"
-
-            ENDCG
-        }
+        UsePass "UnlitWF/WF_UnToon_Transparent/SHADOWCASTER"
+        UsePass "UnlitWF/WF_UnToon_Transparent/META"
     }
 
     FallBack "UnlitWF/UnToon_Mobile/WF_UnToon_Mobile_Transparent"
