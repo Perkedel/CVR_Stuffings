@@ -9054,3 +9054,12 @@ https://youtu.be/qzhuWRQWK5I?si=PygoI274O32LWD5a
 - https://steamcommunity.com/sharedfiles/filedetails/?id=3272236943
 - https://steamcommunity.com/sharedfiles/filedetails/?id=2435093381&searchtext=8ball ulia magic 8 ball
 - https://steamcommunity.com/sharedfiles/filedetails/?id=2476054343&searchtext=emoji Alexander emoji ball
+- https://discord.com/channels/410126604237406209/588350685255565344/1258596421590974557
+- https://discord.com/channels/410126604237406209/1004342533964439592/1254167068933226666
+- https://discord.com/channels/410126604237406209/588350770777161748/1258566146375024751
+- https://discord.com/channels/410126604237406209/1004342104383815681/1258134816851759277
+- https://discord.com/channels/410126604237406209/766087403609391165/1258424905393770577
+- smooth frog
+- https://booth.pm/en/items/2615713 **PAID** オリジナル3Dモデル【街狐さん】
+- https://skfb.ly/o8BSY Tiki lamp Duznot
+- https://sketchfab.com/duz_vr Duznot

@@ -636,6 +636,12 @@ For employee: **DO NOT LOSE THE GUID!! MAKE SURE IT IS STILL ATTACHED, & IS SAME
 - Armor Extrude 20
 - Panel Convex 40
 
+### Protogen Material Order
+
+- Body: Armor, Extras
+- Extras: Extras, Fur
+- Model: Fur, Armor, Extras, Tails
+
 ### Control Bola
 
 How to Control:
