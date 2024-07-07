@@ -9158,3 +9158,88 @@ https://youtu.be/qzhuWRQWK5I?si=PygoI274O32LWD5a
 - https://steamcommunity.com/sharedfiles/filedetails/?id=2714671266&searchtext=load+card Adil3tr BG Load cards more
 - https://steamcommunity.com/sharedfiles/filedetails/?id=2704545716&searchtext=background+cards Lendri B. Mujina Background Cards
 - https://steamcommunity.com/sharedfiles/filedetails/?id=3252247696&searchtext= Marum Universal Dice Roller
+- Virtual Prop pls add peek camera with privacy option if reverse peek. must sync! Animator
+- https://x.com/EeveeHobbert/status/1809785149057593360
+- https://hobbert.gumroad.com/l/yldjqf **PAID**
+- https://x.com/ignesous/status/1809738110781042784
+- https://ignesous.gumroad.com/l/CheeseForNardo **paid**
+- https://hobbert.gumroad.com/
+- https://discord.com/channels/471446618156040210/471734527312789505/1258165114188726323
+- https://godotengine.org/article/migrating-animations-from-godot-4-0-to-4-3/
+- https://vxtwitter.com/Lyuma2d/status/1788898709927088540
+- https://whiteavaliyworkshop.gumroad.com/l/zwsndb **PAID** Wickerbeast Protogen
+- https://whiteavaliyworkshop.gumroad.com/
+- https://www.vrcarena.com/species/X0dHX3zyLSUFxNfMa372 Every Wickerbeast
+- https://jinapark.gumroad.com/l/JinsWickerbeast **PAID** Wickerbeast King
+- https://jinapark.gumroad.com/ Jin A originates the: Wickerbeast, Ampwave, etc.
+- https://lexianarts.gumroad.com/
+- https://lexianarts.gumroad.com/l/bzbgi?layout=profile **PAID** Thiccer Wickerbeast
+- https://www.reddit.com/r/VRchat/comments/1bno76k/wicker_beast_assets/
+- https://www.vrcarena.com/assets/f6b4b-baby-wicker **REQUIRES JOIN** Baby Wicker
+- https://discord.gg/2MnCEgVSVn invite to Baby Wicker
+- https://cinners.gumroad.com/l/bunnybeast? **PAID** VanyaBunny
+- https://jinxyuwu.gumroad.com/l/skullbeast **REQUIRES JOIN** **PAID** Skullbeast. Base model $0 (**REQUIRES JOIN**), with buy DLC
+- https://discord.com/invite/wHXz6Fa2EY Invite to ItsFloofy Skullbeast
+- https://dontjinxit.gumroad.com/l/jinxedkobold? **PAID** Jinxed Kobold
+- https://hotogiya.booth.pm/items/4897493 **PAID** Kuuta from HOTOGIYA
+- https://junotanuki.booth.pm/ **JUNOTANUKI GOT NEW STUFFS!!!!**
+- https://www.patreon.com/posts/99737639
+- https://rogodigital.design/tutorials/installing-add-ons/
+- https://sites.google.com/view/scatter5docs/manual/installation
+- https://github.com/Pullusb/How_to_install_Blender_addons
+- permiscuous.
+- https://www.babla.co.id/bahasa-inggris-bahasa-indonesia/promiscuous promiscuous
+- https://www.youtube.com/watch?v=0J3vgcE5i2o Nelly Furtado - Promiscuous
+- https://vrcmods.com/item?id=7761 Hat Kid animation 09williamsad
+- https://vrcmods.com/user/09williamsad
+- https://naitoookami.gumroad.com/l/JyKvS?layout=profile Naito Ookami PBRToon
+- https://naitoookami.gumroad.com/ Naito Ookami
+- https://vrcmods.com/item?id=1804 Naito Ookami Multishader **Likely lacks SPS-I**
+- https://vrcmods.com/user/Naitoookami Naito Ookami
+- https://vrcmods.com/item?id=5143 TheLeadZombie. this shader pack packs Naito MultiShader & Mochie UberShaders
+- https://vrcmods.com/user/TheLeadZombie
+- https://vrcmods.com/item?id=5144 TheLeadZombie. We are unable to find Herpus & others!
+- https://github.com/AkaiMage/Febrilucia HMM??!?!?
+- https://www.youtube.com/watch?v=6el30zY3YUY
+- https://vrcmods.com/item?id=7470 yoshino Car Shearer dance Collard Green
+- https://vrcmods.com/user/yoshino
+- https://www.deviantart.com/yamisweet/art/YYB-Rin-future-style-DOWNLOAD-505905613
+- https://www.deviantart.com/sanmuyyb/art/YYB-Hatsune-Miku-10th-DL-702119716
+- https://www.youtube.com/watch?v=bUhxp4u0v7k
+- https://www.youtube.com/watch?v=aRPtp25eRCQ
+- https://www.youtube.com/watch?v=Lvy8KFupMog
+- https://www.youtube.com/watch?v=TPXErmibHsc
+- https://www.youtube.com/watch?v=1gFO244pHVA
+- https://www.youtube.com/watch?v=pdenALKNA8w
+- https://www.youtube.com/watch?v=UXBlDCJ8mm0
+- https://www.youtube.com/watch?v=nYiQ-7fhAjk
+- https://www.youtube.com/watch?v=6-Wohi569Lk **GONE**
+- https://www.youtube.com/watch?v=-Fq5884_fAk
+- https://www.youtube.com/watch?v=PpqKaq7oLD8
+- https://www.youtube.com/watch?v=CxbJkafgbKE
+- https://www.youtube.com/watch?v=XESiLcQtLvE
+- https://www.youtube.com/watch?v=UXBlDCJ8mm0
+- https://www.youtube.com/watch?v=F845MOydfec
+- https://www.youtube.com/watch?v=xS3BGE2-zGE
+- TikTok search: `carshearer`
+- `Kolor`??????
+- yoshino OK
+- https://github.com/PLEXIDA/vrchat_useful_mod-1
+- https://www.patreon.com/posts/shatter-wave-2-26099213 Poiyomi shatter wave is for **PAID** $10+ tier
+- https://beardiechan.gumroad.com/l/GaiaFinal **PAID**
+- https://beardiechan.gumroad.com/l/GaiaV2 **PAID** **DEPRECATED**
+- https://vrcmods.com/item?id=388 Moxxi Cubed Unity SHader. Kaz reupload?
+- https://github.com/cubedparadox/Cubeds-Unity-Shaders here GitHub found
+- https://stackoverflow.com/questions/12483641/why-dont-similar-namespaced-classes-share-using-directives
+- https://learn.microsoft.com/id-id/cpp/preprocessor/hash-ifdef-and-hash-ifndef-directives-c-cpp?view=msvc-170
+- Arktoon Shader sqnquark
+- https://github.com/arktoon-archive/arktoon sqnquark deleted it. this is the last backup
+- https://github.com/arktoon-archive/arktoon/blob/main/arktoon-shaders-1.0.2.6.unitypackage yeah, real.
+- https://web.archive.org/web/20201127155715/https://synqark.github.io/Arktoon-Shaders-Doc/ Here's doc archived
+- & the new ones are
+- https://github.com/TokageItLab/ArktoonPlusT-Shaders here
+- https://booth.pm/ja/items/2018270 HORRAYY!!!!! Samples are **PAID**
+- ok
+- https://x.com/internetarchive/ whahhahahhat??!??!?!
+- https://x.com/internetarchive/status/1809780628822585652
+- https://discord.com/channels/410126604237406209/682645682968199168/1259519826867523594
