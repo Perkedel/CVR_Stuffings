@@ -9243,3 +9243,50 @@ https://youtu.be/qzhuWRQWK5I?si=PygoI274O32LWD5a
 - https://x.com/internetarchive/ whahhahahhat??!??!?!
 - https://x.com/internetarchive/status/1809780628822585652
 - https://discord.com/channels/410126604237406209/682645682968199168/1259519826867523594
+- https://youtu.be/0HifF0kqqKs?si=0TQVV37gEaeHz2km
+- https://github.com/tts-community/moonsharp-tts-debug/releases/tag/v2.0.0.0-tts.8
+- tabletop simulator achievement
+- tts
+- https://steamcommunity.com/sharedfiles/filedetails/?id=2965311076&searchtext=bag+explorer d1ke bag explorer
+- https://steamcommunity.com/sharedfiles/filedetails/?id=253394566
+- https://steamcommunity.com/sharedfiles/filedetails/?id=784008328
+- https://steamcommunity.com/sharedfiles/filedetails/?id=2007903269
+- https://steamcommunity.com/sharedfiles/filedetails/?id=3283038417&searchtext=slay+the+spire XCalibur Slay The Spire Coins
+- https://steamcommunity.com/sharedfiles/filedetails/?id=949469738&searchtext=book+shaped+bag HourEleven Book shaped bag
+- https://steamcommunity.com/sharedfiles/filedetails/?id=525497657&searchtext=AKO+dice CR4YCR4Y AKO DICE
+- https://steamcommunity.com/sharedfiles/filedetails/?id=2584703359&searchtext=AKO+dice Demi-Wahoo Oh yess 😏😏😏😏😏😏😏
+- https://steamcommunity.com/sharedfiles/filedetails/?id=1507776226&searchtext=color+changing JetMorris Color Changing Dice Roller
+- json tool
+- https://steamcommunity.com/sharedfiles/filedetails/?id=1332014467&searchtext=json+tool anonymous json tool
+- https://github.com/DasUmlaut/TTSLibrary
+- https://github.com/RobMayer/TTSLibrary now is this
+- https://steamcommunity.com/sharedfiles/filedetails/?id=2544464798&searchtext=rock+paper+scissor+dice Tilt Rock Paper Scissor D6 Dice
+- https://steamcommunity.com/sharedfiles/filedetails/?id=2985743116&searchtext=rock+paper+scissor+dice & the Danikleitor
+- Incoming Rupees
+- https://steamcommunity.com/sharedfiles/filedetails/?id=574537211&searchtext=rupees Cheez
+- https://steamcommunity.com/sharedfiles/filedetails/?id=2837529667&searchtext=rupees Coping Kobold
+- https://steamcommunity.com/sharedfiles/filedetails/?id=912039550&searchtext=rupies ifoundit1
+- OK
+- https://steamcommunity.com/sharedfiles/filedetails/?id=937641551&searchtext=indonesia BroG Congklak
+- https://steamcommunity.com/sharedfiles/filedetails/?id=2784704347&searchtext=dice+grenad3e RaRWolf Dice Grenade
+- https://steamcommunity.com/sharedfiles/filedetails/?id=1923036683&searchtext=auto+spectate wchill auto spectate tool
+- https://steamcommunity.com/workshop/filedetails/?id=2699376521 SaintBNS Hololive collections SoTM
+- https://steamcommunity.com/sharedfiles/filedetails/?id=1341053609&searchtext=flarble Ulia Flarbles
+- https://steamcommunity.com/sharedfiles/filedetails/?id=2511920946&searchtext=werewolf Jian Zen Steins Gate figurines
+- https://steamcommunity.com/sharedfiles/filedetails/?id=2818642148&searchtext=bee Froggie937 Bag of Bees
+- https://steamcommunity.com/sharedfiles/filedetails/?id=454009095&searchtext=doom Fluffz 3D Doom models    
+- https://steamcommunity.com/sharedfiles/filedetails/?id=898803940&searchtext=r34 indio r/place jigsaw puzzle
+- https://steamcommunity.com/sharedfiles/filedetails/?id=3135164673&searchtext=r34 Sound of Scalding Scripted Tools    
+- https://steamcommunity.com/sharedfiles/filedetails/?id=3283192592&searchtext= \[M\] Katamari Models
+- https://steamcommunity.com/sharedfiles/filedetails/?id=3281916458&searchtext= Pure Blackjack table bekaryagi99
+- https://steamcommunity.com/sharedfiles/filedetails/?id=3282759316&searchtext= goofy aah scout uno scuffed
+- https://steamcommunity.com/sharedfiles/filedetails/?id=3281311303&searchtext= DragonCrystal Monster Kart
+- https://steamcommunity.com/sharedfiles/filedetails/?id=3223861238&searchtext=crack Juice Kelly Crackpipe Uno
+- https://steamcommunity.com/sharedfiles/filedetails/?id=349414967&searchtext=crack Dissonance Antidote PNP+
+- https://steamcommunity.com/sharedfiles/filedetails/?id=3284906872&searchtext= Sergey default tts cube
+- https://steamcommunity.com/sharedfiles/filedetails/?id=859441439&searchtext=psychedelic Jocelyn Pyschedelic Dice. This is not my sister!
+- https://steamcommunity.com/sharedfiles/filedetails/?id=2916994547&searchtext=hat+kid+plush Sol3k Hat Kid Nyakuza plush
+- https://steamcommunity.com/sharedfiles/filedetails/?id=2908099168&searchtext=hat+kid+plush and main Hat Kid Plush
+- https://steamcommunity.com/sharedfiles/filedetails/?id=2589297566&searchtext=hat+kid TWKTemplar Hat Kid
+- https://steamcommunity.com/sharedfiles/filedetails/?id=3136612386&searchtext=airplane CR4YCR4Y Working Paper Airplane
+- https://steamcommunity.com/sharedfiles/filedetails/?id=2876074704&searchtext=borat ChillPills Borat Bag    
