@@ -9290,3 +9290,10 @@ https://youtu.be/qzhuWRQWK5I?si=PygoI274O32LWD5a
 - https://steamcommunity.com/sharedfiles/filedetails/?id=2589297566&searchtext=hat+kid TWKTemplar Hat Kid
 - https://steamcommunity.com/sharedfiles/filedetails/?id=3136612386&searchtext=airplane CR4YCR4Y Working Paper Airplane
 - https://steamcommunity.com/sharedfiles/filedetails/?id=2876074704&searchtext=borat ChillPills Borat Bag    
+- https://discord.com/channels/410126604237406209/588350685255565344/1257444661627457546
+- https://discord.com/channels/410126604237406209/588350685255565344/1260058493701062768
+- https://discord.com/channels/410126604237406209/1240763673346183279/1259989018981040170
+- https://discord.com/channels/410126604237406209/797279576459968555/1259704431268859904 Fearless7
+- https://forums.abinteractive.net/d/26-basic-props-tutorial **WAYBACK** Fearless7
+- https://sites.google.com/view/cvr-chillout-vr-police/home
+- https://discord.com/channels/410126604237406209/795882566968279091/1260314520916721674
