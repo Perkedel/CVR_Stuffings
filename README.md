@@ -546,6 +546,7 @@ Here are the UUIDs of all these assets we uploaded to CVR:
 | `7a75148c-cdbf-4585-a44a-c28904958ef8` | Hockey Puck | JOELwindows7 | The puck, hockey disk |
 | `75eb9b0f-474a-444d-a2d9-77946b994f13` | Botol Spin | JOELwindows7 | Bottle Spinner |
 | `e7490010-549c-4eb5-a220-eca276686249` | Virtual Prop Room | JOELwindows7 | Portable test room |
+| `357e5a63-60dd-40e5-a1fa-7b70eb447b01` | TebakDNB | JOELwindows7 | Yes or no guessing |
 | `b95873c0-f09d-4fc8-8dbe-be6f716dbc2c` | Bridge Carryover | JOELwindows7 | The broken bridge game |
 | `bdb2d310-951c-44c6-901e-6bdb29ae8320` | Thin Bridge | JOELwindows7 | The thin bridge game, popular VR demo |
 | `cd1cd0f6-d62d-4f5c-9d84-0567378a1d28` | Pontoon Square | JOELwindows7 | For Bridge Carryover game |

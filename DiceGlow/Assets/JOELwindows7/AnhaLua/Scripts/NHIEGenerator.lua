@@ -130,6 +130,7 @@ local nhieList = {
     'NHIE all nearest from start zone go forward 3 step',
     'NHIE all in start zone to 1st middle gray go forward 2 step, all 2nd middle gray to danger zone side go back 2 step',
 }
+local initText = 'Click this Prop to begin'
 local selectNhie = 'halo'
 local selectNum = 0
 local delaysButtonIn = 5

@@ -9297,3 +9297,221 @@ https://youtu.be/qzhuWRQWK5I?si=PygoI274O32LWD5a
 - https://forums.abinteractive.net/d/26-basic-props-tutorial **WAYBACK** Fearless7
 - https://sites.google.com/view/cvr-chillout-vr-police/home
 - https://discord.com/channels/410126604237406209/795882566968279091/1260314520916721674
+- https://aka.ms/wslstore
+- theparkbench hbd 9 Juli 2024
+- pls hard rock metal playlist
+- https://youtube.com/clip/UgkxwHSxpMBUMu-PIqQSCDgdQvFtPO4bz2Xx?si=lkJ_XkfNXTqZLUzk
+- https://discord.gg/gN9sVm52aX Panduh Cx
+- https://www.tiktok.com/@panduhcx/video/7330729789818408235?is_from_webapp=1&sender_device=pc&web_id=7365491924117669394
+- https://www.tiktok.com/@panduhcx
+- mmd lambda
+- https://discord.com/channels/410126604237406209/588350726841827358/1259279063911239810 Hey NEW!!
+- https://discord.com/channels/410126604237406209/588350726841827358/1258664030491377715
+- https://youtu.be/1u82E9o2qRk Rakoini thancc! how to port to CVR
+- https://vrcmods.com/item?id=2523 Derplevista!!! thancc, sans yey
+- https://ambientcg.com/
+- https://feedback.abinteractive.net/p/adv-avtr-the-ability-to-share-avatar-profiles-over-network
+- https://3dtextures.me/
+- https://discord.com/channels/410126604237406209/588350726841827358/1260639795592433796 thancc Jill too!
+- https://polyhaven.com/ thancc LiutenantSparkle    
+- https://discord.com/channels/410126604237406209/588350726841827358/1259168491123245117 momofier
+- https://discord.com/channels/410126604237406209/588350770777161748/1259256792718901399
+- https://discord.com/channels/410126604237406209/766086942005526579/1259496672237715487
+- https://github.com/EdyJ/blender-to-unity-fbx-exporter Thancc SDRaw
+- https://discord.com/channels/410126604237406209/1004342533964439592/1260539991109537844
+- https://discord.com/channels/410126604237406209/795882566968279091/1260423301063250011 NAK
+- https://discord.com/channels/410126604237406209/795882566968279091/1260409927575535666 Fearless7. Bone binding lua malfunction
+- https://discord.com/channels/410126604237406209/795882566968279091/1260432531975573565
+- https://discord.com/channels/410126604237406209/1004342104383815681/1260450586508394506
+- The Dot hbd 10 Juli 2024???
+- Jkk: spend nothing on Pokemon Go
+- https://youtu.be/atsMD_C0N9s?si=l0AZZDpP1A4ps7qO
+- https://booth.pm/ja/items/3964431 **paid**
+- FLIGHT OF THE NAVIGATOR FILM
+- the asteroid galaxy tour - navigator
+- compliance
+- pls mark particle the galvanized square steel fancy    
+- ha
+- https://www.youtube.com/live/_MP4bJzRELE?si=MyeYZ1rDLdYWzOz6
+- https://youtu.be/8kNYzPEHwAc?si=TumKZihR32X11BbR
+- https://youtube.com/shorts/PfsX9Q5Qx8k?si=aPSINypPRTBwcH4q
+- https://youtu.be/GsFVYSWZQDw?si=Ra24Pr0f7tR7RNBX
+- https://youtu.be/cPZEmBxK8_o?si=B-ziLzjslcluUFH0
+- https://youtube.com/shorts/3Yi8fmwzoUQ?si=uk9dwcBDiOhBGmM5
+- https://youtube.com/shorts/qIbcssXs_Mk?si=VU42bQKEWMbZX41V
+- https://youtu.be/hSlDlvNDwII?si=xHe-AgivUiGFHTVm
+- https://youtube.com/shorts/SR_6Wbwq2wE?si=bs8SYqmiMDIhKYoX
+- https://youtube.com/shorts/eUfj-wbDcE0?si=-jh9nKUsBoD5A774
+- https://youtu.be/u39i3eOfhcw?si=jXjXdEx7r3NVQ8aG
+- https://youtu.be/7yzf4xKHrY0?si=Uo-kCquFIUUOazO2
+- https://www.youtube.com/live/zDUCZGYdq34?si=ia8Xl39gOy51aJ3e
+- https://youtube.com/shorts/dyv4YD26xWA?si=OjkN0hD2DAsYtYUa
+- https://youtube.com/shorts/1yK74ou5Fik?si=iV7tERubWFNOwsXk
+- https://youtube.com/shorts/mvTZlB_5Fy0?si=VfZEU8MH30atGvBD
+- https://youtube.com/shorts/ur8sqLVEbYw?si=hs7Imy_JdvUNMC6p
+- https://youtu.be/NxjVIwzEXCk?si=HdT3n2ke15MM7fsu bouncy cat dessert
+- https://youtu.be/z8vFt1x4AB0?si=QVVH340dtVC6NelG
+- https://youtu.be/wqsPH7urGtM?si=iPMaRnEfAOe7Lzvz
+- https://youtu.be/kpVRF4P_fsk?si=oLvhOGfIipDeFkQX
+- https://youtu.be/7mUkG7vlicA?si=OfHve1-57HGBdcP_
+- https://youtube.com/shorts/6XoYlgikHzw?si=P4L2ghdvmoH0SzE5
+- https://youtube.com/shorts/ZINpPiA5v-A?si=L-FqWae2GvfswLkr
+- https://youtube.com/shorts/PTQxgUe4pyw?si=bIMbn0RkuBzUbYJG
+- https://youtu.be/eVydY8X2-6c?si=uA_JXTST5q3lQ-JJ
+- https://youtu.be/6DZVnX8bEAs?si=0VNvdlUFwlhTlbFQ
+- https://youtu.be/zGtTXEFUytc?si=qnrKLnnapjPnBW-7
+- https://youtu.be/psLlN2HDxQ0?si=dArLm7jgeh1W61se
+- https://youtube.com/shorts/R9Sj5npEqck?si=wK3VhtxKHsJMQ7nl
+- https://youtube.com/shorts/RzL_Z-SZgPw?si=5hfHNMZqQ5-YhrKC
+- https://youtube.com/shorts/F9qS6sxZXRc?si=ygxWAMYTZxDpc_M6
+- https://youtube.com/shorts/Wr3uxnkHvvQ?si=K0biWTaqgukQeHZu
+- https://youtube.com/shorts/tUXY280z-Bs?si=blP4fDJiauTwhh0K
+- https://youtube.com/shorts/zOd4fNE0O6I?si=tsxA8DyYvgIu-Ych
+- https://youtube.com/shorts/5MMPrYQr6FI?si=cNn4BZzftogm5AYC
+- alan walker bicycle
+- https://youtu.be/d44QrG_e2hA?si=5atSHDG7qUgZMYgD
+- https://youtube.com/shorts/Vpx4AnLOdIY?si=u2pqt3x7Ts7aPtPF
+- http://youtube.com/post/UgkxS9PHoZr_fu5GOmdg-HKTnW9joWvnBcqt?si=OFLFHtK2DA7vnzvL
+- https://youtube.com/shorts/BDDgXNLAiqI?si=7FK6i64EpI72a9lF meerkat
+- https://youtube.com/shorts/MWnWibPgcHc?si=PiUe77CIITMXle8d
+- https://youtube.com/shorts/cMoUxqoJoY4?si=hy0x0Cv-en2xDGFs
+- https://youtu.be/P8D6hxynt_Q?si=GQOjRZtqzMtIUEyw
+- https://youtu.be/H9zsPGEJW_w?si=R8PJuePr2gmpLJbO
+- https://youtu.be/-Tb7YmBOL9s?si=J9MCvrXeuXyznk5X
+- https://youtu.be/gx0ziZiSEO8?si=VZrGehKJNsjsD11a
+- https://youtu.be/De2alLxy2ps?si=yspLeL2xgMaqSwHS
+- https://youtu.be/zlRZUDzX2ms?si=0OX_sXQyemai2fTb
+- https://youtu.be/GUv4AjEt-Io?si=msBk-w9WavAD0ykd
+- https://youtu.be/tD8p8_XiOyA?si=fLvQAqFatRTHR2BA
+- https://youtu.be/jhscJRB_fu4?si=k_88VuB5KhUav-Jq
+- https://youtu.be/yiQnqfj5juU?si=4gHjyuAthLRz0WGu
+- https://youtu.be/0lbFEMqO_gg?si=Bq_-WfAsHw8BhRRQ
+- https://youtu.be/dDLLd16L6ZQ?si=fvQsJXlPzwS_eFvY
+- https://youtu.be/EtJu2OukcXo?si=wdrKrR8RIHPwirob
+- https://youtu.be/atsMD_C0N9s?si=l0AZZDpP1A4ps7qO
+- https://booth.pm/ja/items/3964431 **paid**
+- https://youtu.be/aK0dZFxaRl8?si=fRFsvtIhs0s7A1bb
+- https://youtu.be/jHu9Wc2mEgw?si=Ns8SRAYVNo08dxJ9
+- https://youtu.be/VjR8OJtGQLM?si=zzg6H_EBrp0m569R
+- https://youtu.be/MnH46nq8gao?si=EpWo7SrK4IAqquSj
+- https://youtu.be/YH5_Rwrv8L4?si=GJgyY5kwldcybDn5
+- https://youtu.be/fLAFCDq2mPU?si=R8UeKNx_aKv0O5QN
+- gun appear. this guy can manifest a glock and unspawn. the glock even works
+- https://youtube.com/shorts/cWTmX2Qa6VQ?si=syk1cx9lV30CFoCh
+- https://youtube.com/shorts/VeIIVwyGVtk?si=pzKWdV02ZSG3hpBw
+- https://youtube.com/shorts/DfWk0xcu42s?si=DrHyGdzf3fq3-p3f
+- https://youtube.com/shorts/ME8XyGkFqFI?si=oXwhveiX-L50DFzO
+- https://youtube.com/shorts/gPF4RKRC2mM?si=MGqohylbdK4RE0wq
+- https://youtu.be/ZmhE7T5oXo8?si=sGkJa-CksVey5gQ7 lego ai dream machine
+- https://youtu.be/nv_EsoPzPgk?si=X2XXdaebmFxvPVZu
+- https://youtu.be/sL9F0G9ZNLU?si=vWGYbRo4OU6p2b60
+- https://youtube.com/shorts/vNMqqf1ya-0?si=JNSVvHe0Wj04Jhzu
+- https://youtube.com/shorts/zUNnfIKIIx8?si=Ds-uU23QQt3DT0g4
+- https://youtu.be/vTxmgWAz1Kw?si=jONXPScLBxQoGsV_
+- https://youtu.be/-RDavWwL_Ho?si=Knjw7Ke4x78KRe3A
+- https://youtube.com/shorts/thcFqmnqGEU?si=ePoRTR53H2675jk7
+- https://youtu.be/BlX61dkgobg?si=E2x1EM-IgtG9OxcE
+- https://sketchfab.com/3d-models/spamton-neo-deltarune-31ec3871fa7e4cd686aa9958d979506f
+- https://sketchfab.com/3d-models/fangamer-deltarune-spamton-talking-plush-e80656c9ffc14967a2e57ea64a4e8d7c
+- https://sketchfab.com/3d-models/toby-fox-deltarune-car-2aad11ccb6e0401b9ab276f25fd58d1d
+- https://sketchfab.com/3d-models/pbr-compass-1d8a0711dd974f729ab76d2af7daa529
+- https://youtu.be/EPoEGJpy4Ds?si=NjgEahEv-UFjIumq
+- https://youtu.be/HW7vOQSgvE4?si=mhYsOC18eKsEpmaK
+- https://youtu.be/j1JhevjNIUA?si=YPR5gRk17GUHQ0ZA
+- https://youtu.be/-SNHPu2jFfE?si=TPfA9dFn5qB8_uAJ
+- https://youtube.com/shorts/BZI0bCfcJpY?si=xkJIYsgozQD6kTAg
+- https://youtube.com/shorts/TNyBd72Lw1g?si=TTya7FiJ64tAqT7_
+- https://youtube.com/shorts/jtAYDynYdgw?si=fKdp3D6XLoORSwMT
+- https://youtu.be/D0D4yuiEj08?si=aGebf8F6DcZ7F3vn
+- https://youtube.com/shorts/nxCphVSTXO4?si=OXukWN4BurpHYI_T
+- https://youtube.com/shorts/TNyBd72Lw1g?si=njZtMT7Lc2ZzgzPh
+- https://youtu.be/kBLHQSDobnI?si=Kv9TsyB397kisOZk
+- mezmerizer teto miku
+- https://youtu.be/4MKP2gGkEnw?si=MYkerTscJeg2w_Gw
+- https://youtu.be/Tstc6NmNAus?si=R-n8hS4Yo1CPrI-l audi change the game
+- https://youtube.com/shorts/4_igHmz1440?si=i7ivFjq-YYyFXtyo
+- https://youtube.com/shorts/TCZYQC3IckE?si=fIJqvRuQJ-Oqnu0x
+- https://youtu.be/DuT7SMDhblU?si=-lcBZdQCJRwDtgbC
+- https://youtu.be/ShjfjfXzh7I?si=NTCl7GQwM-8YjNnO
+- https://youtube.com/shorts/HDGdG3dnvFs?si=NgTzo9PobZq75HWf 
+- nobody's gonna know
+- https://youtu.be/Zi_oh56ww_c?si=ig9KtTWbtk5m5Dlv
+- spongebob game frenzy
+- https://youtu.be/O7ERCVWjDQ8?si=v5ZHPxOmsokuqbvJ
+- https://x.com/boonayhoe/status/1808038936981229627
+- https://youtu.be/VkhQfXTMgdU?si=kv6ipiKIsBGMcauM
+- https://youtube.com/shorts/3EieqMVpCd8?si=Jv-kQdJvijfaq6fb
+- https://youtube.com/shorts/040N1yW7yJg?si=ECnL_-fILyCWCQ2n
+- https://youtube.com/shorts/DDXXsxXv4Mw?si=BuAzkAQyUTRVmYZJ
+- https://youtube.com/shorts/Y8_vcNav3p0?si=KYdYoSGuj28x6Bqv
+- https://youtu.be/2Yb4NlA2hGw?si=no_SBs2-fOKsiIet
+- https://x.com/M0MORUMOMO/status/1809176689492045926
+- https://skfb.ly/o9XyP
+- https://skfb.ly/o9HrB
+- https://thenounproject.com/icon/rabbit-145978
+- https://thenounproject.com/icon/fox-6850742
+- o
+- https://youtu.be/MdsDid3CSO4?si=R0HKuDXKmnffUF0u
+- https://youtu.be/VMFUf2gkXYI?si=apocxUFuaCnnWV04
+- https://youtu.be/yD-9qc3p78o?si=TesIHLAaB7fKJ73N
+- https://youtube.com/shorts/JhhmTted56U?si=W8JApugwLdz6zL6Y
+- https://youtube.com/shorts/XdfQcA7pcgQ?si=KyoqB0tCIDyXZmIt
+- https://youtube.com/shorts/JnGgEPj4euE?si=cXdmehGi8cPFXsGi
+- https://youtube.com/shorts/5WLKIf-Ztws?si=BPrRIMqVmMvuNP9D law by mike speeding ticket
+- https://youtube.com/shorts/6L3o80M_bz8?si=w2cqyBHST_g1B_97 i invoke the 5th and I want to talk to a lawyer
+- a
+- You know how fast you went?
+- What do you think?
+- arrest. You don't ever Law by Mike!
+- a
+- https://youtube.com/shorts/s6Y0JSoB3lA?si=RMeBnxjXfMQb9GaY
+- https://youtube.com/shorts/7-Tk27hCxTA?si=3bPpR_C_kleoy1-n
+- https://youtube.com/shorts/lkuFWFf2rcc?si=2ExrlaTpJ4JlMnz9
+- https://youtube.com/shorts/A_auDO23tCk?si=LR2RQAEwYNBWJFWx
+- https://youtu.be/OHuo2TcZv-4?si=lpkijfrc5miFQkhc
+- https://youtube.com/shorts/j0kiFCGdU9Y?si=LQ4VRwHFimDxHLcl
+- https://youtube.com/shorts/NchKJTSxu2s?si=O0CX7EH0T6AFsCqE
+- http://youtube.com/post/UgkxgoKSLt_aZ8xM_TLVKl9X4AtquU0KDeB-?si=ousTN_N30p719zCw
+- https://youtu.be/d6r0mcdaX08?si=mqjE7VpPkHmLTRan flinstone earrape
+- https://youtube.com/shorts/654Y5wrzQqM?si=ybe5Tlqdht53dK6R
+- https://youtube.com/shorts/Ewip-ICMJTY?si=bFQxjc8eKXKKUlbN
+- https://youtube.com/shorts/IZhAqT2duJ8?si=cF_Fjf9XAf0F0b3H
+- https://youtube.com/shorts/E5xirdl3Vwo?si=hse_Blmy5Melo3Ix
+- https://youtube.com/shorts/MmCjlYI_EwE?si=uwFpMFnBE_5S1kH4
+- https://youtu.be/4Ini99W5YiU?feature=shared
+- https://youtube.com/shorts/Q9ZDcvsHZE8?feature=shared
+- https://youtu.be/7BJGLYuM0s8?feature=shared
+- https://youtu.be/kc9BKgk_f1U?si=_ye3W7-Jl0FdJxOj
+- https://youtu.be/PD-6MwG1xig?si=BHBfxVQElSW-bN8h skip cutscene
+- knack game
+- https://youtube.com/shorts/MvM7UjrHOtQ?si=n2lyih-l6EVt4CVB
+- https://youtube.com/shorts/2kxfIVvj_e4?si=8gtPwKSs2o49TYTj
+- https://youtu.be/R5sNPzRvh7A?si=BvK6NNRKcoIi2bku
+- https://youtu.be/huNdXJuDMUQ?si=dU0o3PEryQaF6E_4
+- https://youtube.com/shorts/j1qDzGwpohc?si=qgxjlyQLtrRR8Up1
+- https://youtube.com/shorts/i8IadTA34Ug?si=WCKQxo0xZKvWkprK
+- https://youtu.be/JQU_iBk9le4?si=joPiEHtydIacH8Ff
+- https://youtu.be/gsHk7_sintQ?si=t2wcd21G14HI_gbb haiya crossfire
+- https://youtu.be/ZYhxEzxPNFo?si=pJ2aSwRtNMZfp6Mk ye crossfire liftoff
+- https://youtu.be/d9orU36moI8?si=Gwn88is9BefyiQQZ cfseven77
+- https://youtu.be/zQiL0YkcwhI?si=jJI0sbRCXIturXT1
+- https://youtu.be/kcabcFUNnSc?si=cHECM7ionTZF3fa4
+- https://jummb.us
+- ok
+- https://www.rane.com/index.html
+- Exclusive user grant prop?!?!?!?!??!?!?!?!?!?
+- https://www.youtube.com/watch?v=xlZA2k66rNI
+- https://www.wavosaur.com/download/midi-note-hex.php
+- https://manual.mixxx.org/2.4/id/chapters/vinyl_control
+- https://serato.com/controlcd/downloads
+- https://www.wavosaur.com/download/midi-note-hex.php
+- https://manual.mixxx.org/2.4/id/chapters/microphones
+- https://oblique-audio.com/rtl-utility.php
+- https://manual.mixxx.org/2.4/id/chapters/getting_involved
+- https://github.com/mixxxdj/mixxx/issues?q=is:open+is:issue+label:easy
+- https://mixxx.discourse.group/t/sony-sixxaxis-game-controller-hid-mapping/12650
+- https://github.com/lua/lua/releases/tag/v5.4.7 LUA RELEASWE??!?!??! Thancc SDRaw for info
+- https://discord.com/channels/410126604237406209/766086942005526579/1261052765195472967 Whoah SnekMach what is this?
+- https://github.com/zulubo/VWater OOOh, yess!! thancc amazing awesome!!!
+- https://www.youtube.com/watch?v=tyixMpuGEL8 Captain Disillusion explains VFX Flight of the Navigator,
+- https://discord.com/channels/627168678471008269/627264673817034752/1260830839378411581 thancc Pythos
