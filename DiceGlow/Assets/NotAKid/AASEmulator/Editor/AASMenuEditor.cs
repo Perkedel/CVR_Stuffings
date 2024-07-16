@@ -1,4 +1,5 @@
-﻿using NAK.AASEmulator.Runtime;
+﻿using System;
+using NAK.AASEmulator.Runtime;
 using UnityEditor;
 using UnityEngine;
 using static ABI.CCK.Scripts.CVRAdvancedSettingsEntry;
@@ -10,14 +11,14 @@ namespace NAK.AASEmulator.Editor
     [CustomEditor(typeof(AASMenu))]
     public class AASMenuEditor : UnityEditor.Editor
     {
-        #region Variables
+        #region Private Variables
 
         private AASMenu _menu;
         private Vector2 _scrollPosition;
 
-        #endregion
+        #endregion Private Variables
 
-        #region Unity / GUI Methods
+        #region Unity Events
 
         private void OnEnable()
         {
@@ -37,7 +38,7 @@ namespace NAK.AASEmulator.Editor
             Draw_AASMenus();
         }
 
-        #endregion Unity / GUI Methods
+        #endregion Unity Events
 
         #region Drawing Methods
 
@@ -52,8 +53,16 @@ namespace NAK.AASEmulator.Editor
 
         private void Draw_AASMenus()
         {
+            int entriesCount = _menu.entries.Count;
+            if (entriesCount == 0)
+            {
+                EditorGUILayout.HelpBox("No menu entries found for this avatar.", MessageType.Info);
+                return;
+            }
+            
+            int height = Mathf.Min(entriesCount * 100, 600);
             _scrollPosition = EditorGUILayout.BeginScrollView(_scrollPosition, 
-                false, false, GUILayout.Height(600));
+                false, false, GUILayout.Height(height));
             
             foreach (AASMenuEntry t in _menu.entries)
                 DisplayMenuEntry(t);
@@ -69,7 +78,6 @@ namespace NAK.AASEmulator.Editor
             EditorGUILayout.LabelField("Machine Name", entry.machineName);
             EditorGUILayout.LabelField("Settings Type", entry.settingType.ToString());
             
-            // JOELwindows7: Must do hacky way for CCK since 3.10, not sure if it's kept like that for stable one day.
             switch (entry.settingType)
             {
                 case SettingsType.Dropdown:
@@ -77,8 +85,7 @@ namespace NAK.AASEmulator.Editor
                     int newIndex = EditorGUILayout.Popup("Value", oldIndex, entry.menuOptions);
                     if (newIndex != oldIndex)
                     {
-                        _menu.AnimatorManager.SetParameter(entry.machineName, newIndex);
-                        entry.valueX = newIndex;
+                        _menu.AnimatorManager.Parameters.SetParameter(entry.machineName, entry.valueX = newIndex);
                     }
                     break;
                 case SettingsType.Toggle:
@@ -86,47 +93,42 @@ namespace NAK.AASEmulator.Editor
                     bool newValue = EditorGUILayout.Toggle("Value", oldValue);
                     if (newValue != oldValue)
                     {
-                        _menu.AnimatorManager.SetParameter(entry.machineName, newValue);
-                        entry.valueX = newValue ? 1f : 0f;
+                        _menu.AnimatorManager.Parameters.SetParameter(entry.machineName, entry.valueX = newValue ? 1f : 0f);
                     }
                     break;
                 case SettingsType.Slider:
                     float oldSliderValue = entry.valueX;
                     float newSliderValue = EditorGUILayout.Slider("Value", oldSliderValue, 0f, 1f);
-                    if (newSliderValue != oldSliderValue)
+                    if (Math.Abs(newSliderValue - oldSliderValue) > float.Epsilon)
                     {
-                        _menu.AnimatorManager.SetParameter(entry.machineName, newSliderValue);
-                        entry.valueX = newSliderValue;
+                        _menu.AnimatorManager.Parameters.SetParameter(entry.machineName, entry.valueX = newSliderValue);
                     }
                     break;
                 case SettingsType.InputSingle:
                     float oldSingleValue = entry.valueX;
                     float newSingleValue = EditorGUILayout.FloatField("Value", oldSingleValue);
-                    if (newSingleValue != oldSingleValue)
+                    if (Math.Abs(newSingleValue - oldSingleValue) > float.Epsilon)
                     {
-                        _menu.AnimatorManager.SetParameter(entry.machineName, newSingleValue);
-                        entry.valueX = newSingleValue;
+                        _menu.AnimatorManager.Parameters.SetParameter(entry.machineName, entry.valueX = newSingleValue);
                     }
                     break;
                 case SettingsType.InputVector2:
-                    Vector2 oldVector2Value = new Vector2(entry.valueX, entry.valueY);
+                    Vector2 oldVector2Value = new(entry.valueX, entry.valueY);
                     Vector2 newVector2Value = EditorGUILayout.Vector2Field("Value", oldVector2Value);
                     if (newVector2Value != oldVector2Value)
                     {
-                        _menu.AnimatorManager.SetParameter(entry.machineName, newVector2Value);
-                        entry.valueX = newVector2Value.x;
-                        entry.valueY = newVector2Value.y;
+                        _menu.AnimatorManager.Parameters.SetParameter(entry.machineName + "-x", entry.valueX = newVector2Value.x);
+                        _menu.AnimatorManager.Parameters.SetParameter(entry.machineName + "-y", entry.valueY = newVector2Value.y);
                     }
                     break;
                 case SettingsType.InputVector3:
-                    Vector3 oldVector3Value = new Vector3(entry.valueX, entry.valueY, entry.valueZ);
+                    Vector3 oldVector3Value = new(entry.valueX, entry.valueY, entry.valueZ);
                     Vector3 newVector3Value = EditorGUILayout.Vector3Field("Value", oldVector3Value);
                     if (newVector3Value != oldVector3Value)
                     {
-                        _menu.AnimatorManager.SetParameter(entry.machineName, newVector3Value);
-                        entry.valueX = newVector3Value.x;
-                        entry.valueY = newVector3Value.y;
-                        entry.valueZ = newVector3Value.z;
+                        _menu.AnimatorManager.Parameters.SetParameter(entry.machineName + "-x", entry.valueX = newVector3Value.x);
+                        _menu.AnimatorManager.Parameters.SetParameter(entry.machineName + "-y", entry.valueY = newVector3Value.y);
+                        _menu.AnimatorManager.Parameters.SetParameter(entry.machineName + "-z", entry.valueZ = newVector3Value.z);
                     }
                     break;
                 // TODO: AAAAAAAAAAAA

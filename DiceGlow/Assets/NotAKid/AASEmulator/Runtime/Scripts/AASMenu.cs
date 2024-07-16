@@ -1,3 +1,4 @@
+#if CVR_CCK_EXISTS
 using ABI.CCK.Scripts;
 using NAK.AASEmulator.Runtime.SubSystems;
 using System.Collections.Generic;
@@ -36,7 +37,7 @@ namespace NAK.AASEmulator.Runtime
         #region Variables
 
         public readonly List<AASMenuEntry> entries = new();
-        public AnimatorManager AnimatorManager => runtime.AnimatorManager;
+        public AvatarAnimator AnimatorManager => runtime.AnimatorManager;
         private AASEmulatorRuntime runtime;
 
         #endregion Variables
@@ -72,23 +73,19 @@ namespace NAK.AASEmulator.Runtime
             foreach (CVRAdvancedSettingsEntry setting in avatarSettings)
             {
                 string[] postfixes;
-                // JOELwindows7: another hacky ways needed!
                 switch (setting.type)
                 {
                     case SettingsType.Joystick2D:
                     case SettingsType.InputVector2:
                         postfixes = new[] { "-x", "-y" };
                         break;
-
                     case SettingsType.Joystick3D:
                     case SettingsType.InputVector3:
                         postfixes = new[] { "-x", "-y", "-z" };
                         break;
-
                     case SettingsType.Color:
                         postfixes = new[] { "-r", "-g", "-b" };
                         break;
-
                     case SettingsType.Dropdown:
                     case SettingsType.Toggle:
                     case SettingsType.Slider:
@@ -104,25 +101,14 @@ namespace NAK.AASEmulator.Runtime
                     machineName = setting.machineName,
                     settingType = setting.type,
                 };
-                
-                // JOELwindows7: the CVRAdvancesAvatarSettingGameObjectDropdown losts getOptionsList()! now all you have to do is to just insert a variable. there's now getter in it.
+
                 if (setting.setting is CVRAdvancesAvatarSettingGameObjectDropdown dropdown)
-                    // menuEntry.menuOptions = dropdown.getOptionsList();
-                    menuEntry.menuOptions = dropdown.optionNames;
+                    menuEntry.menuOptions = dropdown.optionNames; 
 
                 for (int i = 0; i < postfixes.Length; i++)
                 {
-                    if (AnimatorManager.Parameters.TryGetValue(setting.machineName + postfixes[i],
-                            out AnimatorManager.BaseParam param))
+                    if (AnimatorManager.Parameters.GetParameter(setting.machineName + postfixes[i], out float value))
                     {
-                        float value = param switch
-                        {
-                            AnimatorManager.FloatParam floatParam => floatParam.defaultValue,
-                            AnimatorManager.IntParam intParam => intParam.defaultValue,
-                            AnimatorManager.BoolParam boolParam => boolParam.defaultValue ? 1f : 0f,
-                            _ => 0f
-                        };
-
                         switch (i)
                         {
                             case 0:
@@ -162,3 +148,4 @@ namespace NAK.AASEmulator.Runtime
         #endregion Menu Entry Class
     }
 }
+#endif

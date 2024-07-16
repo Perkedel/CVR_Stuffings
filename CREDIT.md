@@ -3824,7 +3824,7 @@ New Sauce lists
 - https://twitter.com/zebjzz/status/1750703860086157710
 - fucking hell. next!
 - https://skfb.ly/oJSFy rat low poly
-- https://skfb.ly/6UWoN fast food
+- https://skfb.ly/6UWoN fast food drink    
 - https://sisters.booth.pm
 - https://sketchfab.com/c3posw01 pls download Maksim Batyrev. Chen has tanks ported here
 - https://assetstore.unity.com/packages/3d/environments/sci-fi/polygon-sci-fi-worlds-low-poly-3d-art-by-synty-206299 **PAID**
@@ -9515,3 +9515,57 @@ https://youtu.be/qzhuWRQWK5I?si=PygoI274O32LWD5a
 - https://github.com/zulubo/VWater OOOh, yess!! thancc amazing awesome!!!
 - https://www.youtube.com/watch?v=tyixMpuGEL8 Captain Disillusion explains VFX Flight of the Navigator,
 - https://discord.com/channels/627168678471008269/627264673817034752/1260830839378411581 thancc Pythos
+- https://discord.com/channels/410126604237406209/797279576459968555/1261240202224209920 Patchuri. how to Poiyomi numeric stat overlay
+- https://discord.com/channels/410126604237406209/588350770777161748/1261079824168915004
+- https://discord.com/channels/410126604237406209/1240763673346183279/1261317463010971658    
+- https://discord.com/channels/410126604237406209/1240763673346183279/1261363060363366600
+- https://discord.com/channels/410126604237406209/1240763673346183279/1245066412595347610
+- https://discord.com/channels/410126604237406209/1240763673346183279/1261384444179251270 RavenWorks Spawnable value    
+- https://discord.com/channels/410126604237406209/795882566968279091/1261310021191340154
+- GhostRobot. in steamapp common fo
+- Malaya Yu Sketchfab\
+- thancc for puke while XYZ idea for NHIE, Lex! yey
+- https://discord.com/channels/410126604237406209/682645682968199168/1261431575946596362 trio realistic patrick's
+- https://sites.google.com/view/cvr-chillout-vr-police/home/partnerships/foxy-news?authuser=0 oo
+- https://discord.com/channels/410126604237406209/588350685255565344/1261431073158594581 Anthronia collab foxy news
+- remove realtime light!!!!!!!!!!!!!!!!!!!!!!!!!! lag!!!!!!!!!!!!!!!!!!!!!!!!!
+- the Teeny Car lights especially!!!!!
+- pls suggest asset loading progress in nametag like in tabletop sim
+- https://discord.com/channels/410126604237406209/766086942005526579/1261697334572486666 Zettai. put render texture on material & camera
+- https://discord.com/channels/410126604237406209/1240763673346183279/1261506613341327441 WOW NAK!!!
+- https://github.com/NotAKidoS/CVR_LUA_BINDINGS/tree/main thancc cool and good amazing awesome!!!!
+- https://github.com/NotAKidoS/AASEmulator/releases/tag/v0.1.3 also AAS Emulator fixed! pls update!
+- https://www.youtube.com/watch?v=WWSZw_imrZQ
+- https://gum.co/mantlednicojedi
+- elephant scratch belly    
+- BLUE WAFFLE be careful. It's a codename of vaginal disease
+- cold shower. Darien Fox
+- Fatih Yavuz sketchfab    
+- Push AFK player with MilchZocker Broom prop. thancc RiverOceano!
+- https://discord.com/channels/410126604237406209/1004342533964439592/1262070146931888188 Dippy making new gondola for his theme park!
+- https://discord.com/channels/410126604237406209/1004342533964439592/1262128185613484234
+- https://discord.com/channels/410126604237406209/797279576459968555/1262202157629706262
+- https://discord.com/channels/410126604237406209/588350685255565344/1261751612435857478
+- https://www.cgtrader.com/3d-models/character/woman/delphox-3d-nsfw-pokemon **PAID**
+- https://zy0n7.gumroad.com/
+- pls insert all sauces to california girl. discord what?    
+- https://github.com/nix-community/home-manager/blob/master/modules/programs/waybar.nix
+- https://www.reddit.com/r/NixOS/comments/176jr3f/package_confusion_waybar_hyprland_nixpkgswayland/
+- https://superuser.com/questions/10426/windows-equivalent-of-the-linux-command-touch
+- https://github.com/wyskoj/midis2jam2/issues/173
+- investigate mochi glass shader water droplet overlay!
+- https://skfb.ly/6VsKR baby bottle
+- https://skfb.ly/6Upww garmin
+- pls g0blinns
+- https://vox-art.com/
+- https://itsvoxid.gumroad.com/
+- https://booth.pm/en/items/5914638 **PAID** raruh meruka paws. Booba robot
+- https://booth.pm/en/items/5847650 **PAID** raruh with vagina
+- https://booth.pm/en/items/5907118 **PAID** spin shader
+- https://booth.pm/en/items/5910351 **PAID** a
+- https://booth.pm/en/items/5314122 **PAID** cyant
+- https://booth.pm/en/items/3293366 **PAID** robot kobold
+- https://gist.github.com/kaiware007/8ebad2d28638ff83b6b74970a4f70c9a
+- https://discord.com/channels/410126604237406209/588350685255565344/1262594269072592937
+- https://discord.com/channels/410126604237406209/1004342533964439592/1262848483174518795
+- https://github.com/zulubo/VWater Imported

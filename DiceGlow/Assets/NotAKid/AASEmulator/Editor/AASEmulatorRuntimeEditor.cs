@@ -11,11 +11,11 @@ namespace NAK.AASEmulator.Editor
     [CustomEditor(typeof(AASEmulatorRuntime))]
     public class AASEmulatorRuntimeEditor : UnityEditor.Editor
     {
-        #region Variables
+        #region Private Variables
 
         private AASEmulatorRuntime _targetScript;
 
-        #endregion
+        #endregion Private Variables
 
         #region Unity / GUI Methods
 
@@ -38,6 +38,8 @@ namespace NAK.AASEmulator.Editor
 
             Draw_ScriptWarning();
 
+            Draw_RemoteClones();
+            //Draw_LocalAvatar();
             Draw_AvatarInfo();
             
             Draw_LipSync();
@@ -51,7 +53,7 @@ namespace NAK.AASEmulator.Editor
         #endregion Unity / GUI Methods
         
         #region Drawing Methods
-
+        
         private void Draw_ScriptWarning()
         {
             if (_targetScript.isInitializedExternally) 
@@ -60,7 +62,52 @@ namespace NAK.AASEmulator.Editor
             EditorGUILayout.HelpBox("Warning: Do not upload this script with your avatar!\nThis script is prevented from saving to scenes & prefabs.", MessageType.Warning);
             EditorGUILayout.HelpBox("This script will automatically be added if you enable AASEmulator from the Tools menu (Tools > Enable AAS Emulator).", MessageType.Info);
         }
+        
+        private void Draw_RemoteClones()
+        {
+            EditorGUILayout.Space();
+            _targetScript.remoteClonesFoldout = EditorGUILayout.Foldout(_targetScript.remoteClonesFoldout, "Remote Clones & Mirror Reflection", true, s_BoldFoldoutStyle);
 
+            if (_targetScript.remoteClonesFoldout)
+            {
+                EditorGUI.indentLevel++;
+                EditorGUILayout.BeginVertical("box");
+                
+                _targetScript.DisplayMirrorReflection = EditorGUILayout.Toggle("Display Mirror Reflection", _targetScript.DisplayMirrorReflection);
+                
+                int newRemoteCloneCount = EditorGUILayout.IntField("Remote Clone Count", _targetScript.RemoteCloneCount, s_BoldLabelStyle);
+                if (newRemoteCloneCount != _targetScript.RemoteCloneCount) _targetScript.RemoteCloneCount = newRemoteCloneCount;
+
+                EditorGUILayout.BeginHorizontal();
+                if (GUILayout.Button("Create Remote Clone"))
+                    _targetScript.RemoteCloneCount++;
+                if (GUILayout.Button("Destroy All Clones"))
+                    _targetScript.RemoteCloneCount = 0;
+                EditorGUILayout.EndHorizontal();
+                
+                EditorGUILayout.EndVertical();
+                EditorGUI.indentLevel--;
+            }
+        }
+
+        private void Draw_LocalAvatar()
+        {
+            EditorGUILayout.Space();
+            _targetScript.localAvatarFoldout = EditorGUILayout.Foldout(_targetScript.localAvatarFoldout, "FPRExclusions & Mirror Reflection", true, s_BoldFoldoutStyle);
+
+            if (_targetScript.localAvatarFoldout)
+            {   
+                EditorGUI.indentLevel++;
+                EditorGUILayout.BeginVertical("box");
+                
+                _targetScript.DisplayFPRExclusions = EditorGUILayout.Toggle("Display FPR Exclusions", _targetScript.DisplayFPRExclusions);
+                _targetScript.DisplayMirrorReflection = EditorGUILayout.Toggle("Display Mirror Reflection", _targetScript.DisplayMirrorReflection);
+
+                EditorGUILayout.EndVertical();
+                EditorGUI.indentLevel--;
+            }
+        }
+        
         private void Draw_AvatarInfo()
         {
             EditorGUILayout.Space();
@@ -69,7 +116,13 @@ namespace NAK.AASEmulator.Editor
             if (_targetScript.avatarInfoFoldout)
             {
                 EditorGUI.indentLevel++;
+                EditorGUILayout.BeginVertical("box");
 
+                string aasStatus = _targetScript.IsUsingAvatarAdvancedSettings ? "Using Avatar Advanced Settings" : "Not Using Avatar Advanced Settings";
+                EditorGUILayout.LabelField("AAS Status:", aasStatus);
+                
+                Draw_AASSyncingInfo();
+                
                 string emoteStatus = _targetScript.IsEmotePlaying ? "Playing an Emote - Tracking Disabled" : "Not Playing an Emote - Tracking Enabled";
                 EditorGUILayout.LabelField("Emote Status:", emoteStatus);
                 
@@ -85,7 +138,57 @@ namespace NAK.AASEmulator.Editor
                 string lipsyncStatus = _targetScript.UseLipsync ? "Enabled - Lipsync On" : "Disabled - Lipsync Off";
                 EditorGUILayout.LabelField("Lipsync:", lipsyncStatus);
                 
+                Draw_BodyControlState();
+                
+                EditorGUILayout.EndVertical();
                 EditorGUI.indentLevel--;
+            }
+        }
+
+        private void Draw_AASSyncingInfo()
+        {
+            _targetScript.aasSyncingInfoFoldout = EditorGUILayout.Foldout(_targetScript.aasSyncingInfoFoldout, "AAS Syncing Info", true, s_BoldFoldoutStyle);
+
+            if (_targetScript.aasSyncingInfoFoldout)
+            {
+                EditorGUI.indentLevel++;
+                
+                EditorGUILayout.LabelField("Float Bit Usage: " + _targetScript.AnimatorManager.SyncedFloatUsage);
+                EditorGUILayout.LabelField("Int Bit Usage: " + _targetScript.AnimatorManager.SyncedIntUsage);
+                EditorGUILayout.LabelField("Byte Bit Usage: " + _targetScript.AnimatorManager.SyncedByteUsage);
+                EditorGUILayout.LabelField("Total Usage: " + _targetScript.AnimatorManager.SyncedTotalUsage + " / " + AvatarDefinitions.AAS_MAX_SYNCED_BITS);
+                
+                EditorGUI.indentLevel--;
+            }
+        }
+        
+        private readonly string[] bodyControlStates = { "On", "Off" };
+
+        private void Draw_BodyControlState()
+        {
+            EditorGUILayout.Space();
+            _targetScript.bodyControlFoldout = EditorGUILayout.Foldout(_targetScript.bodyControlFoldout, "Body Control State (Read-Only)", true, s_BoldFoldoutStyle);
+
+            if (_targetScript.bodyControlFoldout)
+            {
+                EditorGUI.indentLevel++;
+                
+                DrawPopup("Head", _targetScript.BodyControl.Head);
+                DrawPopup("Pelvis", _targetScript.BodyControl.Pelvis);
+                DrawPopup("Left Arm", _targetScript.BodyControl.LeftArm);
+                DrawPopup("Right Arm", _targetScript.BodyControl.RightArm);
+                DrawPopup("Left Leg", _targetScript.BodyControl.LeftLeg);
+                DrawPopup("Right Leg", _targetScript.BodyControl.RightLeg);
+                DrawPopup("Locomotion", _targetScript.BodyControl.Locomotion);
+                
+                EditorGUI.indentLevel--;
+            }
+
+            return;
+            void DrawPopup(string label, bool state)
+            {
+                int selectedIndex = state ? 0 : 1;
+                EditorGUILayout.Popup(label, selectedIndex, bodyControlStates);
             }
         }
 
@@ -99,22 +202,25 @@ namespace NAK.AASEmulator.Editor
             if (_targetScript.lipSyncFoldout)
             {
                 EditorGUI.indentLevel++;
+                EditorGUILayout.BeginVertical("box");
 
                 switch (_targetScript.VisemeMode)
                 {
-                    case VisemeModeIndex.Visemes:
+                    case AvatarDefinitions.VisemeModeIndex.Visemes:
                         int newVisemeIndex = (int)_targetScript.VisemeIdx;
-                        newVisemeIndex = EditorGUILayout.Popup("Viseme Index", newVisemeIndex, Enum.GetNames(typeof(VisemeIndex)));
-                        HandlePopupScroll(ref newVisemeIndex, 0, Enum.GetNames(typeof(VisemeIndex)).Length - 1);
-                        _targetScript.VisemeIdx = (VisemeIndex)newVisemeIndex;
+                        newVisemeIndex = EditorGUILayout.Popup("Viseme Index", newVisemeIndex, Enum.GetNames(typeof(AvatarDefinitions.VisemeIndex)));
+                        HandlePopupScroll(ref newVisemeIndex, 0, Enum.GetNames(typeof(AvatarDefinitions.VisemeIndex)).Length - 1);
+                        _targetScript.VisemeIdx = (AvatarDefinitions.VisemeIndex)newVisemeIndex;
                         _targetScript.Viseme = EditorGUILayout.IntSlider("Viseme", _targetScript.Viseme, 0, 14);
+                        _targetScript.VisemeLoudness = EditorGUILayout.Slider("Viseme Loudness", _targetScript.VisemeLoudness, 0f, 1f);
                         break;
-                    case VisemeModeIndex.Single_Blendshape:
-                    case VisemeModeIndex.Jaw_Bone:
+                    case AvatarDefinitions.VisemeModeIndex.Single_Blendshape:
+                    case AvatarDefinitions.VisemeModeIndex.Jaw_Bone:
                         _targetScript.VisemeLoudness = EditorGUILayout.Slider("Viseme Loudness", _targetScript.VisemeLoudness, 0f, 1f);
                         break;
                 }
 
+                EditorGUILayout.EndVertical();
                 EditorGUI.indentLevel--;
             }
         }
@@ -127,12 +233,13 @@ namespace NAK.AASEmulator.Editor
             if (_targetScript.builtInGesturesFoldout)
             {
                 EditorGUI.indentLevel++;
+                EditorGUILayout.BeginVertical("box");
 
-                int newLeftGestureIndex = EditorGUILayout.Popup("Gesture Left Index", (int)_targetScript.GestureLeftIdx, Enum.GetNames(typeof(GestureIndex)));
-                HandlePopupScroll(ref newLeftGestureIndex, 0, Enum.GetNames(typeof(GestureIndex)).Length - 1);
-                if ((GestureIndex)newLeftGestureIndex != _targetScript.GestureLeftIdx)
+                int newLeftGestureIndex = EditorGUILayout.Popup("Gesture Left Idx", (int)_targetScript.GestureLeftIdx, Enum.GetNames(typeof(AvatarDefinitions.GestureIndex)));
+                HandlePopupScroll(ref newLeftGestureIndex, 0, Enum.GetNames(typeof(AvatarDefinitions.GestureIndex)).Length - 1);
+                if ((AvatarDefinitions.GestureIndex)newLeftGestureIndex != _targetScript.GestureLeftIdx)
                 {
-                    _targetScript.GestureLeftIdx = (GestureIndex)newLeftGestureIndex;
+                    _targetScript.GestureLeftIdx = (AvatarDefinitions.GestureIndex)newLeftGestureIndex;
                 }
                 float newLeftGestureValue = EditorGUILayout.Slider("Gesture Left", _targetScript.GestureLeft, -1, 6);
                 if (!Mathf.Approximately(newLeftGestureValue, _targetScript.GestureLeft))
@@ -140,11 +247,11 @@ namespace NAK.AASEmulator.Editor
                     _targetScript.GestureLeft = newLeftGestureValue;
                 }
 
-                int newRightGestureIndex = EditorGUILayout.Popup("Gesture Right Index", (int)_targetScript.GestureRightIdx, Enum.GetNames(typeof(GestureIndex)));
-                HandlePopupScroll(ref newRightGestureIndex, 0, Enum.GetNames(typeof(GestureIndex)).Length - 1);
-                if ((GestureIndex)newRightGestureIndex != _targetScript.GestureRightIdx)
+                int newRightGestureIndex = EditorGUILayout.Popup("Gesture Right Idx", (int)_targetScript.GestureRightIdx, Enum.GetNames(typeof(AvatarDefinitions.GestureIndex)));
+                HandlePopupScroll(ref newRightGestureIndex, 0, Enum.GetNames(typeof(AvatarDefinitions.GestureIndex)).Length - 1);
+                if ((AvatarDefinitions.GestureIndex)newRightGestureIndex != _targetScript.GestureRightIdx)
                 {
-                    _targetScript.GestureRightIdx = (GestureIndex)newRightGestureIndex;
+                    _targetScript.GestureRightIdx = (AvatarDefinitions.GestureIndex)newRightGestureIndex;
                 }
                 float newRightGestureValue = EditorGUILayout.Slider("Gesture Right", _targetScript.GestureRight, -1, 6);
                 if (!Mathf.Approximately(newRightGestureValue, _targetScript.GestureRight))
@@ -152,6 +259,7 @@ namespace NAK.AASEmulator.Editor
                     _targetScript.GestureRight = newRightGestureValue;
                 }
 
+                EditorGUILayout.EndVertical();
                 EditorGUI.indentLevel--;
             }
         }
@@ -164,9 +272,10 @@ namespace NAK.AASEmulator.Editor
             if (_targetScript.builtInLocomotionFoldout)
             {
                 EditorGUI.indentLevel++;
+                EditorGUILayout.BeginVertical("box");
 
                 // Custom joystick GUI
-                _targetScript.joystickFoldout = EditorGUILayout.Foldout(_targetScript.joystickFoldout, "Joystick", true, s_BoldFoldoutStyle);
+                _targetScript.joystickFoldout = EditorGUILayout.Foldout(_targetScript.joystickFoldout, "Controls", true, s_BoldFoldoutStyle);
                 if (_targetScript.joystickFoldout)
                 {
                     EditorGUILayout.BeginHorizontal();
@@ -175,8 +284,23 @@ namespace NAK.AASEmulator.Editor
                     Vector2 newMovementValue = Joystick2DField(joystickRect, _targetScript.Movement, true);
                     if (newMovementValue != _targetScript.Movement)
                         _targetScript.Movement = newMovementValue;
+                    
+                    
 
                     EditorGUILayout.BeginVertical();
+                    
+                    float originalLabelWidth = EditorGUIUtility.labelWidth;
+                    EditorGUIUtility.labelWidth = 100f;
+                    
+                    // upright slider
+                    float uprightValue = EditorGUILayout.Slider("Upright", _targetScript.Upright, 0f, 1f);
+                    if (!Mathf.Approximately(uprightValue, _targetScript.Upright)) _targetScript.Upright = uprightValue;
+                    
+                    // spam jump toggle
+                    _targetScript.InputJump = EditorGUILayout.Toggle("Spam Jump", _targetScript.InputJump);
+                    
+                    EditorGUIUtility.labelWidth = originalLabelWidth;
+                    
                     GUILayout.FlexibleSpace();
                     EditorGUILayout.HelpBox("Double Click to Reset", MessageType.Info);
                     EditorGUILayout.EndVertical();
@@ -196,6 +320,7 @@ namespace NAK.AASEmulator.Editor
                 _targetScript.Swimming = EditorGUILayout.Toggle("Swimming", _targetScript.Swimming);
                 _targetScript.Grounded = EditorGUILayout.Toggle("Grounded", _targetScript.Grounded);
 
+                EditorGUILayout.EndVertical();
                 EditorGUI.indentLevel--;
             }
         }
@@ -208,6 +333,7 @@ namespace NAK.AASEmulator.Editor
             if (_targetScript.builtInEmotesFoldout)
             {
                 EditorGUI.indentLevel++;
+                EditorGUILayout.BeginVertical("box");
 
                 EditorGUILayout.BeginHorizontal();
                 EditorGUILayout.LabelField("Emote", GUILayout.Width(60));
@@ -229,6 +355,7 @@ namespace NAK.AASEmulator.Editor
 
                 _targetScript.CancelEmote = EditorGUILayout.Toggle("Cancel Emote", _targetScript.CancelEmote);
 
+                EditorGUILayout.EndVertical();
                 EditorGUI.indentLevel--;
             }
         }
@@ -244,18 +371,24 @@ namespace NAK.AASEmulator.Editor
             if (_targetScript.floatsFoldout)
             {
                 EditorGUI.indentLevel++;
-                foreach (AnimatorManager.FloatParam floatParam in _targetScript.AnimatorManager.FloatParameters)
+                EditorGUILayout.BeginVertical("box");
+                
+                foreach (ParameterDefinition floatParam in _targetScript.AnimatorManager.Parameters.GetFloatParameters())
                 {
+                    if (floatParam.IsCoreParameter) continue;
+                    
                     EditorGUILayout.BeginHorizontal();
                     EditorGUILayout.LabelField(floatParam.name, GUILayout.MaxWidth(150));
                     EditorGUILayout.LabelField(floatParam.isLocal ? "Local" : "Synced", GUILayout.MaxWidth(75));
                     EditorGUI.BeginDisabledGroup(floatParam.isControlledByCurve);
-                    float newFloatValue = EditorGUILayout.FloatField(floatParam.value);
+                    float newFloatValue = EditorGUILayout.FloatField(floatParam.GetFloat());
                     EditorGUI.EndDisabledGroup();
-                    if (Math.Abs(floatParam.value - newFloatValue) > float.Epsilon)
-                        _targetScript.AnimatorManager.SetParameter(floatParam.name, newFloatValue);
+                    if (Math.Abs(floatParam.GetFloat() - newFloatValue) > float.Epsilon)
+                        _targetScript.AnimatorManager.Parameters.SetParameter(floatParam.name, newFloatValue);
                     EditorGUILayout.EndHorizontal();
                 }
+                
+                EditorGUILayout.EndVertical();
                 EditorGUI.indentLevel--;
             }
 
@@ -263,18 +396,24 @@ namespace NAK.AASEmulator.Editor
             if (_targetScript.intsFoldout)
             {
                 EditorGUI.indentLevel++;
-                foreach (AnimatorManager.IntParam intParam in _targetScript.AnimatorManager.IntParameters)
+                EditorGUILayout.BeginVertical("box");
+                
+                foreach (ParameterDefinition intParam in _targetScript.AnimatorManager.Parameters.GetIntParameters())
                 {
+                    if (intParam.IsCoreParameter) continue;
+                    
                     EditorGUILayout.BeginHorizontal();
                     EditorGUILayout.LabelField(intParam.name, GUILayout.MaxWidth(150));
                     EditorGUILayout.LabelField(intParam.isLocal ? "Local" : "Synced", GUILayout.MaxWidth(75));
                     EditorGUI.BeginDisabledGroup(intParam.isControlledByCurve);
-                    int newIntValue = EditorGUILayout.IntField(intParam.value);
+                    int newIntValue = EditorGUILayout.IntField(intParam.GetInt());
                     EditorGUI.EndDisabledGroup();
-                    if (intParam.value != newIntValue)
-                        _targetScript.AnimatorManager.SetParameter(intParam.name, newIntValue);
+                    if (intParam.GetInt() != newIntValue)
+                        _targetScript.AnimatorManager.Parameters.SetParameter(intParam.name, newIntValue);
                     EditorGUILayout.EndHorizontal();
                 }
+                
+                EditorGUILayout.EndVertical();
                 EditorGUI.indentLevel--;
             }
             
@@ -282,18 +421,24 @@ namespace NAK.AASEmulator.Editor
             if (_targetScript.boolsFoldout)
             {
                 EditorGUI.indentLevel++;
-                foreach (AnimatorManager.BoolParam boolParam in _targetScript.AnimatorManager.BoolParameters)
+                EditorGUILayout.BeginVertical("box");
+                
+                foreach (ParameterDefinition boolParam in _targetScript.AnimatorManager.Parameters.GetBoolParameters())
                 {
+                    if (boolParam.IsCoreParameter) continue;
+                    
                     EditorGUILayout.BeginHorizontal();
                     EditorGUILayout.LabelField(boolParam.name, GUILayout.MaxWidth(150));
                     EditorGUILayout.LabelField(boolParam.isLocal ? "Local" : "Synced", GUILayout.MaxWidth(75));
                     EditorGUI.BeginDisabledGroup(boolParam.isControlledByCurve);
-                    bool newBoolValue = EditorGUILayout.Toggle(boolParam.value);
+                    bool newBoolValue = EditorGUILayout.Toggle(boolParam.GetBool());
                     EditorGUI.EndDisabledGroup();
-                    if (boolParam.value != newBoolValue)
-                        _targetScript.AnimatorManager.SetParameter(boolParam.name, newBoolValue);
+                    if (boolParam.GetBool() != newBoolValue)
+                        _targetScript.AnimatorManager.Parameters.SetParameter(boolParam.name, newBoolValue);
                     EditorGUILayout.EndHorizontal();
                 }
+                
+                EditorGUILayout.EndVertical();
                 EditorGUI.indentLevel--;
             }
         }

@@ -10,19 +10,17 @@ It is mostly fluff. What you see is what you get:
 * Scrolling on dropdowns to advance sliders.
 * Funni joystick, can test normalized movement values.
 
-## Emulator "Features"
-* Info display for Emote, Eye, Blink, and Lipsync status.
-* Core parameters take priority from Emulator, but user-added parameters can be set in Animator and displayed in Emulator just fine.
+## Emulator Features
+- Info display for Emote, Eye, Blink, and Lipsync status.
+- Simulated Eye Blink, Eye Movement, and Visemes.
+- Simulated Avatar Advanced Tagging.
+- ~~Simulated AAS Syncing to Remote Avatar~~ (soon)
 
-## Emulated Quirks
-* Emote parameter is only set for one frame.
-* Emote is reset while running.
-* Emote status is based on Locomotion/Emotes animation clip names.
+## Have any Questions about Avatar Creation?
+Check out the linked [Common Creator FAQ](https://github.com/NotAKidOnSteam/AASEmulator/wiki/Common-Creator-FAQ) wiki page for some general good-to-know information before fully diving into ChilloutVR Avatar Creation. Some things mentioned there aren't properly documented elsewhere.
 
-That's really it as of now. Possible goal is to get CVRParameterStream, CVRAdvancedAvatarSettingTrigger, and CVRPointer emulated i guess.
-
-To be honest though, it is unlikely I will personally continue this project or any other CCK tool until the following is done:
-https://feedback.abinteractive.net/p/add-a-assembly-definition-to-the-cck
+Feel free to join the Alpha Blend Interactive [Discord Server](https://discord.com/invite/abi) to get help from other community members!
+The `#-general-avatars` & `#-advanced-settings` channels would be most appropriate for Avatar-related questions.
 
 ------
 

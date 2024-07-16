@@ -1,5 +1,6 @@
 ﻿using System.Linq;
 using NAK.AASEmulator.Runtime;
+using NAK.AASEmulator.Runtime.Extensions;
 using UnityEditor;
 using UnityEngine;
 using UnityEngine.SceneManagement;
@@ -24,6 +25,7 @@ namespace NAK.AASEmulator.Support
         {
             GameObject go = c.gameObject;
             Component[] components = go.GetComponents<Component>();
+            
             try
             {
                 if (PrefabUtility.IsPartOfAnyPrefab(go))
@@ -34,9 +36,9 @@ namespace NAK.AASEmulator.Support
                 // ignored
             }
 
-            if (PrefabUtility.IsPartOfAnyPrefab(go.GetComponents<Component>()[1])) 
+            if (PrefabUtility.IsPartOfAnyPrefab(components[1])) 
                 return;
-
+            
             int moveUpCalls = components.Length - 2;
             for (int i = 0; i < moveUpCalls; i++)
                 UnityEditorInternal.ComponentUtility.MoveComponentUp(c);
@@ -68,15 +70,10 @@ namespace NAK.AASEmulator.Support
             Selection.SetActiveObjectWithContext(gameObject, gameObject);
             EditorGUIUtility.PingObject(gameObject);
         }
-
-        public static T AddComponentIfMissing<T>(this GameObject go) where T : Component
-        {
-            return go.GetComponent<T>() ?? go.AddComponent<T>();
-        }
         
-        public static T AddComponentIfMissing<T>(this Component component) where T : Component
-        {
-            return component.gameObject.AddComponentIfMissing<T>();
-        }
+        // internal static T AddComponentIfMissing<T>(this Component component) where T : Component
+        // {
+        //     return component.gameObject.AddComponentIfMissing<T>();
+        // }
     }
 }

@@ -562,6 +562,7 @@ Here are the UUIDs of all these assets we uploaded to CVR:
 | `7ad7e4d5-89e1-4ddf-82e6-e5587e18c3cc` | VoyVivika Portable Tutorial Prop Edit Bahasa Indonesia | JOELwindows7 | VoyVivika Tutorial Prefab edited to add Bahasa Indonesia |
 | `b46651c8-10f4-4569-8bd8-77b8b62ae59a` | DNB VIP Card | JOELwindows7 | Little John's VIP Card he used to access secret facilities around DNB & affiliates |
 | `b946477f-b126-4bf0-9dfc-106a198d4ea0` | Emergency Unlock Card | JOELwindows7 | (Evil Betty Keycard) Force Unlock a room. **For emergency purpose only!** |
+| `fe4f3b9e-9bc4-42fe-bbb3-c5f49e4e442a` | Source Engine Error bahasa Indonesia | JOELwindows7 | Source Engine Error symbol but in Bahasa Indonesia. SDRaw's Russian version inspired me to do so lmao lol! |
 | `140ca808-7a9a-49c3-9296-3f49127f04ea` | Sex Dice Tutorial card | JOELwindows7 | **NSFW** How to DIY Lewd dice. |
 | `cae8af07-97be-4595-a5a8-1114caf6eec5` | Soklong Clock | JOELwindows7 | **Experimental** Aesthetically minimalist clock |
 | `d2fe9f84-0ee1-49aa-93b0-574040c17731` | Laron P7-K | JOELwindows7 | **Experimental** Moving Head Stage Light |

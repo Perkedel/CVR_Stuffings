@@ -41,8 +41,42 @@ local textNewCompo = {nil} -- ---@class Array<TMPro.TMP_Text>
 local yesNoList = {
     'Had ever ticketed by police',
     'Had ever Drunk & floor foxed',
-    'Had ever Went to Disneyland',
+    'Had ever went to Disneyland',
+    'Had ever went to any expo convention',
+    'Had ever went to any furry convention',
+    'Had ever went to any anime convention',
+    'Had ever went to any tech convention',
+    -- Lex, these are your ideas! okay thancc.
+    'Had ever <i>Emergency Digestive Reverse Egress Protocol</i> while any VR',
+    'Had ever <i>Emergency Digestive Reverse Egress Protocol</i> while any Chatting in VR',
+    'Had ever <i>Emergency Digestive Reverse Egress Protocol</i> while any Job in VR',
+    -- OK
+    'Had ever tried any <b>Linux Distro</b>',
+    'Had ever tried <b>Linux Distro: NixOS</b>',
+    'Had ever tried <b>Linux Distro: SteamOS (Steam Deck)</b>',
+    'Had ever tried <b>Linux Distro: Arch Linux</b>',
+    'Had ever tried <b>Linux Distro: any Ubuntu</b>',
+    'Had ever tried <b>Linux Distro: any Debian</b>',
     'Had atleast 1 pet',
+    'Had atleast 1 car',
+    'Had atleast 1 game console',
+    'Had atleast 1 built PC (own buy parts-built or commisssioned / pre-built 1st or 3rd party)',
+    'Had atleast 1 server rack (rent (Linode, Hetzner, etc., not including game machine such as Game Pass nor Geforce now) or personal)',
+    'Had atleast 1 subcriptions (Netflix, Amazon Prime, Disney+, Apple tv+, Xbox Game Pass, Geforce Now, PlayStation Plus, Humble Bundle, etc.)',
+    'Had atleast 1 smartphone',
+    'Had atleast 1 smartwatch',
+    'Had atleast 1 VR kit',
+    'Had atleast 1 Laptop',
+    'Had atleast 1 Tablet PC',
+    'Had atleast 1 any computer based (PC, Tablet, Smartphone, IoT, Networking, etc.)',
+    'Had atleast 1 any weapon',
+    'Had atleast 1 any musical instrument',
+    'Had atleast 1 any sport system (Fussball, Soccer, Rugby, Billiard, Basketball, Tennis, Badminton, etc.)',
+    'Had atleast 1 any job',
+    'Had atleast 1 tech job',
+    'Had atleast 1 game development job',
+    'Had atleast 1 descendant (child)',
+    'Had spouse', -- This is quite sensitive offensive, pls discuss as necessary. So far, we only support max 1 spouse, complying with God's standard.
 }
 local initText = 'Click Generate to select quote.\nPress Play to start the game, & continue phase.'
 local prefixText = 'Yes or no. This person...\n'

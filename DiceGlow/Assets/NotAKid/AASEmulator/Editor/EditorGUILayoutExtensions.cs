@@ -10,14 +10,16 @@ namespace NAK.AASEmulator.Editor
         static EditorExtensions()
         {
             // init styles
+            s_BoldLabelStyle = new GUIStyle(EditorStyles.label) { fontStyle = FontStyle.Bold };
             s_BoldFoldoutStyle = new GUIStyle(EditorStyles.foldout) { fontStyle = FontStyle.Bold };
         }
         
-        #endregion
+        #endregion Constructor
         
         #region Shared Styles
 
-        internal static GUIStyle s_BoldFoldoutStyle;
+        internal static readonly GUIStyle s_BoldLabelStyle;
+        internal static readonly GUIStyle s_BoldFoldoutStyle;
 
         #endregion
         
@@ -51,26 +53,25 @@ namespace NAK.AASEmulator.Editor
         {
             int controlID = GUIUtility.GetControlID(FocusType.Passive);
             Event currentEvent = Event.current;
-
-            // Joystick area
+            
             Rect joystickArea = new(position.x, position.y, position.width, position.height);
-
-            // Draw the background
+            
+            // background
             EditorGUI.DrawRect(joystickArea, Color.grey);
 
-            // Draw the handle
+            // handle
             Vector2 handlePosition = new(value.x * (joystickArea.width / 2), -value.y * (joystickArea.height / 2));
             Vector2 screenHandlePosition = joystickArea.center + handlePosition;
             Handles.color = Color.white;
             Handles.DrawSolidDisc(screenHandlePosition, Vector3.forward, 6);
 
-            // Handle input
+            // handle input
             if (currentEvent.type == EventType.MouseDown && joystickArea.Contains(currentEvent.mousePosition))
             {
                 GUIUtility.hotControl = controlID;
                 currentEvent.Use();
 
-                // Double-click reset
+                // double-click reset
                 if ((Time.realtimeSinceStartup - _joystickClickTime) < 0.5f)
                     value = Vector2.zero;
 
