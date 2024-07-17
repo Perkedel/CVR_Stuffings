@@ -9556,7 +9556,9 @@ https://youtu.be/qzhuWRQWK5I?si=PygoI274O32LWD5a
 - investigate mochi glass shader water droplet overlay!
 - https://skfb.ly/6VsKR baby bottle
 - https://skfb.ly/6Upww garmin
-- pls g0blinns
+- https://g0blinns.gumroad.com/ pls g0blinns
+- https://payhip.com/b/yGBWM **PAID**
+- https://payhip.com/g0blinns **Cheaper on Payhip!!!**
 - https://vox-art.com/
 - https://itsvoxid.gumroad.com/
 - https://booth.pm/en/items/5914638 **PAID** raruh meruka paws. Booba robot
@@ -9569,3 +9571,17 @@ https://youtu.be/qzhuWRQWK5I?si=PygoI274O32LWD5a
 - https://discord.com/channels/410126604237406209/588350685255565344/1262594269072592937
 - https://discord.com/channels/410126604237406209/1004342533964439592/1262848483174518795
 - https://github.com/zulubo/VWater Imported
+- Pls investigate Poiyomi Special FX Emission Light Based. the glow in the dark
+- https://tokopedia.link/5mxftIBbiLb we found Dippy's DJ turntable! It's Numark Party DJ controller Mk. II or something
+- rindo
+- pls add other direction for lazy suzan!
+- https://wieselrobot.gumroad.com
+- https://discord.com/channels/867567549858971669/867567551809716226/1262939637794471978 Mewsnep! wow
+- https://extensions.blender.org/add-ons/tiny-backup/ cool and good thancc
+- hbd!
+- Okami. July 16
+- Jarret & Chen. July 17
+- Kaorfa's mom. July 18
+- LensError. July 19
+- Kaorfa's dad. July 24
+- ok

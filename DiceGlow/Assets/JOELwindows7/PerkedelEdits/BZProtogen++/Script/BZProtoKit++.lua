@@ -34,9 +34,10 @@ local slowFixedUpdateTimer = 5
 function DetectFriends()
     -- NAK's Detect Friend
     -- https://discord.com/channels/410126604237406209/1240763673346183279/1254075162974883987
-    local isFriend = PlayerAPI:IsFriendsWith(Avatar.Wearer.UserID) or IsWornByMe
-    Avatar:SetParameter("#isFriend", isFriend)
-    return isFriend
+    -- local isFriend = PlayerAPI:IsFriendsWith(Avatar.Wearer.UserID) or IsWornByMe
+    -- Avatar:SetParameter("#isFriend", isFriend)
+    -- return isFriend
+    return false
 end
 
 function _ManageSlowUpdate()
