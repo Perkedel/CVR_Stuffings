@@ -1919,6 +1919,7 @@ New Sauce lists
 - https://github.com/LucHeart/HeartSoos-Server
 - https://booth.pm/en/items/3075449
 - https://wispywoo.booth.pm/
+- https://wispywoo.gumroad.com/
 - https://wispywoo.booth.pm/items/4601215
 - The TV (WWTV), heater, Speaker, are part of those world. (PAID)
 - Lakeside Studio also from wispywoo.
@@ -9585,3 +9586,36 @@ https://youtu.be/qzhuWRQWK5I?si=PygoI274O32LWD5a
 - LensError. July 19
 - Kaorfa's dad. July 24
 - ok
+- https://octohedgie.gumroad.com/l/Kerians **PAID** pls kerie kerian avatar
+- https://octohedgie.gumroad.com/
+- https://6581-8580.com thancc jkk.
+- Music C64 Zabutom - Boten Anna
+- Rob Hubbard - ACE II
+- Maktone - Class05
+- Ben Daglish - Deathwish III
+- Martin Galway - Rambo First blood pt. II. Morse code is the name of maker of this music?
+- sylvester stallone the OG Rambo
+- rocky films!!!!!!!!    Sylvester stallone!??!??!?!?!?!
+- Rambo novel. david morell
+- Rambo first blood & last blood!
+- https://simpvrc.gumroad.com/ 
+- https://simpvrc.gumroad.com/l/simpFox **PAID** SIMP Fox 2.0 VRchat avatar. thancc SaseR04 for the name.
+- luty weapon
+- https://youtu.be/3YE9J7qcj0c?si=UwBUxjw7YpZSZgsx what?!??!
+- https://youtu.be/sIhGCRIQnCA?si=ton8MH_cBubKNlSZ
+- https://youtu.be/9NtQgxwhnpg?si=-m2bhmlVEp5TiWDe
+- https://sketchfab.com/dark-igorek thancc Ben0258
+- dem hips hoppou?!?? Bobcat had it    
+- G
+- arona dance pls
+- Ersatz Bossa YouTube Audio Library. Black Cat song
+- Blender 4.2 LTS released
+- https://www.blender.org/download/releases/4-2/
+- https://developer.blender.org/docs/release_notes/4.2/eevee_migration/
+- ok
+- michael winslow comedy
+- https://vfxplatform.com/
+- https://hllhvnd.gumroad.com
+- https://hllhvnd.gumroad.com/l/StellaTheDoberman?layout=profile stella the doberman
+- https://hllhvnd.gumroad.com/l/2023Glasses?layout=profile 2023 glasses
+- https://hllhvnd.gumroad.com/l/ParaCage?layout=profile **PAID** dog cage
