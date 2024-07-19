@@ -10,11 +10,12 @@ Material:
   m_Name: Armor-WarrenFastFur
   m_Shader: {fileID: 4800000, guid: fece619811077234d84ddd878e3f02fe, type: 3}
   m_ValidKeywords:
+  - _EMISSION
   - _METALLICGLOSSMAP
   - _NORMALMAP
   m_InvalidKeywords:
   - FXAA_KEEP_ALPHA
-  m_LightmapFlags: 4
+  m_LightmapFlags: 2
   m_EnableInstancingVariants: 0
   m_DoubleSidedGI: 0
   m_CustomRenderQueue: -1
@@ -60,7 +61,7 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _EmissionMap:
-        m_Texture: {fileID: 0}
+        m_Texture: {fileID: 2800000, guid: c9416bf650131704380b5e8d5374dbff, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _FurGroomingMask:
@@ -72,7 +73,7 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _FurShapeMask1:
-        m_Texture: {fileID: 0}
+        m_Texture: {fileID: 2800000, guid: 9f45caff5530e2143ae479aa4ea3b930, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _FurShapeMask2:
@@ -145,7 +146,7 @@ Material:
     - _AlbedoHueShift: 0
     - _AlbedoHueShiftCycle: 0
     - _AlbedoHueShiftRate: 1
-    - _AnisotropicGroup: 0
+    - _AnisotropicGroup: 1
     - _AudioLinkDynamicFiltering: 5
     - _AudioLinkDynamicSpeed: 1
     - _AudioLinkDynamicStrength: 1
@@ -233,12 +234,12 @@ Material:
     - _DstBlend: 0
     - _DynamicsGroup: 1
     - _EmissionHueShift: 0
-    - _EmissionHueShiftCycle: 0
+    - _EmissionHueShiftCycle: 1
     - _EmissionHueShiftRate: 1
-    - _EmissionMapAudioLinkEnable: 0
+    - _EmissionMapAudioLinkEnable: 1
     - _EmissionMapAudioLinkLayers: 0
-    - _EmissionMapLumaGlowGradient: 0
-    - _EmissionMapLumaGlowZone: 0
+    - _EmissionMapLumaGlowGradient: 5
+    - _EmissionMapLumaGlowZone: 1
     - _EmissionMapStrength: 1
     - _EnableUDIMDiscardOptions: 0
     - _EnableWind: 0
@@ -252,7 +253,7 @@ Material:
     - _Error7: 0
     - _ExtraLighting: 0.1
     - _ExtraLightingEnable: 1
-    - _ExtraLightingGroup: 0
+    - _ExtraLightingGroup: 1
     - _ExtraLightingMode: 0
     - _ExtraLightingRim: 1
     - _FallbackLightAngle: -25
@@ -289,16 +290,16 @@ Material:
     - _FurDebugUpperLimit: 0
     - _FurDebugVerticies: 0
     - _FurGravitySlider: 0.35
-    - _FurLightingGroup: 0
+    - _FurLightingGroup: 1
     - _FurMarkingsActive: 0
-    - _FurMinHeight: 0.01
+    - _FurMinHeight: 0.041
     - _FurShadowCastSize: 0.35
     - _FurShapeGroup: 1
-    - _FurShapeMask1Bits: 0
+    - _FurShapeMask1Bits: -1
     - _FurShapeMask2Bits: 0
     - _FurShapeMask3Bits: 0
     - _FurShapeMask4Bits: 0
-    - _FurShellSpacing: 0.5
+    - _FurShellSpacing: 0.01
     - _FurTouchRange: 3.5
     - _FurTouchStrength: 0
     - _FurTouchThreshold: 0.15
@@ -348,7 +349,7 @@ Material:
     - _HairCurlsActive: 0
     - _HairCurlsGroup: 0
     - _HairCurlsLockXY: 1
-    - _HairDensity: 3.5
+    - _HairDensity: 0.1
     - _HairDensityThreshold: -1
     - _HairHighlights: 0.5
     - _HairMapAlphaFilter: 1
@@ -408,7 +409,7 @@ Material:
     - _MovementGroup: 0
     - _MovementStrength: 1
     - _MutationRate: 0.25
-    - _OcclusionGroup: 0
+    - _OcclusionGroup: 1
     - _OcclusionStrength: 1
     - _OverallBrightness: 1
     - _OverrideDistanceBias: 0
@@ -502,7 +503,7 @@ Material:
     - _WindGustsStrength: 2.5
     - _WindSpeed: 0.35
     - _WindTurbulenceStrength: 1.7
-    - _WorldLightGroup: 0
+    - _WorldLightGroup: 1
     - _WorldLightReColourStrength: 0
     - _ZWrite: 1
     m_Colors:
@@ -535,7 +536,7 @@ Material:
     - _DecalPosition1: {r: 0.5, g: 0.49, b: 0, a: 0}
     - _DecalPosition2: {r: 0, g: 0, b: 0, a: 0}
     - _DecalPosition3: {r: 0, g: 0, b: 0, a: 0}
-    - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
+    - _EmissionColor: {r: 1, g: 1, b: 1, a: 1}
     - _EmissionColour: {r: -1, g: -1, b: -1, a: -1}
     - _EmissionMapAudioLinkBassColor: {r: 0, g: 0, b: 1, a: 1}
     - _EmissionMapAudioLinkHighMidColor: {r: 0, g: 1, b: 0, a: 1}

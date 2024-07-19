@@ -344,7 +344,7 @@ Shader "VoyVivika/VivikaShader/DPS/Vivika Shader Opaque Penetrator"
 			float4 lerpResult5_g891 = lerp( color8_g891 , temp_output_3_0_g891 , temp_output_9_0_g891);
 			float4 mainTex26 = ( tex2D( _MainTex, uv_MainTex ) * lerpResult5_g891 * _Color );
 			float3 temp_output_1_0_g945 = temp_output_11_0_g944;
-			float3 indirectNormal4_g945 = normalize( WorldNormalVector( i , WorldReflectionVector( i , temp_output_1_0_g945 ) ) );
+			float3 indirectNormal4_g945 = normalize( WorldNormalVector( i , normalize( WorldReflectionVector( i , temp_output_1_0_g945 ) ) ) );
 			float2 uv_MetallicGlossMap = i.uv_texcoord * _MetallicGlossMap_ST.xy + _MetallicGlossMap_ST.zw;
 			float4 tex2DNode1017 = tex2D( _MetallicGlossMap, uv_MetallicGlossMap );
 			float _Smoothness755 = tex2DNode1017.a;
@@ -352,8 +352,8 @@ Shader "VoyVivika/VivikaShader/DPS/Vivika Shader Opaque Penetrator"
 			float3 indirectSpecular4_g945 = UnityGI_IndirectSpecular( data, 1.0, indirectNormal4_g945, g4_g945 );
 			float3 ase_worldViewDir = normalize( UnityWorldSpaceViewDir( ase_worldPos ) );
 			float _Metalic753 = tex2DNode1017.r;
-			float fresnelNdotV8_g945 = dot( (WorldNormalVector( i , temp_output_1_0_g945 )), ase_worldViewDir );
-			float fresnelNode8_g945 = ( _Metalic753 + _WrapMetallicFesnelScale * pow( 1.0 - fresnelNdotV8_g945, _MetallicFresnelPower ) );
+			float fresnelNdotV8_g945 = dot( normalize( normalize( (WorldNormalVector( i , temp_output_1_0_g945 )) ) ), ase_worldViewDir );
+			float fresnelNode8_g945 = ( _Metalic753 + _WrapMetallicFesnelScale * pow( max( 1.0 - fresnelNdotV8_g945 , 0.0001 ), _MetallicFresnelPower ) );
 			float4 Lighting_Wrapped1144 = ( clampResult37_g946 * ( mainTex26 + float4( ( saturate( indirectSpecular4_g945 ) * fresnelNode8_g945 ) , 0.0 ) ) );
 			c.rgb = Lighting_Wrapped1144.rgb;
 			c.a = 1;
@@ -693,7 +693,7 @@ Node;AmplifyShaderEditor.CommentaryNode;2669;3312,-4256;Inherit;False;356;883;Co
 Node;AmplifyShaderEditor.RegisterLocalVarNode;2691;3680,-3024;Inherit;False;dps normal;-1;True;1;0;FLOAT3;0,0,0;False;1;FLOAT3;0
 Node;AmplifyShaderEditor.RegisterLocalVarNode;2690;3680,-3120;Inherit;False;dps position;-1;True;1;0;FLOAT4;0,0,0,0;False;1;FLOAT4;0
 Node;AmplifyShaderEditor.RangedFloatNode;2313;-2016,-2400;Inherit;False;Property;_DiscardUVMap;Discard UV Map;27;2;[Header];[Enum];Create;True;1;UV Tile Discarding;4;UV0;0;UV1;1;UV2;2;UV3;3;0;True;0;False;1;1;0;0;0;1;FLOAT;0
-Node;AmplifyShaderEditor.FunctionNode;2626;-1840,-2400;Inherit;False;VVGetVertexUV;-1;;996;b2c6b9b1b245cf54ca03e50557eebb87;0;1;26;FLOAT;0;False;1;FLOAT2;0
+Node;AmplifyShaderEditor.FunctionNode;2626;-1840,-2400;Inherit;False;VVGetVertexUV;-1;;1030;b2c6b9b1b245cf54ca03e50557eebb87;0;1;26;FLOAT;0;False;1;FLOAT2;0
 Node;AmplifyShaderEditor.RegisterLocalVarNode;200;-1632,-2400;Inherit;False;DiscardUV;-1;True;1;0;FLOAT2;0,0;False;1;FLOAT2;0
 Node;AmplifyShaderEditor.GetLocalVarNode;33;1488,-2640;Inherit;False;26;mainTex;1;0;OBJECT;;False;1;COLOR;0
 Node;AmplifyShaderEditor.SimpleDivideOpNode;218;1872,-1248;Inherit;False;2;0;FLOAT;0;False;1;FLOAT;0;False;1;FLOAT;0
@@ -797,4 +797,4 @@ WireConnection;0;13;332;0
 WireConnection;0;11;2692;0
 WireConnection;0;12;2693;0
 ASEEND*/
-//CHKSM=9F9498C05DCDC1E10C4725CF04EC2B597EEF5663
+//CHKSM=388AAEBAC68C0F6443F88A8DD3CB68829D6B94E8

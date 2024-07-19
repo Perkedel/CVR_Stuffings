@@ -9619,3 +9619,7 @@ https://youtu.be/qzhuWRQWK5I?si=PygoI274O32LWD5a
 - https://hllhvnd.gumroad.com/l/StellaTheDoberman?layout=profile stella the doberman
 - https://hllhvnd.gumroad.com/l/2023Glasses?layout=profile 2023 glasses
 - https://hllhvnd.gumroad.com/l/ParaCage?layout=profile **PAID** dog cage
+- https://github.com/TwoTailsGames/Unity-Built-in-Shaders/blob/master/DefaultResourcesExtra/Standard.shader
+- the `ST` texture in a Mesh Renderer means the UV of it! XYZW!
+- https://feedback.abinteractive.net/p/other-players-loading-progress-bar-to-tell-everyone-they-are-still-loading
+- https://discord.com/channels/410126604237406209/682645682968199168/1263751417412452383 brittle photo CoconutCapybara doing the surprised darktoner guy

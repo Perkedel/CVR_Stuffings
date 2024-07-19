@@ -424,7 +424,7 @@ Shader "VoyVivika/VivikaShader/Vivika Shader Transparent Cutout"
 			float4 lerpResult5_g891 = lerp( color8_g891 , temp_output_3_0_g891 , temp_output_9_0_g891);
 			float4 mainTex26 = ( tex2DNode25 * lerpResult5_g891 * _Color );
 			float3 temp_output_1_0_g945 = temp_output_11_0_g944;
-			float3 indirectNormal4_g945 = normalize( WorldNormalVector( i , WorldReflectionVector( i , temp_output_1_0_g945 ) ) );
+			float3 indirectNormal4_g945 = normalize( WorldNormalVector( i , normalize( WorldReflectionVector( i , temp_output_1_0_g945 ) ) ) );
 			float2 uv_MetallicGlossMap = i.uv_texcoord * _MetallicGlossMap_ST.xy + _MetallicGlossMap_ST.zw;
 			float4 tex2DNode1017 = tex2D( _MetallicGlossMap, uv_MetallicGlossMap );
 			float _Smoothness755 = tex2DNode1017.a;
@@ -432,8 +432,8 @@ Shader "VoyVivika/VivikaShader/Vivika Shader Transparent Cutout"
 			float3 indirectSpecular4_g945 = UnityGI_IndirectSpecular( data, 1.0, indirectNormal4_g945, g4_g945 );
 			float3 ase_worldViewDir = normalize( UnityWorldSpaceViewDir( ase_worldPos ) );
 			float _Metalic753 = tex2DNode1017.r;
-			float fresnelNdotV8_g945 = dot( (WorldNormalVector( i , temp_output_1_0_g945 )), ase_worldViewDir );
-			float fresnelNode8_g945 = ( _Metalic753 + _WrapMetallicFesnelScale * pow( 1.0 - fresnelNdotV8_g945, _MetallicFresnelPower ) );
+			float fresnelNdotV8_g945 = dot( normalize( normalize( (WorldNormalVector( i , temp_output_1_0_g945 )) ) ), ase_worldViewDir );
+			float fresnelNode8_g945 = ( _Metalic753 + _WrapMetallicFesnelScale * pow( max( 1.0 - fresnelNdotV8_g945 , 0.0001 ), _MetallicFresnelPower ) );
 			float4 Lighting_Wrapped1144 = ( clampResult37_g946 * ( mainTex26 + float4( ( saturate( indirectSpecular4_g945 ) * fresnelNode8_g945 ) , 0.0 ) ) );
 			c.rgb = Lighting_Wrapped1144.rgb;
 			c.a = 1;
@@ -901,4 +901,4 @@ WireConnection;0;10;2637;0
 WireConnection;0;13;332;0
 WireConnection;0;11;193;0
 ASEEND*/
-//CHKSM=BB7FEA4A2ACD7C46DBB36BE7E462213BAC397F61
+//CHKSM=C1A95871C2429CCA0175DC8ACEC6825F5BF21982
