@@ -438,6 +438,7 @@ Here are the UUIDs of all these assets we uploaded to CVR:
 | `9a708c96-2f39-47e5-a49e-79ae97e193f5` | Water Box Planet Sample | JOELwindows7 | The planet is box & it's all water |
 | `d038e9a9-26b5-4503-b8be-e6232d9fa747` | Fancy Integrity | JOELwindows7 | Studio Apartment |
 | `5ac6fda1-69bc-445e-afac-af5ea577064c` | Optimized Outcome | JOELwindows7 | Studio Dormitory |
+| `42c3b15b-dce3-4d42-b5c9-693edac8912b` | BoxDNB | JOELwindows7 | Prop & Avatar Mega Test World |
 | `3fe2b7c3-129a-418e-87ad-c3931657f843` | UCC Cinema | MilchZocker | (**NOT PERKEDEL**) |
 | `af0f00bc-0702-46ce-9441-bcce0ad6c813` | UCC Avatars | MilchZocker | (**NOT PERKEDEL**) |
 | `9d0677a5-b88f-4994-901b-7b91c99e8cd8` | UCC Bird Island | MilchZocker | (**NOT PERKEDEL**) |
@@ -577,6 +578,7 @@ Here are the UUIDs of all these assets we uploaded to CVR:
 | `48c2addd-f480-4146-af62-0a2ee047f157` | Cube Scaler | JOELwindows7 | **Experimental** |
 | `33f06030-a4a8-45f6-9409-a69913cc39e8` | Diagonal Joystick Bug Demonstration | JOELwindows7 | **Experimental** |
 | `be866c2d-f865-41be-b8f4-99bb1de0fd82` | Anha Script Test | JOELwindows7 | **Experimental** Lua Script Test |
+| `d0aff68c-673a-4650-976c-50e04c18f595` | Poiyomi Video Decal Test | JOELwindows7 | **Experimental** idk how to make `_Udon_VideoTex` video decal work! |
 | `89a9b73f-93f6-4727-9546-3f52dd4e979a` | null | JOELwindows7 | **Experimental** |
 | `d7cc0761-47f2-48eb-baf5-05ea461d9e90` | Ajavook | JOELwindows7 | **Experimental** **ANNOYING** |
 | `bf8788ce-55b8-42aa-911a-bbaf93e89d40` | Ajavook 2 | JOELwindows7 | **Experimental** **ANNOYING** |

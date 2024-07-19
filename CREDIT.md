@@ -9623,3 +9623,14 @@ https://youtu.be/qzhuWRQWK5I?si=PygoI274O32LWD5a
 - the `ST` texture in a Mesh Renderer means the UV of it! XYZW!
 - https://feedback.abinteractive.net/p/other-players-loading-progress-bar-to-tell-everyone-they-are-still-loading
 - https://discord.com/channels/410126604237406209/682645682968199168/1263751417412452383 brittle photo CoconutCapybara doing the surprised darktoner guy
+- BoxDNB. mirror too far! pls add near mirror!
+- variable buffer update. make it detect update, read, and download the value changed.
+- https://discord.com/channels/410126604237406209/766086942005526579/1263935444270317568 here tutorial how to video decal poiyomi
+- sketchfab scanned posing man dennis
+- https://spookyghostboo.booth.pm/ SpookyGhostBoo pls!!!!!!!!!!!!!!
+- https://www.youtube.com/watch?v=ythNJ1tWLFA
+- https://spinning-punch-studios.itch.io/minecraft-unity-recreation
+- https://blog.pulsoid.net/monitors?from=android
+- https://discord.com/channels/410126604237406209/588350726841827358/1263683736369627218 derplevista shapekeying speaker talk avatar
+- https://discord.com/channels/410126604237406209/1004342533964439592/1263607784197455883
+- https://stackoverflow.com/questions/927358/how-do-i-undo-the-most-recent-local-commits-in-git
