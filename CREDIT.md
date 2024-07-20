@@ -9634,3 +9634,11 @@ https://youtu.be/qzhuWRQWK5I?si=PygoI274O32LWD5a
 - https://discord.com/channels/410126604237406209/588350726841827358/1263683736369627218 derplevista shapekeying speaker talk avatar
 - https://discord.com/channels/410126604237406209/1004342533964439592/1263607784197455883
 - https://stackoverflow.com/questions/927358/how-do-i-undo-the-most-recent-local-commits-in-git
+- https://discord.com/channels/152981670507577344/334278075837710347/1264273673402056897
+- Tyre!
+- https://skfb.ly/oEMxw RaynaudL's remake of Laussi Kaukonen's Used Studded Tyre
+- https://skfb.ly/ooOLD original used studded tyre
+- https://sketchfab.com/fts_ltx RaynaudL
+- https://sketchfab.com/thesidekick Laussi Kaukonen
+- yeah
+- pls make bar level, 3Cro. Half Life 3, Crow, crowbar. DNB protocol.

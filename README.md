@@ -564,6 +564,7 @@ Here are the UUIDs of all these assets we uploaded to CVR:
 | `b46651c8-10f4-4569-8bd8-77b8b62ae59a` | DNB VIP Card | JOELwindows7 | Little John's VIP Card he used to access secret facilities around DNB & affiliates |
 | `b946477f-b126-4bf0-9dfc-106a198d4ea0` | Emergency Unlock Card | JOELwindows7 | (Evil Betty Keycard) Force Unlock a room. **For emergency purpose only!** |
 | `fe4f3b9e-9bc4-42fe-bbb3-c5f49e4e442a` | Source Engine Error bahasa Indonesia | JOELwindows7 | Source Engine Error symbol but in Bahasa Indonesia. SDRaw's Russian version inspired me to do so lmao lol! |
+| `a7687b13-7663-4d23-9d1f-2a3d90f3deab` | Individual Tyre | JOELwindows7 | Just tyre. With different skins you can choose. |
 | `140ca808-7a9a-49c3-9296-3f49127f04ea` | Sex Dice Tutorial card | JOELwindows7 | **NSFW** How to DIY Lewd dice. |
 | `cae8af07-97be-4595-a5a8-1114caf6eec5` | Soklong Clock | JOELwindows7 | **Experimental** Aesthetically minimalist clock |
 | `d2fe9f84-0ee1-49aa-93b0-574040c17731` | Laron P7-K | JOELwindows7 | **Experimental** Moving Head Stage Light |
@@ -582,6 +583,7 @@ Here are the UUIDs of all these assets we uploaded to CVR:
 | `89a9b73f-93f6-4727-9546-3f52dd4e979a` | null | JOELwindows7 | **Experimental** |
 | `d7cc0761-47f2-48eb-baf5-05ea461d9e90` | Ajavook | JOELwindows7 | **Experimental** **ANNOYING** |
 | `bf8788ce-55b8-42aa-911a-bbaf93e89d40` | Ajavook 2 | JOELwindows7 | **Experimental** **ANNOYING** |
+| `0ce39ab7-ed61-474f-8f42-2c8ef07fc0d4` | Activate Overseer Watermark prank | JOELwindows7 | **Experimental** **ANNOYING** |
 | `66effc2f-41af-475d-bfd2-df37989c1600` | VoyVivika Portable Tutorial Prop | VoyVivika | (**NOT PERKEDEL**) |
 | `1dd3b77b-8982-4627-9979-4a0503b6f2b9` | Kavex's Rib | Kavex | (**NOT PERKEDEL**) ported from https://3dwarehouse.sketchup.com/model/4ee36dd6-7482-41a2-87ff-ceaefc83c4da/Rippchen with [song](https://www.youtube.com/watch?v=_1zzRLMHlDM) |
 | `39c89b9e-abbe-4b48-8afc-d2ad910bf8e6` | Kavex's 🏳️‍⚧️ Trans heart | Kavex | (**NOT PERKEDEL**) |
