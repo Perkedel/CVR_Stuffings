@@ -9642,3 +9642,6 @@ https://youtu.be/qzhuWRQWK5I?si=PygoI274O32LWD5a
 - https://sketchfab.com/thesidekick Laussi Kaukonen
 - yeah
 - pls make bar level, 3Cro. Half Life 3, Crow, crowbar. DNB protocol.
+- https://betterttv.com/
+- https://chromewebstore.google.com/detail/betterttv/ajopnjidmegmdimjlfnijceegpefgped
+- pls shapekey the mesh vertices. Jkk thancc
