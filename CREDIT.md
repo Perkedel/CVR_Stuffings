@@ -9645,3 +9645,8 @@ https://youtu.be/qzhuWRQWK5I?si=PygoI274O32LWD5a
 - https://betterttv.com/
 - https://chromewebstore.google.com/detail/betterttv/ajopnjidmegmdimjlfnijceegpefgped
 - pls shapekey the mesh vertices. Jkk thancc
+- https://discord.com/channels/410126604237406209/1240763673346183279/1264360096583122984
+- https://discord.com/channels/410126604237406209/1240763673346183279/1264356062291689523
+- https://discord.com/channels/410126604237406209/795882566968279091/1263940403602919445
+- https://discord.com/channels/410126604237406209/588350770777161748/1264312399402631248 MilchZocker
+- https://github.com/vosen/ZLUDA
