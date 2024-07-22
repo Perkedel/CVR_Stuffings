@@ -565,6 +565,8 @@ Here are the UUIDs of all these assets we uploaded to CVR:
 | `b946477f-b126-4bf0-9dfc-106a198d4ea0` | Emergency Unlock Card | JOELwindows7 | (Evil Betty Keycard) Force Unlock a room. **For emergency purpose only!** |
 | `fe4f3b9e-9bc4-42fe-bbb3-c5f49e4e442a` | Source Engine Error bahasa Indonesia | JOELwindows7 | Source Engine Error symbol but in Bahasa Indonesia. SDRaw's Russian version inspired me to do so lmao lol! |
 | `a7687b13-7663-4d23-9d1f-2a3d90f3deab` | Individual Tyre | JOELwindows7 | Just tyre. With different skins you can choose. |
+| `d908e7f4-688b-40ce-82d6-7fa5d9e4e5d3` | People Binocular LookupDNB | JOELwindows7 | Xray camera that only sees players. |
+| `d8f9da0e-c459-49da-b9ca-1ec085056fc8` | Weezer Mirror | JOELwindows7 | Weezer album photo machine. |
 | `140ca808-7a9a-49c3-9296-3f49127f04ea` | Sex Dice Tutorial card | JOELwindows7 | **NSFW** How to DIY Lewd dice. |
 | `cae8af07-97be-4595-a5a8-1114caf6eec5` | Soklong Clock | JOELwindows7 | **Experimental** Aesthetically minimalist clock |
 | `d2fe9f84-0ee1-49aa-93b0-574040c17731` | Laron P7-K | JOELwindows7 | **Experimental** Moving Head Stage Light |

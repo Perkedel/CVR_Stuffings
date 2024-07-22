@@ -1,0 +1,27 @@
+=================================================================
+        Native Crash Reporting
+=================================================================
+Got a UNKNOWN while executing native code. This usually indicates
+a fatal error in the mono runtime or one of the native libraries
+used by your application.
+=================================================================
+
+=================================================================
+        Managed Stacktrace:
+=================================================================
+          at <unknown> <0xffffffff>
+          at Unity.Collections.LowLevel.Unsafe.UnsafeUtility:MemCpy <0x00097>
+          at Unity.Collections.NativeArray`1:Copy <0x0008a>
+          at Unity.Collections.NativeArray`1:Copy <0x00052>
+          at Unity.Collections.NativeArray`1:ToArray <0x00072>
+          at <<SaveImageFromRenderTexture>b__3>d:MoveNext <0x0008a>
+          at <>c__DisplayClass15_2:<SaveImageFromRenderTexture>b__3 <0x00092>
+          at System.Func`1:invoke_TResult <0x00081>
+          at <RunOnThreadPool>d__80:MoveNext <0x00284>
+          at Cysharp.Threading.Tasks.CompilerServices.AsyncUniTask`1:Run <0x0002a>
+          at Awaiter:Callback <0x00039>
+          at System.Threading.QueueUserWorkItemCallback:System.Threading.IThreadPoolWorkItem.ExecuteWorkItem <0x00031>
+          at System.Threading.ThreadPoolWorkQueue:Dispatch <0x002e9>
+          at System.Threading._ThreadPoolWaitCallback:PerformWaitCallback <0x0006a>
+          at <Module>:runtime_invoke_bool <0x00084>
+=================================================================

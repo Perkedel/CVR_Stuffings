@@ -9650,3 +9650,46 @@ https://youtu.be/qzhuWRQWK5I?si=PygoI274O32LWD5a
 - https://discord.com/channels/410126604237406209/795882566968279091/1263940403602919445
 - https://discord.com/channels/410126604237406209/588350770777161748/1264312399402631248 MilchZocker
 - https://github.com/vosen/ZLUDA
+- https://discord.com/channels/867567549858971669/970108501382803476/1264750566517637150 viviklub special bday july 2024 Okami-Chen-Jarret-LensError
+- https://discord.com/channels/867567549858971669/876534799265857578/1264447671498965033
+- https://miing.gumroad.com/l/rtscyu **PAID** coco
+- https://miing.gumroad.com/
+- https://www.pexels.com/id-id/foto/foto-fokus-selektif-teropong-1683345/ Binocular machine Ricky Esquivel
+- Foto oleh Ricky Esquivel dari Pexels: https://www.pexels.com/id-id/foto/foto-fokus-selektif-teropong-1683345/
+- https://www.pexels.com/id-ID/license/
+- https://discord.com/channels/152981670507577344/164122260913913857/1264409749307260968
+- https://discord.com/channels/152981670507577344/361961213049045012/1263816985196761192
+- https://recordcrash.substack.com/p/systematic-fiction-jumpchain-cyoas
+- https://discord.com/channels/152981670507577344/361961213049045012/1259831368108740710
+- https://recordcrash.substack.com/p/macro-review-the-shills-list-2024-part-1
+- https://discord.com/channels/152981670507577344/334278075837710347/1264273673402056897
+- https://nayuvrc.booth.pm ??? pls check
+- https://www.ffonts.net/WeezerFont.font weezer font
+- https://www.ffonts.net/WeezerFont.font weezer font
+- https://youtu.be/z8V3b5XabWw?si=zpHkoQOvpV_63Hyj
+- https://steamcommunity.com/sharedfiles/filedetails/?id=2970467179
+- https://www.deviantart.com/diamondnella/art/TF2-Sentry-Buster-Girl-Resput-967009078
+- https://steamcommunity.com/sharedfiles/filedetails/?id=3091516079
+- https://steamcommunity.com/sharedfiles/filedetails/?id=2988072562
+- https://steamcommunity.com/sharedfiles/filedetails/?id=2991861910
+- https://www.deviantart.com/diamondnella/art/TF2-Dispenser-Woman-Despoina-964779003
+- https://www.deviantart.com/diamondnella/art/TF2-Sentry-Woman-Senthia-LEVEL-3-963551517
+- https://www.youtube.com/watch?v=zz-GxgfUaGU
+- https://youtu.be/vHwKTOzLTDY?si=ESEq_QWIU--_Y6Rs weezer riff buddy holly bubbster extract
+- https://www.poiyomi.com/ save the link
+- GUI UI pack
+- https://assetstore.unity.com/packages/2d/gui/icons/free-ui-pack-170878 Fantasy UI Pack Valley Land games `Assets/Free UI build package`
+- https://assetstore.unity.com/packages/2d/gui/icons/2d-casual-ui-hd-82080 MIMU Studio 2D UI `Assets/2D Casual UI`
+- https://assetstore.unity.com/packages/2d/gui/awesome-game-ui-pack-button-pack-and-icon-pack-17-210345
+- https://assetstore.unity.com/packages/2d/gui/icons/crosshairs-216732 Crosshair OCCASOFTWARE `Assets/OccaSoftware` all in
+- https://assetstore.unity.com/?category=2d/gui&free=true&orderBy=1 I'm tired, pls continue.
+- https://assetstore.unity.com/packages/2d/gui/dark-theme-ui-199010 dark theme ui modern Giniel Villacote `Assets/Dark UI`
+- https://assetstore.unity.com/packages/2d/gui/sci-fi-gui-skin-15606 3d.rina Sci-fi GUI `Assets/Sci-Fi UI`
+- https://assetstore.unity.com/packages/2d/gui/icons/modern-rpg-free-icons-pack-264706 JenniferBertaggia Modern RPG Icon `Assets/Modern GDR - Free icon pack`
+- https://assetstore.unity.com/packages/2d/gui/icons/simple-free-pixel-art-styled-ui-pack-165012 Jakub Varga Pixel GUI `Assets/SimplePixelUI`
+- https://assetstore.unity.com/packages/2d/gui/icons/simple-button-set-02-184903 That Witch design simple button ui 02 `Assets/FreeButtonSet`
+- https://assetstore.unity.com/packages/2d/gui/icons/simple-button-set-01-153979 That witch design simple button ui 01 `Assets/FreeButtonSet`
+- https://assetstore.unity.com/?category=2d/gui&free=true&orderBy=1&page=10 cape gw, tolong terusin
+- yey
+- https://youtu.be/vRMrzMBnxCI?si=_ttIgbMDYFrUOoJp
+- https://discord.com/channels/410126604237406209/795882566968279091/1263937066035843083
