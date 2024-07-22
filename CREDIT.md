@@ -9693,3 +9693,7 @@ https://youtu.be/qzhuWRQWK5I?si=PygoI274O32LWD5a
 - yey
 - https://youtu.be/vRMrzMBnxCI?si=_ttIgbMDYFrUOoJp
 - https://discord.com/channels/410126604237406209/795882566968279091/1263937066035843083
+- https://www.youtube.com/watch?v=g3gpXmo8zRo
+- https://discord.com/channels/410126604237406209/588350726841827358/1264502935405203497
+- https://x.com/MagicaSoft/status/1814915796637974859
+- https://discord.com/channels/410126604237406209/682645682968199168/1265030510988759113
