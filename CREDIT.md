@@ -9697,3 +9697,21 @@ https://youtu.be/qzhuWRQWK5I?si=PygoI274O32LWD5a
 - https://discord.com/channels/410126604237406209/588350726841827358/1264502935405203497
 - https://x.com/MagicaSoft/status/1814915796637974859
 - https://discord.com/channels/410126604237406209/682645682968199168/1265030510988759113
+- https://www.falkon.org/about/
+- https://manifesto.kde.org/
+- http://agilemanifesto.org/
+- http://manifesto.softwarecraftsmanship.org/
+- https://timeline.kde.org/
+- https://www.deviantart.com/tysontan/art/Konqi-ver-2-494267237
+- https://www.deviantart.com/tysontan/art/Bei-Jing-Huan-Ying-Ni-71626914
+- https://www.deviantart.com/tysontan/art/2010-Winter-Olympics-Mascots-153098742
+- https://www.deviantart.com/tysontan/art/2010-Winter-Olympics-Mascots-153098742
+- https://en.wikipedia.org/wiki/Falkon
+- https://fixupx.com/C1024TV/status/1815686504158536106
+- https://www.tumblr.com/promstuck2025/756733910747103232/miss-sahcon-well-get-your-fancytier-outfits-ready
+- https://discord.com/channels/152981670507577344/164122260913913857/1265036353180143718
+- https://discord.com/channels/1193757079501017228/1193762595384070225/1265180169480568874
+- https://youtube.com/shorts/k3QkOMrckQc?si=BYmxDTu_wxzwly-I
+- https://youtube.com/shorts/RZotXeKW61c?si=mwa6CQmL70BtH2Oa
+- https://rolandcloud.com/news/Sound-Canvas-VA-is-being-discontinued
+- pls jim button stanley parable but Gin, and explosion is after bomberman death.

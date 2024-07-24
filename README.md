@@ -458,6 +458,7 @@ Here are the UUIDs of all these assets we uploaded to CVR:
 
 | GUID | Name | Uploader | Description |
 | --- | --- | --- | --- |
+| `2de44c16-84a9-4e54-beca-a2a0ef92d271` | BagDNB | JOELwindows7 | Vending Machine |
 | `6772ae27-7913-472b-9ef4-29d687a19f37` | Adjustable Dice | JOELwindows7 | Ultimate Adjustable dice |
 | `e93b46ac-a385-43bc-8458-1ba48f1341db` | Wahaha Dice | JOELwindows7 | . |
 | `e33ca9f8-0785-416a-b635-73a999bcb756` | Wahaha Dice Scale 50 | JOELwindows7 | . |
