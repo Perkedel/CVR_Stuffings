@@ -9715,3 +9715,24 @@ https://youtu.be/qzhuWRQWK5I?si=PygoI274O32LWD5a
 - https://youtube.com/shorts/RZotXeKW61c?si=mwa6CQmL70BtH2Oa
 - https://rolandcloud.com/news/Sound-Canvas-VA-is-being-discontinued
 - pls jim button stanley parable but Gin, and explosion is after bomberman death.
+- https://skfb.ly/6QZzC green screen studio
+- pointer Garrin!!!
+- `shotgun`
+- `blast` particle
+- a
+- ok
+- https://youtu.be/IVj7-usBxHo?si=s61pemtIuQpCS-d4 blood particle?!
+- pls tag heart `horror`
+- https://bit.ly/thiccracc
+- https://www.vrcarena.com/authors/j5J1m8gxRaof4E8b7Kq2
+- pls card voice disconnected
+- rigidbody & fixed joint less stronger pls! thancc Garrin. make the fixed joint weaker!
+- rocky hills environment unity assets
+- https://youtu.be/UfkH3l2Xjdc?si=H86WDc3sDH6LX7eg
+- https://youtu.be/PjfiJ2H0fnc?si=5nsDwB_F0O8z2bH_
+- https://youtu.be/7Q22A2QkDRI?si=TeeQLI8vWHDtxVns
+- https://assetstore.unity.com/packages/3d/environments/landscapes/cave-system-32024 **PAID**
+- https://widve.github.io/UniCAVE/ not it
+- https://assetstore.unity.com/packages/3d/environments/landscapes/rocky-hills-environment-light-pack-89939 ROCKY HILLS ENVIRONMENT FREE ASSET Toby Fredson
+- https://discord.com/channels/1069428515197435964/1265652796183678988/1265652796183678988 pls download fazclair sexmod mc
+- byon game engine
