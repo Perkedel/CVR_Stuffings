@@ -1,4 +1,4 @@
-﻿Shader "UMotion Editor/Camera Lit"
+Shader "UMotion Editor/Camera Lit"
 { 
     Properties 
     {
@@ -30,6 +30,7 @@
 				float4 vertex : POSITION;
 				half4 texcoord : TEXCOORD0;
 				float3 normal : NORMAL;
+				UNITY_VERTEX_INPUT_INSTANCE_ID  // inserted by FixShadersRightEye.cs
 			};
 
 			struct vOutput
@@ -37,11 +38,14 @@
 				float4 pos : SV_POSITION;
 				fixed3 wirecoord : TEXCOORD1;
 				float3 lambert : TEXCOORD2;		
+				UNITY_VERTEX_OUTPUT_STEREO  // inserted by FixShadersRightEye.cs
 			};
 
 			vOutput vert(vInput i)
 			{
 				vOutput o;
+				UNITY_SETUP_INSTANCE_ID(i);  // inserted by FixShadersRightEye.cs
+				UNITY_INITIALIZE_VERTEX_OUTPUT_STEREO(o);  // inserted by FixShadersRightEye.cs
 
 				o.pos = UnityObjectToClipPos(i.vertex);
 

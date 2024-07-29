@@ -1,4 +1,4 @@
-﻿Shader "Custom/Grand Geo Grass"
+Shader "Custom/Grand Geo Grass"
 {
     Properties
     {
@@ -62,6 +62,7 @@
 				float4 tangent : TANGENT;
 				float3 normal : NORMAL;
 				float4 color : COLOR;
+				UNITY_VERTEX_INPUT_INSTANCE_ID  // inserted by FixShadersRightEye.cs
 			};
 
 			//Vertex to geometry
@@ -72,6 +73,7 @@
 				float4 tangent : TANGENT;
 				float3 normal : NORMAL;
 				float4 color : COLOR;
+				UNITY_VERTEX_OUTPUT_STEREO  // inserted by FixShadersRightEye.cs
 			};
 
 			//Geometry to fragment
@@ -131,6 +133,8 @@
 			v2g vert(appdata v)
 			{
 				v2g o;
+				UNITY_SETUP_INSTANCE_ID(v);  // inserted by FixShadersRightEye.cs
+				UNITY_INITIALIZE_VERTEX_OUTPUT_STEREO(o);  // inserted by FixShadersRightEye.cs
 				o.vertex = v.vertex;
 				o.uv = v.uv;
 				o.tangent = v.tangent;

@@ -1,4 +1,4 @@
-﻿// Upgrade NOTE: replaced 'mul(UNITY_MATRIX_MVP,*)' with 'UnityObjectToClipPos(*)'
+// Upgrade NOTE: replaced 'mul(UNITY_MATRIX_MVP,*)' with 'UnityObjectToClipPos(*)'
 
 // Credit: https://github.com/Mapiarz/CubemapToEquirectangular/blob/master/Assets/Shaders/CubemapToEquirectangular.shader
 
@@ -30,6 +30,7 @@ Shader "Hidden/I360CubemapToEquirectangular"
 				{
 					float4 pos : POSITION;
 					float2 uv : TEXCOORD0;
+					UNITY_VERTEX_OUTPUT_STEREO  // inserted by FixShadersRightEye.cs
 				};
 		
 				samplerCUBE _MainTex;
@@ -38,6 +39,8 @@ Shader "Hidden/I360CubemapToEquirectangular"
 				v2f vert(appdata_img v)
 				{
 					v2f o;
+					UNITY_SETUP_INSTANCE_ID(v);  // inserted by FixShadersRightEye.cs
+					UNITY_INITIALIZE_VERTEX_OUTPUT_STEREO(o);  // inserted by FixShadersRightEye.cs
 					o.pos = UnityObjectToClipPos(v.vertex);
 					o.uv = (v.texcoord.xy + float2(_PaddingX,0)) * float2(TWOPI, PI);
 					return o;

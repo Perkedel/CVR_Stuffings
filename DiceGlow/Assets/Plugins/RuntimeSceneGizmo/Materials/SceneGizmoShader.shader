@@ -1,4 +1,4 @@
-﻿// Matcap shader credit: https://forum.unity.com/threads/getting-normals-relative-to-camera-view.452631/#post-2933684
+// Matcap shader credit: https://forum.unity.com/threads/getting-normals-relative-to-camera-view.452631/#post-2933684
 Shader "Hidden/RuntimeSceneGizmo"
 {
 	Properties
@@ -35,6 +35,7 @@ Shader "Hidden/RuntimeSceneGizmo"
 				float4 pos : SV_POSITION;
 				float2 cap : TEXCOORD0;
 				fixed4 color : COLOR;
+				UNITY_VERTEX_OUTPUT_STEREO  // inserted by FixShadersRightEye.cs
 			};
 			
 			sampler2D _Matcap;
@@ -46,6 +47,8 @@ Shader "Hidden/RuntimeSceneGizmo"
 			v2f vert( appdata v )
 			{
 				v2f o;
+				UNITY_SETUP_INSTANCE_ID(v);  // inserted by FixShadersRightEye.cs
+				UNITY_INITIALIZE_VERTEX_OUTPUT_STEREO(o);  // inserted by FixShadersRightEye.cs
 				o.pos = UnityObjectToClipPos( v.vertex );
 				
 				float3 worldNorm = UnityObjectToWorldNormal( v.normal );

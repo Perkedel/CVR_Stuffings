@@ -37,7 +37,7 @@ RenderSettings:
   m_ReflectionBounces: 5
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
-  m_Sun: {fileID: 0}
+  m_Sun: {fileID: 4201218285854759163}
   m_IndirectSpecularColor: {r: 0.022013346, g: 0.04360445, b: 0.32257664, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
@@ -97,8 +97,8 @@ LightmapSettings:
     m_ExportTrainingData: 0
     m_TrainingDataDestination: TrainingData
     m_LightProbeSampleCountMultiplier: 4
-  m_LightingDataAsset: {fileID: 112000000, guid: 642dfdd18fa1b13429a4e61b4392f15e, type: 2}
-  m_LightingSettings: {fileID: 4890085278179872738, guid: 7a21fc1defa56d54fa8e231b560f5c63, type: 2}
+  m_LightingDataAsset: {fileID: 0}
+  m_LightingSettings: {fileID: 4890085278179872738, guid: 462e0f4dad13720488bfa187d5f0d0cb, type: 2}
 --- !u!196 &4
 NavMeshSettings:
   serializedVersion: 2
@@ -185,6 +185,7 @@ GameObject:
   - component: {fileID: 1087908270}
   - component: {fileID: 1087908269}
   - component: {fileID: 1087908268}
+  - component: {fileID: 1087908271}
   m_Layer: 0
   m_Name: WorldZuuljedusHome
   m_TagString: Untagged
@@ -206,9 +207,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   type: 2
   objectId: 56925a80-f3d7-40c3-ab06-3d2b299ab77b
-  randomNum: 18997374
+  randomNum: 37675001
   unityVersion: 2021.3.23f1
-  cckVersion: 3.10:129
+  cckVersion: 3.10:132
 --- !u!114 &1087908269
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -302,6 +303,21 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1087908271
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1087908267}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 70e2beb286f4c1b4690755891d0604a5, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  localOnly: 1
+  asset: {fileID: 2805197760792257560, guid: 5932570edda48bf4883ae33552e42a10, type: 3}
+  boundObjects: []
 --- !u!1001 &1678194293
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -592,10 +608,15 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4949943031510521458, guid: 5b05b6930240ba8419f2a52a301f856a, type: 3}
       propertyPath: guid
-      value: 014797f0-ca14-4e3c-9193-35d77a3d829e
+      value: 1f4ed0ba-e405-43d3-8bd0-3322f66d31de
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 5b05b6930240ba8419f2a52a301f856a, type: 3}
+--- !u!108 &4201218285854759163 stripped
+Light:
+  m_CorrespondingSourceObject: {fileID: 7322195066829381736, guid: 5b05b6930240ba8419f2a52a301f856a, type: 3}
+  m_PrefabInstance: {fileID: 4201218285854759162}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &7128912020848670567
 PrefabInstance:
   m_ObjectHideFlags: 0

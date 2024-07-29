@@ -229,12 +229,14 @@ Shader "Leviant's Shaders/ScreenSpace Ubershader v2.8"
 
 			struct appdata
 			{
+				UNITY_VERTEX_INPUT_INSTANCE_ID  // inserted by FixShadersRightEye.cs
 				float4 vertex : POSITION;
 				float3 texcoord : TEXCOORD0; //xyz - Particle center
 			};
 
 			struct v2f 
 			{
+				UNITY_VERTEX_OUTPUT_STEREO  // inserted by FixShadersRightEye.cs
 				float4 pos : SV_POSITION;
 				float4 grabPos : TEXCOORD0;
 				float4 uv : TEXCOORD1;     //[0 .. 1] overlayScreenSpace
@@ -426,6 +428,8 @@ Shader "Leviant's Shaders/ScreenSpace Ubershader v2.8"
 			v2f vert(appdata v) 
 			{
 				v2f o;
+				UNITY_SETUP_INSTANCE_ID(v);  // inserted by FixShadersRightEye.cs
+				UNITY_INITIALIZE_VERTEX_OUTPUT_STEREO(o);  // inserted by FixShadersRightEye.cs
 				UNITY_INITIALIZE_OUTPUT(v2f, o);
 			#ifdef UNITY_SINGLE_PASS_STEREO
 				float3 nonStereoCameraPosition = (unity_StereoWorldSpaceCameraPos[0] + unity_StereoWorldSpaceCameraPos[1])*0.5;

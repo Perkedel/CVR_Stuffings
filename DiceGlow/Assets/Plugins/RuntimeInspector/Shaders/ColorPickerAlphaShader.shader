@@ -1,4 +1,4 @@
-﻿// Upgrade NOTE: replaced 'mul(UNITY_MATRIX_MVP,*)' with 'UnityObjectToClipPos(*)'
+// Upgrade NOTE: replaced 'mul(UNITY_MATRIX_MVP,*)' with 'UnityObjectToClipPos(*)'
 
 Shader "UI/ColorPickerAlpha" 
 {
@@ -54,6 +54,7 @@ Shader "UI/ColorPickerAlpha"
 				float4 vertex : POSITION;
 				float4 texcoord0 : TEXCOORD0;
 				fixed4 color : COLOR0;
+				UNITY_VERTEX_INPUT_INSTANCE_ID  // inserted by FixShadersRightEye.cs
 			};
 			
 			struct fragIN
@@ -61,12 +62,15 @@ Shader "UI/ColorPickerAlpha"
 				float4 pos : SV_POSITION;
 				float2 uv : TEXCOORD0;
 				fixed4 color : COLOR0;
+				UNITY_VERTEX_OUTPUT_STEREO  // inserted by FixShadersRightEye.cs
 			};
 
 			//Fill the vert struct
 			fragIN vert (vertIN v)
 			{
 				fragIN o;
+				UNITY_SETUP_INSTANCE_ID(v);  // inserted by FixShadersRightEye.cs
+				UNITY_INITIALIZE_VERTEX_OUTPUT_STEREO(o);  // inserted by FixShadersRightEye.cs
 				
 				o.pos = UnityObjectToClipPos(v.vertex);
 				o.uv = v.texcoord0;

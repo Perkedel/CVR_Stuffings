@@ -46,15 +46,19 @@ Shader "FREE Food Pack/Food" {
                 float4 vertex : POSITION;
                 float3 normal : NORMAL;
                 float2 texcoord0 : TEXCOORD0;
+                UNITY_VERTEX_INPUT_INSTANCE_ID  // inserted by FixShadersRightEye.cs
             };
             struct VertexOutput {
                 float4 pos : SV_POSITION;
                 float2 uv0 : TEXCOORD0;
                 float4 posWorld : TEXCOORD1;
                 float3 normalDir : TEXCOORD2;
+                UNITY_VERTEX_OUTPUT_STEREO  // inserted by FixShadersRightEye.cs
             };
             VertexOutput vert (VertexInput v) {
                 VertexOutput o = (VertexOutput)0;
+                UNITY_SETUP_INSTANCE_ID(v);  // inserted by FixShadersRightEye.cs
+                UNITY_INITIALIZE_VERTEX_OUTPUT_STEREO(o);  // inserted by FixShadersRightEye.cs
                 o.uv0 = v.texcoord0;
                 o.normalDir = UnityObjectToWorldNormal(v.normal);
                 float4 node_9990 = _Time + _TimeEditor;
@@ -99,13 +103,17 @@ Shader "FREE Food Pack/Food" {
             struct VertexInput {
                 float4 vertex : POSITION;
                 float3 normal : NORMAL;
+                UNITY_VERTEX_INPUT_INSTANCE_ID  // inserted by FixShadersRightEye.cs
             };
             struct VertexOutput {
                 V2F_SHADOW_CASTER;
                 float3 normalDir : TEXCOORD1;
+                UNITY_VERTEX_OUTPUT_STEREO  // inserted by FixShadersRightEye.cs
             };
             VertexOutput vert (VertexInput v) {
                 VertexOutput o = (VertexOutput)0;
+                UNITY_SETUP_INSTANCE_ID(v);  // inserted by FixShadersRightEye.cs
+                UNITY_INITIALIZE_VERTEX_OUTPUT_STEREO(o);  // inserted by FixShadersRightEye.cs
                 o.normalDir = UnityObjectToWorldNormal(v.normal);
                 float4 node_9990 = _Time + _TimeEditor;
                 v.vertex.xyz += ((_push*(sin((node_9990.g*_Speed))*0.5+0.5))*v.normal);

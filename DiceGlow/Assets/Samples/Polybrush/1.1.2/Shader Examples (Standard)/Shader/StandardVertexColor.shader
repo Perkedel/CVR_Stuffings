@@ -49,6 +49,7 @@ Shader "Polybrush/Standard Vertex Color" {
                 float2 texcoord1 : TEXCOORD1;
                 float2 texcoord2 : TEXCOORD2;
                 float4 vertexColor : COLOR;
+                UNITY_VERTEX_INPUT_INSTANCE_ID  // inserted by FixShadersRightEye.cs
             };
             struct VertexOutput {
                 float4 pos : SV_POSITION;
@@ -65,9 +66,12 @@ Shader "Polybrush/Standard Vertex Color" {
                 #if defined(LIGHTMAP_ON) || defined(UNITY_SHOULD_SAMPLE_SH)
                     float4 ambientOrLightmapUV : TEXCOORD10;
                 #endif
+                UNITY_VERTEX_OUTPUT_STEREO  // inserted by FixShadersRightEye.cs
             };
             VertexOutput vert (VertexInput v) {
                 VertexOutput o = (VertexOutput)0;
+                UNITY_SETUP_INSTANCE_ID(v);  // inserted by FixShadersRightEye.cs
+                UNITY_INITIALIZE_VERTEX_OUTPUT_STEREO(o);  // inserted by FixShadersRightEye.cs
                 o.uv0 = v.texcoord0;
                 o.uv1 = v.texcoord1;
                 o.uv2 = v.texcoord2;
@@ -240,6 +244,7 @@ Shader "Polybrush/Standard Vertex Color" {
                 float2 texcoord1 : TEXCOORD1;
                 float2 texcoord2 : TEXCOORD2;
                 float4 vertexColor : COLOR;
+                UNITY_VERTEX_INPUT_INSTANCE_ID  // inserted by FixShadersRightEye.cs
             };
             struct VertexOutput {
                 float4 pos : SV_POSITION;
@@ -253,9 +258,12 @@ Shader "Polybrush/Standard Vertex Color" {
                 float4 vertexColor : COLOR;
                 LIGHTING_COORDS(7,8)
                 UNITY_FOG_COORDS(9)
+                UNITY_VERTEX_OUTPUT_STEREO  // inserted by FixShadersRightEye.cs
             };
             VertexOutput vert (VertexInput v) {
                 VertexOutput o = (VertexOutput)0;
+                UNITY_SETUP_INSTANCE_ID(v);  // inserted by FixShadersRightEye.cs
+                UNITY_INITIALIZE_VERTEX_OUTPUT_STEREO(o);  // inserted by FixShadersRightEye.cs
                 o.uv0 = v.texcoord0;
                 o.uv1 = v.texcoord1;
                 o.uv2 = v.texcoord2;
@@ -365,6 +373,7 @@ Shader "Polybrush/Standard Vertex Color" {
                 float2 texcoord1 : TEXCOORD1;
                 float2 texcoord2 : TEXCOORD2;
                 float4 vertexColor : COLOR;
+                UNITY_VERTEX_INPUT_INSTANCE_ID  // inserted by FixShadersRightEye.cs
             };
             struct VertexOutput {
                 float4 pos : SV_POSITION;
@@ -373,9 +382,12 @@ Shader "Polybrush/Standard Vertex Color" {
                 float2 uv2 : TEXCOORD2;
                 float4 posWorld : TEXCOORD3;
                 float4 vertexColor : COLOR;
+                UNITY_VERTEX_OUTPUT_STEREO  // inserted by FixShadersRightEye.cs
             };
             VertexOutput vert (VertexInput v) {
                 VertexOutput o = (VertexOutput)0;
+                UNITY_SETUP_INSTANCE_ID(v);  // inserted by FixShadersRightEye.cs
+                UNITY_INITIALIZE_VERTEX_OUTPUT_STEREO(o);  // inserted by FixShadersRightEye.cs
                 o.uv0 = v.texcoord0;
                 o.uv1 = v.texcoord1;
                 o.uv2 = v.texcoord2;

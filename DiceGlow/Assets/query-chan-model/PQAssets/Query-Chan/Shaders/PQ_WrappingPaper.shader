@@ -49,6 +49,7 @@ Shader "PQ/PQ_WrappingPaper" {
                 float3 normal : NORMAL;
                 float4 tangent : TANGENT;
                 float2 texcoord0 : TEXCOORD0;
+                UNITY_VERTEX_INPUT_INSTANCE_ID  // inserted by FixShadersRightEye.cs
             };
             struct VertexOutput {
                 float4 pos : SV_POSITION;
@@ -58,9 +59,12 @@ Shader "PQ/PQ_WrappingPaper" {
                 float3 tangentDir : TEXCOORD3;
                 float3 binormalDir : TEXCOORD4;
                 LIGHTING_COORDS(5,6)
+                UNITY_VERTEX_OUTPUT_STEREO  // inserted by FixShadersRightEye.cs
             };
             VertexOutput vert (VertexInput v) {
                 VertexOutput o;
+                UNITY_SETUP_INSTANCE_ID(v);  // inserted by FixShadersRightEye.cs
+                UNITY_INITIALIZE_VERTEX_OUTPUT_STEREO(o);  // inserted by FixShadersRightEye.cs
                 o.uv0 = v.texcoord0;
                 o.normalDir = mul(float4(v.normal,0), unity_WorldToObject).xyz;
                 o.tangentDir = normalize( mul( unity_ObjectToWorld, float4( v.tangent.xyz, 0.0 ) ).xyz );
@@ -142,6 +146,7 @@ Shader "PQ/PQ_WrappingPaper" {
                 float3 normal : NORMAL;
                 float4 tangent : TANGENT;
                 float2 texcoord0 : TEXCOORD0;
+                UNITY_VERTEX_INPUT_INSTANCE_ID  // inserted by FixShadersRightEye.cs
             };
             struct VertexOutput {
                 float4 pos : SV_POSITION;
@@ -151,9 +156,12 @@ Shader "PQ/PQ_WrappingPaper" {
                 float3 tangentDir : TEXCOORD3;
                 float3 binormalDir : TEXCOORD4;
                 LIGHTING_COORDS(5,6)
+                UNITY_VERTEX_OUTPUT_STEREO  // inserted by FixShadersRightEye.cs
             };
             VertexOutput vert (VertexInput v) {
                 VertexOutput o;
+                UNITY_SETUP_INSTANCE_ID(v);  // inserted by FixShadersRightEye.cs
+                UNITY_INITIALIZE_VERTEX_OUTPUT_STEREO(o);  // inserted by FixShadersRightEye.cs
                 o.uv0 = v.texcoord0;
                 o.normalDir = mul(float4(v.normal,0), unity_WorldToObject).xyz;
                 o.tangentDir = normalize( mul( unity_ObjectToWorld, float4( v.tangent.xyz, 0.0 ) ).xyz );

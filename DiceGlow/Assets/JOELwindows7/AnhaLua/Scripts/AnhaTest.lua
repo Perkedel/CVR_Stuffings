@@ -152,6 +152,8 @@ local runsOnSay = {
 local whoLeft = ''
 local lastAvatarLoadEventSay = ''
 local sdrawGravitySay = ''
+local profilePictureQuad = nil -- BoundObjects Quad!!!!
+local profilePictureQuadCompo = nil -- & the Mesh Renderer
 
 
 function DebugPrint(message)
@@ -262,6 +264,51 @@ function OnRemotePlayerAvatarClear(avatar, remotePlayer)
     lastAvatarLoadEventSay = 'Remote Player Avatar Cleared: ' .. remotePlayer.Username .. ' dropped ' .. avatar.AvatarID
 end
 
+function OnPlayerProfileImage(texture, player, playerMeshRenderer)
+    -- https://documentation.abinteractive.net/cck/lua/examples/player-profile-picture/
+    print("Received the Player Profile Image for user " .. player.UserID .. "! " .. tostring(texture))
+    if texture == nil then
+        print("Unfortunately it was nil :(")
+        return
+    end
+    -- Get the current material on the meshrenderer and set the texture
+    -- The material SetTexture requires a Texture instance, and not Texture2D
+    -- which is why we called GetProfileImage with the second arg true, so the
+    -- texture is returned as a Texture instead of Texture2D
+    local materialInstance = playerMeshRenderer.material
+    materialInstance.SetTexture("_MainTex", texture)
+end
+
+function OnAvatarImage(texture, avatar, avatarMeshRenderer)
+    -- https://documentation.abinteractive.net/cck/lua/examples/player-profile-picture/
+    print("Received the Avatar Profile Image for avatar " .. avatar.AvatarID .. "! " .. tostring(texture))
+    if texture == nil then
+        print("Unfortunately it was nil :(")
+        return
+    end
+    -- Get the current material on the meshrenderer and set the texture
+    -- The material SetTexture requires a Texture instance, and not Texture2D
+    -- which is why we called GetProfileImage with the second arg true, so the
+    -- texture is returned as a Texture instead of Texture2D
+    local materialInstance = avatarMeshRenderer.material
+    materialInstance.SetTexture("_MainTex", texture)
+end
+
+function InitedProfilePic()
+    -- https://docs.unity3d.com/ScriptReference/Material.SetTexture.html
+    -- https://discord.com/channels/410126604237406209/1240763673346183279/1267338517990871110 coconut capybara
+    -- https://documentation.abinteractive.net/cck/lua/examples/player-profile-picture/
+    local player = PlayerAPI.LocalPlayer
+
+    if profilePictureQuadCompo then
+        player.RequestProfileImage(function(texture)
+            OnPlayerProfileImage(texture, player, profilePictureQuadCompo)
+        end, true)
+    else
+    
+    end
+end
+
 function UpdateInstallSay()
     sayPlayersFuzzy = ''
     luaStatusSay = ''
@@ -353,6 +400,7 @@ function Start()
     spounThingy = BoundObjects.Spoun
     yikYukThingy = BoundObjects.IyakYikYuk
     tmpThingy = BoundObjects.Titler
+    profilePictureQuad = BoundObjects.ProfilePic
     if tmpThingy then
         -- tmpTextItself = tmpThingy.GetComponent(TMP)
         -- tmpTextItself = tmpThingy:GetComponent("TextMeshPro.TMP")
@@ -419,6 +467,22 @@ function Start()
         print('AH PECK NECK NO TMP!')
     end
     print('huhu')
+
+    -- profile pic
+    if profilePictureQuad then
+        -- profilePictureQuad.material.mainTexture = Network.GetAvatarTexture
+        profilePictureQuadCompo = profilePictureQuad:GetComponent("UnityEngine.Renderer")
+        print('Pls obtain profile pic')
+        if profilePictureQuadCompo then
+            print('profile pic compo ok')
+            profilePictureQuadCompo.material.EnableKeyword("_MainTex")
+        else
+            print('profile pic compo faile')
+        end
+    else
+        print('profile pic quad gone')
+    end
+    InitedProfilePic()
 
     RandomizeQuote()
 end

@@ -104,6 +104,7 @@ SubShader {
 			float2	uv			: TEXCOORD1;
 			float2	uv2			: TEXCOORD3;
 			float	alphaClip	: TEXCOORD2;
+			UNITY_VERTEX_OUTPUT_STEREO  // inserted by FixShadersRightEye.cs
 		};
 
 		uniform float4 _MainTex_ST;
@@ -115,6 +116,8 @@ SubShader {
 		v2f vert( appdata_base v )
 		{
 			v2f o;
+			UNITY_SETUP_INSTANCE_ID(v);  // inserted by FixShadersRightEye.cs
+			UNITY_INITIALIZE_VERTEX_OUTPUT_STEREO(o);  // inserted by FixShadersRightEye.cs
 			TRANSFER_SHADOW_CASTER(o)
 			o.uv = TRANSFORM_TEX(v.texcoord, _MainTex);
 			o.uv2 = TRANSFORM_TEX(v.texcoord, _OutlineTex);

@@ -20,11 +20,14 @@ Shader "Hidden/UnityChan/MirrorReflection"
 				float2 uv : TEXCOORD0;
 				float4 refl : TEXCOORD1;
 				float4 pos : SV_POSITION;
+				UNITY_VERTEX_OUTPUT_STEREO  // inserted by FixShadersRightEye.cs
 			};
 			float4 _MainTex_ST;
 			v2f vert(float4 pos : POSITION, float2 uv : TEXCOORD0)
 			{
 				v2f o;
+				UNITY_SETUP_INSTANCE_ID(pos);  // inserted by FixShadersRightEye.cs
+				UNITY_INITIALIZE_VERTEX_OUTPUT_STEREO(o);  // inserted by FixShadersRightEye.cs
 				o.pos = UnityObjectToClipPos (pos);
 				o.uv = TRANSFORM_TEX(uv, _MainTex);
 				o.refl = ComputeScreenPos (o.pos);

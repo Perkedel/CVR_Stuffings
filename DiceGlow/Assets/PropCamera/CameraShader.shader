@@ -1,4 +1,4 @@
-﻿Shader "Custom/PropCameraShader" {
+Shader "Custom/PropCameraShader" {
 	Properties{
 		_MainTex("Txture", 2D) = "white" {}
 		_Alpha("Alpha" , Float) = 1
@@ -45,6 +45,8 @@
 
 			v2f vert(appdata v) {
 				v2f o;
+				UNITY_SETUP_INSTANCE_ID(v);  // inserted by FixShadersRightEye.cs
+				UNITY_INITIALIZE_VERTEX_OUTPUT_STEREO(o);  // inserted by FixShadersRightEye.cs
 
 				UNITY_TRANSFER_INSTANCE_ID(v, o);
 

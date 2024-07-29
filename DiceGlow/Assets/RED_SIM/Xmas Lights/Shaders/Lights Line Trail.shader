@@ -73,10 +73,13 @@ float rand_1_05(in float2 uv)
         struct v2g {
             float4 vertex : POSITION;
             float2 texcoord : TEXCOORD0;
+            UNITY_VERTEX_OUTPUT_STEREO  // inserted by FixShadersRightEye.cs
         };
 
         v2g vert (float4 vertex : POSITION, float2 texcoord : TEXCOORD0) {
             v2g o = (v2g)0;
+            UNITY_SETUP_INSTANCE_ID(vertex);  // inserted by FixShadersRightEye.cs
+            UNITY_INITIALIZE_VERTEX_OUTPUT_STEREO(o);  // inserted by FixShadersRightEye.cs
             o.vertex = vertex;
             o.texcoord = texcoord;
             return o;

@@ -1,4 +1,4 @@
-﻿Shader "Neitri/Graffiti Wall/Wall Surface" {
+Shader "Neitri/Graffiti Wall/Wall Surface" {
 	Properties {
 		_Color ("Color", Color) = (1,1,1,1)
 		_MainTex ("Albedo (RGB)", 2D) = "white" {}

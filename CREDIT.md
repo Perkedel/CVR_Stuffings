@@ -9736,3 +9736,22 @@ https://youtu.be/qzhuWRQWK5I?si=PygoI274O32LWD5a
 - https://assetstore.unity.com/packages/3d/environments/landscapes/rocky-hills-environment-light-pack-89939 ROCKY HILLS ENVIRONMENT FREE ASSET Toby Fredson
 - https://discord.com/channels/1069428515197435964/1265652796183678988/1265652796183678988 pls download fazclair sexmod mc
 - byon game engine
+- Click the centre of the hamster wheel!
+- https://discord.com/channels/410126604237406209/766086942005526579/1266226153958408315 SnekMach
+- https://github.com/ltmx/ShaderForge cool and good thacc
+- https://github.com/z3y/ShaderGraph/tree/994a855f664028c6a98a53393c814f87f55c0460
+- https://discord.com/channels/410126604237406209/1240763673346183279/1266198371056746496
+- https://discord.com/channels/1001388809184870441/1001388935819309126/1266375270412324946
+- https://discord.com/channels/410126604237406209/1237590087781584958/1266375038173577258 Corric & Patchuri
+- https://discord.com/channels/410126604237406209/588350685255565344/1266348181608992869
+- https://github.com/aarron-lee/legion-go-tricks
+- https://discord.com/channels/410126604237406209/797279576459968555/1266400904332972073
+- https://youtu.be/68HdTGrB5QQ?si=FnZgVzwsqwFq8dAJ
+- https://www.youtube.com/watch?v=DPqoO1jZh7I
+- https://www.youtube.com/watch?v=qrG2MUNneHc
+- https://archive.org/details/yamaha-x5438a0
+- https://chunkerbuns.gumroad.com/ ChunkerBuns
+- https://discord.com/channels/410126604237406209/766086942005526579/1267288226167652505
+- https://discord.com/channels/410126604237406209/766086942005526579/1075471405161926717 RedMage / AkaiMage already fixed VRC Cancerspace to have SPS-I!!!
+- https://github.com/AkaiMage/VRC-Cancerspace/commit/7ae023518cbbaacaa3de879259548b2bdcf53bba yey!!! cool and good
+- https://discord.com/channels/410126604237406209/1240763673346183279/1267102780238073856
