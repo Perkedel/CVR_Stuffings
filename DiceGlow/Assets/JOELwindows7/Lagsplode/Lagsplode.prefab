@@ -454,6 +454,7 @@ MonoBehaviour:
   allowedTypes:
   - chainReactBomb
   - fire
+  - shotgunblast
   allowParticleInteraction: 1
   enterTasks:
   - settingIndex: 1
@@ -11511,6 +11512,7 @@ Transform:
   - {fileID: 238339668621827354}
   - {fileID: 1777475098274225180}
   - {fileID: 7944112281665771723}
+  - {fileID: 4854140012056753100}
   m_Father: {fileID: 3993638810615261317}
   m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -11803,7 +11805,7 @@ MonoBehaviour:
   objectId: 89a7a56a-f391-4e5b-90f9-240ef72cd4d5
   randomNum: 
   unityVersion: 2021.3.23f1
-  cckVersion: 3.9:107
+  cckVersion: 3.10:132
 --- !u!95 &2479547647090774474
 Animator:
   serializedVersion: 5
@@ -16993,3 +16995,62 @@ Transform:
   m_Father: {fileID: 6076452663506598678}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &9032209978164795826
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4854140012056753100}
+  - component: {fileID: 6853515931109743605}
+  - component: {fileID: 2397821299308276595}
+  m_Layer: 0
+  m_Name: GarrinShotgunBlast
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4854140012056753100
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 9032209978164795826}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 1
+  m_Children: []
+  m_Father: {fileID: 7444495324035019622}
+  m_RootOrder: 4
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!135 &6853515931109743605
+SphereCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 9032209978164795826}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 1
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Radius: 50
+  m_Center: {x: 0, y: 0, z: 0}
+--- !u!114 &2397821299308276595
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 9032209978164795826}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 39d87b8783794dfd81ce396483019cbb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  type: shotgunblast
