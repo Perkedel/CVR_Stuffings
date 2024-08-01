@@ -9756,3 +9756,17 @@ https://youtu.be/qzhuWRQWK5I?si=PygoI274O32LWD5a
 - https://github.com/AkaiMage/VRC-Cancerspace/commit/7ae023518cbbaacaa3de879259548b2bdcf53bba yey!!! cool and good
 - https://discord.com/channels/410126604237406209/1240763673346183279/1267102780238073856
 - https://www.poiyomi.com/
+- https://github.com/Andersama/obs-asio
+- https://discord.com/channels/410126604237406209/853363076878696480/1267651082297806848
+- interaction nighly is available! pls report bug! UnityUI scroll view breaks with expand alignment. create minimum prop reproduction
+- https://discord.com/channels/410126604237406209/682645682968199168/1267948478927994983
+- https://louiii.gumroad.com **GONE**
+- https://hllhvnd.gumroad.com
+- multiply 0 add. thancc garrin. min 0, max 2. poiyomi emission special fx
+- boobieverse project 2025
+- https://www.deviantart.com/nesiclor/art/Stooben-Boobieverse-Kaiju-Man-999582851
+- https://discord.com/channels/410126604237406209/766086942005526579/1267568676153069628
+- https://x.com/FNF_Developers/status/1818756661890228397 roadmap
+- https://x.com/i/jf/olympics/home?tabId=146086608393534080
+- pls Neon0Blue test world! There is ceiling screen & a a a a a a a a a a a 3D stereoscopic shadered video screen
+- https://www.lipsum.com/
