@@ -9777,3 +9777,16 @@ https://youtu.be/qzhuWRQWK5I?si=PygoI274O32LWD5a
 - https://assetstore.unity.com/packages/2d/gui/sci-fi-gui-skin-15606
 - https://github.com/orgs/community/discussions/16925
 - https://discord.com/channels/410126604237406209/1240763673346183279/1268944217531617340 NAK, Tezmal
+- https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/removing-sensitive-data-from-a-repository
+- https://docs.github.com/en/code-security/secret-scanning/push-protection-for-repositories-and-organizations#about-push-protection-for-repositories-and-organizations
+- https://exoainteractive.gumroad.com/
+- https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.core/about/about_history?view=powershell-7.4
+- https://github.com/orgs/community/discussions/16925
+- https://github.blog/changelog/2023-12-14-new-markdown-extension-alerts-provide-distinctive-styling-for-significant-content/
+- https://lolatron.gumroad.com/
+- https://github.com/LucHeart/UnityShaders
+- https://github.com/wh0am15533/UnityPackageBrowser
+- https://unitypackage-viewer.mizle.net/
+- https://github.com/dakyneko/DakyModsCVR/blob/master/ActionMenu/README.md
+- https://feedback.abinteractive.net/p/ui-one-handed-vr-specific-spiralized-radial-menu-for-aas
+- https://github.com/dakyneko/DakyModsCVR
