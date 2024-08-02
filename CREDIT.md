@@ -9770,3 +9770,10 @@ https://youtu.be/qzhuWRQWK5I?si=PygoI274O32LWD5a
 - https://x.com/i/jf/olympics/home?tabId=146086608393534080
 - pls Neon0Blue test world! There is ceiling screen & a a a a a a a a a a a 3D stereoscopic shadered video screen
 - https://www.lipsum.com/
+- https://devblogs.microsoft.com/scripting/powertip-find-the-last-command-powershell-ran/
+- https://devblogs.microsoft.com/scripting/powertip-find-the-last-command-powershell-ran/
+- https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.core/about/about_history?view=powershell-7.4
+- https://stackoverflow.com/questions/44840644/how-do-i-escape-quotes-in-a-powershell-string
+- https://assetstore.unity.com/packages/2d/gui/sci-fi-gui-skin-15606
+- https://github.com/orgs/community/discussions/16925
+- https://discord.com/channels/410126604237406209/1240763673346183279/1268944217531617340 NAK, Tezmal

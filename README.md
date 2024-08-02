@@ -10,9 +10,12 @@ Everything here shall be uploaded & available for all gamers to contribute right
 
 ## WARNING!!! MAY CONTAINS NSFW
 
-**All employees are required to be in their mature age (most beings are 18+) in order to volunteer**. I mean, all Perkedel employees in any division basically requires 18+ years old, which is the minimum appropriate age of accepting paid jobs & contracts. If there is something that requires special condition for the target job, we can use the technology to pitch up for the work, OR using their natural abilities. You know, mix it up together? It's common industry practice! Wait where are we? OH, you must be adult. no matter what.
-
-Additionally, proper mentals in specifics pertaining encounter of nudity & sexualized works **are required**. I mean all Perkedel employees in any division are expected to say okay with lewd works, we are company of culture! We don't hire losers. only winners. We don't care if you are handsome or beautiful (not like most of local companies in my areas), We want works. You can do it, willing do it, even by others is disgusting? You're in! Yeah, I know, we're trying everyday.
+> [!WARNING]
+> May Contains NSFW
+> 
+> **All employees are required to be in their mature age (most beings are 18+) in order to volunteer**. I mean, all Perkedel employees in any division basically requires 18+ years old, which is the minimum appropriate age of accepting paid jobs & contracts. If there is something that requires special condition for the target job, we can use the technology to pitch up for the work, OR using their natural abilities. You know, mix it up together? It's common industry practice! Wait where are we? OH, you must be adult. no matter what.
+> 
+> Additionally, proper mentals in specifics pertaining encounter of nudity & sexualized works **are required**. I mean all Perkedel employees in any division are expected to say okay with lewd works, we are company of culture! We don't hire losers. only winners. We don't care if you are handsome or beautiful (not like most of local companies in my areas), We want works. You can do it, willing do it, even by others is disgusting? You're in! Yeah, I know, we're trying everyday.
 
 ## Disclaimer
 
@@ -22,6 +25,7 @@ In event of any presence of sponsorship in any form, no works & creations includ
 
 [Click here to learn more about Terms of Service of Alpha Blend Interactive](https://documentation.abinteractive.net/official/legal/tos/)
 
+> [!NOTE]
 > Profanity is allowed in this premise. Ensure to use this permission **only** to strengthen your quotes, and **avoid unecessary & irrelevant overboard derogatory attacks** against another parties.
 
 ## Announcements
@@ -280,6 +284,7 @@ You can define the type of this pointer in the field `...` with any string you'd
 
 Now, this pointer will only trigger that allows such type / have such type in the list, e.g. above, any trigger that includes `index`.
 
+> [!NOTE]
 > BUG: (Pls reconfirm) To ensure any pointer could trigger any Pointer Trigger & `CVRInteractable` (?), **you must hold that GameObject** (not drop or let go), otherwise, the trigger will ignore it.
 > - Pulled pin bomb dropped + other fresh bomb = FAIL
 > - Pulled pin bomb dropped **held** + other fresh bomb = WORK
@@ -376,7 +381,8 @@ Pay attention to these files. You need to clone the following to your own folder
 - `EmuMat.material` & `Register.material`
 - `program.png`
 
-> Tips: Make sure to clone the file within the Unity editor, so that the `.meta` files are aligned with each file.
+> [!TIP]
+> Make sure to clone the file within the Unity editor, so that the `.meta` files are aligned with each file.
 
 ## UUIDs GUIDs
 
@@ -847,6 +853,7 @@ Per Archive Protocol established on 2023, It is now forbidden to place assets un
 
 It is forbidden to place assets under login requirement.
 
+> [!CAUTION]
 > Paid (Actively on sale) assets are still forbidden to be unignored, due to strength of Earth people mental warfare & artileries. There shall no be provocation allowed at this time.
 > You sure you'll fulfill your promise on eventually releasing features into free tier? I don't have time to hear whether you did, so feel free treat as `breaking promise`. Right?? ... uh.. yeah, in my opinion.
 
@@ -856,6 +863,7 @@ CVR trusted [Realistic Car Controller](https://assetstore.unity.com/packages/too
 
 Indie Scripting support therefore is a must to unshackle our creativity away from requiring such asset just to get there.
 
+> [!CAUTION]
 > Please do not include nor even sparsdated RCC! Keep this asset folder to yourself 😉.
 
 <!-- and your family. Salam X0p1r4t3! -->
@@ -960,6 +968,7 @@ Observing:
 - This. Following fate of ChilloutVR for its supporting status, and observing populations of userbase in common setting (normal & modded), not including post-apocalypse userbase (i.e. Overmodded Frankensteined already abandoned CVR).
 - Society. Social condition pertaining to the organic beings, excluding inorganic beings (such as sentient AI lifeform).
 
+> [!NOTE]
 > It has been rumored that extra factor of death are believed to be paid & private (proprietary, exclusive to certain people) assets. Each Assets you need to buy & never accessble are each nail in these coffins, one to Unity, twice to CVR. Perkedel states that these are our employees' opinion and we will observe whether or not that this opinion is convertible into facts, by opening opportunities such as Free just for Perkedel atleast (Give assets to Joel for $0 willingly), and evaluate if such encouragement would remove enough amount of nails in the coffin.
 
 <!-- 
@@ -1014,7 +1023,8 @@ Below are available commissions. The status, name, and optional cost to get out 
 
 Ready to Inquire? Contact `JOELwindows7`, Discord. **Use below DM prefix!**
 
-> **WARNING**: If your commission involves paid assets such as RCC & you have not paid this commission, it will cause extra prolonged procrastinations! Pls lah, bayar dong, gw jatuh miskin cuman buat beli nih ori.
+> [!WARNING]
+> If your commission involves paid assets such as RCC & you have not paid this commission, it will cause extra prolonged procrastinations! Pls lah, bayar dong, gw jatuh miskin cuman buat beli nih ori.
 
 ### (INACTIVE) Props 0/20, US$5 + `assets_cost`/Service
 
@@ -1068,8 +1078,9 @@ Put this image onto some quads. This image is my promotion for gamers to check o
 
 ## Sauces Total
 
-> WARNING: Some Sauce URLs may contain NSFW. Viewer discretion is advised.  
-> WARNING: All Sauces lists below have been moved to the [new file](/CREDIT.md).
+> [!WARNING]
+> - Some Sauce URLs may contain NSFW. Viewer discretion is advised.  
+> - All Sauces lists below have been moved to the [new file](/CREDIT.md).
 
 Moved to `CREDIT.md`
 
