@@ -9790,3 +9790,5 @@ https://youtu.be/qzhuWRQWK5I?si=PygoI274O32LWD5a
 - https://github.com/dakyneko/DakyModsCVR/blob/master/ActionMenu/README.md
 - https://feedback.abinteractive.net/p/ui-one-handed-vr-specific-spiralized-radial-menu-for-aas
 - https://github.com/dakyneko/DakyModsCVR
+- https://discord.com/channels/410126604237406209/766086942005526579/1268992540426895563 vaportrails, Fearless7
+- https://discord.com/channels/410126604237406209/797279576459968555/1268541383078187059 Kbraid. attempt kjoy gun
