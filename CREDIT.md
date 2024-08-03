@@ -9792,3 +9792,11 @@ https://youtu.be/qzhuWRQWK5I?si=PygoI274O32LWD5a
 - https://github.com/dakyneko/DakyModsCVR
 - https://discord.com/channels/410126604237406209/766086942005526579/1268992540426895563 vaportrails, Fearless7
 - https://discord.com/channels/410126604237406209/797279576459968555/1268541383078187059 Kbraid. attempt kjoy gun
+- https://obsproject.com/blog/obs-studio-hybrid-mp4
+- https://ideas.obsproject.com/posts/30/an-audio-visualizer
+- https://www.vsxu.com/
+- https://obsproject.com/forum/resources/spectralizer.861/
+- https://github.com/univrsal/spectralizer/releases/tag/v1.3.4
+- https://obsproject.com/forum/resources/waveform.1423/
+- https://github.com/phandasm/waveform/releases/tag/v1.8.0
+- https://obsproject.com/blog/obs-studio-hybrid-mp4
