@@ -1,4 +1,4 @@
 # Luc's World Border Shader
 
-https://github.com/LucHeart/UnityShaders  
-https://github.com/LucHeart/UnityShaders/tree/master/WorldBorder
+- https://github.com/LucHeart/UnityShaders  
+- https://github.com/LucHeart/UnityShaders/tree/master/WorldBorder
