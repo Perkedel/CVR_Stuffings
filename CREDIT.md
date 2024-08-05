@@ -9800,3 +9800,21 @@ https://youtu.be/qzhuWRQWK5I?si=PygoI274O32LWD5a
 - https://obsproject.com/forum/resources/waveform.1423/
 - https://github.com/phandasm/waveform/releases/tag/v1.8.0
 - https://obsproject.com/blog/obs-studio-hybrid-mp4
+- https://oyasumisan.booth.pm
+- https://github.com/gsimone/gridbox-prototype-materials ciathyza prototype gridbox
+- https://www.reddit.com/r/Unity3D/comments/j2e35w/how_do_you_get_that_basic_grid_texture/
+- https://discord.com/channels/410126604237406209/1240763673346183279/1269694102883270666
+- https://discord.com/channels/410126604237406209/1237590087781584958/1269338898501210217
+- https://github.com/ChilloutVRModdingGroup/ModdingWiki/wiki/ModNetwork
+- https://github.com/ChilloutVRModdingGroup/ModdingWiki/wiki/Getting-Started
+- https://github.com/NotAKidoS/NAK_CVR_Mods/tree/main
+- https://github.com/fredsa/unity-ethan
+- https://discord.com/channels/410126604237406209/1004342700465733754/1269086685443002440
+- https://github.com/yt-dlp/yt-dlp/issues/10608
+- https://discord.com/channels/410126604237406209/588350770777161748/1268596698842660924
+- https://discord.com/channels/410126604237406209/588350770777161748/1268820562432622623
+- https://github.com/Activision/caldera
+- https://discord.com/channels/410126604237406209/588350770777161748/1269852453944295445 DragonSkyRunner
+- https://discord.com/channels/410126604237406209/588350685255565344/1269620794611204147
+- https://discord.com/channels/410126604237406209/588350726841827358/1269797201538977853
+- https://discord.com/channels/410126604237406209/588350726841827358/1269823807561007167
