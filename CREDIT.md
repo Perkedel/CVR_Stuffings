@@ -9819,3 +9819,10 @@ https://youtu.be/qzhuWRQWK5I?si=PygoI274O32LWD5a
 - https://discord.com/channels/410126604237406209/588350726841827358/1269797201538977853
 - https://discord.com/channels/410126604237406209/588350726841827358/1269823807561007167
 - https://www.patreon.com/posts/109528640
+- https://www.patreon.com/Tahlian/posts
+- https://assetstore.unity.com/packages/templates/tutorials/shader-calibration-scene-25422 **gone**
+- https://www.reddit.com/r/Unity3D/comments/j50i40/where_can_i_find_this_shader_test_scene/
+- https://discussions.unity.com/t/unity-shader-test-room-demonstration-video/582614/2
+- https://assetstore.unity.com/packages/3d/environments/character-test-environments-136364 that's not it!
+- https://github.com/LexdevTutorials/OverwatchShieldTemplate found again
+- https://lexdev.net/tutorials/case_studies/overwatch_shield.html

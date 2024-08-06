@@ -43,9 +43,10 @@ function Refresh()
 end
 
 function OnMouseDown()
-    if animCompo then
+    --[[if animCompo then
         animCompo.SetBool('Toggle', not animCompo.GetBool('Toggle'))
     end
+    ]]--
 end
 
 -- Start is called before the first frame update
@@ -71,9 +72,10 @@ function Update()
 end
 
 function LateUpdate()
-    refreshRemains = refreshRemains - UnityEngine.Time.deltaTime
+    --[[refreshRemains = refreshRemains - UnityEngine.Time.deltaTime
     if refreshRemains <= 0 then
         refreshRemains = refreshRate
         Refresh()
     end
+    ]]--
 end
