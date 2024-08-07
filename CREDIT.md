@@ -9826,3 +9826,22 @@ https://youtu.be/qzhuWRQWK5I?si=PygoI274O32LWD5a
 - https://assetstore.unity.com/packages/3d/environments/character-test-environments-136364 that's not it!
 - https://github.com/LexdevTutorials/OverwatchShieldTemplate found again
 - https://lexdev.net/tutorials/case_studies/overwatch_shield.html
+- https://discord.com/channels/410126604237406209/588350726841827358/1270137914751455383
+- pls add backyard in nest dnb inspired from cat tree cuties darkgamer (OK) & quakethorn (OK)
+- Overseer. each level has save data json file.
+- This is user account json file for Overseer DVD itself. this can store saves for levels. it is on a dedicated save folder of this account folder.
+- there is another dedicated save folder for each another game. 
+- ok
+- https://pixabay.com/id/music/search/dj%20music/
+- pls hashtag on the spawnable too! Lampu senter
+- pls put schedule on BagDNB news scrolls!!!
+- you can use Personal Gravity mod to drive on ceiling. thancc Tilda Azrisk!
+- https://assetstore.unity.com/packages/tools/utilities/magic-lightmap-switcher-built-in-rp-192332 **PAID**
+- https://www.reddit.com/r/Progressbar95/comments/1el78ld/pc_and_mobile/
+- https://www.reddit.com/r/Progressbar95/comments/1ehcwk4/no_way/
+- https://www.reddit.com/r/Progressbar95/
+- https://www.reddit.com/r/Progressbar95/comments/1ehqbab/progressbar_xb_air/
+- https://www.reddit.com/r/Progressbar95/comments/1eghxl5/the_first_missing_pb_magazine_cover_is_here_the/
+- https://www.reddit.com/r/Progressbar95/comments/1egsnz4/i_made_a_progressbar95_modding_server_guys/ progressbar modding
+- https://discord.com/channels/867567549858971669/1247673015274307615/1270192910473887844 DJZonk Viviklub. Minecraft server shutdown! Too few player than could pay billing
+- https://drive.google.com/file/d/1XKsYp5PobShAVb85M-ZJPXDxx6pTcq5C/view?usp=sharing here world download of Vivikraft. Identifying info on ftb chunk claim cleared
