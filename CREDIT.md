@@ -9846,3 +9846,8 @@ https://youtu.be/qzhuWRQWK5I?si=PygoI274O32LWD5a
 - https://discord.com/channels/867567549858971669/1247673015274307615/1270192910473887844 DJZonk Viviklub. Minecraft server shutdown! Too few player than could pay billing
 - https://drive.google.com/file/d/1XKsYp5PobShAVb85M-ZJPXDxx6pTcq5C/view?usp=sharing here world download of Vivikraft. Identifying info on ftb chunk claim cleared
 - https://sketchfab.com/CGbang
+- https://abinteractive.net/blog/status_report_august_2024 hah huh yeah!
+- infactive
+- https://youtu.be/bg5C_g4iYZo?si=tR4sWMKA0C3uCqAm blender vase
+- https://youtube.com/shorts/ag9XI-ucoO4?si=gSJM7wK8HpvbM53i ye BlenderVitals
+- https://youtu.be/QRIiBnFXVD8?si=535aihQj6G9NKEIn haah sequence vase
